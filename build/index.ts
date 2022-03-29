@@ -1,4 +1,4 @@
-import matches from "lodash/matches"
+import matches from "lodash/matches.js"
 
 import * as indices from "./indices";
 import { tags } from "./tags";
