@@ -1,5 +1,6 @@
 import { spawnSync } from "child_process";
 import * as readline from "readline";
+import semver from "semver";
 import fs from "fs/promises";
 import crypto from "crypto";
 import util from "util";
@@ -250,6 +251,13 @@ export async function find (value: FindIteratee | Partial<Anime>): Promise<Anime
 }
 `);
     //await fs.copyFile(path.resolve("./src/index.ts"), path.resolve("./build/index.ts"))
+
+    const pkg = JSON.parse(await fs.readFile(path.resolve("./package.json"), "utf-8"));
+    const version = semver.parse(pkg.version)!;
+
+    const now = new Date()
+    pkg.version = `${version.major}.${version.minor}.${version.patch}-${now.getFullYear()}.${now.getMonth() + 1}.${now.getDate()}`
+    await fs.writeFile(path.resolve("./package.json"), JSON.stringify(pkg, null, 4));
 
     draw("task completed");
     clearInterval(interval);
