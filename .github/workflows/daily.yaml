@@ -39,7 +39,7 @@ jobs:
       - name: publish changes
         run: |
           git add .
-          git commit --allow-empty-message
+          git commit --allow-empty-message -m ""
           git push
 
       - name: publish package
