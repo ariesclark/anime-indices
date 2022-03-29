@@ -3,6 +3,8 @@ name: Daily workflow
 on:
   schedule:
     - cron: "0 0 * * *"
+  push:
+    branches: [ master ]
   workflow_dispatch:
 
 jobs:
@@ -10,6 +12,35 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
 
-      - name: Run a one-line script
-        run: echo Hello, world!
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+
+      - uses: pnpm/action-setup@v2.0.1
+        with:
+          version: 6.0.2
+          run_install: false
+
+      - name: login to npm
+        run: |
+          echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_ACCESS_TOKEN }}" > ~/.npmrc
+          git config --global user.name "ariesclark"
+          npm whoami
+      - name: install dependencies
+        run: pnpm i
+
+      - name: build package
+        run: pnpm build
+
+      - name: publish changes
+        run: |
+          git add .
+          git commit --allow-empty-message
+          git push
+
+      - name: publish package
+        run: pnpm publish --no-git-checks
