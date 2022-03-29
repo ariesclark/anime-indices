@@ -55,7 +55,7 @@ const draw = (value: string): void => {
     readline.clearLine(process.stdout, 0);
     readline.cursorTo(process.stdout, 0);
 
-    const message = `t: ${formatMs(performance.now() - startTime)}, c: ${formatMs(performance.now() - lastDrawTime)} - ${value}`.slice(0, process.stdout.getWindowSize()[0]-2);
+    const message = `t: ${formatMs(performance.now() - startTime)}, c: ${formatMs(performance.now() - lastDrawTime)} - ${value}`;
     process.stdout.write(message);
 
     if (value !== lastDraw) {
