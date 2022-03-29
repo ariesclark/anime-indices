@@ -175,7 +175,7 @@ export const tags = ${serialize([...tagSet].sort())} as const;\
 `);
 
     await fs.writeFile(path.resolve("./build/index.ts"), `\
-import matches from "lodash/matches"
+import matches from "lodash/matches.js"
 
 import * as indices from "./indices";
 import { tags } from "./tags";

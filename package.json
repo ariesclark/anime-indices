@@ -1,7 +1,7 @@
 {
     "name": "anime-indices",
     "type": "module",
-    "version": "0.0.1-2022.3.29",
+    "version": "0.0.2",
     "description": "An indexed database of anime 🎉",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
