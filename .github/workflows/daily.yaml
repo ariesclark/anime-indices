@@ -37,10 +37,7 @@ jobs:
         run: pnpm build
 
       - name: publish changes
-        run: |
-          git add .
-          git commit --allow-empty-message -m ""
-          git push
+      - uses: stefanzweifel/git-auto-commit-action@v4
 
       - name: publish package
         run: pnpm publish --no-git-checks
