@@ -174,6 +174,8 @@ export const tags = ${serialize([...tagSet].sort())} as const;\
 `);
 
     await fs.writeFile(path.resolve("./build/index.ts"), `\
+import matches from "lodash/matches"
+
 import * as indices from "./indices";
 import { tags } from "./tags";
 
@@ -204,8 +206,6 @@ export interface Anime {
     relations: string[]
     tags: AnimeTag[]
 }
-
-const normalize = ${normalize.toString()};
 
 export async function get (key: string): Promise<Anime> {
     const [year, seasonIndex] = key.split("/");
@@ -243,7 +243,7 @@ export async function find (value: FindIteratee | Partial<Anime>): Promise<Anime
 
     console.log({ value });
     chunks = [...new Set(chunks.filter((anime) => {
-        return _.matches(value)(anime);
+        return matches(value)(anime);
     }))]
 
     return chunks;
