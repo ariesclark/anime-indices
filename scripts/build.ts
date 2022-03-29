@@ -1,4 +1,5 @@
 import { spawnSync } from "child_process";
+import * as readline from "readline";
 import fs from "fs/promises";
 import crypto from "crypto";
 import util from "util";
@@ -51,8 +52,8 @@ let lastDraw: string = "";
 let lastDrawTime = startTime;
 
 const draw = (value: string): void => {
-    process.stdout.clearLine(0);
-    process.stdout.cursorTo(0);
+    readline.clearLine(process.stdout, 0);
+    readline.cursorTo(process.stdout, 0);
 
     const message = `t: ${formatMs(performance.now() - startTime)}, c: ${formatMs(performance.now() - lastDrawTime)} - ${value}`.slice(0, process.stdout.getWindowSize()[0]-2);
     process.stdout.write(message);
