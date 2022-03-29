@@ -1,7 +1,7 @@
 {
     "name": "anime-indices",
     "type": "module",
-    "version": "0.0.1",
+    "version": "0.0.1-2022.3.29",
     "description": "An indexed database of anime 🎉",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -11,7 +11,13 @@
     "scripts": {
         "build": "node --loader ts-node/esm ./scripts/build.ts && tsc"
     },
-    "keywords": ["anime", "database", "index", "indices", "offline"],
+    "keywords": [
+        "anime",
+        "database",
+        "index",
+        "indices",
+        "offline"
+    ],
     "author": "",
     "license": "ISC",
     "devDependencies": {
