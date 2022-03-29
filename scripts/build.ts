@@ -56,7 +56,7 @@ const draw = (value: string): void => {
     readline.cursorTo(process.stdout, 0);
 
     const message = `t: ${formatMs(performance.now() - startTime)}, c: ${formatMs(performance.now() - lastDrawTime)} - ${value}`;
-    process.stdout.write(message);
+    process.env["CI"] ? console.log(message) : process.stdout.write(message);
 
     if (value !== lastDraw) {
         lastDraw = value;
@@ -65,6 +65,7 @@ const draw = (value: string): void => {
 }
 
 const interval = setInterval(() => {
+    if (process.env["CI"]) return;
     draw(lastDraw);
 }, 10);
 
