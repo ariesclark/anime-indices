@@ -1,6 +1,6 @@
 import { type Anime } from "../../";
 
-import fall from "./fall.json" assert { type: "json" };
+import fall from "./fall.json";
 
 export const year = 1944;
 // @ts-ignore

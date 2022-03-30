@@ -35,9 +35,7 @@ export async function get (key: string): Promise<Anime> {
     const [year, seasonIndex] = key.split("/");
     const [season, index] = seasonIndex.split("#");
 
-    const { default: value } = (await import(`./content/${year}/${season}.json`, {
-        assert: { type: "json" }
-    }));
+    const { default: value } = await import(`./content/${year}/${season}.json`);
 
     return value[index];
 }

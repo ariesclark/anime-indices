@@ -1,6 +1,6 @@
 import { type Anime } from "../../";
 
-import spring from "./spring.json" assert { type: "json" };
+import spring from "./spring.json";
 
 export const year = 1945;
 // @ts-ignore
