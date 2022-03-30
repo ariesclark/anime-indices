@@ -1,7 +1,7 @@
 import matches from "lodash/matches.js"
 
-import * as indices from "./indices";
-import { tags } from "./tags";
+import * as indices from "./indices/index.js";
+import { tags } from "./tags.js";
 
 export const types = ["tv", "movie", "ova", "ona", "special", "unknown"] as const;
 export type AnimeType = typeof types[number]
