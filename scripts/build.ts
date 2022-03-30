@@ -7,7 +7,8 @@ import util from "util";
 import path from "path";
 import ms from "ms";
 
-import fetch from "node-fetch";
+import fetch from "node-fetch-commonjs";
+
 //import { Anime, AnimeSeason } from "../src";
 import { performance } from "perf_hooks";
 
@@ -149,7 +150,7 @@ const interval = setInterval(() => {
         const yearIndexFileContent = `\
 import { type Anime } from "../../";
 
-${yearSeasons.map((season) => `import ${season} from "./${season}.json" assert { type: "json" };`).join("\n")}
+${yearSeasons.map((season) => `import ${season} from "./${season}.json";`).join("\n")}
 
 export const year = ${year === "unknown" ? null : year};
 // @ts-ignore
@@ -165,7 +166,7 @@ export const season: { ${yearSeasons.map((season) => `${season}${season === "unk
     }
 
     const indicesIndexFileContent = `\
-${Object.keys(indexMap).map((indexKey) => `export { default as ${indexKey} } from "./${indexKey}.json" assert { type: "json" };`).join("\n")}\
+${Object.keys(indexMap).map((indexKey) => `export { default as ${indexKey} } from "./${indexKey}.json";`).join("\n")}\
 `;
         
     await fs.writeFile(path.resolve("./build/indices/", "index.ts"), indicesIndexFileContent);
@@ -212,9 +213,7 @@ export async function get (key: string): Promise<Anime> {
     const [year, seasonIndex] = key.split("/");
     const [season, index] = seasonIndex.split("#");
 
-    const { default: value } = (await import(\`./content/\${year}/\${season}.json\`, {
-        assert: { type: "json" }
-    }));
+    const { default: value } = await import(\`./content/\${year}/\${season}.json\`);
 
     return value[index];
 }

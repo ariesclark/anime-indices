@@ -1,7 +1,6 @@
 {
     "name": "anime-indices",
-    "type": "module",
-    "version": "0.0.3-2022.3.28",
+    "version": "0.0.4-2022.3.29",
     "description": "An indexed database of anime 🎉",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -26,8 +25,8 @@
         "@types/node": "^17.0.23",
         "@types/semver": "^7.3.9",
         "ms": "^2.1.3",
-        "node-fetch": "^3.2.3",
         "semver": "^7.3.5",
+        "node-fetch-commonjs": "^3.1.1",
         "ts-node": "^10.7.0",
         "typescript": "^4.6.3"
     },
