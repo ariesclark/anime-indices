@@ -38,8 +38,11 @@
             "https://notify.moe/anime/YycBQxG7g"
         ],
         "tags": [
+            "band",
             "drama",
             "music",
+            "primarily adult cast",
+            "primarily male cast",
             "showbiz"
         ],
         "date": {
@@ -137,6 +140,42 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17278",
+            "https://anilist.co/anime/146650",
+            "https://anime-planet.com/anime/bucchigire",
+            "https://anisearch.com/anime/17221",
+            "https://kitsu.io/anime/46001",
+            "https://livechart.me/anime/11154",
+            "https://myanimelist.net/anime/51371"
+        ],
+        "title": "Bucchigire!",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1717/121768.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1717/121768t.jpg",
+        "synonyms": [
+            "Shine On! Bakumatsu Bad Boys",
+            "Shine On! Bakumatsu Boys",
+            "ブッチギレ!",
+            "ブッチギレ！",
+            "一番光れ!"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "feudal japan",
+            "historical",
+            "original work",
+            "samurai"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16681",
             "https://anilist.co/anime/139212",
             "https://anime-planet.com/anime/cardfight-vanguard-overdress-3rd-season",
@@ -191,7 +230,8 @@
             "episodic",
             "game",
             "male protagonist",
-            "proxy battles"
+            "proxy battles",
+            "strategy game"
         ],
         "date": {
             "season": "summer",
@@ -224,8 +264,27 @@
             "comedy",
             "demons",
             "kids",
+            "mythology",
             "original work"
         ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anisearch.com/anime/17232"
+        ],
+        "title": "D4DJ Double Mix",
+        "type": "tv",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17232.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17232.webp",
+        "synonyms": [],
+        "relations": [],
+        "tags": [],
         "date": {
             "season": "summer",
             "year": 2022
@@ -390,7 +449,171 @@
             "science fiction",
             "ships",
             "shounen",
-            "survival"
+            "survival",
+            "time travel"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anisearch.com/anime/15932"
+        ],
+        "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka: Familia Myth IV",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15932.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15932.webp",
+        "synonyms": [
+            "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? 4",
+            "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? IV",
+            "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darō ka: Familia Myth IV",
+            "Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darou ka: Familia Myth IV",
+            "ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH IV"
+        ],
+        "relations": [
+            "https://anisearch.com/anime/11197",
+            "https://anisearch.com/anime/11225",
+            "https://anisearch.com/anime/13352",
+            "https://anisearch.com/anime/13353",
+            "https://anisearch.com/anime/14497",
+            "https://anisearch.com/anime/14636",
+            "https://anisearch.com/anime/14697",
+            "https://anisearch.com/anime/15917",
+            "https://anisearch.com/anime/9940"
+        ],
+        "tags": [
+            "action",
+            "action comedy",
+            "adventure",
+            "alternative world",
+            "comedy",
+            "ecchi",
+            "elves",
+            "fantasy",
+            "harem",
+            "kemonomimi",
+            "magic",
+            "monster",
+            "romance",
+            "swords & co"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/16032",
+            "https://anilist.co/anime/129196",
+            "https://anime-planet.com/anime/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-iv",
+            "https://kitsu.io/anime/44031",
+            "https://livechart.me/anime/10382",
+            "https://myanimelist.net/anime/47164",
+            "https://notify.moe/anime/0buWgoYGg"
+        ],
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV",
+        "type": "tv",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1180/120373.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1180/120373t.jpg",
+        "synonyms": [
+            "DanMachi 4th Season",
+            "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV",
+            "Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darou ka IV: Familia Myth",
+            "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen",
+            "Dungeon ni Deai wo Motomeru no wa Machigatteiru no Darou ka IV",
+            "Is It Wrong That I Want to Meet You in a Dungeon 4th Season",
+            "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV",
+            "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV: New Chapter - The Labyrinth Arc",
+            "danmachi4",
+            "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน ภาค 4",
+            "ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH IV",
+            "ダンジョンに出会いを求めるのは間違っているだろうかⅣ",
+            "ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇"
+        ],
+        "relations": [
+            "https://anidb.net/anime/15111",
+            "https://anilist.co/anime/112124",
+            "https://anime-planet.com/anime/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon",
+            "https://anime-planet.com/anime/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-ii",
+            "https://anime-planet.com/anime/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-iii",
+            "https://kitsu.io/anime/42583",
+            "https://livechart.me/anime/10279",
+            "https://livechart.me/anime/1274",
+            "https://livechart.me/anime/2045",
+            "https://livechart.me/anime/2066",
+            "https://livechart.me/anime/3107",
+            "https://livechart.me/anime/3108",
+            "https://livechart.me/anime/9612",
+            "https://livechart.me/anime/9613",
+            "https://myanimelist.net/anime/40454",
+            "https://notify.moe/anime/8sTGGxhWg"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "based on a light novel",
+            "comedy",
+            "deity",
+            "dungeon",
+            "elf",
+            "fantasy",
+            "fantasy world",
+            "female harem",
+            "gods",
+            "guilds",
+            "harem",
+            "kemonomimi",
+            "kuudere",
+            "magic",
+            "male protagonist",
+            "monsters",
+            "mythology",
+            "novel",
+            "primarily female cast",
+            "romance",
+            "rpg",
+            "swordplay"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/17284",
+            "https://anilist.co/anime/146625",
+            "https://anime-planet.com/anime/engage-kiss",
+            "https://anisearch.com/anime/17244",
+            "https://kitsu.io/anime/46013",
+            "https://livechart.me/anime/11162",
+            "https://myanimelist.net/anime/51417",
+            "https://notify.moe/anime/G9k83cyng"
+        ],
+        "title": "Engage Kiss",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1801/121857.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1801/121857t.jpg",
+        "synonyms": [
+            "Project Engage",
+            "エンゲージキス"
+        ],
+        "relations": [],
+        "tags": [
+            "comedy",
+            "island",
+            "original work",
+            "romance",
+            "romantic comedy"
         ],
         "date": {
             "season": "summer",
@@ -426,6 +649,7 @@
             "football",
             "music",
             "original work",
+            "soccer",
             "sports"
         ],
         "date": {
@@ -583,6 +807,36 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/43205"
+        ],
+        "title": "Gundam: G no Reconguista Movie IV - Gekitou ni Sakebu Ai",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1679/121763.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1679/121763t.jpg",
+        "synonyms": [
+            "G-Reco Movie 4, Gekijouban Gundam G no Reconguista 4",
+            "劇場版 ガンダム Ｇのレコンギスタ Ⅳ 激闘に叫ぶ愛"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/23259",
+            "https://myanimelist.net/anime/43204",
+            "https://myanimelist.net/anime/43206"
+        ],
+        "tags": [
+            "action",
+            "mecha",
+            "sci-fi",
+            "space"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/146632"
         ],
         "title": "Gundam: G no Reconguista V - Shisen wo Koete",
@@ -669,6 +923,7 @@
             "isekai",
             "magic",
             "male protagonist",
+            "mythology",
             "non-human protagonists",
             "novel",
             "nudity",
@@ -798,6 +1053,69 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16389",
+            "https://anilist.co/anime/135806",
+            "https://anime-planet.com/anime/uncle-from-another-world",
+            "https://anisearch.com/anime/16420",
+            "https://kitsu.io/anime/44773",
+            "https://livechart.me/anime/10599",
+            "https://myanimelist.net/anime/49220",
+            "https://notify.moe/anime/rYBu6xR7g"
+        ],
+        "title": "Isekai Ojisan",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1510/120214.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1510/120214t.jpg",
+        "synonyms": [
+            "Isekai Oji-san",
+            "Isekai Uncle",
+            "Ojisan in Another World",
+            "Uncle From Another World",
+            "Uncle from Another World",
+            "ยอดคุณน้าจากต่างโลก",
+            "異世界おじさん"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "adventure",
+            "alternative world",
+            "based on a manga",
+            "comedy",
+            "contemporary fantasy",
+            "elf",
+            "elves",
+            "fantasy",
+            "gender bending",
+            "isekai",
+            "magic",
+            "male protagonist",
+            "manga",
+            "memory manipulation",
+            "meta",
+            "monster",
+            "overpowered main characters",
+            "parody",
+            "person in a strange world",
+            "primarily adult cast",
+            "romance",
+            "seinen",
+            "slice of life",
+            "stereotypes",
+            "swords & co",
+            "tsundere",
+            "urban fantasy",
+            "video games"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/15749",
             "https://anilist.co/anime/124641",
             "https://anime-planet.com/anime/dropkick-on-my-devil-x",
@@ -811,8 +1129,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1103/112205.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1103/112205t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1477/121963.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1477/121963t.jpg",
         "synonyms": [
             "Dropkick On My Devil! 3rd Season",
             "Dropkick on My Devil! X",
@@ -976,6 +1294,8 @@
             "fantasy",
             "idol",
             "idols",
+            "idols (female)",
+            "idols (male)",
             "josei",
             "music",
             "present",
@@ -1185,6 +1505,115 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16611",
+            "https://anilist.co/anime/138882",
+            "https://anime-planet.com/anime/the-yakuzas-guide-to-babysitting",
+            "https://anisearch.com/anime/16577",
+            "https://kitsu.io/anime/45133",
+            "https://livechart.me/anime/10777",
+            "https://myanimelist.net/anime/49776",
+            "https://notify.moe/anime/BxlwF7Ing"
+        ],
+        "title": "Kumichou Musume to Sewagakari",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1359/119960.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1359/119960t.jpg",
+        "synonyms": [
+            "Die Yakuza-Nanny",
+            "Kiedy yakuza zostaje niańką",
+            "Kumicho Musume to Sewagakari",
+            "Kumichō Musume to Sewagakari",
+            "The Mob Boss’s Daughter and Her Caretaker",
+            "The Yakuza's Guide to Babysitting",
+            "The Yakuza`s Guide to Babysitting",
+            "The Yakuza’s Guide to Babysitting",
+            "Τhe Yakuza's Guide to Babysitting",
+            "組長女兒與照料專員",
+            "組長娘と世話係"
+        ],
+        "relations": [
+            "https://anilist.co/anime/144992",
+            "https://anime-planet.com/anime/the-yakuzas-guide-to-babysitting-mini-anime",
+            "https://livechart.me/anime/11052",
+            "https://myanimelist.net/anime/50930"
+        ],
+        "tags": [
+            "based on a manga",
+            "childcare",
+            "comedy",
+            "family",
+            "family life",
+            "gangs",
+            "hero of strong character",
+            "josei",
+            "mafia",
+            "organized crime",
+            "present",
+            "slice of life",
+            "yakuza"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/17204",
+            "https://anilist.co/anime/145260",
+            "https://anime-planet.com/anime/black-summoner",
+            "https://anisearch.com/anime/17098",
+            "https://kitsu.io/anime/45884",
+            "https://livechart.me/anime/11088",
+            "https://myanimelist.net/anime/51064",
+            "https://notify.moe/anime/_OHbTvf7g"
+        ],
+        "title": "Kuro no Shoukanshi",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1993/121003.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1993/121003t.jpg",
+        "synonyms": [
+            "Black Summoner",
+            "Black Summoner: A Combat Maniac’s Ascension",
+            "Kuro no Shōkanshi",
+            "The Berserker Rises to Greatness",
+            "The Berserker Rises to Greatness.",
+            "黒の召喚士"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "action comedy",
+            "adventure",
+            "alternative world",
+            "based on a light novel",
+            "comedy",
+            "demons",
+            "drama",
+            "elves",
+            "fantasy",
+            "gods",
+            "harem",
+            "isekai",
+            "magic",
+            "monster",
+            "overpowered main characters",
+            "person in a strange world",
+            "romance",
+            "swords & co",
+            "weak to strong"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16927",
             "https://anilist.co/anime/140642",
             "https://anime-planet.com/anime/love-live-superstar-season-2",
@@ -1253,6 +1682,86 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17097",
+            "https://anilist.co/anime/143270",
+            "https://anime-planet.com/anime/lycoris-recoil",
+            "https://anisearch.com/anime/16976",
+            "https://kitsu.io/anime/45705",
+            "https://livechart.me/anime/11004",
+            "https://myanimelist.net/anime/50709",
+            "https://notify.moe/anime/eDvRCcs7R"
+        ],
+        "title": "Lycoris Recoil",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1270/121838.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1270/121838t.jpg",
+        "synonyms": [
+            "リコリス・リコイル"
+        ],
+        "relations": [],
+        "tags": [
+            "female protagonist",
+            "original work"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://livechart.me/anime/11165"
+        ],
+        "title": "Mobile Suit Gundam: Suisei no Majo - PROLOGUE",
+        "type": "unknown",
+        "episodes": 0,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "Mobile Suit Gundam THE WITCH FROM MERCURY - PROLOGUE",
+            "機動戦士ガンダム 水星の魔女 PROLOGUE"
+        ],
+        "relations": [
+            "https://livechart.me/anime/10788"
+        ],
+        "tags": [
+            "mecha",
+            "sci-fi"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://kitsu.io/anime/45999"
+        ],
+        "title": "Morfonica",
+        "type": "tv",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://media.kitsu.io/anime/45999/poster_image/small-168c2ed0a6eb01a2c7c7125bc684f18e.jpeg",
+        "thumbnail": "https://media.kitsu.io/anime/45999/poster_image/tiny-ec78d5b07bcc2310089ba433f21808ca.jpeg",
+        "synonyms": [
+            "BanG Dream! Morfonica"
+        ],
+        "relations": [
+            "https://kitsu.io/anime/41290"
+        ],
+        "tags": [
+            "music"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/146501"
         ],
         "title": "Morfonica (Provisional Title)",
@@ -1270,63 +1779,6 @@
         ],
         "tags": [
             "music"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/11151"
-        ],
-        "title": "ORIENT 2nd Cour",
-        "type": "tv",
-        "episodes": 0,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "ORIENT Part 2",
-            "オリエント 第２クール"
-        ],
-        "relations": [
-            "https://livechart.me/anime/10311"
-        ],
-        "tags": [
-            "action",
-            "fantasy",
-            "shounen"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/146637"
-        ],
-        "title": "ORIENT: Awajishima Gekitou-hen",
-        "type": "tv",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146637-p5H34e6pjdel.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146637-p5H34e6pjdel.jpg",
-        "synonyms": [
-            "ORIENT 2nd Cour",
-            "ORIENT Part 2",
-            "ORIENT: The Battle of Awaji Island",
-            "オリエント 淡路島激闘編"
-        ],
-        "relations": [
-            "https://anilist.co/anime/128034"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "comedy",
-            "fantasy"
         ],
         "date": {
             "season": "summer",
@@ -1449,48 +1901,64 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/17275"
-        ],
-        "title": "Orient (2022)",
-        "type": "tv",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://cdn.anidb.net/images/main/271023.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/271023.jpg-thumb.jpg",
-        "synonyms": [
-            "Orient: Awaji Shima Gekitou Hen",
-            "オリエント (2022)",
-            "オリエント 淡路島激闘編"
-        ],
-        "relations": [
-            "https://anidb.net/anime/15969"
-        ],
-        "tags": [],
-        "date": {
-            "season": "summer",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/51368"
+            "https://anidb.net/anime/17275",
+            "https://anilist.co/anime/146637",
+            "https://anime-planet.com/anime/orient-awajishima-gekitou-hen",
+            "https://anisearch.com/anime/17220",
+            "https://kitsu.io/anime/45993",
+            "https://livechart.me/anime/11151",
+            "https://myanimelist.net/anime/51368",
+            "https://notify.moe/anime/0em5e5y7g"
         ],
         "title": "Orient Part 2",
         "type": "tv",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1146/121733.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1146/121733t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1723/121964.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1723/121964t.jpg",
         "synonyms": [
-            "オリエント"
+            "ORIENT 2nd Cour",
+            "ORIENT Part 2",
+            "ORIENT: Awajishima Gekitou-hen",
+            "ORIENT: The Battle of Awaji Island",
+            "Orient (2022)",
+            "Orient: Awaji Shima Gekitou Hen",
+            "Orient: Awajishima Gekitou-hen",
+            "オリエント",
+            "オリエント (2022)",
+            "オリエント 淡路島激闘編",
+            "オリエント 第２クール",
+            "オリエント （2022）"
         ],
         "relations": [
-            "https://myanimelist.net/anime/45560"
+            "https://anidb.net/anime/15969",
+            "https://anilist.co/anime/128034",
+            "https://anime-planet.com/anime/orient",
+            "https://anisearch.com/anime/15886",
+            "https://kitsu.io/anime/44205",
+            "https://livechart.me/anime/10311",
+            "https://myanimelist.net/anime/45560",
+            "https://notify.moe/anime/jA3liD-Mg"
         ],
         "tags": [
             "action",
+            "adventure",
+            "based on a manga",
+            "childhood friends",
+            "childhood promise",
+            "comedy",
+            "demon",
+            "demons",
             "fantasy",
-            "shounen"
+            "feudal japan",
+            "fighting-shounen",
+            "historical",
+            "old asia",
+            "orphans",
+            "samurai",
+            "shounen",
+            "supernatural",
+            "swords & co"
         ],
         "date": {
             "season": "summer",
@@ -1501,7 +1969,6 @@
         "sources": [
             "https://anidb.net/anime/16369",
             "https://anilist.co/anime/135177",
-            "https://anime-planet.com/anime/osomatsu-san-2022",
             "https://anime-planet.com/anime/osomatsu-san-hipipo-zoku-to-kagayaku-kajitsu",
             "https://anisearch.com/anime/16432",
             "https://livechart.me/anime/10629",
@@ -1554,6 +2021,7 @@
         "tags": [
             "based on a manga",
             "comedy",
+            "gag humor",
             "parody",
             "present",
             "siblings",
@@ -1660,6 +2128,7 @@
             "swords & co",
             "trapped in a video game",
             "vampire",
+            "video game",
             "virtual reality",
             "virtual world"
         ],
@@ -1673,6 +2142,7 @@
             "https://anidb.net/anime/17226",
             "https://anilist.co/anime/145813",
             "https://anime-planet.com/anime/pokemon-legends-arceus",
+            "https://anisearch.com/anime/17227",
             "https://kitsu.io/anime/45933",
             "https://livechart.me/anime/11108",
             "https://myanimelist.net/anime/51145"
@@ -1687,12 +2157,86 @@
             "Pokemon Legends: Arceus",
             "Pokémon LEGENDS アルセウス",
             "Pokémon LEGENDS: Arceus",
+            "Pokémon Legends Arceus",
             "Pokémon Legends: Arceus"
         ],
         "relations": [
             "https://anilist.co/anime/112153",
             "https://anilist.co/anime/142794",
             "https://anime-planet.com/anime/pokemon",
+            "https://anisearch.com/anime/10132",
+            "https://anisearch.com/anime/10444",
+            "https://anisearch.com/anime/10686",
+            "https://anisearch.com/anime/10759",
+            "https://anisearch.com/anime/109",
+            "https://anisearch.com/anime/11070",
+            "https://anisearch.com/anime/11242",
+            "https://anisearch.com/anime/11243",
+            "https://anisearch.com/anime/11244",
+            "https://anisearch.com/anime/11245",
+            "https://anisearch.com/anime/11309",
+            "https://anisearch.com/anime/11437",
+            "https://anisearch.com/anime/11443",
+            "https://anisearch.com/anime/11662",
+            "https://anisearch.com/anime/11677",
+            "https://anisearch.com/anime/11757",
+            "https://anisearch.com/anime/11938",
+            "https://anisearch.com/anime/11939",
+            "https://anisearch.com/anime/12149",
+            "https://anisearch.com/anime/12911",
+            "https://anisearch.com/anime/13078",
+            "https://anisearch.com/anime/13125",
+            "https://anisearch.com/anime/13756",
+            "https://anisearch.com/anime/14495",
+            "https://anisearch.com/anime/14596",
+            "https://anisearch.com/anime/1476",
+            "https://anisearch.com/anime/15641",
+            "https://anisearch.com/anime/1612",
+            "https://anisearch.com/anime/164",
+            "https://anisearch.com/anime/17047",
+            "https://anisearch.com/anime/1864",
+            "https://anisearch.com/anime/2105",
+            "https://anisearch.com/anime/2136",
+            "https://anisearch.com/anime/2222",
+            "https://anisearch.com/anime/2446",
+            "https://anisearch.com/anime/2602",
+            "https://anisearch.com/anime/2658",
+            "https://anisearch.com/anime/2831",
+            "https://anisearch.com/anime/2914",
+            "https://anisearch.com/anime/3100",
+            "https://anisearch.com/anime/3139",
+            "https://anisearch.com/anime/3293",
+            "https://anisearch.com/anime/3495",
+            "https://anisearch.com/anime/3551",
+            "https://anisearch.com/anime/3684",
+            "https://anisearch.com/anime/3721",
+            "https://anisearch.com/anime/3975",
+            "https://anisearch.com/anime/4690",
+            "https://anisearch.com/anime/5197",
+            "https://anisearch.com/anime/5533",
+            "https://anisearch.com/anime/5740",
+            "https://anisearch.com/anime/5741",
+            "https://anisearch.com/anime/5867",
+            "https://anisearch.com/anime/6306",
+            "https://anisearch.com/anime/6678",
+            "https://anisearch.com/anime/7344",
+            "https://anisearch.com/anime/7521",
+            "https://anisearch.com/anime/7540",
+            "https://anisearch.com/anime/7550",
+            "https://anisearch.com/anime/7655",
+            "https://anisearch.com/anime/7870",
+            "https://anisearch.com/anime/7955",
+            "https://anisearch.com/anime/8231",
+            "https://anisearch.com/anime/8300",
+            "https://anisearch.com/anime/8513",
+            "https://anisearch.com/anime/8744",
+            "https://anisearch.com/anime/8745",
+            "https://anisearch.com/anime/9040",
+            "https://anisearch.com/anime/9045",
+            "https://anisearch.com/anime/9184",
+            "https://anisearch.com/anime/9404",
+            "https://anisearch.com/anime/9591",
+            "https://anisearch.com/anime/9801",
             "https://livechart.me/anime/3702",
             "https://livechart.me/anime/3816",
             "https://livechart.me/anime/3936",
@@ -1730,6 +2274,174 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17156",
+            "https://anilist.co/anime/144509",
+            "https://anime-planet.com/anime/prima-doll",
+            "https://anisearch.com/anime/17051",
+            "https://kitsu.io/anime/45812",
+            "https://livechart.me/anime/11047",
+            "https://myanimelist.net/anime/50917",
+            "https://notify.moe/anime/rcCw9Lbng"
+        ],
+        "title": "Prima Doll",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1629/120705.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1629/120705t.jpg",
+        "synonyms": [
+            "PrimaDoll",
+            "プリマドール"
+        ],
+        "relations": [],
+        "tags": [
+            "android",
+            "androids",
+            "cafe",
+            "comedy",
+            "cute girls doing cute things",
+            "drama",
+            "non-human protagonists",
+            "robots",
+            "sci fi",
+            "sci-fi",
+            "slice of life"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/17277",
+            "https://anilist.co/anime/146668",
+            "https://anime-planet.com/anime/rwby-ice-queendom",
+            "https://anisearch.com/anime/17249",
+            "https://kitsu.io/anime/45997",
+            "https://livechart.me/anime/11155",
+            "https://myanimelist.net/anime/51381",
+            "https://notify.moe/anime/K-3D3cy7g"
+        ],
+        "title": "RWBY: Hyousetsu Teikoku",
+        "type": "tv",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1356/121832.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1356/121832t.jpg",
+        "synonyms": [
+            "RWBY 冰雪帝国",
+            "RWBY 氷雪帝国",
+            "RWBY: Hyosetsu Teikoku",
+            "RWBY: Hyōsetsu Teikoku",
+            "RWBY: Ice Queendom"
+        ],
+        "relations": [
+            "https://kitsu.io/anime/7929"
+        ],
+        "tags": [
+            "action",
+            "based on a cartoon",
+            "cult",
+            "cyberpunk",
+            "fairy tale",
+            "fantasy",
+            "female protagonist",
+            "guns",
+            "kemonomimi",
+            "magic",
+            "ojou-sama",
+            "primarily female cast",
+            "school",
+            "sci fi",
+            "sci-fi",
+            "science fiction",
+            "science-fiction",
+            "shounen",
+            "super power"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/14204",
+            "https://anilist.co/anime/103118",
+            "https://anime-planet.com/anime/renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches",
+            "https://anisearch.com/anime/13743",
+            "https://kitsu.io/anime/44227",
+            "https://livechart.me/anime/3379",
+            "https://myanimelist.net/anime/38006",
+            "https://notify.moe/anime/_gFU5cvGg"
+        ],
+        "title": "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches",
+        "type": "tv",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1401/108690.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1401/108690t.jpg",
+        "synonyms": [
+            "Allied Air Force Magical Idols Luminous Witches",
+            "Idol Witches",
+            "Luminous Witches",
+            "Ongakutai Witches",
+            "Renmei Kuugun Koukuu Mahou Ongakutai: Luminous Witches",
+            "Renmei Kūgun Kōkū Mahō Ongakutai Luminous Witches",
+            "World Witches Series: 10th Anniversary New Project",
+            "連盟空軍航空魔法音楽隊 ルミナスウィッチーズ",
+            "連盟空軍航空魔法音楽隊ルミナスウィッチーズ",
+            "音楽隊ウィッチーズ"
+        ],
+        "relations": [
+            "https://anidb.net/anime/5970",
+            "https://anilist.co/anime/3667",
+            "https://anime-planet.com/anime/renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches-pv",
+            "https://anime-planet.com/anime/strike-witches",
+            "https://kitsu.io/anime/3179",
+            "https://kitsu.io/anime/44228",
+            "https://livechart.me/anime/10078",
+            "https://livechart.me/anime/10135",
+            "https://livechart.me/anime/2495",
+            "https://livechart.me/anime/276",
+            "https://livechart.me/anime/277",
+            "https://livechart.me/anime/3380",
+            "https://livechart.me/anime/3381",
+            "https://livechart.me/anime/3382",
+            "https://livechart.me/anime/3383",
+            "https://livechart.me/anime/3384",
+            "https://livechart.me/anime/612",
+            "https://livechart.me/anime/613",
+            "https://livechart.me/anime/9480",
+            "https://livechart.me/anime/990",
+            "https://myanimelist.net/anime/3667",
+            "https://notify.moe/anime/cpI_5KmmR"
+        ],
+        "tags": [
+            "aviation",
+            "comedy",
+            "ecchi",
+            "fantasy",
+            "idol",
+            "idols (female)",
+            "kemonomimi",
+            "magic",
+            "military",
+            "moe",
+            "music",
+            "sci fi",
+            "sci-fi",
+            "science fiction",
+            "witch"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/17077",
             "https://anilist.co/anime/143082",
             "https://anime-planet.com/anime/sasaki-and-miyano-ova",
@@ -1739,7 +2451,7 @@
             "https://myanimelist.net/anime/50672",
             "https://notify.moe/anime/yCQtYjT7g"
         ],
-        "title": "Sasaki to Miyano: Koi ni Kizuku Mae no Chottoshita Hanashi.",
+        "title": "Sasaki to Miyano: Koi ni Kizuku Mae no Chotto Shita Hanashi.",
         "type": "ova",
         "episodes": 1,
         "status": "upcoming",
@@ -1750,7 +2462,7 @@
             "Sasaki and Miyano OVA",
             "Sasaki and Miyano: A Little Story Before I Realized Love.",
             "Sasaki to Miyano OVA",
-            "Sasaki to Miyano: Koi ni Kizuku Mae no Chotto Shita Hanashi.",
+            "Sasaki to Miyano: Koi ni Kizuku Mae no Chottoshita Hanashi.",
             "佐々木と宮野 「恋に気づく前のちょっとした話。」",
             "佐々木と宮野 恋に気づく前のちょっとした話.",
             "佐々木と宮野 恋に気づく前のちょっとした話。"
@@ -1846,6 +2558,89 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16878",
+            "https://anilist.co/anime/140187",
+            "https://anime-planet.com/anime/the-prince-of-tennis-ii-u-17-world-cup",
+            "https://anisearch.com/anime/16693",
+            "https://kitsu.io/anime/45312",
+            "https://livechart.me/anime/10835",
+            "https://myanimelist.net/anime/50099",
+            "https://notify.moe/anime/BtV9MevnR"
+        ],
+        "title": "Shin Tennis no Ouji-sama: U-17 World Cup",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1241/121955.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1241/121955t.jpg",
+        "synonyms": [
+            "New Prince of Tennis: U-17 WORLD CUP",
+            "Shin Tennis no Ouji-sama U-17 World Cup",
+            "Shin Tennis no Ouji-sama: U-17 WORLD CUP",
+            "Shin Tennis no Ōji-sama: U-17 World Cup",
+            "The New Prince of Tennis: U-17 World Cup",
+            "The Prince of Tennis II: U-17 WORLD CUP",
+            "The Prince of Tennis II: U-17 World Cup",
+            "新テニスの王子様 U-17 WORLD CUP"
+        ],
+        "relations": [
+            "https://anilist.co/anime/20941",
+            "https://anime-planet.com/anime/the-prince-of-tennis",
+            "https://anime-planet.com/anime/the-prince-of-tennis-another-story-ii-ano-toki-no-bokura",
+            "https://anime-planet.com/anime/the-prince-of-tennis-another-story-kako-to-mirai-no-message",
+            "https://anime-planet.com/anime/the-prince-of-tennis-ii",
+            "https://anime-planet.com/anime/the-prince-of-tennis-ii-hyoutei-vs-rikkai-game-of-future",
+            "https://anime-planet.com/anime/the-prince-of-tennis-ii-ova-vs-genius-10",
+            "https://anime-planet.com/anime/the-prince-of-tennis-movie-1-two-samurai-the-first-game",
+            "https://anime-planet.com/anime/the-prince-of-tennis-movie-2-eikoku-shiki-teikyuu-shiro-kessen",
+            "https://anime-planet.com/anime/the-prince-of-tennis-the-national-tournament",
+            "https://anime-planet.com/anime/the-prince-of-tennis-the-national-tournament-final",
+            "https://anime-planet.com/anime/the-prince-of-tennis-the-national-tournament-semifinal",
+            "https://livechart.me/anime/10129",
+            "https://livechart.me/anime/1155",
+            "https://livechart.me/anime/2374",
+            "https://livechart.me/anime/250",
+            "https://livechart.me/anime/4029",
+            "https://livechart.me/anime/4807",
+            "https://livechart.me/anime/5525",
+            "https://livechart.me/anime/5647",
+            "https://livechart.me/anime/5764",
+            "https://livechart.me/anime/5767",
+            "https://livechart.me/anime/5782",
+            "https://livechart.me/anime/6027",
+            "https://livechart.me/anime/6478",
+            "https://livechart.me/anime/7952",
+            "https://livechart.me/anime/7960",
+            "https://livechart.me/anime/8014",
+            "https://livechart.me/anime/8063",
+            "https://livechart.me/anime/8089",
+            "https://livechart.me/anime/8101",
+            "https://livechart.me/anime/8178",
+            "https://livechart.me/anime/8681",
+            "https://myanimelist.net/anime/21755",
+            "https://notify.moe/anime/6ra2tKmmg"
+        ],
+        "tags": [
+            "action",
+            "based on a manga",
+            "comedy",
+            "ganbatte",
+            "male protagonist",
+            "present",
+            "school",
+            "shounen",
+            "slapstick",
+            "sports",
+            "tennis",
+            "tournaments"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16937",
             "https://anilist.co/anime/140753",
             "https://anime-planet.com/anime/shine-post",
@@ -1877,6 +2672,7 @@
             "comedy",
             "idol",
             "idols",
+            "idols (female)",
             "music",
             "present",
             "primarily female cast",
@@ -1929,7 +2725,8 @@
             "shounen",
             "slice of life",
             "soccer",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "summer",
@@ -2015,7 +2812,9 @@
         ],
         "relations": [],
         "tags": [
+            "android",
             "music",
+            "musical",
             "sci fi"
         ],
         "date": {
@@ -2078,6 +2877,7 @@
             "magic",
             "monster",
             "monsters",
+            "novel",
             "overpowered main characters",
             "person in a strange world",
             "rpg",
@@ -2582,7 +3382,6 @@
         "synonyms": [
             "Classroom of the Elite",
             "Classroom of the Elite (2022)",
-            "Classroom of the Elite (Sequel)",
             "Classroom of the Elite (TV) 2nd Season",
             "Classroom of the Elite 2",
             "Classroom of the Elite 2nd Season",
@@ -2593,7 +3392,6 @@
             "You-zitsu",
             "Youjitsu",
             "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zoku-hen)",
-            "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zokuhen)",
             "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2",
             "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
             "Youzitsu 2",
@@ -2605,6 +3403,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/13153",
+            "https://anidb.net/anime/17237",
             "https://anilist.co/anime/146066",
             "https://anilist.co/anime/98659",
             "https://anime-planet.com/anime/classroom-of-the-elite",
@@ -2654,6 +3453,7 @@
             "https://anilist.co/anime/145468",
             "https://anime-planet.com/anime/yurei-deco",
             "https://anisearch.com/anime/17165",
+            "https://kitsu.io/anime/46003",
             "https://livechart.me/anime/11091",
             "https://myanimelist.net/anime/51092",
             "https://notify.moe/anime/Inktu0B7R"
@@ -2662,8 +3462,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1121/121412.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1121/121412t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1377/121855.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1377/121855t.jpg",
         "synonyms": [
             "YUREI DECO",
             "You0 DECO",

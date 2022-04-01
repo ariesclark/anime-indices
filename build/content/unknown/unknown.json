@@ -254,6 +254,73 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17285"
+        ],
+        "title": "4-nin wa Sorezore Uso o Tsuku",
+        "type": "tv",
+        "episodes": 0,
+        "status": "unknown",
+        "picture": "https://cdn.anidb.net/images/main/271125.jpg",
+        "thumbnail": "https://cdn.anidb.net/images/main/271125.jpg-thumb.jpg",
+        "synonyms": [
+            "4人はそれぞれウソをつく"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
+            "https://anisearch.com/anime/17255"
+        ],
+        "title": "4-nin wa Sorezore Uso o Tsuku",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/0.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/0.webp",
+        "synonyms": [
+            "4-nin wa Sorezore Uso wo Tsuku",
+            "Four People and Their Respective Lies",
+            "４人はそれぞれウソをつく"
+        ],
+        "relations": [],
+        "tags": [
+            "slice of life"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/4-nin-wa-sorezore-uso-wo-tsuku"
+        ],
+        "title": "4-nin wa Sorezore Uso wo Tsuku",
+        "type": "tv",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "based on a manga",
+            "comedy",
+            "shounen",
+            "slice of life"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/47549"
         ],
         "title": "5 Dong 32 Hao",
@@ -290,36 +357,6 @@
         "relations": [],
         "tags": [
             "comedy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/86-eighty-six-part-ii-recaps"
-        ],
-        "title": "86: Eighty-Six - Part II Recaps",
-        "type": "special",
-        "episodes": 2,
-        "status": "unknown",
-        "picture": "https://cdn.anime-planet.com/anime/primary/86-eighty-six-part-ii-recaps-1.jpg?t=1647285453",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/86-eighty-six-part-ii-recaps-1-285x399.jpg?t=1647285453",
-        "synonyms": [
-            "86: Eighty-Six - Dai 2 Cour Recaps"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/86-eighty-six-part-ii"
-        ],
-        "tags": [
-            "action",
-            "based on a light novel",
-            "drama",
-            "military",
-            "recap",
-            "sci fi",
-            "war"
         ],
         "date": {
             "season": "unknown",
@@ -1143,10 +1180,10 @@
             "comedy",
             "drama",
             "e-sports",
-            "game",
             "novel",
             "romance",
             "shounen-ai",
+            "strategy game",
             "video games"
         ],
         "date": {
@@ -3049,6 +3086,7 @@
             "harem",
             "idol",
             "idols",
+            "idols (male)",
             "music",
             "original work",
             "present",
@@ -6884,15 +6922,17 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/137699"
+            "https://anilist.co/anime/137699",
+            "https://myanimelist.net/anime/51386"
         ],
         "title": "Biaozhun Guige Zhanshi",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137699-vkWT1Sccvbdm.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137699-vkWT1Sccvbdm.png",
+        "picture": "https://cdn.myanimelist.net/images/anime/1826/121813.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1826/121813t.jpg",
         "synonyms": [
+            "Ordinary Warrior",
             "标准规格战士"
         ],
         "relations": [],
@@ -10196,14 +10236,15 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/137705"
+            "https://anilist.co/anime/137705",
+            "https://myanimelist.net/anime/51391"
         ],
         "title": "Chao Shen Jixieshi",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137705-cn84NHe16pNP.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137705-cn84NHe16pNP.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1097/121818.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1097/121818t.jpg",
         "synonyms": [
             "The Legendary Mechanic",
             "超神机械师"
@@ -12300,36 +12341,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/croisee-in-a-foreign-labyrinth-picture-drama"
-        ],
-        "title": "Croisee in a Foreign Labyrinth Picture Drama",
-        "type": "special",
-        "episodes": 6,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "synonyms": [
-            "Ikoku Meiro no Croisee Picture Drama"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/croisee-in-a-foreign-labyrinth",
-            "https://anime-planet.com/anime/croisee-in-a-foreign-labyrinth-concert",
-            "https://anime-planet.com/anime/croisee-in-a-foreign-labyrinth-yune-and-alice"
-        ],
-        "tags": [
-            "19th century",
-            "based on a manga",
-            "historical",
-            "picture drama",
-            "shounen"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
             "https://kitsu.io/anime/44505"
         ],
         "title": "Cubistar",
@@ -12561,6 +12572,28 @@
         "tags": [
             "fantasy",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51395"
+        ],
+        "title": "Da Huang Miyu: Linglong Shan",
+        "type": "ona",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1397/121822.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1397/121822t.jpg",
+        "synonyms": [
+            "大荒密语·玲珑山"
+        ],
+        "relations": [],
+        "tags": [
+            "fantasy"
         ],
         "date": {
             "season": "unknown",
@@ -12962,6 +12995,30 @@
         "relations": [],
         "tags": [
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51435"
+        ],
+        "title": "Da Yuzhou Shida",
+        "type": "ona",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1014/121948.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1014/121948t.jpg",
+        "synonyms": [
+            "The Age of Cosmos Exploratio",
+            "大宇宙时代"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "sci-fi"
         ],
         "date": {
             "season": "unknown",
@@ -14259,7 +14316,7 @@
         "relations": [],
         "tags": [
             "action",
-            "demons",
+            "mythology",
             "supernatural"
         ],
         "date": {
@@ -14529,6 +14586,31 @@
         ],
         "tags": [
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51396"
+        ],
+        "title": "Denglong Dao",
+        "type": "ona",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1819/121823.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1819/121823t.jpg",
+        "synonyms": [
+            "Lantern Blade",
+            "灯笼刀"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "drama",
+            "supernatural"
         ],
         "date": {
             "season": "unknown",
@@ -19994,7 +20076,7 @@
         ],
         "tags": [
             "comedy",
-            "demons",
+            "mythology",
             "shounen",
             "supernatural"
         ],
@@ -20632,7 +20714,7 @@
         "sources": [
             "https://anidb.net/anime/16027",
             "https://anilist.co/anime/129188",
-            "https://anime-planet.com/anime/goblin-slayer-2",
+            "https://anime-planet.com/anime/goblin-slayer-ii",
             "https://anisearch.com/anime/15928",
             "https://kitsu.io/anime/44010",
             "https://livechart.me/anime/10385",
@@ -20646,15 +20728,14 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1225/111459.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1225/111459t.jpg",
         "synonyms": [
-            "GOBLIN SLAYER 2nd Season",
-            "GOBLIN SLAYER Season 2",
+            "GOBLIN SLAYER II",
             "Goblin Slayer 2",
+            "Goblin Slayer II",
             "ก็อบลิน สเลเยอร์ ภาค 2",
             "ゴブリンスレイヤー",
             "ゴブリンスレイヤー 2",
             "ゴブリンスレイヤー 2ndシーズン",
-            "ゴブリンスレイヤー シリーズ2期",
-            "ゴブリンスレイヤー2"
+            "ゴブリンスレイヤーⅡ"
         ],
         "relations": [
             "https://anidb.net/anime/14782",
@@ -20728,81 +20809,6 @@
         "tags": [
             "avant garde",
             "slice of life"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/17023",
-            "https://anilist.co/anime/142343",
-            "https://anime-planet.com/anime/golden-kamuy-season-4",
-            "https://anisearch.com/anime/16851",
-            "https://kitsu.io/anime/45556",
-            "https://livechart.me/anime/10925",
-            "https://myanimelist.net/anime/50528",
-            "https://notify.moe/anime/0E8Rt_hnR"
-        ],
-        "title": "Golden Kamuy 4th Season",
-        "type": "tv",
-        "episodes": 12,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1733/119909.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1733/119909t.jpg",
-        "synonyms": [
-            "Golden Kamuy 4",
-            "Golden Kamuy Season 4",
-            "ゴールデンカムイ",
-            "ゴールデンカムイ 4",
-            "ゴールデンカムイ 第四期",
-            "ゴールデンカムイ４"
-        ],
-        "relations": [
-            "https://anidb.net/anime/14995",
-            "https://anilist.co/anime/110355",
-            "https://anime-planet.com/anime/golden-kamuy",
-            "https://anime-planet.com/anime/golden-kamuy-ova",
-            "https://anime-planet.com/anime/golden-kamuy-season-2",
-            "https://anime-planet.com/anime/golden-kamuy-season-2-ova",
-            "https://anime-planet.com/anime/golden-kamuy-season-3",
-            "https://anisearch.com/anime/12680",
-            "https://anisearch.com/anime/13622",
-            "https://anisearch.com/anime/13714",
-            "https://anisearch.com/anime/14454",
-            "https://anisearch.com/anime/14472",
-            "https://anisearch.com/anime/14496",
-            "https://anisearch.com/anime/15964",
-            "https://kitsu.io/anime/42435",
-            "https://livechart.me/anime/2818",
-            "https://livechart.me/anime/3247",
-            "https://livechart.me/anime/3357",
-            "https://livechart.me/anime/8702",
-            "https://livechart.me/anime/9507",
-            "https://myanimelist.net/anime/40059",
-            "https://notify.moe/anime/JmEWOK_Wg"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "based on a manga",
-            "comedy",
-            "drama",
-            "educational",
-            "food",
-            "guns",
-            "hero of strong character",
-            "historical",
-            "japan",
-            "meiji era",
-            "military",
-            "outdoor",
-            "primarily adult cast",
-            "seinen",
-            "stoic heroine",
-            "swords & co",
-            "treasure hunters"
         ],
         "date": {
             "season": "unknown",
@@ -21326,6 +21332,7 @@
             "https://anilist.co/anime/145740",
             "https://anime-planet.com/anime/grisaia-phantom-trigger-the-animation",
             "https://anisearch.com/anime/17161",
+            "https://kitsu.io/anime/46011",
             "https://livechart.me/anime/11101",
             "https://myanimelist.net/anime/51119",
             "https://notify.moe/anime/L2pf5gLng"
@@ -21352,6 +21359,7 @@
             "https://anilist.co/anime/120892",
             "https://anime-planet.com/anime/grisaia-phantom-trigger",
             "https://anime-planet.com/anime/grisaia-phantom-trigger-stargazer",
+            "https://kitsu.io/anime/43368",
             "https://livechart.me/anime/2783",
             "https://livechart.me/anime/9426",
             "https://myanimelist.net/anime/42392",
@@ -23728,16 +23736,18 @@
             "https://anidb.net/anime/17271",
             "https://anilist.co/anime/146646",
             "https://anime-planet.com/anime/baki-son-of-ogre-2",
+            "https://anisearch.com/anime/17241",
             "https://kitsu.io/anime/45984",
             "https://livechart.me/anime/11152",
-            "https://myanimelist.net/anime/51318"
+            "https://myanimelist.net/anime/51318",
+            "https://notify.moe/anime/TNTyttynR"
         ],
-        "title": "Hanma Baki: Son of Ogre 2",
+        "title": "Hanma Baki: Son of Ogre 2nd Season",
         "type": "ona",
-        "episodes": 0,
+        "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1569/121624.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1569/121624t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1930/121790.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1930/121790t.jpg",
         "synonyms": [
             "Baki Hanma",
             "Baki Hanma 2",
@@ -23746,14 +23756,21 @@
             "Baki Hanma: Son of Ogre Season 2",
             "Baki: Son of Ogre 2",
             "Hanma Baki 2nd Season",
+            "Hanma Baki: Son of Ogre 2",
+            "Son of Ogre Baki Hanma Season 2",
             "The Boy Fascinating the Fighting God",
             "範馬刃牙 2期",
-            "範馬刃牙 SON OF OGRE 2",
-            "範馬刃牙 SON OF OGRE 2期"
+            "範馬刃牙 SON OF OGRE",
+            "範馬刃牙 SON OF OGRE 2"
         ],
         "relations": [
+            "https://anidb.net/anime/15737",
             "https://anilist.co/anime/124195",
             "https://anime-planet.com/anime/baki-son-of-ogre",
+            "https://anisearch.com/anime/11558",
+            "https://anisearch.com/anime/12696",
+            "https://anisearch.com/anime/15175",
+            "https://anisearch.com/anime/15565",
             "https://kitsu.io/anime/43599",
             "https://livechart.me/anime/10158",
             "https://livechart.me/anime/2246",
@@ -23762,11 +23779,13 @@
             "https://livechart.me/anime/6212",
             "https://livechart.me/anime/9326",
             "https://livechart.me/anime/9366",
-            "https://myanimelist.net/anime/42940"
+            "https://myanimelist.net/anime/42940",
+            "https://notify.moe/anime/mrgJ_m0Gg"
         ],
         "tags": [
             "action",
             "based on a manga",
+            "fighting-shounen",
             "hand to hand combat",
             "martial arts",
             "shounen",
@@ -24554,7 +24573,7 @@
         ],
         "relations": [],
         "tags": [
-            "cars",
+            "racing",
             "sports"
         ],
         "date": {
@@ -24631,6 +24650,7 @@
             "high school",
             "music",
             "musical band",
+            "performing arts",
             "present",
             "primarily female cast",
             "school",
@@ -25952,7 +25972,7 @@
         ],
         "title": "Hua Jianghu Zhi Buliang Ren V",
         "type": "ona",
-        "episodes": 10,
+        "episodes": 11,
         "status": "unknown",
         "picture": "https://cdn.anime-planet.com/anime/primary/hua-jianghu-zhi-buliang-ren-v-1.jpg?t=1636044674",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/hua-jianghu-zhi-buliang-ren-v-1-285x400.jpg?t=1636044674",
@@ -25967,39 +25987,6 @@
             "martial arts",
             "original work",
             "wuxia"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/hua-jianghu-zhi-gui-yexing"
-        ],
-        "title": "Hua Jianghu Zhi Gui Yexing",
-        "type": "ona",
-        "episodes": 20,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/hua-jianghu-zhi-gui-yexing-1.jpg?t=1625908743",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/hua-jianghu-zhi-gui-yexing-1-190x266.jpg?t=1625908743",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/hua-jianghu-zhi-bei-mo-ting",
-            "https://anime-planet.com/anime/hua-jianghu-zhi-buliang-ren",
-            "https://anime-planet.com/anime/hua-jianghu-zhi-gui-yexing-part-ii",
-            "https://anime-planet.com/anime/hua-jianghu-zhi-huan-shi-men-sheng",
-            "https://anime-planet.com/anime/hua-jianghu-zhi-lingzhu",
-            "https://anime-planet.com/anime/hua-jianghu-zhi-xia-lan"
-        ],
-        "tags": [
-            "action",
-            "cars",
-            "cg animation",
-            "chinese animation",
-            "original work",
-            "racing",
-            "sports"
         ],
         "date": {
             "season": "unknown",
@@ -26131,6 +26118,35 @@
         ],
         "tags": [
             "adventure"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/146914"
+        ],
+        "title": "Hua Jianghu: Buliang Ren 6",
+        "type": "ona",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146914-845x4SW9iZTx.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146914-845x4SW9iZTx.png",
+        "synonyms": [
+            "Painting Rivers and Lakes 6",
+            "画江湖之不良人 第6季",
+            "画江湖之不良人Ⅵ"
+        ],
+        "relations": [
+            "https://anilist.co/anime/137725"
+        ],
+        "tags": [
+            "adventure",
+            "drama",
+            "full cgi",
+            "romance"
         ],
         "date": {
             "season": "unknown",
@@ -26530,42 +26546,6 @@
         "relations": [],
         "tags": [
             "comedy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/141898",
-            "https://anisearch.com/anime/17138",
-            "https://myanimelist.net/anime/50575"
-        ],
-        "title": "Huang Yan",
-        "type": "ona",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1568/120016.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1568/120016t.jpg",
-        "synonyms": [
-            "Ai no Ningyou",
-            "Face On Lie",
-            "Kkeopdegi",
-            "愛の人形",
-            "皮囊",
-            "皮囊Face on Lie",
-            "谎颜",
-            "껍데기"
-        ],
-        "relations": [],
-        "tags": [
-            "cg-anime",
-            "drama",
-            "full cgi",
-            "psychological",
-            "romance",
-            "suspense"
         ],
         "date": {
             "season": "unknown",
@@ -27656,6 +27636,7 @@
             "primarily teen cast",
             "romance",
             "romantic comedy",
+            "romantic subtext",
             "school",
             "school club",
             "school life",
@@ -27665,7 +27646,8 @@
             "slice of life",
             "tanned skin",
             "tomboy",
-            "tsundere"
+            "tsundere",
+            "visual arts"
         ],
         "date": {
             "season": "unknown",
@@ -27789,6 +27771,31 @@
             "commercials",
             "promotional",
             "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51462"
+        ],
+        "title": "Isekai Nonbiri Houka",
+        "type": "unknown",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1538/122069.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1538/122069t.jpg",
+        "synonyms": [
+            "Farming life in another world.",
+            "異世界のんびり農家"
+        ],
+        "relations": [],
+        "tags": [
+            "fantasy",
+            "isekai",
+            "reincarnation"
         ],
         "date": {
             "season": "unknown",
@@ -28424,14 +28431,15 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/137687"
+            "https://anilist.co/anime/137687",
+            "https://myanimelist.net/anime/51384"
         ],
         "title": "Jian Ling Tongju Riji",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137687-hrEGFBF2Rvxs.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137687-hrEGFBF2Rvxs.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1041/121811.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1041/121811t.jpg",
         "synonyms": [
             "剑灵同居日记"
         ],
@@ -30265,14 +30273,15 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/137710"
+            "https://anilist.co/anime/137710",
+            "https://myanimelist.net/anime/51398"
         ],
         "title": "Jiu Wo",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137710-eJI94g52R8Lx.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137710-eJI94g52R8Lx.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1992/121825.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1992/121825t.jpg",
         "synonyms": [
             "救我"
         ],
@@ -32843,104 +32852,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/17274"
-        ],
-        "title": "Kengan Ashura (Zokuhen)",
-        "type": "ona",
-        "episodes": 0,
-        "status": "unknown",
-        "picture": "https://cdn.anidb.net/images/main/271022.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/271022.jpg-thumb.jpg",
-        "synonyms": [
-            "ケンガンアシュラ (続編)"
-        ],
-        "relations": [
-            "https://anidb.net/anime/15110"
-        ],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/11150"
-        ],
-        "title": "Kengan Ashura 2",
-        "type": "ona",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://u.livechart.me/anime/11150/poster_image/d66cccd81ed65be138f66fec45177697.webp?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/11150/poster_image/d66cccd81ed65be138f66fec45177697.webp?style=small&format=jpg",
-        "synonyms": [
-            "Kengan Ashura Season 2",
-            "ケンガンアシュラ 2"
-        ],
-        "relations": [
-            "https://livechart.me/anime/1580",
-            "https://livechart.me/anime/9563"
-        ],
-        "tags": [
-            "action",
-            "comedy",
-            "martial arts"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/146638"
-        ],
-        "title": "Kengan Ashura 2nd Season",
-        "type": "ona",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146638-mtjdpkvg5sxs.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146638-mtjdpkvg5sxs.jpg",
-        "synonyms": [
-            "KENGAN ASHURA Season 2",
-            "ケンガンアシュラ 第2期"
-        ],
-        "relations": [
-            "https://anilist.co/anime/111048"
-        ],
-        "tags": [
-            "action",
-            "sports"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/45990"
-        ],
-        "title": "Kengan Ashura Season 2",
-        "type": "ona",
-        "episodes": 0,
-        "status": "unknown",
-        "picture": "https://media.kitsu.io/anime/45990/poster_image/small-12c10aa4ada5b947031c9eefbd61028d.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45990/poster_image/tiny-6e5c0cce3c8bbba8fd0f94ee08a774c1.jpeg",
-        "synonyms": [
-            "ケンガンアシュラ 2"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/42501"
-        ],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/49641"
         ],
         "title": "Kenpuu Denki Berserk Episode R0",
@@ -33329,6 +33240,7 @@
             "male protagonist",
             "martial arts",
             "monster girl",
+            "mythology",
             "nudity",
             "orphans",
             "shounen",
@@ -34213,6 +34125,7 @@
             "magic",
             "male protagonist",
             "parody",
+            "reincarnation",
             "satire",
             "supernatural"
         ],
@@ -35932,6 +35845,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1176/110884t.jpg",
         "synonyms": [
             "Kuma Kuma Kuma Bear 2",
+            "Kuma Kuma Kuma Bear Season 2",
             "The Bears Bear a Bare Kuma 2nd Season",
             "くま クマ 熊 ベアー 2",
             "くま クマ 熊 ベアー 2ndシーズ",
@@ -36264,6 +36178,34 @@
     },
     {
         "sources": [
+            "https://anisearch.com/anime/17251"
+        ],
+        "title": "Kyuuketsuki Sugu Shinu 2",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17251.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17251.webp",
+        "synonyms": [
+            "Kyūketsuki Sugu Shinu 2",
+            "The Vampire Dies in No Time 2",
+            "The Vampire Dies in No Time Season 2",
+            "吸血鬼すぐ死ぬ2"
+        ],
+        "relations": [
+            "https://anisearch.com/anime/15234"
+        ],
+        "tags": [
+            "comedy",
+            "vampires"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16956",
             "https://anilist.co/anime/142914",
             "https://anime-planet.com/anime/the-vampire-dies-in-no-time-2nd-season",
@@ -36304,6 +36246,7 @@
             "based on a manga",
             "comedy",
             "gag",
+            "gag humor",
             "shounen",
             "slapstick",
             "supernatural",
@@ -38709,7 +38652,8 @@
             "psychological",
             "romance",
             "school",
-            "school life"
+            "school life",
+            "strategy game"
         ],
         "date": {
             "season": "unknown",
@@ -38903,7 +38847,7 @@
         ],
         "title": "Ling Jian Zun 5th Season",
         "type": "ona",
-        "episodes": 64,
+        "episodes": 66,
         "status": "ongoing",
         "picture": "https://cdn.anime-planet.com/anime/primary/ling-jian-zun-5th-season-1.jpg?t=1628741058",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/ling-jian-zun-5th-season-1-285x399.jpg?t=1628741058",
@@ -42359,6 +42303,7 @@
             "magic",
             "magic school",
             "male protagonist",
+            "mythology",
             "non-human protagonists",
             "overpowered main characters",
             "primarily teen cast",
@@ -42531,6 +42476,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1406/119540.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1406/119540t.jpg",
         "synonyms": [
+            "Chained Soldier",
             "Demon Slave",
             "Mabotai",
             "SLAVE ทาสสุดแกร่งแห่งหน่วยป้องกันอสูร",
@@ -44141,9 +44087,9 @@
             "action",
             "adventure",
             "comedy",
-            "game",
             "sci-fi",
-            "sports"
+            "sports",
+            "strategy game"
         ],
         "date": {
             "season": "unknown",
@@ -45570,6 +45516,31 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/mobile-suit-gundam-00-revealed-chronicle"
+        ],
+        "title": "Mobile Suit Gundam 00: Revealed Chronicle",
+        "type": "special",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/mobile-suit-gundam-00",
+            "https://anime-planet.com/anime/mobile-suit-gundam-00-second-season",
+            "https://anime-planet.com/anime/mobile-suit-gundam-00-the-movie-a-wakening-of-the-trailblazer"
+        ],
+        "tags": [
+            "cg animation",
+            "original work"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/14032",
             "https://anime-planet.com/anime/mobile-suit-gundam-seed-project-ignited",
             "https://anisearch.com/anime/17009",
@@ -46412,7 +46383,7 @@
             "https://myanimelist.net/anime/49460"
         ],
         "title": "Mori no Kuma-san, Toumin-chuu.",
-        "type": "tv",
+        "type": "ona",
         "episodes": 0,
         "status": "upcoming",
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
@@ -46431,7 +46402,7 @@
             "based on a manga",
             "bl",
             "boys love",
-            "erotica",
+            "hentai",
             "non-human protagonists",
             "smut",
             "yaoi"
@@ -46570,6 +46541,7 @@
         "relations": [],
         "tags": [
             "club",
+            "combat sports",
             "comedy",
             "drama",
             "friendship",
@@ -47578,6 +47550,24 @@
         "tags": [
             "kids"
         ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51434"
+        ],
+        "title": "Nana",
+        "type": "unknown",
+        "episodes": 47,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1494/121926.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1494/121926t.jpg",
+        "synonyms": [],
+        "relations": [],
+        "tags": [],
         "date": {
             "season": "unknown",
             "year": null
@@ -48981,8 +48971,8 @@
         ],
         "relations": [],
         "tags": [
-            "demons",
-            "kids"
+            "kids",
+            "mythology"
         ],
         "date": {
             "season": "unknown",
@@ -49040,6 +49030,7 @@
             "based on a mobile game",
             "demons",
             "historical",
+            "mythology",
             "supernatural"
         ],
         "date": {
@@ -49092,6 +49083,7 @@
             "https://notify.moe/anime/njJUcKmmR"
         ],
         "tags": [
+            "adult cast",
             "adventure",
             "contemporary fantasy",
             "deity",
@@ -49262,8 +49254,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1804/120371.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1804/120371t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1030/121878.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1030/121878t.jpg",
         "synonyms": [
             "She Is the Neighbor Angel, I Am Spoild by Her",
             "The Angel Next Door Spoils Me Rotten",
@@ -49419,6 +49411,7 @@
             "supernatural",
             "swords & co",
             "trapped in a video game",
+            "video game",
             "virtual reality"
         ],
         "date": {
@@ -51141,24 +51134,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/146625"
-        ],
-        "title": "Project Engage",
-        "type": "unknown",
-        "episodes": 0,
-        "status": "unknown",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b146625-BAH1P9on7Z7X.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b146625-BAH1P9on7Z7X.jpg",
-        "synonyms": [],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
             "https://kitsu.io/anime/8803",
             "https://livechart.me/anime/6426",
             "https://myanimelist.net/anime/24023",
@@ -51349,6 +51324,32 @@
             "adventure",
             "historical",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/qi-jie-diyi-xian"
+        ],
+        "title": "Qi Jie Diyi Xian",
+        "type": "ona",
+        "episodes": 13,
+        "status": "unknown",
+        "picture": "https://cdn.anime-planet.com/anime/primary/qi-jie-diyi-xian-1.webp?t=1645998061",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/qi-jie-diyi-xian-1-285x399.webp?t=1645998061",
+        "synonyms": [
+            "The First Immortal of the Seven Realms"
+        ],
+        "relations": [],
+        "tags": [
+            "based on a novel",
+            "cg animation",
+            "chinese animation",
+            "fantasy",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -53224,10 +53225,10 @@
             "comedy",
             "drama",
             "e-sports",
-            "game",
             "mmorpg",
             "rpg",
             "tournaments",
+            "video game",
             "virtual reality"
         ],
         "date": {
@@ -53440,24 +53441,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/51327"
-        ],
-        "title": "RWBY Vol 1",
-        "type": "tv",
-        "episodes": 16,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/15921",
             "https://anilist.co/anime/127163",
             "https://anime-planet.com/anime/rail-romanesque-2nd-season",
@@ -53499,42 +53482,6 @@
             "sci-fi",
             "slice of life",
             "trains"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16876",
-            "https://anilist.co/anime/140173",
-            "https://anime-planet.com/anime/rakudai-majo",
-            "https://anisearch.com/anime/16645",
-            "https://livechart.me/anime/10834",
-            "https://myanimelist.net/anime/50109",
-            "https://notify.moe/anime/PzHbGeDng"
-        ],
-        "title": "Rakudai Majo",
-        "type": "movie",
-        "episodes": 1,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1717/118755.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1717/118755t.jpg",
-        "synonyms": [
-            "Failure Witch",
-            "The Klutzy Witch",
-            "らくだい魔女"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "based on a novel",
-            "family friendly",
-            "fantasy",
-            "magic",
-            "romance",
-            "witches"
         ],
         "date": {
             "season": "unknown",
@@ -55134,6 +55081,7 @@
             "gangs",
             "mafia",
             "mature romance",
+            "organized crime",
             "psychological",
             "romance",
             "yakuza",
@@ -56273,6 +56221,7 @@
             "fantasy",
             "magic",
             "magical girl",
+            "mahou shoujo",
             "parody"
         ],
         "date": {
@@ -56527,6 +56476,7 @@
             "isekai",
             "josei",
             "magic",
+            "medical",
             "medicine",
             "medieval",
             "person in a strange world",
@@ -56534,39 +56484,6 @@
             "romance",
             "slice of life",
             "summoned into another world"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16407",
-            "https://anilist.co/anime/136150",
-            "https://anime-planet.com/anime/legend-of-mana-the-teardrop-crystal",
-            "https://kitsu.io/anime/44822",
-            "https://livechart.me/anime/10653",
-            "https://myanimelist.net/anime/49304",
-            "https://notify.moe/anime/bBClCFk7R"
-        ],
-        "title": "Seiken Densetsu: Legend of Mana - The Teardrop Crystal",
-        "type": "tv",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1996/116114.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1996/116114t.jpg",
-        "synonyms": [
-            "Legend of Mana: The Teardrop Crystal",
-            "Seiken Densetsu: Legend of Mana - The Teardrop Crysta",
-            "聖剣伝説 Legend of Mana -The Teardrop Crystal-"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "based on a video game",
-            "fantasy",
-            "magic"
         ],
         "date": {
             "season": "unknown",
@@ -58107,15 +58024,17 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/137711"
+            "https://anilist.co/anime/137711",
+            "https://myanimelist.net/anime/51399"
         ],
         "title": "Shen Qian 2080",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137711-8eCo9Rn6xZBg.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137711-8eCo9Rn6xZBg.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1934/121826.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1934/121826t.jpg",
         "synonyms": [
+            "Heaven's Projection",
             "深潜2080"
         ],
         "relations": [],
@@ -59530,14 +59449,15 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/137706"
+            "https://anilist.co/anime/137706",
+            "https://myanimelist.net/anime/51392"
         ],
         "title": "Shi Shi Chuanshuo",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137706-ncPbZEHcj2j1.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137706-ncPbZEHcj2j1.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1466/121819.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1466/121819t.jpg",
         "synonyms": [
             "师士传说"
         ],
@@ -60782,7 +60702,7 @@
             "https://myanimelist.net/anime/50469"
         ],
         "title": "Showtime!: Uta no Oneesan datte Shitai 2nd Season",
-        "type": "tv",
+        "type": "ona",
         "episodes": 0,
         "status": "upcoming",
         "picture": "https://cdn.myanimelist.net/images/anime/1582/119690.jpg",
@@ -60794,7 +60714,7 @@
             "https://myanimelist.net/anime/49637"
         ],
         "tags": [
-            "erotica"
+            "hentai"
         ],
         "date": {
             "season": "unknown",
@@ -63320,6 +63240,7 @@
             "seinen",
             "shoujo ai",
             "shoujo-ai",
+            "video game",
             "video games",
             "yuri"
         ],
@@ -64709,6 +64630,34 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51436"
+        ],
+        "title": "Tenken",
+        "type": "tv",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1138/121957.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1138/121957t.jpg",
+        "synonyms": [
+            "Reincarnated as a Sword",
+            "as I Became the Sword by Transmigrating",
+            "転剣"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "adventure",
+            "comedy",
+            "fantasy",
+            "shounen"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/51266"
         ],
         "title": "Tensai Bakabon Pilot",
@@ -64726,65 +64675,6 @@
         "tags": [
             "comedy",
             "slice of life"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16785",
-            "https://anilist.co/anime/139587",
-            "https://anime-planet.com/anime/reincarnated-as-a-sword",
-            "https://anisearch.com/anime/16618",
-            "https://kitsu.io/anime/45242",
-            "https://livechart.me/anime/10805",
-            "https://myanimelist.net/anime/49891",
-            "https://notify.moe/anime/SuZsghH7g"
-        ],
-        "title": "Tensei shitara Ken Deshita",
-        "type": "tv",
-        "episodes": 12,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1026/117965.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1026/117965t.jpg",
-        "synonyms": [
-            "I Became the Sword by Transmigrating",
-            "I Was a Sword When I Reincarnated",
-            "I became the sword by transmigrating",
-            "Reincarnated as a Sword",
-            "TenKen",
-            "Tensei Shitara Ken Deshita",
-            "Tensei Shitara Ken deshita",
-            "Tensei shitara Ken deshita",
-            "Tensei shitara Kendeshita",
-            "転生したら剣でした"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "adventure",
-            "alternative world",
-            "animal characteristics",
-            "based on a light novel",
-            "comedy",
-            "dungeon",
-            "fantasy",
-            "female protagonist",
-            "guilds",
-            "isekai",
-            "kemonomimi",
-            "magic",
-            "monster",
-            "nekomimi",
-            "non-human protagonists",
-            "novel",
-            "person in a strange world",
-            "reincarnation",
-            "rpg",
-            "slavery",
-            "swords & co"
         ],
         "date": {
             "season": "unknown",
@@ -64838,6 +64728,29 @@
             "fantasy",
             "slice of life",
             "thriller"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/the-fabulous-sword-god"
+        ],
+        "title": "The Fabulous Sword God",
+        "type": "ona",
+        "episodes": 78,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "synonyms": [
+            "Ni Tian Jian Shen"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -65091,7 +65004,7 @@
         ],
         "title": "The Legend of Sky Lord",
         "type": "ona",
-        "episodes": 104,
+        "episodes": 105,
         "status": "ongoing",
         "picture": "https://cdn.anime-planet.com/anime/primary/the-legend-of-sky-lord-1.jpg?t=1634175447",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-legend-of-sky-lord-1-285x399.jpg?t=1634175447",
@@ -70932,14 +70845,15 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/137685"
+            "https://anilist.co/anime/137685",
+            "https://myanimelist.net/anime/51383"
         ],
         "title": "Wo Jian Qile Yi Di Shuxing",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137685-0Xyu7kQNckcc.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137685-0Xyu7kQNckcc.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1945/121808.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1945/121808t.jpg",
         "synonyms": [
             "Attribute Collection",
             "I Picked Up An Attribute",
@@ -71655,54 +71569,9 @@
             "based on a novel",
             "chinese animation",
             "comedy",
-            "demons",
-            "fantasy",
-            "historical"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16580",
-            "https://anime-planet.com/anime/wu-dong-qiankun-3rd-season",
-            "https://kitsu.io/anime/45076",
-            "https://myanimelist.net/anime/49570"
-        ],
-        "title": "Wu Dong Qian Kun 3rd Season",
-        "type": "ona",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1868/117007.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1868/117007t.jpg",
-        "synonyms": [
-            "Martial Universe",
-            "Wu Dong Qiankun (2021)",
-            "Wu Dong Qiankun 3rd Season",
-            "Wu Dong Qiankun Disanji",
-            "武动乾坤 (2021)",
-            "武动乾坤 第三季"
-        ],
-        "relations": [
-            "https://anidb.net/anime/15687",
-            "https://anime-planet.com/anime/wu-dong-qiankun-2nd-season",
-            "https://kitsu.io/anime/43289",
-            "https://myanimelist.net/anime/42266"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "based on a web novel",
-            "cg animation",
-            "chinese animation",
-            "cultivation",
             "fantasy",
             "historical",
-            "martial arts",
-            "novel",
-            "romance"
+            "mythology"
         ],
         "date": {
             "season": "unknown",
@@ -71922,14 +71791,15 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/137715"
+            "https://anilist.co/anime/137715",
+            "https://myanimelist.net/anime/51400"
         ],
         "title": "Wu Shuang Shu",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137715-BCbvHtZWodtf.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137715-BCbvHtZWodtf.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1246/121827.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1246/121827t.jpg",
         "synonyms": [
             "Heroines",
             "武双姝"
@@ -73612,14 +73482,15 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/137708"
+            "https://anilist.co/anime/137708",
+            "https://myanimelist.net/anime/51394"
         ],
         "title": "Xiao Bing Chuanqi",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137708-9x6L0xlXE44v.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137708-9x6L0xlXE44v.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1305/121821.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1305/121821t.jpg",
         "synonyms": [
             "Legend of Soldier",
             "小兵传奇"
@@ -78622,14 +78493,15 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/122518"
+            "https://anilist.co/anime/122518",
+            "https://myanimelist.net/anime/51393"
         ],
         "title": "Xingji Jianhu",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122518-NPVZx6MSyqRo.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122518-NPVZx6MSyqRo.png",
+        "picture": "https://cdn.myanimelist.net/images/anime/1292/121820.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1292/121820t.jpg",
         "synonyms": [
             "Star Ganghood",
             "星际江湖"
@@ -80625,7 +80497,7 @@
         ],
         "title": "Xue Ying Lingzhu 3rd Season",
         "type": "ona",
-        "episodes": 14,
+        "episodes": 15,
         "status": "ongoing",
         "picture": "https://cdn.anime-planet.com/anime/primary/xue-ying-lingzhu-3rd-season-1.jpg?t=1628864927",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/xue-ying-lingzhu-3rd-season-1-285x399.jpg?t=1628864927",
@@ -81100,6 +80972,7 @@
         ],
         "tags": [
             "action",
+            "adult cast",
             "drama",
             "leijiverse",
             "military",
@@ -81769,14 +81642,15 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/137704"
+            "https://anilist.co/anime/137704",
+            "https://myanimelist.net/anime/51390"
         ],
         "title": "Ying Yu Siwan Nian",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137704-VG6x4ikXS0gI.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137704-VG6x4ikXS0gI.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1489/121817.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1489/121817t.jpg",
         "synonyms": [
             "星域四万年"
         ],
@@ -84640,15 +84514,17 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/122517"
+            "https://anilist.co/anime/122517",
+            "https://myanimelist.net/anime/51388"
         ],
         "title": "Zhong Yue Zhan Ji",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122517-pG57NrPzWpWo.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122517-pG57NrPzWpWo.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1504/121815.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1504/121815t.jpg",
         "synonyms": [
+            "Final Gate Anthem",
             "Final Gate Saga",
             "终钥战纪"
         ],
@@ -86060,6 +85936,7 @@
             "fantasy",
             "idol",
             "idols",
+            "idols (female)",
             "moe",
             "music",
             "nonsense-comedy",
@@ -86380,29 +86257,6 @@
         "tags": [
             "avant garde",
             "school"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/51365"
-        ],
-        "title": "ryman no club",
-        "type": "unknown",
-        "episodes": 0,
-        "status": "ongoing",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "rymans club"
-        ],
-        "relations": [],
-        "tags": [
-            "game",
-            "sports"
         ],
         "date": {
             "season": "unknown",

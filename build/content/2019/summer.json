@@ -538,6 +538,7 @@
             "adventure",
             "alternate universe",
             "alternative world",
+            "anachronism",
             "anti-hero",
             "based on a light novel",
             "battle royale",
@@ -546,7 +547,6 @@
             "comedy",
             "conspiracy",
             "cosmic horror",
-            "cute girls doing cute things",
             "dark fantasy",
             "demons",
             "dragons",
@@ -1911,12 +1911,12 @@
             "based on a novel",
             "cats",
             "chinese animation",
+            "detective",
             "dogs",
             "historical",
             "kids",
             "mystery",
             "non-human protagonists",
-            "police",
             "sherlock holmes"
         ],
         "date": {
@@ -2857,6 +2857,7 @@
             "action",
             "adventure",
             "based on a manga",
+            "bullying",
             "chuunibyou",
             "comedy",
             "conspiracy",
@@ -4871,6 +4872,31 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/145853",
+            "https://myanimelist.net/anime/51380"
+        ],
+        "title": "Ice Cream",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1741/121778.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1741/121778t.jpg",
+        "synonyms": [
+            "ICECREAM",
+            "アイスクリーム"
+        ],
+        "relations": [],
+        "tags": [
+            "avant garde",
+            "music"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/ichiman",
             "https://kitsu.io/anime/44446",
             "https://myanimelist.net/anime/42061"
@@ -5196,6 +5222,7 @@
             "episodic",
             "female protagonist",
             "gag",
+            "gag humor",
             "kuudere",
             "manga",
             "otaku culture",
@@ -5436,6 +5463,7 @@
             "primarily child cast",
             "romance",
             "romantic comedy",
+            "romantic subtext",
             "rural",
             "school",
             "school life",
@@ -5690,6 +5718,7 @@
             "https://anilist.co/anime/107226",
             "https://anilist.co/anime/111048",
             "https://anime-planet.com/anime/kengan-ashura-2",
+            "https://anime-planet.com/anime/kengan-ashura-part-ii",
             "https://anisearch.com/anime/14676",
             "https://kitsu.io/anime/42501",
             "https://livechart.me/anime/9563",
@@ -11164,7 +11193,9 @@
             "https://myanimelist.net/anime/36536"
         ],
         "tags": [
+            "idols (male)",
             "music",
+            "performing arts",
             "school",
             "slice of life"
         ],
@@ -11623,8 +11654,10 @@
             "magic",
             "manga",
             "nudity",
+            "performing arts",
             "present",
             "romance",
+            "romantic subtext",
             "satire",
             "school",
             "school club",
@@ -12313,6 +12346,7 @@
             "okasuki",
             "twohitmom",
             "Мамка-попаданка",
+            "คุณแม่ที่มีสกิลพื้นฐานเป็นการโจมตีหมู่แถมยังเบิ้ลได้แบบนี้ชอบไหมจ๊ะ",
             "普通攻击是全体二连击，这样的妈妈你喜欢吗？",
             "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか?",
             "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？",
@@ -13107,6 +13141,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1154/101895.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1154/101895t.jpg",
         "synonyms": [
+            "Japanese Ghost Stories 7",
             "Theater of Darkness 7th Season",
             "Theatre of Darkness: Yamishibai 7",
             "Yami Shibai 7th Season",

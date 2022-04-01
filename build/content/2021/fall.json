@@ -171,7 +171,7 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/86-eighty-six-part-ii-if-theres-something-worth-dying-for",
+            "https://anime-planet.com/anime/86-eighty-six-part-ii-recaps",
             "https://anisearch.com/anime/16844",
             "https://kitsu.io/anime/45545",
             "https://myanimelist.net/anime/50475"
@@ -185,7 +185,10 @@
         "synonyms": [
             "86 : Eighty Six - Si cela vaut la peine de mourir",
             "86 Eighty-Six Episode 18.5 – If There's Something Worth Dying For",
+            "86 Eighty-Six Episode 21.5",
             "86 Episode 18.5",
+            "86 Part 2 Recaps",
+            "86 Part 2 Special Edition: Semete Ningen Taran to",
             "86 Recap",
             "86: Eighty Six (2021) Recap",
             "86: Eighty Six - If There‘s Something Worth Dying For",
@@ -194,9 +197,10 @@
             "86: Eighty Six - Si vale la pena morir por algo, es…",
             "86: Eighty Six - Wenn es etwas gibt, für das sich zu sterben lohnt.",
             "86: Eighty Six Episode 18.5",
-            "86: Eighty-Six - Part II: If There's Something Worth Dying For",
-            "86: Eighty-Six - Special Edition \"Shishite Kai Aru Mono Nareba\"",
+            "86: Eighty-Six - Dai 2 Cour Recaps",
+            "86: Eighty-Six - Part II Recaps",
             "86―エイティシックス― 死して甲斐あるものなれば",
+            "８６―エイティシックス― Special Edition",
             "８６―エイティシックス― Special Edition『死して甲斐あるものなれば』"
         ],
         "relations": [
@@ -681,7 +685,7 @@
         "title": "Artiswitch Picture Drama",
         "type": "ona",
         "episodes": 5,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1457/119884.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1457/119884t.jpg",
         "synonyms": [
@@ -693,6 +697,7 @@
             "https://myanimelist.net/anime/49066"
         ],
         "tags": [
+            "episodic",
             "primarily female cast",
             "slice of life",
             "supernatural"
@@ -782,6 +787,34 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/137709",
+            "https://anime-planet.com/anime/the-white-moon",
+            "https://anisearch.com/anime/16656",
+            "https://myanimelist.net/anime/51397"
+        ],
+        "title": "Bai Yue Er",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1730/121824.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1730/121824t.jpg",
+        "synonyms": [
+            "The White Moon",
+            "白月儿"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "drama",
+            "shorts"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://kitsu.io/anime/45507"
         ],
         "title": "Bai Yueer",
@@ -816,7 +849,7 @@
         ],
         "title": "BanG Dream! Garupa☆Pico Fever!",
         "type": "ona",
-        "episodes": 24,
+        "episodes": 26,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1724/117808.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1724/117808t.jpg",
@@ -888,7 +921,7 @@
         ],
         "title": "Battle Spirits: Mirage",
         "type": "ona",
-        "episodes": 2,
+        "episodes": 3,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1314/120786.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1314/120786t.jpg",
@@ -920,13 +953,14 @@
             "based on a card game",
             "card battle",
             "card battles",
-            "demons",
             "game",
             "ganbatte",
             "kids",
             "male protagonist",
             "military",
-            "sci-fi"
+            "mythology",
+            "sci-fi",
+            "strategy game"
         ],
         "date": {
             "season": "fall",
@@ -1620,7 +1654,7 @@
         ],
         "title": "Chickip Dancers",
         "type": "tv",
-        "episodes": 25,
+        "episodes": 26,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1306/120067.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1306/120067t.jpg",
@@ -2253,6 +2287,7 @@
             "Toushinki G`s Frame",
             "Toushinki G’s Frame (闘神機ジーズフレーム)",
             "ancient girls frame",
+            "เทพีสงคราม",
             "斗神姬",
             "闘神機ジーズフレーム"
         ],
@@ -2380,12 +2415,16 @@
             "cg-anime",
             "chinese animation",
             "comedy",
+            "cultivation",
             "demons",
             "fantasy",
             "full cgi",
+            "male protagonist",
             "martial arts",
+            "revenge",
             "romance",
             "supernatural",
+            "wuxia",
             "xianxia"
         ],
         "date": {
@@ -2866,9 +2905,11 @@
             "philosophy",
             "romance",
             "romantic comedy",
+            "romantic subtext",
             "senpai-kouhai relationship",
             "slice of life",
-            "work life"
+            "work life",
+            "workplace"
         ],
         "date": {
             "season": "fall",
@@ -3599,7 +3640,7 @@
         "title": "Hanyo no Yashahime: Ni no Shou",
         "type": "tv",
         "episodes": 24,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://u.livechart.me/anime/10475/poster_image/8090e484496888361885fcba920626a5.png?style=large&format=jpg",
         "thumbnail": "https://u.livechart.me/anime/10475/poster_image/8090e484496888361885fcba920626a5.png?style=small&format=jpg",
         "synonyms": [
@@ -3643,7 +3684,7 @@
         "title": "Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou",
         "type": "tv",
         "episodes": 24,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1415/118635.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1415/118635t.jpg",
         "synonyms": [
@@ -3692,10 +3733,12 @@
             "historical",
             "isekai",
             "magic",
+            "mythology",
             "new",
             "shounen",
             "supernatural",
             "swordplay",
+            "time travel",
             "tomboy",
             "youkai"
         ],
@@ -3711,7 +3754,7 @@
         "title": "Han’you no Yashahime: Sengoku Otogizoushi 2",
         "type": "tv",
         "episodes": 24,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16074.webp",
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16074.webp",
         "synonyms": [
@@ -4016,7 +4059,7 @@
         ],
         "title": "Hua Jianghu Zhi Gui Yexing: Part II",
         "type": "ona",
-        "episodes": 16,
+        "episodes": 17,
         "status": "upcoming",
         "picture": "https://cdn.anime-planet.com/anime/primary/hua-jianghu-zhi-gui-yexing-part-ii-1.jpg?t=1628284921",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/hua-jianghu-zhi-gui-yexing-part-ii-1-285x399.jpg?t=1628284921",
@@ -4054,6 +4097,7 @@
         "sources": [
             "https://anidb.net/anime/17101",
             "https://anilist.co/anime/114106",
+            "https://anime-planet.com/anime/huan-you-lieren",
             "https://anisearch.com/anime/16961",
             "https://kitsu.io/anime/45941",
             "https://myanimelist.net/anime/50604"
@@ -4080,9 +4124,11 @@
         "relations": [],
         "tags": [
             "adventure",
+            "chinese animation",
             "drama",
             "fantasy",
             "kemonomimi",
+            "sci fi",
             "sci-fi",
             "science fiction",
             "virtual world"
@@ -4355,6 +4401,7 @@
             "Restaurant to Another World (Saison 2)",
             "Restaurant to Another World 2",
             "Restaurant to Another World Season 2",
+            "Ресторан из другого мира 2",
             "ร้านอาหารต่างโลก ภาค 2",
             "异世界食堂 2",
             "异世界食堂2",
@@ -4378,9 +4425,11 @@
             "based on a light novel",
             "beastmen",
             "comedy",
+            "contemporary fantasy",
             "cooking",
             "demons",
             "dragons",
+            "elf",
             "elves",
             "episodic",
             "fantasy",
@@ -4401,7 +4450,8 @@
             "slice of life",
             "supernatural drama",
             "vampire",
-            "work"
+            "work",
+            "workplace"
         ],
         "date": {
             "season": "fall",
@@ -4588,6 +4638,7 @@
         "relations": [
             "https://anidb.net/anime/14173",
             "https://anilist.co/anime/102883",
+            "https://anilist.co/anime/146722",
             "https://anime-planet.com/anime/jojos-bizarre-adventure",
             "https://anime-planet.com/anime/jojos-bizarre-adventure-2000",
             "https://anime-planet.com/anime/jojos-bizarre-adventure-2012",
@@ -4601,12 +4652,14 @@
             "https://anisearch.com/anime/11869",
             "https://anisearch.com/anime/13699",
             "https://anisearch.com/anime/14083",
+            "https://anisearch.com/anime/17246",
             "https://anisearch.com/anime/207",
             "https://anisearch.com/anime/4027",
             "https://anisearch.com/anime/74",
             "https://anisearch.com/anime/7946",
             "https://anisearch.com/anime/9149",
             "https://kitsu.io/anime/41410",
+            "https://kitsu.io/anime/46010",
             "https://livechart.me/anime/1891",
             "https://livechart.me/anime/2160",
             "https://livechart.me/anime/280",
@@ -4620,6 +4673,7 @@
             "https://livechart.me/anime/9568",
             "https://myanimelist.net/anime/37991",
             "https://myanimelist.net/anime/51367",
+            "https://notify.moe/anime/10s3Ktsng",
             "https://notify.moe/anime/qjQmS0DmR"
         ],
         "tags": [
@@ -4645,7 +4699,6 @@
             "foreign",
             "fugitive",
             "ghost",
-            "gods",
             "gore",
             "heroine of strong character",
             "horror",
@@ -4668,7 +4721,6 @@
             "supernatural drama",
             "surreal comedy",
             "time manipulation",
-            "tragedy",
             "tsundere",
             "united states",
             "urban fantasy",
@@ -4798,7 +4850,11 @@
             "カガリ ヒバナ"
         ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "fantasy",
+            "independent anime",
+            "monster"
+        ],
         "date": {
             "season": "fall",
             "year": 2021
@@ -4827,6 +4883,7 @@
             "Kagi-Nado",
             "Kagi-nado",
             "Key, etc.",
+            "ไขกุญแจข้ามโลก",
             "かぎなど",
             "鍵等"
         ],
@@ -4893,6 +4950,7 @@
             "meta",
             "school",
             "short episodes",
+            "slapstick",
             "slice of life",
             "super deformed"
         ],
@@ -5096,6 +5154,7 @@
     {
         "sources": [
             "https://anilist.co/anime/140474",
+            "https://anisearch.com/anime/17234",
             "https://kitsu.io/anime/45346"
         ],
         "title": "Kamisama no Idenshi",
@@ -5109,6 +5168,7 @@
         ],
         "relations": [],
         "tags": [
+            "independent anime",
             "parkour"
         ],
         "date": {
@@ -5142,6 +5202,7 @@
             "animal protagonists",
             "animals",
             "cats",
+            "pets",
             "short episodes",
             "slice of life"
         ],
@@ -5374,6 +5435,7 @@
             "fighting-shounen",
             "historical",
             "manga",
+            "mythology",
             "orphans",
             "shounen",
             "siblings",
@@ -5476,7 +5538,7 @@
         "synonyms": [
             "Insomniacs After School CM",
             "Kimi wa Hōkago Insomnia Special Animation PV",
-            "君は放課後インソムニア　スペシャルアニメーションPV"
+            "君は放課後インソムニア スペシャルアニメーションPV"
         ],
         "relations": [],
         "tags": [
@@ -5484,6 +5546,30 @@
             "present",
             "slice of life",
             "slice of life drama"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anisearch.com/anime/17236"
+        ],
+        "title": "Kimigairukara",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17236.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17236.webp",
+        "synonyms": [
+            "SagiharaRinne - Kimigairukara",
+            "君がいるから",
+            "鷺原鈴音 - 君がいるから"
+        ],
+        "relations": [],
+        "tags": [
+            "independent anime"
         ],
         "date": {
             "season": "fall",
@@ -5630,6 +5716,7 @@
             "primarily teen cast",
             "romance",
             "romantic comedy",
+            "romantic subtext",
             "school",
             "school life",
             "shounen",
@@ -6005,6 +6092,7 @@
             "sci-fi",
             "science fiction",
             "science-fiction",
+            "shounen",
             "swords & co",
             "terrorism",
             "tragedy",
@@ -7545,7 +7633,8 @@
             "https://anilist.co/anime/108465",
             "https://anilist.co/anime/141534",
             "https://anime-planet.com/anime/mushoku-tensei-jobless-reincarnation",
-            "https://anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-special",
+            "https://anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-2nd-season",
+            "https://anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-eris-the-goblin-slayer",
             "https://anisearch.com/anime/14254",
             "https://anisearch.com/anime/16785",
             "https://kitsu.io/anime/42323",
@@ -8112,7 +8201,7 @@
         "title": "Ousama Ranking",
         "type": "tv",
         "episodes": 23,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1347/117616.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1347/117616t.jpg",
         "synonyms": [
@@ -8142,7 +8231,6 @@
             "based on a manga",
             "bullying",
             "cannibalism",
-            "cgi",
             "comedy",
             "coming of age",
             "conspiracy",
@@ -8151,8 +8239,10 @@
             "ensemble cast",
             "fairy tale",
             "fantasy",
+            "gods",
             "gore",
             "historical",
+            "iyashikei",
             "language barrier",
             "magic",
             "male protagonist",
@@ -8269,7 +8359,7 @@
         "title": "Platinum End",
         "type": "tv",
         "episodes": 24,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1992/116576.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1992/116576t.jpg",
         "synonyms": [
@@ -8504,10 +8594,10 @@
             "cg animation",
             "cg-anime",
             "chinese animation",
-            "demons",
             "fantasy",
             "full cgi",
-            "martial arts"
+            "martial arts",
+            "mythology"
         ],
         "date": {
             "season": "fall",
@@ -8542,6 +8632,7 @@
             "adventure",
             "based on a manga",
             "comedy",
+            "detective",
             "kids",
             "police",
             "policeman",
@@ -9108,6 +9199,7 @@
         ],
         "relations": [],
         "tags": [
+            "adult cast",
             "adult couples",
             "based on a manga",
             "comedy",
@@ -9127,6 +9219,7 @@
             "primarily adult cast",
             "romance",
             "romantic comedy",
+            "romantic subtext",
             "salaryman",
             "seinen",
             "slice of life",
@@ -9136,7 +9229,8 @@
             "video games",
             "work",
             "work life",
-            "working life"
+            "working life",
+            "workplace"
         ],
         "date": {
             "season": "fall",
@@ -9316,7 +9410,7 @@
         ],
         "title": "Shiguang Zhaoxiangguan de Richang",
         "type": "ona",
-        "episodes": 5,
+        "episodes": 6,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1522/118752.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1522/118752t.jpg",
@@ -9353,7 +9447,8 @@
             "musical",
             "short episodes",
             "slapstick",
-            "slice of life"
+            "slice of life",
+            "time travel"
         ],
         "date": {
             "season": "fall",
@@ -9815,6 +9910,7 @@
             "pandemic",
             "politics",
             "post-apocalyptic",
+            "pov",
             "primarily female cast",
             "rape",
             "reluctant hero",
@@ -9831,6 +9927,7 @@
             "teacher",
             "terrorism",
             "time skip",
+            "time travel",
             "tragedy",
             "yandere"
         ],
@@ -10317,6 +10414,7 @@
             "tragedy",
             "trapped in a video game",
             "tsundere",
+            "video game",
             "video games",
             "virtual reality",
             "virtual world"
@@ -10356,29 +10454,6 @@
             "fantasy",
             "idol",
             "music"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/146415",
-            "https://kitsu.io/anime/45979"
-        ],
-        "title": "TSUNE",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45979/poster_image/small-b864ca3fd6dd4fd27430980813978f4f.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45979/poster_image/tiny-51cbbfe5c1a8c64944935b251ff0d194.jpeg",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "music",
-            "sci-fi",
-            "science fiction"
         ],
         "date": {
             "season": "fall",
@@ -10863,33 +10938,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/137709",
-            "https://anime-planet.com/anime/the-white-moon",
-            "https://anisearch.com/anime/16656"
-        ],
-        "title": "The White Moon",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/the-white-moon-1.webp?t=1641702841",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-white-moon-1-285x399.webp?t=1641702841",
-        "synonyms": [
-            "Bai Yue Er",
-            "白月儿"
-        ],
-        "relations": [],
-        "tags": [
-            "chinese animation",
-            "drama",
-            "shorts"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/129259",
             "https://anime-planet.com/anime/shijian-qiutu",
             "https://anisearch.com/anime/16721",
@@ -10949,12 +10997,13 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1775/116575.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1775/116575t.jpg",
         "synonyms": [
+            "Eiga Tropical-Rouge! Precure",
             "Eiga Tropical-Rouge! Precure: Yuki no Princess to Kiseki no Yubiwa!",
-            "Eiga Tropical-Rouge! Pretty Cure",
             "Tropical Rouge! Precure Snow Princess and The Miracle Ring!",
             "Tropical-Rogue! Precure: Yuki no Princess to Kiseki no Yubiwa!",
             "Tropical-Rouge! Precure the Movie: The Snow Princess and the Miraculous Ring",
             "Tropical-Rouge! Precure: Yuki no Princess to Kiseki no Yubiwa!",
+            "Tropical-Rouge! Pretty Cure: The Snow Princess and the Miraculous Ring!",
             "トロピカル～ジュ！プリキュア 雪のプリンセスと奇跡の指輪！",
             "映画 トロピカル〜ジュ!プリキュア 雪のプリンセスと奇跡の指輪!",
             "映画トロピカル~ジュ! プリキュア 雪のプリンセスと奇跡の指輪!",
@@ -11127,6 +11176,32 @@
             "vampire",
             "vampires",
             "work"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/146415",
+            "https://kitsu.io/anime/45979",
+            "https://myanimelist.net/anime/51445"
+        ],
+        "title": "Tsune",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1699/121974.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1699/121974t.jpg",
+        "synonyms": [
+            "TSUNE"
+        ],
+        "relations": [],
+        "tags": [
+            "music",
+            "sci-fi",
+            "science fiction"
         ],
         "date": {
             "season": "fall",
@@ -11316,6 +11391,7 @@
         ],
         "tags": [
             "action",
+            "adult cast",
             "adventure",
             "drama",
             "leijiverse",
@@ -11650,7 +11726,7 @@
         ],
         "title": "Waccha PriMagi!",
         "type": "tv",
-        "episodes": 23,
+        "episodes": 24,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1522/117595.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1522/117595t.jpg",
@@ -11688,6 +11764,7 @@
             "henshin",
             "idol",
             "idols",
+            "idols (female)",
             "kids",
             "magic",
             "magical girl",
@@ -11997,6 +12074,7 @@
             "fantasy",
             "magic",
             "male protagonist",
+            "mythology",
             "overpowered main characters",
             "parody",
             "school",
@@ -12191,6 +12269,7 @@
         "tags": [
             "art",
             "based on a manga",
+            "cgdct",
             "comedy",
             "cute girls doing cute things",
             "educational",
@@ -12209,6 +12288,7 @@
             "school life",
             "slice of life",
             "the arts",
+            "visual arts",
             "working life"
         ],
         "date": {
@@ -12271,6 +12351,7 @@
             "fantasy",
             "full cgi",
             "martial arts",
+            "mythology",
             "romance",
             "xianxia"
         ],

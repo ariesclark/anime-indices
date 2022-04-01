@@ -1626,6 +1626,34 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/146859"
+        ],
+        "title": "DUEL MASTERS PLAY'S: Sekai-kan Movie",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146859-JrFD6M54SpXm.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146859-JrFD6M54SpXm.png",
+        "synonyms": [
+            "DUEL MASTERS PLAY'S CM",
+            "DUEL MASTERS PLAY'S PV",
+            "DUEL MASTERS PLAY'S 世界観ムービー"
+        ],
+        "relations": [
+            "https://anilist.co/anime/1685",
+            "https://anilist.co/anime/98378"
+        ],
+        "tags": [
+            "advertisement",
+            "card battle"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/dai-meng-wai-xing-ren",
             "https://myanimelist.net/anime/47955"
         ],
@@ -2590,27 +2618,6 @@
         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140592-82OiBoLwIKos.png",
         "synonyms": [
             "フレンド"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/50498"
-        ],
-        "title": "Fuka Kou Riki",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1451/119838.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1451/119838t.jpg",
-        "synonyms": [
-            "Fukakouryoku",
-            "不可幸力"
         ],
         "relations": [],
         "tags": [],
@@ -4075,27 +4082,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/145853"
-        ],
-        "title": "Ice Cream",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145853-RUD3z1JPXQOg.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145853-RUD3z1JPXQOg.png",
-        "synonyms": [
-            "ICECREAM",
-            "アイスクリーム"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/122373"
         ],
         "title": "Idol ga Koi Shicha Dame desu ka?",
@@ -4606,6 +4592,7 @@
             "https://anime-planet.com/anime/irodorimidori-watashi-no-naka-no-gensou-teki-sekaikan-oyobi-sono-kengen-wo-souki-saseta-aru-genjitsu-de-no-dekigot"
         ],
         "tags": [
+            "america",
             "idols",
             "music"
         ],
@@ -6253,7 +6240,10 @@
             "Mafumafu: I wanna be a girl"
         ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "based on a fairy tale",
+            "lgbt themes"
+        ],
         "date": {
             "season": "unknown",
             "year": 2019
@@ -7391,6 +7381,31 @@
             "shounen",
             "superheroes",
             "superpowers"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51425"
+        ],
+        "title": "Ongezellig",
+        "type": "ona",
+        "episodes": 5,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "comedy",
+            "girls love",
+            "kids",
+            "parody",
+            "school",
+            "slice of life"
         ],
         "date": {
             "season": "unknown",

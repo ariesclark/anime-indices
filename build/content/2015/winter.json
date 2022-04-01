@@ -4176,35 +4176,7 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/21299"
-        ],
-        "title": "Hyakka Ryouran: Samurai After - Mousou Shinkon Nikki",
-        "type": "special",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21299-CjgY6zVQfwcV.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21299-CjgY6zVQfwcV.jpg",
-        "synonyms": [
-            "Samurai After Specials",
-            "百花繚乱サムライアフター 妄想新婚日記"
-        ],
-        "relations": [
-            "https://anilist.co/anime/20823"
-        ],
-        "tags": [
-            "ecchi",
-            "nudity",
-            "pov",
-            "primarily female cast",
-            "samurai"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/21299",
             "https://anime-planet.com/anime/samurai-after-specials",
             "https://anisearch.com/anime/10501",
             "https://kitsu.io/anime/10746",
@@ -4220,13 +4192,16 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/8/72354t.jpg",
         "synonyms": [
             "Hyakka Ryouran OVA Specials",
+            "Hyakka Ryouran: Samurai After - Mousou Shinkon Nikki",
             "Hyakka Ryōran: Samurai After Specials",
             "Samurai After Specials",
             "ひゃっかりょうらんさむらいあふたー",
             "百花繚乱 サムライアフター",
-            "百花繚乱 サムライアフター Specials"
+            "百花繚乱 サムライアフター Specials",
+            "百花繚乱サムライアフター 妄想新婚日記"
         ],
         "relations": [
+            "https://anilist.co/anime/20823",
             "https://anime-planet.com/anime/samurai-after",
             "https://anime-planet.com/anime/samurai-bride-specials",
             "https://anisearch.com/anime/6089",
@@ -4246,6 +4221,9 @@
         "tags": [
             "based on a light novel",
             "ecchi",
+            "nudity",
+            "pov",
+            "primarily female cast",
             "romance",
             "samurai"
         ],
@@ -4781,7 +4759,6 @@
             "earth",
             "ensemble cast",
             "epic fantasy",
-            "episodic",
             "excessive violence",
             "fantasy",
             "fighting-shounen",

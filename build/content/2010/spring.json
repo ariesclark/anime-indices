@@ -788,7 +788,8 @@
             "parallel world",
             "present",
             "proxy battles",
-            "shounen"
+            "shounen",
+            "strategy game"
         ],
         "date": {
             "season": "spring",
@@ -3893,6 +3894,7 @@
         "sources": [
             "https://anilist.co/anime/8465",
             "https://anime-planet.com/anime/demon-king-daimao-specials",
+            "https://anisearch.com/anime/7182",
             "https://kitsu.io/anime/5346",
             "https://livechart.me/anime/3470",
             "https://myanimelist.net/anime/8465",
@@ -3907,54 +3909,23 @@
         "synonyms": [
             "Another Extra Daimaou",
             "Demon King Daimao Specials",
+            "Demon King Daimao: Another Extra Daimaou",
             "Demon King Daimaou Specials",
+            "Ichiban Ushiro no Daimaou: Mo Hitotsu Omake no Daimaou",
+            "Ichiban Ushiro no Daimaō: Mo Hitotsu Omake no Daimaō",
             "Mo Hitotsu Omake no Daimaou",
             "いちばんうしろのだいまおう",
-            "いちばんうしろの大魔王"
+            "いちばんうしろの大魔王",
+            "いちばんうしろの大魔王 もひとつおまけの大魔王"
         ],
         "relations": [
             "https://anilist.co/anime/7088",
             "https://anime-planet.com/anime/demon-king-daimao",
+            "https://anisearch.com/anime/5622",
             "https://kitsu.io/anime/4863",
             "https://livechart.me/anime/3469",
             "https://myanimelist.net/anime/7088",
             "https://notify.moe/anime/BbTgpKiiR"
-        ],
-        "tags": [
-            "action",
-            "comedy",
-            "ecchi",
-            "fantasy",
-            "harem",
-            "kuudere",
-            "magic",
-            "panty shots",
-            "school",
-            "shounen"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/7182"
-        ],
-        "title": "Ichiban Ushiro no Daimaou: Mo Hitotsu Omake no Daimaou",
-        "type": "special",
-        "episodes": 6,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/7/7182.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/7/7182.webp",
-        "synonyms": [
-            "Demon King Daimao: Another Extra Daimaou",
-            "Ichiban Ushiro no Daimaou Specials",
-            "Ichiban Ushiro no Daimaō: Mo Hitotsu Omake no Daimaō",
-            "いちばんうしろの大魔王 もひとつおまけの大魔王"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/5622"
         ],
         "tags": [
             "action",
@@ -3963,9 +3934,12 @@
             "ecchi",
             "fantasy",
             "harem",
+            "kuudere",
             "magic",
+            "panty shots",
             "robots & androids",
-            "school"
+            "school",
+            "shounen"
         ],
         "date": {
             "season": "spring",
@@ -4086,48 +4060,9 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/7297"
-        ],
-        "title": "Ikkitousen: Xtreme Xecutor - Yume Roku Kei",
-        "type": "special",
-        "episodes": 6,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/7/7297.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/7/7297.webp",
-        "synonyms": [
-            "Ikki Tousen: Xtreme Xecutor - A Dream's Six Views",
-            "Ikki Tousen: Xtreme Xecutor - Bonus",
-            "Ikki Tousen: Xtreme Xecutor - Six Dreamy Views",
-            "Ikkitousen XX Yume Roku Kei",
-            "Ikkitousen: Xtreme Xecutor Specials",
-            "Ikkitōsen: Xtreme Xecutor - Yume Roku Kei",
-            "騎当千 Xtreme Xecutor ～ユメ六景～"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/13916",
-            "https://anisearch.com/anime/1865",
-            "https://anisearch.com/anime/2537",
-            "https://anisearch.com/anime/3063",
-            "https://anisearch.com/anime/3981",
-            "https://anisearch.com/anime/4748",
-            "https://anisearch.com/anime/5064",
-            "https://anisearch.com/anime/7239",
-            "https://anisearch.com/anime/9812"
-        ],
-        "tags": [
-            "comedy",
-            "ecchi",
-            "present"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/8507",
             "https://anime-planet.com/anime/ikkitousen-xtreme-xecutor-specials",
+            "https://anisearch.com/anime/7297",
             "https://kitsu.io/anime/5365",
             "https://livechart.me/anime/4883",
             "https://myanimelist.net/anime/8507",
@@ -4140,8 +4075,15 @@
         "picture": "https://cdn.myanimelist.net/images/anime/10/22814.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/10/22814t.jpg",
         "synonyms": [
+            "Ikki Tousen: Xtreme Xecutor - A Dream's Six Views",
+            "Ikki Tousen: Xtreme Xecutor - Bonus",
+            "Ikki Tousen: Xtreme Xecutor - Six Dreamy Views",
             "Ikkitousen XX Yume Rokkei",
-            "一騎当千: Xtreme Xecutor"
+            "Ikkitousen XX Yume Roku Kei",
+            "Ikkitousen: Xtreme Xecutor - Yume Roku Kei",
+            "Ikkitōsen: Xtreme Xecutor - Yume Roku Kei",
+            "一騎当千: Xtreme Xecutor",
+            "騎当千 Xtreme Xecutor ～ユメ六景～"
         ],
         "relations": [
             "https://anilist.co/anime/7580",
@@ -4153,6 +4095,15 @@
             "https://anime-planet.com/anime/ikkitousen-great-guardians-battle-tour-club-sexy-cosplay",
             "https://anime-planet.com/anime/ikkitousen-shuugaku-toushi-keppuuroku",
             "https://anime-planet.com/anime/ikkitousen-xtreme-xecutor",
+            "https://anisearch.com/anime/13916",
+            "https://anisearch.com/anime/1865",
+            "https://anisearch.com/anime/2537",
+            "https://anisearch.com/anime/3063",
+            "https://anisearch.com/anime/3981",
+            "https://anisearch.com/anime/4748",
+            "https://anisearch.com/anime/5064",
+            "https://anisearch.com/anime/7239",
+            "https://anisearch.com/anime/9812",
             "https://kitsu.io/anime/5037",
             "https://livechart.me/anime/10674",
             "https://livechart.me/anime/3543",
@@ -4172,6 +4123,7 @@
             "ecchi",
             "hand to hand combat",
             "kuudere",
+            "present",
             "tomboy"
         ],
         "date": {

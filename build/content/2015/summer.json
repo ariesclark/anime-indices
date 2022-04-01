@@ -3167,6 +3167,7 @@
             "https://anime-planet.com/anime/fate-kaleid-liner-prisma-illya-2wei-ova",
             "https://anime-planet.com/anime/fate-kaleid-liner-prisma-illya-3rei",
             "https://anime-planet.com/anime/fate-kaleid-liner-prisma-illya-3rei-special",
+            "https://anime-planet.com/anime/fate-kaleid-liner-prisma-illya-movie-2-licht-nameless-girl",
             "https://anime-planet.com/anime/fate-kaleid-liner-prisma-illya-movie-vow-in-the-snow",
             "https://anime-planet.com/anime/fate-kaleid-liner-prisma-illya-new",
             "https://anime-planet.com/anime/fate-kaleid-liner-prisma-illya-prisma-phantasm",
@@ -4818,6 +4819,7 @@
             "school life",
             "shounen",
             "sports",
+            "team sports",
             "tournaments",
             "volleyball"
         ],
@@ -5532,6 +5534,7 @@
             "https://anime-planet.com/anime/himouto-umaru-chan-s",
             "https://anisearch.com/anime/10562",
             "https://kitsu.io/anime/11203",
+            "https://livechart.me/anime/4194",
             "https://myanimelist.net/anime/31234",
             "https://notify.moe/anime/7ulXtFmig"
         ],
@@ -5544,6 +5547,7 @@
         "synonyms": [
             "Himouto Umaruchan S",
             "Himouto! Umaru-chan S",
+            "Himouto! Umaru-chan'S",
             "Himōto! Umaru-chan S",
             "My Two-Faced Little Sister S",
             "ひもうと! うまるちゃんS",
@@ -5560,6 +5564,9 @@
             "https://anisearch.com/anime/10476",
             "https://anisearch.com/anime/12400",
             "https://kitsu.io/anime/10067",
+            "https://livechart.me/anime/1325",
+            "https://livechart.me/anime/1656",
+            "https://livechart.me/anime/2666",
             "https://myanimelist.net/anime/28825",
             "https://notify.moe/anime/ZzmspFmmR"
         ],
@@ -8729,7 +8736,6 @@
     {
         "sources": [
             "https://anidb.net/anime/11534",
-            "https://anilist.co/anime/102433",
             "https://anime-planet.com/anime/nowisee",
             "https://anisearch.com/anime/10835",
             "https://kitsu.io/anime/12132",
@@ -8743,8 +8749,6 @@
         "picture": "https://cdn.myanimelist.net/images/anime/5/78394.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/5/78394t.jpg",
         "synonyms": [
-            "Noise",
-            "Now I See",
             "nowisee",
             "ノイズ"
         ],
@@ -8755,7 +8759,6 @@
             "melancholy",
             "music",
             "new",
-            "no dialogue",
             "social media"
         ],
         "date": {
@@ -10312,10 +10315,10 @@
             "https://myanimelist.net/anime/42654"
         ],
         "tags": [
-            "cars",
             "comedy",
             "episodic",
-            "kids"
+            "kids",
+            "racing"
         ],
         "date": {
             "season": "summer",

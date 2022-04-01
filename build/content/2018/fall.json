@@ -2632,6 +2632,32 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/140868",
+            "https://myanimelist.net/anime/51080"
+        ],
+        "title": "Egao no Loop",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1212/121037.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1212/121037t.jpg",
+        "synonyms": [
+            "Minna no Uta",
+            "Smile Loop",
+            "笑顔のループ"
+        ],
+        "relations": [],
+        "tags": [
+            "kids",
+            "music"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/120082",
             "https://kitsu.io/anime/45005"
         ],
@@ -2819,36 +2845,6 @@
             "drama",
             "indefinite",
             "music"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/103588"
-        ],
-        "title": "Free!: Dive to the Future Episode 0: Soushun no Build-up!",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103588-jkenHO9WuyIo.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103588-jkenHO9WuyIo.jpg",
-        "synonyms": [
-            "Free! -Dive to the Future-: Build-Up of Early Spring!",
-            "Free!-Dive to the Future- 第0話 早春のビルドアップ！"
-        ],
-        "relations": [
-            "https://anilist.co/anime/101117",
-            "https://anilist.co/anime/98497"
-        ],
-        "tags": [
-            "cute boys doing cute things",
-            "primarily male cast",
-            "slice of life",
-            "sports",
-            "swimming"
         ],
         "date": {
             "season": "fall",
@@ -3199,6 +3195,7 @@
             "Убиец на гоблини",
             "Убийца гоблинов",
             "قاتل الغوبلن",
+            "ก็อบลิน สเลเยอร์",
             "ゴブスレ",
             "ゴブリンスレイヤー",
             "哥布林杀手",
@@ -3208,9 +3205,9 @@
         "relations": [
             "https://anidb.net/anime/14782",
             "https://anilist.co/anime/108623",
-            "https://anime-planet.com/anime/goblin-slayer-2",
             "https://anime-planet.com/anime/goblin-slayer-adventure-sheet",
             "https://anime-planet.com/anime/goblin-slayer-goblins-crown",
+            "https://anime-planet.com/anime/goblin-slayer-ii",
             "https://anime-planet.com/anime/goblin-slayer-pv",
             "https://anisearch.com/anime/14025",
             "https://anisearch.com/anime/14327",
@@ -4249,6 +4246,8 @@
             "based on a manga",
             "chibi",
             "comedy",
+            "educational",
+            "medical",
             "non-human protagonists",
             "parody",
             "satire",
@@ -5907,7 +5906,6 @@
             "europe",
             "excessive violence",
             "fantasy",
-            "female protagonist",
             "fighting-shounen",
             "foreign",
             "fugitive",
@@ -5918,7 +5916,6 @@
             "hero of strong character",
             "horror",
             "italy",
-            "lgbtq+ themes",
             "mafia",
             "male protagonist",
             "manga",
@@ -5942,8 +5939,7 @@
             "urban",
             "urban fantasy",
             "verbal comedy",
-            "yandere",
-            "zombie"
+            "yandere"
         ],
         "date": {
             "season": "fall",
@@ -8538,7 +8534,8 @@
             "fantasy",
             "game",
             "monsters",
-            "tokyo"
+            "tokyo",
+            "video game"
         ],
         "date": {
             "season": "fall",
@@ -10073,6 +10070,7 @@
             "magic",
             "male protagonist",
             "monster",
+            "primarily teen cast",
             "revenge",
             "shounen",
             "tragedy",
@@ -14336,6 +14334,7 @@
             "ghost stories",
             "historical",
             "magic",
+            "mythology",
             "old asia",
             "power suits",
             "revenge",
@@ -15221,6 +15220,7 @@
             "fantasy",
             "full cgi",
             "magic",
+            "mythology",
             "supernatural"
         ],
         "date": {

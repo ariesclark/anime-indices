@@ -1393,7 +1393,6 @@
         "relations": [
             "https://anidb.net/anime/8481",
             "https://anilist.co/anime/10934",
-            "https://anilist.co/anime/9690",
             "https://anime-planet.com/anime/the-legend-of-the-legendary-heroes-iris-report",
             "https://anisearch.com/anime/9620",
             "https://kitsu.io/anime/5827",
@@ -2532,6 +2531,7 @@
         "sources": [
             "https://anidb.net/anime/13104",
             "https://anilist.co/anime/19481",
+            "https://anime-planet.com/anime/base-ball-bear-juujika-you-and-i",
             "https://anisearch.com/anime/6525",
             "https://kitsu.io/anime/8841",
             "https://myanimelist.net/anime/19481",
@@ -2545,6 +2545,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/10/52313t.jpg",
         "synonyms": [
             "Base Ball Bear - Joujika YOU and I",
+            "Base Ball Bear: Juujika You and I",
             "Cross You and I",
             "Juujika: You and I",
             "Jūjika You and I",
@@ -2658,6 +2659,7 @@
         "sources": [
             "https://anilist.co/anime/9203",
             "https://anime-planet.com/anime/k-on-ura-on-2",
+            "https://anisearch.com/anime/7049",
             "https://kitsu.io/anime/5630",
             "https://livechart.me/anime/3305",
             "https://myanimelist.net/anime/9203",
@@ -2674,9 +2676,11 @@
             "K-ON!!: Ura-On!!",
             "K-On!! Specials",
             "K-On!! Ura-On!!",
+            "K-On!!: Uraon!!",
             "Keion Specials 2",
             "Uraon!!",
-            "うらおん!!"
+            "うらおん!!",
+            "けいおん！！ うらおん！！"
         ],
         "relations": [
             "https://anilist.co/anime/7017",
@@ -2706,36 +2710,14 @@
             "based on a manga",
             "chibi",
             "comedy",
+            "episodic",
             "female protagonist",
             "flash",
             "kuudere",
-            "primarily female cast",
-            "seinen"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/7049"
-        ],
-        "title": "K-On!!: Uraon!!",
-        "type": "special",
-        "episodes": 9,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/7/7049.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/7/7049.webp",
-        "synonyms": [
-            "けいおん！！ うらおん！！"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "episodic",
             "nonsense-comedy",
             "present",
+            "primarily female cast",
+            "seinen",
             "slice of life"
         ],
         "date": {

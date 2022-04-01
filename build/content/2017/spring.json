@@ -2114,7 +2114,7 @@
         ],
         "title": "Boruto: Naruto Next Generations",
         "type": "tv",
-        "episodes": 241,
+        "episodes": 242,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/9/84460.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/9/84460t.jpg",
@@ -2616,7 +2616,6 @@
         "tags": [
             "adventure",
             "aviation",
-            "cars",
             "cg animation",
             "cg-anime",
             "comedy",
@@ -2625,6 +2624,7 @@
             "hero of strong character",
             "kids",
             "korean animation",
+            "racing",
             "short episodes"
         ],
         "date": {
@@ -7316,7 +7316,6 @@
         "sources": [
             "https://anilist.co/anime/107764",
             "https://anime-planet.com/anime/a-silent-voice-specials",
-            "https://anisearch.com/anime/15961",
             "https://myanimelist.net/anime/35566",
             "https://notify.moe/anime/Vfq2zshMg"
         ],
@@ -7330,8 +7329,6 @@
             "A Silent Voice Specials",
             "Koi wo Shita no wa",
             "Speed of Youth",
-            "Speed of Youth - A Silent Voice",
-            "Speed of Youth - Koe no Katachi",
             "聲の形",
             "聲の形スペシャル"
         ],
@@ -7343,7 +7340,6 @@
         ],
         "tags": [
             "based on a manga",
-            "indefinite",
             "music"
         ],
         "date": {
@@ -7353,32 +7349,7 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/16004"
-        ],
-        "title": "Koi o Shita no wa",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16004.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16004.webp",
-        "synonyms": [
-            "A Silent Voice Theme Song",
-            "Koe no Katachi Theme Song",
-            "Koi wo Shita no wa",
-            "What I Fell in Love With",
-            "恋をしたのは"
-        ],
-        "relations": [],
-        "tags": [
-            "romance"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
+            "https://anisearch.com/anime/16004",
             "https://kitsu.io/anime/41567"
         ],
         "title": "Koi wo Shita no wa",
@@ -7388,15 +7359,20 @@
         "picture": "https://media.kitsu.io/anime/41567/poster_image/small-9c6b3fac352135ab7de90f60bed19dc0.jpeg",
         "thumbnail": "https://media.kitsu.io/anime/41567/poster_image/tiny-a843e28fb6cf079bec758af8dd365420.jpeg",
         "synonyms": [
+            "A Silent Voice Theme Song",
             "Koe no Katachi Specials",
+            "Koe no Katachi Theme Song",
+            "Koi o Shita no wa",
             "Speed of Youth",
+            "What I Fell in Love With",
             "恋をしたのは"
         ],
         "relations": [
             "https://kitsu.io/anime/10028"
         ],
         "tags": [
-            "music"
+            "music",
+            "romance"
         ],
         "date": {
             "season": "spring",
@@ -13240,6 +13216,29 @@
             "sci-fi",
             "science fiction",
             "science-fiction"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
+            "https://anisearch.com/anime/15961"
+        ],
+        "title": "Speed of Youth",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15961.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15961.webp",
+        "synonyms": [
+            "Speed of Youth - A Silent Voice",
+            "Speed of Youth - Koe no Katachi"
+        ],
+        "relations": [],
+        "tags": [
+            "indefinite"
         ],
         "date": {
             "season": "spring",

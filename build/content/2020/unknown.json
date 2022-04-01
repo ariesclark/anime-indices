@@ -228,20 +228,23 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/144827"
+            "https://anilist.co/anime/144827",
+            "https://myanimelist.net/anime/51449"
         ],
         "title": "A lot of life",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144827-5Y7X55IV8u3e.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144827-5Y7X55IV8u3e.png",
+        "picture": "https://cdn.myanimelist.net/images/anime/1393/121976.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1393/121976t.jpg",
         "synonyms": [],
         "relations": [
-            "https://anilist.co/anime/115069"
+            "https://anilist.co/anime/115069",
+            "https://myanimelist.net/anime/39681"
         ],
         "tags": [
             "full cgi",
+            "music",
             "primarily female cast"
         ],
         "date": {
@@ -475,19 +478,22 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/145752"
+            "https://anilist.co/anime/145752",
+            "https://myanimelist.net/anime/51452"
         ],
         "title": "Aigatari na Itte",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145752-mPCY4ig7sDBL.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145752-mPCY4ig7sDBL.png",
+        "picture": "https://cdn.myanimelist.net/images/anime/1774/121979.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1774/121979t.jpg",
         "synonyms": [
             "愛語りな一手"
         ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "music"
+        ],
         "date": {
             "season": "unknown",
             "year": 2020
@@ -1189,20 +1195,23 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/145880"
+            "https://anilist.co/anime/145880",
+            "https://myanimelist.net/anime/51446"
         ],
         "title": "Boku wa Omocha",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145880-g35XMIaoetAr.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145880-g35XMIaoetAr.png",
+        "picture": "https://cdn.myanimelist.net/images/anime/1291/121975.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1291/121975t.jpg",
         "synonyms": [
             "Minna no Uta",
             "ぼくはおもちゃ"
         ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "music"
+        ],
         "date": {
             "season": "unknown",
             "year": 2020
@@ -3470,20 +3479,23 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/144822"
+            "https://anilist.co/anime/144822",
+            "https://myanimelist.net/anime/51450"
         ],
         "title": "Happy Music♪",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144822-c2dSCI6QRfIQ.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144822-c2dSCI6QRfIQ.png",
+        "picture": "https://cdn.myanimelist.net/images/anime/1861/121977.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1861/121977t.jpg",
         "synonyms": [],
         "relations": [
-            "https://anilist.co/anime/115069"
+            "https://anilist.co/anime/115069",
+            "https://myanimelist.net/anime/39681"
         ],
         "tags": [
             "full cgi",
+            "music",
             "primarily female cast"
         ],
         "date": {
@@ -4043,6 +4055,46 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/44232",
+            "https://myanimelist.net/anime/44598"
+        ],
+        "title": "Hua Jianghu Zhi Gui Yexing",
+        "type": "ona",
+        "episodes": 40,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "画江湖之轨夜行"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "cars",
+            "comedy",
+            "drama",
+            "ecchi",
+            "fantasy",
+            "historical",
+            "kids",
+            "music",
+            "mystery",
+            "romance",
+            "school",
+            "seinen",
+            "shoujo",
+            "slice of life",
+            "sports",
+            "supernatural",
+            "suspense"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/45121"
         ],
         "title": "Hua Qian Gu Zhi Hua Hun Zhi Lu",
@@ -4359,61 +4411,6 @@
             "abstract",
             "no dialogue",
             "promotional"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/15290",
-            "https://anilist.co/anime/113689",
-            "https://anime-planet.com/anime/jewelpet-movie-2-attack-travel",
-            "https://anisearch.com/anime/14871",
-            "https://livechart.me/anime/9742",
-            "https://myanimelist.net/anime/40808",
-            "https://notify.moe/anime/8uu_9vYMg"
-        ],
-        "title": "Jewelpet: Attack Travel!",
-        "type": "movie",
-        "episodes": 1,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1229/105793.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1229/105793t.jpg",
-        "synonyms": [
-            "Jewelpet Movie 2: Attack Travel!",
-            "Jewelpet: Attack Travel",
-            "ジュエルペット あたっくとらべる!",
-            "ジュエルペット あたっくとらべる！"
-        ],
-        "relations": [
-            "https://anilist.co/anime/21134",
-            "https://livechart.me/anime/1056",
-            "https://livechart.me/anime/1113",
-            "https://livechart.me/anime/1406",
-            "https://livechart.me/anime/1533",
-            "https://livechart.me/anime/2036",
-            "https://livechart.me/anime/437",
-            "https://livechart.me/anime/7059",
-            "https://livechart.me/anime/7567",
-            "https://livechart.me/anime/7751",
-            "https://livechart.me/anime/821",
-            "https://myanimelist.net/anime/40813",
-            "https://myanimelist.net/anime/6008",
-            "https://notify.moe/anime/rjFMgdLGR",
-            "https://notify.moe/anime/sqF3cKmig"
-        ],
-        "tags": [
-            "adventure",
-            "cute girls doing cute things",
-            "family friendly",
-            "fantasy",
-            "kids",
-            "magic",
-            "mahou shoujo",
-            "sanrio characters",
-            "shoujo"
         ],
         "date": {
             "season": "unknown",
@@ -5204,34 +5201,6 @@
             "original work",
             "romance",
             "shorts"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/145903",
-            "https://myanimelist.net/anime/50518"
-        ],
-        "title": "Komaneko Short Movie 2021",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1986/119888.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1986/119888t.jpg",
-        "synonyms": [
-            "Komaneko's Season's Greetings 2021",
-            "こまねこショートムービー2021"
-        ],
-        "relations": [
-            "https://anilist.co/anime/7547",
-            "https://myanimelist.net/anime/7547"
-        ],
-        "tags": [
-            "kids",
-            "slice of life"
         ],
         "date": {
             "season": "unknown",
@@ -6732,6 +6701,29 @@
             "comedy",
             "shorts"
         ],
+        "date": {
+            "season": "unknown",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51429"
+        ],
+        "title": "Myodore! Maimai Time",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1287/121892.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1287/121892t.jpg",
+        "synonyms": [
+            "Let's Dance! maimai Time",
+            "マイオドレ！舞舞タイム"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44042"
+        ],
+        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2020
@@ -10273,7 +10265,7 @@
         "relations": [],
         "tags": [
             "action",
-            "cars",
+            "racing",
             "sci-fi",
             "space"
         ],
@@ -10622,20 +10614,22 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/127114"
+            "https://anilist.co/anime/127114",
+            "https://myanimelist.net/anime/51455"
         ],
         "title": "Wakusei",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b127114-OAfFXQkanHHf.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b127114-OAfFXQkanHHf.png",
+        "picture": "https://cdn.myanimelist.net/images/anime/1979/121982.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1979/121982t.jpg",
         "synonyms": [
             "Planet",
             "惑星"
         ],
         "relations": [],
         "tags": [
+            "music",
             "romance"
         ],
         "date": {
@@ -10846,20 +10840,23 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/143917"
+            "https://anilist.co/anime/143917",
+            "https://myanimelist.net/anime/51451"
         ],
         "title": "Wish You Luck",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143917-CkuOyWxNYx2T.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143917-CkuOyWxNYx2T.png",
+        "picture": "https://cdn.myanimelist.net/images/anime/1186/121978.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1186/121978t.jpg",
         "synonyms": [],
         "relations": [
-            "https://anilist.co/anime/115069"
+            "https://anilist.co/anime/115069",
+            "https://myanimelist.net/anime/39681"
         ],
         "tags": [
             "full cgi",
+            "music",
             "primarily female cast"
         ],
         "date": {

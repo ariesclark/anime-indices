@@ -32,7 +32,7 @@
         ],
         "title": "Eiyuu Densetsu: Sen no Kiseki",
         "type": "tv",
-        "episodes": 0,
+        "episodes": 12,
         "status": "upcoming",
         "picture": "https://cdn.myanimelist.net/images/anime/1872/113383.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1872/113383t.jpg",
@@ -40,10 +40,12 @@
             "Eiyuu Densetsu: Sen no Kiseki - Northern War",
             "Eiyū Densetsu: Sen no Kiseki",
             "The Legend of Heroes 閃の軌跡 Northern War",
+            "The Legend of Heroes: Sen no Kiseki - Northern War",
             "The Legend of Heroes: Sen no Kiseki Northern War",
             "The Legend of Heroes: Trails of Cold Steel",
             "The Legend of Heroes: Trails of Cold Steel - Northern War",
             "The Legend of Heroes: Trails of Cold Steel The Northern War",
+            "The Legend of Heroes: Trails of Cold Steel – Northern War",
             "英雄伝説 閃の軌跡"
         ],
         "relations": [
@@ -83,19 +85,22 @@
         "sources": [
             "https://anidb.net/anime/17264",
             "https://anilist.co/anime/146472",
+            "https://anime-planet.com/anime/flcl-grunge",
+            "https://anisearch.com/anime/17247",
             "https://kitsu.io/anime/45975",
             "https://livechart.me/anime/11136",
             "https://myanimelist.net/anime/51304"
         ],
         "title": "FLCL: Grunge",
         "type": "tv",
-        "episodes": 0,
+        "episodes": 6,
         "status": "upcoming",
         "picture": "https://cdn.myanimelist.net/images/anime/1330/121527.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1330/121527t.jpg",
         "synonyms": [
             "FLCL 4",
             "Fooly Cooly Grunge",
+            "Furi Kuri: Grunge",
             "フリクリ Grunge",
             "フリクリ グランジ"
         ],
@@ -104,6 +109,10 @@
             "https://anidb.net/anime/17265",
             "https://anilist.co/anime/146473",
             "https://anilist.co/anime/21748",
+            "https://anime-planet.com/anime/flcl",
+            "https://anime-planet.com/anime/flcl-alternative",
+            "https://anime-planet.com/anime/flcl-progressive",
+            "https://anime-planet.com/anime/flcl-shoegaze",
             "https://kitsu.io/anime/11962",
             "https://kitsu.io/anime/45976",
             "https://livechart.me/anime/11137",
@@ -119,7 +128,11 @@
             "cgi",
             "comedy",
             "mecha",
+            "non-human protagonists",
+            "original work",
             "parody",
+            "robots",
+            "sci fi",
             "sci-fi",
             "science fiction"
         ],
@@ -132,25 +145,32 @@
         "sources": [
             "https://anidb.net/anime/17265",
             "https://anilist.co/anime/146473",
+            "https://anime-planet.com/anime/flcl-shoegaze",
+            "https://anisearch.com/anime/17248",
             "https://kitsu.io/anime/45976",
             "https://livechart.me/anime/11137",
             "https://myanimelist.net/anime/51305"
         ],
         "title": "FLCL: Shoegaze",
         "type": "tv",
-        "episodes": 0,
+        "episodes": 6,
         "status": "upcoming",
         "picture": "https://cdn.myanimelist.net/images/anime/1540/121528.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1540/121528t.jpg",
         "synonyms": [
             "FLCL 5",
             "Fooly Cooly Shoegaze",
+            "Furi Kuri: Shoegaze",
             "フリクリ Shoegaze",
             "フリクリ シューゲイザー"
         ],
         "relations": [
             "https://anidb.net/anime/17264",
             "https://anilist.co/anime/146472",
+            "https://anime-planet.com/anime/flcl",
+            "https://anime-planet.com/anime/flcl-alternative",
+            "https://anime-planet.com/anime/flcl-grunge",
+            "https://anime-planet.com/anime/flcl-progressive",
             "https://kitsu.io/anime/45975",
             "https://livechart.me/anime/11136",
             "https://livechart.me/anime/2101",
@@ -164,7 +184,11 @@
             "avant garde",
             "comedy",
             "mecha",
+            "non-human protagonists",
+            "original work",
             "parody",
+            "robots",
+            "sci fi",
             "sci-fi",
             "science fiction"
         ],
@@ -355,48 +379,44 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/17263",
-            "https://anilist.co/anime/146493",
-            "https://anime-planet.com/anime/ragna-crimson",
-            "https://anisearch.com/anime/17216",
-            "https://livechart.me/anime/11143",
-            "https://myanimelist.net/anime/51297",
-            "https://myanimelist.net/anime/51320",
-            "https://notify.moe/anime/UlramyPnR"
+            "https://myanimelist.net/anime/51404"
         ],
-        "title": "Ragna Crimson",
-        "type": "tv",
-        "episodes": 12,
+        "title": "Rakudai Majo",
+        "type": "movie",
+        "episodes": 1,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1961/121622.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1961/121622t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1561/121834.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1561/121834t.jpg",
         "synonyms": [
-            "Raguna Kurimuzon",
-            "ラグナクリムゾン"
+            "Failure Witch",
+            "The Klutzy Witch",
+            "らくだい魔女"
         ],
         "relations": [],
         "tags": [
-            "action",
-            "adventure",
-            "alternative world",
-            "based on a manga",
-            "comedy",
-            "dark fantasy",
-            "dragons",
-            "drama",
-            "epic fantasy",
-            "fantasy",
-            "genius",
-            "hero of strong character",
-            "heroine of strong character",
-            "monster",
-            "mystery",
-            "revenge",
-            "romance",
-            "shounen",
-            "swords & co",
-            "thriller"
+            "fantasy"
         ],
+        "date": {
+            "season": "unknown",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51437"
+        ],
+        "title": "The Legend of Heroes: Sen no Kiseki Northern War",
+        "type": "tv",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1068/121962.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1068/121962t.jpg",
+        "synonyms": [
+            "The Legend of Heroes 閃の軌跡 Northern War",
+            "The Legend of Heroes: Trails of Cold Steel Northern War"
+        ],
+        "relations": [],
+        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2023
@@ -484,6 +504,7 @@
             "episodic",
             "idol",
             "idols",
+            "idols (female)",
             "music",
             "musical",
             "primarily female cast",

@@ -1760,7 +1760,6 @@
         "sources": [
             "https://anidb.net/anime/8903",
             "https://anilist.co/anime/12651",
-            "https://anime-planet.com/anime/danball-senki-w",
             "https://anime-planet.com/anime/lbx-little-battlers-experience-season-2",
             "https://anisearch.com/anime/6950",
             "https://kitsu.io/anime/6779",
@@ -1792,7 +1791,6 @@
             "https://anilist.co/anime/15785",
             "https://anilist.co/anime/17917",
             "https://anilist.co/anime/7081",
-            "https://anime-planet.com/anime/danball-senki",
             "https://anime-planet.com/anime/danball-senki-wars",
             "https://anime-planet.com/anime/inazuma-eleven-go-vs-danball-senki-w-movie",
             "https://anime-planet.com/anime/lbx-little-battlers-experience",
@@ -3818,6 +3816,7 @@
             "ecchi",
             "fantasy",
             "harem",
+            "heterosexual",
             "kuudere",
             "monster girl",
             "nudity",
@@ -6310,6 +6309,46 @@
         ],
         "tags": [
             "comedy",
+            "parody"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
+            "https://livechart.me/anime/6660"
+        ],
+        "title": "Many Things SD Gundam",
+        "type": "unknown",
+        "episodes": 2,
+        "status": "finished",
+        "picture": "https://u.livechart.me/anime/6660/poster_image/ab4c286f09728e8e80ec244c6ebd2d35.jpg?style=large&format=jpg",
+        "thumbnail": "https://u.livechart.me/anime/6660/poster_image/ab4c286f09728e8e80ec244c6ebd2d35.jpg?style=small&format=jpg",
+        "synonyms": [
+            "SD百科"
+        ],
+        "relations": [
+            "https://livechart.me/anime/10218",
+            "https://livechart.me/anime/10793",
+            "https://livechart.me/anime/11041",
+            "https://livechart.me/anime/11042",
+            "https://livechart.me/anime/6906",
+            "https://livechart.me/anime/6987",
+            "https://livechart.me/anime/7007",
+            "https://livechart.me/anime/7316",
+            "https://livechart.me/anime/7423",
+            "https://livechart.me/anime/7514",
+            "https://livechart.me/anime/7582",
+            "https://livechart.me/anime/7662",
+            "https://livechart.me/anime/7717",
+            "https://livechart.me/anime/7848",
+            "https://livechart.me/anime/8362"
+        ],
+        "tags": [
+            "comedy",
+            "mecha",
             "parody"
         ],
         "date": {
@@ -10411,6 +10450,7 @@
             "present",
             "primarily child cast",
             "primarily female cast",
+            "primarily teen cast",
             "school life",
             "sentai",
             "shoujo",
