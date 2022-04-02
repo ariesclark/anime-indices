@@ -3895,6 +3895,8 @@
     {
         "sources": [
             "https://anidb.net/anime/13929",
+            "https://anilist.co/anime/6524",
+            "https://anime-planet.com/anime/pororo-to-the-cookie-castle",
             "https://anisearch.com/anime/11368",
             "https://kitsu.io/anime/4596",
             "https://myanimelist.net/anime/6524",
@@ -3907,13 +3909,25 @@
         "picture": "https://cdn.myanimelist.net/images/anime/7/66613.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/7/66613t.jpg",
         "synonyms": [
+            "Bbororoe Daemoheom",
             "Porong Porong Pororo",
             "Pororo au Royaume des Friandises",
+            "Pororo the Little Penguin",
             "Pororo to the Cookie Castle",
             "Pororo's Adventure",
             "뽀로로의 대모험"
         ],
         "relations": [
+            "https://anilist.co/anime/6523",
+            "https://anime-planet.com/anime/porong-porong-rescue-mission",
+            "https://anime-planet.com/anime/porong-porong-snow-fairy-adventure",
+            "https://anime-planet.com/anime/pororo-the-little-penguin",
+            "https://anime-planet.com/anime/pororo-the-little-penguin-2",
+            "https://anime-planet.com/anime/pororo-the-little-penguin-3",
+            "https://anime-planet.com/anime/pororo-the-little-penguin-4",
+            "https://anime-planet.com/anime/pororo-the-little-penguin-5",
+            "https://anime-planet.com/anime/pororo-the-little-penguin-6",
+            "https://anime-planet.com/anime/pororo-the-little-penguin-the-racing-adventure",
             "https://anisearch.com/anime/11362",
             "https://anisearch.com/anime/11363",
             "https://anisearch.com/anime/11364",
@@ -3931,7 +3945,13 @@
         ],
         "tags": [
             "adventure",
-            "kids"
+            "animal protagonists",
+            "anthropomorphic",
+            "birds",
+            "kids",
+            "korean animation",
+            "non-human protagonists",
+            "penguins"
         ],
         "date": {
             "season": "fall",

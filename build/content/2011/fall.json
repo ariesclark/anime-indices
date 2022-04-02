@@ -7848,61 +7848,9 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/10301"
-        ],
-        "title": "Rio: Rainbow Gate Special",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10301.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10301.jpg",
-        "synonyms": [
-            "Rio: Rainbow Gate OVA",
-            "リオ レインボーゲート"
-        ],
-        "relations": [
-            "https://anilist.co/anime/8241"
-        ],
-        "tags": [
-            "comedy",
-            "ecchi",
-            "kuudere"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/7880"
-        ],
-        "title": "Rio: Rainbow Gate! - Let's Happy / Day Dream",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/7/7880.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/7/7880.webp",
-        "synonyms": [
-            "Rio: Rainbow Gate OVA",
-            "Rio: Rainbow Gate! Bonus Episode"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/6487"
-        ],
-        "tags": [
-            "brain games and gambling",
-            "ecchi",
-            "present"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/10301",
             "https://anime-planet.com/anime/rio-rainbow-gate-special",
+            "https://anisearch.com/anime/7880",
             "https://kitsu.io/anime/6119",
             "https://livechart.me/anime/5886",
             "https://myanimelist.net/anime/10301",
@@ -7915,19 +7863,29 @@
         "picture": "https://cdn.myanimelist.net/images/anime/8/28328.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/8/28328t.jpg",
         "synonyms": [
+            "Rio: Rainbow Gate OVA",
+            "Rio: Rainbow Gate Special",
+            "Rio: Rainbow Gate! - Let's Happy / Day Dream",
+            "Rio: Rainbow Gate! Bonus Episode",
             "Rio: Rainbow Gate! OVA",
+            "リオ レインボーゲート",
             "リオ レインボーゲート!"
         ],
         "relations": [
+            "https://anilist.co/anime/8241",
             "https://anime-planet.com/anime/rio-rainbow-gate",
+            "https://anisearch.com/anime/6487",
             "https://kitsu.io/anime/5262",
             "https://myanimelist.net/anime/8241",
             "https://notify.moe/anime/8TZitKiiR"
         ],
         "tags": [
+            "brain games and gambling",
             "comedy",
             "ecchi",
             "game",
+            "kuudere",
+            "present",
             "virtual reality"
         ],
         "date": {
