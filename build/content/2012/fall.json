@@ -46,6 +46,17 @@
             "https://kitsu.io/anime/1508",
             "https://kitsu.io/anime/3741",
             "https://kitsu.io/anime/7868",
+            "https://livechart.me/anime/1668",
+            "https://livechart.me/anime/2257",
+            "https://livechart.me/anime/2331",
+            "https://livechart.me/anime/2332",
+            "https://livechart.me/anime/5863",
+            "https://livechart.me/anime/6271",
+            "https://livechart.me/anime/7088",
+            "https://livechart.me/anime/7536",
+            "https://livechart.me/anime/7544",
+            "https://livechart.me/anime/8611",
+            "https://livechart.me/anime/8649",
             "https://myanimelist.net/anime/1678",
             "https://myanimelist.net/anime/32736",
             "https://myanimelist.net/anime/32737",
@@ -125,6 +136,27 @@
             "promotional",
             "short episodes",
             "super power"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51078"
+        ],
+        "title": "11:08",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1111/121033.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1111/121033t.jpg",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "music",
+            "school"
         ],
         "date": {
             "season": "fall",
@@ -2150,6 +2182,9 @@
             "https://anisearch.com/anime/1572",
             "https://anisearch.com/anime/261",
             "https://kitsu.io/anime/1",
+            "https://livechart.me/anime/3418",
+            "https://livechart.me/anime/3419",
+            "https://livechart.me/anime/4921",
             "https://myanimelist.net/anime/1",
             "https://notify.moe/anime/Tk3ccKimg"
         ],
@@ -2725,7 +2760,6 @@
             "alternate universe",
             "angst",
             "apocalyptic fiction",
-            "boys' love",
             "cgi",
             "coming of age",
             "denpa",
@@ -4888,7 +4922,8 @@
             "robots",
             "soccer",
             "sports",
-            "super power"
+            "super power",
+            "team sports"
         ],
         "date": {
             "season": "fall",

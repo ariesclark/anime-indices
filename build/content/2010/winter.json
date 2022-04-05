@@ -968,6 +968,10 @@
             "https://anisearch.com/anime/4920",
             "https://anisearch.com/anime/5168",
             "https://kitsu.io/anime/3894",
+            "https://livechart.me/anime/6657",
+            "https://livechart.me/anime/7050",
+            "https://livechart.me/anime/9062",
+            "https://livechart.me/anime/9474",
             "https://myanimelist.net/anime/5031",
             "https://notify.moe/anime/nqYr5Kiig"
         ],
@@ -4770,6 +4774,32 @@
             "present",
             "school",
             "shorts",
+            "slice of life"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/143313",
+            "https://kitsu.io/anime/46029",
+            "https://myanimelist.net/anime/51488"
+        ],
+        "title": "Kuro (Movie)",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1496/122187.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1496/122187t.jpg",
+        "synonyms": [
+            "KURO",
+            "クロ"
+        ],
+        "relations": [],
+        "tags": [
+            "fantasy",
             "slice of life"
         ],
         "date": {
@@ -8591,6 +8621,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/9/23211t.jpg",
         "synonyms": [
             "Tales of Symphonia 2",
+            "Tales of Symphonia THE ANIMATION: Tethe'alla-hen",
             "Tales of Symphonia The Animation: Tethe'alla Chapter",
             "Tales of Symphonia The Animation: Tethe`alla Episode",
             "Tales of Symphonia The Animation: Tethe`alla Hen",

@@ -639,32 +639,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/51432"
-        ],
-        "title": "Chogokin Hello Kitty",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1790/121896.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1790/121896t.jpg",
-        "synonyms": [
-            "超合金ハローキティ"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/3202",
-            "https://myanimelist.net/anime/51431"
-        ],
-        "tags": [
-            "mecha",
-            "sci-fi"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/claris-click"
         ],
         "title": "ClariS: CLICK",
@@ -3985,6 +3959,28 @@
         "tags": [
             "comedy",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/45406"
+        ],
+        "title": "Niguang Zhi Chan",
+        "type": "ona",
+        "episodes": 0,
+        "status": "ongoing",
+        "picture": "https://cdn.myanimelist.net/images/anime/1471/122404.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1471/122404t.jpg",
+        "synonyms": [
+            "逆光之颤"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure"
         ],
         "date": {
             "season": "unknown",

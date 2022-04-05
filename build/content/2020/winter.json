@@ -1125,9 +1125,9 @@
             "https://kitsu.io/anime/44523",
             "https://kitsu.io/anime/44524",
             "https://kitsu.io/anime/44525",
-            "https://livechart.me/anime/10322",
             "https://livechart.me/anime/10567",
             "https://livechart.me/anime/10631",
+            "https://livechart.me/anime/11126",
             "https://livechart.me/anime/2247",
             "https://livechart.me/anime/2537",
             "https://livechart.me/anime/3225",
@@ -3961,30 +3961,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/127044",
-            "https://kitsu.io/anime/44688"
-        ],
-        "title": "Gunjou",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44688/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44688/tiny.jpg",
-        "synonyms": [
-            "Ultramarine",
-            "群青"
-        ],
-        "relations": [],
-        "tags": [
-            "music"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/115217",
             "https://anime-planet.com/anime/haikyuu-ningyou-anime",
             "https://anisearch.com/anime/16106",
@@ -5029,6 +5005,7 @@
             "drama",
             "illness",
             "josei",
+            "mental illness",
             "psychological",
             "romance",
             "short episodes",
@@ -9023,37 +9000,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/142261",
-            "https://kitsu.io/anime/43979",
-            "https://kitsu.io/anime/45546"
-        ],
-        "title": "Nonbiri to,",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/43979/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/43979/tiny.jpg",
-        "synonyms": [
-            "without U",
-            "のんびりと,",
-            "のんびりと、"
-        ],
-        "relations": [
-            "https://anilist.co/anime/118123",
-            "https://kitsu.io/anime/43740"
-        ],
-        "tags": [
-            "idol",
-            "music",
-            "vtuber"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://kitsu.io/anime/43874"
         ],
         "title": "Not For You",
@@ -9380,7 +9326,9 @@
             "https://myanimelist.net/anime/21"
         ],
         "tags": [
-            "comedy"
+            "comedy",
+            "educational",
+            "shounen"
         ],
         "date": {
             "season": "winter",
@@ -9510,7 +9458,7 @@
         "title": "Onii-chan Asa made Zutto Gyutte Shite!",
         "type": "ova",
         "episodes": 4,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1774/103712.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1774/103712t.jpg",
         "synonyms": [
@@ -10803,7 +10751,8 @@
             "囀る鳥は羽ばたかない"
         ],
         "relations": [
-            "https://anidb.net/anime/15395"
+            "https://anidb.net/anime/15395",
+            "https://anisearch.com/anime/15399"
         ],
         "tags": [
             "action",
@@ -11203,7 +11152,7 @@
         ],
         "title": "Shen Wu Tianzun 2",
         "type": "ona",
-        "episodes": 95,
+        "episodes": 97,
         "status": "ongoing",
         "picture": "https://media.kitsu.io/anime/45670/poster_image/small-8ac81c9085128a9384799a270394b116.jpeg",
         "thumbnail": "https://media.kitsu.io/anime/45670/poster_image/tiny-f47be2ab4992f5063e09f454caccfc1c.jpeg",
@@ -11817,34 +11766,6 @@
             "kaiju",
             "slice of life",
             "urban fantasy"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/136642"
-        ],
-        "title": "Taiban!",
-        "type": "ona",
-        "episodes": 0,
-        "status": "ongoing",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136642-hTNYzwC9DE63.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136642-hTNYzwC9DE63.png",
-        "synonyms": [
-            "Tiny² Band Story",
-            "タイバン！"
-        ],
-        "relations": [],
-        "tags": [
-            "band",
-            "cute girls doing cute things",
-            "female protagonist",
-            "full cgi",
-            "music",
-            "primarily female cast"
         ],
         "date": {
             "season": "winter",

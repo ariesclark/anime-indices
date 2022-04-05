@@ -1,6 +1,34 @@
 [
     {
         "sources": [
+            "https://anilist.co/anime/142051",
+            "https://myanimelist.net/anime/45106",
+            "https://myanimelist.net/anime/51478"
+        ],
+        "title": "!NVADE SHOW!",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1718/110969.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1718/110969t.jpg",
+        "synonyms": [],
+        "relations": [
+            "https://anilist.co/anime/101633",
+            "https://myanimelist.net/anime/33573",
+            "https://myanimelist.net/anime/37869"
+        ],
+        "tags": [
+            "band",
+            "full cgi",
+            "music"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/15415",
             "https://anilist.co/anime/116242",
             "https://anime-planet.com/anime/im-standing-on-a-million-lives",
@@ -338,6 +366,29 @@
         "tags": [
             "anthropomorphism",
             "idol",
+            "music"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/145752",
+            "https://myanimelist.net/anime/51452"
+        ],
+        "title": "Aigatari na Itte",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1774/121979.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1774/121979t.jpg",
+        "synonyms": [
+            "愛語りな一手"
+        ],
+        "relations": [],
+        "tags": [
             "music"
         ],
         "date": {
@@ -1201,6 +1252,30 @@
         ],
         "tags": [
             "idol",
+            "music"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/145880",
+            "https://myanimelist.net/anime/51446"
+        ],
+        "title": "Boku wa Omocha",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1291/121975.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1291/121975t.jpg",
+        "synonyms": [
+            "Minna no Uta",
+            "ぼくはおもちゃ"
+        ],
+        "relations": [],
+        "tags": [
             "music"
         ],
         "date": {
@@ -2257,8 +2332,8 @@
         "type": "tv",
         "episodes": 6,
         "status": "ongoing",
-        "picture": "https://anime-planet.com/images/anime/covers/15857.jpg",
-        "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/15857.jpg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/doushitemo-eto-ni-hairitai-2-1.jpg?t=1625908631",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/doushitemo-eto-ni-hairitai-2-1-190x271.jpg?t=1625908631",
         "synonyms": [],
         "relations": [
             "https://anime-planet.com/anime/doushitemo-eto-ni-hairitai"
@@ -3906,12 +3981,7 @@
             "https://anime-planet.com/anime/grisaia-phantom-trigger",
             "https://anime-planet.com/anime/grisaia-phantom-trigger-the-animation",
             "https://kitsu.io/anime/13685",
-            "https://livechart.me/anime/1351",
-            "https://livechart.me/anime/1352",
-            "https://livechart.me/anime/1353",
-            "https://livechart.me/anime/1739",
-            "https://livechart.me/anime/1743",
-            "https://livechart.me/anime/212",
+            "https://livechart.me/anime/11101",
             "https://livechart.me/anime/2783",
             "https://myanimelist.net/anime/35868",
             "https://notify.moe/anime/50wVhKmmg"
@@ -3982,6 +4052,31 @@
             "science fiction",
             "science-fiction",
             "shounen"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/127044",
+            "https://kitsu.io/anime/44688",
+            "https://myanimelist.net/anime/51479"
+        ],
+        "title": "Gunjou",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1492/122179.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1492/122179t.jpg",
+        "synonyms": [
+            "Ultramarine",
+            "群青"
+        ],
+        "relations": [],
+        "tags": [
+            "music"
         ],
         "date": {
             "season": "fall",
@@ -4122,6 +4217,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1453/106768t.jpg",
         "synonyms": [
             "HAIKYU!!: TO THE TOP 2nd Cour",
+            "HAIKYUU!!: TO THE TOP 2nd Cour",
             "HAIKYU‼ TO THE TOP Part 2",
             "Haikyu!! 4th Season (Part 2)",
             "Haikyu!! Los Ases del Vóley Temporada 4",
@@ -5117,6 +5213,7 @@
         "picture": "https://cdn.anime-planet.com/anime/primary/hua-jianghu-zhi-gui-yexing-1.jpg?t=1625908743",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/hua-jianghu-zhi-gui-yexing-1-190x266.jpg?t=1625908743",
         "synonyms": [
+            "Hua Jiang Hu: Gui Ye Xing",
             "Hua Jianghu: Gui Yexing",
             "Painting The Night God of Jiang Hu",
             "Painting the Rails of Rivers and Lakes at Night",
@@ -5134,12 +5231,14 @@
             "https://anime-planet.com/anime/hua-jianghu-zhi-gui-yexing-part-ii",
             "https://anime-planet.com/anime/hua-jianghu-zhi-huan-shi-men-sheng",
             "https://anime-planet.com/anime/hua-jianghu-zhi-lingzhu",
-            "https://anime-planet.com/anime/hua-jianghu-zhi-xia-lan"
+            "https://anime-planet.com/anime/hua-jianghu-zhi-xia-lan",
+            "https://anisearch.com/anime/17049"
         ],
         "tags": [
             "action",
             "cars",
             "cg animation",
+            "cg-anime",
             "chinese animation",
             "full cgi",
             "original work",
@@ -5874,8 +5973,8 @@
         "type": "ona",
         "episodes": 22,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [
             "Juju Stroll",
             "アニメじゅじゅさんぽ"
@@ -5883,6 +5982,7 @@
         "relations": [
             "https://anime-planet.com/anime/jujutsu-kaisen",
             "https://livechart.me/anime/10491",
+            "https://livechart.me/anime/11083",
             "https://livechart.me/anime/9680"
         ],
         "tags": [
@@ -5919,6 +6019,7 @@
             "Sorcery Fight",
             "Магическая битва",
             "ג`וג`וטסו קאיזן",
+            "جوجوتسو كايسن",
             "มหาเวทย์ผนึกมาร",
             "呪術廻戦",
             "咒术回战",
@@ -5983,7 +6084,6 @@
             "martial arts",
             "monster",
             "monsters",
-            "mythology",
             "present",
             "primarily teen cast",
             "rotoscoping",
@@ -7252,6 +7352,7 @@
             "https://anime-planet.com/anime/honeyworks-and-lipxlip-rodeo",
             "https://anime-planet.com/anime/honeyworks-and-lipxlip-yappa-saikyou",
             "https://livechart.me/anime/10765",
+            "https://livechart.me/anime/11160",
             "https://livechart.me/anime/1726",
             "https://livechart.me/anime/2123",
             "https://livechart.me/anime/2628",
@@ -7259,6 +7360,7 @@
         ],
         "tags": [
             "idol",
+            "idols (male)",
             "music",
             "present",
             "primarily male cast"
@@ -7626,6 +7728,7 @@
             "Love Live! Perfect Dream Project",
             "Love Live！虹咲學園 學園偶像同好會",
             "Nijigasaki Academy’s School Idol Appreciation Club",
+            "เลิฟไลฟ์ ชมรมสคูลไอดอลนิจิกะซากิ",
             "ラブライブ! 虹ヶ咲学園スクールアイドル同好会",
             "ラブライブ！ 虹ヶ咲学園スクールアイドル同好会",
             "ラブライブ！虹ヶ咲学園スクールアイドル同好会"
@@ -7690,8 +7793,7 @@
             "school life",
             "slapstick",
             "slice of life",
-            "the arts",
-            "yuri"
+            "the arts"
         ],
         "date": {
             "season": "fall",
@@ -7985,34 +8087,6 @@
             "supernatural",
             "vampire",
             "violence"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/44030"
-        ],
-        "title": "Maiodore! Maimai Time",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44030/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44030/tiny.jpg",
-        "synonyms": [
-            "Let's Dance! Maimai Time",
-            "Maiodore! Maimai Taimu",
-            "マイオドレ！舞舞タイム"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/43740"
-        ],
-        "tags": [
-            "comedy",
-            "idol",
-            "music"
         ],
         "date": {
             "season": "fall",
@@ -10093,51 +10167,31 @@
             "https://anidb.net/anime/15850",
             "https://anilist.co/anime/126506",
             "https://anime-planet.com/anime/pont-qiao-booth",
+            "https://anisearch.com/anime/15750",
             "https://kitsu.io/anime/43826",
+            "https://livechart.me/anime/10219",
             "https://myanimelist.net/anime/44130"
         ],
         "title": "Pont Qiao Booth",
         "type": "ona",
         "episodes": 22,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1737/110348.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1737/110348t.jpg",
         "synonyms": [
+            "PQB",
             "のポンチャオブース",
             "ポンチャオブース"
         ],
-        "relations": [],
+        "relations": [
+            "https://myanimelist.net/anime/49509"
+        ],
         "tags": [
             "comedy",
             "short episodes",
             "slice of life",
             "vtuber",
             "vtubers"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/15750",
-            "https://livechart.me/anime/10219"
-        ],
-        "title": "Pont Qiao Booth",
-        "type": "tv",
-        "episodes": 22,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15750.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15750.webp",
-        "synonyms": [
-            "PQB",
-            "ポンチャオブース"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "slice of life"
         ],
         "date": {
             "season": "fall",
@@ -12077,6 +12131,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/136642",
             "https://anime-planet.com/anime/taiban",
             "https://livechart.me/anime/10544",
             "https://myanimelist.net/anime/48645"
@@ -12089,12 +12144,18 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1019/114003t.jpg",
         "synonyms": [
             "Tiny² Band Story",
-            "タイバン!"
+            "タイバン!",
+            "タイバン！"
         ],
         "relations": [],
         "tags": [
+            "band",
             "cg animation",
+            "cute girls doing cute things",
+            "female protagonist",
+            "full cgi",
             "music",
+            "primarily female cast",
             "school",
             "school club",
             "school life"
@@ -13001,8 +13062,8 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1342/110205t.jpg",
         "synonyms": [
             "Melting Juice Lolis' Spa Services: Let Us Do Slurp-Slurp-Melting Care!",
-            "Melting Juice Lolis’ Spa Services: Let Us Do Slurp-Slurp-Melting Care!",
-            "Mushy and Gooey Girls’ Secret Hot Spring Service: Please Let Us Provide You with A Gooey and Slippery Service",
+            "Melting Juice Lolis‘ Spa Services: Let Us Do Slurp-Slurp-Melting Care!",
+            "Mushy and Gooey Girls’ Secret Hot Spring Service: Please Let Us Provide You with a Gooey and Slippery Service",
             "Toromitsu Musume no Hitō Service: Torottoro Churu Churu Gohōshi Sasete Kudasai",
             "トロみつ娘の秘湯サービス ~とろッとろちゅるちゅるご奉仕させてください~",
             "トロみつ娘の秘湯サービス ～とろッとろちゅるちゅるご奉仕させてください～"
@@ -14021,7 +14082,6 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1649/109592t.jpg",
         "synonyms": [
             "Awakening Soul",
-            "Core Feel",
             "Core Sense",
             "The Awakening Soul",
             "芯觉"
@@ -14100,7 +14160,6 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/10409",
             "https://myanimelist.net/anime/45599",
             "https://notify.moe/anime/cYSPg9LGR"
         ],
@@ -14116,8 +14175,6 @@
             "雪鹰领主 第二季"
         ],
         "relations": [
-            "https://livechart.me/anime/10410",
-            "https://livechart.me/anime/10411",
             "https://myanimelist.net/anime/40991",
             "https://myanimelist.net/anime/49569",
             "https://notify.moe/anime/A8NlRL8Zg"

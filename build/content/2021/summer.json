@@ -814,9 +814,9 @@
             "https://anime-planet.com/anime/bang-dream-film-live",
             "https://kitsu.io/anime/41290",
             "https://kitsu.io/anime/43370",
-            "https://livechart.me/anime/10322",
             "https://livechart.me/anime/10567",
             "https://livechart.me/anime/10631",
+            "https://livechart.me/anime/11126",
             "https://livechart.me/anime/2247",
             "https://livechart.me/anime/2537",
             "https://livechart.me/anime/3225",
@@ -1499,35 +1499,6 @@
         "relations": [],
         "tags": [
             "cg-anime"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/budo-xianzun",
-            "https://kitsu.io/anime/45291",
-            "https://myanimelist.net/anime/49867"
-        ],
-        "title": "Budo Xianzun",
-        "type": "ona",
-        "episodes": 2,
-        "status": "ongoing",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "Martial God Stream",
-            "武道仙尊"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "based on a novel",
-            "cg animation",
-            "chinese animation",
-            "fantasy"
         ],
         "date": {
             "season": "summer",
@@ -2861,6 +2832,7 @@
         ],
         "relations": [
             "https://anilist.co/anime/118743",
+            "https://anime-planet.com/anime/fate-kaleid-liner-prisma-illya-movie-2-licht-nameless-girl",
             "https://livechart.me/anime/10766",
             "https://livechart.me/anime/13",
             "https://livechart.me/anime/141",
@@ -4348,7 +4320,6 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1293/115173t.jpg",
         "synonyms": [
             "Deities of a Peaceful Era",
-            "Heion Sedai no Idatentachi",
             "Idaten Deities in the Peaceful Generation",
             "The Idaten Deities Know Only Peace",
             "The Idaten Deities Only Know Peace",
@@ -4389,7 +4360,6 @@
             "religion",
             "satire",
             "seinen",
-            "sex toys",
             "slapstick",
             "splatter",
             "super power",
@@ -4809,6 +4779,31 @@
         ],
         "tags": [
             "manhua"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/138402",
+            "https://myanimelist.net/anime/51076"
+        ],
+        "title": "Humanity!",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1186/121031.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1186/121031t.jpg",
+        "synonyms": [
+            "ヒューマニティ！"
+        ],
+        "relations": [],
+        "tags": [
+            "music",
+            "slice of life",
+            "workplace"
         ],
         "date": {
             "season": "summer",
@@ -5436,9 +5431,9 @@
         "tags": [
             "action",
             "adventure",
-            "demons",
             "fantasy",
-            "martial arts"
+            "martial arts",
+            "mythology"
         ],
         "date": {
             "season": "summer",
@@ -6034,6 +6029,7 @@
             "Gekijouban Kin`iro Mosaic: Thank You!!",
             "Gekijouban Kin’iro Mosaic Thank you!!",
             "Gekijōban Kin’iro Mosaic Thank you!!",
+            "KINMOZA The Movie: Thank You!!",
             "KINMOZA! Movie",
             "KINMOZA! Movie: Thank You!!",
             "KINMOZA! Thank you!!",
@@ -6246,7 +6242,7 @@
         "title": "Kobayashi-san Chi no Maid Dragon S: Mini Dragon EX",
         "type": "special",
         "episodes": 5,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16509.webp",
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16509.webp",
         "synonyms": [
@@ -6420,6 +6416,7 @@
             "fantasy",
             "hentai",
             "monster",
+            "mythology",
             "outdoors",
             "slave",
             "threesome"
@@ -6621,6 +6618,30 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51426"
+        ],
+        "title": "Lioness' Pride",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1503/121888.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1503/121888t.jpg",
+        "synonyms": [
+            "lioness pride"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44042"
+        ],
+        "tags": [
+            "music"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/138609",
             "https://anime-planet.com/anime/yoasobi-love-letter",
             "https://anisearch.com/anime/16568",
@@ -6738,21 +6759,23 @@
     {
         "sources": [
             "https://anilist.co/anime/136297",
-            "https://kitsu.io/anime/44857"
+            "https://kitsu.io/anime/44857",
+            "https://myanimelist.net/anime/51510"
         ],
         "title": "Mado wo Akete",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44857/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44857/tiny.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1732/122235.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1732/122235t.jpg",
         "synonyms": [
             "Open the Window",
             "窓を開けて"
         ],
         "relations": [
             "https://anilist.co/anime/99900",
-            "https://kitsu.io/anime/43046"
+            "https://kitsu.io/anime/43046",
+            "https://myanimelist.net/anime/41361"
         ],
         "tags": [
             "music"
@@ -7564,7 +7587,7 @@
         ],
         "title": "Metal Goddess Soldier 2nd Season",
         "type": "ona",
-        "episodes": 44,
+        "episodes": 45,
         "status": "ongoing",
         "picture": "https://cdn.anime-planet.com/anime/primary/metal-goddess-soldier-2nd-season-1.jpg?t=1631679073",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/metal-goddess-soldier-2nd-season-1-285x399.jpg?t=1631679073",
@@ -8367,6 +8390,7 @@
             "game",
             "magic",
             "male protagonist",
+            "mythology",
             "otaku culture",
             "pov",
             "primarily male cast",
@@ -8512,10 +8536,11 @@
         "title": "Ore, Tsushima (ONA)",
         "type": "ona",
         "episodes": 93,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1809/117254.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1809/117254t.jpg",
         "synonyms": [
+            "I am Tsushima",
             "I'm Tsushima the Cat",
             "I, Tsushima",
             "I, Tsushima (ONA)",
@@ -8523,12 +8548,14 @@
             "Ore, Tsushima",
             "Ore, Tsushima (2021)",
             "Ore, Tsushima (Web)",
+            "เรียกข้าว่าสึชิมะ [ฉบับฉายบนเว็บ]",
             "俺、つしま",
             "俺、つしま (ONA)",
             "俺、つしま （2021）"
         ],
         "relations": [
             "https://anilist.co/anime/130392",
+            "https://anilist.co/anime/145852",
             "https://anime-planet.com/anime/ore-tsushima",
             "https://anisearch.com/anime/16244",
             "https://kitsu.io/anime/44290",
@@ -9064,7 +9091,6 @@
             "https://myanimelist.net/anime/44042"
         ],
         "tags": [
-            "avant garde",
             "comedy",
             "music",
             "psychological",
@@ -9202,6 +9228,30 @@
             "rpg",
             "short episodes",
             "video games"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/49509"
+        ],
+        "title": "Pont Qiao Mini",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1199/116796.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1199/116796t.jpg",
+        "synonyms": [
+            "Pont Qiao Booth Mini Anime"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44130"
+        ],
+        "tags": [
+            "comedy"
         ],
         "date": {
             "season": "summer",
@@ -9383,6 +9433,7 @@
             "original work",
             "political",
             "primarily female cast",
+            "primarily teen cast",
             "sci-fi",
             "special squads",
             "steampunk",
@@ -9503,6 +9554,29 @@
             "supernatural",
             "university",
             "urban fantasy"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/137916",
+            "https://myanimelist.net/anime/51057"
+        ],
+        "title": "Rainy Boots",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1772/120997.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1772/120997t.jpg",
+        "synonyms": [
+            "レイニーブーツ"
+        ],
+        "relations": [],
+        "tags": [
+            "music"
         ],
         "date": {
             "season": "summer",
@@ -11524,14 +11598,14 @@
             "https://livechart.me/anime/10746",
             "https://myanimelist.net/anime/49592"
         ],
-        "title": "Tensai Ouji no Akaji Kokka Saisei Jutsu Short Drama",
+        "title": "Tensai Ouji no Akaji Kokka Saisei Jutsu: Short Drama",
         "type": "ona",
         "episodes": 5,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1044/118768.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1044/118768t.jpg",
         "synonyms": [
-            "Tensai Ouji no Akaji Kokka Saisei Jutsu: Short Drama",
+            "Tensai Ouji no Akaji Kokka Saisei Jutsu Short Drama",
             "The Genius Prince's Guide To Raising a Nation Out of Debt Short Drama",
             "The Genius Prince's Guide to Raising a Nation Out of Debt",
             "The Genius Prince's Guide to Raising a Nation Out of Debt Short Drama",
@@ -11540,9 +11614,11 @@
         ],
         "relations": [
             "https://anilist.co/anime/129190",
+            "https://anilist.co/anime/144336",
             "https://anime-planet.com/anime/the-genius-princes-guide-to-raising-a-nation-out-of-debt",
             "https://livechart.me/anime/10386",
-            "https://myanimelist.net/anime/47159"
+            "https://myanimelist.net/anime/47159",
+            "https://myanimelist.net/anime/50905"
         ],
         "tags": [
             "based on a light novel",
@@ -11643,6 +11719,7 @@
             "https://anidb.net/anime/16776",
             "https://anilist.co/anime/108511",
             "https://anilist.co/anime/139498",
+            "https://anilist.co/anime/146503",
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime",
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-movie",
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-ova",
@@ -12180,7 +12257,32 @@
         "tags": [
             "big boobs",
             "hentai",
+            "older woman, younger man",
             "present"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/146315",
+            "https://myanimelist.net/anime/51507"
+        ],
+        "title": "Torokeru Tetsugaku",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1928/122263.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1928/122263t.jpg",
+        "synonyms": [
+            "とろける哲学"
+        ],
+        "relations": [],
+        "tags": [
+            "music",
+            "psychological"
         ],
         "date": {
             "season": "summer",
@@ -12401,6 +12503,7 @@
             "https://anisearch.com/anime/14095",
             "https://kitsu.io/anime/13721",
             "https://livechart.me/anime/10212",
+            "https://livechart.me/anime/11172",
             "https://livechart.me/anime/1291",
             "https://livechart.me/anime/2441",
             "https://livechart.me/anime/9207",
@@ -12870,6 +12973,7 @@
             "assassins",
             "based on a manga",
             "bishounen",
+            "boys' love",
             "chibi",
             "comedy",
             "coming of age",

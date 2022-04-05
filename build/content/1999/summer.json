@@ -1110,6 +1110,35 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/131360",
+            "https://anime-planet.com/anime/euro-boys",
+            "https://myanimelist.net/anime/51500"
+        ],
+        "title": "Euroboys",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1949/122220.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1949/122220t.jpg",
+        "synonyms": [
+            "Euro Boys",
+            "ユーロボーイズ"
+        ],
+        "relations": [],
+        "tags": [
+            "comedy",
+            "dancing",
+            "mecha",
+            "parody",
+            "shorts"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 1999
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/14893",
             "https://myanimelist.net/anime/41494"
         ],
@@ -3115,6 +3144,7 @@
             "https://anisearch.com/anime/12681",
             "https://anisearch.com/anime/13968",
             "https://kitsu.io/anime/13686",
+            "https://livechart.me/anime/2817",
             "https://myanimelist.net/anime/36029",
             "https://notify.moe/anime/gCw4hFmmg"
         ],

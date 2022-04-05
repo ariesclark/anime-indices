@@ -21,68 +21,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16112",
-            "https://anilist.co/anime/130696",
-            "https://anime-planet.com/anime/the-legend-of-heroes-trails-of-cold-steel",
-            "https://anisearch.com/anime/16032",
-            "https://kitsu.io/anime/45394",
-            "https://livechart.me/anime/10459",
-            "https://myanimelist.net/anime/48441",
-            "https://notify.moe/anime/xbdV1hUGg"
-        ],
-        "title": "Eiyuu Densetsu: Sen no Kiseki",
-        "type": "tv",
-        "episodes": 12,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1872/113383.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1872/113383t.jpg",
-        "synonyms": [
-            "Eiyuu Densetsu: Sen no Kiseki - Northern War",
-            "Eiyū Densetsu: Sen no Kiseki",
-            "The Legend of Heroes 閃の軌跡 Northern War",
-            "The Legend of Heroes: Sen no Kiseki - Northern War",
-            "The Legend of Heroes: Sen no Kiseki Northern War",
-            "The Legend of Heroes: Trails of Cold Steel",
-            "The Legend of Heroes: Trails of Cold Steel - Northern War",
-            "The Legend of Heroes: Trails of Cold Steel The Northern War",
-            "The Legend of Heroes: Trails of Cold Steel – Northern War",
-            "英雄伝説 閃の軌跡"
-        ],
-        "relations": [
-            "https://anidb.net/anime/8138",
-            "https://anime-planet.com/anime/the-legend-of-heroes-trails-in-the-sky",
-            "https://kitsu.io/anime/6104"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "alternative world",
-            "based on a video game",
-            "conspiracy",
-            "fantasy",
-            "game",
-            "lost civilization",
-            "magic",
-            "male protagonist",
-            "military",
-            "politics",
-            "robots",
-            "school",
-            "super power",
-            "swordplay",
-            "swords & co",
-            "tanks",
-            "trains",
-            "tsundere",
-            "war"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2023
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/17264",
             "https://anilist.co/anime/146472",
             "https://anime-planet.com/anime/flcl-grunge",
@@ -210,10 +148,10 @@
         ],
         "title": "High Card",
         "type": "tv",
-        "episodes": 0,
+        "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1077/116909.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1077/116909t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1159/121392.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1159/121392t.jpg",
         "synonyms": [
             "HIGH CARD",
             "ハイカード"
@@ -227,8 +165,11 @@
             "drama",
             "gambling",
             "game",
+            "high stakes game",
             "original work",
-            "poker"
+            "poker",
+            "strategy game",
+            "supernatural"
         ],
         "date": {
             "season": "unknown",
@@ -253,6 +194,29 @@
             "sci-fi",
             "seinen",
             "sports"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51484"
+        ],
+        "title": "Mishiranu Joushikousei ni Kankin Sareta Mangaka no Hanashi",
+        "type": "tv",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "見知らぬ女子高生に監禁された漫画家の話"
+        ],
+        "relations": [],
+        "tags": [
+            "horror",
+            "suspense"
         ],
         "date": {
             "season": "unknown",
@@ -346,8 +310,8 @@
         "type": "movie",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://anime-planet.com/images/anime/covers/16421.jpg",
-        "thumbnail": "https://anime-planet.com/images/anime/covers/thumbs/16421.jpg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/pleasant-goat-and-big-big-wolf-movie-8-1.jpg?t=1625908832",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/pleasant-goat-and-big-big-wolf-movie-8-1-190x266.jpg?t=1625908832",
         "synonyms": [
             "Pleasant Goat and Big Big Wolf 3D Movie",
             "Xi Yangyang Yu Hui Tailang Da Dianying 8"
@@ -371,6 +335,36 @@
             "family friendly",
             "non-human protagonists",
             "original work"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/17302",
+            "https://livechart.me/anime/11172"
+        ],
+        "title": "Rabbits Kingdom the Movie",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.anidb.net/images/main/271437.jpg",
+        "thumbnail": "https://cdn.anidb.net/images/main/271437.jpg-thumb.jpg",
+        "synonyms": [
+            "RABBITS KINGDOM THE MOVIE",
+            "「ツキウタ。」劇場版 ラビッツキングダム"
+        ],
+        "relations": [
+            "https://livechart.me/anime/10212",
+            "https://livechart.me/anime/1291",
+            "https://livechart.me/anime/2441",
+            "https://livechart.me/anime/3028",
+            "https://livechart.me/anime/9207"
+        ],
+        "tags": [
+            "music"
         ],
         "date": {
             "season": "unknown",
@@ -403,20 +397,61 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/51437"
+            "https://anidb.net/anime/16112",
+            "https://anilist.co/anime/130696",
+            "https://anime-planet.com/anime/the-legend-of-heroes-trails-of-cold-steel",
+            "https://anisearch.com/anime/16032",
+            "https://kitsu.io/anime/45394",
+            "https://livechart.me/anime/10459",
+            "https://myanimelist.net/anime/48441",
+            "https://notify.moe/anime/xbdV1hUGg"
         ],
         "title": "The Legend of Heroes: Sen no Kiseki Northern War",
         "type": "tv",
-        "episodes": 0,
+        "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1068/121962.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1068/121962t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1060/122161.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1060/122161t.jpg",
         "synonyms": [
+            "Eiyuu Densetsu: Sen no Kiseki",
+            "Eiyuu Densetsu: Sen no Kiseki - Northern War",
+            "Eiyū Densetsu: Sen no Kiseki",
             "The Legend of Heroes 閃の軌跡 Northern War",
-            "The Legend of Heroes: Trails of Cold Steel Northern War"
+            "The Legend of Heroes: Sen no Kiseki - Northern War",
+            "The Legend of Heroes: Trails of Cold Steel",
+            "The Legend of Heroes: Trails of Cold Steel - Northern War",
+            "The Legend of Heroes: Trails of Cold Steel The Northern War",
+            "The Legend of Heroes: Trails of Cold Steel – Northern War",
+            "英雄伝説 閃の軌跡"
         ],
-        "relations": [],
-        "tags": [],
+        "relations": [
+            "https://anidb.net/anime/8138",
+            "https://anime-planet.com/anime/the-legend-of-heroes-trails-in-the-sky",
+            "https://kitsu.io/anime/6104"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "alternative world",
+            "based on a video game",
+            "conspiracy",
+            "fantasy",
+            "game",
+            "lost civilization",
+            "magic",
+            "male protagonist",
+            "military",
+            "politics",
+            "robots",
+            "school",
+            "super power",
+            "swordplay",
+            "swords & co",
+            "tanks",
+            "trains",
+            "tsundere",
+            "war"
+        ],
         "date": {
             "season": "unknown",
             "year": 2023
@@ -441,9 +476,9 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1179/108446t.jpg",
         "synonyms": [
             "THE iDOLM@STER MILLION LIVE!",
-            "THE iDOLM@STER: Million Live!",
             "The IDOLM@STER Million Live!",
             "The Idolmaster Million Live!",
+            "The iDOLM@STER MILLION LIVE!",
             "The iDOLM@STER: Million Live!",
             "アイドルマスター ミリオンライブ!",
             "アイドルマスター ミリオンライブ！",
@@ -466,27 +501,15 @@
             "https://livechart.me/anime/170",
             "https://livechart.me/anime/1935",
             "https://livechart.me/anime/2373",
-            "https://livechart.me/anime/2549",
             "https://livechart.me/anime/2673",
-            "https://livechart.me/anime/2785",
             "https://livechart.me/anime/2786",
             "https://livechart.me/anime/2836",
-            "https://livechart.me/anime/2925",
-            "https://livechart.me/anime/3125",
-            "https://livechart.me/anime/3336",
-            "https://livechart.me/anime/3475",
-            "https://livechart.me/anime/3565",
             "https://livechart.me/anime/4369",
             "https://livechart.me/anime/4914",
             "https://livechart.me/anime/517",
             "https://livechart.me/anime/5519",
             "https://livechart.me/anime/6518",
-            "https://livechart.me/anime/6599",
             "https://livechart.me/anime/7910",
-            "https://livechart.me/anime/7963",
-            "https://livechart.me/anime/8376",
-            "https://livechart.me/anime/9798",
-            "https://livechart.me/anime/9995",
             "https://myanimelist.net/anime/10278",
             "https://myanimelist.net/anime/29801",
             "https://myanimelist.net/anime/31894",
@@ -510,6 +533,29 @@
             "primarily female cast",
             "showbiz",
             "slice of life"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51539"
+        ],
+        "title": "Tsukiuta. Rabbits Kingdom the Movie",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1655/122362.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1655/122362t.jpg",
+        "synonyms": [
+            "「ツキウタ。」劇場版 『RABBITS KINGDOM THE MOVIE』"
+        ],
+        "relations": [],
+        "tags": [
+            "idols (male)",
+            "music"
         ],
         "date": {
             "season": "unknown",

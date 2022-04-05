@@ -953,6 +953,30 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/143491",
+            "https://myanimelist.net/anime/51483"
+        ],
+        "title": "Bakeyo",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1819/122183.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1819/122183t.jpg",
+        "synonyms": [
+            "BAKEYO",
+            "化けよ"
+        ],
+        "relations": [],
+        "tags": [
+            "music"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/14772",
             "https://anilist.co/anime/108522",
             "https://anime-planet.com/anime/baki-the-great-raitai-tournament-saga",
@@ -3719,6 +3743,32 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/144822",
+            "https://myanimelist.net/anime/51450"
+        ],
+        "title": "Happy Music♪",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1861/121977.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1861/121977t.jpg",
+        "synonyms": [],
+        "relations": [
+            "https://anilist.co/anime/115069",
+            "https://myanimelist.net/anime/39681"
+        ],
+        "tags": [
+            "full cgi",
+            "music",
+            "primarily female cast"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/15207",
             "https://myanimelist.net/anime/41282"
         ],
@@ -4195,6 +4245,7 @@
             "https://anime-planet.com/anime/ascendance-of-a-bookworm",
             "https://anime-planet.com/anime/ascendance-of-a-bookworm-ova",
             "https://anime-planet.com/anime/ascendance-of-a-bookworm-part-iii",
+            "https://anime-planet.com/anime/ascendance-of-a-bookworm-recaps",
             "https://anisearch.com/anime/14237",
             "https://anisearch.com/anime/15064",
             "https://anisearch.com/anime/15391",
@@ -6617,8 +6668,8 @@
         ],
         "title": "Mashin Mukashi Banashi Gekijou",
         "type": "ona",
-        "episodes": 0,
-        "status": "ongoing",
+        "episodes": 5,
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1872/113957.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1872/113957t.jpg",
         "synonyms": [
@@ -7578,6 +7629,7 @@
     },
     {
         "sources": [
+            "https://kitsu.io/anime/46032",
             "https://myanimelist.net/anime/50343"
         ],
         "title": "Ni Yian Jian Shen",
@@ -7690,6 +7742,7 @@
             "kids",
             "non-human protagonists",
             "original work",
+            "racing",
             "short episodes",
             "slice of life"
         ],
@@ -10243,11 +10296,12 @@
         "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17036.webp",
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17036.webp",
         "synonyms": [
-            "とある科学の超電磁砲T MMR (もっとまるっと超電磁砲)"
+            "とある科学の超電磁砲T MMR （もっとまるっと超電磁砲）"
         ],
         "relations": [],
         "tags": [
-            "comedy"
+            "comedy",
+            "nonsense-comedy"
         ],
         "date": {
             "season": "spring",
@@ -10551,6 +10605,31 @@
         "tags": [
             "idol",
             "music"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/127114",
+            "https://myanimelist.net/anime/51455"
+        ],
+        "title": "Wakusei",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1979/121982.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1979/121982t.jpg",
+        "synonyms": [
+            "Planet",
+            "惑星"
+        ],
+        "relations": [],
+        "tags": [
+            "music",
+            "romance"
         ],
         "date": {
             "season": "spring",

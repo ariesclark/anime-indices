@@ -614,6 +614,7 @@
             "https://anidb.net/anime/17123",
             "https://anilist.co/anime/144852",
             "https://anime-planet.com/anime/baby-in-charge-2nd-season",
+            "https://anime-planet.com/anime/baby-in-charge-3rd-season",
             "https://anisearch.com/anime/17112",
             "https://livechart.me/anime/11020",
             "https://livechart.me/anime/11148",
@@ -892,6 +893,34 @@
             "slice of life drama",
             "tanned skin",
             "work"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/47819"
+        ],
+        "title": "Ashuai 4th Season",
+        "type": "ona",
+        "episodes": 34,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1039/121180.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1039/121180t.jpg",
+        "synonyms": [
+            "阿衰 第四季"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/47816",
+            "https://myanimelist.net/anime/50296"
+        ],
+        "tags": [
+            "comedy",
+            "kids",
+            "school",
+            "slice of life"
         ],
         "date": {
             "season": "winter",
@@ -1775,7 +1804,7 @@
         "relations": [],
         "tags": [
             "fantasy",
-            "game"
+            "video game"
         ],
         "date": {
             "season": "winter",
@@ -2503,6 +2532,7 @@
             "https://anilist.co/anime/115069",
             "https://anime-planet.com/anime/d4dj-first-mix",
             "https://kitsu.io/anime/43557",
+            "https://livechart.me/anime/11128",
             "https://livechart.me/anime/9783",
             "https://myanimelist.net/anime/39681",
             "https://notify.moe/anime/9T-R4j4MR"
@@ -3965,14 +3995,15 @@
     {
         "sources": [
             "https://anilist.co/anime/129048",
-            "https://kitsu.io/anime/43973"
+            "https://kitsu.io/anime/43973",
+            "https://myanimelist.net/anime/51480"
         ],
         "title": "Fondant Step",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/43973/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/43973/tiny.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1837/122180.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1837/122180t.jpg",
         "synonyms": [],
         "relations": [],
         "tags": [
@@ -4658,6 +4689,30 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/143552",
+            "https://myanimelist.net/anime/51512"
+        ],
+        "title": "Haru Matsu Waltz",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1721/122237.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1721/122237t.jpg",
+        "synonyms": [
+            "Harumatsu Waltz",
+            "はるまつワルツ"
+        ],
+        "relations": [],
+        "tags": [
+            "music"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/15502",
             "https://anilist.co/anime/117533",
             "https://anime-planet.com/anime/cells-at-work-code-black",
@@ -5240,7 +5295,6 @@
             "heroine of strong character",
             "heterosexual",
             "high school",
-            "iyashikei",
             "love triangle",
             "male protagonist",
             "manga",
@@ -5755,7 +5809,7 @@
         ],
         "title": "Ikinuke! Bakusou! Kusohamu-chan!",
         "type": "ona",
-        "episodes": 77,
+        "episodes": 78,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1950/113662.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1950/113662t.jpg",
@@ -7035,9 +7089,9 @@
         "title": "Kintamani Dog",
         "type": "tv",
         "episodes": 50,
-        "status": "ongoing",
-        "picture": "https://cdn.myanimelist.net/images/anime/1624/110734.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1624/110734t.jpg",
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1815/120757.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1815/120757t.jpg",
         "synonyms": [
             "キンタマーニドッグ"
         ],
@@ -7585,36 +7639,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/130318",
-            "https://kitsu.io/anime/44101"
-        ],
-        "title": "MOGU MOGU YUMMY!",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44101/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44101/tiny.jpg",
-        "synonyms": [
-            "もぐもぐYUMMY！"
-        ],
-        "relations": [
-            "https://anilist.co/anime/118123",
-            "https://kitsu.io/anime/43740"
-        ],
-        "tags": [
-            "food",
-            "idol",
-            "music",
-            "nekomimi",
-            "vtuber"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/14461",
             "https://anilist.co/anime/107372",
             "https://anime-planet.com/anime/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi",
@@ -7703,7 +7727,8 @@
             "primarily female cast",
             "shounen",
             "slice of life",
-            "slice of life drama"
+            "slice of life drama",
+            "workplace"
         ],
         "date": {
             "season": "winter",
@@ -8004,6 +8029,41 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/130318",
+            "https://kitsu.io/anime/44101",
+            "https://myanimelist.net/anime/51526"
+        ],
+        "title": "Mogu Mogu Yummy!",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1864/122264.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1864/122264t.jpg",
+        "synonyms": [
+            "MOGU MOGU YUMMY!",
+            "もぐもぐYUMMY！"
+        ],
+        "relations": [
+            "https://anilist.co/anime/118123",
+            "https://kitsu.io/anime/43740",
+            "https://myanimelist.net/anime/44042"
+        ],
+        "tags": [
+            "food",
+            "gourmet",
+            "idol",
+            "idols (female)",
+            "music",
+            "nekomimi",
+            "vtuber"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/140347",
             "https://kitsu.io/anime/45392"
         ],
@@ -8139,7 +8199,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1530/117776t.jpg",
         "synonyms": [
             "Jobless Reincarnation: I Will Seriously Try If I Go To Another World",
-            "Jobless Reincarnation: It Will be All Out if I Go to Another World",
+            "Jobless Reincarnation: It Will Be All Out If I Go to Another World",
             "Mushoku Tensei : Jobless Reincarnation",
             "Mushoku Tensei: Jobless Reincarnation",
             "Реінкарнація безробітного: В інший світ на повному серйозі",
@@ -8155,6 +8215,7 @@
             "https://anidb.net/anime/15954",
             "https://anilist.co/anime/127720",
             "https://anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-2nd-season",
+            "https://anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-eris-the-goblin-slayer",
             "https://anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-part-ii",
             "https://anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-pv",
             "https://anisearch.com/anime/15862",
@@ -8163,6 +8224,7 @@
             "https://kitsu.io/anime/43907",
             "https://livechart.me/anime/10297",
             "https://livechart.me/anime/10886",
+            "https://livechart.me/anime/11115",
             "https://myanimelist.net/anime/45576",
             "https://notify.moe/anime/Gc77aDUGR"
         ],
@@ -8461,6 +8523,7 @@
             "Natsume's Book of Friends Movie 2",
             "Natsume's Book of Friends: The Waking Rock and the Strange Visitor",
             "Natsume’s Book of Friends (2021)",
+            "นัตสึเมะกับบันทึกพิศวง เดอะ มูฟวี่ ผู้ปลุกหินผาและผู้มาเยือนประหลาด",
             "夏目友人帳 石起こしと怪しき来訪者"
         ],
         "relations": [
@@ -8555,6 +8618,32 @@
         ],
         "relations": [
             "https://kitsu.io/anime/45675"
+        ],
+        "tags": [
+            "action",
+            "fantasy"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51532"
+        ],
+        "title": "Nitian Xie Shen 2nd Season",
+        "type": "ona",
+        "episodes": 78,
+        "status": "ongoing",
+        "picture": "https://cdn.myanimelist.net/images/anime/1782/122284.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1782/122284t.jpg",
+        "synonyms": [
+            "Against The Gods 2",
+            "逆天邪神 第2季"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/50230"
         ],
         "tags": [
             "action",
@@ -10599,6 +10688,75 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51466"
+        ],
+        "title": "Sekai ga Horobiru Mae ni Kimi ni Aitai",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1394/122207.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1394/122207t.jpg",
+        "synonyms": [
+            "World, Before You End",
+            "セカイが滅びる前にキミに会いたい"
+        ],
+        "relations": [],
+        "tags": [
+            "drama",
+            "romance",
+            "sci-fi"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/132821",
+            "https://anime-planet.com/anime/semantic-error",
+            "https://kitsu.io/anime/44541",
+            "https://myanimelist.net/anime/49202",
+            "https://myanimelist.net/anime/49990",
+            "https://myanimelist.net/anime/50272"
+        ],
+        "title": "Semantic Error",
+        "type": "ona",
+        "episodes": 4,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1362/115895.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1362/115895t.jpg",
+        "synonyms": [
+            "Semantic Error Special",
+            "시맨틱 에러 스페셜"
+        ],
+        "relations": [],
+        "tags": [
+            "based on a novel",
+            "bl",
+            "boys love",
+            "boys' love",
+            "college",
+            "comedy",
+            "episodic",
+            "korean animation",
+            "male protagonist",
+            "primarily adult cast",
+            "primarily male cast",
+            "romance",
+            "short episodes",
+            "shounen",
+            "shounen ai",
+            "shounen-ai",
+            "slice of life"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16041",
             "https://anilist.co/anime/120213",
             "https://anime-planet.com/anime/shanhe-jian-xin",
@@ -10659,6 +10817,38 @@
             "swordplay",
             "swords & co",
             "wuxia"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://kitsu.io/anime/46035",
+            "https://myanimelist.net/anime/50217"
+        ],
+        "title": "Shanhe Jian Xin Xiao Juchang",
+        "type": "ona",
+        "episodes": 95,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1806/118983.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1806/118983t.jpg",
+        "synonyms": [
+            "Thousand Autumns Mini Theater",
+            "山河剑心小剧场"
+        ],
+        "relations": [
+            "https://kitsu.io/anime/44075",
+            "https://kitsu.io/anime/45072",
+            "https://myanimelist.net/anime/44196",
+            "https://myanimelist.net/anime/49558"
+        ],
+        "tags": [
+            "comedy",
+            "fantasy",
+            "parody",
+            "super deformed"
         ],
         "date": {
             "season": "winter",
@@ -10743,7 +10933,7 @@
         ],
         "title": "Shikong Zhi Xi",
         "type": "ona",
-        "episodes": 0,
+        "episodes": 13,
         "status": "upcoming",
         "picture": "https://cdn.myanimelist.net/images/anime/1258/119634.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1258/119634t.jpg",
@@ -10752,7 +10942,9 @@
             "Time and Space",
             "时空之隙"
         ],
-        "relations": [],
+        "relations": [
+            "https://anilist.co/anime/103473"
+        ],
         "tags": [
             "action",
             "chinese animation",
@@ -11049,6 +11241,7 @@
             "https://anime-planet.com/anime/attack-on-titan-3rd-season",
             "https://anime-planet.com/anime/attack-on-titan-3rd-season-part-ii",
             "https://anime-planet.com/anime/attack-on-titan-the-final-season-part-ii",
+            "https://anime-planet.com/anime/attack-on-titan-the-final-season-part-iii",
             "https://anime-planet.com/anime/attack-on-titan-the-final-season-pv",
             "https://anisearch.com/anime/10001",
             "https://anisearch.com/anime/10082",
@@ -11156,14 +11349,15 @@
     {
         "sources": [
             "https://anilist.co/anime/140363",
-            "https://kitsu.io/anime/45349"
+            "https://kitsu.io/anime/45349",
+            "https://myanimelist.net/anime/51486"
         ],
         "title": "Shinya Haikai",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45349/poster_image/small-0416439aab240d58361cf943d8835a1b.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45349/poster_image/tiny-b9afe58b2497d6f76e496ee8a0efe014.jpeg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1764/122185.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1764/122185t.jpg",
         "synonyms": [
             "Wandering Late at Night",
             "深夜徘徊"
@@ -11171,6 +11365,7 @@
         "relations": [],
         "tags": [
             "music",
+            "psychological",
             "slice of life"
         ],
         "date": {
@@ -13393,7 +13588,7 @@
         ],
         "title": "Wan Jie Shen Zhu 3rd Season",
         "type": "ona",
-        "episodes": 96,
+        "episodes": 208,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1436/113495.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1436/113495t.jpg",
@@ -13910,6 +14105,29 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/world-before-you-end"
+        ],
+        "title": "World, Before You End",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/world-before-you-end-1.webp?t=1648517554",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/world-before-you-end-1-285x400.webp?t=1648517554",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "drama",
+            "original work",
+            "post-apocalyptic",
+            "romance"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://livechart.me/anime/10101"
         ],
         "title": "Wotaku ni Koi wa Muzukashii OVA 2",
@@ -14286,6 +14504,36 @@
             "cg-anime",
             "comedy",
             "fantasy"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://livechart.me/anime/10409"
+        ],
+        "title": "Xue Ying Ling Zhu 2nd Season",
+        "type": "ona",
+        "episodes": 16,
+        "status": "finished",
+        "picture": "https://u.livechart.me/anime/10409/poster_image/d7c22f817ca9e3b30e4b5d6b025437ff.png?style=large&format=jpg",
+        "thumbnail": "https://u.livechart.me/anime/10409/poster_image/d7c22f817ca9e3b30e4b5d6b025437ff.png?style=small&format=jpg",
+        "synonyms": [
+            "雪鹰领主 第二季"
+        ],
+        "relations": [
+            "https://livechart.me/anime/10410",
+            "https://livechart.me/anime/10411"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "fantasy",
+            "historical",
+            "martial arts",
+            "romance"
         ],
         "date": {
             "season": "winter",

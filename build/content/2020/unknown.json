@@ -1,24 +1,31 @@
 [
     {
         "sources": [
-            "https://anilist.co/anime/142051",
-            "https://myanimelist.net/anime/45106"
+            "https://myanimelist.net/anime/44272",
+            "https://myanimelist.net/anime/51481"
         ],
-        "title": "!NVADE SHOW!",
+        "title": "#Aqua Iro Palette",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1718/110969.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1718/110969t.jpg",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1946/122181.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1946/122181t.jpg",
+        "synonyms": [
+            "#あくあ色ぱれっと",
+            "AQUAIRO PALETTE",
+            "Aqua Color Palette",
+            "Aqua Iro Palette",
+            "Aquairo Palette",
+            "あくあ色ぱれっと"
+        ],
         "relations": [
-            "https://anilist.co/anime/101633",
-            "https://myanimelist.net/anime/33573"
+            "https://myanimelist.net/anime/43879",
+            "https://myanimelist.net/anime/44042",
+            "https://myanimelist.net/anime/44281"
         ],
         "tags": [
-            "band",
-            "full cgi",
-            "music"
+            "music",
+            "romance"
         ],
         "date": {
             "season": "unknown",
@@ -228,32 +235,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/144827",
-            "https://myanimelist.net/anime/51449"
-        ],
-        "title": "A lot of life",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1393/121976.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1393/121976t.jpg",
-        "synonyms": [],
-        "relations": [
-            "https://anilist.co/anime/115069",
-            "https://myanimelist.net/anime/39681"
-        ],
-        "tags": [
-            "full cgi",
-            "music",
-            "primarily female cast"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/129548",
             "https://anime-planet.com/anime/aotu-xueyuan-2"
         ],
@@ -303,34 +284,6 @@
             "based on a webtoon",
             "chinese animation",
             "comedy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44272"
-        ],
-        "title": "AQUAIRO PALETTE",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "Aqua Iro Palette",
-            "Aquairo Palette",
-            "あくあ色ぱれっと"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/43879",
-            "https://myanimelist.net/anime/44042",
-            "https://myanimelist.net/anime/44281"
-        ],
-        "tags": [
-            "music"
         ],
         "date": {
             "season": "unknown",
@@ -478,20 +431,22 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/145752",
-            "https://myanimelist.net/anime/51452"
+            "https://myanimelist.net/anime/51528"
         ],
-        "title": "Aigatari na Itte",
+        "title": "Ahoy!! Warera Houshou Kaizoku-dan☆",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1774/121979.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1774/121979t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1920/122280.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1920/122280t.jpg",
         "synonyms": [
-            "愛語りな一手"
+            "Ahoy!! 我ら宝鐘海賊団☆"
         ],
-        "relations": [],
+        "relations": [
+            "https://myanimelist.net/anime/44042"
+        ],
         "tags": [
+            "adventure",
             "music"
         ],
         "date": {
@@ -870,26 +825,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/143491"
-        ],
-        "title": "BAKEYO",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143491-m907IGYuNVhm.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143491-m907IGYuNVhm.png",
-        "synonyms": [
-            "化けよ"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/48531"
         ],
         "title": "BIGBANG REFLECTION!!",
@@ -1185,30 +1120,6 @@
         "relations": [
             "https://myanimelist.net/anime/38328"
         ],
-        "tags": [
-            "music"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/145880",
-            "https://myanimelist.net/anime/51446"
-        ],
-        "title": "Boku wa Omocha",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1291/121975.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1291/121975t.jpg",
-        "synonyms": [
-            "Minna no Uta",
-            "ぼくはおもちゃ"
-        ],
-        "relations": [],
         "tags": [
             "music"
         ],
@@ -2979,6 +2890,7 @@
         ],
         "relations": [],
         "tags": [
+            "based on a webtoon",
             "drama",
             "korean animation",
             "mystery",
@@ -3048,6 +2960,30 @@
         "synonyms": [],
         "relations": [],
         "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51499"
+        ],
+        "title": "Giant Killing (Music)",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1824/122219.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1824/122219t.jpg",
+        "synonyms": [
+            "ジャイアントキリング (Music)"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "adventure",
+            "music"
+        ],
         "date": {
             "season": "unknown",
             "year": 2020
@@ -3471,32 +3407,6 @@
         "relations": [],
         "tags": [
             "psychological"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/144822",
-            "https://myanimelist.net/anime/51450"
-        ],
-        "title": "Happy Music♪",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1861/121977.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1861/121977t.jpg",
-        "synonyms": [],
-        "relations": [
-            "https://anilist.co/anime/115069",
-            "https://myanimelist.net/anime/39681"
-        ],
-        "tags": [
-            "full cgi",
-            "music",
-            "primarily female cast"
         ],
         "date": {
             "season": "unknown",
@@ -5441,26 +5351,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/139809"
-        ],
-        "title": "Lagtrain",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139809-JiFP8rGSpKwq.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139809-JiFP8rGSpKwq.jpg",
-        "synonyms": [
-            "ラグトレイン"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/48525"
         ],
         "title": "Last Lament",
@@ -6181,6 +6071,32 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51471"
+        ],
+        "title": "Mattaku Mi ni Naranai Kiseki",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1443/122166.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1443/122166t.jpg",
+        "synonyms": [
+            "Completely Useless Miracle",
+            "Wholly Useless Miracle",
+            "全く身にならないキセキ"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/51433"
+        ],
+        "tags": [
+            "music"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/mayn-kawari-yuku-mono"
         ],
         "title": "May'n: Kawari Yuku Mono",
@@ -6686,6 +6602,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/147014",
             "https://anime-planet.com/anime/my-exercise"
         ],
         "title": "My Exercise",
@@ -6694,36 +6611,16 @@
         "status": "finished",
         "picture": "https://cdn.anime-planet.com/anime/primary/my-exercise-1.jpg?t=1625909131",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/my-exercise-1-190x266.jpg?t=1625909131",
-        "synonyms": [],
+        "synonyms": [
+            "マイエクササイズ"
+        ],
         "relations": [],
         "tags": [
             "abstract",
             "comedy",
+            "fitness",
             "shorts"
         ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/51429"
-        ],
-        "title": "Myodore! Maimai Time",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1287/121892.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1287/121892t.jpg",
-        "synonyms": [
-            "Let's Dance! maimai Time",
-            "マイオドレ！舞舞タイム"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44042"
-        ],
-        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2020
@@ -6808,32 +6705,6 @@
         "tags": [
             "outer space",
             "vocaloid"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/49746"
-        ],
-        "title": "Nanatsu no Taizai CMs",
-        "type": "special",
-        "episodes": 0,
-        "status": "ongoing",
-        "picture": "https://cdn.myanimelist.net/images/anime/1250/117489.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1250/117489t.jpg",
-        "synonyms": [
-            "The seven deadly sins CMs",
-            "七つの大罪 CMs"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/23755"
-        ],
-        "tags": [
-            "action",
-            "fantasy"
         ],
         "date": {
             "season": "unknown",
@@ -7044,6 +6915,29 @@
         "tags": [
             "loneliness",
             "melancholy",
+            "vocaloid"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/niru-kajitsu-strelitzia"
+        ],
+        "title": "Niru Kajitsu: Strelitzia",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/niru-kajitsu-strelitzia-1.webp?t=1648740077",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/niru-kajitsu-strelitzia-1-285x400.webp?t=1648740077",
+        "synonyms": [
+            "Niru Kajitsu: Gokurakuchouka"
+        ],
+        "relations": [],
+        "tags": [
+            "psychological",
             "vocaloid"
         ],
         "date": {
@@ -8171,8 +8065,8 @@
         "type": "ona",
         "episodes": 2,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [],
         "relations": [
             "https://anime-planet.com/anime/qin-shi-mingyue-canghai-hengliu"
@@ -8265,34 +8159,6 @@
         ],
         "tags": [
             "comedy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/50179"
-        ],
-        "title": "RPG de fīrudo-juou de no mitame ga jissai no shukushaku no yuusha-chan.",
-        "type": "ona",
-        "episodes": 0,
-        "status": "ongoing",
-        "picture": "https://cdn.myanimelist.net/images/anime/1491/118915.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1491/118915t.jpg",
-        "synonyms": [
-            "1/1 Heroine",
-            "RPG Heroine Who Looks Giant On The World Map But Actually Is That Big",
-            "RPGでフィールド上での見た目が実際の縮尺の勇者ちゃん。"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "comedy",
-            "fantasy",
-            "game",
-            "parody"
         ],
         "date": {
             "season": "unknown",
@@ -9598,31 +9464,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/51261"
-        ],
-        "title": "Ta Ta Tu Ran Xiang Dao",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1672/121451.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1672/121451t.jpg",
-        "synonyms": [
-            "獭獭突然想到"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "kids",
-            "shounen",
-            "slice of life"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/taku-k-moushuu-no-guernica"
         ],
         "title": "TaKU.K: Moushuu no Guernica",
@@ -10614,31 +10455,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/127114",
-            "https://myanimelist.net/anime/51455"
-        ],
-        "title": "Wakusei",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1979/121982.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1979/121982t.jpg",
-        "synonyms": [
-            "Planet",
-            "惑星"
-        ],
-        "relations": [],
-        "tags": [
-            "music",
-            "romance"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/131517"
         ],
         "title": "Wan Gu Shen Wang",
@@ -10832,32 +10648,6 @@
             "commercials",
             "no dialogue",
             "promotional"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/143917",
-            "https://myanimelist.net/anime/51451"
-        ],
-        "title": "Wish You Luck",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1186/121978.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1186/121978t.jpg",
-        "synonyms": [],
-        "relations": [
-            "https://anilist.co/anime/115069",
-            "https://myanimelist.net/anime/39681"
-        ],
-        "tags": [
-            "full cgi",
-            "music",
-            "primarily female cast"
         ],
         "date": {
             "season": "unknown",

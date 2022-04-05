@@ -2799,6 +2799,21 @@
             "https://anisearch.com/anime/9270",
             "https://anisearch.com/anime/975",
             "https://anisearch.com/anime/9832",
+            "https://livechart.me/anime/6880",
+            "https://livechart.me/anime/7693",
+            "https://livechart.me/anime/7728",
+            "https://livechart.me/anime/8740",
+            "https://livechart.me/anime/8868",
+            "https://livechart.me/anime/8871",
+            "https://livechart.me/anime/8876",
+            "https://livechart.me/anime/8877",
+            "https://livechart.me/anime/8878",
+            "https://livechart.me/anime/8884",
+            "https://livechart.me/anime/8897",
+            "https://livechart.me/anime/8900",
+            "https://livechart.me/anime/8901",
+            "https://livechart.me/anime/8902",
+            "https://livechart.me/anime/8998",
             "https://myanimelist.net/anime/8687"
         ],
         "tags": [
@@ -5612,8 +5627,8 @@
         "type": "ona",
         "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [
             "STARLY GIRLS -Episode Starsia-",
             "Starly Girls",
@@ -7428,8 +7443,8 @@
         "type": "movie",
         "episodes": 1,
         "status": "upcoming",
-        "picture": "https://anime-planet.com/inc/img/blank_main.jpg",
-        "thumbnail": "https://anime-planet.com/inc/img/blank_main.jpg",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [
             "Black Pupil",
             "Hei Tong",
@@ -7932,6 +7947,30 @@
         "tags": [
             "action",
             "fantasy",
+            "music"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51433"
+        ],
+        "title": "Mattaku Mi ni Naranai Hibi",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1428/121924.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1428/121924t.jpg",
+        "synonyms": [
+            "Completely Useless Days",
+            "Wholly Useless Days",
+            "全く身にならない日々"
+        ],
+        "relations": [],
+        "tags": [
             "music"
         ],
         "date": {
@@ -10075,16 +10114,8 @@
             "https://kitsu.io/anime/13684",
             "https://kitsu.io/anime/42090",
             "https://kitsu.io/anime/42354",
-            "https://livechart.me/anime/1081",
-            "https://livechart.me/anime/1199",
-            "https://livechart.me/anime/1633",
-            "https://livechart.me/anime/1697",
             "https://livechart.me/anime/1836",
             "https://livechart.me/anime/2815",
-            "https://livechart.me/anime/541",
-            "https://livechart.me/anime/614",
-            "https://livechart.me/anime/73",
-            "https://livechart.me/anime/786",
             "https://livechart.me/anime/8697",
             "https://livechart.me/anime/9360"
         ],
@@ -11824,6 +11855,13 @@
             "https://anime-planet.com/anime/shimajirou-to-otsuki-sama-no-himitsu",
             "https://anime-planet.com/anime/shimajirou-to-tanjoubi-no-ohoshi-sama",
             "https://anime-planet.com/anime/shimajirou-to-ururu-no-hero-land",
+            "https://livechart.me/anime/10106",
+            "https://livechart.me/anime/11122",
+            "https://livechart.me/anime/1908",
+            "https://livechart.me/anime/2402",
+            "https://livechart.me/anime/350",
+            "https://livechart.me/anime/8227",
+            "https://livechart.me/anime/9659",
             "https://myanimelist.net/anime/18941"
         ],
         "tags": [
@@ -12360,34 +12398,6 @@
             "romance",
             "school",
             "shounen ai"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/44000",
-            "https://myanimelist.net/anime/51428"
-        ],
-        "title": "Sonna Ame no Hi ni Wa",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1541/121891.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1541/121891t.jpg",
-        "synonyms": [
-            "Sonna Ame no Hi ni wa",
-            "そんな雨の日には"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/43740",
-            "https://myanimelist.net/anime/44042"
-        ],
-        "tags": [
-            "idol",
-            "music"
         ],
         "date": {
             "season": "winter",

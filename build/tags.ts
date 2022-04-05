@@ -772,7 +772,6 @@ export const tags = [
   'sentimental drama',
   'serial killers',
   'sex',
-  'sex toys',
   'sexual abuse -- to be split and deleted',
   'shapeshifting',
   'sherlock holmes',

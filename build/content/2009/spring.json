@@ -3117,6 +3117,9 @@
             "https://kitsu.io/anime/4534",
             "https://kitsu.io/anime/4547",
             "https://kitsu.io/anime/4789",
+            "https://livechart.me/anime/3842",
+            "https://livechart.me/anime/3888",
+            "https://livechart.me/anime/7989",
             "https://myanimelist.net/anime/6372",
             "https://myanimelist.net/anime/6399",
             "https://myanimelist.net/anime/6927",
@@ -4139,6 +4142,7 @@
             "https://anime-planet.com/anime/kannagi",
             "https://anisearch.com/anime/4728",
             "https://kitsu.io/anime/3378",
+            "https://livechart.me/anime/3797",
             "https://myanimelist.net/anime/3958",
             "https://notify.moe/anime/BFj_cFiiR"
         ],
@@ -4593,6 +4597,31 @@
             "shounen",
             "super robot",
             "violence"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51373"
+        ],
+        "title": "Kurokami The Animation: Akane-sensei no Kankokugo Kouza",
+        "type": "special",
+        "episodes": 8,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1540/121771.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1540/121771t.jpg",
+        "synonyms": [
+            "Kurokami The Animation Specials",
+            "黒神 The Animation 茜センセイの韓国語講座"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/5079"
+        ],
+        "tags": [
+            "comedy"
         ],
         "date": {
             "season": "spring",

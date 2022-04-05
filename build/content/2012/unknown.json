@@ -24,27 +24,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/51078"
-        ],
-        "title": "11:08",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1111/121033.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1111/121033t.jpg",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "school",
-            "slice of life"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/41970"
         ],
         "title": "39 feat. Hatsune Miku",
@@ -4379,7 +4358,9 @@
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/suck-a-stew-dry-ishitsubutsu-toriatsukaijo-1-190x266.jpg?t=1625898488",
         "synonyms": [],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "guns"
+        ],
         "date": {
             "season": "unknown",
             "year": 2012

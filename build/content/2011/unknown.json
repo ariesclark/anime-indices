@@ -3090,19 +3090,22 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/115179"
+            "https://anilist.co/anime/115179",
+            "https://myanimelist.net/anime/51505"
         ],
         "title": "Oyasumi",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115179-RINxXfJp1gxT.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115179-RINxXfJp1gxT.png",
+        "picture": "https://cdn.myanimelist.net/images/anime/1790/122226.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1790/122226t.jpg",
         "synonyms": [
             "お休み"
         ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "music"
+        ],
         "date": {
             "season": "unknown",
             "year": 2011

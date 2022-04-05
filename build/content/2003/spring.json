@@ -4741,6 +4741,9 @@
             "https://anisearch.com/anime/1595",
             "https://kitsu.io/anime/623",
             "https://kitsu.io/anime/8810",
+            "https://livechart.me/anime/6058",
+            "https://livechart.me/anime/6737",
+            "https://livechart.me/anime/8094",
             "https://myanimelist.net/anime/22231",
             "https://myanimelist.net/anime/682",
             "https://notify.moe/anime/ZV4A5KmiR",
@@ -5149,6 +5152,7 @@
     {
         "sources": [
             "https://anilist.co/anime/109485",
+            "https://kitsu.io/anime/46039",
             "https://myanimelist.net/anime/39284"
         ],
         "title": "Tsuki no Uta",
@@ -5162,11 +5166,21 @@
         ],
         "relations": [
             "https://anilist.co/anime/26",
+            "https://kitsu.io/anime/17",
             "https://myanimelist.net/anime/26"
         ],
         "tags": [
+            "action",
+            "angst",
+            "cyberpunk",
+            "cyborg",
+            "drama",
             "full cgi",
-            "music"
+            "human enhancement",
+            "music",
+            "psychological",
+            "science fiction",
+            "tone changes"
         ],
         "date": {
             "season": "spring",
