@@ -1798,6 +1798,32 @@
     },
     {
         "sources": [
+            "https://anisearch.com/anime/17276"
+        ],
+        "title": "Boku no Hero Academia the Movie: World Heroes’ Mission - Tabidachi",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17276.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17276.webp",
+        "synonyms": [
+            "My Hero Academia: World Heroes’ Mission - Take-off",
+            "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション 旅立ち"
+        ],
+        "relations": [
+            "https://anisearch.com/anime/15890"
+        ],
+        "tags": [
+            "comedy",
+            "present"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/51161"
         ],
         "title": "Bokura Mada Underground (2022)",
@@ -6655,14 +6681,15 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/11159"
+            "https://livechart.me/anime/11159",
+            "https://myanimelist.net/anime/51542"
         ],
         "title": "Kyokou Suiri Mini Anime Season 2",
         "type": "ona",
         "episodes": 5,
         "status": "ongoing",
-        "picture": "https://u.livechart.me/anime/11159/poster_image/b65e6e29fde4a297242cc65bda896945.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/11159/poster_image/b65e6e29fde4a297242cc65bda896945.png?style=small&format=jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1964/122421.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1964/122421t.jpg",
         "synonyms": [
             "In/Spectre Mini Anime Season 2",
             "虚構推理 ミニアニメ Season2"
@@ -6670,7 +6697,9 @@
         "relations": [
             "https://livechart.me/anime/10237",
             "https://livechart.me/anime/9193",
-            "https://livechart.me/anime/9690"
+            "https://livechart.me/anime/9690",
+            "https://myanimelist.net/anime/40894",
+            "https://myanimelist.net/anime/44204"
         ],
         "tags": [
             "comedy"
@@ -6990,25 +7019,35 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/11147"
+            "https://anilist.co/anime/145994",
+            "https://livechart.me/anime/11147",
+            "https://myanimelist.net/anime/51543"
         ],
-        "title": "Machikado Mazoku 2-Chome Mini Anime",
+        "title": "Machikado Mazoku: 2-choume Mini",
         "type": "ona",
         "episodes": 9,
         "status": "ongoing",
-        "picture": "https://u.livechart.me/anime/11147/poster_image/fd3a7c7ea1ae2c8bfc5d9808c14a3904.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/11147/poster_image/fd3a7c7ea1ae2c8bfc5d9808c14a3904.png?style=small&format=jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1862/122418.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1862/122418t.jpg",
         "synonyms": [
+            "Machikado Mazoku 2-Chome Mini Anime",
+            "Machikado Mazoku: 2-Choume Mini",
             "The Demon Girl Next Door 2 Mini Anime",
+            "まちカドまぞく 2丁目 みに",
             "まちカドまぞく 2丁目 ミニアニメ"
         ],
         "relations": [
+            "https://anilist.co/anime/113302",
+            "https://anilist.co/anime/123330",
             "https://livechart.me/anime/10127",
             "https://livechart.me/anime/11146",
-            "https://livechart.me/anime/9205"
+            "https://livechart.me/anime/9205",
+            "https://myanimelist.net/anime/42745"
         ],
         "tags": [
             "comedy",
+            "fantasy",
+            "mahou shoujo",
             "slice of life"
         ],
         "date": {
@@ -8580,19 +8619,23 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/17233"
+            "https://anidb.net/anime/17233",
+            "https://anisearch.com/anime/17283"
         ],
         "title": "Ootsuchi Kai Monogatari: Departure",
         "type": "ona",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/270399.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/270399.jpg-thumb.jpg",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17283.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17283.webp",
         "synonyms": [
+            "Ōtsuchi Kai Monogatari: Departure",
             "大槌カイ物語 -Departure 出航-"
         ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "present"
+        ],
         "date": {
             "season": "winter",
             "year": 2022
@@ -9349,27 +9392,10 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/17104"
-        ],
-        "title": "Qi Jie Diyi Xian",
-        "type": "ona",
-        "episodes": 0,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/268409.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/268409.jpg-thumb.jpg",
-        "synonyms": [
-            "七界第一仙"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
+            "https://anidb.net/anime/17104",
             "https://anilist.co/anime/139170",
+            "https://anime-planet.com/anime/qi-jie-diyi-xian",
+            "https://anisearch.com/anime/17277",
             "https://myanimelist.net/anime/51131",
             "https://notify.moe/anime/xccVFaynR"
         ],
@@ -9380,6 +9406,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1429/121111.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1429/121111t.jpg",
         "synonyms": [
+            "Qi Jie Di Yi Xian",
             "The First Immortal of the Seven Realms",
             "七界第一仙"
         ],
@@ -9387,9 +9414,14 @@
         "tags": [
             "action",
             "adventure",
+            "based on a novel",
+            "cg animation",
+            "cg-anime",
+            "chinese animation",
             "fantasy",
             "full cgi",
-            "martial arts"
+            "martial arts",
+            "short episodes"
         ],
         "date": {
             "season": "winter",
@@ -13382,6 +13414,7 @@
     {
         "sources": [
             "https://anilist.co/anime/143508",
+            "https://anime-planet.com/anime/wu-ying-sanqian-dao",
             "https://kitsu.io/anime/46022",
             "https://myanimelist.net/anime/51457"
         ],
@@ -13392,16 +13425,22 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1429/121998.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1429/121998t.jpg",
         "synonyms": [
+            "Take A Good Look at Me Now",
             "武映三千道"
         ],
         "relations": [],
         "tags": [
             "action",
             "adventure",
+            "based on a webtoon",
+            "cg animation",
+            "chinese animation",
             "comedy",
             "fantasy",
             "full cgi",
-            "male protagonist"
+            "male protagonist",
+            "person in a strange world",
+            "short episodes"
         ],
         "date": {
             "season": "winter",
