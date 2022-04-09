@@ -103,44 +103,6 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/11144"
-        ],
-        "title": "BanG Dream! Morfonica",
-        "type": "tv",
-        "episodes": 0,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/11144/poster_image/04171eab50eaf0c3e132dd8ff11af033.webp?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/11144/poster_image/04171eab50eaf0c3e132dd8ff11af033.webp?style=small&format=jpg",
-        "synonyms": [
-            "BanG Dream！Morfonica"
-        ],
-        "relations": [
-            "https://livechart.me/anime/10567",
-            "https://livechart.me/anime/10631",
-            "https://livechart.me/anime/2247",
-            "https://livechart.me/anime/2537",
-            "https://livechart.me/anime/3225",
-            "https://livechart.me/anime/3238",
-            "https://livechart.me/anime/3239",
-            "https://livechart.me/anime/3240",
-            "https://livechart.me/anime/9396",
-            "https://livechart.me/anime/9667",
-            "https://livechart.me/anime/9713",
-            "https://livechart.me/anime/9841",
-            "https://livechart.me/anime/9897",
-            "https://livechart.me/anime/9898",
-            "https://livechart.me/anime/9899"
-        ],
-        "tags": [
-            "music"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/17278",
             "https://anilist.co/anime/146650",
             "https://anime-planet.com/anime/bucchigire",
@@ -1791,47 +1753,50 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/45999"
+            "https://anilist.co/anime/146501",
+            "https://anime-planet.com/anime/bang-dream-morfonica",
+            "https://kitsu.io/anime/45999",
+            "https://livechart.me/anime/11144",
+            "https://myanimelist.net/anime/51319"
         ],
-        "title": "Morfonica",
-        "type": "tv",
+        "title": "Morfonica (Shinsaku Animation)",
+        "type": "special",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://media.kitsu.io/anime/45999/poster_image/small-168c2ed0a6eb01a2c7c7125bc684f18e.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45999/poster_image/tiny-ec78d5b07bcc2310089ba433f21808ca.jpeg",
-        "synonyms": [
-            "BanG Dream! Morfonica"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/41290"
-        ],
-        "tags": [
-            "music"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/146501"
-        ],
-        "title": "Morfonica (Provisional Title)",
-        "type": "unknown",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146501-rpxef6xmWWFE.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146501-rpxef6xmWWFE.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1743/121625.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1743/121625t.jpg",
         "synonyms": [
             "BanG Dream! Morfonica",
+            "BanG Dream！Morfonica",
+            "Morfonica",
+            "Morfonica (Provisional Title)",
+            "Morfonica (新作アニメーション)",
             "Morfonica（仮）"
         ],
         "relations": [
-            "https://anilist.co/anime/101634"
+            "https://anilist.co/anime/101634",
+            "https://anime-planet.com/anime/bang-dream",
+            "https://kitsu.io/anime/41290",
+            "https://livechart.me/anime/10567",
+            "https://livechart.me/anime/10631",
+            "https://livechart.me/anime/2247",
+            "https://livechart.me/anime/2537",
+            "https://livechart.me/anime/3225",
+            "https://livechart.me/anime/3238",
+            "https://livechart.me/anime/3239",
+            "https://livechart.me/anime/3240",
+            "https://livechart.me/anime/9396",
+            "https://livechart.me/anime/9667",
+            "https://livechart.me/anime/9713",
+            "https://livechart.me/anime/9841",
+            "https://livechart.me/anime/9897",
+            "https://livechart.me/anime/9898",
+            "https://livechart.me/anime/9899",
+            "https://myanimelist.net/anime/37870"
         ],
         "tags": [
-            "music"
+            "music",
+            "slice of life"
         ],
         "date": {
             "season": "summer",
@@ -2833,6 +2798,38 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tonikawa-over-the-moon-for-you-special-episode"
+        ],
+        "title": "TONIKAWA: Over the Moon for You Special Episode",
+        "type": "ona",
+        "episodes": 0,
+        "status": "unknown",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "synonyms": [
+            "Tonikaku Kawaii: Seifuku"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/tonikawa-over-the-moon-for-you",
+            "https://anime-planet.com/anime/tonikawa-over-the-moon-for-you-2nd-season"
+        ],
+        "tags": [
+            "based on a manga",
+            "comedy",
+            "iyashikei",
+            "married life",
+            "mature romance",
+            "romance",
+            "romantic comedy",
+            "shounen"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16954",
             "https://anilist.co/anime/141062",
             "https://anime-planet.com/anime/technoroid-overmind",
@@ -3614,6 +3611,33 @@
             "slice of life",
             "the great outdoors",
             "time skip"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://livechart.me/anime/11176"
+        ],
+        "title": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Ushinau na",
+        "type": "special",
+        "episodes": 2,
+        "status": "upcoming",
+        "picture": "https://u.livechart.me/anime/11176/poster_image/e2d2318f0ba93ca87bd4d561205b4cf6.png?style=large&format=jpg",
+        "thumbnail": "https://u.livechart.me/anime/11176/poster_image/e2d2318f0ba93ca87bd4d561205b4cf6.png?style=small&format=jpg",
+        "synonyms": [
+            "勇者、辞めます 「研修旅行は目的を見失うな」"
+        ],
+        "relations": [
+            "https://livechart.me/anime/10842"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "comedy",
+            "fantasy"
         ],
         "date": {
             "season": "summer",

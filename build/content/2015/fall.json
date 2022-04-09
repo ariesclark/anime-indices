@@ -2757,6 +2757,7 @@
             "https://anilist.co/anime/21318",
             "https://anime-planet.com/anime/fate-stay-night-unlimited-blade-works-2-sunny-day",
             "https://kitsu.io/anime/11321",
+            "https://livechart.me/anime/1765",
             "https://myanimelist.net/anime/31389",
             "https://notify.moe/anime/UwdrpFiig"
         ],
@@ -2770,8 +2771,10 @@
             "Fate/stay night [Unlimited Blade Works] 2ndシーズン - sunny day",
             "Fate/stay night [Unlimited Blade Works] Season 2 - Sunny Day",
             "Fate/stay night [Unlimited Blade Works] 新作映像「sunny day」",
+            "Fate/stay night [Unlimited Blade Works]「sunny day」",
             "Fate/stay night: Unlimited Blade Works 2 - Sunny Day",
             "Fate/stay night: Unlimited Blade Works 2nd Season - sunny day",
+            "Fate/stay night: Unlimited Blade Works: Sunny Day",
             "フェイト/ステイナイト Unlimited Blade Works 2ndシーズン - sunny day"
         ],
         "relations": [
@@ -2798,6 +2801,15 @@
             "https://anime-planet.com/anime/fate-zero-2",
             "https://anime-planet.com/anime/fate-zero-onegai-einzbern-soudanshitsu",
             "https://kitsu.io/anime/10052",
+            "https://livechart.me/anime/123",
+            "https://livechart.me/anime/2635",
+            "https://livechart.me/anime/2636",
+            "https://livechart.me/anime/3036",
+            "https://livechart.me/anime/3586",
+            "https://livechart.me/anime/3722",
+            "https://livechart.me/anime/4048",
+            "https://livechart.me/anime/732",
+            "https://livechart.me/anime/740",
             "https://myanimelist.net/anime/28701",
             "https://notify.moe/anime/pw6PpFiig"
         ],
@@ -2816,43 +2828,6 @@
             "shounen",
             "supernatural",
             "superpowers"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/1765"
-        ],
-        "title": "Fate/stay night: Unlimited Blade Works: Sunny Day",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/1765/poster_image/3c9dae87f7de7ae37c285d7fe8da60fb.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/1765/poster_image/3c9dae87f7de7ae37c285d7fe8da60fb.png?style=small&format=jpg",
-        "synonyms": [
-            "Fate/stay night [Unlimited Blade Works] 新作映像「sunny day」",
-            "Fate/stay night [Unlimited Blade Works]「sunny day」"
-        ],
-        "relations": [
-            "https://livechart.me/anime/123",
-            "https://livechart.me/anime/2635",
-            "https://livechart.me/anime/2636",
-            "https://livechart.me/anime/3036",
-            "https://livechart.me/anime/3586",
-            "https://livechart.me/anime/3722",
-            "https://livechart.me/anime/4048",
-            "https://livechart.me/anime/732",
-            "https://livechart.me/anime/740"
-        ],
-        "tags": [
-            "action",
-            "fantasy",
-            "magic",
-            "shounen",
-            "supernatural"
         ],
         "date": {
             "season": "fall",
@@ -14730,34 +14705,9 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/21433"
-        ],
-        "title": "Urawa no Usagi-chan Mihousou-banashi",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21433-SqRADRmWb7DM.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21433-SqRADRmWb7DM.jpg",
-        "synonyms": [
-            "浦和の調ちゃん 未放送話"
-        ],
-        "relations": [
-            "https://anilist.co/anime/20949",
-            "https://anilist.co/anime/98577"
-        ],
-        "tags": [
-            "comedy",
-            "school",
-            "slice of life"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/21433",
             "https://anime-planet.com/anime/urawa-no-usagi-chan-special",
+            "https://anisearch.com/anime/11754",
             "https://kitsu.io/anime/11345",
             "https://livechart.me/anime/6630",
             "https://myanimelist.net/anime/31426",
@@ -14771,12 +14721,21 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/9/75928t.jpg",
         "synonyms": [
             "Urawa no Usagi-chan Episode 13",
+            "Urawa no Usagi-chan Mihousou-banashi",
+            "Urawa no Usagi-chan: Natsu no Hi to, Heya to, Tomodachi to",
+            "Urawa no Usagi-chan: Summer Days, Club Room and Friends",
             "うらわのうさぎちゃん",
-            "浦和の調ちゃん"
+            "浦和の調ちゃん",
+            "浦和の調ちゃん 夏の日と、部屋と、友達と",
+            "浦和の調ちゃん 未放送話"
         ],
         "relations": [
+            "https://anilist.co/anime/20949",
+            "https://anilist.co/anime/98577",
             "https://anime-planet.com/anime/musashino",
             "https://anime-planet.com/anime/urawa-no-usagi-chan",
+            "https://anisearch.com/anime/10027",
+            "https://anisearch.com/anime/12402",
             "https://kitsu.io/anime/9949",
             "https://livechart.me/anime/1253",
             "https://livechart.me/anime/2657",
@@ -14785,46 +14744,17 @@
             "https://notify.moe/anime/bupPtFimR"
         ],
         "tags": [
+            "club",
             "comedy",
+            "high school",
+            "moe",
             "original work",
+            "present",
             "promotional",
             "school",
             "school life",
             "slice of life",
             "tourism"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/11754"
-        ],
-        "title": "Urawa no Usagi-chan: Natsu no Hi to, Heya to, Tomodachi to",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11754.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11754.webp",
-        "synonyms": [
-            "Urawa no Usagi-chan Episode 13",
-            "Urawa no Usagi-chan Special",
-            "Urawa no Usagi-chan: Summer Days, Club Room and Friends",
-            "浦和の調ちゃん 夏の日と、部屋と、友達と"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/10027",
-            "https://anisearch.com/anime/12402"
-        ],
-        "tags": [
-            "club",
-            "high school",
-            "moe",
-            "present",
-            "school",
-            "slice of life"
         ],
         "date": {
             "season": "fall",

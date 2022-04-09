@@ -165,33 +165,6 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/11148"
-        ],
-        "title": "Aka-chan Honbuchou 3rd Season",
-        "type": "tv",
-        "episodes": 10,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/11148/poster_image/a1b52b514763b3ce7570a40417d7208f.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/11148/poster_image/a1b52b514763b3ce7570a40417d7208f.png?style=small&format=jpg",
-        "synonyms": [
-            "Baby in Charge 3rd Season",
-            "赤ちゃん本部長(第3シリーズ)"
-        ],
-        "relations": [
-            "https://livechart.me/anime/10441",
-            "https://livechart.me/anime/11020"
-        ],
-        "tags": [
-            "comedy",
-            "slice of life"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/16358",
             "https://anilist.co/anime/134732",
             "https://anime-planet.com/anime/aoashi",
@@ -238,20 +211,24 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/baby-in-charge-3rd-season"
+            "https://anime-planet.com/anime/baby-in-charge-3rd-season",
+            "https://livechart.me/anime/11148"
         ],
         "title": "Baby in Charge 3rd Season",
         "type": "tv",
         "episodes": 2,
-        "status": "unknown",
+        "status": "finished",
         "picture": "https://cdn.anime-planet.com/anime/primary/baby-in-charge-3rd-season-1.webp?t=1649083151",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/baby-in-charge-3rd-season-1-285x399.webp?t=1649083151",
         "synonyms": [
-            "Aka-chan Honbuchou 3rd Season"
+            "Aka-chan Honbuchou 3rd Season",
+            "赤ちゃん本部長(第3シリーズ)"
         ],
         "relations": [
             "https://anime-planet.com/anime/baby-in-charge",
-            "https://anime-planet.com/anime/baby-in-charge-2nd-season"
+            "https://anime-planet.com/anime/baby-in-charge-2nd-season",
+            "https://livechart.me/anime/10441",
+            "https://livechart.me/anime/11020"
         ],
         "tags": [
             "age transformation",
@@ -584,6 +561,7 @@
         "sources": [
             "https://anidb.net/anime/17232",
             "https://anilist.co/anime/145968",
+            "https://anime-planet.com/anime/cap-kakumei-bottleman-dx",
             "https://anisearch.com/anime/17183",
             "https://kitsu.io/anime/46046",
             "https://livechart.me/anime/11110",
@@ -592,7 +570,7 @@
         ],
         "title": "Cap Kakumei Bottleman DX",
         "type": "tv",
-        "episodes": 12,
+        "episodes": 1,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1699/121192.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1699/121192t.jpg",
@@ -605,6 +583,7 @@
         "relations": [
             "https://anidb.net/anime/15729",
             "https://anilist.co/anime/126650",
+            "https://anime-planet.com/anime/cap-kakumei-bottleman",
             "https://anisearch.com/anime/15566",
             "https://kitsu.io/anime/43651",
             "https://livechart.me/anime/10152",
@@ -621,6 +600,8 @@
             "kids",
             "proxy battles",
             "science-fiction",
+            "short episodes",
+            "shounen",
             "strategy game"
         ],
         "date": {
@@ -922,6 +903,29 @@
             "food and beverage",
             "food preparation",
             "gourmet",
+            "seinen",
+            "slice of life"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/deaimon-recipe-for-happiness"
+        ],
+        "title": "Deaimon: Recipe for Happiness",
+        "type": "tv",
+        "episodes": 1,
+        "status": "unknown",
+        "picture": "https://cdn.anime-planet.com/anime/primary/deaimon-recipe-for-happiness-1.webp?t=1649310968",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/deaimon-recipe-for-happiness-1-285x398.webp?t=1649310968",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "based on a manga",
+            "food and beverage",
             "seinen",
             "slice of life"
         ],
@@ -1628,6 +1632,7 @@
             "https://anidb.net/anime/16564",
             "https://anilist.co/anime/138459",
             "https://anime-planet.com/anime/heroine-tarumono-kiraware-heroine-to-naisho-no-oshigoto",
+            "https://anime-planet.com/anime/heroines-run-the-show-the-unpopular-girl-and-the-secret-task",
             "https://anisearch.com/anime/16559",
             "https://kitsu.io/anime/45031",
             "https://livechart.me/anime/10765",
@@ -1636,13 +1641,14 @@
         ],
         "title": "Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto",
         "type": "tv",
-        "episodes": 12,
+        "episodes": 1,
         "status": "upcoming",
         "picture": "https://cdn.myanimelist.net/images/anime/1311/120270.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1311/120270t.jpg",
         "synonyms": [
             "Heroine Taru Mono! Kiraware Heroine to Naisho no Oshigoto",
             "Heroine Tarumono!: Kiraware Heroine to Naisho no Oshigoto",
+            "Heroines Run the Show: The Unpopular Girl and the Secret Task",
             "To Become a Good Heroine! The Unpopular Girl and the Secret Job",
             "To Become a Real Heroine! The Unpopular Girl and the Secret Task",
             "ヒロインたるもの! ~嫌われヒロインと内緒のお仕事~",
@@ -2491,6 +2497,30 @@
             "based on a novel",
             "fantasy",
             "mystery"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://livechart.me/anime/11177"
+        ],
+        "title": "Kakkou no Iikagen",
+        "type": "ona",
+        "episodes": 0,
+        "status": "finished",
+        "picture": "https://u.livechart.me/anime/11177/poster_image/ae36960f090082771fbb4ee5588e57e4.webp?style=large&format=jpg",
+        "thumbnail": "https://u.livechart.me/anime/11177/poster_image/ae36960f090082771fbb4ee5588e57e4.webp?style=small&format=jpg",
+        "synonyms": [
+            "カッコウのいいかげん"
+        ],
+        "relations": [
+            "https://livechart.me/anime/10346"
+        ],
+        "tags": [
+            "comedy"
         ],
         "date": {
             "season": "spring",
@@ -4020,6 +4050,35 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51554"
+        ],
+        "title": "Mobile Suit Gundam 00: Revealed Chronicle",
+        "type": "ona",
+        "episodes": 0,
+        "status": "ongoing",
+        "picture": "https://cdn.myanimelist.net/images/anime/1272/122456.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1272/122456t.jpg",
+        "synonyms": [
+            "Gundam Double O Revealed Chronicle",
+            "Mobile Suit Gundam 00 Revealed Chronicle",
+            "機動戦士ガンダム00 Revealed Chronicle"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/2581"
+        ],
+        "tags": [
+            "action",
+            "mecha",
+            "military",
+            "sci-fi"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16702",
             "https://anilist.co/anime/139273",
             "https://anime-planet.com/anime/mobile-suit-gundam-cucuruz-doans-island",
@@ -4706,6 +4765,7 @@
             "https://anidb.net/anime/16078",
             "https://anilist.co/anime/130319",
             "https://anime-planet.com/anime/rpg-fudousan",
+            "https://anime-planet.com/anime/rpg-real-estate",
             "https://anisearch.com/anime/16005",
             "https://kitsu.io/anime/44376",
             "https://livechart.me/anime/10435",
@@ -4714,7 +4774,7 @@
         ],
         "title": "RPG Fudousan",
         "type": "tv",
-        "episodes": 12,
+        "episodes": 1,
         "status": "upcoming",
         "picture": "https://cdn.myanimelist.net/images/anime/1680/122002.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1680/122002t.jpg",
@@ -5032,6 +5092,7 @@
         "sources": [
             "https://anidb.net/anime/16376",
             "https://anilist.co/anime/135384",
+            "https://anime-planet.com/anime/miss-shachiku-and-the-little-baby-ghost",
             "https://anime-planet.com/anime/shachiku-san-wa-youjo-yuurei-ni-iyasaretai",
             "https://anisearch.com/anime/16817",
             "https://kitsu.io/anime/44689",
@@ -5041,7 +5102,7 @@
         ],
         "title": "Shachiku-san wa Youjo Yuurei ni Iyasaretai.",
         "type": "tv",
-        "episodes": 12,
+        "episodes": 1,
         "status": "upcoming",
         "picture": "https://cdn.myanimelist.net/images/anime/1190/121945.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1190/121945t.jpg",
@@ -5607,6 +5668,8 @@
     {
         "sources": [
             "https://anidb.net/anime/17280",
+            "https://anime-planet.com/anime/suisei-no-fraulein-prologue",
+            "https://anisearch.com/anime/17240",
             "https://livechart.me/anime/11153",
             "https://myanimelist.net/anime/51544"
         ],
@@ -5620,34 +5683,20 @@
             "Comet Fraulein: Prologue",
             "Comet Freyline: Prologue",
             "Suisei no Fraulein: Prologue",
-            "彗星のフロイライン~プロローグ~",
-            "彗星のフロイライン〜プロローグ〜"
-        ],
-        "relations": [],
-        "tags": [
-            "fantasy"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/17240"
-        ],
-        "title": "Suisei no Fräulein: Prologue",
-        "type": "tv",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17240.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17240.webp",
-        "synonyms": [
             "Suisei no Freyline: Prologue",
+            "Suisei no Fräulein: Prologue",
+            "彗星のフロイライン~プロローグ~",
+            "彗星のフロイライン〜プロローグ〜",
             "彗星のフロイライン～プロローグ～"
         ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "fantasy",
+            "idols",
+            "isekai",
+            "person in a strange world",
+            "shorts"
+        ],
         "date": {
             "season": "spring",
             "year": 2022
@@ -5959,6 +6008,7 @@
         "sources": [
             "https://anidb.net/anime/17279",
             "https://anilist.co/anime/130305",
+            "https://anime-planet.com/anime/toku-touken-ranbu-hanamaru-setsugetsuka-movie-2",
             "https://livechart.me/anime/10416",
             "https://myanimelist.net/anime/47777",
             "https://notify.moe/anime/GjP8HaL7g"
@@ -5972,6 +6022,7 @@
         "synonyms": [
             "Toku \"Touken Ranbu: Hanamaru\" Setsugetsuka",
             "Toku: Touken Ranbu - Hanamaru - Setsugetsuka - Yuki no Maki",
+            "Toku: Touken Ranbu - Hanamaru: Setsugetsuka Movie 2",
             "特『刀剣乱舞-花丸-』~雪月華~",
             "特『刀剣乱舞-花丸-』～雪月華～",
             "特『刀剣乱舞-花丸-』～雪月華～ 雪ノ巻"
@@ -5979,6 +6030,8 @@
         "relations": [
             "https://anidb.net/anime/12790",
             "https://anilist.co/anime/98520",
+            "https://anime-planet.com/anime/toku-touken-ranbu-hanamaru-setsugetsuka-movie-1",
+            "https://anime-planet.com/anime/toku-touken-ranbu-hanamaru-setsugetsuka-movie-3",
             "https://livechart.me/anime/10417",
             "https://livechart.me/anime/10418",
             "https://livechart.me/anime/2110",
@@ -5991,11 +6044,14 @@
         ],
         "tags": [
             "action",
+            "anthropomorphic",
+            "based on a video game",
             "comedy",
             "drama",
             "fantasy",
             "historical",
-            "slice of life"
+            "slice of life",
+            "swordplay"
         ],
         "date": {
             "season": "spring",
@@ -6602,8 +6658,37 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51562"
+        ],
+        "title": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na",
+        "type": "special",
+        "episodes": 2,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "I'm Quitting Heroing: Don't Lose Sight of Why We Took This Research Trip",
+            "勇者、辞めます「研修旅行は目的を見失うな」"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/50175"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "comedy",
+            "fantasy"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/17062",
             "https://anilist.co/anime/142842",
+            "https://anime-planet.com/anime/yu-gi-oh-go-rush",
             "https://anime-planet.com/anime/yu-gi-oh-gorush",
             "https://anisearch.com/anime/16995",
             "https://kitsu.io/anime/45605",

@@ -1595,6 +1595,7 @@
             "https://anilist.co/anime/9282",
             "https://anisearch.com/anime/6351",
             "https://kitsu.io/anime/5654",
+            "https://livechart.me/anime/11013",
             "https://myanimelist.net/anime/9282",
             "https://notify.moe/anime/IaQWpKmiR"
         ],
@@ -1605,10 +1606,12 @@
         "picture": "https://cdn.myanimelist.net/images/anime/2/58229.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/2/58229t.jpg",
         "synonyms": [
+            "Duel Masters Movie 3: Honoo no Kizuna XX!!",
             "Duel Masters: Blazing Bonds XX",
             "Duel Masters: Honou no Kizuna Double X",
             "Gekijouban Duel Masters: Honoo no Kizuna XX",
             "Gekijōban Duel Masters: Honō no Kizuna XX",
+            "劇場版 デュエル・マスターズ 炎のキズナXX（ダブルクロス）!!",
             "劇場版デュエル・マスターズ 炎のキズナXX!!",
             "劇場版デュエル・マスターズ 炎のキズナXX！！"
         ],
@@ -1616,43 +1619,6 @@
             "https://anidb.net/anime/7499",
             "https://anilist.co/anime/1685",
             "https://kitsu.io/anime/1514",
-            "https://myanimelist.net/anime/1685",
-            "https://notify.moe/anime/3_Wf5Kmig"
-        ],
-        "tags": [
-            "action",
-            "card games",
-            "comedy",
-            "contemporary fantasy",
-            "fantasy",
-            "game",
-            "ganbatte",
-            "kids",
-            "manga",
-            "monster",
-            "present",
-            "proxy battles",
-            "shounen"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/11013"
-        ],
-        "title": "Duel Masters Movie 3: Honoo no Kizuna XX!!",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/11013/poster_image/42f51b95a731760f42b73c28d1e8c4f3.webp?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/11013/poster_image/42f51b95a731760f42b73c28d1e8c4f3.webp?style=small&format=jpg",
-        "synonyms": [
-            "劇場版 デュエル・マスターズ 炎のキズナXX（ダブルクロス）!!"
-        ],
-        "relations": [
             "https://livechart.me/anime/11011",
             "https://livechart.me/anime/11012",
             "https://livechart.me/anime/1374",
@@ -1667,13 +1633,25 @@
             "https://livechart.me/anime/7488",
             "https://livechart.me/anime/8568",
             "https://livechart.me/anime/9199",
-            "https://livechart.me/anime/9874"
+            "https://livechart.me/anime/9874",
+            "https://myanimelist.net/anime/1685",
+            "https://notify.moe/anime/3_Wf5Kmig"
         ],
         "tags": [
+            "action",
             "adventure",
+            "card games",
+            "comedy",
+            "contemporary fantasy",
             "fantasy",
             "game",
-            "kids"
+            "ganbatte",
+            "kids",
+            "manga",
+            "monster",
+            "present",
+            "proxy battles",
+            "shounen"
         ],
         "date": {
             "season": "summer",

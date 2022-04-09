@@ -346,6 +346,42 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/arifureta-from-a-detour-to-the-worlds-strongest"
+        ],
+        "title": "Arifureta: From a Detour to the World's Strongest",
+        "type": "special",
+        "episodes": 1,
+        "status": "unknown",
+        "picture": "https://cdn.anime-planet.com/anime/primary/arifureta-from-a-detour-to-the-worlds-strongest-1.webp?t=1649366404",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/arifureta-from-a-detour-to-the-worlds-strongest-1-285x399.webp?t=1649366404",
+        "synonyms": [
+            "Arifureta Yorimichi de Sekai Saikyou"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/arifureta-from-commonplace-to-worlds-strongest-2nd-season"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "based on a light novel",
+            "dark fantasy",
+            "fantasy",
+            "harem",
+            "isekai",
+            "magic",
+            "overpowered main characters",
+            "person in a strange world",
+            "rpg",
+            "seinen",
+            "summoned into another world"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/assault-lily-last-bullet-senka-no-kessoku-pv"
         ],
         "title": "Assault Lily: Last Bullet - Senka no Kessoku PV",
@@ -1218,26 +1254,6 @@
         "tags": [
             "avant garde"
         ],
-        "date": {
-            "season": "unknown",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/146208"
-        ],
-        "title": "Dilemma",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b146208-VvsBhRe2UVPv.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b146208-VvsBhRe2UVPv.png",
-        "synonyms": [
-            "ジレンマ"
-        ],
-        "relations": [],
-        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2022
@@ -2879,6 +2895,28 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/147188"
+        ],
+        "title": "MIRROR TUNE",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147188-vvxJV1GjpARL.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147188-vvxJV1GjpARL.jpg",
+        "synonyms": [
+            "MIЯROR TUNE",
+            "Mirror Tune",
+            "ミラーチューン"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/143483"
         ],
         "title": "Mao Xian Dong De Shou",
@@ -4454,6 +4492,60 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/toku-touken-ranbu-hanamaru-setsugetsuka-movie-1"
+        ],
+        "title": "Toku: Touken Ranbu - Hanamaru: Setsugetsuka Movie 1",
+        "type": "movie",
+        "episodes": 0,
+        "status": "unknown",
+        "picture": "https://cdn.anime-planet.com/anime/primary/toku-touken-ranbu-hanamaru-setsugetsuka-movie-1-1.webp?t=1649405745",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/toku-touken-ranbu-hanamaru-setsugetsuka-movie-1-1-285x399.webp?t=1649405745",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/toku-touken-ranbu-hanamaru-setsugetsuka-movie-2",
+            "https://anime-planet.com/anime/touken-ranbu-hanamaru",
+            "https://anime-planet.com/anime/zoku-touken-ranbu-hanamaru"
+        ],
+        "tags": [
+            "anthropomorphic",
+            "based on a video game",
+            "fantasy",
+            "historical",
+            "swordplay"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/toku-touken-ranbu-hanamaru-setsugetsuka-movie-3"
+        ],
+        "title": "Toku: Touken Ranbu - Hanamaru: Setsugetsuka Movie 3",
+        "type": "movie",
+        "episodes": 0,
+        "status": "unknown",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/toku-touken-ranbu-hanamaru-setsugetsuka-movie-2"
+        ],
+        "tags": [
+            "anthropomorphic",
+            "based on a video game",
+            "fantasy",
+            "historical",
+            "swordplay"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/51169"
         ],
         "title": "Tougane! Omatsuri-Bu",
@@ -4689,6 +4781,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/147212",
             "https://myanimelist.net/anime/51490"
         ],
         "title": "Wo Kao Chongzhi Dang Wudi",
@@ -4699,10 +4792,18 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1692/122190t.jpg",
         "synonyms": [
             "Make Money To Be King",
-            "我靠充值当武帝"
+            "Make money to be king",
+            "我靠充值当武帝",
+            "我靠充钱当武帝"
         ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "amnesia",
+            "cultivation",
+            "fantasy",
+            "full cgi",
+            "virtual world"
+        ],
         "date": {
             "season": "unknown",
             "year": 2022
@@ -5476,6 +5577,28 @@
         "tags": [
             "sports",
             "team sports"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/ko-yo-chojeonbaksal-uiri-gal"
+        ],
+        "title": "ko.yo: 🧡 Chojeonbaksal Uiri GAL!",
+        "type": "special",
+        "episodes": 1,
+        "status": "unknown",
+        "picture": "https://cdn.anime-planet.com/anime/primary/ko-yo-chojeonbaksal-uiri-gal-1.webp?t=1649206257",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/ko-yo-chojeonbaksal-uiri-gal-1-285x399.webp?t=1649206257",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/pink-bxxch-club"
+        ],
+        "tags": [
+            "korean animation"
         ],
         "date": {
             "season": "unknown",

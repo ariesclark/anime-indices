@@ -11196,6 +11196,7 @@
     {
         "sources": [
             "https://anilist.co/anime/17949",
+            "https://anime-planet.com/anime/egoist-the-everlasting-guilty-crown",
             "https://anisearch.com/anime/8440",
             "https://kitsu.io/anime/7965",
             "https://myanimelist.net/anime/17949",
@@ -11207,9 +11208,14 @@
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/12/47807.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/12/47807t.jpg",
-        "synonyms": [],
+        "synonyms": [
+            "EGOIST: The Everlasting Guilty Crown"
+        ],
         "relations": [
             "https://anilist.co/anime/10793",
+            "https://anime-planet.com/anime/guilty-crown",
+            "https://anime-planet.com/anime/guilty-crown-kiseki-reassortment",
+            "https://anime-planet.com/anime/guilty-crown-lost-christmas",
             "https://kitsu.io/anime/6349",
             "https://myanimelist.net/anime/10793",
             "https://notify.moe/anime/YmUVpFiiR"

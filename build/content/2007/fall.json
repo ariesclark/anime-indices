@@ -3537,36 +3537,9 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/5555"
-        ],
-        "title": "Kindaichi Shounen no Jikenbo Special",
-        "type": "special",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/8644.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/8644.jpg-thumb.jpg",
-        "synonyms": [
-            "Kindaichi Case Files: New Series",
-            "金田一少年の事件簿SP",
-            "金田一少年の事件簿スペシャル"
-        ],
-        "relations": [
-            "https://anidb.net/anime/1585"
-        ],
-        "tags": [
-            "detective",
-            "manga",
-            "shounen"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2007
-        }
-    },
-    {
-        "sources": [
+            "https://anidb.net/anime/5555",
             "https://anilist.co/anime/3245",
-            "https://anisearch.com/anime/4609",
+            "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-2007",
             "https://kitsu.io/anime/2880",
             "https://myanimelist.net/anime/3245",
             "https://notify.moe/anime/8fNQ5KmiR"
@@ -3578,43 +3551,81 @@
         "picture": "https://cdn.myanimelist.net/images/anime/7/25371.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/7/25371t.jpg",
         "synonyms": [
-            "Kindaichi Case Files SP - Legendary Vampire Murders",
             "Kindaichi Case Files Special",
+            "Kindaichi Case Files: New Series",
             "Kindaichi Case Files: The Case of the Vampire Legend Murder",
+            "Kindaichi Shounen no Jikenbo (2007)",
+            "Kindaichi Shounen no Jikenbo Special",
             "Kindaichi Shounen no Jikenbo: Kyuuketsuki Densetsu Satsujin Jiken",
-            "Kindaichi Shōnen no Jikenbo: Kyūketsuki Densetsu Satsujin Jiken",
-            "Legendary Vampire Murders",
             "Operaza Kan Saigo no Satsujin",
             "The Third Opera House Murders",
-            "金田一少年の事件簿 吸血鬼伝説殺人事件",
-            "金田一少年の事件簿SP"
+            "金田一少年の事件簿SP",
+            "金田一少年の事件簿スペシャル"
         ],
         "relations": [
+            "https://anidb.net/anime/1585",
             "https://anilist.co/anime/2076",
             "https://anilist.co/anime/2077",
-            "https://anisearch.com/anime/10475",
-            "https://anisearch.com/anime/1175",
-            "https://anisearch.com/anime/1775",
-            "https://anisearch.com/anime/2185",
-            "https://anisearch.com/anime/4608",
+            "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo",
+            "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-kuromajutsu-satsujin-jiken-hen",
+            "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-movie-1-operazakan-aratanaru-satsujin",
+            "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-movie-2-satsuriku-no-deep-blue",
+            "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-returns",
+            "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-returns-2015",
+            "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-returns-akechi--keibu-no-jikenbo",
             "https://kitsu.io/anime/1876",
             "https://myanimelist.net/anime/2077",
             "https://notify.moe/anime/ftfLcKiig"
         ],
         "tags": [
             "asia",
+            "based on a manga",
+            "detective",
+            "detectives",
+            "earth",
+            "island",
+            "japan",
+            "manga",
+            "mystery",
+            "shounen"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
+            "https://anisearch.com/anime/4609"
+        ],
+        "title": "Kindaichi Shounen no Jikenbo: Kyuuketsuki Densetsu Satsujin Jiken",
+        "type": "tv",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/4/4609.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/4/4609.webp",
+        "synonyms": [
+            "Kindaichi Case Files SP - Legendary Vampire Murders",
+            "Kindaichi Case Files: The Case of the Vampire Legend Murder",
+            "Kindaichi Shōnen no Jikenbo: Kyūketsuki Densetsu Satsujin Jiken",
+            "Legendary Vampire Murders",
+            "金田一少年の事件簿 吸血鬼伝説殺人事件"
+        ],
+        "relations": [
+            "https://anisearch.com/anime/10475",
+            "https://anisearch.com/anime/1175",
+            "https://anisearch.com/anime/1775",
+            "https://anisearch.com/anime/2185",
+            "https://anisearch.com/anime/4608"
+        ],
+        "tags": [
             "crime fiction",
             "detective",
             "drama",
-            "earth",
             "genius",
             "horror",
-            "island",
-            "japan",
-            "mystery",
             "policeman",
             "present",
-            "shounen",
             "supernatural drama",
             "thriller",
             "vampires"

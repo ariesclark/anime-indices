@@ -8727,57 +8727,9 @@
     {
         "sources": [
             "https://anidb.net/anime/7227",
-            "https://anime-planet.com/anime/toriko",
-            "https://anisearch.com/anime/5855"
-        ],
-        "title": "Toriko",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/toriko-1.jpg?t=1625886518",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/toriko-1-190x247.jpg?t=1625886518",
-        "synonyms": [
-            "Toriko: Jump Festa 2009 Special",
-            "Toriko: Jump Super Anime Tour 2009 Special",
-            "トリコ"
-        ],
-        "relations": [
-            "https://anidb.net/anime/7735",
-            "https://anidb.net/anime/8009",
-            "https://anidb.net/anime/8142",
-            "https://anime-planet.com/anime/toriko-3d-kaimaku-gourmet-adventure",
-            "https://anime-planet.com/anime/toriko-barbarian-ivy-wo-hokaku-seyo",
-            "https://anime-planet.com/anime/toriko-movie-secret-recipe-of-gourmet-god",
-            "https://anime-planet.com/anime/toriko-tv",
-            "https://anisearch.com/anime/6546",
-            "https://anisearch.com/anime/6684",
-            "https://anisearch.com/anime/6806",
-            "https://anisearch.com/anime/8345"
-        ],
-        "tags": [
-            "action",
-            "action comedy",
-            "adventure",
-            "based on a manga",
-            "comedy",
-            "contemporary fantasy",
-            "cooking",
-            "food and beverage",
-            "island",
-            "manga",
-            "martial arts",
-            "monster",
-            "present",
-            "shounen"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/6941",
+            "https://anime-planet.com/anime/toriko",
+            "https://anisearch.com/anime/5855",
             "https://kitsu.io/anime/4795",
             "https://livechart.me/anime/6015",
             "https://myanimelist.net/anime/6941",
@@ -8790,13 +8742,25 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1316/100672.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1316/100672t.jpg",
         "synonyms": [
+            "Toriko",
             "Toriko: Jump Festa 2009 Special",
             "とりこ",
             "トリコ"
         ],
         "relations": [
+            "https://anidb.net/anime/7735",
+            "https://anidb.net/anime/8009",
+            "https://anidb.net/anime/8142",
             "https://anilist.co/anime/10033",
             "https://anilist.co/anime/10074",
+            "https://anime-planet.com/anime/toriko-3d-kaimaku-gourmet-adventure",
+            "https://anime-planet.com/anime/toriko-barbarian-ivy-wo-hokaku-seyo",
+            "https://anime-planet.com/anime/toriko-movie-secret-recipe-of-gourmet-god",
+            "https://anime-planet.com/anime/toriko-tv",
+            "https://anisearch.com/anime/6546",
+            "https://anisearch.com/anime/6684",
+            "https://anisearch.com/anime/6806",
+            "https://anisearch.com/anime/8345",
             "https://kitsu.io/anime/6002",
             "https://kitsu.io/anime/6021",
             "https://livechart.me/anime/320",
@@ -8810,14 +8774,22 @@
         ],
         "tags": [
             "action",
+            "action comedy",
             "adventure",
             "animals",
+            "based on a manga",
             "comedy",
+            "contemporary fantasy",
             "cooking",
             "earth",
             "food",
+            "food and beverage",
             "gourmet",
+            "island",
             "male protagonist",
+            "manga",
+            "martial arts",
+            "monster",
             "present",
             "shounen",
             "super power",

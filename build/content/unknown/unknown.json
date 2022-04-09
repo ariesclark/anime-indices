@@ -9871,14 +9871,15 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/126365"
+            "https://anilist.co/anime/126365",
+            "https://myanimelist.net/anime/51556"
         ],
         "title": "Changan Shier Shichen: Bai Ye Xingzhe",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126365-zi1bqEU0ZRgc.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126365-zi1bqEU0ZRgc.png",
+        "picture": "https://cdn.myanimelist.net/images/anime/1029/122458.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1029/122458t.jpg",
         "synonyms": [
             "The Longest Day In Changan: The White Night Walkers",
             "The White Night Walkers",
@@ -11883,6 +11884,98 @@
         "relations": [],
         "tags": [
             "comedy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
+            "https://livechart.me/anime/11179"
+        ],
+        "title": "City Hunter Movie",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "劇場版シティーハンター"
+        ],
+        "relations": [
+            "https://livechart.me/anime/1609",
+            "https://livechart.me/anime/3166",
+            "https://livechart.me/anime/4648",
+            "https://livechart.me/anime/8407",
+            "https://livechart.me/anime/8409",
+            "https://livechart.me/anime/8410",
+            "https://livechart.me/anime/8411",
+            "https://livechart.me/anime/8412",
+            "https://livechart.me/anime/8413",
+            "https://livechart.me/anime/8414",
+            "https://livechart.me/anime/8415",
+            "https://livechart.me/anime/8416"
+        ],
+        "tags": [
+            "adventure",
+            "comedy",
+            "mystery",
+            "police"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/147189"
+        ],
+        "title": "City Hunter Movie (Provisonal Title)",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147189-TrTa4dbTW4qF.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147189-TrTa4dbTW4qF.png",
+        "synonyms": [
+            "劇場版シティーハンター （仮）"
+        ],
+        "relations": [
+            "https://anilist.co/anime/101345",
+            "https://anilist.co/anime/1470"
+        ],
+        "tags": [
+            "action",
+            "comedy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/city-hunter-movie-2"
+        ],
+        "title": "City Hunter Movie 2",
+        "type": "movie",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/city-hunter",
+            "https://anime-planet.com/anime/city-hunter-movie-shinjuku-private-eyes"
+        ],
+        "tags": [
+            "action",
+            "based on a manga",
+            "comedy",
+            "guns",
+            "sci fi",
+            "shounen"
         ],
         "date": {
             "season": "unknown",
@@ -38376,6 +38469,30 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51555"
+        ],
+        "title": "Li Xin Zhan Ji",
+        "type": "ona",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1403/122457.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1403/122457t.jpg",
+        "synonyms": [
+            "Glaze War",
+            "璃心战纪"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "sci-fi"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/114122",
             "https://anime-planet.com/anime/li-xin-zhan-ji"
         ],
@@ -46447,31 +46564,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/51319"
-        ],
-        "title": "Morfonica (Shinsaku Animation)",
-        "type": "unknown",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1743/121625.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1743/121625t.jpg",
-        "synonyms": [
-            "Morfonica (新作アニメーション)"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/37870"
-        ],
-        "tags": [
-            "music",
-            "slice of life"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/mori-no-kuma-san-toumin-chuu",
             "https://myanimelist.net/anime/49460"
         ],
@@ -48884,6 +48976,26 @@
             "genies",
             "parody",
             "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51563"
+        ],
+        "title": "One Hundred Thousand Layers of Body Refining",
+        "type": "ona",
+        "episodes": 0,
+        "status": "ongoing",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "action"
         ],
         "date": {
             "season": "unknown",
@@ -51802,14 +51914,15 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/126370"
+            "https://anilist.co/anime/126370",
+            "https://myanimelist.net/anime/51557"
         ],
         "title": "Qia Tongxue Shaonian",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126370-mzxnD7TGqU8a.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126370-mzxnD7TGqU8a.png",
+        "picture": "https://cdn.myanimelist.net/images/anime/1457/122459.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1457/122459t.jpg",
         "synonyms": [
             "恰同学少年"
         ],
@@ -56796,6 +56909,30 @@
             "action",
             "fantasy",
             "full cgi"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51558"
+        ],
+        "title": "Shan Hai Juelun",
+        "type": "ona",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1767/122460.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1767/122460t.jpg",
+        "synonyms": [
+            "Fairy Mountain",
+            "山海绝伦"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "fantasy"
         ],
         "date": {
             "season": "unknown",
@@ -62146,6 +62283,35 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/sonyeoneul-wirohaejwo"
+        ],
+        "title": "Sonyeoneul Wirohaejwo",
+        "type": "special",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.anime-planet.com/anime/primary/sonyeoneul-wirohaejwo-1.webp?t=1649182524",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/sonyeoneul-wirohaejwo-1-285x399.webp?t=1649182524",
+        "synonyms": [
+            "A Shoulder to Cry On"
+        ],
+        "relations": [],
+        "tags": [
+            "based on a webtoon",
+            "bl",
+            "drama",
+            "korean animation",
+            "opposites attract",
+            "romance",
+            "school life",
+            "shounen-ai"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/sora-ga-aketara"
         ],
         "title": "Sora ga Aketara",
@@ -65175,28 +65341,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/the-idolmaster-xenoglossia-specials"
-        ],
-        "title": "The iDOLM@STER: Xenoglossia Specials",
-        "type": "special",
-        "episodes": 8,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/the-idolmaster-xenoglossia-specials-1.jpg?t=1625896922",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-idolmaster-xenoglossia-specials-1-190x268.jpg?t=1625896922",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/the-idolmster-xenoglossia"
-        ],
-        "tags": [
-            "idols"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/51522"
         ],
         "title": "Thrud Kongzhong Nuwushen",
@@ -66869,12 +67013,14 @@
     {
         "sources": [
             "https://anilist.co/anime/147105",
+            "https://anime-planet.com/anime/witch-hat-atelier",
             "https://anisearch.com/anime/17281",
             "https://kitsu.io/anime/46043",
+            "https://livechart.me/anime/11157",
             "https://myanimelist.net/anime/51553"
         ],
         "title": "Tongari Boushi no Atelier",
-        "type": "tv",
+        "type": "special",
         "episodes": 0,
         "status": "upcoming",
         "picture": "https://cdn.myanimelist.net/images/anime/1220/122448.jpg",
@@ -66894,6 +67040,8 @@
         "tags": [
             "adventure",
             "alternative world",
+            "apprenticeship",
+            "based on a manga",
             "comedy",
             "coming of age",
             "drama",
@@ -70397,12 +70545,14 @@
     {
         "sources": [
             "https://anilist.co/anime/147103",
+            "https://anime-planet.com/anime/my-happy-marriage",
             "https://anisearch.com/anime/17282",
+            "https://livechart.me/anime/11175",
             "https://myanimelist.net/anime/51552",
             "https://notify.moe/anime/pLx-0gUnR"
         ],
         "title": "Watashi no Shiawase na Kekkon",
-        "type": "tv",
+        "type": "special",
         "episodes": 0,
         "status": "upcoming",
         "picture": "https://cdn.myanimelist.net/images/anime/1147/122444.jpg",
@@ -70417,12 +70567,17 @@
         ],
         "relations": [],
         "tags": [
+            "adult couples",
             "age gap",
+            "arranged marriage",
+            "based on a novel",
+            "death of a loved one",
             "drama",
             "female protagonist",
             "heterosexual",
             "historical",
             "kuudere",
+            "mature romance",
             "romance",
             "shoujo",
             "supernatural"
@@ -72409,6 +72564,27 @@
     },
     {
         "sources": [
+            "https://anisearch.com/anime/17287"
+        ],
+        "title": "Wulin Bu Er Zhoukan",
+        "type": "ona",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17287.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17287.webp",
+        "synonyms": [
+            "Wu Lin Bu Er Zhou Kan",
+            "武林不二周刊"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/141872",
             "https://myanimelist.net/anime/50459"
         ],
@@ -72504,14 +72680,15 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/126434"
+            "https://anilist.co/anime/126434",
+            "https://myanimelist.net/anime/51559"
         ],
         "title": "Wushu",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126434-uC82lXrJRbcz.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126434-uC82lXrJRbcz.png",
+        "picture": "https://cdn.myanimelist.net/images/anime/1495/122461.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1495/122461t.jpg",
         "synonyms": [
             "武塾"
         ],
@@ -83058,6 +83235,34 @@
     },
     {
         "sources": [
+            "https://livechart.me/anime/11178"
+        ],
+        "title": "Yudatte Saikou! Revice Anime Yukemori Paradise A Go! Go!",
+        "type": "ona",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://u.livechart.me/anime/11178/poster_image/b1a9f922ef2566f835d0cc0ac2be8aaf.webp?style=large&format=jpg",
+        "thumbnail": "https://u.livechart.me/anime/11178/poster_image/b1a9f922ef2566f835d0cc0ac2be8aaf.webp?style=small&format=jpg",
+        "synonyms": [
+            "ゆだって最高！湯けむりパラダイス　リバイスアニメ　Ａ　ＧＯ！ＧＯ！"
+        ],
+        "relations": [
+            "https://livechart.me/anime/10072",
+            "https://livechart.me/anime/10510",
+            "https://livechart.me/anime/10547",
+            "https://livechart.me/anime/7832",
+            "https://livechart.me/anime/8405",
+            "https://livechart.me/anime/8553",
+            "https://livechart.me/anime/9047"
+        ],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": null
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/45894"
         ],
         "title": "Yue Ce Yue Kaixin",
@@ -86098,14 +86303,15 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/114110"
+            "https://anilist.co/anime/114110",
+            "https://myanimelist.net/anime/51560"
         ],
         "title": "Zhun Xing",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114110-EDeLD2wZGIAn.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114110-EDeLD2wZGIAn.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1391/122462.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1391/122462t.jpg",
         "synonyms": [
             "On Your Mark",
             "准星"
