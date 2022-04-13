@@ -111,7 +111,7 @@
             "3-Nen D-Gumi Glass no Kamen Movie",
             "3-Nen D-Gumi Glass no Kamen Movie: Tobidase Watashi-tachi no VR",
             "3-Nen D-Gumi Glass no Kamen: Tobidase! Watashitachi no VR",
-            "3-nen D-Gumi Glass no Kamen: Tobidase Watashitachi no Victory Road",
+            "3-nen D-gumi Glass no Kamen: Tobidase Watashitachi no Victory Road",
             "3ねんDぐみ ガラスの仮面 とびだせ私たちのVR[ヴィクトリーロード]",
             "3ねんDぐみガラスの仮面～とびだせ! 私たちのVR（ヴィクトリーロード）～",
             "The Glass Mask Year 3 Class D Movie"
@@ -1386,6 +1386,7 @@
             "full cgi",
             "idol",
             "idols",
+            "idols (female)",
             "indefinite",
             "music",
             "present",
@@ -1581,7 +1582,7 @@
             "Bungou Stray Dogs 2nd Season Episode 13",
             "Bungou Stray Dogs OAD",
             "Bungou Stray Dogs OVA",
-            "Bungô Stray Dogs: Le marcheur solitaire",
+            "Bungô Stray Dogs : Le marcheur solitaire",
             "Bungō Stray Dogs: Hitori Ayumu",
             "文豪ストレイドッグス 「独り歩む​」",
             "文豪ストレイドッグス 『独り歩む』;",
@@ -1642,6 +1643,7 @@
             "supernatural",
             "supernatural drama",
             "superpowers",
+            "swordplay",
             "terrorism",
             "the arts",
             "thriller"
@@ -2285,6 +2287,7 @@
             "Da Hufa: Hei Huangsheng",
             "The Guardian",
             "大护法",
+            "大护法之黑花生",
             "大護法"
         ],
         "relations": [],
@@ -2703,9 +2706,9 @@
             "breaking the fourth wall",
             "comedy",
             "fantasy",
-            "game",
             "magic",
-            "parody"
+            "parody",
+            "strategy game"
         ],
         "date": {
             "season": "summer",
@@ -3659,11 +3662,13 @@
             "Fate/Kaleid Liner Prisma Illya: Vow in the Snow",
             "Fate/kaleid liner PRISMA ILLYA - The vow in the snow",
             "Fate/kaleid liner Prisma Illya: Oath under the Snow",
+            "Fate/kaleid liner Prisma Illya: Vow In The Snow",
             "Fate/kaleid liner Prisma Illya: Vow in the Snow",
             "Fate/kaleid liner Prisma Illya: หญิงสาวไร้นาม",
             "Fate/kaleid liner Prisma☆Illya Movie: Oath Under Snow",
             "Fate/kaleid liner Prisma☆Illya: Oath Under Snow",
             "Fate/kaleid liner Prisma☆Illya: Sekka no Chikai",
+            "Fate/kaleid liner Prisma☆Illya: Vow In The Snow",
             "Fate/kaleid liner Prisma☆Illya: Vow in the Snow",
             "Fate/kaleid liner プリズマ☆イリヤ 雪下の誓い",
             "Gekijouban Fate/Kaleid Liner Prisma Illya: Sekka no Chikai",
@@ -3674,7 +3679,6 @@
             "극장판 Fate/Kaleid Liner 프리즈마☆이리야: 설하의 맹세"
         ],
         "relations": [
-            "https://anidb.net/anime/13508",
             "https://anidb.net/anime/9042",
             "https://anilist.co/anime/100269",
             "https://anilist.co/anime/101100",
@@ -4779,6 +4783,7 @@
             "Haikyu!! Karasuno High School vs Shiratorizawa Academy: Special Feature! The Spring Tournament of Their Youth",
             "Haikyu!! Sonderbeitrag: Die Jugend beim Frühlingsturnier",
             "Haikyu!! Special Feature! The Spring Tournament of Their Youth",
+            "Haikyu!! ¡Especial! Los jóvenes y el torneo de primavera",
             "Haikyuu!! Karasuno Koukou vs Shiratorizawa Gakuen Koukou: Tokushuu! Haru Kou Volley ni Kaketa Seishun",
             "Haikyuu!! OAD",
             "Haikyuu!! OVA",
@@ -5209,7 +5214,8 @@
             "https://notify.moe/anime/EE_G2Fiig"
         ],
         "tags": [
-            "comedy"
+            "comedy",
+            "performing arts"
         ],
         "date": {
             "season": "summer",
@@ -5238,6 +5244,7 @@
             "fantasy",
             "horror",
             "seinen",
+            "survival",
             "vampire"
         ],
         "date": {
@@ -6160,7 +6167,6 @@
             "mystery",
             "non-human protagonists",
             "novel",
-            "nudity",
             "restaurants",
             "reverse isekai",
             "slice of life",
@@ -6619,6 +6625,7 @@
             "https://myanimelist.net/anime/33840"
         ],
         "tags": [
+            "performing arts",
             "school"
         ],
         "date": {
@@ -7080,6 +7087,7 @@
             "chibi",
             "club",
             "comedy",
+            "disability",
             "football",
             "ganbatte",
             "male protagonist",
@@ -7087,8 +7095,10 @@
             "mental illness",
             "present",
             "primarily child cast",
+            "primarily teen cast",
             "reluctant hero",
             "school",
+            "school club",
             "school life",
             "seinen",
             "slapstick",
@@ -8399,6 +8409,7 @@
             "ganbatte",
             "idol",
             "idols",
+            "idols (female)",
             "music",
             "present",
             "recap",
@@ -9588,7 +9599,6 @@
             "cats",
             "contemporary fantasy",
             "countryside",
-            "demons",
             "drama",
             "episodic",
             "fantasy",
@@ -9596,6 +9606,7 @@
             "japan",
             "japanese mythology",
             "male protagonist",
+            "mythology",
             "orphans",
             "rural",
             "shoujo",
@@ -9742,6 +9753,7 @@
             "airsoft",
             "based on a 4-koma manga",
             "based on a manga",
+            "cgdct",
             "college",
             "comedy",
             "cosplay",
@@ -9766,6 +9778,7 @@
             "slapstick",
             "slice of life",
             "software development",
+            "strategy game",
             "tanned skin",
             "the arts",
             "tomboy",
@@ -9775,6 +9788,7 @@
             "work",
             "work life",
             "working life",
+            "workplace",
             "yuri"
         ],
         "date": {
@@ -9943,6 +9957,7 @@
             "NGNL the Movie",
             "NO GAME NO LIFE Movie",
             "No Game No Life 0",
+            "No Game No Life : Zero",
             "No Game No Life Movie",
             "No Game No Life Zero",
             "No Game no Life Zero",
@@ -10286,7 +10301,8 @@
             "present",
             "school",
             "school club",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "summer",
@@ -11714,10 +11730,10 @@
         "relations": [],
         "tags": [
             "comedy",
-            "game",
             "original work",
             "short episodes",
-            "slice of life"
+            "slice of life",
+            "strategy game"
         ],
         "date": {
             "season": "summer",
@@ -11884,7 +11900,6 @@
         ],
         "relations": [
             "https://anidb.net/anime/1594",
-            "https://anidb.net/anime/15980",
             "https://anilist.co/anime/128400",
             "https://anilist.co/anime/131",
             "https://anime-planet.com/anime/saiyuki",
@@ -11943,6 +11958,7 @@
             "manga",
             "martial arts",
             "primarily adult cast",
+            "shoujo",
             "super power",
             "supernatural",
             "swordplay",
@@ -12208,6 +12224,7 @@
             "henshin",
             "historical",
             "idol",
+            "idols (female)",
             "magical girl",
             "mahou shoujo",
             "monster",
@@ -12495,7 +12512,7 @@
             "https://notify.moe/anime/Fgp42FimR"
         ],
         "title": "Skirt no Naka wa Kedamono Deshita.",
-        "type": "tv",
+        "type": "ona",
         "episodes": 12,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/4/86647.jpg",
@@ -12519,9 +12536,9 @@
             "drama",
             "earth",
             "ecchi",
-            "erotica",
             "eroticism",
             "gender bender",
+            "hentai",
             "josei",
             "mature romance",
             "present",
@@ -14356,6 +14373,31 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/45033"
+        ],
+        "title": "Wan Ou Qibing",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1067/121314.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1067/121314t.jpg",
+        "synonyms": [
+            "T-Guardians",
+            "玩偶奇兵"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "fantasy",
+            "kids"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/15269"
         ],
         "title": "Wan'ou Qibing",
@@ -15044,6 +15086,8 @@
             "https://anime-planet.com/anime/classroom-of-the-elite-2nd-season",
             "https://anime-planet.com/anime/classroom-of-the-elite-3rd-season",
             "https://anime-planet.com/anime/classroom-of-the-elite-pv",
+            "https://anisearch.com/anime/17152",
+            "https://anisearch.com/anime/17185",
             "https://kitsu.io/anime/11001",
             "https://livechart.me/anime/11092",
             "https://livechart.me/anime/11116",
@@ -15384,6 +15428,7 @@
         "synonyms": [
             "Fighter of the Destiny 3",
             "Fighter of the Destiny 3rd Season",
+            "Fighter of the Destiny SS3",
             "Way of Choices 3",
             "Way of Choices 3rd Season",
             "Way of Choices Season 3",

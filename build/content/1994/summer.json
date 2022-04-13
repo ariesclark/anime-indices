@@ -765,10 +765,12 @@
             "based on a manga",
             "bionic powers",
             "combat",
+            "combat sports",
             "comedy",
             "earth",
             "excessive violence",
             "fighting-shounen",
+            "gore",
             "hand to hand combat",
             "japan",
             "magic",
@@ -1338,7 +1340,44 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/1417",
+            "https://anilist.co/anime/1417"
+        ],
+        "title": "Lupin III: Moeyo Zantetsuken",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1417.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1417.jpg",
+        "synonyms": [
+            "Lupin III: Burn",
+            "Lupin III: Dragon of Doom",
+            "Lupin III: Spada Zantetsu, infuocati!",
+            "Lupin the 3rd: Dragon of Doom",
+            "Rupan Sansei: Moeyo Zantetsuken",
+            "Zantetsuken!",
+            "ルパン三世 燃えよ斬鉄剣"
+        ],
+        "relations": [
+            "https://anilist.co/anime/1412"
+        ],
+        "tags": [
+            "adventure",
+            "comedy",
+            "fugitive",
+            "male protagonist",
+            "ninja",
+            "nudity",
+            "primarily adult cast",
+            "samurai",
+            "shounen"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 1994
+        }
+    },
+    {
+        "sources": [
             "https://kitsu.io/anime/1270",
             "https://myanimelist.net/anime/1417",
             "https://notify.moe/anime/Z6z-5Fmig"
@@ -1354,32 +1393,24 @@
             "Lupin III: Burn, Zantetsuken!",
             "Lupin III: Der Goldene Drache",
             "Lupin III: Dragon of Doom",
-            "Lupin III: Spada Zantetsu, infuocati!",
             "Lupin Sansei: Moeyo Zantetsuken!",
-            "Lupin the 3rd: Dragon of Doom",
             "Lupin the Third: Dragon of Doom",
             "Rupan Sansei: Moeyo Zantetsuken",
             "Zantetsuken!",
             "ルパン三世『燃えよ斬鉄剣』"
         ],
         "relations": [
-            "https://anilist.co/anime/1412",
             "https://kitsu.io/anime/1265",
             "https://myanimelist.net/anime/1412",
             "https://notify.moe/anime/Dnk-5Fmmg"
         ],
         "tags": [
             "action",
+            "adult cast",
             "adventure",
             "comedy",
             "crime",
-            "fugitive",
-            "male protagonist",
             "mystery",
-            "ninja",
-            "nudity",
-            "primarily adult cast",
-            "samurai",
             "seinen",
             "shounen",
             "thievery"
@@ -1562,6 +1593,7 @@
         ],
         "tags": [
             "action",
+            "adult cast",
             "air force",
             "aliens",
             "artificial intelligence",
@@ -1903,6 +1935,7 @@
             "magic",
             "manga",
             "martial arts",
+            "mythology",
             "nudity",
             "psi-powers",
             "school",
@@ -2726,6 +2759,7 @@
         "tags": [
             "action",
             "adventure",
+            "alien",
             "aliens",
             "bionic powers",
             "korean animation",
@@ -2737,7 +2771,8 @@
             "sci-fi",
             "science fiction",
             "super power",
-            "super robot"
+            "super robot",
+            "violence"
         ],
         "date": {
             "season": "summer",

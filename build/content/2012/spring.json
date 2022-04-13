@@ -120,6 +120,7 @@
             "guns",
             "idol",
             "idols",
+            "idols (female)",
             "kuudere",
             "mecha",
             "music",
@@ -720,6 +721,7 @@
             "adventure",
             "animal protagonists",
             "animals",
+            "anthropomorphic",
             "based on a novel",
             "cg animation",
             "cg-anime",
@@ -1096,6 +1098,7 @@
             "drama",
             "fantasy",
             "female protagonist",
+            "gore",
             "horror",
             "monster",
             "present",
@@ -1664,7 +1667,6 @@
             "dogs",
             "family friendly",
             "fantasy",
-            "iyashikei",
             "kids",
             "magic",
             "music",
@@ -2301,7 +2303,8 @@
             "shounen",
             "slice of life",
             "soccer",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "spring",
@@ -2489,6 +2492,7 @@
             "shounen",
             "soccer",
             "sports",
+            "team sports",
             "terrorism",
             "thriller"
         ],
@@ -3423,6 +3427,7 @@
             "adventure",
             "animal protagonists",
             "animals",
+            "anthropomorphic",
             "based on a manga",
             "cg animation",
             "cg-anime",
@@ -4013,7 +4018,6 @@
             "Hyouka: Forbidden Secrets",
             "Hyouka: You can't escape",
             "Hyōka",
-            "I scream",
             "Ice-cream",
             "The Niece of Time",
             "Хьёка",
@@ -4046,6 +4050,7 @@
             "coming of age",
             "cosplay",
             "crime fiction",
+            "cute boys doing cute things",
             "daily life",
             "detective",
             "drama",
@@ -4059,6 +4064,7 @@
             "moe",
             "mystery",
             "novel",
+            "otaku culture",
             "philosophy",
             "present",
             "primarily teen cast",
@@ -4071,7 +4077,8 @@
             "shounen",
             "shrine maiden",
             "slice of life",
-            "supernatural drama"
+            "supernatural drama",
+            "surreal comedy"
         ],
         "date": {
             "season": "spring",
@@ -4175,6 +4182,7 @@
             "super power",
             "superpower",
             "superpowers",
+            "team sports",
             "time manipulation",
             "time travel"
         ],
@@ -4345,6 +4353,7 @@
             "adventure",
             "animal protagonists",
             "animals",
+            "anthropomorphic",
             "comedy",
             "cute girls doing cute things",
             "family friendly",
@@ -4510,6 +4519,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/9333",
             "https://kitsu.io/anime/11789",
             "https://notify.moe/anime/0RB3pFimR"
         ],
@@ -4520,9 +4530,14 @@
         "picture": "https://media.kitsu.io/anime/poster_images/11789/small.jpg",
         "thumbnail": "https://media.kitsu.io/anime/poster_images/11789/tiny.jpg",
         "synonyms": [
-            "Ninja Scroll BURST"
+            "Juubee Ninpuuchou Burst",
+            "Ninja Scroll BURST",
+            "Ninja Scroll Burst",
+            "獣兵衛忍風帖BURST"
         ],
-        "relations": [],
+        "relations": [
+            "https://anidb.net/anime/277"
+        ],
         "tags": [
             "action"
         ],
@@ -4953,12 +4968,14 @@
             "harem",
             "henshin",
             "henshin heroes",
+            "heterosexual",
             "japan",
             "kuudere",
             "magic",
             "magical girl",
             "male protagonist",
             "meta",
+            "monster girl",
             "ninja",
             "novel",
             "parody",
@@ -5738,6 +5755,7 @@
             "adventure",
             "animal protagonists",
             "dogs",
+            "educational",
             "family friendly",
             "half-length episodes",
             "kids",
@@ -5822,6 +5840,7 @@
             "Lupin 3: Mine Fujiko",
             "Lupin III",
             "Lupin III : Une femme Nommée Fujiko Mine",
+            "Lupin III.: The Woman Called Fujiko Mine",
             "Lupin III: Die Frau namens Mine Fujiko",
             "Lupin III: Mine Fujiko to Iu Onna",
             "Lupin III: The Woman Called Fujiko Mine",
@@ -6725,8 +6744,8 @@
             "Naruto Rock Lee",
             "Naruto SD",
             "Naruto SD - Rock Lee no Seishun Full-Power Ninden",
+            "Naruto SD Rock Lee : Les péripéties d’un Ninja en Herbe",
             "Naruto SD Rock Lee no Seishun Full-Power Ninden",
-            "Naruto SD-Rock Lee:Les Péripéties d'un ninja",
             "Naruto SD-Rock Lee:Les Péripéties d'un ninja en herbe",
             "Naruto SD[すごいどりょく] ロック・リーの青春フルパワー忍伝",
             "Naruto Spin off: Rock Lee und seine Ninja Kumpels",
@@ -7138,7 +7157,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/9333",
             "https://anime-planet.com/anime/ninja-scroll-burst",
             "https://anisearch.com/anime/8225"
         ],
@@ -7153,7 +7171,6 @@
             "Ninja Scroll Kocho"
         ],
         "relations": [
-            "https://anidb.net/anime/277",
             "https://anime-planet.com/anime/ninja-scroll",
             "https://anime-planet.com/anime/ninja-scroll-the-series"
         ],
@@ -7474,7 +7491,6 @@
         ],
         "tags": [
             "alien",
-            "cars",
             "comedy",
             "drama",
             "japan",
@@ -7485,6 +7501,7 @@
             "plot continuity",
             "present",
             "promotional",
+            "racing",
             "romance",
             "science-fiction",
             "short episodes",
@@ -7524,6 +7541,7 @@
             "comedy",
             "motorsport",
             "promotional",
+            "racing",
             "romance",
             "sci-fi",
             "science fiction"
@@ -7815,6 +7833,7 @@
             "brain games and gambling",
             "comedy",
             "game",
+            "high stakes game",
             "high stakes games",
             "mystery",
             "new",
@@ -7824,6 +7843,7 @@
             "psychological drama",
             "school",
             "shounen",
+            "strategy game",
             "super power",
             "thriller"
         ],
@@ -8378,6 +8398,7 @@
             "high fantasy",
             "historical",
             "large breasts",
+            "monster girl",
             "nudity",
             "nun",
             "pantsu",
@@ -10239,6 +10260,7 @@
             "https://notify.moe/anime/heB7pKiig"
         ],
         "tags": [
+            "cgdct",
             "comedy",
             "drama",
             "female protagonist",
@@ -10533,6 +10555,7 @@
             "ganbatte",
             "idol",
             "idols",
+            "idols (female)",
             "moe",
             "music",
             "present",
@@ -10591,7 +10614,8 @@
             "episodic",
             "historical",
             "present",
-            "seinen"
+            "seinen",
+            "time travel"
         ],
         "date": {
             "season": "spring",
@@ -11407,7 +11431,8 @@
             "united states",
             "verbal comedy",
             "work",
-            "working life"
+            "working life",
+            "workplace"
         ],
         "date": {
             "season": "spring",

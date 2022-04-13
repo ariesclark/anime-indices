@@ -301,7 +301,8 @@
             "kids",
             "magic",
             "manga",
-            "shounen"
+            "shounen",
+            "strategy game"
         ],
         "date": {
             "season": "winter",
@@ -957,7 +958,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/14943",
             "https://kitsu.io/anime/7185",
             "https://notify.moe/anime/K-JdtFmiR"
         ],
@@ -969,13 +969,10 @@
         "thumbnail": "https://media.kitsu.io/anime/poster_images/7185/tiny.jpg",
         "synonyms": [
             "Case Closed Movie 8 Pre-Release Special",
-            "Detective Conan Movie 8 Promo Special",
             "Meitantei Conan Movie 8 Special",
             "名探偵コナン 銀翼の奇術師[マジシャン]"
         ],
-        "relations": [
-            "https://anilist.co/anime/1367"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "adventure",
@@ -1801,6 +1798,7 @@
             "josei",
             "lifestyle change",
             "mafia",
+            "organized crime",
             "present",
             "primarily male cast",
             "school",
@@ -1810,6 +1808,7 @@
             "suicide",
             "teacher",
             "teaching",
+            "workplace",
             "yakuza"
         ],
         "date": {
@@ -2187,6 +2186,7 @@
             "school",
             "shounen",
             "sports",
+            "strategy game",
             "supernatural",
             "tournaments",
             "virtual reality"
@@ -2466,6 +2466,7 @@
             "Fantasma do Futuro 2: Inocente",
             "Ghost in The Shell 2: Innocence",
             "Ghost in the Shell - Innocence",
+            "Ghost in the Shell - L'attacco dei cyborg",
             "Ghost in the Shell 2 - Innocence",
             "Ghost in the Shell 2 - L`attacco dei cyborg",
             "Ghost in the Shell 2: Innocence",
@@ -2901,6 +2902,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/13/30991t.jpg",
         "synonyms": [
             "Incredible Zorori",
+            "Kaiketsu Zorori (2005)",
             "Kaiketsu Zorori (TV)",
             "Zorori",
             "Zorori - Le Magnifique",
@@ -2908,11 +2910,11 @@
             "Zorori el Extraordinario",
             "Zorori, O Fantástico",
             "かいけつぞろり",
-            "かいけつゾロリ"
+            "かいけつゾロリ",
+            "かいけつゾロリ (2005)"
         ],
         "relations": [
             "https://anidb.net/anime/3584",
-            "https://anidb.net/anime/5978",
             "https://anidb.net/anime/5997",
             "https://anilist.co/anime/120378",
             "https://anilist.co/anime/15067",
@@ -4828,7 +4830,8 @@
             "shounen",
             "slapstick",
             "slavery",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "winter",
@@ -5067,6 +5070,7 @@
             "kidnapping",
             "kuudere",
             "mafia",
+            "organized crime",
             "present",
             "psychological drama",
             "romance",
@@ -5172,6 +5176,7 @@
             "comedy",
             "demon",
             "demons",
+            "mythology",
             "stop motion"
         ],
         "date": {
@@ -6951,6 +6956,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/10/72281.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/10/72281t.jpg",
         "synonyms": [
+            "Annelida Tänzerin",
             "Dancer of Vermicular",
             "Dancer of vermicular",
             "Zenchū Maite",

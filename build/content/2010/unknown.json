@@ -55,11 +55,13 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1102/120923.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1102/120923t.jpg",
         "synonyms": [
+            "Inner Odyssey",
             "inner odyssey",
             "ある心の旅"
         ],
         "relations": [],
         "tags": [
+            "avant garde",
             "psychological"
         ],
         "date": {
@@ -2054,31 +2056,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/49754"
-        ],
-        "title": "Ni no Kuni: Shikkoku no madoushi - Cutscenes",
-        "type": "special",
-        "episodes": 15,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1641/117517.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1641/117517t.jpg",
-        "synonyms": [
-            "Ni no Kuni: Dominion of the Dark Djinn - Cutscenes"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/39235"
-        ],
-        "tags": [
-            "adventure",
-            "fantasy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/night-raid-1931-demon-of-the-opium-den"
         ],
         "title": "Night Raid 1931: Demon of the Opium Den",
@@ -2246,8 +2223,8 @@
         "type": "special",
         "episodes": 9,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [],
         "relations": [
             "https://anime-planet.com/anime/peeping-life",
@@ -2385,6 +2362,32 @@
         "tags": [
             "action",
             "adventure"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/44132"
+        ],
+        "title": "Qin Shi Mingyue: Xiao Chuangjianghu",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1761/118745.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1761/118745t.jpg",
+        "synonyms": [
+            "秦时明月之笑闯江湖"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44133",
+            "https://myanimelist.net/anime/9806"
+        ],
+        "tags": [
+            "comedy",
+            "fantasy"
         ],
         "date": {
             "season": "unknown",

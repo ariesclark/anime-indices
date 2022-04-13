@@ -413,8 +413,9 @@
             "Cutey Honey (1997)",
             "Cutey Honey Flash",
             "Cutie Honey F",
+            "Cutie Honey Flash",
             "キューティーハニーF",
-            "キューティーハニーF[フラッシュ]",
+            "キューティーハニーフラッシュ",
             "キューティーハニーＦ"
         ],
         "relations": [
@@ -2202,6 +2203,7 @@
             "https://anidb.net/anime/229",
             "https://anidb.net/anime/496",
             "https://anilist.co/anime/2273",
+            "https://anilist.co/anime/2728",
             "https://anilist.co/anime/7113",
             "https://anilist.co/anime/90",
             "https://anime-planet.com/anime/30th-gundam-perfect-mission",
@@ -2928,7 +2930,9 @@
             "WHITE REFLECTION",
             "White Reflection"
         ],
-        "relations": [],
+        "relations": [
+            "https://anilist.co/anime/91"
+        ],
         "tags": [
             "action",
             "adventure",

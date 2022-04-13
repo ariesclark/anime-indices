@@ -135,6 +135,30 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/43865"
+        ],
+        "title": "Feilong Tian Jiang",
+        "type": "tv",
+        "episodes": 13,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1010/122504.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1010/122504t.jpg",
+        "synonyms": [
+            "飞龙天降"
+        ],
+        "relations": [],
+        "tags": [
+            "anthropomorphic",
+            "fantasy",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2002
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/162"
         ],
         "title": "Fengyun: Feng Ji Yun Nu",
@@ -237,8 +261,8 @@
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1970/122489.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1970/122489t.jpg",
         "synonyms": [
             "怪城"
         ],
@@ -452,32 +476,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/50313"
-        ],
-        "title": "Minimoni ja Movie: Okashi na Daibōken!",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "Minimoni the Movie: The Great Sweets Adventure!",
-            "ミニモニ。じゃ ムービー お菓子な大冒険！"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "gourmet",
-            "kids",
-            "slice of life"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2002
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/minimoni-minihams-no-kekkon-song"
         ],
         "title": "Minimoni: Minihams no Kekkon Song",
@@ -666,33 +664,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/42931"
-        ],
-        "title": "Shuukan Pokemon Housoukyoku",
-        "type": "tv",
-        "episodes": 91,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1323/109342.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1323/109342t.jpg",
-        "synonyms": [
-            "Weekly Pokemon Broadcasting Station",
-            "週刊ポケモン放送局"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/2363"
-        ],
-        "tags": [
-            "comedy",
-            "fantasy",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2002
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/44178"
         ],
         "title": "Sui Tang Heroes",
@@ -704,7 +675,9 @@
         "synonyms": [
             "隋唐英雄传"
         ],
-        "relations": [],
+        "relations": [
+            "https://myanimelist.net/anime/43893"
+        ],
         "tags": [
             "fantasy"
         ],

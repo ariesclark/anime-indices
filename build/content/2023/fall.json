@@ -57,5 +57,59 @@
             "season": "fall",
             "year": 2023
         }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51539"
+        ],
+        "title": "Rabbits Kingdom the Movie",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1578/122620.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1578/122620t.jpg",
+        "synonyms": [
+            "RABBITS KINGDOM THE MOVIE",
+            "Tskiuta. Movie"
+        ],
+        "relations": [],
+        "tags": [
+            "idols (male)",
+            "music"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/17302",
+            "https://livechart.me/anime/11172"
+        ],
+        "title": "Rabbits Kingdom the Movie",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.anidb.net/images/main/271653.jpg",
+        "thumbnail": "https://cdn.anidb.net/images/main/271653.jpg-thumb.jpg",
+        "synonyms": [
+            "RABBITS KINGDOM THE MOVIE",
+            "「ツキウタ。」劇場版 ラビッツキングダム"
+        ],
+        "relations": [
+            "https://livechart.me/anime/10212",
+            "https://livechart.me/anime/1291",
+            "https://livechart.me/anime/2441",
+            "https://livechart.me/anime/3028",
+            "https://livechart.me/anime/9207"
+        ],
+        "tags": [
+            "music"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2023
+        }
     }
 ]

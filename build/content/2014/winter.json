@@ -2839,6 +2839,7 @@
             "psi-powers",
             "psychological drama",
             "seinen",
+            "slapstick",
             "splatter",
             "stoic hero",
             "super power",
@@ -3299,7 +3300,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/97961",
             "https://anime-planet.com/anime/henna-omamesan",
             "https://kitsu.io/anime/12483",
             "https://livechart.me/anime/8960",
@@ -3323,7 +3323,6 @@
             "https://notify.moe/anime/JpERpKiiR"
         ],
         "tags": [
-            "advertisement",
             "comedy",
             "parody",
             "promotional"
@@ -5733,6 +5732,7 @@
             "めいたんていラスカル"
         ],
         "relations": [
+            "https://anidb.net/anime/2306",
             "https://anime-planet.com/anime/araiguma-rascal",
             "https://kitsu.io/anime/2341",
             "https://myanimelist.net/anime/2576",
@@ -8997,6 +8997,7 @@
             "ganbatte",
             "ice skating",
             "idol",
+            "idols (female)",
             "kids",
             "music",
             "romance",
@@ -9049,6 +9050,7 @@
         "tags": [
             "comedy",
             "game",
+            "idols (female)",
             "music",
             "short movie",
             "slice of life"
@@ -9587,7 +9589,7 @@
             "ImoCho.",
             "ImoCho: Recently My Sister is Unusual",
             "ImoCyo",
-            "Lately, My Little Sister's Been Acting A Bit Strange, But....",
+            "Lately, My Little Sister’s Been Acting a Bit Strange, but…",
             "My Little Sister is Unusual",
             "Recently",
             "Recently My Sister is Unusual",
@@ -9736,6 +9738,7 @@
             "shounen",
             "slice of life",
             "sports",
+            "strategy game",
             "tournaments",
             "yuri"
         ],
@@ -10261,10 +10264,10 @@
             "female protagonist",
             "henshin",
             "idol",
+            "idols (female)",
             "kuudere",
             "mahou shoujo",
             "music",
-            "musical",
             "primarily female cast",
             "slice of life"
         ],
@@ -11686,6 +11689,7 @@
             "game",
             "idol",
             "idols",
+            "idols (female)",
             "kuudere",
             "music",
             "present",
@@ -11790,6 +11794,7 @@
         "tags": [
             "action",
             "action comedy",
+            "adult cast",
             "comedy",
             "lgbtq+ themes",
             "mystery",
@@ -12713,6 +12718,7 @@
             "high school",
             "idol",
             "idols",
+            "idols (female)",
             "japan",
             "music",
             "musical",
@@ -13222,7 +13228,6 @@
             "aliens",
             "asia",
             "based on a video game",
-            "cute girls doing cute things",
             "disaster",
             "earth",
             "episodic",
@@ -13234,13 +13239,13 @@
             "japan",
             "mahou shoujo",
             "martial arts",
-            "photography",
             "present",
             "primarily female cast",
             "school",
             "sci fi",
             "sci-fi",
             "short episodes",
+            "strategy game",
             "super power",
             "superhero",
             "superheroes",
@@ -13674,6 +13679,31 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/43933"
+        ],
+        "title": "Xin Datou Er Zi He Xiao Tou Baba: Ma Nian Xin Yuan",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1707/122609.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1707/122609t.jpg",
+        "synonyms": [
+            "新大头儿子和小头爸爸之马年新愿"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/43922"
+        ],
+        "tags": [
+            "comedy",
+            "kids"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/11958",
             "https://anisearch.com/anime/15625",
             "https://anisearch.com/anime/9582",
@@ -14059,6 +14089,7 @@
             "kids",
             "middle school",
             "monster-of-the-week",
+            "mythology",
             "present",
             "shounen",
             "slapstick",
@@ -14289,6 +14320,7 @@
             "science-fiction",
             "shounen",
             "slice of life",
+            "strategy game",
             "swords & co",
             "tsundere"
         ],

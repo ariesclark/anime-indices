@@ -632,8 +632,8 @@
             "https://myanimelist.net/anime/19759",
             "https://myanimelist.net/anime/28405",
             "https://myanimelist.net/anime/30654",
-            "https://myanimelist.net/anime/33511",
             "https://myanimelist.net/anime/33513",
+            "https://myanimelist.net/anime/34389",
             "https://notify.moe/anime/-F9g2FmiR",
             "https://notify.moe/anime/TmD2tKmiR",
             "https://notify.moe/anime/YFh_tKmiR",
@@ -1578,6 +1578,7 @@
             "https://notify.moe/anime/0QnOpKiiR"
         ],
         "tags": [
+            "adult cast",
             "afterlife",
             "amnesia",
             "bar",
@@ -1589,6 +1590,7 @@
             "female protagonist",
             "gambling",
             "game",
+            "high stakes game",
             "high stakes games",
             "kuudere",
             "memory manipulation",
@@ -1750,6 +1752,7 @@
             "action",
             "comedy",
             "cops",
+            "detective",
             "mystery",
             "police",
             "shounen"
@@ -3359,7 +3362,7 @@
             "https://myanimelist.net/anime/25303",
             "https://notify.moe/anime/vRn1pFmiR"
         ],
-        "title": "Haikyuu!!: Lev Genzan!",
+        "title": "Haikyuu!! Lev Genzan!",
         "type": "ova",
         "episodes": 1,
         "status": "finished",
@@ -3377,6 +3380,7 @@
             "Haikyuu!! The Arrival of Haiba Lev",
             "Haikyuu!!: Jump Festa 2014 Special",
             "Haikyuu!!: Jump Festa 2015 Special",
+            "Haikyuu!!: Lev Genzan!",
             "Haikyuu!!: Lev Kenzan!",
             "Haikyuu!!: vs. Akaten",
             "Haikyu‼ OAD: Lev Appears!",
@@ -3432,6 +3436,7 @@
             "school club",
             "shounen",
             "sports",
+            "team sports",
             "video games",
             "volleyball"
         ],
@@ -3750,9 +3755,9 @@
             "High School DxD New Episode 13",
             "High School DxD New OVA",
             "High School DxD New OVA Oppai, Tsutsumimasu!",
-            "High School DxD New: Teishi Kyoushitsu no Vampire",
+            "High School DxD New: Teishi Kyoushitsu no Vampire - Oppai, Tsutsumimasu!",
             "Highschool DxD New OVA",
-            "ハイスクールDxD NEW 停止教室のヴァンパイア",
+            "ハイスクールDxD NEW 停止教室のヴァンパイア おっぱい, 包みます!",
             "ハイスクールD×D NEW OVA おっぱい、包みます！"
         ],
         "relations": [
@@ -4078,7 +4083,7 @@
         ],
         "tags": [
             "fantasy",
-            "game"
+            "video game"
         ],
         "date": {
             "season": "winter",
@@ -5393,6 +5398,7 @@
         "tags": [
             "4-koma manhwa",
             "anthropomorphic",
+            "anthropomorphism",
             "based on a manga",
             "chibi",
             "comedy",
@@ -5683,6 +5689,7 @@
         "tags": [
             "based on a 4-koma manga",
             "based on a manga",
+            "cgdct",
             "comedy",
             "cooking",
             "cute girls doing cute things",
@@ -5833,11 +5840,11 @@
             "Kuroko no Basuke Third Season",
             "Kuroko's Basket Saison 3",
             "Kuroko's Basket Staffel 3",
-            "Kuroko's Basket: Saison 3",
             "Kuroko's Basketball 3",
             "Kuroko's Basketball 3rd Season",
             "Kuroko's Basketball Season 3",
             "Kuroko`s Basketball 3",
+            "Kuroko’s Basket : Saison 3",
             "Kuroko’s Basketball Season 3",
             "Kuroko’s Basketball Staffel 3",
             "Kuroko’s Basketball: 3rd Season",
@@ -5938,6 +5945,7 @@
             "slapstick",
             "sports",
             "super power",
+            "team sports",
             "tournaments"
         ],
         "date": {
@@ -6690,7 +6698,8 @@
         "tags": [
             "music",
             "psychological",
-            "school"
+            "school",
+            "visual arts"
         ],
         "date": {
             "season": "winter",
@@ -6849,7 +6858,6 @@
             "https://myanimelist.net/anime/10260",
             "https://myanimelist.net/anime/21427",
             "https://myanimelist.net/anime/30489",
-            "https://myanimelist.net/anime/31445",
             "https://notify.moe/anime/8MQ_pFmig",
             "https://notify.moe/anime/Ony7tKmmg",
             "https://notify.moe/anime/RxdqpKmmg",
@@ -8213,6 +8221,7 @@
             "henshin",
             "idol",
             "idols",
+            "idols (female)",
             "kids",
             "magic",
             "music",
@@ -8501,10 +8510,37 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/12403",
-            "https://myanimelist.net/anime/33278"
+            "https://kitsu.io/anime/12403"
         ],
         "title": "Qin Shi Ming Yue Tebie Pian: Di Zi Jiang Xi",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://media.kitsu.io/anime/poster_images/12403/small.jpg",
+        "thumbnail": "https://media.kitsu.io/anime/poster_images/12403/tiny.jpg",
+        "synonyms": [
+            "Qin's Moon: Lady Xiang Descends",
+            "秦时明月特别篇《帝子降兮》"
+        ],
+        "relations": [
+            "https://kitsu.io/anime/7337"
+        ],
+        "tags": [
+            "action",
+            "fantasy",
+            "historical",
+            "martial arts"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/33278"
+        ],
+        "title": "Qin Shi Mingyue Tebie Pian: Di Zi Jiang Xi",
         "type": "ona",
         "episodes": 1,
         "status": "finished",
@@ -8515,7 +8551,6 @@
             "秦时明月特别篇《帝子降兮》"
         ],
         "relations": [
-            "https://kitsu.io/anime/7337",
             "https://myanimelist.net/anime/11835",
             "https://myanimelist.net/anime/11841",
             "https://myanimelist.net/anime/15905",
@@ -9850,6 +9885,7 @@
             "ecchi",
             "fantasy",
             "kuudere",
+            "mythology",
             "nonsense-comedy",
             "nudity",
             "present",
@@ -9980,10 +10016,12 @@
             "ganbatte",
             "idol",
             "idols",
+            "idols (male)",
             "japan",
             "music",
             "musical band",
             "performance",
+            "performing arts",
             "present",
             "primarily male cast",
             "shoujo",
@@ -10044,8 +10082,10 @@
             "historical",
             "josei",
             "lifestyle change",
+            "love polygon",
             "male protagonist",
             "manga",
+            "performing arts",
             "primarily adult cast",
             "rakugo",
             "slice of life",
@@ -10729,23 +10769,25 @@
             "https://kitsu.io/anime/43225",
             "https://kitsu.io/anime/44384",
             "https://kitsu.io/anime/45665",
+            "https://kitsu.io/anime/45973",
+            "https://kitsu.io/anime/46049",
             "https://kitsu.io/anime/6111",
             "https://kitsu.io/anime/8770",
-            "https://livechart.me/anime/1016",
-            "https://livechart.me/anime/1229",
             "https://livechart.me/anime/1443",
-            "https://livechart.me/anime/170",
             "https://livechart.me/anime/1935",
             "https://livechart.me/anime/2373",
             "https://livechart.me/anime/2673",
             "https://livechart.me/anime/2785",
             "https://livechart.me/anime/2786",
-            "https://livechart.me/anime/2836",
-            "https://livechart.me/anime/4369",
-            "https://livechart.me/anime/4914",
+            "https://livechart.me/anime/3125",
+            "https://livechart.me/anime/3336",
             "https://livechart.me/anime/5519",
             "https://livechart.me/anime/6518",
+            "https://livechart.me/anime/6599",
             "https://livechart.me/anime/7910",
+            "https://livechart.me/anime/7963",
+            "https://livechart.me/anime/8376",
+            "https://livechart.me/anime/9995",
             "https://myanimelist.net/anime/10278",
             "https://myanimelist.net/anime/21409",
             "https://myanimelist.net/anime/30218",

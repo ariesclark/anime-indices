@@ -62,6 +62,33 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/45393"
+        ],
+        "title": "AU: Shen Qihuan Jing",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1800/122388.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1800/122388t.jpg",
+        "synonyms": [
+            "阿优之神奇幻镜"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/45392",
+            "https://myanimelist.net/anime/45394"
+        ],
+        "tags": [
+            "anthropomorphic",
+            "comedy",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/abu-shui-qian-gushi",
             "https://myanimelist.net/anime/45689"
         ],
@@ -749,6 +776,33 @@
             "based on a mobile game",
             "fantasy",
             "rpg"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/45206",
+            "https://myanimelist.net/anime/47660"
+        ],
+        "title": "Chao Bian Wu Shou",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "超变武兽",
+            "超变武兽 第2季"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "adventure",
+            "kids",
+            "sci-fi"
         ],
         "date": {
             "season": "unknown",
@@ -1909,9 +1963,9 @@
         ],
         "relations": [],
         "tags": [
-            "cars",
             "kids",
-            "mecha"
+            "mecha",
+            "racing"
         ],
         "date": {
             "season": "unknown",
@@ -4127,8 +4181,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [
             "Malta's Adventure 3"
         ],
@@ -4210,14 +4264,18 @@
             "https://myanimelist.net/anime/50243"
         ],
         "title": "Matter",
-        "type": "ona",
+        "type": "special",
         "episodes": 1,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1450/119025.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1450/119025t.jpg",
-        "synonyms": [],
+        "synonyms": [
+            "MATTER"
+        ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "avant garde"
+        ],
         "date": {
             "season": "unknown",
             "year": 2017
@@ -7497,8 +7555,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [],
         "relations": [],
         "tags": [
@@ -7527,30 +7585,6 @@
         ],
         "relations": [],
         "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/45033"
-        ],
-        "title": "Wan Ou Qibing",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "玩偶奇兵"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "kids"
-        ],
         "date": {
             "season": "unknown",
             "year": 2017
@@ -8314,7 +8348,9 @@
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/yuuyake-shiwasu-yume-wo-misete-1-190x266.jpg?t=1625899046",
         "synonyms": [],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "slice of life"
+        ],
         "date": {
             "season": "unknown",
             "year": 2017

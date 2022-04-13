@@ -163,7 +163,6 @@
             "元祖天才バカボン"
         ],
         "relations": [
-            "https://anidb.net/anime/11099",
             "https://anidb.net/anime/11767",
             "https://anidb.net/anime/14002",
             "https://anidb.net/anime/3422",
@@ -629,6 +628,31 @@
             "slapstick",
             "superhero",
             "time travel"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 1975
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/145907",
+            "https://myanimelist.net/anime/50100"
+        ],
+        "title": "Tooi Sekai ni",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1262/118747.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1262/118747t.jpg",
+        "synonyms": [
+            "Minna no Uta",
+            "遠い世界に"
+        ],
+        "relations": [],
+        "tags": [
+            "kids",
+            "music"
         ],
         "date": {
             "season": "fall",

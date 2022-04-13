@@ -1209,8 +1209,8 @@
         "type": "special",
         "episodes": 2,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [
             "Aim For the Top! Science Lessons Return",
             "Top wo Nerae! Science Lessons Return"
@@ -1947,7 +1947,9 @@
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/kenshi-yonezu-koi-to-byonetsu-1-190x266.jpg?t=1625899028",
         "synonyms": [],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "drama"
+        ],
         "date": {
             "season": "unknown",
             "year": 2012
@@ -2504,6 +2506,31 @@
             "black and white",
             "music",
             "rock music"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/45401"
+        ],
+        "title": "Mao Qiu Daya Qi Qu: Lu Zhi Benzou Da Caoyuan",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1183/122398.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1183/122398t.jpg",
+        "synonyms": [
+            "毛球大牙奇趣之旅之奔走大草原"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/45402"
+        ],
+        "tags": [
+            "anthropomorphic",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -4346,30 +4373,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/51246"
-        ],
-        "title": "Sukkiri!! x Eiga Himitsu no Akko-chan",
-        "type": "special",
-        "episodes": 4,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1516/121432.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1516/121432t.jpg",
-        "synonyms": [
-            "スッキリ!!×映画ひみつのアッコちゃん"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/3839"
-        ],
-        "tags": [
-            "slice of life"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/42541"
         ],
         "title": "Suntan Girl",
@@ -4613,6 +4616,34 @@
             "comedy",
             "historical",
             "seinen"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/45380"
+        ],
+        "title": "Tianyan Zhi Zhan",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1656/122374.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1656/122374t.jpg",
+        "synonyms": [
+            "Magic Eye Adventures",
+            "天眼智战"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/45379",
+            "https://myanimelist.net/anime/45381"
+        ],
+        "tags": [
+            "adventure",
+            "kids",
+            "sci-fi"
         ],
         "date": {
             "season": "unknown",
@@ -4888,7 +4919,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/43900",
             "https://myanimelist.net/anime/44817"
         ],
         "title": "Wo Shi Da Xiongmao",
@@ -4900,9 +4930,7 @@
         "synonyms": [
             "我是大熊猫"
         ],
-        "relations": [
-            "https://myanimelist.net/anime/44819"
-        ],
+        "relations": [],
         "tags": [
             "adventure",
             "fantasy",
@@ -5093,6 +5121,31 @@
             "non-human protagonists",
             "original work",
             "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/44486"
+        ],
+        "title": "Xiao Ji Bu Hao Re: Xian Dan Si",
+        "type": "tv",
+        "episodes": 78,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1340/122323.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1340/122323t.jpg",
+        "synonyms": [
+            "小鸡不好惹之咸蛋寺"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44479"
+        ],
+        "tags": [
+            "anthropomorphic",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -5444,8 +5497,8 @@
         "relations": [],
         "tags": [
             "adventure",
-            "cars",
-            "kids"
+            "kids",
+            "racing"
         ],
         "date": {
             "season": "unknown",

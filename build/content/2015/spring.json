@@ -2265,6 +2265,7 @@
             "slapstick",
             "slice of life",
             "sports",
+            "team sports",
             "tournaments",
             "verbal comedy"
         ],
@@ -2343,6 +2344,7 @@
             "DBZ Movie 15",
             "Dragon Ball Z (2015)",
             "Dragon Ball Z - La resurrezione di 'F'",
+            "Dragon Ball Z : La Résurrection de F",
             "Dragon Ball Z : La Résurrection de `F`",
             "Dragon Ball Z Film 15: La Résurrection de ''F''",
             "Dragon Ball Z Film 15: Resurrection 'F'",
@@ -2355,7 +2357,6 @@
             "Dragon Ball Z: La Resurrección de \"F\"",
             "Dragon Ball Z: La Resurrección de Freezer",
             "Dragon Ball Z: La Resurrezione di F",
-            "Dragon Ball Z: La Résurrection de F",
             "Dragon Ball Z: Movie 15",
             "Dragon Ball Z: O Renascimento de F",
             "Dragon Ball Z: Resurrection \"F\"",
@@ -4158,6 +4159,7 @@
             "Suntory CM"
         ],
         "relations": [
+            "https://anilist.co/anime/145850",
             "https://anilist.co/anime/20981",
             "https://anime-planet.com/anime/the-boy-and-the-beast",
             "https://kitsu.io/anime/10065",
@@ -4308,6 +4310,7 @@
             "gender bender",
             "guns",
             "incest",
+            "nudity",
             "pantsu",
             "present",
             "psychological drama",
@@ -4924,6 +4927,7 @@
             "asia",
             "based on a 4-koma manga",
             "based on a manga",
+            "cgdct",
             "comedy",
             "cute girls doing cute things",
             "daily life",
@@ -5768,10 +5772,10 @@
             "chinese animation",
             "family friendly",
             "fantasy",
-            "game",
             "kids",
             "magic",
-            "proxy battles"
+            "proxy battles",
+            "strategy game"
         ],
         "date": {
             "season": "spring",
@@ -6128,11 +6132,13 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/5/73970t.jpg",
         "synonyms": [
             "Jewelpet: Magical Change",
+            "jewelpet7",
             "じゅえるぺっとまじかるちぇんじ",
             "ジュエルペット マジカルチェンジ",
             "宝石宠物 Magical Change"
         ],
         "relations": [
+            "https://anidb.net/anime/10440",
             "https://anidb.net/anime/6444",
             "https://anilist.co/anime/113689",
             "https://anilist.co/anime/20784",
@@ -6716,6 +6722,37 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/142517",
+            "https://myanimelist.net/anime/50880"
+        ],
+        "title": "Kobitos",
+        "type": "ona",
+        "episodes": 5,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1736/120620.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1736/120620t.jpg",
+        "synonyms": [
+            "Kobitosu",
+            "The Kobitos",
+            "こびとす"
+        ],
+        "relations": [
+            "https://anilist.co/anime/115188"
+        ],
+        "tags": [
+            "comedy",
+            "fantasy",
+            "kids",
+            "no dialogue",
+            "stop motion"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/11375",
             "https://anime-planet.com/anime/kotori-samba",
             "https://anisearch.com/anime/10927",
@@ -7159,8 +7196,8 @@
         "type": "special",
         "episodes": 9,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [
             "Kuroko no Basket 3 NG-shuu",
             "Kuroko no Basket 3: NG-shuu",
@@ -7611,7 +7648,7 @@
             "마법소녀 리리컬 나노하 Vivid"
         ],
         "relations": [
-            "https://anidb.net/anime/12272",
+            "https://anidb.net/anime/12264",
             "https://anidb.net/anime/4688",
             "https://anilist.co/anime/1915",
             "https://anilist.co/anime/21871",
@@ -7737,6 +7774,7 @@
             "henshin heroes",
             "magic",
             "magical girl",
+            "mahou shoujo",
             "martial arts",
             "recap",
             "shounen"
@@ -10004,6 +10042,8 @@
             "pandemic",
             "post apocalypse",
             "post-apocalyptic",
+            "primarily adult cast",
+            "primarily teen cast",
             "psychological drama",
             "revenge",
             "rotoscoping",
@@ -10014,6 +10054,7 @@
             "supernatural drama",
             "swordplay",
             "swords & co",
+            "time skip",
             "tokyo",
             "tragedy",
             "tsundere",
@@ -11274,7 +11315,8 @@
             "supernatural",
             "the arts",
             "time skip",
-            "tokugawa period"
+            "tokugawa period",
+            "visual arts"
         ],
         "date": {
             "season": "spring",
@@ -11676,6 +11718,7 @@
             "large breasts",
             "magic",
             "male protagonist",
+            "mythology",
             "novel",
             "nudity",
             "parental abandonment",
@@ -12208,7 +12251,8 @@
         ],
         "relations": [],
         "tags": [
-            "drama"
+            "drama",
+            "medical"
         ],
         "date": {
             "season": "spring",
@@ -14086,6 +14130,8 @@
             "https://notify.moe/anime/uthdpFmmg"
         ],
         "tags": [
+            "achronological order",
+            "anti-hero",
             "asia",
             "based on a light novel",
             "club",

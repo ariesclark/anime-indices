@@ -166,18 +166,41 @@
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1209/122475.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1209/122475t.jpg",
         "synonyms": [
             "He de Chuanshuo",
-            "鶴的傳說"
+            "鹤的传说"
         ],
         "relations": [],
         "tags": [
             "chinese animation",
-            "historical",
+            "fantasy",
             "kids",
             "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1997
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/43840"
+        ],
+        "title": "Huan You Diqiu Bashi Tian",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1505/122472.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1505/122472t.jpg",
+        "synonyms": [
+            "环游地球八十天"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -277,6 +300,29 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/43841"
+        ],
+        "title": "Matouqin De Gushi",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1347/122474.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1347/122474t.jpg",
+        "synonyms": [
+            "马头琴的故事"
+        ],
+        "relations": [],
+        "tags": [
+            "fantasy",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1997
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/mcdull-and-mcmug",
             "https://myanimelist.net/anime/43356"
         ],
@@ -345,6 +391,30 @@
             "demons",
             "fantasy",
             "historical"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1997
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/43843"
+        ],
+        "title": "Renshen Wangguo",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1171/122476.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1171/122476t.jpg",
+        "synonyms": [
+            "Ginseng Kingdom",
+            "人参王国"
+        ],
+        "relations": [],
+        "tags": [
+            "fantasy",
+            "kids"
         ],
         "date": {
             "season": "unknown",

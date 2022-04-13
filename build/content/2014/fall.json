@@ -380,6 +380,7 @@
         "tags": [
             "acting",
             "based on a card game",
+            "card battle",
             "cgi",
             "cute girls doing cute things",
             "fashion",
@@ -651,7 +652,9 @@
             "plot continuity",
             "political",
             "politics",
+            "primarily adult cast",
             "primarily male cast",
+            "primarily teen cast",
             "prophecy",
             "rebellions",
             "reincarnation",
@@ -882,7 +885,8 @@
             "school",
             "shounen",
             "slapstick",
-            "work"
+            "work",
+            "workplace"
         ],
         "date": {
             "season": "fall",
@@ -1068,7 +1072,6 @@
             "delinquent",
             "diva",
             "ensemble cast",
-            "episodic",
             "genius",
             "guns",
             "non-human protagonists",
@@ -2767,7 +2770,8 @@
             "urban",
             "work",
             "work life",
-            "working life"
+            "working life",
+            "workplace"
         ],
         "date": {
             "season": "fall",
@@ -2837,7 +2841,8 @@
             "school",
             "school life",
             "shounen",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "fall",
@@ -3587,7 +3592,6 @@
         ],
         "relations": [
             "https://anidb.net/anime/242",
-            "https://anilist.co/anime/382",
             "https://anime-planet.com/anime/step-up-love-story",
             "https://anisearch.com/anime/479",
             "https://kitsu.io/anime/349",
@@ -3934,6 +3938,7 @@
             "https://anisearch.com/anime/14484",
             "https://anisearch.com/anime/15289",
             "https://anisearch.com/anime/16103",
+            "https://anisearch.com/anime/17265",
             "https://anisearch.com/anime/8219",
             "https://anisearch.com/anime/8677",
             "https://anisearch.com/anime/8866"
@@ -4408,6 +4413,7 @@
             "episodic",
             "fantasy",
             "female protagonist",
+            "gag humor",
             "gender bending",
             "ghost",
             "guns",
@@ -4682,6 +4688,7 @@
             "action",
             "animeism",
             "drama",
+            "ensemble cast",
             "future",
             "mecha",
             "military",
@@ -4698,6 +4705,7 @@
             "science-fiction",
             "shounen",
             "space",
+            "space opera",
             "war"
         ],
         "date": {
@@ -4839,6 +4847,7 @@
         "synonyms": [
             "Eiga Happiness Charge Precure! Ningyou no Kuni no Ballerina",
             "Eiga Happiness Charge Precure! Ningyō no Kuni no Ballerina",
+            "Happiness Charge Precure! The Movie: The Ballerina of the Land of Dolls",
             "Happiness Charge Pretty Cure! Movie: Ningyou no Kuni no Ballerina",
             "Happiness Charge Pretty Cure!: Ballerina of the Doll Kingdom",
             "HappinessCharge PreCure! the Movie: The Ballerina of the Doll Kingdom",
@@ -5143,6 +5152,7 @@
             "Chaika: The Coffin Princess - Avenging Battle",
             "Coffin Princess Chaika 2",
             "Hitsugi no Chaika 2nd Season",
+            "Hitsugi no Chaika : Avenging Battle",
             "Hitsugi no Chaika Second Season",
             "Гроб принцессы Чайки (2 сезон)",
             "Чайка и гроб: Возмездие",
@@ -5556,9 +5566,9 @@
             "chinese animation",
             "family friendly",
             "fantasy",
-            "game",
             "kids",
-            "proxy battles"
+            "proxy battles",
+            "strategy game"
         ],
         "date": {
             "season": "fall",
@@ -5785,7 +5795,8 @@
             "Ikkitōsen: Extravaganza Epoch",
             "Школьные войны Эпоха феерии",
             "いっきとうせんえくすとらヴぁがんざえぽっく",
-            "一騎当千 Extravaganza Epoch"
+            "一騎当千 Extravaganza Epoch",
+            "一骑当千 Extravaganza Epoch"
         ],
         "relations": [
             "https://anidb.net/anime/14420",
@@ -5921,6 +5932,7 @@
             "dystopian",
             "excessive violence",
             "fantasy",
+            "high stakes game",
             "high stakes games",
             "horror",
             "isekai",
@@ -6708,6 +6720,42 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kill-la-kill-special",
+            "https://livechart.me/anime/366"
+        ],
+        "title": "Kill La Kill Special",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/kill-la-kill-special-1.jpg?t=1625896718",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kill-la-kill-special-1-190x271.jpg?t=1625896718",
+        "synonyms": [
+            "Kill la Kill Special",
+            "キルラキル 特別編"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/kill-la-kill",
+            "https://livechart.me/anime/94"
+        ],
+        "tags": [
+            "action",
+            "aliens",
+            "comedy",
+            "ecchi",
+            "original work",
+            "school",
+            "sci fi",
+            "superpower",
+            "superpowers",
+            "swordplay"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
             "https://kitsu.io/anime/43541"
         ],
         "title": "Kingdom Hearts Re:Coded",
@@ -7129,7 +7177,9 @@
             "demons",
             "fantasy",
             "historical",
-            "supernatural"
+            "mythology",
+            "supernatural",
+            "time travel"
         ],
         "date": {
             "season": "fall",
@@ -7278,7 +7328,7 @@
             "https://notify.moe/anime/nn4khFmmR"
         ],
         "title": "Kushimitama Samurai",
-        "type": "special",
+        "type": "movie",
         "episodes": 1,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/9/80122.jpg",
@@ -7351,6 +7401,7 @@
             "Log Horizon 2",
             "Log Horizon Dai 2 Series",
             "Log Horizon II",
+            "Log Horizon Saison 2",
             "Log Horizon Season 2",
             "Log Horizon Second Season",
             "Лог Горизонтa 2",
@@ -7387,6 +7438,7 @@
         ],
         "tags": [
             "action",
+            "adult cast",
             "adventure",
             "alternative world",
             "based on a light novel",
@@ -7432,6 +7484,7 @@
             "swords & co",
             "trapped in a video game",
             "twins",
+            "video game",
             "video games",
             "virtual reality",
             "virtual world"
@@ -7564,6 +7617,7 @@
             "cute boys doing cute things",
             "gender bender",
             "lgbt themes",
+            "lgbtq+ themes",
             "mature romance",
             "present",
             "romance",
@@ -8802,6 +8856,7 @@
             "hero of strong character",
             "heroine of weak character",
             "knight",
+            "love triangle",
             "magic",
             "male protagonist",
             "manga",
@@ -9124,6 +9179,7 @@
             "cyberpunk",
             "cycling",
             "dementia",
+            "disability",
             "dissociative identities",
             "dragons",
             "ecchi",
@@ -11390,6 +11446,7 @@
             "friendship",
             "game",
             "ganbatte",
+            "high stakes game",
             "magical girl",
             "new",
             "present",
@@ -11399,6 +11456,7 @@
             "psychological drama",
             "school",
             "seinen",
+            "strategy game",
             "supernatural",
             "thriller",
             "tragedy",
@@ -11649,8 +11707,7 @@
             "Shin Tennis no Ouji-sama OVA",
             "Shin Tennis no Ouji-sama OVA vs Genius 10",
             "Shin Tennis no Ouji-sama OVA vs Genius10",
-            "Shin Tennis no Oujisama OVA vs Genius10",
-            "Shin Tennis no Ōjisama OVA vs Genius10",
+            "Shin Tennis no Ōji-sama OVA vs Genius10",
             "The New Prince of Tennis OVA",
             "The Prince of Tennis II OVA",
             "The Prince of Tennis II OVA vs Genius 10",
@@ -11814,6 +11871,7 @@
             "high fantasy",
             "magic",
             "monsters",
+            "mythology",
             "nudity",
             "past",
             "pirates",
@@ -12178,8 +12236,7 @@
             "شيروباكو",
             "しろばこ",
             "シロバコ",
-            "白箱",
-            "白箱 SHIROBAKO"
+            "白箱"
         ],
         "relations": [
             "https://anidb.net/anime/14061",
@@ -12201,6 +12258,7 @@
         ],
         "tags": [
             "acting",
+            "adult cast",
             "anime & movie",
             "anime industry",
             "asia",
@@ -12235,7 +12293,8 @@
             "voice acting",
             "work",
             "work life",
-            "working life"
+            "working life",
+            "workplace"
         ],
         "date": {
             "season": "fall",
@@ -12514,6 +12573,7 @@
             "https://notify.moe/anime/oIQopKmiR"
         ],
         "tags": [
+            "adult cast",
             "aliens",
             "comedy",
             "picture drama",
@@ -12885,6 +12945,7 @@
             "sci fi",
             "science-fiction",
             "tragedy",
+            "video game",
             "virtual reality",
             "virtual world"
         ],
@@ -13759,9 +13820,7 @@
             "トライブクルクル",
             "舞力四射"
         ],
-        "relations": [
-            "https://anidb.net/anime/11573"
-        ],
+        "relations": [],
         "tags": [
             "dancing",
             "family friendly",
@@ -14048,6 +14107,7 @@
             "https://anisearch.com/anime/11350",
             "https://anisearch.com/anime/14656",
             "https://anisearch.com/anime/15722",
+            "https://anisearch.com/anime/17116",
             "https://anisearch.com/anime/1968",
             "https://anisearch.com/anime/2259",
             "https://anisearch.com/anime/2999",
@@ -14158,6 +14218,7 @@
             "https://anisearch.com/anime/11350",
             "https://anisearch.com/anime/14656",
             "https://anisearch.com/anime/15722",
+            "https://anisearch.com/anime/17116",
             "https://anisearch.com/anime/1968",
             "https://anisearch.com/anime/2259",
             "https://anisearch.com/anime/2999",
@@ -14988,6 +15049,7 @@
         ],
         "tags": [
             "based on a manga",
+            "cgdct",
             "comedy",
             "cute girls doing cute things",
             "episodic",
@@ -15532,6 +15594,7 @@
             "Yuki Yuna is a Hero",
             "Yuki Yuna wa Yusha de Aru",
             "Yuuki Yuuna is a Hero",
+            "Yuuna Yuuki Is a Hero",
             "Yuuna Yuuki is a Hero",
             "Yûki Yûna wa Yûsha de Aru",
             "Yūki Yūna wa Yūsha de Aru",

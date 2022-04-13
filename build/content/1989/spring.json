@@ -24,6 +24,34 @@
     },
     {
         "sources": [
+            "https://kitsu.io/anime/43472",
+            "https://myanimelist.net/anime/51322"
+        ],
+        "title": "Aishiteru",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1808/122254.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1808/122254t.jpg",
+        "synonyms": [
+            "I Love You",
+            "Pika Pika Ongakukan",
+            "あいしてる",
+            "アイシテル"
+        ],
+        "relations": [],
+        "tags": [
+            "kids",
+            "music",
+            "romance"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 1989
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/1854",
             "https://anilist.co/anime/8194",
             "https://anime-planet.com/anime/akuma-kun",
@@ -395,6 +423,7 @@
             "https://anisearch.com/anime/462",
             "https://anisearch.com/anime/700",
             "https://kitsu.io/anime/1317",
+            "https://livechart.me/anime/11179",
             "https://livechart.me/anime/1609",
             "https://livechart.me/anime/3166",
             "https://livechart.me/anime/4648",
@@ -556,7 +585,8 @@
             "based on a manga",
             "chibi",
             "comedy",
-            "shorts"
+            "shorts",
+            "shoujo"
         ],
         "date": {
             "season": "spring",
@@ -1054,6 +1084,7 @@
             "japan",
             "magic",
             "manga",
+            "mythology",
             "psi-powers",
             "seinen",
             "shoujo",
@@ -1573,7 +1604,8 @@
             "baseball",
             "based on a manga",
             "shounen",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "spring",

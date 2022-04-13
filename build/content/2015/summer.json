@@ -588,6 +588,7 @@
             "Blue Spring x Machine Gun",
             "Млади и въоръжени",
             "Юность и оружие",
+            "ศึกปืนกล X คนผ่าเหล่า",
             "あおはるきかんじゅう",
             "青春x机关枪",
             "青春x機関銃",
@@ -921,6 +922,7 @@
         "synonyms": [
             "Arslan Senki: Arsen 4-Koma Gekijō",
             "Arslan Senki: Arsen Yonkoma Gekijou",
+            "The Heroic Legend of Arslan: The Short Comedy of Arslan",
             "アルスラーン戦記 アル戦4コマ劇場"
         ],
         "relations": [],
@@ -2646,11 +2648,9 @@
         ],
         "relations": [
             "https://anidb.net/anime/10452",
-            "https://anidb.net/anime/10742",
             "https://anidb.net/anime/13657",
             "https://anidb.net/anime/14086",
             "https://anidb.net/anime/1530",
-            "https://anidb.net/anime/16485",
             "https://anidb.net/anime/9314",
             "https://anilist.co/anime/101302",
             "https://anilist.co/anime/102352",
@@ -3833,6 +3833,7 @@
             "mafia",
             "manga",
             "nudity",
+            "organized crime",
             "police",
             "present",
             "primarily adult cast",
@@ -3920,6 +3921,7 @@
             "disability",
             "drama",
             "gangs",
+            "organized crime",
             "recap",
             "seinen",
             "violence"
@@ -4920,13 +4922,14 @@
             "https://myanimelist.net/anime/31785",
             "https://notify.moe/anime/P5JZ2Fmig"
         ],
-        "title": "Hakuouki Shinkai: Kaze no Shou",
+        "title": "Hakuouki: Shinkai - Kaze no Shou",
         "type": "ova",
         "episodes": 1,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/2/77471.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/2/77471t.jpg",
         "synonyms": [
+            "Hakuouki Shinkai: Kaze no Shou",
             "Hakuōki Shinkai: Kaze no Shō",
             "薄桜鬼 真改 風ノ章",
             "薄桜鬼 真改 風ノ章 - 通常版",
@@ -5096,6 +5099,7 @@
             "chinese animation",
             "comedy",
             "cops",
+            "detective",
             "kids",
             "non-human protagonists",
             "police"
@@ -5391,12 +5395,14 @@
             "fantasy",
             "female harem",
             "harem",
+            "heterosexual",
             "kuudere",
             "nudity",
             "present",
             "romance",
             "school",
             "slapstick",
+            "tomboy",
             "verbal comedy"
         ],
         "date": {
@@ -6726,7 +6732,8 @@
         "tags": [
             "cars",
             "comedy",
-            "motorsport"
+            "motorsport",
+            "racing"
         ],
         "date": {
             "season": "summer",
@@ -6896,7 +6903,8 @@
             "school",
             "short episodes",
             "shorts",
-            "tragedy"
+            "tragedy",
+            "yandere"
         ],
         "date": {
             "season": "summer",
@@ -7388,6 +7396,7 @@
         ],
         "tags": [
             "action",
+            "adult cast",
             "adventure",
             "comedy",
             "crime",
@@ -8204,6 +8213,7 @@
             "fantasy",
             "female harem",
             "harem",
+            "heterosexual",
             "interspecies relationship",
             "japan",
             "kemonomimi",
@@ -8279,6 +8289,7 @@
             "mermaid",
             "monster",
             "monster girl",
+            "nudity",
             "primarily adult cast",
             "primarily female cast",
             "seinen",
@@ -8483,6 +8494,7 @@
             "cats",
             "comedy",
             "flash animation",
+            "pets",
             "slice of life"
         ],
         "date": {
@@ -8678,6 +8690,7 @@
             "achronological order",
             "asia",
             "based on a manga",
+            "cgdct",
             "comedy",
             "countryside",
             "cute girls doing cute things",
@@ -10070,6 +10083,7 @@
             "earth",
             "ecchi",
             "fetish",
+            "gag humor",
             "japan",
             "large breasts",
             "male protagonist",
@@ -10275,6 +10289,7 @@
             "detective",
             "detectives",
             "drama",
+            "gore",
             "horror",
             "male protagonist",
             "middle school",
@@ -11506,6 +11521,7 @@
             "That Is a Voice Actor!",
             "That is a Voice Actor!",
             "This is a Voice Actor",
+            "soresei",
             "それがせいゆう",
             "それが声優!",
             "それが声優！",
@@ -11529,6 +11545,7 @@
             "comedy",
             "cute girls doing cute things",
             "daily life",
+            "drama",
             "educational",
             "female protagonist",
             "idol",
@@ -11857,6 +11874,32 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/106497",
+            "https://myanimelist.net/anime/50127"
+        ],
+        "title": "Sushi Tabetai",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1966/118788.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1966/118788t.jpg",
+        "synonyms": [
+            "SUSHI Tabetai",
+            "SUSHI食べたい"
+        ],
+        "relations": [],
+        "tags": [
+            "comedy",
+            "food",
+            "music"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/11260",
             "https://anilist.co/anime/21205",
             "https://anime-planet.com/anime/suzakinishi-the-animation",
@@ -12082,6 +12125,7 @@
             "https://notify.moe/anime/w8a8tFmiR"
         ],
         "tags": [
+            "cgdct",
             "comedy",
             "coming of age",
             "cute girls doing cute things",
@@ -12513,6 +12557,7 @@
             "https://anime-planet.com/anime/the-idolmaster-cinderella-girls-theater-3rd-season-web",
             "https://anime-planet.com/anime/the-idolmaster-cinderella-girls-theater-specials",
             "https://anime-planet.com/anime/the-idolmaster-cinderella-girls-theater-web",
+            "https://anime-planet.com/anime/the-idolmaster-cinderella-girls-u149",
             "https://anime-planet.com/anime/the-idolmaster-movie-kagayaki-no-mukougawa-e",
             "https://anime-planet.com/anime/the-idolmaster-onegai-cinderella",
             "https://anime-planet.com/anime/the-idolmaster-shiny-festa",
@@ -12646,6 +12691,7 @@
         ],
         "tags": [
             "action",
+            "adult cast",
             "comedy",
             "indefinite",
             "music",
@@ -12745,6 +12791,7 @@
             "female harem",
             "genius",
             "harem",
+            "heterosexual",
             "humanoid alien",
             "interspecies relationship",
             "japan",
@@ -12752,6 +12799,7 @@
             "love triangle",
             "magic",
             "manga",
+            "monster girl",
             "non-human protagonists",
             "nudity",
             "pantsu",
@@ -13367,6 +13415,7 @@
             "drama",
             "idol",
             "idols",
+            "idols (female)",
             "music",
             "musical",
             "original work",
@@ -14424,11 +14473,13 @@
         ],
         "tags": [
             "based on a manga",
+            "cgdct",
             "comedy",
             "cute girls doing cute things",
             "daily life",
             "female protagonist",
             "friendship",
+            "gag humor",
             "girls love",
             "kuudere",
             "lgbtq+ themes",

@@ -1257,8 +1257,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [],
         "relations": [
             "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny"
@@ -1578,6 +1578,33 @@
             "fantasy",
             "historical",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2005
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/45371"
+        ],
+        "title": "Tianyan Xiao Shentong",
+        "type": "tv",
+        "episodes": 500,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1388/122369.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1388/122369t.jpg",
+        "synonyms": [
+            "Magic Eye, The Wonder Boy",
+            "天眼小神童"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/45374"
+        ],
+        "tags": [
+            "fantasy",
+            "kids",
+            "school"
         ],
         "date": {
             "season": "unknown",

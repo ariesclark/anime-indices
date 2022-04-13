@@ -938,7 +938,8 @@
             "kids",
             "school",
             "shounen",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "fall",
@@ -1038,8 +1039,10 @@
         "tags": [
             "adventure",
             "cops",
+            "detective",
             "drama",
             "manga",
+            "organized crime",
             "police"
         ],
         "date": {
@@ -2498,7 +2501,6 @@
         ],
         "relations": [
             "https://anidb.net/anime/1232",
-            "https://anidb.net/anime/6408",
             "https://anidb.net/anime/7713"
         ],
         "tags": [

@@ -1053,6 +1053,7 @@
         "relations": [],
         "tags": [
             "cg-anime",
+            "fantasy",
             "magic",
             "martial arts",
             "swords & co"
@@ -1126,6 +1127,9 @@
             "BLADE RUNNER — BLACK LOTUS",
             "BLADE RUNNER: BLACK LOTUS",
             "Blade Runner : Black Lotus",
+            "Blade Runner: Lótus Negra",
+            "Blade Runner: Lótus Preto",
+            "Бегущий по лезвию: Чёрный лотос",
             "ブレードランナー：ブラックロータス"
         ],
         "relations": [
@@ -2075,6 +2079,28 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51344"
+        ],
+        "title": "December",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1421/121681.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1421/121681t.jpg",
+        "synonyms": [
+            "12월"
+        ],
+        "relations": [],
+        "tags": [
+            "music"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16403",
             "https://anilist.co/anime/136947",
             "https://anime-planet.com/anime/deep-insanity-the-lost-child",
@@ -2559,18 +2585,16 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/141528",
-            "https://myanimelist.net/anime/50383"
+            "https://anilist.co/anime/141528"
         ],
         "title": "Episodeⁿ | Kuusou",
         "type": "ona",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1678/119484.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1678/119484t.jpg",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141528-hf2mMG7pApkJ.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141528-hf2mMG7pApkJ.png",
         "synonyms": [
             "Episodeⁿ | 空想",
-            "VERSEⁿ",
             "VERSEⁿ - Episodeⁿ | 空想"
         ],
         "relations": [],
@@ -2986,6 +3010,7 @@
             "coworkers",
             "ecchi",
             "philosophy",
+            "present",
             "romance",
             "romantic comedy",
             "romantic subtext",
@@ -4198,7 +4223,7 @@
         ],
         "title": "Hua Jianghu Zhi Gui Yexing: Part II",
         "type": "ona",
-        "episodes": 17,
+        "episodes": 18,
         "status": "upcoming",
         "picture": "https://cdn.anime-planet.com/anime/primary/hua-jianghu-zhi-gui-yexing-part-ii-1.jpg?t=1628284921",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/hua-jianghu-zhi-gui-yexing-part-ii-1-285x399.jpg?t=1628284921",
@@ -4634,14 +4659,16 @@
         "title": "Jian Yu Chuanqi",
         "type": "ona",
         "episodes": 40,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1229/120326.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1229/120326t.jpg",
         "synonyms": [
             "The Legend of Sword Domain",
             "剑域风云"
         ],
-        "relations": [],
+        "relations": [
+            "https://anilist.co/anime/147133"
+        ],
         "tags": [
             "action",
             "adventure",
@@ -4894,7 +4921,7 @@
             "Jujutsu Kaisen 0",
             "Jujutsu Kaisen 0: Städtische Fachoberschule für Magie Tokyo",
             "Tokyo Metropolitan Magic Technical School",
-            "มหาเวทย์ผนึกมาร 0",
+            "มหาเวทย์ผนึกมาร : ซีโร่",
             "剧场版 咒术回战 0",
             "劇場版 呪術廻戦 0",
             "呪術廻戦 0",
@@ -4920,6 +4947,7 @@
             "based on a manga",
             "body horror",
             "bullying",
+            "cultivation",
             "curse",
             "dark fantasy",
             "demon",
@@ -4938,11 +4966,13 @@
             "revenge",
             "school",
             "shounen",
+            "super power",
             "supernatural",
             "swordplay",
             "swords & co",
             "time skip",
             "tragedy",
+            "tsundere",
             "yandere"
         ],
         "date": {
@@ -5103,7 +5133,7 @@
             "https://myanimelist.net/anime/50325"
         ],
         "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic Teaser PV - Ishigami Yuu wa Kataritai",
-        "type": "special",
+        "type": "ona",
         "episodes": 1,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1265/119435.jpg",
@@ -5260,6 +5290,7 @@
             "Il mese degli dei",
             "Kamiari no Kodomo",
             "Kanna y los dioses de octubre",
+            "L’Enfant du mois de Kamiari",
             "เด็กเดือนตุลา",
             "神在月のこども"
         ],
@@ -5272,14 +5303,19 @@
             "death of a loved one",
             "demon",
             "demons",
+            "drama",
             "fantasy",
             "female protagonist",
+            "heroine of weak character",
             "japanese mythology",
+            "kamis",
             "mystery",
             "mythology",
             "original work",
             "outdoor",
             "philosophy",
+            "present",
+            "reluctant heroine",
             "rural",
             "supernatural",
             "urban fantasy",
@@ -5866,7 +5902,6 @@
             "gender bending",
             "heterosexual",
             "high school",
-            "iyashikei",
             "kuudere",
             "lgbtq+ themes",
             "love triangle",
@@ -6847,6 +6882,28 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/145842",
+            "https://myanimelist.net/anime/50238"
+        ],
+        "title": "M",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1797/119019.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1797/119019t.jpg",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "avant garde",
+            "racing"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/14408",
             "https://anilist.co/anime/118126",
             "https://anime-planet.com/anime/macross-delta-movie-2-zettai-live",
@@ -6869,7 +6926,6 @@
             "Macross Delta Movie 2: Zettai Live!!!!!!",
             "Macross Delta Movie: Absolute LIVE!!!!!!",
             "Macross Delta Movie: Zettai LIVE!!!!!!",
-            "Macross Delta the Movie: Absolute Live!!!!!!",
             "Macross Δ Movie 2",
             "Macross Δ Movie: Absolute LIVE!!!!!!",
             "Macross Δ: Zettai LIVE!!!!!!",
@@ -6956,8 +7012,8 @@
         "picture": "https://u.livechart.me/anime/10458/poster_image/81974cbf8c48600ed083794e032d6987.jpg?style=large&format=jpg",
         "thumbnail": "https://u.livechart.me/anime/10458/poster_image/81974cbf8c48600ed083794e032d6987.jpg?style=small&format=jpg",
         "synonyms": [
-            "The Ancient Magus' Bride - The Boy from the West and the Knight of the Blue Storm",
-            "魔法使いの嫁西の少年と青嵐の騎士"
+            "The Ancient Magus' Bride -The Boy from the West and the Knight of the Blue Storm",
+            "魔法使いの嫁 西の少年と青嵐の騎士"
         ],
         "relations": [
             "https://livechart.me/anime/2070",
@@ -7680,6 +7736,8 @@
     {
         "sources": [
             "https://anilist.co/anime/142017",
+            "https://anime-planet.com/anime/yoasobi-mou-sukoshi-dake",
+            "https://anisearch.com/anime/16935",
             "https://myanimelist.net/anime/50466"
         ],
         "title": "Mou Sukoshi dake",
@@ -7691,36 +7749,16 @@
         "synonyms": [
             "Just a Little More",
             "Mou sukoshi dake",
-            "もう少しだけ"
-        ],
-        "relations": [],
-        "tags": [
-            "music"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/16935"
-        ],
-        "title": "Mousukoshidake",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16935.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16935.webp",
-        "synonyms": [
-            "Mōsukoshidake",
-            "Yoasobi - Mousukoshidake",
+            "Mō Sukoshi dake",
+            "YOASOBI: Mou Sukoshi dake",
+            "Yoasobi - Mou Sukoshi dake",
             "Yoasobi - もう少しだけ",
             "もう少しだけ"
         ],
         "relations": [],
         "tags": [
             "independent anime",
+            "music",
             "present",
             "slice of life"
         ],
@@ -7805,8 +7843,10 @@
             "https://anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-eris-the-goblin-slayer",
             "https://anisearch.com/anime/14254",
             "https://anisearch.com/anime/16785",
+            "https://anisearch.com/anime/17184",
             "https://kitsu.io/anime/42323",
             "https://kitsu.io/anime/45492",
+            "https://kitsu.io/anime/45950",
             "https://myanimelist.net/anime/39535",
             "https://myanimelist.net/anime/50360",
             "https://notify.moe/anime/B9iHWSp7g",
@@ -8163,14 +8203,15 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/147013"
+            "https://anilist.co/anime/147013",
+            "https://myanimelist.net/anime/51589"
         ],
         "title": "Nomino Sukune",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147013-OpDtNzMIRAOt.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147013-OpDtNzMIRAOt.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1386/122628.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1386/122628t.jpg",
         "synonyms": [
             "野見宿禰"
         ],
@@ -8260,7 +8301,9 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1385/120283.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1385/120283t.jpg",
         "synonyms": [
+            "One Piece : Épisode spécial - Le jardin secret de Barto",
             "One Piece Episode 1004.5",
+            "One Piece Episodio SP: Il piano per incoraggiare il grande Rufy! La stanza segreta di Barto!",
             "One Piece Special Episode: Barto's Secret Room",
             "One Piece ¡Episodio especial! ¡El cuarto secreto de Barto!",
             "One Piece: Luffy Senpai Ōen Kikaku! Barto no Himitsu no Heya!",
@@ -8328,7 +8371,8 @@
             "fantasy",
             "pirates",
             "recap",
-            "shounen"
+            "shounen",
+            "superpowers"
         ],
         "date": {
             "season": "fall",
@@ -8549,19 +8593,23 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/45385"
+            "https://kitsu.io/anime/45385",
+            "https://myanimelist.net/anime/51577"
         ],
         "title": "Pastel Tea Time",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45385/poster_image/small-194fc2a8d2bfa9f121b8673398ca4aed.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45385/poster_image/tiny-7ce7168253bef715c173a1db2dcac277.jpeg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1028/122599.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1028/122599t.jpg",
         "synonyms": [],
-        "relations": [],
+        "relations": [
+            "https://myanimelist.net/anime/44042"
+        ],
         "tags": [
             "fantasy",
             "idol",
+            "idols (female)",
             "music"
         ],
         "date": {
@@ -8926,7 +8974,8 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao-6",
-            "https://myanimelist.net/anime/50293"
+            "https://myanimelist.net/anime/50293",
+            "https://myanimelist.net/anime/51496"
         ],
         "tags": [
             "animal protagonists",
@@ -8963,6 +9012,7 @@
             "Paladin of the End",
             "The Faraway Paladin",
             "Ultimate Paladin",
+            "Паладин издалека",
             "พาลาดิน ยอดอัศวินจากแดนไกล",
             "最果てのパラディン"
         ],
@@ -9440,7 +9490,7 @@
         "title": "Shanshen Yu Xiaozao",
         "type": "ona",
         "episodes": 18,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1728/120115.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1728/120115t.jpg",
         "synonyms": [
@@ -9479,6 +9529,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1656/119163.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1656/119163t.jpg",
         "synonyms": [
+            "SHAREDOL",
             "SHAREDOL (Pilot Film)",
             "SHAREDOL (Pilot)",
             "SHAREDOL Pilot",
@@ -9633,11 +9684,13 @@
         ],
         "tags": [
             "animals",
+            "boys' love",
             "chibi",
             "chinese animation",
             "comedy",
             "cute boys doing cute things",
             "episodic",
+            "iyashikei",
             "meta",
             "musical",
             "short episodes",
@@ -9828,7 +9881,6 @@
             "goblin",
             "gore",
             "heterosexual",
-            "iyashikei",
             "kuudere",
             "large breasts",
             "magic",
@@ -10380,6 +10432,28 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/50182"
+        ],
+        "title": "Star Seed: Kakusei",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1627/121848.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1627/121848t.jpg",
+        "synonyms": [
+            "StarSeed～カクセイ～"
+        ],
+        "relations": [],
+        "tags": [
+            "music"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/15843",
             "https://anilist.co/anime/125931",
             "https://anime-planet.com/anime/sumikko-gurashi-movie-2",
@@ -10586,6 +10660,7 @@
             "SAO Progressive",
             "SAO Progressive Movie",
             "Sword Art Online -Progressive- Hoshinaki Yoru no Aria",
+            "Sword Art Online Progressive: The Movie - Aria of a Starless Night",
             "Sword Art Online Progressive: Ária de Uma Noite Sem Estrelas",
             "Sword Art Online the Movie -Progressive- Aria of a Starless Night",
             "Sword Art Online the Movie -Progressive- Aria of the Starless Night",
@@ -10715,6 +10790,7 @@
             "demons",
             "fantasy",
             "idol",
+            "idols (female)",
             "music"
         ],
         "date": {
@@ -11261,6 +11337,7 @@
             "Tropical-Rouge! Precure the Movie: The Snow Princess and the Miraculous Ring",
             "Tropical-Rouge! Precure: Yuki no Princess to Kiseki no Yubiwa!",
             "Tropical-Rouge! Pretty Cure: The Snow Princess and the Miraculous Ring!",
+            "precure18 movie",
             "トロピカル～ジュ！プリキュア 雪のプリンセスと奇跡の指輪！",
             "映画 トロピカル〜ジュ!プリキュア 雪のプリンセスと奇跡の指輪!",
             "映画トロピカル~ジュ! プリキュア 雪のプリンセスと奇跡の指輪!",
@@ -11776,14 +11853,15 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/45881"
+            "https://kitsu.io/anime/45881",
+            "https://myanimelist.net/anime/50383"
         ],
         "title": "VERSEⁿ: Episodeⁿ - Kuusou",
         "type": "ona",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45881/poster_image/small-3aa062157f2d9fc276a753f9e3351266.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45881/poster_image/tiny-363d7c174be406e83305cb948d5ca6e3.jpeg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1678/119484.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1678/119484t.jpg",
         "synonyms": [
             "Episodeⁿ | Kuusou",
             "VERSEⁿ - Episodeⁿ | 空想"
@@ -11984,7 +12062,7 @@
         ],
         "title": "Waccha PriMagi!",
         "type": "tv",
-        "episodes": 24,
+        "episodes": 25,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1522/117595.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1522/117595t.jpg",
@@ -12010,7 +12088,8 @@
             "https://livechart.me/anime/463",
             "https://livechart.me/anime/5801",
             "https://livechart.me/anime/768",
-            "https://myanimelist.net/anime/50790"
+            "https://myanimelist.net/anime/50790",
+            "https://myanimelist.net/anime/51538"
         ],
         "tags": [
             "based on a video game",

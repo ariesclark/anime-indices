@@ -456,6 +456,7 @@
             "science fiction",
             "shounen",
             "sports",
+            "team sports",
             "tournaments"
         ],
         "date": {
@@ -805,6 +806,7 @@
             "henshin heroes",
             "magic",
             "magical girl",
+            "mahou shoujo",
             "original work",
             "present",
             "shoujo",
@@ -2374,13 +2376,18 @@
         "picture": "https://cdn.myanimelist.net/images/anime/4/7436.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/4/7436t.jpg",
         "synonyms": [
+            "Micro Nauts",
             "Micronauts",
             "Wonder Beat Scrumble",
             "Wonderbeat Scrumble",
             "فريق العباقرة",
-            "ワンダービート S(スクランブル)"
+            "ワンダービート S(スクランブル)",
+            "ワンダービートスクランブル"
         ],
-        "relations": [],
+        "relations": [
+            "https://anilist.co/anime/145795",
+            "https://anilist.co/anime/145796"
+        ],
         "tags": [
             "action",
             "original work",

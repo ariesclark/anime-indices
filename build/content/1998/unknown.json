@@ -293,8 +293,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [],
         "relations": [
             "https://anime-planet.com/anime/kobo-chan",
@@ -308,6 +308,29 @@
             "comedy",
             "family friendly",
             "slice of life"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1998
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/43848"
+        ],
+        "title": "Kuerlei Xiang Li",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1554/122481.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1554/122481t.jpg",
+        "synonyms": [
+            "库尔勒香梨"
+        ],
+        "relations": [],
+        "tags": [
+            "fantasy",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -429,23 +452,20 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/42927"
+            "https://myanimelist.net/anime/43849"
         ],
-        "title": "Pokemon Movie 01: Mewtwo no Gyakushuu PV",
-        "type": "special",
+        "title": "Poshui Jie",
+        "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1796/109341.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1796/109341t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1926/122482.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1926/122482t.jpg",
         "synonyms": [
-            "Pokemon Movie 01: Mewtwo no Gyakushuu First Trailer",
-            "ポケットモンスター ミュウツーの逆襲"
+            "The Girl and The Monster",
+            "潑水節"
         ],
-        "relations": [
-            "https://myanimelist.net/anime/528"
-        ],
+        "relations": [],
         "tags": [
-            "fantasy",
             "kids"
         ],
         "date": {
@@ -544,6 +564,28 @@
             "based on a video game",
             "comedy",
             "sci fi"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1998
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/43851"
+        ],
+        "title": "Xue Hu",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1704/122484.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1704/122484t.jpg",
+        "synonyms": [
+            "雪狐"
+        ],
+        "relations": [],
+        "tags": [
+            "drama"
         ],
         "date": {
             "season": "unknown",

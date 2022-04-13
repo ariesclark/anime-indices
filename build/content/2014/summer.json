@@ -569,7 +569,8 @@
             "romance",
             "sci-fi",
             "science fiction",
-            "slice of life"
+            "slice of life",
+            "visual arts"
         ],
         "date": {
             "season": "summer",
@@ -1382,6 +1383,7 @@
             "magical girl",
             "mahou shoujo",
             "manga",
+            "mythology",
             "plot continuity",
             "present",
             "primarily female cast",
@@ -1858,11 +1860,13 @@
             "game",
             "ganbatte",
             "male protagonist",
+            "mythology",
             "present",
             "proxy battles",
             "school",
             "shounen",
-            "sports"
+            "sports",
+            "strategy game"
         ],
         "date": {
             "season": "summer",
@@ -2093,8 +2097,8 @@
         ],
         "tags": [
             "comedy",
-            "game",
-            "parody"
+            "parody",
+            "strategy game"
         ],
         "date": {
             "season": "summer",
@@ -2579,7 +2583,8 @@
             "present",
             "shounen",
             "soccer",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "summer",
@@ -2989,10 +2994,12 @@
             "https://notify.moe/anime/BbMk2FiiR"
         ],
         "tags": [
+            "amnesia",
             "asia",
             "cg animation",
             "cg-anime",
             "comedy",
+            "dissociative identities",
             "earth",
             "fantasy",
             "guns",
@@ -3452,6 +3459,7 @@
             "genius",
             "heterosexual",
             "high school",
+            "iyashikei",
             "japan",
             "manga",
             "manga & doujinshi",
@@ -3562,9 +3570,10 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1959/92804t.jpg",
         "synonyms": [
             "Girls & Panzer: Kore ga Hontou no Anzio-sen desu!",
+            "Girls & Panzer: This Is the Real Anzio Battle!",
             "Girls & Panzer: This is the Real Anzio Battle!",
             "Girls und Panzer OVA",
-            "Girls und Panzer OVA: This is the Real Anzio Battle!",
+            "Girls und Panzer OVA: This Is the Real Anzio Battle!",
             "Girls und Panzer: Anzio High School",
             "Girls und Panzer: Anzio Koukou",
             "Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!",
@@ -3759,7 +3768,8 @@
             "slice of life",
             "slow when it comes to love",
             "supernatural",
-            "time manipulation"
+            "time manipulation",
+            "visual arts"
         ],
         "date": {
             "season": "summer",
@@ -4250,6 +4260,7 @@
             "earth",
             "female protagonist",
             "friendship",
+            "idol",
             "iyashikei",
             "japan",
             "manga",
@@ -4478,7 +4489,7 @@
         "sources": [
             "https://myanimelist.net/anime/33396"
         ],
-        "title": "Hua Jiang Hu: Bu Liang Ren",
+        "title": "Hua Jianghu: Bu Liang Ren",
         "type": "ona",
         "episodes": 54,
         "status": "finished",
@@ -5463,48 +5474,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/20572",
-            "https://anime-planet.com/anime/kill-la-kill-special",
-            "https://livechart.me/anime/366"
-        ],
-        "title": "Kill La Kill Special",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/kill-la-kill-special-1.jpg?t=1625896718",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kill-la-kill-special-1-190x271.jpg?t=1625896718",
-        "synonyms": [
-            "Kill la Kill Episode 25",
-            "Kill la Kill Special",
-            "キルラキル 特別編"
-        ],
-        "relations": [
-            "https://anilist.co/anime/18679",
-            "https://anime-planet.com/anime/kill-la-kill",
-            "https://livechart.me/anime/94"
-        ],
-        "tags": [
-            "action",
-            "aliens",
-            "comedy",
-            "ecchi",
-            "female protagonist",
-            "henshin",
-            "original work",
-            "school",
-            "sci fi",
-            "super power",
-            "superpower",
-            "superpowers",
-            "swordplay"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/9837"
         ],
         "title": "Kill La Kill: Sayonara o Mou Ichido",
@@ -5573,8 +5542,40 @@
         "tags": [
             "action",
             "comedy",
+            "ecchi",
             "school",
             "school life",
+            "super power"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/20572"
+        ],
+        "title": "Kill la Kill Tokubetsu-hen",
+        "type": "ova",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20572-5FwydswMqrzP.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20572-5FwydswMqrzP.jpg",
+        "synonyms": [
+            "Kill la Kill Episode 25",
+            "Kill la Kill Special",
+            "キルラキル 特別編"
+        ],
+        "relations": [
+            "https://anilist.co/anime/18679"
+        ],
+        "tags": [
+            "action",
+            "comedy",
+            "female protagonist",
+            "henshin",
+            "school",
             "super power"
         ],
         "date": {
@@ -6086,6 +6087,7 @@
             "manga",
             "master-servant relationship",
             "mystery",
+            "mythology",
             "nobility",
             "non-human protagonists",
             "shounen",
@@ -6186,11 +6188,14 @@
             "Beyond the Boundary: Kyoukai no Kanata - Morgendämmerung",
             "Beyond the Boundary: Shinonome",
             "Beyond the Horizon: Daybreak",
+            "Kyokai no Kanat Episode 0: Shinonome",
+            "Kyoukai no Kanata #0 Shinonome",
             "Kyoukai no Kanata Episode 0: Shinonome",
             "Kyoukai no Kanata OVA",
             "Kyōkai no Kanata Episode 0: Shinonome",
             "境界の彼方 新作エピソードは＃0「東雲」",
-            "境界の彼方 ＃0「東雲」"
+            "境界の彼方 ＃0「東雲」",
+            "境界の彼方＃0 東雲"
         ],
         "relations": [
             "https://anilist.co/anime/18153",
@@ -6358,15 +6363,14 @@
             "https://kitsu.io/anime/9820",
             "https://livechart.me/anime/6763",
             "https://myanimelist.net/anime/27825",
-            "https://myanimelist.net/anime/44856",
             "https://notify.moe/anime/Pv6LtKimR"
         ],
         "title": "Long Zhi Gu: Poxiao Qibing",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1356/112373.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1356/112373t.jpg",
         "synonyms": [
             "Dragon Nest : Le Réveil du Dragon",
             "Dragon Nest: Die Chroniken von Altera",
@@ -6898,6 +6902,7 @@
             "based on a manga",
             "comedy",
             "family life",
+            "gag humor",
             "short episodes",
             "shounen",
             "slapstick"
@@ -7260,7 +7265,8 @@
             "rural",
             "short episodes",
             "shounen",
-            "slice of life"
+            "slice of life",
+            "visual arts"
         ],
         "date": {
             "season": "summer",
@@ -7295,6 +7301,7 @@
             "full cgi",
             "idol",
             "idols",
+            "idols (female)",
             "music",
             "new",
             "original work",
@@ -8184,6 +8191,7 @@
             "新劇場版「頭文字D」Legend1-覚醒-"
         ],
         "relations": [
+            "https://anilist.co/anime/145405",
             "https://anilist.co/anime/185",
             "https://anilist.co/anime/20990",
             "https://anime-planet.com/anime/initial-d",
@@ -8433,6 +8441,7 @@
         "tags": [
             "asia",
             "based on a manga",
+            "cgdct",
             "cgi",
             "comedy",
             "countryside",
@@ -9651,6 +9660,7 @@
             "https://anisearch.com/anime/1612",
             "https://anisearch.com/anime/164",
             "https://anisearch.com/anime/17047",
+            "https://anisearch.com/anime/17227",
             "https://anisearch.com/anime/1864",
             "https://anisearch.com/anime/2105",
             "https://anisearch.com/anime/2136",
@@ -11473,7 +11483,6 @@
         "sources": [
             "https://anilist.co/anime/142013",
             "https://anime-planet.com/anime/shen-bi-ma-liang",
-            "https://myanimelist.net/anime/44858",
             "https://myanimelist.net/anime/49143"
         ],
         "title": "Shen Bi Ma Liang",
@@ -12430,6 +12439,21 @@
             "https://anisearch.com/anime/9832",
             "https://kitsu.io/anime/44424",
             "https://kitsu.io/anime/5443",
+            "https://livechart.me/anime/6880",
+            "https://livechart.me/anime/7693",
+            "https://livechart.me/anime/7728",
+            "https://livechart.me/anime/8740",
+            "https://livechart.me/anime/8868",
+            "https://livechart.me/anime/8871",
+            "https://livechart.me/anime/8876",
+            "https://livechart.me/anime/8877",
+            "https://livechart.me/anime/8878",
+            "https://livechart.me/anime/8884",
+            "https://livechart.me/anime/8897",
+            "https://livechart.me/anime/8900",
+            "https://livechart.me/anime/8901",
+            "https://livechart.me/anime/8902",
+            "https://livechart.me/anime/8998",
             "https://myanimelist.net/anime/40853",
             "https://myanimelist.net/anime/8687",
             "https://notify.moe/anime/B6GYnAEMR",
@@ -12860,6 +12884,7 @@
             "high stakes games",
             "isekai",
             "kuudere",
+            "love polygon",
             "male protagonist",
             "mmorpg",
             "novel",
@@ -12881,6 +12906,7 @@
             "swords & co",
             "tomboy",
             "tragedy",
+            "video game",
             "video games",
             "virtual reality",
             "virtual world"
@@ -13299,6 +13325,7 @@
             "Токийско чудовище",
             "שדי טוקיו",
             "آزارگر توکیو",
+            "طوكيو غول",
             "غول توکیو",
             "غيلان طوكيو",
             "ผีปอบโตเกียว",
@@ -13607,6 +13634,33 @@
         "relations": [],
         "tags": [
             "indefinite"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/43930"
+        ],
+        "title": "Xin Datou Er Zi He Xiao Tou Baba: Mimi Jihua",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1111/122607.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1111/122607t.jpg",
+        "synonyms": [
+            "New Happy Dad and Son: Secret Plans",
+            "新大头儿子和小头爸爸之秘密计划"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/43922"
+        ],
+        "tags": [
+            "adventure",
+            "comedy",
+            "kids"
         ],
         "date": {
             "season": "summer",

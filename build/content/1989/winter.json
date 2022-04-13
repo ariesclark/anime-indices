@@ -1593,6 +1593,7 @@
             "historical",
             "horror",
             "manga",
+            "mythology",
             "ninja",
             "psi-powers",
             "samurai",
@@ -1834,6 +1835,8 @@
         "synonyms": [
             "Goku: Midnight Eye",
             "MIDNIGHT EYE ゴクウ",
+            "MIDNIGHT EYE: Goku",
+            "MIDNIGHT EYE: Gokuu",
             "MIDNIGHT EYE　ゴクウ",
             "Midnight Eye Goku",
             "Midnight Eye Gokuu",
@@ -2557,10 +2560,12 @@
             "action",
             "adventure",
             "america",
+            "anti-hero",
             "based on a manga",
             "cars",
             "comedy",
             "cops",
+            "crime",
             "crime fiction",
             "criminals",
             "detective",
@@ -2583,6 +2588,7 @@
             "seinen",
             "shounen",
             "united states",
+            "urban",
             "violence"
         ],
         "date": {
@@ -2744,63 +2750,6 @@
         "tags": [
             "historical",
             "kids"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 1989
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/1615",
-            "https://anilist.co/anime/3882",
-            "https://anime-planet.com/anime/cybernetics-guardian",
-            "https://anisearch.com/anime/1371",
-            "https://kitsu.io/anime/3322",
-            "https://livechart.me/anime/7805",
-            "https://myanimelist.net/anime/3882",
-            "https://notify.moe/anime/ldQlcFmiR"
-        ],
-        "title": "Seijuuki Cyguard",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/4/29427.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/4/29427t.jpg",
-        "synonyms": [
-            "Cybernetics Guardian",
-            "Cyguard",
-            "Sacred Beast Machine Cyguard",
-            "Seijuki Cyguard",
-            "Seijūki Cyguard",
-            "聖獣機サイガード"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "body horror",
-            "cyberpunk",
-            "cyborg",
-            "cyborgs",
-            "demons",
-            "dystopian",
-            "fantasy",
-            "fugitive",
-            "future",
-            "gore",
-            "henshin",
-            "human enhancement",
-            "mecha",
-            "original work",
-            "politics",
-            "psychic powers",
-            "sci fi",
-            "sci-fi",
-            "science fiction",
-            "science-fiction",
-            "supernatural",
-            "superpowers",
-            "violence"
         ],
         "date": {
             "season": "winter",
@@ -2973,7 +2922,8 @@
             "based on a light novel",
             "demon",
             "demons",
-            "fantasy"
+            "fantasy",
+            "mythology"
         ],
         "date": {
             "season": "winter",

@@ -343,36 +343,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/17302",
-            "https://livechart.me/anime/11172"
-        ],
-        "title": "Rabbits Kingdom the Movie",
-        "type": "movie",
-        "episodes": 1,
-        "status": "upcoming",
-        "picture": "https://cdn.anidb.net/images/main/271437.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/271437.jpg-thumb.jpg",
-        "synonyms": [
-            "RABBITS KINGDOM THE MOVIE",
-            "「ツキウタ。」劇場版 ラビッツキングダム"
-        ],
-        "relations": [
-            "https://livechart.me/anime/10212",
-            "https://livechart.me/anime/1291",
-            "https://livechart.me/anime/2441",
-            "https://livechart.me/anime/3028",
-            "https://livechart.me/anime/9207"
-        ],
-        "tags": [
-            "music"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2023
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/51404"
         ],
         "title": "Rakudai Majo",
@@ -541,21 +511,25 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/51539"
+            "https://anime-planet.com/anime/tsukiuta-rabbits-kingdom-the-movie"
         ],
         "title": "Tsukiuta. Rabbits Kingdom the Movie",
         "type": "movie",
-        "episodes": 1,
+        "episodes": 0,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1655/122362.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1655/122362t.jpg",
-        "synonyms": [
-            "「ツキウタ。」劇場版 『RABBITS KINGDOM THE MOVIE』"
+        "picture": "https://cdn.anime-planet.com/anime/primary/tsukiuta-rabbits-kingdom-the-movie-1.webp?t=1649556812",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/tsukiuta-rabbits-kingdom-the-movie-1-285x399.webp?t=1649556812",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/tsukiuta-the-animation",
+            "https://anime-planet.com/anime/tsukiuta-the-animation-2"
         ],
-        "relations": [],
         "tags": [
-            "idols (male)",
-            "music"
+            "anthropomorphic",
+            "based on a song",
+            "idols",
+            "music",
+            "showbiz"
         ],
         "date": {
             "season": "unknown",

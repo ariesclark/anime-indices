@@ -1028,6 +1028,7 @@
             "https://anilist.co/anime/10479",
             "https://anilist.co/anime/13067",
             "https://anilist.co/anime/16532",
+            "https://anilist.co/anime/9120",
             "https://anime-planet.com/anime/beelzebub-jump-super-anime-tour-special",
             "https://anime-planet.com/anime/beelzebub-specials",
             "https://anisearch.com/anime/6611",
@@ -1045,6 +1046,7 @@
         "tags": [
             "action",
             "action comedy",
+            "anti-hero",
             "based on a manga",
             "childcare",
             "comedy",
@@ -1061,6 +1063,7 @@
             "male protagonist",
             "manga",
             "master-servant relationship",
+            "mythology",
             "overpowered main characters",
             "present",
             "primarily male cast",
@@ -1301,6 +1304,29 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51350"
+        ],
+        "title": "Boku wo Sonna Me de Minaide",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1769/122171.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1769/122171t.jpg",
+        "synonyms": [
+            "Don't Look at Me in That Way",
+            "僕をそんな目で見ないで"
+        ],
+        "relations": [],
+        "tags": [
+            "music"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/106932",
             "https://anime-planet.com/anime/bonnie",
             "https://kitsu.io/anime/44599"
@@ -1503,7 +1529,6 @@
         "relations": [
             "https://anidb.net/anime/10090",
             "https://anidb.net/anime/13635",
-            "https://anidb.net/anime/14681",
             "https://anidb.net/anime/8974",
             "https://anilist.co/anime/101594",
             "https://anilist.co/anime/121962",
@@ -1711,6 +1736,7 @@
             "contemporary fantasy",
             "drama",
             "episodic",
+            "female protagonist",
             "half-length episodes",
             "horror",
             "japan",
@@ -5134,7 +5160,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/10152",
             "https://anime-planet.com/anime/kimi-ni-todoke-from-me-to-you-2nd-season-a-crush",
             "https://anisearch.com/anime/3535",
             "https://kitsu.io/anime/6055",
@@ -5164,7 +5189,6 @@
             "君に届け 片想い"
         ],
         "relations": [
-            "https://anilist.co/anime/6045",
             "https://anime-planet.com/anime/kimi-ni-todoke-from-me-to-you",
             "https://anime-planet.com/anime/kimi-ni-todoke-from-me-to-you-2nd-season",
             "https://anime-planet.com/anime/kimi-ni-todoke-from-me-to-you-2nd-season-specials",
@@ -5205,7 +5229,7 @@
             "https://notify.moe/anime/omVWhKimR"
         ],
         "title": "KiyaKiya",
-        "type": "special",
+        "type": "movie",
         "episodes": 1,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/10/82516.jpg",
@@ -5216,6 +5240,7 @@
         "relations": [],
         "tags": [
             "abstract",
+            "avant garde",
             "music",
             "no dialogue",
             "psychological",
@@ -5518,7 +5543,9 @@
             "https://notify.moe/anime/TSLacKiig"
         ],
         "tags": [
+            "adult cast",
             "cops",
+            "detective",
             "mecha",
             "military",
             "mystery",
@@ -5636,7 +5663,8 @@
             "primarily adult cast",
             "slapstick",
             "slice of life",
-            "urban"
+            "urban",
+            "visual arts"
         ],
         "date": {
             "season": "winter",
@@ -5813,6 +5841,7 @@
             "love polygon",
             "magic",
             "magical girl",
+            "magical sex shift",
             "nonsense-comedy",
             "novel",
             "nudity",
@@ -6764,7 +6793,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/8/26045t.jpg",
         "synonyms": [
             "Mitsudomoe Special",
-            "Mitsudomoe: Lots of Breasts, Mama's Alright",
+            "Mitsudomoe: Lots of Breasts, Mama’s Alright",
             "Mitsudomoe: OPPAI IPPAI Mama Genki",
             "みつどもえ",
             "みつどもえ OPPAI IPPAI ママ元気",
@@ -8962,7 +8991,8 @@
             "comedy",
             "episodic",
             "kids",
-            "motorsport"
+            "motorsport",
+            "racing"
         ],
         "date": {
             "season": "winter",
@@ -9311,13 +9341,13 @@
             "adventure",
             "based on a manga",
             "contemporary fantasy",
-            "demons",
             "drama",
             "fantasy",
             "gore",
             "josei",
             "journey to the west",
             "manga",
+            "mythology",
             "shoujo"
         ],
         "date": {
@@ -9585,6 +9615,7 @@
             "mermaid",
             "new",
             "original work",
+            "performing arts",
             "primarily female cast",
             "promotional",
             "slice of life",

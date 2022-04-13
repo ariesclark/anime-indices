@@ -711,7 +711,7 @@
             "https://notify.moe/anime/4k6d2Fimg"
         ],
         "title": "Amai Choubatsu: Watashi wa Kanshu Senyou Pet",
-        "type": "tv",
+        "type": "ona",
         "episodes": 13,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1464/108630.jpg",
@@ -731,7 +731,6 @@
         "tags": [
             "based on a manga",
             "ecchi",
-            "erotica",
             "eroticism",
             "hentai",
             "josei",
@@ -1105,6 +1104,7 @@
             "https://anisearch.com/anime/11558",
             "https://anisearch.com/anime/15175",
             "https://anisearch.com/anime/15565",
+            "https://anisearch.com/anime/17241",
             "https://kitsu.io/anime/12315",
             "https://kitsu.io/anime/42206",
             "https://kitsu.io/anime/43725",
@@ -1298,18 +1298,8 @@
             "https://kitsu.io/anime/13510",
             "https://kitsu.io/anime/42360",
             "https://livechart.me/anime/10273",
-            "https://livechart.me/anime/1122",
-            "https://livechart.me/anime/1537",
             "https://livechart.me/anime/1665",
             "https://livechart.me/anime/2546",
-            "https://livechart.me/anime/4548",
-            "https://livechart.me/anime/5031",
-            "https://livechart.me/anime/5235",
-            "https://livechart.me/anime/5321",
-            "https://livechart.me/anime/5324",
-            "https://livechart.me/anime/6592",
-            "https://livechart.me/anime/6655",
-            "https://livechart.me/anime/6747",
             "https://livechart.me/anime/9228",
             "https://livechart.me/anime/9832",
             "https://myanimelist.net/anime/34901",
@@ -1589,6 +1579,7 @@
             "Butlers - Chitose Momotose Monogatari",
             "Butlers X Battlers",
             "Butlers x Battlers",
+            "Butlers × Battlers",
             "Butlers: A Millennium Century Story",
             "Butlers~千年百年物語~",
             "Butlers～千年百年物語～",
@@ -1718,11 +1709,11 @@
             "family friendly",
             "food",
             "food and beverage",
-            "game",
             "gourmet",
             "kids",
             "minna no uta",
-            "music"
+            "music",
+            "strategy game"
         ],
         "date": {
             "season": "spring",
@@ -2462,6 +2453,7 @@
             "based on an otome game",
             "drama",
             "fantasy",
+            "female protagonist",
             "guns",
             "harem",
             "historical",
@@ -2499,13 +2491,17 @@
             "こみっくがーるず",
             "코믹 걸즈"
         ],
-        "relations": [],
+        "relations": [
+            "https://anilist.co/anime/21108"
+        ],
         "tags": [
             "4-koma manga",
             "based on a manga",
             "boarding house",
+            "cgdct",
             "chuunibyou",
             "comedy",
+            "coming of age",
             "cosplay",
             "cute girls doing cute things",
             "drawing",
@@ -3005,6 +3001,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/266",
+            "https://anilist.co/anime/145494",
             "https://anilist.co/anime/235",
             "https://anilist.co/anime/98222",
             "https://anime-planet.com/anime/detective-conan",
@@ -4434,6 +4431,7 @@
         "tags": [
             "action",
             "action drama",
+            "adult cast",
             "based on a novel",
             "cgi",
             "drama",
@@ -5464,6 +5462,7 @@
             "fantasy",
             "female harem",
             "harem",
+            "heterosexual",
             "japanese mythology",
             "kemonomimi",
             "kuudere",
@@ -5555,6 +5554,7 @@
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/13/13560.webp",
         "synonyms": [
             "High School DxD Hero Episode 0",
+            "High School DxD Hero: Holiness Behind the Gym",
             "High School DxD Hero: Taiikukan-ura no Holy",
             "High School D×D Hero : La Sainte Derrière le Gymnase",
             "High School D×D Hero: Holiness Behind the Gym",
@@ -6110,6 +6110,7 @@
         ],
         "tags": [
             "drama",
+            "idols (male)",
             "music"
         ],
         "date": {
@@ -6919,8 +6920,8 @@
         "relations": [],
         "tags": [
             "advertisement",
-            "harem",
             "male harem",
+            "reverse harem",
             "romance",
             "slice of life"
         ],
@@ -7001,15 +7002,15 @@
         "synonyms": [
             "Chi's Sweet Adventure 2nd Season",
             "Chi's Sweet Adventure Season 2",
-            "Chi's Sweet Adventure: Season 2",
-            "Chi's Sweet Travels",
+            "Chi, Mon Chaton (Saison 2)",
             "Chi: Mon Chaton Saison 2",
             "Chi`s Sweet Adventure S2",
             "Chi`s Sweet Adventure: Season 2",
+            "Chi’s Sweet Adventure: Season 2",
+            "Chi’s Sweet Travels",
             "Kleine Katze Chi Staffel 2",
             "Kleine Katze Chi: Staffel 2",
-            "Koneko no Chi Ponponra Dairyokou",
-            "Koneko no Chi Ponponra Dairyokō",
+            "Koneko no Chi: Ponponra Dairyokō",
             "Koneko no Chi: Ra Dai Ryokou",
             "Koneko no Chii: Ponponra Daibouken 2",
             "Koneko no Chii: Ponponra Dairyokou",
@@ -8135,6 +8136,7 @@
             "idols",
             "magic",
             "magical girl",
+            "magical sex shift",
             "mahou shoujo",
             "manga",
             "meta",
@@ -8211,6 +8213,7 @@
             "nudity",
             "present",
             "primarily female cast",
+            "primarily teen cast",
             "psychological",
             "psychological drama",
             "rape",
@@ -9408,6 +9411,7 @@
         "tags": [
             "idol",
             "idols",
+            "idols (male)",
             "music",
             "primarily male cast",
             "school life",
@@ -9669,7 +9673,6 @@
             "fantasy",
             "female protagonist",
             "game",
-            "harem",
             "historical",
             "horror",
             "japan",
@@ -10976,7 +10979,7 @@
         ],
         "title": "Puzzle & Dragon",
         "type": "tv",
-        "episodes": 197,
+        "episodes": 199,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1535/95070.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1535/95070t.jpg",
@@ -11638,11 +11641,13 @@
             "action",
             "based on a manga",
             "comedy",
+            "contemporary fantasy",
             "drama",
             "fantasy",
             "isekai",
             "josei",
             "magic",
+            "manga",
             "master-servant relationship",
             "memory manipulation",
             "primarily male cast",
@@ -11781,6 +11786,7 @@
             "full cgi",
             "idol",
             "idols",
+            "idols (female)",
             "indefinite",
             "music",
             "musical band",
@@ -12014,6 +12020,7 @@
             "Shokugeki no Souma: San no Sara 2nd cour",
             "Shokugeki no Souma: San no Sara – Toutsuki Ressha-hen",
             "Shokugeki no Sōma: San no Sara - Tōtsuki Ressha-hen",
+            "ยอดนักปรุงโซมะ ภาค 3 ครึ่งหลัง",
             "『食戟のソーマ 餐ノ皿』 遠月列車篇",
             "食戟のソーマ 参ノ皿 遠月列車篇",
             "食戟のソーマ 餐ノ皿 遠月列車篇",
@@ -12187,6 +12194,27 @@
             "seinen",
             "short episodes",
             "slice of life"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/50241"
+        ],
+        "title": "Sigh of Sighs",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1821/119023.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1821/119023t.jpg",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "avant garde",
+            "psychological"
         ],
         "date": {
             "season": "spring",
@@ -13664,6 +13692,7 @@
             "dissociative identities",
             "drama",
             "excessive violence",
+            "fantasy",
             "gore",
             "hikikomori",
             "horror",
@@ -13703,6 +13732,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/2/89805.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/2/89805t.jpg",
         "synonyms": [
+            "Ito Junji Episodes 13 and 14",
             "Ito Junji: Collection Specials",
             "富江"
         ],
@@ -14166,6 +14196,7 @@
         "relations": [
             "https://anidb.net/anime/14537",
             "https://anidb.net/anime/15739",
+            "https://anidb.net/anime/17212",
             "https://anilist.co/anime/103237",
             "https://anilist.co/anime/108941",
             "https://anilist.co/anime/124223",
@@ -14598,6 +14629,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1825/94402t.jpg",
         "synonyms": [
             "Okko et les Fantômes : Série TV",
+            "Okko y los fantasmas",
             "Okko's Inn",
             "Okko`s Inn (TV)",
             "Okkos Inn",
@@ -14816,6 +14848,7 @@
             "https://kitsu.io/anime/45962",
             "https://livechart.me/anime/10228",
             "https://myanimelist.net/anime/42950",
+            "https://myanimelist.net/anime/50842",
             "https://notify.moe/anime/bVOImsKGg"
         ],
         "tags": [

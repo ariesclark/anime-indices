@@ -960,8 +960,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/4/25596.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/4/25596t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1906/121592.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1906/121592t.jpg",
         "synonyms": [
             "BL",
             "BL1",
@@ -1009,6 +1009,7 @@
         ],
         "tags": [
             "action",
+            "adult cast",
             "adventure",
             "anti-hero",
             "asia",
@@ -1034,6 +1035,7 @@
             "military",
             "noir",
             "nudity",
+            "organized crime",
             "pirate",
             "pirates",
             "plot continuity",
@@ -2311,6 +2313,7 @@
             "feudal japan",
             "fishing",
             "gag",
+            "gag humor",
             "ghost",
             "historical",
             "humanoid alien",
@@ -2576,6 +2579,7 @@
             "drama",
             "historical",
             "independent anime",
+            "mythology",
             "reincarnation",
             "romance",
             "shorts"
@@ -2742,7 +2746,6 @@
         ],
         "relations": [
             "https://anidb.net/anime/4894",
-            "https://anidb.net/anime/8350",
             "https://anidb.net/anime/9574",
             "https://anilist.co/anime/101044",
             "https://anilist.co/anime/16700",
@@ -3016,7 +3019,9 @@
         ],
         "relations": [],
         "tags": [
+            "amnesia",
             "comedy",
+            "ojou-sama",
             "original work",
             "school life",
             "slapstick",
@@ -4283,6 +4288,33 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/43894"
+        ],
+        "title": "Ma Lan Hua",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1522/122544.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1522/122544t.jpg",
+        "synonyms": [
+            "Ma Lanhua (2006)",
+            "Malan Flower",
+            "马兰花"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/43895"
+        ],
+        "tags": [
+            "fantasy",
+            "kids"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2006
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/3661",
             "https://myanimelist.net/anime/5401"
         ],
@@ -4883,6 +4915,7 @@
             "https://myanimelist.net/anime/457"
         ],
         "tags": [
+            "adult cast",
             "based on a manga",
             "fantasy",
             "iyashikei",
@@ -5314,6 +5347,7 @@
             "daily life",
             "family friendly",
             "fantasy",
+            "female protagonist",
             "henshin heroes",
             "japan",
             "kids",
@@ -5435,7 +5469,6 @@
             "host-club",
             "hosts",
             "japan",
-            "lgbtq+ themes",
             "male harem",
             "manga",
             "martial arts",
@@ -5995,6 +6028,7 @@
         "tags": [
             "asia",
             "card battle",
+            "cgdct",
             "comedy",
             "contemporary fantasy",
             "cute girls doing cute things",
@@ -6003,6 +6037,7 @@
             "ecchi",
             "episodic",
             "fantasy",
+            "gag humor",
             "japan",
             "kemonomimi",
             "magic",
@@ -6650,6 +6685,7 @@
             "episodic",
             "female protagonist",
             "gag",
+            "gag humor",
             "high school",
             "japan",
             "kuudere",
@@ -7830,6 +7866,7 @@
             "adventure",
             "animal protagonists",
             "animals",
+            "anthropomorphic",
             "based on a manga",
             "comedy",
             "episodic",
@@ -8305,6 +8342,7 @@
             "https://notify.moe/anime/rbbA5Fimg"
         ],
         "tags": [
+            "adult cast",
             "aviation",
             "drama",
             "military",
@@ -8314,7 +8352,8 @@
             "slice of life",
             "slice of life drama",
             "work",
-            "work life"
+            "work life",
+            "workplace"
         ],
         "date": {
             "season": "spring",

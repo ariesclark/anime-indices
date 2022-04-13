@@ -1327,6 +1327,7 @@
             "delinquents",
             "mafia",
             "manga",
+            "organized crime",
             "school",
             "seinen",
             "slice of life",
@@ -1544,6 +1545,7 @@
             "Caro to Piyobuputo: Sandoicchi",
             "Karo & Piyobupt: Sandoicchi",
             "Karo & Piyobupt: The Sandwiches",
+            "Karo to Piyobupt: Sandwiches",
             "カロとピヨブプト　サンドイッチ",
             "カロとピヨブプト「サンドイッチ」"
         ],
@@ -2080,6 +2082,7 @@
             "comedy",
             "mafia",
             "manga",
+            "organized crime",
             "parody",
             "seinen"
         ],
@@ -2190,66 +2193,6 @@
         "relations": [],
         "tags": [
             "drama"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 1992
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/5693",
-            "https://anilist.co/anime/4921",
-            "https://anime-planet.com/anime/the-prince-of-light-the-legend-of-ramayana",
-            "https://anisearch.com/anime/4713",
-            "https://kitsu.io/anime/3849",
-            "https://livechart.me/anime/9068",
-            "https://myanimelist.net/anime/4921",
-            "https://notify.moe/anime/CxT9cFiiR"
-        ],
-        "title": "Ramayana: The Legend of Prince Rama",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1070/104671.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1070/104671t.jpg",
-        "synonyms": [
-            "Prince of Light - The Legend of Ramayana",
-            "Ramayana",
-            "Ramayana - Rama Ouji Densetsu",
-            "Ramayana - Rama Ōji Densetsu",
-            "Ramayana - The Legend of Prince Rama",
-            "Ramayana - legenda o princi Ramovi",
-            "Ramayana: Opowieść o księciu Ramie",
-            "Ramayana: Rama Ouji Densetsu",
-            "Ramayana: Shree Rama Katha",
-            "The Prince of Light",
-            "The Prince of Light - the Legend of Ramayana",
-            "The Warrior Prince",
-            "रामायण: श्री राम कथा",
-            "ラーマヤーナ ラーマ王子伝説"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "adventure",
-            "archery",
-            "asia",
-            "demons",
-            "earth",
-            "fantasy",
-            "gods",
-            "high fantasy",
-            "historical",
-            "india",
-            "male protagonist",
-            "mina",
-            "monsters",
-            "mythology",
-            "novel",
-            "past",
-            "religion",
-            "war"
         ],
         "date": {
             "season": "winter",
@@ -2513,6 +2456,7 @@
             "Shiritsu Tantei Toki Shozo no Trouble Note - Hard & Loose",
             "Shiritsu Tantei: Toki Shouzou Trouble Note - Hard & Loose",
             "Shiritsu Tantei: Toki Shōzō Trouble Note - Hard & Loose",
+            "Shouzou Toki`s Private Detective Trouble Notes: Hard and Loose",
             "私立探偵・土岐正造トラブル・ノート ハード&ルーズ",
             "私立探偵・土岐正造トラブル・ノート　ハード＆ルーズ"
         ],
@@ -2682,54 +2626,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/7548",
-            "https://anilist.co/anime/10059",
-            "https://anime-planet.com/anime/sore-ike-anpanman-tsumiki-shiro-no-himitsu",
-            "https://kitsu.io/anime/6016",
-            "https://myanimelist.net/anime/10059",
-            "https://notify.moe/anime/zRv7pKmmR"
-        ],
-        "title": "Sore Ike! Anpanman: Tsumiki Shiro no Himitsu",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/12/27775.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/12/27775t.jpg",
-        "synonyms": [
-            "Sore Ike! Anpanman: Tsumikijou no Himitsu",
-            "Soreike! Anpanman: The Secret of Building Block Castle",
-            "The Secret of Tsumiki Castle",
-            "それいけ! アンパンマン つみき城のひみつ"
-        ],
-        "relations": [
-            "https://anidb.net/anime/5548",
-            "https://anidb.net/anime/7754",
-            "https://anilist.co/anime/1960",
-            "https://anime-planet.com/anime/sore-ike-anpanman",
-            "https://anime-planet.com/anime/sore-ike-anpanman-anpanman-to-yukai-na-nakama-tachi",
-            "https://anime-planet.com/anime/sore-ike-anpanman-kagayake-kurun-to-inochi-no-hoshi",
-            "https://kitsu.io/anime/1766",
-            "https://myanimelist.net/anime/1960",
-            "https://notify.moe/anime/Mt7Y5KmmR"
-        ],
-        "tags": [
-            "anthropomorphic",
-            "comedy",
-            "family friendly",
-            "fantasy",
-            "food protagonists",
-            "kids",
-            "kodomo",
-            "non-human protagonists",
-            "superpowers"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 1992
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/6246"
         ],
         "title": "Sore Ike! Anpanman: Tsumiki-jou no Himitsu",
@@ -2814,6 +2710,54 @@
         ],
         "tags": [
             "comedy"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 1992
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/7548",
+            "https://anilist.co/anime/10059",
+            "https://anime-planet.com/anime/sore-ike-anpanman-tsumiki-shiro-no-himitsu",
+            "https://kitsu.io/anime/6016",
+            "https://myanimelist.net/anime/10059",
+            "https://notify.moe/anime/zRv7pKmmR"
+        ],
+        "title": "Sore Ike! Anpanman: Tsumikijou no Himitsu",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/12/27775.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/12/27775t.jpg",
+        "synonyms": [
+            "Sore Ike! Anpanman: Tsumiki Shiro no Himitsu",
+            "Soreike! Anpanman: The Secret of Building Block Castle",
+            "The Secret of Tsumiki Castle",
+            "それいけ! アンパンマン つみき城のひみつ"
+        ],
+        "relations": [
+            "https://anidb.net/anime/5548",
+            "https://anidb.net/anime/7754",
+            "https://anilist.co/anime/1960",
+            "https://anime-planet.com/anime/sore-ike-anpanman",
+            "https://anime-planet.com/anime/sore-ike-anpanman-anpanman-to-yukai-na-nakama-tachi",
+            "https://anime-planet.com/anime/sore-ike-anpanman-kagayake-kurun-to-inochi-no-hoshi",
+            "https://kitsu.io/anime/1766",
+            "https://myanimelist.net/anime/1960",
+            "https://notify.moe/anime/Mt7Y5KmmR"
+        ],
+        "tags": [
+            "anthropomorphic",
+            "comedy",
+            "family friendly",
+            "fantasy",
+            "food protagonists",
+            "kids",
+            "kodomo",
+            "non-human protagonists",
+            "superpowers"
         ],
         "date": {
             "season": "winter",

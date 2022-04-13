@@ -248,7 +248,8 @@
             "school life",
             "shounen",
             "soccer",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "fall",
@@ -1076,7 +1077,9 @@
             "demon",
             "demons",
             "fantasy",
+            "mythology",
             "original work",
+            "power suit",
             "sci fi",
             "sci-fi",
             "science fiction",
@@ -1464,6 +1467,7 @@
         ],
         "relations": [],
         "tags": [
+            "educational",
             "kids",
             "music"
         ],
@@ -2697,7 +2701,9 @@
             "Pochacco in Exciting Birthday",
             "ポチャッコのわくわくバースデイ"
         ],
-        "relations": [],
+        "relations": [
+            "https://myanimelist.net/anime/22623"
+        ],
         "tags": [
             "fantasy",
             "kids"
@@ -3078,6 +3084,7 @@
         "sources": [
             "https://anilist.co/anime/145289",
             "https://anime-planet.com/anime/superstar-wo-yumemite",
+            "https://kitsu.io/anime/45263",
             "https://myanimelist.net/anime/50005"
         ],
         "title": "Superstar wo Yumemite",
@@ -3090,6 +3097,7 @@
             "Dreaming of a Superstar",
             "Minna no Uta",
             "Minna no Uta: Superstar wo Yumemite",
+            "Sūpāsutā o yumemite",
             "スーパースターを夢見て"
         ],
         "relations": [],
@@ -3097,30 +3105,6 @@
             "family friendly",
             "kids",
             "minna no uta",
-            "music"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 1993
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/45263"
-        ],
-        "title": "Sūpāsutā o yumemite",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45263/poster_image/small-24fd52ab500ff1babd25fa4ff4ec64d6.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45263/poster_image/tiny-d6e2dab93e15e75185b53fbef40cc9a1.jpeg",
-        "synonyms": [
-            "Dreaming of a Superstar",
-            "スーパースターを夢見て"
-        ],
-        "relations": [],
-        "tags": [
-            "kids",
             "music"
         ],
         "date": {
@@ -3288,6 +3272,7 @@
             "historical",
             "japan",
             "martial arts",
+            "mythology",
             "novel",
             "old asia",
             "past",

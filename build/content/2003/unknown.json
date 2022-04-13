@@ -343,16 +343,18 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/huixiang"
+            "https://anime-planet.com/anime/huixiang",
+            "https://myanimelist.net/anime/43867"
         ],
         "title": "Huixiang",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/huixiang-1.webp?t=1635271286",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/huixiang-1-285x399.webp?t=1635271286",
+        "picture": "https://cdn.myanimelist.net/images/anime/1437/122507.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1437/122507t.jpg",
         "synonyms": [
-            "Souvenir"
+            "Souvenir",
+            "回想"
         ],
         "relations": [],
         "tags": [
@@ -519,12 +521,7 @@
             "Orb Panic Adventure!",
             "球体パニックアドベンチャー!"
         ],
-        "relations": [
-            "https://anidb.net/anime/1530",
-            "https://anidb.net/anime/1824",
-            "https://anidb.net/anime/69",
-            "https://anidb.net/anime/807"
-        ],
+        "relations": [],
         "tags": [
             "shounen"
         ],
@@ -755,8 +752,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [
             "One Piece Special 2: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!"
         ],
@@ -784,8 +781,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [
             "One Piece Special 3: Mamore! Saigo no Dai Butai"
         ],
@@ -1124,6 +1121,30 @@
         ],
         "relations": [],
         "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2003
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/43872"
+        ],
+        "title": "Tu Hongse De Luotuo",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1768/122510.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1768/122510t.jpg",
+        "synonyms": [
+            "土红色的骆驼"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "anthropomorphic",
+            "kids"
+        ],
         "date": {
             "season": "unknown",
             "year": 2003

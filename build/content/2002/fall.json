@@ -535,6 +535,7 @@
             "https://anidb.net/anime/2911",
             "https://anidb.net/anime/4798",
             "https://anidb.net/anime/5527",
+            "https://anilist.co/anime/146859",
             "https://anilist.co/anime/3669",
             "https://anilist.co/anime/4443",
             "https://anilist.co/anime/6062",
@@ -561,6 +562,7 @@
             "https://anisearch.com/anime/14328",
             "https://anisearch.com/anime/15208",
             "https://anisearch.com/anime/16166",
+            "https://anisearch.com/anime/17091",
             "https://anisearch.com/anime/3935",
             "https://anisearch.com/anime/4562",
             "https://anisearch.com/anime/4563",
@@ -1150,6 +1152,7 @@
             "Alas Grises",
             "Ales Grises",
             "Ali Grigie",
+            "Ali grigie",
             "Ashwing League",
             "Charcoal Feather Federation",
             "Graywing League",
@@ -1194,7 +1197,6 @@
             "countryside",
             "daily life",
             "delinquents",
-            "denpa",
             "drama",
             "family life",
             "fantasy",
@@ -1212,7 +1214,6 @@
             "religion",
             "rural",
             "seinen",
-            "skateboarding",
             "slice of life",
             "suicide",
             "supernatural drama",
@@ -1438,6 +1439,7 @@
             "androids",
             "cops",
             "crime fiction",
+            "detective",
             "earth",
             "gangs",
             "gunfights",
@@ -1650,7 +1652,8 @@
             "school life",
             "shounen",
             "slice of life",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "fall",
@@ -2209,6 +2212,7 @@
         "tags": [
             "action",
             "action drama",
+            "adult cast",
             "android",
             "artificial intelligence",
             "asia",
@@ -2770,6 +2774,36 @@
             "pets",
             "slice of life",
             "world masterpiece theater"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2002
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/50313"
+        ],
+        "title": "Mini Moni the Movie: Okashi na Daibouken!",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1889/121182.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1889/121182t.jpg",
+        "synonyms": [
+            "Minimoni ja Movie Okashi na Daibouken!",
+            "Minimoni the Movie: The Great Sweets Adventure!",
+            "ミニモニ。じゃ ムービー お菓子な大冒険！"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/7452"
+        ],
+        "tags": [
+            "adventure",
+            "fantasy",
+            "gourmet",
+            "kids",
+            "slice of life"
         ],
         "date": {
             "season": "fall",
@@ -4065,7 +4099,9 @@
             "comedy",
             "magic",
             "magical girl",
+            "mahou shoujo",
             "non-human protagonists",
+            "performing arts",
             "recap",
             "romance",
             "shoujo"

@@ -147,6 +147,32 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/43644"
+        ],
+        "title": "Bupiao",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1575/122424.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1575/122424t.jpg",
+        "synonyms": [
+            "Bupiao: Xiao Tu Tao Tao De Gushi",
+            "补票——小兔淘淘的故事"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/31348"
+        ],
+        "tags": [
+            "anthropomorphic",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1988
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/143742",
             "https://anime-planet.com/anime/douji",
             "https://myanimelist.net/anime/43640"
@@ -744,6 +770,7 @@
         "relations": [],
         "tags": [
             "abstract",
+            "achromatic",
             "avant garde",
             "psychological",
             "shorts"
