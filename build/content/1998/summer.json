@@ -245,54 +245,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/2424",
-            "https://anisearch.com/anime/8471"
-        ],
-        "title": "Cardcaptor Sakura: Suteki desu wa, Sakura-chan! Tomoyo no Cardcaptor Sakura Katsuyaku Video Nikki!",
-        "type": "special",
-        "episodes": 3,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/8/8471.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/8/8471.webp",
-        "synonyms": [
-            "Cardcaptor Sakura Specials",
-            "Cardcaptor Sakura: How Lovely, Sakura-chan! Tomoyo's Energetic Cardcaptor Sakura Video Diary!",
-            "Cardcaptor Sakura: Suteki Desu wa, Sakura-chan! Tomoyo no Cardcaptor Sakura Katsuyaku Video Nikki!",
-            "Memorial Video 1",
-            "Tomoyo Video Diary 1",
-            "すてきですわ、さくらちゃん!　知世のカードキャプターさくら活躍ビデオ日記!",
-            "カードキャプターさくら すてきですわ、 さくらちゃん！ 知世のカードキャプターさくら活躍ビデオ日記！"
-        ],
-        "relations": [
-            "https://anilist.co/anime/232",
-            "https://anisearch.com/anime/11517",
-            "https://anisearch.com/anime/12379",
-            "https://anisearch.com/anime/13578",
-            "https://anisearch.com/anime/1913",
-            "https://anisearch.com/anime/2051",
-            "https://anisearch.com/anime/2731"
-        ],
-        "tags": [
-            "adventure",
-            "chibi",
-            "comedy",
-            "drama",
-            "magic",
-            "mahou shoujo",
-            "meta",
-            "present",
-            "romance",
-            "school",
-            "shoujo",
-            "yuri"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 1998
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/949",
             "https://anilist.co/anime/978",
             "https://anime-planet.com/anime/getter-robo-armageddon",
@@ -3083,7 +3035,9 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/2424",
             "https://anime-planet.com/anime/cardcaptor-sakura-specials",
+            "https://anisearch.com/anime/8471",
             "https://kitsu.io/anime/2200",
             "https://livechart.me/anime/4645",
             "https://myanimelist.net/anime/2424",
@@ -3097,33 +3051,52 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/10/68205t.jpg",
         "synonyms": [
             "Cardcaptor Sakura Specials",
+            "Cardcaptor Sakura: How Lovely, Sakura-chan! Tomoyo's Energetic Cardcaptor Sakura Video Diary!",
             "Cardcaptor Sakura: Suteki Desu wa",
+            "Cardcaptor Sakura: Suteki Desu wa, Sakura-chan! Tomoyo no Cardcaptor Sakura Katsuyaku Video Nikki!",
+            "Cardcaptor Sakura: Suteki desu wa, Sakura-chan! Tomoyo no Cardcaptor Sakura Katsuyaku Video Nikki!",
             "Memorial Video 1",
             "Sakura-chan! Tomoyo no Cardcaptor Sakura Katsuyaku Video Nikki!",
             "Suteki desu wa, Sakura-chan! Tomoyo no Cardcaptor Sakura Katsuyaku Video Nikki!",
             "Tomoyo Video Diary 1",
-            "すてきですわ、さくらちゃん!　知世のカードキャプターさくら活躍ビデオ日記!"
+            "すてきですわ、さくらちゃん!　知世のカードキャプターさくら活躍ビデオ日記!",
+            "カードキャプターさくら すてきですわ、 さくらちゃん！ 知世のカードキャプターさくら活躍ビデオ日記！"
         ],
         "relations": [
+            "https://anilist.co/anime/232",
             "https://anime-planet.com/anime/cardcaptor-sakura",
             "https://anime-planet.com/anime/cardcaptor-sakura-clear-card-hen",
             "https://anime-planet.com/anime/cardcaptor-sakura-clear-card-prologue-sakura-and-the-two-bears",
             "https://anime-planet.com/anime/cardcaptor-sakura-leave-it-to-kero",
             "https://anime-planet.com/anime/cardcaptor-sakura-the-movie",
             "https://anime-planet.com/anime/cardcaptor-sakura-the-movie-2-the-sealed-card",
+            "https://anisearch.com/anime/11517",
+            "https://anisearch.com/anime/12379",
+            "https://anisearch.com/anime/13578",
+            "https://anisearch.com/anime/1913",
+            "https://anisearch.com/anime/2051",
+            "https://anisearch.com/anime/2731",
             "https://kitsu.io/anime/207",
             "https://myanimelist.net/anime/232",
             "https://notify.moe/anime/9xGh5Fimg"
         ],
         "tags": [
+            "adventure",
             "based on a manga",
+            "chibi",
             "comedy",
+            "drama",
             "henshin heroes",
             "magic",
             "magical girl",
             "mahou shoujo",
+            "meta",
+            "present",
+            "romance",
+            "school",
             "shoujo",
-            "slice of life"
+            "slice of life",
+            "yuri"
         ],
         "date": {
             "season": "summer",

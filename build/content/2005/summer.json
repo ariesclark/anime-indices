@@ -2822,6 +2822,7 @@
     {
         "sources": [
             "https://anilist.co/anime/2910",
+            "https://anime-planet.com/anime/koi-koi-seven-specials",
             "https://kitsu.io/anime/2638",
             "https://livechart.me/anime/5457",
             "https://myanimelist.net/anime/2910",
@@ -2839,6 +2840,7 @@
             "KK7",
             "Koi Koi 7",
             "Koi Koi Seven",
+            "Koi Koi Seven Specials",
             "Koikoi Seven",
             "Koikoi7",
             "Love Love 7 DVD Specials",
@@ -2849,13 +2851,16 @@
         ],
         "relations": [
             "https://anilist.co/anime/668",
+            "https://anime-planet.com/anime/koi-koi-seven",
             "https://kitsu.io/anime/612",
             "https://myanimelist.net/anime/668",
             "https://notify.moe/anime/isMAcKiig"
         ],
         "tags": [
+            "based on a manga",
             "comedy",
-            "ecchi"
+            "ecchi",
+            "shounen"
         ],
         "date": {
             "season": "summer",

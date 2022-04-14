@@ -15687,6 +15687,7 @@
         "sources": [
             "https://anidb.net/anime/12755",
             "https://anilist.co/anime/98467",
+            "https://anime-planet.com/anime/zo-zo-zombie-2017",
             "https://anisearch.com/anime/12320",
             "https://kitsu.io/anime/14079",
             "https://myanimelist.net/anime/34817",
@@ -15699,53 +15700,31 @@
         "picture": "https://cdn.myanimelist.net/images/anime/2/84766.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/2/84766t.jpg",
         "synonyms": [
+            "Zo Zo Zo Zombie-kun (2017)",
+            "Zo Zo Zombie (2017)",
             "ゾゾゾ ゾンビーくん"
         ],
         "relations": [
             "https://anidb.net/anime/15688",
             "https://anilist.co/anime/126643",
+            "https://anime-planet.com/anime/40-shuunen-da-yo-coro-coro-all-star-shougakkou",
+            "https://anime-planet.com/anime/zo-zo-zombie",
             "https://kitsu.io/anime/45759",
             "https://myanimelist.net/anime/35745",
             "https://myanimelist.net/anime/41686"
         ],
         "tags": [
-            "comedy",
-            "kids",
-            "present",
-            "shounen",
-            "surreal comedy",
-            "zombie"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/zo-zo-zombie-2017"
-        ],
-        "title": "Zo Zo Zombie (2017)",
-        "type": "ona",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/zo-zo-zombie-2017-1.jpg?t=1625897592",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/zo-zo-zombie-2017-1-190x266.jpg?t=1625897592",
-        "synonyms": [
-            "Zo Zo Zo Zombie-kun (2017)"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/40-shuunen-da-yo-coro-coro-all-star-shougakkou",
-            "https://anime-planet.com/anime/zo-zo-zombie"
-        ],
-        "tags": [
             "based on a manga",
             "comedy",
             "family friendly",
+            "kids",
             "non-human protagonists",
+            "present",
             "short episodes",
             "shounen",
             "supernatural",
+            "surreal comedy",
+            "zombie",
             "zombies"
         ],
         "date": {

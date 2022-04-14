@@ -7697,6 +7697,8 @@
     {
         "sources": [
             "https://anidb.net/anime/8828",
+            "https://anilist.co/anime/8644",
+            "https://anime-planet.com/anime/sylvanian-families",
             "https://anisearch.com/anime/7536",
             "https://kitsu.io/anime/5413",
             "https://myanimelist.net/anime/8644",
@@ -7714,6 +7716,8 @@
         ],
         "relations": [
             "https://anidb.net/anime/13423",
+            "https://anime-planet.com/anime/sylvanian-families-mini-story",
+            "https://anime-planet.com/anime/sylvanian-families-mini-story-2nd-season",
             "https://kitsu.io/anime/11056",
             "https://kitsu.io/anime/13915",
             "https://myanimelist.net/anime/30961",
@@ -7722,10 +7726,19 @@
             "https://notify.moe/anime/MS_S2Kmig"
         ],
         "tags": [
+            "animal protagonists",
+            "animals",
+            "cg animation",
             "comedy",
             "fantasy",
+            "full cgi",
             "kids",
-            "kodomo"
+            "kodomo",
+            "non-human protagonists",
+            "original work",
+            "outdoor",
+            "promotional",
+            "rural"
         ],
         "date": {
             "season": "spring",

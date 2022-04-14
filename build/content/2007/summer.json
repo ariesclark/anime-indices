@@ -6350,44 +6350,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/8644",
-            "https://anime-planet.com/anime/sylvanian-families"
-        ],
-        "title": "Sylvanian Families",
-        "type": "ova",
-        "episodes": 3,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/sylvanian-families-1.jpg?t=1625908517",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/sylvanian-families-1-190x266.jpg?t=1625908517",
-        "synonyms": [
-            "Sylvanian Families - Magic Tricks And Other Adventures",
-            "シルバニアファミリー"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/sylvanian-families-mini-story",
-            "https://anime-planet.com/anime/sylvanian-families-mini-story-2nd-season"
-        ],
-        "tags": [
-            "animal protagonists",
-            "animals",
-            "cg animation",
-            "comedy",
-            "fantasy",
-            "full cgi",
-            "kids",
-            "non-human protagonists",
-            "original work",
-            "outdoor",
-            "promotional",
-            "rural"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2007
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/5480",
             "https://anilist.co/anime/8079",
             "https://anime-planet.com/anime/tamala-on-parade",
@@ -6450,34 +6412,8 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/3248"
-        ],
-        "title": "Tenpou Ibun Ayakashi Ayashi: Ayashi Shinkyoku",
-        "type": "ova",
-        "episodes": 5,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3248.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3248.jpg",
-        "synonyms": [
-            "Ghost Slayers Ayashi: Inferno OVA",
-            "天保異聞 妖奇士 奇士神曲"
-        ],
-        "relations": [
-            "https://anilist.co/anime/1587"
-        ],
-        "tags": [
-            "action",
-            "drama",
-            "historical",
-            "supernatural"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2007
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/3248",
+            "https://anime-planet.com/anime/ghost-slayers-ayashi-ayashi-divine-comedy",
             "https://anisearch.com/anime/4707",
             "https://kitsu.io/anime/2882",
             "https://livechart.me/anime/7413",
@@ -6491,7 +6427,10 @@
         "picture": "https://cdn.myanimelist.net/images/anime/9/50917.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/9/50917t.jpg",
         "synonyms": [
+            "Ghost Slayers Ayashi: Ayashi Divine Comedy",
             "Ghost Slayers Ayashi: Inferno",
+            "Ghost Slayers Ayashi: Inferno OVA",
+            "Tenpou Ibun Ayakashi Ayashi: Ayashi Divine Comedy",
             "Tenpou Ibun Ayakashi Ayashi: Ayashi Shinkyoku",
             "Tenpou Ibun Ayakashi Ayashi: Inferno",
             "Tenpouibun Ayakashi Ayashi: Ayashi Divine Comedy",
@@ -6499,6 +6438,8 @@
             "天保異聞 妖奇士 奇士神曲"
         ],
         "relations": [
+            "https://anilist.co/anime/1587",
+            "https://anime-planet.com/anime/ghost-slayers-ayashi",
             "https://anisearch.com/anime/3709",
             "https://kitsu.io/anime/1427",
             "https://myanimelist.net/anime/1587",
@@ -6507,9 +6448,12 @@
         "tags": [
             "action",
             "adventure",
+            "demons",
             "drama",
             "fantasy",
+            "feudal japan",
             "historical",
+            "original work",
             "supernatural"
         ],
         "date": {
