@@ -2265,7 +2265,6 @@
             "So, I Can't Play H! OVA",
             "So, I Can't Play H?",
             "So, I Can’t Play H! OVA",
-            "だから僕は",
             "だから僕は, Hができない. (2013)",
             "だから僕は、 Hができない。 （2013）",
             "だから僕は、Ｈができない 。 見えすぎ! 水着コンテスト",
@@ -3756,14 +3755,15 @@
     {
         "sources": [
             "https://anidb.net/anime/14333",
-            "https://anisearch.com/anime/13901"
+            "https://anisearch.com/anime/13901",
+            "https://myanimelist.net/anime/51621"
         ],
         "title": "Heroes: Battle Disk Densetsu",
         "type": "ona",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/13/13901.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/13/13901.webp",
+        "picture": "https://cdn.myanimelist.net/images/anime/1923/122711.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1923/122711t.jpg",
         "synonyms": [
             "Heroes: Legend of Battle Disks",
             "Heroes: Legend of the Battle Disks",
@@ -3778,7 +3778,9 @@
             "fantasy",
             "mecha",
             "monster",
-            "science fiction"
+            "sci-fi",
+            "science fiction",
+            "strategy game"
         ],
         "date": {
             "season": "winter",
@@ -5144,10 +5146,11 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/147464",
             "https://anisearch.com/anime/15245"
         ],
         "title": "Komaneko no Orusuban",
-        "type": "unknown",
+        "type": "movie",
         "episodes": 1,
         "status": "finished",
         "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15245.webp",
@@ -5155,8 +5158,11 @@
         "synonyms": [
             "こまねこのおるすばん"
         ],
-        "relations": [],
+        "relations": [
+            "https://anilist.co/anime/7547"
+        ],
         "tags": [
+            "slice of life",
             "stop motion"
         ],
         "date": {
@@ -8982,7 +8988,6 @@
             "https://anime-planet.com/anime/sket-dance",
             "https://anime-planet.com/anime/sket-dance-demystifying-special",
             "https://anime-planet.com/anime/sket-dance-sd-character-flash-anime",
-            "https://anisearch.com/anime/17168",
             "https://anisearch.com/anime/6566",
             "https://kitsu.io/anime/5908",
             "https://myanimelist.net/anime/9863",
@@ -10113,6 +10118,7 @@
             "slapstick",
             "slice of life",
             "tanned skin",
+            "transgender",
             "urban"
         ],
         "date": {
@@ -10303,20 +10309,22 @@
     {
         "sources": [
             "https://anilist.co/anime/115488",
+            "https://anime-planet.com/anime/the-blooms",
             "https://kitsu.io/anime/45864"
         ],
         "title": "The Blooms",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45864/poster_image/small-808b76c6f6ba9ada31d189af628bdb55.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45864/poster_image/tiny-8024a5292267d69fec7f3335e8949e65.jpeg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/the-blooms-1.webp?t=1649941953",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-blooms-1-285x399.webp?t=1649941953",
         "synonyms": [],
         "relations": [],
         "tags": [
             "fantasy",
             "music",
-            "nudity"
+            "nudity",
+            "shorts"
         ],
         "date": {
             "season": "winter",

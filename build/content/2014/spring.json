@@ -2136,9 +2136,6 @@
             "https://anime-planet.com/anime/date-a-live-encore-ova",
             "https://anime-planet.com/anime/date-a-live-iii",
             "https://anime-planet.com/anime/date-a-live-movie-mayuri-judgement",
-            "https://anisearch.com/anime/12920",
-            "https://anisearch.com/anime/15080",
-            "https://anisearch.com/anime/8071",
             "https://anisearch.com/anime/8464",
             "https://anisearch.com/anime/9625",
             "https://anisearch.com/anime/9803",
@@ -2903,24 +2900,6 @@
             "https://anime-planet.com/anime/shinseiki-duel-masters-flash",
             "https://anime-planet.com/anime/zero-duel-masters",
             "https://anisearch.com/anime/10131",
-            "https://anisearch.com/anime/11311",
-            "https://anisearch.com/anime/12217",
-            "https://anisearch.com/anime/13476",
-            "https://anisearch.com/anime/14328",
-            "https://anisearch.com/anime/15208",
-            "https://anisearch.com/anime/16166",
-            "https://anisearch.com/anime/17091",
-            "https://anisearch.com/anime/2296",
-            "https://anisearch.com/anime/3935",
-            "https://anisearch.com/anime/4562",
-            "https://anisearch.com/anime/4563",
-            "https://anisearch.com/anime/5082",
-            "https://anisearch.com/anime/5083",
-            "https://anisearch.com/anime/5366",
-            "https://anisearch.com/anime/55",
-            "https://anisearch.com/anime/6241",
-            "https://anisearch.com/anime/6987",
-            "https://anisearch.com/anime/7787",
             "https://anisearch.com/anime/8669",
             "https://kitsu.io/anime/10455",
             "https://kitsu.io/anime/9723",
@@ -4069,6 +4048,7 @@
             "https://anime-planet.com/anime/gudetama-tango",
             "https://anime-planet.com/anime/hot-minute-gudetama",
             "https://anime-planet.com/anime/jra-x-gudetama",
+            "https://anisearch.com/anime/16239",
             "https://kitsu.io/anime/12350",
             "https://kitsu.io/anime/41164",
             "https://myanimelist.net/anime/32349",
@@ -5469,7 +5449,6 @@
             "drama",
             "earth",
             "ensemble cast",
-            "episodic",
             "excessive violence",
             "fantasy",
             "fighting-shounen",
@@ -8164,6 +8143,7 @@
             "https://anilist.co/anime/20519",
             "https://anime-planet.com/anime/tamako-love-story",
             "https://anime-planet.com/anime/tamako-market",
+            "https://anisearch.com/anime/9312",
             "https://kitsu.io/anime/7425",
             "https://kitsu.io/anime/8135",
             "https://myanimelist.net/anime/16417",
@@ -9832,6 +9812,7 @@
             "group sex",
             "hardcore",
             "hentai",
+            "mythology",
             "oral",
             "school",
             "school girl",
@@ -11430,7 +11411,7 @@
             "https://myanimelist.net/anime/19815"
         ],
         "tags": [
-            "supernatural"
+            "fantasy"
         ],
         "date": {
             "season": "spring",
@@ -12144,6 +12125,31 @@
             "cg animation",
             "music",
             "the arts"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51597"
+        ],
+        "title": "Simgyeong",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1293/122639.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1293/122639t.jpg",
+        "synonyms": [
+            "Mirror in Mind",
+            "Sim-gyeong",
+            "심경"
+        ],
+        "relations": [],
+        "tags": [
+            "avant garde",
+            "psychological"
         ],
         "date": {
             "season": "spring",

@@ -784,16 +784,9 @@
             "https://anime-planet.com/anime/city-hunter-million-dollar-conspiracy",
             "https://anime-planet.com/anime/city-hunter-ryou-no-propose",
             "https://anime-planet.com/anime/city-hunter-the-secret-service",
-            "https://anisearch.com/anime/1298",
-            "https://anisearch.com/anime/13487",
-            "https://anisearch.com/anime/1767",
-            "https://anisearch.com/anime/1920",
-            "https://anisearch.com/anime/231",
-            "https://anisearch.com/anime/2313",
             "https://anisearch.com/anime/3365",
             "https://anisearch.com/anime/421",
             "https://anisearch.com/anime/423",
-            "https://anisearch.com/anime/448",
             "https://anisearch.com/anime/462",
             "https://kitsu.io/anime/1317",
             "https://kitsu.io/anime/1319",
@@ -2483,6 +2476,33 @@
             "comedy",
             "fantasy",
             "japanese mythology"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 1989
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/147725",
+            "https://myanimelist.net/anime/42089"
+        ],
+        "title": "Muumin Pilot Film",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1908/107754.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1908/107754t.jpg",
+        "synonyms": [
+            "Moomin Pilot Film",
+            "ムーミン パイロットフィルム"
+        ],
+        "relations": [
+            "https://anilist.co/anime/8234",
+            "https://myanimelist.net/anime/8234"
+        ],
+        "tags": [
+            "fantasy"
         ],
         "date": {
             "season": "fall",

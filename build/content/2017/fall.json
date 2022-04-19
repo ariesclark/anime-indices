@@ -1248,7 +1248,9 @@
             "action",
             "adoption",
             "adventure",
+            "advertisement",
             "based on a manga",
+            "bullying",
             "childhood promise",
             "comedy",
             "conspiracy",
@@ -1576,7 +1578,6 @@
             "https://anilist.co/anime/101635",
             "https://anime-planet.com/anime/boku-wa-robot-goshi-no-kimi-ni-koi-wo-suru",
             "https://kitsu.io/anime/41298",
-            "https://myanimelist.net/anime/37839",
             "https://notify.moe/anime/vyeYKC7mR"
         ],
         "tags": [
@@ -4061,46 +4062,7 @@
         "relations": [
             "https://anime-planet.com/anime/fate-apocrypha",
             "https://anime-planet.com/anime/fate-apocrypha-seihai-daisen-kaimaku-hen",
-            "https://anisearch.com/anime/10005",
-            "https://anisearch.com/anime/10784",
-            "https://anisearch.com/anime/10845",
-            "https://anisearch.com/anime/10862",
-            "https://anisearch.com/anime/11294",
-            "https://anisearch.com/anime/11746",
-            "https://anisearch.com/anime/11791",
-            "https://anisearch.com/anime/11903",
             "https://anisearch.com/anime/12160",
-            "https://anisearch.com/anime/12811",
-            "https://anisearch.com/anime/13096",
-            "https://anisearch.com/anime/13661",
-            "https://anisearch.com/anime/13775",
-            "https://anisearch.com/anime/13776",
-            "https://anisearch.com/anime/14065",
-            "https://anisearch.com/anime/14075",
-            "https://anisearch.com/anime/14077",
-            "https://anisearch.com/anime/14546",
-            "https://anisearch.com/anime/15056",
-            "https://anisearch.com/anime/15552",
-            "https://anisearch.com/anime/16397",
-            "https://anisearch.com/anime/16783",
-            "https://anisearch.com/anime/16825",
-            "https://anisearch.com/anime/3538",
-            "https://anisearch.com/anime/5288",
-            "https://anisearch.com/anime/5880",
-            "https://anisearch.com/anime/6691",
-            "https://anisearch.com/anime/7515",
-            "https://anisearch.com/anime/7528",
-            "https://anisearch.com/anime/7654",
-            "https://anisearch.com/anime/8290",
-            "https://anisearch.com/anime/8686",
-            "https://anisearch.com/anime/8762",
-            "https://anisearch.com/anime/9106",
-            "https://anisearch.com/anime/9329",
-            "https://anisearch.com/anime/9333",
-            "https://anisearch.com/anime/9744",
-            "https://anisearch.com/anime/9824",
-            "https://anisearch.com/anime/9844",
-            "https://anisearch.com/anime/9947",
             "https://notify.moe/anime/-iWGhFimg"
         ],
         "tags": [
@@ -4178,6 +4140,7 @@
             "https://livechart.me/anime/3438",
             "https://livechart.me/anime/3439",
             "https://livechart.me/anime/3440",
+            "https://livechart.me/anime/9276",
             "https://livechart.me/anime/9557",
             "https://livechart.me/anime/9852",
             "https://myanimelist.net/anime/34321",
@@ -5671,13 +5634,9 @@
         ],
         "relations": [
             "https://anidb.net/anime/10008",
-            "https://anisearch.com/anime/11308",
-            "https://anisearch.com/anime/12992",
-            "https://anisearch.com/anime/4688",
-            "https://anisearch.com/anime/7865",
-            "https://anisearch.com/anime/8268",
-            "https://anisearch.com/anime/8301",
-            "https://anisearch.com/anime/8653"
+            "https://anisearch.com/anime/14884",
+            "https://anisearch.com/anime/17139",
+            "https://anisearch.com/anime/4688"
         ],
         "tags": [
             "action",
@@ -10027,7 +9986,6 @@
             "魔法使いの嫁 スペシャルダイジェスト"
         ],
         "relations": [
-            "https://anisearch.com/anime/11226",
             "https://anisearch.com/anime/12310"
         ],
         "tags": [
@@ -13182,6 +13140,7 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/sengoku-night-blood-ongaku-dai-tokushuu",
+            "https://anisearch.com/anime/16875",
             "https://myanimelist.net/anime/36834"
         ],
         "tags": [
@@ -13782,6 +13741,7 @@
             "Shokugeki no Souma 3",
             "Shokugeki no Souma 3rd Season",
             "Shokugeki no Sōma: San no Sara",
+            "ยอดนักปรุงโซมะ ภาค 3",
             "食戟のソーマ 参ノ皿",
             "食戟のソーマ 餐ノ皿",
             "食戟之灵 餐之皿",
@@ -13976,7 +13936,6 @@
             "cute girls doing cute things",
             "drama",
             "environmental",
-            "episodic",
             "female protagonist",
             "future",
             "guns",
@@ -14773,6 +14732,26 @@
             "mystery",
             "no dialogue",
             "shorts"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/50484"
+        ],
+        "title": "The New Hazzys",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1419/119811.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1419/119811t.jpg",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "music"
         ],
         "date": {
             "season": "fall",

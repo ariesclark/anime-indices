@@ -5098,8 +5098,8 @@
         ],
         "relations": [],
         "tags": [
-            "cars",
-            "kids"
+            "kids",
+            "racing"
         ],
         "date": {
             "season": "unknown",
@@ -6104,20 +6104,24 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/so-red-and-a-little-blue"
+            "https://anime-planet.com/anime/so-red-and-a-little-blue",
+            "https://myanimelist.net/anime/51639"
         ],
-        "title": "So Red and A Little Blue",
+        "title": "So Red and a Little Blue",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/so-red-and-a-little-blue-1.webp?t=1633756230",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/so-red-and-a-little-blue-1-285x399.webp?t=1633756230",
+        "picture": "https://cdn.myanimelist.net/images/anime/1988/122819.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1988/122819t.jpg",
         "synonyms": [
-            "Dahong He Xiao Lan"
+            "Dahong He Xiao Lan",
+            "So Red and A Little Blue",
+            "大红与小蓝"
         ],
         "relations": [],
         "tags": [
             "abstract",
+            "avant garde",
             "chinese animation",
             "no dialogue",
             "shorts"
@@ -6341,30 +6345,6 @@
             "based on a mobile game",
             "promotional",
             "school life"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44930"
-        ],
-        "title": "Te Gong Mingxing",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "特功明星"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -8122,7 +8102,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/50467",
             "https://myanimelist.net/anime/50468"
         ],
         "title": "オー/ヾーロードドラマCD1",

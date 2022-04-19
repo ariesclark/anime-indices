@@ -474,11 +474,10 @@
         "picture": "https://cdn.anime-planet.com/anime/primary/arifureta-from-commonplace-to-worlds-strongest-omnibus-the-great-orcus-labyrinth-1.jpg?t=1630334932",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/arifureta-from-commonplace-to-worlds-strongest-omnibus-the-great-orcus-labyrinth-1-285x399.jpg?t=1630334932",
         "synonyms": [
-            "Arifureta Shokugyou de Sekaisaikyou: Omnibus - The Great Orcus Labyrinth"
+            "Arifureta Shokugyou de Sekai Saikyou: Omnibus - The Great Orcus Labyrinth"
         ],
         "relations": [
             "https://anime-planet.com/anime/arifureta-from-commonplace-to-worlds-strongest",
-            "https://anime-planet.com/anime/arifureta-from-commonplace-to-worlds-strongest-2nd-season",
             "https://anime-planet.com/anime/arifureta-from-commonplace-to-worlds-strongest-specials"
         ],
         "tags": [
@@ -1970,7 +1969,9 @@
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/emomomo-1-285x400.webp?t=1630036165",
         "synonyms": [],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "social media"
+        ],
         "date": {
             "season": "unknown",
             "year": 2019
@@ -3957,6 +3958,26 @@
             "parody",
             "promotional",
             "school life"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/i-see-you"
+        ],
+        "title": "I SEE YOU",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/i-see-you-1.webp?t=1650085840",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/i-see-you-1-285x400.webp?t=1650085840",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "stop motion animation"
         ],
         "date": {
             "season": "unknown",
@@ -6266,6 +6287,32 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51629"
+        ],
+        "title": "Magi Repo Gekijou",
+        "type": "special",
+        "episodes": 12,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1949/122752.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1949/122752t.jpg",
+        "synonyms": [
+            "Magi Repo Theater",
+            "マギレポ劇場"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/38256"
+        ],
+        "tags": [
+            "drama",
+            "mahou shoujo"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/42821"
         ],
         "title": "Magicami Opening",
@@ -6484,27 +6531,6 @@
             "fantasy",
             "kids"
         ],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/50485"
-        ],
-        "title": "Meiyou Yiwai",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1755/119812.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1755/119812t.jpg",
-        "synonyms": [
-            "No Exception",
-            "没有意外"
-        ],
-        "relations": [],
-        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2019
@@ -10199,6 +10225,30 @@
         "relations": [],
         "tags": [
             "chibi"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51598"
+        ],
+        "title": "Umjig-im-ui Sajeon",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1243/122640.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1243/122640t.jpg",
+        "synonyms": [
+            "Movements",
+            "움직임의 사전"
+        ],
+        "relations": [],
+        "tags": [
+            "fantasy",
+            "slice of life"
         ],
         "date": {
             "season": "unknown",

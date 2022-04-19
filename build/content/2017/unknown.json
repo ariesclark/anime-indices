@@ -1425,6 +1425,43 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/13009",
+            "https://kitsu.io/anime/13884",
+            "https://notify.moe/anime/4PLIhFiig"
+        ],
+        "title": "Duan Nao 2",
+        "type": "ona",
+        "episodes": 0,
+        "status": "finished",
+        "picture": "https://media.kitsu.io/anime/poster_images/13884/small.jpg",
+        "thumbnail": "https://media.kitsu.io/anime/poster_images/13884/tiny.jpg",
+        "synonyms": [
+            "Cerebrum 2",
+            "Die Now (2017)",
+            "Die Now 2",
+            "Duan Nao (2017)",
+            "端脑",
+            "端脑 (2017)"
+        ],
+        "relations": [
+            "https://anidb.net/anime/11561",
+            "https://kitsu.io/anime/10146",
+            "https://notify.moe/anime/MNhspFiiR"
+        ],
+        "tags": [
+            "mystery",
+            "sci-fi",
+            "science fiction",
+            "shounen",
+            "thriller"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/egoist-eiyuu-unmei-no-uta"
         ],
         "title": "EGOIST: Eiyuu Unmei no Uta",
@@ -7191,26 +7228,6 @@
             "parody",
             "short episodes"
         ],
-        "date": {
-            "season": "unknown",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/50484"
-        ],
-        "title": "The New Hazzys",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1419/119811.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1419/119811t.jpg",
-        "synonyms": [
-            "New Hazzys"
-        ],
-        "relations": [],
-        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2017
