@@ -1976,44 +1976,9 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/6847"
-        ],
-        "title": "Koukaku Kidoutai: S.A.C. 2nd GIG - Tachikoma na Hibi",
-        "type": "special",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/6/6847.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/6/6847.webp",
-        "synonyms": [
-            "Ghost in the Shell: S.A.C. 2nd GIG - Der Alltag der Tachikoma",
-            "Ghost in the Shell: S.A.C. 2nd GIG - Tachikoma Specials",
-            "Ghost in the Shell: S.A.C. 2nd GIG - Tachikoma na Hibi",
-            "Kōkaku Kidōtai: S.A.C. 2nd GIG - Tachikoma na Hibi",
-            "Tachikomatic Days 2"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/4405",
-            "https://anisearch.com/anime/6845"
-        ],
-        "tags": [
-            "cg-anime",
-            "comedy",
-            "episodic",
-            "mecha",
-            "nonsense-comedy",
-            "robots & androids",
-            "science-fiction",
-            "verbal comedy"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2004
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/3485",
             "https://anime-planet.com/anime/ghost-in-the-shell-stand-alone-complex-2nd-gig-tachikoma-days",
+            "https://anisearch.com/anime/6847",
             "https://kitsu.io/anime/3045",
             "https://livechart.me/anime/7133",
             "https://myanimelist.net/anime/3485",
@@ -2026,10 +1991,16 @@
         "picture": "https://cdn.myanimelist.net/images/anime/7/5799.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/7/5799t.jpg",
         "synonyms": [
+            "Ghost in the Shell: S.A.C. 2nd GIG - Der Alltag der Tachikoma",
+            "Ghost in the Shell: S.A.C. 2nd GIG - Tachikoma Specials",
+            "Ghost in the Shell: S.A.C. 2nd GIG - Tachikoma na Hibi",
             "Ghost in the Shell: Stand Alone Complex 2nd GIG - Tachikoma Specials",
             "Ghost in the Shell: Stand Alone Complex 2nd GIG - Tachikoma na Hibi",
             "Ghost in the Shell: Stand Alone Complex 2nd GIG - Tachikomatic Days",
             "Ghost in the Shell: Stand Alone Complex 2nd Gig - Tachikoma Days",
+            "Koukaku Kidoutai: S.A.C. 2nd GIG - Tachikoma na Hibi",
+            "Kōkaku Kidōtai: S.A.C. 2nd GIG - Tachikoma na Hibi",
+            "Tachikomatic Days 2",
             "攻殻機動隊 STAND ALONE COMPLEX: Section9 Science File “タチコマな日々”"
         ],
         "relations": [
@@ -2054,6 +2025,8 @@
             "https://anime-planet.com/anime/ghost-in-the-shell-standalone-complex-the-laughing-man",
             "https://anime-planet.com/anime/ghost-in-the-shell-the-new-movie",
             "https://anime-planet.com/anime/ghost-in-the-shell-uchikomatic-days",
+            "https://anisearch.com/anime/4405",
+            "https://anisearch.com/anime/6845",
             "https://kitsu.io/anime/715",
             "https://livechart.me/anime/3607",
             "https://livechart.me/anime/3662",
@@ -2076,16 +2049,21 @@
         "tags": [
             "artificial intelligence",
             "based on a manga",
+            "cg-anime",
             "comedy",
             "cyberpunk",
             "episodic",
             "mecha",
+            "nonsense-comedy",
             "parody",
+            "robots & androids",
             "sci fi",
             "sci-fi",
             "science fiction",
+            "science-fiction",
             "short episodes",
-            "tanks"
+            "tanks",
+            "verbal comedy"
         ],
         "date": {
             "season": "summer",
