@@ -5546,6 +5546,7 @@
         "sources": [
             "https://anilist.co/anime/4566",
             "https://anime-planet.com/anime/prism-ark-specials",
+            "https://anisearch.com/anime/7298",
             "https://kitsu.io/anime/3690",
             "https://livechart.me/anime/6236",
             "https://myanimelist.net/anime/4566",
@@ -5559,12 +5560,16 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/13/8747t.jpg",
         "synonyms": [
             "Prism Ark: Pri Ark",
-            "プリズム・アーク ぷりあーく"
+            "Prism Ark: Pri Ark!",
+            "プリズム・アーク ぷりあーく",
+            "プリズム・アーク ぷりあーく！"
         ],
         "relations": [
             "https://anilist.co/anime/1807",
             "https://anime-planet.com/anime/prism-ark",
             "https://anime-planet.com/anime/prism-magical-prism-generations",
+            "https://anisearch.com/anime/4182",
+            "https://anisearch.com/anime/6496",
             "https://kitsu.io/anime/1626",
             "https://myanimelist.net/anime/1807",
             "https://notify.moe/anime/GeJB5FiiR"
@@ -5573,35 +5578,10 @@
             "action",
             "comedy",
             "drama",
+            "ecchi",
             "fantasy",
             "magic",
             "nudity"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2007
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/7298"
-        ],
-        "title": "Prism Ark: Pri Ark!",
-        "type": "special",
-        "episodes": 6,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/7/7298.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/7/7298.webp",
-        "synonyms": [
-            "プリズム・アーク ぷりあーく！"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/4182",
-            "https://anisearch.com/anime/6496"
-        ],
-        "tags": [
-            "comedy",
-            "ecchi"
         ],
         "date": {
             "season": "fall",
@@ -6701,6 +6681,7 @@
         "sources": [
             "https://anilist.co/anime/3410",
             "https://anime-planet.com/anime/sky-girls-specials",
+            "https://anisearch.com/anime/8206",
             "https://kitsu.io/anime/2990",
             "https://livechart.me/anime/7392",
             "https://myanimelist.net/anime/3410",
@@ -6715,30 +6696,39 @@
         "synonyms": [
             "Fishing Idiot Eika-san! Sky Girls Dynamite Fishing",
             "Fishing Maniac Eika-san! Sky Girls Dynamite Fishing",
+            "Fishing Maniac Eika-san! Sky Girls Dynamite Fishing!",
             "Sky Girls Dynamite Fishing",
             "Sky Girls TV DVD Specials",
             "Tsuri Baka Eika-san! Sky Girls Dynamite Fishing",
+            "Tsuribaka Eika-san! Sky Girls Dynamite Fishing!",
             "すかいがーるず",
             "スカイガールズ",
-            "釣りバカ瑛花さん! スカイガールズ ダイナマイトフィッシング"
+            "釣りバカ瑛花さん! スカイガールズ ダイナマイトフィッシング",
+            "釣りバカ瑛花さん！ スカイガールズ ダイナマイトフィッシング！"
         ],
         "relations": [
             "https://anilist.co/anime/2604",
             "https://anime-planet.com/anime/sky-girls",
             "https://anime-planet.com/anime/sky-girls-tv",
+            "https://anisearch.com/anime/3577",
+            "https://anisearch.com/anime/4325",
             "https://kitsu.io/anime/2368",
             "https://myanimelist.net/anime/2604",
             "https://notify.moe/anime/1cKscKimg"
         ],
         "tags": [
+            "action",
+            "action comedy",
             "comedy",
             "fishing",
             "mecha",
             "military",
+            "moe",
             "parody",
             "primarily female cast",
             "sci-fi",
-            "science fiction"
+            "science fiction",
+            "sports"
         ],
         "date": {
             "season": "fall",
@@ -7723,37 +7713,6 @@
             "swordplay",
             "violence",
             "war"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2007
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/8206"
-        ],
-        "title": "Tsuribaka Eika-san! Sky Girls Dynamite Fishing!",
-        "type": "special",
-        "episodes": 9,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/8/8206.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/8/8206.webp",
-        "synonyms": [
-            "Fishing Maniac Eika-san! Sky Girls Dynamite Fishing!",
-            "Sky Girls Specials",
-            "釣りバカ瑛花さん！ スカイガールズ ダイナマイトフィッシング！"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/3577",
-            "https://anisearch.com/anime/4325"
-        ],
-        "tags": [
-            "action",
-            "action comedy",
-            "comedy",
-            "moe",
-            "sports"
         ],
         "date": {
             "season": "fall",

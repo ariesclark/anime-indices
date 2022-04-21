@@ -11188,6 +11188,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/20870",
             "https://anime-planet.com/anime/selector-infected-wixoss-specials",
             "https://anisearch.com/anime/9890",
             "https://kitsu.io/anime/9171",
@@ -11206,9 +11207,11 @@
             "Selector Infected Wixoss Specials",
             "Selector Infected Wixoss: Midoriko-san to Piruruku-tan",
             "selector infected WIXOSS 『緑子さんとピルルクたん』",
+            "selector infected WIXOSS: Midoriko-san to Piruluk-tan",
             "セレクター infected Wixoss 緑子さんとピルルクたん"
         ],
         "relations": [
+            "https://anilist.co/anime/20615",
             "https://anime-planet.com/anime/lostorage-conflated-wixoss",
             "https://anime-planet.com/anime/lostorage-conflated-wixoss-missing-link",
             "https://anime-planet.com/anime/lostorage-incited-wixoss",
@@ -11225,8 +11228,13 @@
         "tags": [
             "based on a card game",
             "card games",
+            "chibi",
             "comedy",
+            "fishing",
+            "kuudere",
             "magical girl",
+            "meta",
+            "parody",
             "picture drama"
         ],
         "date": {
@@ -14046,36 +14054,6 @@
         "relations": [],
         "tags": [
             "comedy"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/20870"
-        ],
-        "title": "selector infected WIXOSS: Midoriko-san to Piruluk-tan",
-        "type": "special",
-        "episodes": 3,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20870.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20870.jpg",
-        "synonyms": [
-            "Selector Infected WIXOSS Specials",
-            "selector infected WIXOSS 『緑子さんとピルルクたん』"
-        ],
-        "relations": [
-            "https://anilist.co/anime/20615"
-        ],
-        "tags": [
-            "chibi",
-            "comedy",
-            "fishing",
-            "kuudere",
-            "meta",
-            "parody"
         ],
         "date": {
             "season": "summer",

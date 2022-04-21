@@ -7204,6 +7204,7 @@
         "sources": [
             "https://anidb.net/anime/8977",
             "https://anilist.co/anime/13543",
+            "https://anime-planet.com/anime/nantokashite-alguard",
             "https://anisearch.com/anime/7688",
             "https://kitsu.io/anime/6990",
             "https://myanimelist.net/anime/13543",
@@ -7227,6 +7228,8 @@
             "magical girl",
             "music",
             "new",
+            "promotional",
+            "shorts",
             "super power",
             "swords & co"
         ],
@@ -9296,6 +9299,7 @@
         "sources": [
             "https://anilist.co/anime/13619",
             "https://anime-planet.com/anime/sayonara-zetsubou-sensei-special-omake",
+            "https://anisearch.com/anime/8463",
             "https://kitsu.io/anime/7001",
             "https://livechart.me/anime/6941",
             "https://myanimelist.net/anime/13619",
@@ -9309,8 +9313,11 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/8/37831t.jpg",
         "synonyms": [
             "Sayonara Zetsubou Sensei BD Box Special Omake",
+            "Sayonara Zetsubou Sensei: Nanmage",
+            "Sayonara Zetsubō Sensei: Nanmage",
             "さよならぜつぼうせんせい",
-            "さよなら絶望先生"
+            "さよなら絶望先生",
+            "さよなら絶望先生 なんまげ"
         ],
         "relations": [
             "https://anilist.co/anime/2605",
@@ -9322,6 +9329,14 @@
             "https://anime-planet.com/anime/zan-sayonara-zetsubou-sensei",
             "https://anime-planet.com/anime/zan-sayonara-zetsubou-sensei-bangaichi",
             "https://anime-planet.com/anime/zoku-sayonara-zetsubou-sensei",
+            "https://anisearch.com/anime/4273",
+            "https://anisearch.com/anime/4590",
+            "https://anisearch.com/anime/4976",
+            "https://anisearch.com/anime/5373",
+            "https://anisearch.com/anime/5784",
+            "https://anisearch.com/anime/7671",
+            "https://anisearch.com/anime/8815",
+            "https://anisearch.com/anime/8816",
             "https://kitsu.io/anime/6196",
             "https://livechart.me/anime/3647",
             "https://livechart.me/anime/3904",
@@ -9338,6 +9353,7 @@
             "comedy",
             "kuudere",
             "parody",
+            "present",
             "school",
             "school life"
         ],
@@ -9381,42 +9397,6 @@
             "parody",
             "present",
             "satire"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/8463"
-        ],
-        "title": "Sayonara Zetsubou Sensei: Nanmage",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/8/8463.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/8/8463.webp",
-        "synonyms": [
-            "Sayonara Zetsubou Sensei Special Omake",
-            "Sayonara Zetsubō Sensei: Nanmage",
-            "さよなら絶望先生 なんまげ"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/4273",
-            "https://anisearch.com/anime/4590",
-            "https://anisearch.com/anime/4976",
-            "https://anisearch.com/anime/5373",
-            "https://anisearch.com/anime/5784",
-            "https://anisearch.com/anime/7671",
-            "https://anisearch.com/anime/8815",
-            "https://anisearch.com/anime/8816"
-        ],
-        "tags": [
-            "comedy",
-            "parody",
-            "present",
-            "school"
         ],
         "date": {
             "season": "winter",

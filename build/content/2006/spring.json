@@ -3934,44 +3934,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/4457"
-        ],
-        "title": "Kidou Senshi Gundam SEED Destiny: Kudakareta Sekai",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/10799.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/10799.jpg-thumb.jpg",
-        "synonyms": [
-            "GSD SE I",
-            "GSD Special Edition I",
-            "Gundam Seed Destiny - The Shattered World",
-            "Kidou Senshi Gundam SEED Destiny Special Edition I: Kudakareta Sekai",
-            "Mobile Suit Gundam SEED DESTINY Special Edition I: The Broken World",
-            "機動戦士ガンダムSDESTINY 砕かれた世界",
-            "機動戦士ガンダムSEED DESTINY スペシャルエディション 砕かれた世界",
-            "機動戦士ガンダムSEED DESTINY 砕かれた世界"
-        ],
-        "relations": [
-            "https://anidb.net/anime/2186",
-            "https://anidb.net/anime/4466"
-        ],
-        "tags": [
-            "action",
-            "genetic modification",
-            "mecha",
-            "new",
-            "piloted robot",
-            "science fiction",
-            "shounen"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2006
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/4237",
             "https://anilist.co/anime/1516",
             "https://anime-planet.com/anime/kirarin-revolution",
@@ -4851,6 +4813,61 @@
             "space",
             "super robots",
             "war"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2006
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/4457",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-i-the-broken-world"
+        ],
+        "title": "Mobile Suit Gundam SEED Destiny Special Edition I: The Broken World",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/mobile-suit-gundam-seed-destiny-special-edition-i-the-broken-world-1.jpg?t=1625886478",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/mobile-suit-gundam-seed-destiny-special-edition-i-the-broken-world-1-190x270.jpg?t=1625886478",
+        "synonyms": [
+            "GSD SE I",
+            "GSD Special Edition I",
+            "Gundam Seed Destiny - The Shattered World",
+            "Kidou Senshi Gundam SEED Destiny Special Edition I: Kudakareta Sekai",
+            "Kidou Senshi Gundam SEED Destiny: Kudakareta Sekai",
+            "Mobile Suit Gundam SEED DESTINY Special Edition I: The Broken World",
+            "機動戦士ガンダムSDESTINY 砕かれた世界",
+            "機動戦士ガンダムSEED DESTINY スペシャルエディション 砕かれた世界",
+            "機動戦士ガンダムSEED DESTINY 砕かれた世界"
+        ],
+        "relations": [
+            "https://anidb.net/anime/2186",
+            "https://anidb.net/anime/4466",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-after-phase-in-the-valley-of-stars",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-ce73-stargazer",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-character-theater",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-final-plus-the-chosen-future",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-ii-respective-swords",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-iii-the-hell-fire-of-destiny",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-iv-the-cost-of-freedom",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-i-the-empty-battlefield",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-ii-the-far-away-dawn",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-iii-the-rumbling-sky",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-msv-astray"
+        ],
+        "tags": [
+            "action",
+            "genetic modification",
+            "mecha",
+            "new",
+            "piloted robot",
+            "real robot",
+            "sci fi",
+            "science fiction",
+            "shounen"
         ],
         "date": {
             "season": "spring",
@@ -5839,34 +5856,6 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/6859"
-        ],
-        "title": "REC: Yurusarezaru Mono",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/6/6859.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/6/6859.webp",
-        "synonyms": [
-            "REC Episode 7.5",
-            "REC Special",
-            "REC: The Unforgiven",
-            "レック 許されざる者"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/1681"
-        ],
-        "tags": [
-            "present",
-            "romance"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2006
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/4049",
             "https://anilist.co/anime/919",
             "https://anime-planet.com/anime/ray-the-animation",
@@ -5943,6 +5932,7 @@
         "sources": [
             "https://anilist.co/anime/1847",
             "https://anime-planet.com/anime/rec-special",
+            "https://anisearch.com/anime/6859",
             "https://kitsu.io/anime/1664",
             "https://livechart.me/anime/5016",
             "https://myanimelist.net/anime/1847",
@@ -5955,7 +5945,10 @@
         "picture": "https://cdn.myanimelist.net/images/anime/8/34619.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/8/34619t.jpg",
         "synonyms": [
+            "REC Episode 7.5",
             "REC Special",
+            "REC: The Unforgiven",
+            "REC: Yurusarezaru Mono",
             "Rec Episode 7.5",
             "Rec Special",
             "Rec: The Unforgiven",
@@ -5965,6 +5958,7 @@
         "relations": [
             "https://anilist.co/anime/710",
             "https://anime-planet.com/anime/rec",
+            "https://anisearch.com/anime/1681",
             "https://kitsu.io/anime/644",
             "https://myanimelist.net/anime/710",
             "https://notify.moe/anime/8XHA5KimR"
@@ -5976,6 +5970,7 @@
             "drama",
             "male protagonist",
             "mature romance",
+            "present",
             "primarily adult cast",
             "romance",
             "seinen",

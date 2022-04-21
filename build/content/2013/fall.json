@@ -3776,6 +3776,7 @@
     {
         "sources": [
             "https://anilist.co/anime/126645",
+            "https://anime-planet.com/anime/isobe-isobee-monogatari-ukiyo-wa-tsurai-yo",
             "https://anisearch.com/anime/9372",
             "https://kitsu.io/anime/10190",
             "https://livechart.me/anime/8914",
@@ -3796,6 +3797,7 @@
         ],
         "relations": [
             "https://anilist.co/anime/21448",
+            "https://anime-planet.com/anime/isobe-isobee-with-nakata-yasutaka-de-sourou",
             "https://kitsu.io/anime/11496",
             "https://kitsu.io/anime/13117",
             "https://myanimelist.net/anime/31903",
@@ -3804,8 +3806,15 @@
             "https://notify.moe/anime/VodG2KmmR"
         ],
         "tags": [
+            "based on a manga",
             "comedy",
-            "historical"
+            "episodic",
+            "flash animation",
+            "historical",
+            "samurai",
+            "short episodes",
+            "shounen",
+            "slice of life"
         ],
         "date": {
             "season": "fall",
@@ -7155,6 +7164,7 @@
     {
         "sources": [
             "https://anidb.net/anime/11458",
+            "https://anilist.co/anime/137895",
             "https://anime-planet.com/anime/mirai-koushi-harima-sacla",
             "https://anisearch.com/anime/9261",
             "https://kitsu.io/anime/8435",
@@ -7170,7 +7180,9 @@
         "synonyms": [
             "Future Photon Harima Sakura",
             "Mirai Koshi: Harima SACLA",
+            "Mirai Koushi SACLA: Harima Sakura",
             "Mirai Kōshi Harima SACLA",
+            "未来光子 SACLA 播磨サクラ",
             "未来光子 播磨サクラ"
         ],
         "relations": [
@@ -7187,13 +7199,15 @@
             "https://notify.moe/anime/dZpotFmmg"
         ],
         "tags": [
+            "henshin",
             "music",
             "promotional",
             "sci fi",
             "sci-fi",
             "science fiction",
             "science-fiction",
-            "shorts"
+            "shorts",
+            "space"
         ],
         "date": {
             "season": "fall",
@@ -11657,6 +11671,7 @@
         "sources": [
             "https://anilist.co/anime/20450",
             "https://anime-planet.com/anime/teekyuu-2-specials",
+            "https://anisearch.com/anime/9319",
             "https://kitsu.io/anime/8078",
             "https://livechart.me/anime/4644",
             "https://myanimelist.net/anime/21201",
@@ -11671,8 +11686,11 @@
         "synonyms": [
             "Te-kyu 2 Specials",
             "Te-kyuu 2 Specials",
+            "Teekyuu 2: TV Mihousou Tokuten Anime",
             "Tekyuu 2 Specials",
+            "Tēkyū 2: TV Mihōsō Tokuten Anime",
             "てーきゅう 2",
+            "てーきゅう 2 TV未放送特典アニメ",
             "てーきゅう2"
         ],
         "relations": [
@@ -11694,6 +11712,23 @@
             "https://anime-planet.com/anime/teekyuu-8-specials",
             "https://anime-planet.com/anime/teekyuu-9",
             "https://anime-planet.com/anime/usakame",
+            "https://anisearch.com/anime/10042",
+            "https://anisearch.com/anime/10080",
+            "https://anisearch.com/anime/10369",
+            "https://anisearch.com/anime/10675",
+            "https://anisearch.com/anime/10799",
+            "https://anisearch.com/anime/11000",
+            "https://anisearch.com/anime/11076",
+            "https://anisearch.com/anime/11683",
+            "https://anisearch.com/anime/12415",
+            "https://anisearch.com/anime/14556",
+            "https://anisearch.com/anime/14557",
+            "https://anisearch.com/anime/14558",
+            "https://anisearch.com/anime/14559",
+            "https://anisearch.com/anime/663",
+            "https://anisearch.com/anime/8003",
+            "https://anisearch.com/anime/9062",
+            "https://anisearch.com/anime/9367",
             "https://kitsu.io/anime/7718",
             "https://livechart.me/anime/1327",
             "https://livechart.me/anime/1505",
@@ -11721,54 +11756,8 @@
             "school club",
             "school life",
             "shounen",
-            "slice of life",
-            "sports",
-            "tennis"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/9319"
-        ],
-        "title": "Teekyuu 2: TV Mihousou Tokuten Anime",
-        "type": "special",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/9/9319.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/9/9319.webp",
-        "synonyms": [
-            "Te-kyu 2 Specials",
-            "Teekyuu 2 Specials",
-            "Tēkyū 2: TV Mihōsō Tokuten Anime",
-            "てーきゅう 2 TV未放送特典アニメ"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/10042",
-            "https://anisearch.com/anime/10080",
-            "https://anisearch.com/anime/10369",
-            "https://anisearch.com/anime/10675",
-            "https://anisearch.com/anime/10799",
-            "https://anisearch.com/anime/11000",
-            "https://anisearch.com/anime/11076",
-            "https://anisearch.com/anime/11683",
-            "https://anisearch.com/anime/12415",
-            "https://anisearch.com/anime/14556",
-            "https://anisearch.com/anime/14557",
-            "https://anisearch.com/anime/14558",
-            "https://anisearch.com/anime/14559",
-            "https://anisearch.com/anime/663",
-            "https://anisearch.com/anime/8003",
-            "https://anisearch.com/anime/9062",
-            "https://anisearch.com/anime/9367"
-        ],
-        "tags": [
-            "comedy",
-            "school",
             "slapstick",
+            "slice of life",
             "sports",
             "tennis"
         ],

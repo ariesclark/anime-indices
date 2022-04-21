@@ -3831,44 +3831,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/4905"
-        ],
-        "title": "Kidou Senshi Gundam SEED Destiny: Jiyuu no Daishou",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/11652.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/11652.jpg-thumb.jpg",
-        "synonyms": [
-            "GSD SE IV",
-            "GSD Special Edition IV",
-            "Gundam Seed Destiny - Price of Freedom",
-            "Kidou Senshi Gundam SEED Destiny Special Edition Kanketsuhen: Jiyuu no Daishou",
-            "Mobile Suit Gundam SEED DESTINY Special Edition IV: The Cost of Freedom",
-            "機動戦士ガンダムSDESTINY 自由の代償",
-            "機動戦士ガンダムSEED DESTINY スペシャルエディション完結編 自由の代償",
-            "機動戦士ガンダムSEED DESTINY 自由の代償"
-        ],
-        "relations": [
-            "https://anidb.net/anime/2186",
-            "https://anidb.net/anime/4758"
-        ],
-        "tags": [
-            "action",
-            "genetic modification",
-            "mecha",
-            "new",
-            "piloted robot",
-            "science fiction",
-            "shounen"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2007
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/kimi-to-no-tadashii-yakusoku",
             "https://kitsu.io/anime/12995",
             "https://myanimelist.net/anime/34694",
@@ -4809,6 +4771,62 @@
             "video game",
             "virtual reality",
             "virtual world"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/4905",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-iv-the-cost-of-freedom"
+        ],
+        "title": "Mobile Suit Gundam SEED Destiny Special Edition IV: The Cost of Freedom",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/mobile-suit-gundam-seed-destiny-special-edition-iv-the-cost-of-freedom-1.jpg?t=1625886478",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/mobile-suit-gundam-seed-destiny-special-edition-iv-the-cost-of-freedom-1-190x268.jpg?t=1625886478",
+        "synonyms": [
+            "GSD SE IV",
+            "GSD Special Edition IV",
+            "Gundam Seed Destiny - Price of Freedom",
+            "Kidou Senshi Gundam SEED Destiny Special Edition Kanketsu Hen: Jiyuu no Daishou",
+            "Kidou Senshi Gundam SEED Destiny Special Edition Kanketsuhen: Jiyuu no Daishou",
+            "Kidou Senshi Gundam SEED Destiny: Jiyuu no Daishou",
+            "Mobile Suit Gundam SEED DESTINY Special Edition IV: The Cost of Freedom",
+            "機動戦士ガンダムSDESTINY 自由の代償",
+            "機動戦士ガンダムSEED DESTINY スペシャルエディション完結編 自由の代償",
+            "機動戦士ガンダムSEED DESTINY 自由の代償"
+        ],
+        "relations": [
+            "https://anidb.net/anime/2186",
+            "https://anidb.net/anime/4758",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-after-phase-in-the-valley-of-stars",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-ce73-stargazer",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-character-theater",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-final-plus-the-chosen-future",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-i-the-broken-world",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-ii-respective-swords",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-iii-the-hell-fire-of-destiny",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-i-the-empty-battlefield",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-ii-the-far-away-dawn",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-iii-the-rumbling-sky",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-msv-astray"
+        ],
+        "tags": [
+            "action",
+            "genetic modification",
+            "mecha",
+            "new",
+            "piloted robot",
+            "real robot",
+            "sci fi",
+            "science fiction",
+            "shounen"
         ],
         "date": {
             "season": "winter",

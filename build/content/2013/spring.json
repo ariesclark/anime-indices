@@ -9152,6 +9152,7 @@
         "sources": [
             "https://anilist.co/anime/121754",
             "https://anime-planet.com/anime/show-by-rock-legend-of-shingan-crimsonz",
+            "https://anisearch.com/anime/10151",
             "https://kitsu.io/anime/11151",
             "https://livechart.me/anime/8176",
             "https://myanimelist.net/anime/31072",
@@ -9168,7 +9169,9 @@
             "SHOW BY ROCK!!: Legend of Shingan Crimsonz",
             "Show By Rock!! Legend of Shingan Crimsonz",
             "Show by Rock!! レジェンド・オブ・シンガンクリムゾンズ",
-            "Show by Rock!!: Legend of Shingan Crimsonz"
+            "Show by Rock!!: Gonna be a music millionaire!",
+            "Show by Rock!!: Legend of Shingan Crimsonz",
+            "Show by Rock!!: Legend of Shingancrimsonz"
         ],
         "relations": [
             "https://anilist.co/anime/20843",
@@ -9202,6 +9205,7 @@
         "sources": [
             "https://anilist.co/anime/121755",
             "https://anime-planet.com/anime/show-by-rock-plasmagica-na-gogo",
+            "https://anisearch.com/anime/10152",
             "https://kitsu.io/anime/11152",
             "https://livechart.me/anime/8179",
             "https://myanimelist.net/anime/31073",
@@ -9219,7 +9223,10 @@
             "SHOW BY ROCK!! プラズマジカな午後",
             "SHOW BY ROCK!!: Plasmagica na Gogo",
             "Show By Rock!! Plasmagica na Gogo",
-            "Show by Rock!! プラズマジカな午後"
+            "Show by Rock!! プラズマジカな午後",
+            "Show by Rock!!: Gonna be a music millionaire!",
+            "Show by Rock!!: Plasmagica Afternoon",
+            "Show by Rock!!: Plasmagica Afternōn"
         ],
         "relations": [
             "https://anilist.co/anime/20843",
@@ -9240,53 +9247,6 @@
             "comedy",
             "music",
             "short episodes"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/10151"
-        ],
-        "title": "Show by Rock!!: Legend of Shingancrimsonz",
-        "type": "ona",
-        "episodes": 3,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/10/10151.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/10/10151.webp",
-        "synonyms": [
-            "Show by Rock!! レジェンド・オブ・シンガンクリムゾンズ",
-            "Show by Rock!!: Gonna be a music millionaire!"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/10152"
-        ],
-        "title": "Show by Rock!!: Plasmagica Afternoon",
-        "type": "ona",
-        "episodes": 3,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/10/10152.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/10/10152.webp",
-        "synonyms": [
-            "Show by Rock!! プラズマジカな午後",
-            "Show by Rock!!: Gonna be a music millionaire!",
-            "Show by Rock!!: Plasmagica Afternōn"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy"
         ],
         "date": {
             "season": "spring",
@@ -10436,6 +10396,7 @@
     {
         "sources": [
             "https://anilist.co/anime/20899",
+            "https://anime-planet.com/anime/toukiden-the-age-of-demons-pv",
             "https://anisearch.com/anime/9380",
             "https://kitsu.io/anime/8439",
             "https://livechart.me/anime/7351",
@@ -10451,22 +10412,29 @@
         "synonyms": [
             "Toukiden",
             "Toukiden Introduction Anime",
+            "Toukiden PV",
             "Toukiden: The Age of Demons Introduction Anime",
+            "Toukiden: The Age of Demons PV",
             "Toukiden:The Age of Demons",
             "Tōkiden",
             "討鬼伝"
         ],
         "relations": [
             "https://anilist.co/anime/20898",
+            "https://anime-planet.com/anime/toukiden-2",
+            "https://anime-planet.com/anime/toukiden-kiwami",
             "https://kitsu.io/anime/9102",
             "https://myanimelist.net/anime/25873",
             "https://notify.moe/anime/EnVatFmig"
         ],
         "tags": [
             "action",
+            "based on a video game",
             "demon",
             "demons",
-            "mythology"
+            "fantasy",
+            "mythology",
+            "promotional"
         ],
         "date": {
             "season": "spring",
@@ -10783,6 +10751,7 @@
         "sources": [
             "https://anidb.net/anime/10633",
             "https://anilist.co/anime/18205",
+            "https://anime-planet.com/anime/world-fool-news-2013",
             "https://anisearch.com/anime/8821",
             "https://kitsu.io/anime/8527",
             "https://myanimelist.net/anime/24437",
@@ -10795,12 +10764,15 @@
         "picture": "https://cdn.myanimelist.net/images/anime/6/63067.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/6/63067t.jpg",
         "synonyms": [
+            "World Fool News (2013)",
             "World Fool News (Web)",
             "ワールド フールニュース"
         ],
         "relations": [
             "https://anidb.net/anime/10685",
             "https://anilist.co/anime/98552",
+            "https://anime-planet.com/anime/world-fool-news",
+            "https://anime-planet.com/anime/world-fool-news-part-ii",
             "https://anisearch.com/anime/12392",
             "https://anisearch.com/anime/9767",
             "https://kitsu.io/anime/8448",
@@ -10808,38 +10780,15 @@
             "https://notify.moe/anime/WpcApKmig"
         ],
         "tags": [
-            "comedy",
-            "daily life",
-            "new",
-            "present",
-            "slice of life"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/world-fool-news-2013"
-        ],
-        "title": "World Fool News (2013)",
-        "type": "ona",
-        "episodes": 6,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/world-fool-news-2013-1.jpg?t=1625896571",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/world-fool-news-2013-1-190x285.jpg?t=1625896571",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/world-fool-news",
-            "https://anime-planet.com/anime/world-fool-news-part-ii"
-        ],
-        "tags": [
             "anime bancho",
             "comedy",
             "coworkers",
+            "daily life",
             "journalism",
+            "new",
+            "present",
             "short episodes",
+            "slice of life",
             "work life"
         ],
         "date": {

@@ -9065,6 +9065,7 @@
         "sources": [
             "https://anilist.co/anime/97951",
             "https://anime-planet.com/anime/myriad-colors-phantom-world-limitless-phantom-world",
+            "https://anisearch.com/anime/11546",
             "https://kitsu.io/anime/12128",
             "https://livechart.me/anime/4250",
             "https://myanimelist.net/anime/33164",
@@ -9078,14 +9079,19 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/9/79855t.jpg",
         "synonyms": [
             "Musaigen no Phantom World Picture Drama Specials",
+            "Musaigen no Phantom World: Picture Dramas",
+            "Museigen no Phantom World",
             "Myriad Colors Phantom World Picture Drama Specials",
             "Myriad Colors Phantom World: Limitless Phantom World",
+            "無制限のファントム・ワールド",
             "無彩限のファントム・ワールド Limitless Phantom World"
         ],
         "relations": [
             "https://anilist.co/anime/21306",
             "https://anime-planet.com/anime/myriad-colors-phantom-world",
             "https://anime-planet.com/anime/myriad-colors-phantom-world-the-polka-dot-miracle",
+            "https://anisearch.com/anime/10638",
+            "https://anisearch.com/anime/11331",
             "https://kitsu.io/anime/11333",
             "https://kitsu.io/anime/11686",
             "https://livechart.me/anime/1778",
@@ -9096,54 +9102,24 @@
             "https://notify.moe/anime/aLcrpFmiR"
         ],
         "tags": [
-            "based on a light novel",
-            "comedy",
-            "fantasy",
-            "kuudere",
-            "magic",
-            "picture drama",
-            "supernatural"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/11546"
-        ],
-        "title": "Museigen no Phantom World",
-        "type": "special",
-        "episodes": 7,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11546.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11546.webp",
-        "synonyms": [
-            "Musaigen no Phantom World: Limitless Phantom World",
-            "Musaigen no Phantom World: Picture Dramas",
-            "Myriad Colors Phantom World: Limitless Phantom World",
-            "無制限のファントム・ワールド"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/10638",
-            "https://anisearch.com/anime/11331"
-        ],
-        "tags": [
             "action",
+            "based on a light novel",
             "club",
             "comedy",
             "contemporary fantasy",
             "ecchi",
             "episodic",
             "fantasy",
+            "kuudere",
             "magic",
             "monster",
             "nonsense-comedy",
+            "picture drama",
             "present",
             "romance",
             "school",
             "slapstick",
+            "supernatural",
             "verbal comedy"
         ],
         "date": {
@@ -11229,6 +11205,7 @@
         "sources": [
             "https://anilist.co/anime/21891",
             "https://anime-planet.com/anime/re-petit-kara-hajimeru-isekai-seikatsu",
+            "https://anisearch.com/anime/11611",
             "https://kitsu.io/anime/12313",
             "https://livechart.me/anime/4047",
             "https://myanimelist.net/anime/33569",
@@ -11243,7 +11220,11 @@
         "synonyms": [
             "Re:PETIT",
             "Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+            "Re:Puchi kara Hajimeru Isekai Seikatsu",
+            "Re:ZERO - PETIT",
+            "Re:ZERO -Starting Life in Another World- Shorts Petit",
             "Re:ZERO PETIT",
+            "Re:Zero Shorts 2",
             "Re:Zero kara Hajimeru Break Time 2",
             "Re:プチから始める異世界生活"
         ],
@@ -11280,49 +11261,23 @@
             "based on a light novel",
             "chibi",
             "comedy",
+            "demons",
+            "elves",
+            "episodic",
             "fantasy",
             "isekai",
             "maids",
             "male protagonist",
+            "moe",
             "parody",
             "person in a strange world",
+            "present",
             "primarily female cast",
+            "romance",
             "seinen",
             "short episodes",
-            "twins"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/11611"
-        ],
-        "title": "Re:Puchi kara Hajimeru Isekai Seikatsu",
-        "type": "tv",
-        "episodes": 14,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11611.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11611.webp",
-        "synonyms": [
-            "Re:Petit kara Hajimeru Isekai Seikatsu",
-            "Re:ZERO - PETIT",
-            "Re:ZERO -Starting Life in Another World- Shorts Petit",
-            "Re:Zero Shorts 2",
-            "Re:プチから始める異世界生活"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "demons",
-            "elves",
-            "episodic",
-            "moe",
-            "present",
-            "romance",
             "slice of life",
+            "twins",
             "verbal comedy"
         ],
         "date": {
@@ -11896,35 +11851,6 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/11410"
-        ],
-        "title": "Sansha San'you Specials",
-        "type": "special",
-        "episodes": 3,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11410.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11410.webp",
-        "synonyms": [
-            "Sansha San'yō Specials",
-            "Three Leaves, Three Colors OVA",
-            "三者三葉 Specials"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/10737"
-        ],
-        "tags": [
-            "comedy",
-            "high school",
-            "present",
-            "slice of life"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/11568",
             "https://anilist.co/anime/21334",
             "https://anime-planet.com/anime/three-leaves-three-colors",
@@ -11991,6 +11917,7 @@
         "sources": [
             "https://anilist.co/anime/21789",
             "https://anime-planet.com/anime/three-leaves-three-colors-specials",
+            "https://anisearch.com/anime/11410",
             "https://kitsu.io/anime/12082",
             "https://livechart.me/anime/2155",
             "https://myanimelist.net/anime/33173",
@@ -12006,8 +11933,11 @@
             "Dekiru Onna wa Mibunryou",
             "Kinoko wa Karada ni Iindayo",
             "Koukyuu Wanyuu no Shishokukai",
+            "Sansha San'you Specials",
+            "Sansha San'yō Specials",
             "Three Colors Specials",
             "Three Leaves",
+            "Three Leaves, Three Colors OVA",
             "Three Leaves, Three Colors Specials",
             "さんしゃさんよう",
             "三者三葉",
@@ -12016,6 +11946,7 @@
         "relations": [
             "https://anilist.co/anime/21334",
             "https://anime-planet.com/anime/three-leaves-three-colors",
+            "https://anisearch.com/anime/10737",
             "https://kitsu.io/anime/11401",
             "https://livechart.me/anime/1810",
             "https://myanimelist.net/anime/31564",
@@ -12027,6 +11958,8 @@
             "comedy",
             "cute girls doing cute things",
             "female protagonist",
+            "high school",
+            "present",
             "school",
             "school life",
             "seinen",
@@ -13095,6 +13028,7 @@
         "sources": [
             "https://anilist.co/anime/98760",
             "https://anime-planet.com/anime/teekyuu-7-specials",
+            "https://anisearch.com/anime/14558",
             "https://kitsu.io/anime/13114",
             "https://livechart.me/anime/6706",
             "https://myanimelist.net/anime/32817",
@@ -13110,7 +13044,11 @@
             "Te-kyuu 7 Specials",
             "Teekyu 7 Specials",
             "Teekyuu 7 OVA",
+            "Teekyuu 7: TV Mihousou Original Episode Anime",
+            "Teekyuu OVA 11+12",
             "Tekyuu 7 Specials",
+            "Tēkyū 7: TV Mihōsō Original Episode Anime",
+            "てーきゅう 7 ＴＶ未放送オリジナルエピソードアニメ",
             "てーきゅう　7期　ＴＶ未放送オリジナルエピソードアニメ"
         ],
         "relations": [
@@ -13132,6 +13070,23 @@
             "https://anime-planet.com/anime/teekyuu-8-specials",
             "https://anime-planet.com/anime/teekyuu-9",
             "https://anime-planet.com/anime/usakame",
+            "https://anisearch.com/anime/10042",
+            "https://anisearch.com/anime/10080",
+            "https://anisearch.com/anime/10369",
+            "https://anisearch.com/anime/10675",
+            "https://anisearch.com/anime/10799",
+            "https://anisearch.com/anime/11000",
+            "https://anisearch.com/anime/11076",
+            "https://anisearch.com/anime/11683",
+            "https://anisearch.com/anime/12415",
+            "https://anisearch.com/anime/14556",
+            "https://anisearch.com/anime/14557",
+            "https://anisearch.com/anime/14559",
+            "https://anisearch.com/anime/663",
+            "https://anisearch.com/anime/8003",
+            "https://anisearch.com/anime/9062",
+            "https://anisearch.com/anime/9319",
+            "https://anisearch.com/anime/9367",
             "https://kitsu.io/anime/11597",
             "https://livechart.me/anime/1327",
             "https://livechart.me/anime/1505",
@@ -13155,58 +13110,12 @@
             "based on a manga",
             "comedy",
             "gag",
+            "nonsense-comedy",
             "primarily female cast",
             "shounen",
             "slice of life",
             "sports",
             "surreal comedy"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/14558"
-        ],
-        "title": "Teekyuu 7: TV Mihousou Original Episode Anime",
-        "type": "special",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14558.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14558.webp",
-        "synonyms": [
-            "Teekyu 7 Specials",
-            "Teekyuu 7 Specials",
-            "Teekyuu OVA 11+12",
-            "Tekyuu 7 Specials",
-            "Tēkyū 7: TV Mihōsō Original Episode Anime",
-            "てーきゅう 7 ＴＶ未放送オリジナルエピソードアニメ"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/10042",
-            "https://anisearch.com/anime/10080",
-            "https://anisearch.com/anime/10369",
-            "https://anisearch.com/anime/10675",
-            "https://anisearch.com/anime/10799",
-            "https://anisearch.com/anime/11000",
-            "https://anisearch.com/anime/11076",
-            "https://anisearch.com/anime/11683",
-            "https://anisearch.com/anime/12415",
-            "https://anisearch.com/anime/14556",
-            "https://anisearch.com/anime/14557",
-            "https://anisearch.com/anime/14559",
-            "https://anisearch.com/anime/663",
-            "https://anisearch.com/anime/8003",
-            "https://anisearch.com/anime/9062",
-            "https://anisearch.com/anime/9319",
-            "https://anisearch.com/anime/9367"
-        ],
-        "tags": [
-            "comedy",
-            "nonsense-comedy",
-            "sports"
         ],
         "date": {
             "season": "spring",

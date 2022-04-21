@@ -8334,8 +8334,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/17163",
-            "https://anisearch.com/anime/8520",
             "https://kitsu.io/anime/7599",
             "https://livechart.me/anime/7375",
             "https://myanimelist.net/anime/17163",
@@ -8352,16 +8350,6 @@
             "TV Asahi Josei Announcer Collab Kikaku"
         ],
         "relations": [
-            "https://anilist.co/anime/16373",
-            "https://anisearch.com/anime/6016",
-            "https://anisearch.com/anime/6142",
-            "https://anisearch.com/anime/7303",
-            "https://anisearch.com/anime/7304",
-            "https://anisearch.com/anime/7305",
-            "https://anisearch.com/anime/8329",
-            "https://anisearch.com/anime/8502",
-            "https://anisearch.com/anime/8519",
-            "https://anisearch.com/anime/8849",
             "https://kitsu.io/anime/11632",
             "https://kitsu.io/anime/11634",
             "https://kitsu.io/anime/7414",
@@ -8527,6 +8515,7 @@
     {
         "sources": [
             "https://anilist.co/anime/10302",
+            "https://anime-planet.com/anime/pokemon-diamond-and-pearl-specials",
             "https://anisearch.com/anime/10444",
             "https://kitsu.io/anime/6120",
             "https://livechart.me/anime/5878",
@@ -8546,6 +8535,7 @@
             "Pocket Monsters: Diamond & Pearl Tokubetsu-hen",
             "Pokemon Diamond & Pearl Specials",
             "Pokemon: Battle Dimension",
+            "Pokemon: Diamond & Pearl Special",
             "Pokémon Diamond",
             "Pokémon Diamond & Pearl: Battle Dimension",
             "Pokémon Diamond, Pearl & Platinum",
@@ -8556,6 +8546,7 @@
         ],
         "relations": [
             "https://anilist.co/anime/1565",
+            "https://anime-planet.com/anime/pokemon-diamond-and-pearl",
             "https://anisearch.com/anime/10132",
             "https://anisearch.com/anime/10686",
             "https://anisearch.com/anime/10759",
@@ -8652,10 +8643,17 @@
             "action",
             "adventure",
             "alternative world",
+            "based on a video game",
             "comedy",
+            "elemental powers",
+            "episodic",
+            "family friendly",
             "fantasy",
             "kids",
-            "monster"
+            "monster",
+            "monsters",
+            "proxy battles",
+            "shounen"
         ],
         "date": {
             "season": "winter",
@@ -10988,6 +10986,7 @@
         "sources": [
             "https://anidb.net/anime/12216",
             "https://anilist.co/anime/103379",
+            "https://anime-planet.com/anime/timbre-a-to-z",
             "https://anisearch.com/anime/12040",
             "https://kitsu.io/anime/10217",
             "https://myanimelist.net/anime/28591",
@@ -11004,13 +11003,16 @@
         ],
         "relations": [
             "https://anilist.co/anime/110467",
+            "https://anime-planet.com/anime/a-long-day-of-timbre",
             "https://kitsu.io/anime/42860",
             "https://myanimelist.net/anime/38712"
         ],
         "tags": [
+            "abstract",
             "avant garde",
             "independent anime",
-            "music"
+            "music",
+            "short episodes"
         ],
         "date": {
             "season": "winter",
