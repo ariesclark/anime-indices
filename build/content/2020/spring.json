@@ -4575,6 +4575,7 @@
     {
         "sources": [
             "https://anilist.co/anime/118857",
+            "https://anime-planet.com/anime/eve-inochi-no-tabekata",
             "https://anisearch.com/anime/16051",
             "https://kitsu.io/anime/43427",
             "https://myanimelist.net/anime/42076"
@@ -4587,6 +4588,8 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1422/107871t.jpg",
         "synonyms": [
             "Eve - いのちの食べ方",
+            "Eve: How to Eat Life",
+            "Eve: Inochi no Tabekata",
             "How to Devour Life",
             "How to Eat Life",
             "Wie man Leben verschlingt",
@@ -4813,7 +4816,10 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/118125",
             "https://anime-planet.com/anime/dropkick-on-my-devil-dash-chapter-chitose",
+            "https://anisearch.com/anime/15223",
+            "https://kitsu.io/anime/43163",
             "https://livechart.me/anime/9715",
             "https://myanimelist.net/anime/40661",
             "https://notify.moe/anime/-NdFeNeZg"
@@ -4830,13 +4836,25 @@
             "Dropkick on My Devil!! Dash Episodio 12",
             "Dropkick on My Devil!! Dash Épisode 12",
             "Dropkick on My Devil!! Dash: Chapter Chitose",
+            "Dropkick on My Devil!! Dash: Chitose Special",
+            "Jashin-chan Dropkick` Episode 12",
+            "Jashin-chan Dropkick`: Chitose-hen",
+            "Jashin-chan Dropkick’: Chitose-hen",
+            "邪神ちゃんドロップキック`千歳編",
+            "邪神ちゃんドロップキック`第12話",
             "邪神ちゃんドロップキック’ 千歳編",
             "邪神ちゃんドロップキック’千歳編"
         ],
         "relations": [
+            "https://anilist.co/anime/107294",
             "https://anime-planet.com/anime/dropkick-on-my-devil",
             "https://anime-planet.com/anime/dropkick-on-my-devil-dash",
             "https://anime-planet.com/anime/dropkick-on-my-devil-web",
+            "https://anisearch.com/anime/13089",
+            "https://anisearch.com/anime/13929",
+            "https://anisearch.com/anime/14110",
+            "https://anisearch.com/anime/15589",
+            "https://kitsu.io/anime/42126",
             "https://livechart.me/anime/10174",
             "https://livechart.me/anime/10949",
             "https://livechart.me/anime/10950",
@@ -4849,16 +4867,26 @@
             "https://notify.moe/anime/mbWdOLlmR"
         ],
         "tags": [
+            "angel",
             "angels",
             "based on a manga",
             "breaking the fourth wall",
             "comedy",
             "contemporary fantasy",
             "dark comedy",
+            "demon",
             "demons",
             "fantasy",
+            "female protagonist",
             "gag",
+            "gore",
+            "meta",
+            "moe",
+            "monster girl",
             "monster girls",
+            "nonsense-comedy",
+            "present",
+            "primarily female cast",
             "promotional",
             "roommates",
             "seinen",
@@ -4866,7 +4894,9 @@
             "slice of life",
             "supernatural",
             "tourism",
-            "urban fantasy"
+            "urban fantasy",
+            "violence",
+            "working life"
         ],
         "date": {
             "season": "spring",
@@ -4924,54 +4954,6 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/15223",
-            "https://kitsu.io/anime/43163"
-        ],
-        "title": "Jashin-chan Dropkick`: Chitose-hen",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/43163/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/43163/tiny.jpg",
-        "synonyms": [
-            "Dropkick on My Devil!! Dash Episode 12",
-            "Dropkick on My Devil!! Dash: Chapter Chitose",
-            "Dropkick on My Devil!! Dash: Chitose Special",
-            "Jashin-chan Dropkick` Episode 12",
-            "邪神ちゃんドロップキック`千歳編",
-            "邪神ちゃんドロップキック`第12話",
-            "邪神ちゃんドロップキック’千歳編"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/13089",
-            "https://anisearch.com/anime/13929",
-            "https://anisearch.com/anime/14110",
-            "https://anisearch.com/anime/15589",
-            "https://kitsu.io/anime/42126"
-        ],
-        "tags": [
-            "angel",
-            "comedy",
-            "contemporary fantasy",
-            "demon",
-            "demons",
-            "fantasy",
-            "moe",
-            "nonsense-comedy",
-            "present",
-            "seinen",
-            "slice of life",
-            "supernatural",
-            "violence",
-            "working life"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/107294"
         ],
         "title": "Jashin-chan Dropkick’",
@@ -5007,41 +4989,6 @@
             "mythology",
             "primarily female cast",
             "seinen",
-            "slapstick",
-            "slice of life",
-            "supernatural"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/118125"
-        ],
-        "title": "Jashin-chan Dropkick’: Chitose-hen",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118125-7ob1bSjvOMfr.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118125-7ob1bSjvOMfr.jpg",
-        "synonyms": [
-            "Dropkick on My Devil!! Dash: Chapter Chitose",
-            "邪神ちゃんドロップキック’ 千歳編"
-        ],
-        "relations": [
-            "https://anilist.co/anime/107294"
-        ],
-        "tags": [
-            "angels",
-            "comedy",
-            "demons",
-            "female protagonist",
-            "gore",
-            "meta",
-            "monster girl",
-            "primarily female cast",
             "slapstick",
             "slice of life",
             "supernatural"

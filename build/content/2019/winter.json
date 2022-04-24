@@ -4723,6 +4723,7 @@
         "sources": [
             "https://anidb.net/anime/15018",
             "https://anilist.co/anime/108910",
+            "https://anime-planet.com/anime/sou-gusha-no-parade",
             "https://anisearch.com/anime/15946",
             "https://myanimelist.net/anime/50076"
         ],
@@ -4734,12 +4735,16 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1296/118706t.jpg",
         "synonyms": [
             "Parade of Fools",
+            "Sou: Fools' Parade",
+            "Sou: Gusha no Parade",
             "愚者のパレード"
         ],
         "relations": [],
         "tags": [
+            "drama",
             "music",
-            "no dialogue"
+            "no dialogue",
+            "psychological"
         ],
         "date": {
             "season": "winter",
@@ -5350,35 +5355,8 @@
     {
         "sources": [
             "https://anidb.net/anime/14521",
-            "https://anime-planet.com/anime/ikebukuro"
-        ],
-        "title": "Ikebukuro",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/ikebukuro-1.jpg?t=1628301411",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/ikebukuro-1-285x399.jpg?t=1628301411",
-        "synonyms": [
-            "IKEBUKURO",
-            "Ikebukuro PR Anime",
-            "池袋PRアニメ",
-            "池袋PR动画"
-        ],
-        "relations": [],
-        "tags": [
-            "fantasy",
-            "promotional",
-            "shorts",
-            "tourism"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/107668",
+            "https://anime-planet.com/anime/ikebukuro",
             "https://anisearch.com/anime/14049",
             "https://kitsu.io/anime/42708",
             "https://myanimelist.net/anime/38783"
@@ -5390,12 +5368,18 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1280/97009.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1280/97009t.jpg",
         "synonyms": [
-            "池袋PRアニメ"
+            "IKEBUKURO",
+            "Ikebukuro",
+            "池袋PRアニメ",
+            "池袋PR动画"
         ],
         "relations": [],
         "tags": [
             "advertisement",
-            "fantasy"
+            "fantasy",
+            "promotional",
+            "shorts",
+            "tourism"
         ],
         "date": {
             "season": "winter",

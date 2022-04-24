@@ -5219,6 +5219,9 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/20765",
+            "https://anime-planet.com/anime/one-week-friends-kaoris-journal",
+            "https://anisearch.com/anime/9738",
             "https://kitsu.io/anime/8528",
             "https://livechart.me/anime/632",
             "https://myanimelist.net/anime/24821",
@@ -5231,58 +5234,40 @@
         "picture": "https://cdn.myanimelist.net/images/anime/8/69879.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/8/69879t.jpg",
         "synonyms": [
-            "One Week Friends Specials",
-            "One-Week Friends. Specials",
-            "一週間フレンズ。香織の日記"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/8096",
-            "https://livechart.me/anime/314",
-            "https://myanimelist.net/anime/21327",
-            "https://notify.moe/anime/pJX2pKmig"
-        ],
-        "tags": [
-            "school",
-            "school life",
-            "slice of life"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/20765",
-            "https://anisearch.com/anime/9738"
-        ],
-        "title": "Isshuukan Friends.: Kaori no Nikki",
-        "type": "special",
-        "episodes": 11,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/9/9738.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/9/9738.webp",
-        "synonyms": [
             "Isshuukan Friends. Kaori no Nikki",
-            "Isshuukan Friends. Specials",
+            "Isshuukan Friends. Kaori's Journal",
+            "Isshuukan Friends.: Kaori no Nikki",
             "Isshūkan Friends.: Kaori no Nikki",
             "One Week Friends Kaori no Nikki",
             "One Week Friends Specials",
             "One Week Friends.: Kaori's Diary",
             "One Week Friends: Kaori's Journal",
             "One Week Friends: Kaoris Tagebuch",
+            "One-Week Friends. Specials",
             "一週間フレンズ。香織の日記"
         ],
         "relations": [
             "https://anilist.co/anime/20527",
+            "https://anime-planet.com/anime/one-week-friends",
             "https://anisearch.com/anime/10353",
             "https://anisearch.com/anime/12435",
-            "https://anisearch.com/anime/9217"
+            "https://anisearch.com/anime/9217",
+            "https://kitsu.io/anime/8096",
+            "https://livechart.me/anime/314",
+            "https://myanimelist.net/anime/21327",
+            "https://notify.moe/anime/pJX2pKmig"
         ],
         "tags": [
+            "amnesia",
+            "based on a manga",
+            "coming of age",
             "drama",
+            "illness",
             "present",
+            "romance",
             "school",
+            "school life",
+            "shounen",
             "slice of life",
             "slice of life drama"
         ],

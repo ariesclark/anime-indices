@@ -368,40 +368,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/bubblegum-crisis-hurricane-live-2032",
-            "https://anisearch.com/anime/8636"
-        ],
-        "title": "Bubblegum Crisis: Hurricane Live! 2032",
-        "type": "special",
-        "episodes": 6,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/bubblegum-crisis-hurricane-live-2032-1.jpg?t=1625908442",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/bubblegum-crisis-hurricane-live-2032-1-190x270.jpg?t=1625908442",
-        "synonyms": [
-            "Bubblegum Crisis: Hurricane Live! (1988 version)",
-            "バブルガムクライシス Hurricane Live！ 2032"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/bubblegum-crisis",
-            "https://anime-planet.com/anime/bubblegum-crisis-hurricane-live-2033",
-            "https://anisearch.com/anime/1413",
-            "https://anisearch.com/anime/15322",
-            "https://anisearch.com/anime/2246",
-            "https://anisearch.com/anime/260",
-            "https://anisearch.com/anime/57"
-        ],
-        "tags": [
-            "action",
-            "music",
-            "science-fiction"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 1988
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/3219",
             "https://anilist.co/anime/3035",
             "https://anime-planet.com/anime/sonic-soldier-borgman",
@@ -1144,6 +1110,8 @@
     {
         "sources": [
             "https://anilist.co/anime/5043",
+            "https://anime-planet.com/anime/bubblegum-crisis-hurricane-live-2032",
+            "https://anisearch.com/anime/8636",
             "https://kitsu.io/anime/3902",
             "https://myanimelist.net/anime/5043",
             "https://notify.moe/anime/0Osr5Fimg"
@@ -1156,11 +1124,20 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/13/9846t.jpg",
         "synonyms": [
             "Bubblegum Crisis: Hurricane Live! (1988 version)",
-            "バブルガムクライシス Hurricane Live! 2032"
+            "Bubblegum Crisis: Hurricane Live! 2032",
+            "バブルガムクライシス Hurricane Live! 2032",
+            "バブルガムクライシス Hurricane Live！ 2032"
         ],
         "relations": [
             "https://anilist.co/anime/1347",
             "https://anilist.co/anime/5036",
+            "https://anime-planet.com/anime/bubblegum-crisis",
+            "https://anime-planet.com/anime/bubblegum-crisis-hurricane-live-2033",
+            "https://anisearch.com/anime/1413",
+            "https://anisearch.com/anime/15322",
+            "https://anisearch.com/anime/2246",
+            "https://anisearch.com/anime/260",
+            "https://anisearch.com/anime/57",
             "https://kitsu.io/anime/1202",
             "https://kitsu.io/anime/3896",
             "https://myanimelist.net/anime/1347",
@@ -1169,8 +1146,10 @@
             "https://notify.moe/anime/l-_b5Kmmg"
         ],
         "tags": [
+            "action",
             "cyberpunk",
-            "music"
+            "music",
+            "science-fiction"
         ],
         "date": {
             "season": "spring",

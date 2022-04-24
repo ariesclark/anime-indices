@@ -804,6 +804,49 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/15057",
+            "https://anisearch.com/anime/15218",
+            "https://kitsu.io/anime/40773",
+            "https://livechart.me/anime/8982",
+            "https://myanimelist.net/anime/35494",
+            "https://notify.moe/anime/G1kdhFimg"
+        ],
+        "title": "Haha wo Tazunete Sanzenri (Special)",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/9/85537.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/9/85537t.jpg",
+        "synonyms": [
+            "Haha o Tazunete Sanzenri (1985)",
+            "Haha wo Tazunete Sanzenri (1985)",
+            "母をたずねて三千里",
+            "母をたずねて三千里 (1985)",
+            "母をたずねて三千里 （1985）"
+        ],
+        "relations": [
+            "https://anisearch.com/anime/1475",
+            "https://anisearch.com/anime/2478",
+            "https://anisearch.com/anime/3283",
+            "https://anisearch.com/anime/6138",
+            "https://myanimelist.net/anime/1663",
+            "https://myanimelist.net/anime/23585",
+            "https://myanimelist.net/anime/33474",
+            "https://myanimelist.net/anime/45645",
+            "https://myanimelist.net/anime/4926"
+        ],
+        "tags": [
+            "adventure",
+            "drama",
+            "historical"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 1985
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/11707",
             "https://anilist.co/anime/103716",
             "https://anime-planet.com/anime/natural-history",

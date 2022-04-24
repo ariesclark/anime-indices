@@ -1353,8 +1353,13 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/6291",
             "https://anime-planet.com/anime/full-metal-panic-the-second-raid-episode-00",
-            "https://myanimelist.net/anime/6291"
+            "https://anisearch.com/anime/8792",
+            "https://kitsu.io/anime/4510",
+            "https://livechart.me/anime/4464",
+            "https://myanimelist.net/anime/6291",
+            "https://notify.moe/anime/Lq9q5Fimg"
         ],
         "title": "Full Metal Panic! The Second Raid Episode 00",
         "type": "special",
@@ -1363,54 +1368,24 @@
         "picture": "https://cdn.myanimelist.net/images/anime/9/45048.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/9/45048t.jpg",
         "synonyms": [
+            "Full Metal Panic! The Second Raid Episode 000",
             "Full Metal Panic! The Second Raid Pre-festival: Night of the Light Novel",
             "Full Metal Panic! The Second Raid: Episode 00",
+            "Full Metal Panic! The Second Raid: Zenyasai - Scene 00",
+            "Fullmetal Panic! The Second Raid Episode 000",
+            "フルメタル パニック！ The Second Raid Episode 000",
+            "フルメタル パニック！The Second Raid",
+            "フルメタル パニック！The Second Raid 前夜祭 Scene00",
             "フルメタル パニック！The Second Raid 前夜祭「Scene00」"
         ],
         "relations": [
+            "https://anilist.co/anime/71",
+            "https://anilist.co/anime/73",
             "https://anime-planet.com/anime/full-metal-panic",
             "https://anime-planet.com/anime/full-metal-panic-fumoffu",
             "https://anime-planet.com/anime/full-metal-panic-invisible-victory",
             "https://anime-planet.com/anime/full-metal-panic-the-second-raid",
             "https://anime-planet.com/anime/full-metal-panic-the-second-raid-a-relatively-leisurely-day-in-the-life-of-a-fleet-captain",
-            "https://myanimelist.net/anime/71",
-            "https://myanimelist.net/anime/73"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "based on a light novel",
-            "mecha",
-            "military",
-            "real robot",
-            "shounen",
-            "war"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2005
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/8792",
-            "https://kitsu.io/anime/4510",
-            "https://livechart.me/anime/4464",
-            "https://notify.moe/anime/Lq9q5Fimg"
-        ],
-        "title": "Full Metal Panic! The Second Raid Episode 000",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/4510/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/4510/tiny.jpg",
-        "synonyms": [
-            "Full Metal Panic! The Second Raid Pre-festival: Night of the Light Novel",
-            "Fullmetal Panic! The Second Raid Episode 000",
-            "フルメタル パニック！ The Second Raid Episode 000",
-            "フルメタル パニック！The Second Raid"
-        ],
-        "relations": [
             "https://anisearch.com/anime/10974",
             "https://anisearch.com/anime/12815",
             "https://anisearch.com/anime/13609",
@@ -1428,46 +1403,22 @@
             "https://livechart.me/anime/3701",
             "https://livechart.me/anime/3738",
             "https://livechart.me/anime/4020",
+            "https://myanimelist.net/anime/71",
+            "https://myanimelist.net/anime/73",
             "https://notify.moe/anime/I4KtcFmiR",
             "https://notify.moe/anime/RYKpcKmig"
         ],
         "tags": [
             "action",
             "adventure",
-            "mecha",
-            "military",
-            "science-fiction"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2005
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/6291"
-        ],
-        "title": "Full Metal Panic! The Second Raid: Zenyasai - Scene 00",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6291-L4tafRNxmM44.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6291-L4tafRNxmM44.png",
-        "synonyms": [
-            "Full Metal Panic! The Second Raid Episode 00",
-            "Full Metal Panic! The Second Raid Pre-festival: Night of the Light Novel",
-            "フルメタル パニック！The Second Raid 前夜祭 Scene00"
-        ],
-        "relations": [
-            "https://anilist.co/anime/71",
-            "https://anilist.co/anime/73"
-        ],
-        "tags": [
-            "action",
-            "adventure",
+            "based on a light novel",
             "kuudere",
             "mecha",
-            "military"
+            "military",
+            "real robot",
+            "science-fiction",
+            "shounen",
+            "war"
         ],
         "date": {
             "season": "summer",

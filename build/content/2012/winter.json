@@ -4699,6 +4699,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/20897",
             "https://kitsu.io/anime/8893",
             "https://livechart.me/anime/8844",
             "https://myanimelist.net/anime/24123",
@@ -4714,9 +4715,11 @@
             "Aim for the Top! Gunbuster Science Lesson Returns",
             "Gunbuster New Science Lessons",
             "Science Course Return",
+            "Top wo Nerae! Gunbuster Science Lesson Returns",
             "帰ってきた トップをねらえ! 科学講座"
         ],
         "relations": [
+            "https://anilist.co/anime/118640",
             "https://kitsu.io/anime/4108",
             "https://kitsu.io/anime/841",
             "https://myanimelist.net/anime/5462",
@@ -4725,10 +4728,13 @@
             "https://notify.moe/anime/HcS15FmmR"
         ],
         "tags": [
+            "chibi",
             "comedy",
+            "educational",
             "mecha",
             "sci-fi",
-            "science fiction"
+            "science fiction",
+            "space"
         ],
         "date": {
             "season": "winter",
@@ -11697,35 +11703,6 @@
             "drama",
             "psychological",
             "shorts"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/20897"
-        ],
-        "title": "Top wo Nerae! Gunbuster Science Lesson Returns",
-        "type": "special",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20897-VxYADJjYRs7R.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20897-VxYADJjYRs7R.png",
-        "synonyms": [
-            "帰ってきた トップをねらえ! 科学講座"
-        ],
-        "relations": [
-            "https://anilist.co/anime/118640"
-        ],
-        "tags": [
-            "chibi",
-            "comedy",
-            "educational",
-            "mecha",
-            "sci-fi",
-            "space"
         ],
         "date": {
             "season": "winter",
