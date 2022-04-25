@@ -6455,51 +6455,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/14562",
-            "https://anilist.co/anime/107874",
-            "https://anime-planet.com/anime/kangoku-jikken",
-            "https://anisearch.com/anime/14066"
-        ],
-        "title": "Kangoku Jikken",
-        "type": "special",
-        "episodes": 20,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/kangoku-jikken-1.jpg?t=1625898913",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kangoku-jikken-1-190x285.jpg?t=1625898913",
-        "synonyms": [
-            "Prison Experiment",
-            "Prison Lab",
-            "Prison Lab (プリズンラボ-)",
-            "監獄実験",
-            "監獄実験 -プリズンラボ-",
-            "監獄実験〈プリズンラボ〉"
-        ],
-        "relations": [],
-        "tags": [
-            "based on a manga",
-            "drama",
-            "high school",
-            "high stakes games",
-            "horror",
-            "kidnapping",
-            "manga",
-            "mystery",
-            "present",
-            "psychological",
-            "psychological drama",
-            "revenge",
-            "seinen",
-            "short episodes",
-            "supernatural drama",
-            "vertical anime"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/13755",
             "https://myanimelist.net/anime/38031"
         ],
@@ -9774,6 +9729,10 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/14562",
+            "https://anilist.co/anime/107874",
+            "https://anime-planet.com/anime/kangoku-jikken",
+            "https://anisearch.com/anime/14066",
             "https://kitsu.io/anime/42086",
             "https://livechart.me/anime/8360",
             "https://myanimelist.net/anime/38902",
@@ -9787,13 +9746,31 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1192/97875t.jpg",
         "synonyms": [
             "Kangoku Jikken",
+            "Prison Experiment",
+            "Prison Lab (プリズンラボ-)",
+            "監獄実験",
+            "監獄実験 -プリズンラボ-",
             "監獄実験-プリズンラボ-",
             "監獄実験〈プリズンラボ〉"
         ],
         "relations": [],
         "tags": [
+            "based on a manga",
+            "drama",
+            "high school",
+            "high stakes games",
             "horror",
-            "psychological"
+            "kidnapping",
+            "manga",
+            "mystery",
+            "present",
+            "psychological",
+            "psychological drama",
+            "revenge",
+            "seinen",
+            "short episodes",
+            "supernatural drama",
+            "vertical anime"
         ],
         "date": {
             "season": "fall",
@@ -10348,36 +10325,10 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/14425",
+            "https://anime-planet.com/anime/road-to-you-hoshifuruoka-no-yakusoku",
             "https://anisearch.com/anime/13932",
             "https://livechart.me/anime/3546"
-        ],
-        "title": "Road to You: Hoshi Furu Oka no Yakusoku",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/13/13932.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/13/13932.webp",
-        "synonyms": [
-            "ROAD TO YOU ~星降る丘の約束~",
-            "ROAD TO YOU ～星降る丘の約束～",
-            "Road to You: The Promise on the Hill That the Star Falls"
-        ],
-        "relations": [
-            "https://livechart.me/anime/2911"
-        ],
-        "tags": [
-            "drama",
-            "present"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/14425",
-            "https://anime-planet.com/anime/road-to-you-hoshifuruoka-no-yakusoku"
         ],
         "title": "Road to You: Hoshifuruoka no Yakusoku",
         "type": "special",
@@ -10387,66 +10338,23 @@
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/road-to-you-hoshifuruoka-no-yakusoku-1-190x269.jpg?t=1625898731",
         "synonyms": [
             "ROAD TO YOU ~星降る丘の約束~",
-            "Road to You: Hoshi Furu Oka no Yakusoku"
+            "ROAD TO YOU ～星降る丘の約束～",
+            "Road to You: Hoshi Furu Oka no Yakusoku",
+            "Road to You: The Promise on the Hill That the Star Falls"
         ],
         "relations": [
             "https://anidb.net/anime/13496",
             "https://anidb.net/anime/15119",
             "https://anime-planet.com/anime/road-to-you-kimi-e-to-tsuzuku-michi",
-            "https://anime-planet.com/anime/road-to-you-kioku-ni-mau-konayuki"
+            "https://anime-planet.com/anime/road-to-you-kioku-ni-mau-konayuki",
+            "https://livechart.me/anime/2911"
         ],
         "tags": [
             "astronomy",
             "drama",
+            "present",
             "promotional",
             "shorts"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16697",
-            "https://anilist.co/anime/124204",
-            "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao",
-            "https://myanimelist.net/anime/47628"
-        ],
-        "title": "Ruguo Lishi Shi Yiqun Miao",
-        "type": "ona",
-        "episodes": 13,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "Ruguo Lishi Shi Yi Qun Miao (5)",
-            "Ruguo Lishi Shi Yi Qun Miao 5",
-            "Ruguo Lishi Shi Yi Qun Miao: Luanshi San Guo Pian",
-            "When History Meows",
-            "When History Meows 5",
-            "When History Meows: The War of The Three Kingdoms",
-            "如果历史是一群喵 (5)",
-            "如果历史是一群喵 乱世三国篇",
-            "如果历史是一群喵 第5季",
-            "如果历史是一群喵 第五季"
-        ],
-        "relations": [
-            "https://anidb.net/anime/16696",
-            "https://anidb.net/anime/16698",
-            "https://anilist.co/anime/115905",
-            "https://anilist.co/anime/131649",
-            "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao-2"
-        ],
-        "tags": [
-            "animal protagonists",
-            "animals",
-            "anthropomorphic",
-            "cats",
-            "chinese animation",
-            "comedy",
-            "historical",
-            "short episodes"
         ],
         "date": {
             "season": "fall",
@@ -12007,82 +11915,10 @@
     {
         "sources": [
             "https://anidb.net/anime/13843",
-            "https://anisearch.com/anime/13689"
-        ],
-        "title": "Souten no Ken: Regenesis (2018)",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/13/13689.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/13/13689.webp",
-        "synonyms": [
-            "Fist of the Blue Sky: Regenesis (2018)",
-            "Fist of the Blue Sky: Regenesis (Season 2)",
-            "Fist of the Blue Sky: Regenesis (Temporada 2)",
-            "Ken il Guerriero: Le origini del mito - Regenesis (Stagione 2)",
-            "Souten no Ken Re-Genesis (2018)",
-            "Souten no Ken Regenesis (Saison 2)",
-            "Sōten no Ken: Regenesis (2018)",
-            "蒼天の拳 REGENESIS (2018)",
-            "蒼天の拳 REGENESIS （2018）",
-            "蒼天之拳 REGENESIS"
-        ],
-        "relations": [
-            "https://anidb.net/anime/13540",
-            "https://anidb.net/anime/386",
-            "https://anisearch.com/anime/12949",
-            "https://anisearch.com/anime/3053"
-        ],
-        "tags": [
-            "action",
-            "cg-anime",
-            "historical",
-            "martial arts"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/102860",
-            "https://kitsu.io/anime/41953"
-        ],
-        "title": "Souten no Ken: Regenesis 2",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/41953/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/41953/tiny.jpg",
-        "synonyms": [
-            "Fist of the Blue Sky: Regenesis 2",
-            "Souten no Ken: REGENESIS 2",
-            "蒼天の拳 REGENESIS 第2期",
-            "蒼天の拳REGENESIS 2"
-        ],
-        "relations": [
-            "https://anilist.co/anime/100408",
-            "https://anilist.co/anime/967",
-            "https://kitsu.io/anime/13983",
-            "https://kitsu.io/anime/857"
-        ],
-        "tags": [
-            "action",
-            "full cgi",
-            "historical",
-            "mafia",
-            "martial arts",
-            "war"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/fist-of-the-blue-sky-regenesis-2nd-season",
+            "https://anisearch.com/anime/13689",
+            "https://kitsu.io/anime/41953",
             "https://livechart.me/anime/3341",
             "https://myanimelist.net/anime/37388",
             "https://notify.moe/anime/J165FvAmg"
@@ -12094,14 +11930,37 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1002/93814.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1002/93814t.jpg",
         "synonyms": [
+            "Fist of the Blue Sky: Regenesis (2018)",
+            "Fist of the Blue Sky: Regenesis (Season 2)",
+            "Fist of the Blue Sky: Regenesis (Temporada 2)",
+            "Fist of the Blue Sky: Regenesis 2",
             "Fist of the Blue Sky: Regenesis 2nd Season",
+            "Ken il Guerriero: Le origini del mito - Regenesis (Stagione 2)",
+            "Souten no Ken Re-Genesis (2018)",
+            "Souten no Ken Regenesis (Saison 2)",
+            "Souten no Ken: REGENESIS 2",
+            "Souten no Ken: Regenesis (2018)",
+            "Souten no Ken: Regenesis 2",
+            "Sōten no Ken: Regenesis (2018)",
+            "蒼天の拳 REGENESIS (2018)",
             "蒼天の拳 REGENESIS 第2期",
-            "蒼天の拳REGENESIS 2クール目"
+            "蒼天の拳 REGENESIS （2018）",
+            "蒼天の拳REGENESIS 2",
+            "蒼天の拳REGENESIS 2クール目",
+            "蒼天之拳 REGENESIS"
         ],
         "relations": [
+            "https://anidb.net/anime/13540",
+            "https://anidb.net/anime/386",
+            "https://anilist.co/anime/100408",
+            "https://anilist.co/anime/967",
             "https://anime-planet.com/anime/fist-of-the-blue-sky",
             "https://anime-planet.com/anime/fist-of-the-blue-sky-regenesis",
             "https://anime-planet.com/anime/fist-of-the-blue-sky-specials",
+            "https://anisearch.com/anime/12949",
+            "https://anisearch.com/anime/3053",
+            "https://kitsu.io/anime/13983",
+            "https://kitsu.io/anime/857",
             "https://livechart.me/anime/2955",
             "https://myanimelist.net/anime/36655",
             "https://myanimelist.net/anime/967"
@@ -12110,9 +11969,13 @@
             "action",
             "based on a manga",
             "cg animation",
+            "cg-anime",
+            "full cgi",
             "hand to hand combat",
             "historical",
-            "martial arts"
+            "mafia",
+            "martial arts",
+            "war"
         ],
         "date": {
             "season": "fall",
@@ -14556,6 +14419,8 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/14673",
+            "https://anilist.co/anime/101789",
             "https://anime-planet.com/anime/wo-shi-jiang-xiaobai-2nd-season",
             "https://anisearch.com/anime/14194",
             "https://livechart.me/anime/8352",
@@ -14571,11 +14436,17 @@
             "I'm Joybo 2nd Season",
             "I'm Joybo Season 2",
             "I'm Joybo: Words From My Heart",
+            "I`m Joybo 2nd Season",
             "Wo Shi Jiang Xiao Bai Di Er Ji",
+            "Wo Shi Jiang Xiaobai 2",
+            "Wo Shi Jiang Xiaobai Di Er Ji",
+            "Wo Shi Jiang Xiaobai: You Hua Dui Ni Shuo",
             "我是江小白 第二季",
             "我是江小白：有话对你说"
         ],
         "relations": [
+            "https://anidb.net/anime/14674",
+            "https://anilist.co/anime/101550",
             "https://anime-planet.com/anime/wo-shi-jiang-xiaobai",
             "https://anime-planet.com/anime/wo-shi-jiang-xiaobai-ova",
             "https://anisearch.com/anime/13241",
@@ -14591,29 +14462,6 @@
             "romance",
             "slice of life"
         ],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/14673"
-        ],
-        "title": "Wo Shi Jiang Xiaobai Di Er Ji",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/229999.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/229999.jpg-thumb.jpg",
-        "synonyms": [
-            "I`m Joybo 2nd Season",
-            "我是江小白 第二季"
-        ],
-        "relations": [
-            "https://anidb.net/anime/14674"
-        ],
-        "tags": [],
         "date": {
             "season": "fall",
             "year": 2018

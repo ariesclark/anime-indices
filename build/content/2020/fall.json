@@ -10684,6 +10684,8 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16697",
+            "https://anilist.co/anime/124204",
             "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao-5",
             "https://myanimelist.net/anime/51153"
         ],
@@ -10695,11 +10697,21 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1143/121176t.jpg",
         "synonyms": [
             "History Cats 5th Season",
+            "Ruguo Lishi Shi Yi Qun Miao (5)",
+            "Ruguo Lishi Shi Yi Qun Miao 5",
+            "Ruguo Lishi Shi Yi Qun Miao: Luanshi San Guo Pian",
             "Ruguo Lishi Shi Yiqun Miao 5",
             "When History Meows 5",
+            "When History Meows: The War of The Three Kingdoms",
+            "如果历史是一群喵 (5)",
+            "如果历史是一群喵 乱世三国篇",
             "如果历史是一群喵 第五季"
         ],
         "relations": [
+            "https://anidb.net/anime/16696",
+            "https://anidb.net/anime/16698",
+            "https://anilist.co/anime/115905",
+            "https://anilist.co/anime/131649",
             "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao-4",
             "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao-6",
             "https://myanimelist.net/anime/47626",
@@ -10707,6 +10719,7 @@
         ],
         "tags": [
             "animal protagonists",
+            "animals",
             "anthropomorphic",
             "cats",
             "chinese animation",
@@ -11343,29 +11356,7 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16753"
-        ],
-        "title": "Shu Ling Ji (2020)",
-        "type": "ona",
-        "episodes": 40,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/265241.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/265241.jpg-thumb.jpg",
-        "synonyms": [
-            "书灵记 (2020)",
-            "书灵记 第二季"
-        ],
-        "relations": [
-            "https://anidb.net/anime/16752"
-        ],
-        "tags": [],
-        "date": {
-            "season": "fall",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
+            "https://anidb.net/anime/16753",
             "https://anilist.co/anime/127996",
             "https://anime-planet.com/anime/shu-ling-ji-2nd-season",
             "https://kitsu.io/anime/45309",
@@ -11378,10 +11369,13 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1433/116712.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1433/116712t.jpg",
         "synonyms": [
+            "Shu Ling Ji (2020)",
             "Shu Ling Ji 2",
+            "书灵记 (2020)",
             "书灵记 第二季"
         ],
         "relations": [
+            "https://anidb.net/anime/16752",
             "https://anilist.co/anime/119945",
             "https://anime-planet.com/anime/shu-ling-ji",
             "https://kitsu.io/anime/45307",

@@ -3919,9 +3919,13 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/12411",
+            "https://anime-planet.com/anime/un-go-inga-nikki",
+            "https://anisearch.com/anime/9362",
             "https://kitsu.io/anime/6725",
             "https://livechart.me/anime/5449",
-            "https://myanimelist.net/anime/12411"
+            "https://myanimelist.net/anime/12411",
+            "https://notify.moe/anime/ZrhHpFmig"
         ],
         "title": "Inga Nikki",
         "type": "ona",
@@ -3933,14 +3937,23 @@
             "UN-GO: Inga Nikki",
             "UN-GO: Inga's Diary",
             "UN-GO因果日記",
+            "Un-Go: Inga Nikki",
+            "Un-Go: Inga Nikki Shorts",
             "因果日記"
         ],
         "relations": [
+            "https://anilist.co/anime/10798",
+            "https://anime-planet.com/anime/un-go",
+            "https://anime-planet.com/anime/un-go-chapter-of-inga",
             "https://kitsu.io/anime/6353",
-            "https://myanimelist.net/anime/10798"
+            "https://myanimelist.net/anime/10798",
+            "https://notify.moe/anime/MCUVpFmmR"
         ],
         "tags": [
-            "parody"
+            "chibi",
+            "comedy",
+            "parody",
+            "short episodes"
         ],
         "date": {
             "season": "fall",
@@ -5614,42 +5627,7 @@
             "https://anidb.net/anime/8906",
             "https://anilist.co/anime/12755",
             "https://anime-planet.com/anime/mahou-tsukai-jiji",
-            "https://anisearch.com/anime/7612"
-        ],
-        "title": "Mahou Tsukai Jiji",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/mahou-tsukai-jiji-1.jpg?t=1625896342",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/mahou-tsukai-jiji-1-190x233.jpg?t=1625896342",
-        "synonyms": [
-            "Der Zauberopa",
-            "Mahō Tsukai Jiji",
-            "The Magic gramps",
-            "まほうつかいじじぃ"
-        ],
-        "relations": [],
-        "tags": [
-            "coming of age",
-            "contemporary fantasy",
-            "daily life",
-            "drama",
-            "fantasy",
-            "magic",
-            "mina",
-            "music",
-            "present",
-            "shorts",
-            "slice of life",
-            "slice of life drama"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
+            "https://anisearch.com/anime/7612",
             "https://kitsu.io/anime/6804",
             "https://livechart.me/anime/8424",
             "https://myanimelist.net/anime/12755",
@@ -5662,16 +5640,27 @@
         "picture": "https://cdn.myanimelist.net/images/anime/9/35793.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/9/35793t.jpg",
         "synonyms": [
+            "Der Zauberopa",
+            "Mahou Tsukai Jiji",
+            "Mahō Tsukai Jiji",
+            "The Magic gramps",
             "まほうつかいじじぃ"
         ],
         "relations": [],
         "tags": [
+            "coming of age",
+            "contemporary fantasy",
+            "daily life",
+            "drama",
             "fantasy",
             "japan",
             "magic",
+            "mina",
             "music",
             "present",
-            "slice of life"
+            "shorts",
+            "slice of life",
+            "slice of life drama"
         ],
         "date": {
             "season": "fall",
@@ -10195,42 +10184,6 @@
             "twisted story",
             "urban",
             "war"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/12411",
-            "https://anime-planet.com/anime/un-go-inga-nikki",
-            "https://anisearch.com/anime/9362",
-            "https://notify.moe/anime/ZrhHpFmig"
-        ],
-        "title": "Un-Go: Inga Nikki",
-        "type": "ona",
-        "episodes": 10,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/un-go-inga-nikki-1.jpg?t=1625896500",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/un-go-inga-nikki-1-190x266.jpg?t=1625896500",
-        "synonyms": [
-            "UN-GO: Inga Nikki",
-            "UN-GO: Inga's Diary",
-            "UN-GO因果日記",
-            "Un-Go: Inga Nikki Shorts"
-        ],
-        "relations": [
-            "https://anilist.co/anime/10798",
-            "https://anime-planet.com/anime/un-go",
-            "https://anime-planet.com/anime/un-go-chapter-of-inga",
-            "https://notify.moe/anime/MCUVpFmmR"
-        ],
-        "tags": [
-            "chibi",
-            "comedy",
-            "parody",
-            "short episodes"
         ],
         "date": {
             "season": "fall",

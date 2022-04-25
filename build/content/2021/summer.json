@@ -2966,28 +2966,23 @@
         "sources": [
             "https://anilist.co/anime/137102",
             "https://anime-planet.com/anime/fire-emblem-heroes-book-ii-chibi-playhouse",
-            "https://kitsu.io/anime/44939",
-            "https://myanimelist.net/anime/49771"
+            "https://kitsu.io/anime/44939"
         ],
-        "title": "Fire Emblem Heroes: Chibi Playhouse",
+        "title": "Fire Emblem Heroes: Book II - Chibi Playhouse",
         "type": "ona",
-        "episodes": 2,
+        "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1247/117557.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1247/117557t.jpg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/fire-emblem-heroes-book-ii-chibi-playhouse-1.webp?t=1634181179",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/fire-emblem-heroes-book-ii-chibi-playhouse-1-285x400.webp?t=1634181179",
         "synonyms": [
             "FE Heroes",
             "FEH",
             "Fire Emblem Heroes - Book II - Chibi Playhouse",
-            "Fire Emblem Heroes - Holiday - Chibi Playhouse",
-            "Fire Emblem Heroes: Book II - Chibi Playhouse",
             "Fire Emblem Heroes: Part 2 - Mini Chara Theater",
-            "ファイアーエムブレム ヒーローズ",
             "ファイアーエムブレム ヒーローズ 第2部 ミニキャラシアター"
         ],
         "relations": [
-            "https://kitsu.io/anime/45462",
-            "https://myanimelist.net/anime/43565"
+            "https://kitsu.io/anime/45462"
         ],
         "tags": [
             "adventure",
@@ -2997,11 +2992,39 @@
             "fantasy",
             "fantasy world",
             "no dialogue",
-            "parody",
             "promotional",
             "shorts",
             "super deformed",
             "tanned skin"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/49771"
+        ],
+        "title": "Fire Emblem Heroes: Chibi Playhouse",
+        "type": "ona",
+        "episodes": 2,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1247/117557.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1247/117557t.jpg",
+        "synonyms": [
+            "Fire Emblem Heroes - Holiday - Chibi Playhouse",
+            "Fire Emblem Heroes: Book II - Chibi Playhouse",
+            "Fire Emblem Heroes: Part 2 - Mini Chara Theater",
+            "ファイアーエムブレム ヒーローズ"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/43565"
+        ],
+        "tags": [
+            "comedy",
+            "fantasy",
+            "parody"
         ],
         "date": {
             "season": "summer",
@@ -3924,36 +3947,6 @@
             "slice of life",
             "sports",
             "team sports"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/hamefura-catarina-nounai-kaigi-x"
-        ],
-        "title": "HameFura: Catarina Nounai Kaigi X",
-        "type": "ona",
-        "episodes": 23,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/hamefura-catarina-nounai-kaigi-x-1.webp?t=1628219611",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/hamefura-catarina-nounai-kaigi-x-1-285x399.webp?t=1628219611",
-        "synonyms": [
-            "HameFura: Catarina's Brain Conference X"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/hamefura-catarina-nounai-kaigi",
-            "https://anime-planet.com/anime/my-next-life-as-a-villainess-all-routes-lead-to-doom-x"
-        ],
-        "tags": [
-            "based on a light novel",
-            "chibi",
-            "comedy",
-            "fantasy",
-            "short episodes",
-            "villainess"
         ],
         "date": {
             "season": "summer",
@@ -12910,41 +12903,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/137075"
-        ],
-        "title": "VOY@GER",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137075-EW0wiADgbSlk.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137075-EW0wiADgbSlk.jpg",
-        "synonyms": [
-            "THE IDOLM@STER Series Concept Movie 2021",
-            "アイドルマスターシリーズ コンセプトムービー2021"
-        ],
-        "relations": [
-            "https://anilist.co/anime/10278",
-            "https://anilist.co/anime/120755",
-            "https://anilist.co/anime/20693",
-            "https://anilist.co/anime/98310"
-        ],
-        "tags": [
-            "augmented reality",
-            "crossover",
-            "dancing",
-            "ensemble cast",
-            "idol",
-            "music",
-            "sci-fi",
-            "space"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/16174",
             "https://anilist.co/anime/131646",
             "https://anime-planet.com/anime/the-case-study-of-vanitas",
@@ -13086,6 +13044,7 @@
     {
         "sources": [
             "https://anidb.net/anime/16551",
+            "https://anilist.co/anime/137075",
             "https://anime-planet.com/anime/voyager",
             "https://anisearch.com/anime/16558",
             "https://myanimelist.net/anime/49661"
@@ -13097,6 +13056,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1692/117344.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1692/117344t.jpg",
         "synonyms": [
+            "THE IDOLM@STER Series Concept Movie 2021",
             "The Idolmaster Series Concept Movie 2021",
             "The iDOLM@STER Series Concept Movie 2021",
             "VOY@GER",
@@ -13108,6 +13068,10 @@
             "https://anidb.net/anime/12820",
             "https://anidb.net/anime/15625",
             "https://anidb.net/anime/8218",
+            "https://anilist.co/anime/10278",
+            "https://anilist.co/anime/120755",
+            "https://anilist.co/anime/20693",
+            "https://anilist.co/anime/98310",
             "https://anime-planet.com/anime/the-idolmaster",
             "https://anime-planet.com/anime/the-idolmaster-cinderella-girls",
             "https://anime-planet.com/anime/the-idolmaster-million-live",
@@ -13118,12 +13082,18 @@
             "https://myanimelist.net/anime/42385"
         ],
         "tags": [
+            "augmented reality",
             "based on a video game",
+            "crossover",
+            "dancing",
+            "ensemble cast",
+            "idol",
             "idols",
             "music",
             "sci-fi",
             "science-fiction",
-            "showbiz"
+            "showbiz",
+            "space"
         ],
         "date": {
             "season": "summer",
@@ -13249,50 +13219,6 @@
             "manga",
             "martial arts",
             "supernatural"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16493",
-            "https://anilist.co/anime/122630",
-            "https://kitsu.io/anime/44086",
-            "https://notify.moe/anime/kRIc7FeGg"
-        ],
-        "title": "Xi Xing Ji Season 3",
-        "type": "ona",
-        "episodes": 20,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44086/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44086/tiny.jpg",
-        "synonyms": [
-            "The Westward",
-            "The Westward 3",
-            "Xi Xing Ji 3",
-            "Xixing Ji 3",
-            "Xixing Ji Suming Pian",
-            "Xixing Ji: Suming Pian",
-            "西行纪 第三季",
-            "西行纪之宿命篇",
-            "西行纪动画 第三季"
-        ],
-        "relations": [
-            "https://anidb.net/anime/15039",
-            "https://anilist.co/anime/114560",
-            "https://anilist.co/anime/137736",
-            "https://kitsu.io/anime/43010",
-            "https://notify.moe/anime/Iqm3_MMGR"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "fantasy",
-            "full cgi",
-            "historical",
-            "martial arts"
         ],
         "date": {
             "season": "summer",
@@ -13584,44 +13510,6 @@
             "romance",
             "swords & co",
             "xianxia"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/xixing-ji-3rd-season",
-            "https://livechart.me/anime/10125"
-        ],
-        "title": "Xixing Ji 3rd Season",
-        "type": "ona",
-        "episodes": 20,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/xixing-ji-3rd-season-1.jpg?t=1625909050",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/xixing-ji-3rd-season-1-190x266.jpg?t=1625909050",
-        "synonyms": [
-            "The Westward",
-            "The Westward 3rd Season",
-            "西行纪之宿命篇"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/xixing-ji-2nd-season",
-            "https://anime-planet.com/anime/xixing-ji-4th-season",
-            "https://livechart.me/anime/10123",
-            "https://livechart.me/anime/10124",
-            "https://livechart.me/anime/10126"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "based on a manga",
-            "cg animation",
-            "chinese animation",
-            "fantasy",
-            "historical",
-            "martial arts"
         ],
         "date": {
             "season": "summer",

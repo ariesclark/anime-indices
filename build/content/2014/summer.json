@@ -2268,7 +2268,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/11649",
             "https://anisearch.com/anime/11082",
             "https://kitsu.io/anime/42651"
         ],
@@ -2278,14 +2277,10 @@
         "status": "finished",
         "picture": "https://media.kitsu.io/anime/poster_images/42651/small.jpg",
         "thumbnail": "https://media.kitsu.io/anime/poster_images/42651/tiny.jpg",
-        "synonyms": [
-            "°",
-            "○"
-        ],
+        "synonyms": [],
         "relations": [],
         "tags": [
-            "anime influenced",
-            "short movie"
+            "anime influenced"
         ],
         "date": {
             "season": "summer",
@@ -7527,6 +7522,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/mobile-suit-gundam-san-web",
             "https://kitsu.io/anime/12100",
             "https://livechart.me/anime/7703",
             "https://myanimelist.net/anime/33225",
@@ -7540,9 +7536,11 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/12/79831t.jpg",
         "synonyms": [
             "Gundam-san",
+            "Mobile Suit Gundam-san (Web)",
             "機動戦士ガンダムさん"
         ],
         "relations": [
+            "https://anime-planet.com/anime/mobile-suit-gundam-san",
             "https://livechart.me/anime/3938",
             "https://livechart.me/anime/4607",
             "https://livechart.me/anime/4659",
@@ -7561,9 +7559,11 @@
             "https://myanimelist.net/anime/24835"
         ],
         "tags": [
+            "chibi",
             "comedy",
             "mecha",
-            "parody"
+            "parody",
+            "sci fi"
         ],
         "date": {
             "season": "summer",

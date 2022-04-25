@@ -5826,6 +5826,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/hamefura-catarina-nounai-kaigi-x",
             "https://anisearch.com/anime/16894",
             "https://livechart.me/anime/10934",
             "https://myanimelist.net/anime/49501",
@@ -5838,12 +5839,16 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1722/116827.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1722/116827t.jpg",
         "synonyms": [
+            "HameFura: Catarina Nounai Kaigi X",
+            "HameFura: Catarina's Brain Conference X",
             "Katarina Nōnai Kaigi X",
             "Katarina's Brain Conference X",
             "Katarina’s Brain Conference X",
             "カタリナ脳内会議Ｘ"
         ],
         "relations": [
+            "https://anime-planet.com/anime/hamefura-catarina-nounai-kaigi",
+            "https://anime-planet.com/anime/my-next-life-as-a-villainess-all-routes-lead-to-doom-x",
             "https://anisearch.com/anime/13946",
             "https://anisearch.com/anime/15346",
             "https://anisearch.com/anime/16329",
@@ -5858,9 +5863,14 @@
             "https://notify.moe/anime/dJWg3xGnR"
         ],
         "tags": [
+            "based on a light novel",
+            "chibi",
             "comedy",
+            "fantasy",
             "isekai",
-            "reincarnation"
+            "reincarnation",
+            "short episodes",
+            "villainess"
         ],
         "date": {
             "season": "spring",
@@ -9215,31 +9225,44 @@
     {
         "sources": [
             "https://anidb.net/anime/16698",
-            "https://anilist.co/anime/131649"
+            "https://anilist.co/anime/131649",
+            "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao-6",
+            "https://myanimelist.net/anime/50293"
         ],
-        "title": "Ruguo Lishi Shi Yi Qun Miao 6",
+        "title": "Ruguo Lishi Shi Yiqun Miao 6th Season",
         "type": "ona",
         "episodes": 13,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131649-7O67z6Z5Tw50.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131649-7O67z6Z5Tw50.png",
+        "picture": "https://cdn.myanimelist.net/images/anime/1230/119173.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1230/119173t.jpg",
         "synonyms": [
             "Ruguo Lishi Shi Yi Qun Miao (6)",
+            "Ruguo Lishi Shi Yi Qun Miao 6",
             "Ruguo Lishi Shi Yi Qun Miao: Weijin Nanbeichao Pian",
+            "Ruguo Lishi Shi Yiqun Miao 6",
             "When History Meows 6",
             "When History Meows: Wei-Jin and the Northern and Southern Dynasties",
             "如果历史是一群喵 (6)",
             "如果历史是一群喵 两晋南北篇",
+            "如果历史是一群喵 第6季",
             "如果历史是一群喵 第六季",
             "如果历史是一群喵 魏晋南北朝篇"
         ],
         "relations": [
             "https://anidb.net/anime/16697",
             "https://anilist.co/anime/124204",
-            "https://anilist.co/anime/139434"
+            "https://anilist.co/anime/139434",
+            "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao-5",
+            "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao-7",
+            "https://myanimelist.net/anime/47628"
         ],
         "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "cats",
+            "chinese animation",
             "comedy",
+            "historical",
             "short episodes"
         ],
         "date": {
@@ -11183,7 +11206,9 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/129222",
             "https://anime-planet.com/anime/taiyi-xianmo-lu-zhi-ling-fei-ji-4th-season",
+            "https://kitsu.io/anime/45286",
             "https://livechart.me/anime/10643",
             "https://myanimelist.net/anime/48873",
             "https://notify.moe/anime/M5-Bo2jGR"
@@ -11196,14 +11221,20 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1916/114701t.jpg",
         "synonyms": [
             "Magical Legend: Rise to Immortality",
+            "Magical Legend: Rise to Immortality 4",
             "Magical Legend: Rise to Immortality 4th Season",
             "Magical Legend: Rise to Immortality IV",
             "Tai Yi Xian Mo Lu Zhi Ling Fei Ji 4th Season",
+            "Tai Yi Xian Mo Lu: Ling Fei Ji 4",
             "Taiyi Xianmo Lu Zhi Ling Fei Ji 4th Season",
-            "太乙仙魔录之灵飞纪IV"
+            "太乙仙魔录之灵飞纪 第4季",
+            "太乙仙魔录之灵飞纪IV",
+            "太乙仙魔录之灵飞纪Ⅳ"
         ],
         "relations": [
+            "https://anilist.co/anime/129221",
             "https://anime-planet.com/anime/taiyi-xianmo-lu-di-si-ji-sansheng-qingjie-zai-ta-xiantu",
+            "https://kitsu.io/anime/45285",
             "https://myanimelist.net/anime/45040",
             "https://notify.moe/anime/i0i8K9aMg"
         ],
@@ -11214,44 +11245,10 @@
             "cg animation",
             "chinese animation",
             "fantasy",
+            "full cgi",
             "historical",
             "martial arts",
             "original work"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/129222",
-            "https://kitsu.io/anime/45286"
-        ],
-        "title": "Tai Yi Xian Mo Lu: Ling Fei Ji 4",
-        "type": "ona",
-        "episodes": 0,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45286/poster_image/small-31bbe4afc9b9a81f8a20b59673adb09a.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45286/poster_image/tiny-02858cb20e76b633d749bd964e0f4dd3.jpeg",
-        "synonyms": [
-            "Magical Legend: Rise to Immortality 4",
-            "Tai Yi Xian Mo Lu Zhi Ling Fei Ji 4th Season",
-            "太乙仙魔录之灵飞纪 第4季",
-            "太乙仙魔录之灵飞纪IV",
-            "太乙仙魔录之灵飞纪Ⅳ"
-        ],
-        "relations": [
-            "https://anilist.co/anime/129221",
-            "https://kitsu.io/anime/45285"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "fantasy",
-            "full cgi",
-            "historical",
-            "martial arts"
         ],
         "date": {
             "season": "spring",
@@ -12936,7 +12933,13 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/49098"
+            "https://anidb.net/anime/16493",
+            "https://anilist.co/anime/122630",
+            "https://anime-planet.com/anime/xixing-ji-3rd-season",
+            "https://kitsu.io/anime/44086",
+            "https://livechart.me/anime/10125",
+            "https://myanimelist.net/anime/49098",
+            "https://notify.moe/anime/kRIc7FeGg"
         ],
         "title": "Xi Xing Ji: Suming Pian",
         "type": "ona",
@@ -12945,17 +12948,40 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1166/115424.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1166/115424t.jpg",
         "synonyms": [
+            "The Westward",
             "The Westward 3",
+            "The Westward 3rd Season",
             "Xi Xing Ji 3",
-            "西行纪之宿命篇"
+            "Xi Xing Ji Season 3",
+            "Xixing Ji 3",
+            "Xixing Ji 3rd Season",
+            "Xixing Ji Suming Pian",
+            "Xixing Ji: Suming Pian",
+            "西行纪 第三季",
+            "西行纪之宿命篇",
+            "西行纪动画 第三季"
         ],
         "relations": [
-            "https://myanimelist.net/anime/41215"
+            "https://anidb.net/anime/15039",
+            "https://anilist.co/anime/114560",
+            "https://anilist.co/anime/137736",
+            "https://anime-planet.com/anime/xixing-ji-2nd-season",
+            "https://anime-planet.com/anime/xixing-ji-4th-season",
+            "https://kitsu.io/anime/43010",
+            "https://livechart.me/anime/10123",
+            "https://livechart.me/anime/10124",
+            "https://livechart.me/anime/10126",
+            "https://myanimelist.net/anime/41215",
+            "https://notify.moe/anime/Iqm3_MMGR"
         ],
         "tags": [
             "action",
             "adventure",
+            "based on a manga",
+            "cg animation",
+            "chinese animation",
             "fantasy",
+            "full cgi",
             "historical",
             "martial arts"
         ],

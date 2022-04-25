@@ -5323,6 +5323,7 @@
     {
         "sources": [
             "https://anidb.net/anime/13770",
+            "https://anisearch.com/anime/13298",
             "https://kitsu.io/anime/41474",
             "https://notify.moe/anime/-1bk3XyiR"
         ],
@@ -5338,11 +5339,17 @@
         ],
         "relations": [
             "https://anidb.net/anime/15371",
+            "https://anisearch.com/anime/14881",
+            "https://anisearch.com/anime/15386",
+            "https://anisearch.com/anime/15449",
             "https://kitsu.io/anime/42939",
             "https://notify.moe/anime/kjU9fWPZg"
         ],
         "tags": [
-            "comedy"
+            "cg-anime",
+            "comedy",
+            "demons",
+            "kemonomimi"
         ],
         "date": {
             "season": "spring",
@@ -8613,81 +8620,11 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/13791"
-        ],
-        "title": "Meshi Numa.",
-        "type": "ona",
-        "episodes": 20,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/13/13791.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/13/13791.webp",
-        "synonyms": [
-            "めしぬま。"
-        ],
-        "relations": [],
-        "tags": [
-            "present",
-            "slice of life",
-            "vertical anime"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/14089",
-            "https://anime-planet.com/anime/meshi-numa"
-        ],
-        "title": "Meshi Numa.",
-        "type": "special",
-        "episodes": 20,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/meshi-numa-1.jpg?t=1625898218",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/meshi-numa-1-190x285.jpg?t=1625898218",
-        "synonyms": [
-            "めしぬま."
-        ],
-        "relations": [],
-        "tags": [
-            "based on a manga",
-            "food and beverage",
-            "josei",
-            "short episodes"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/41322"
-        ],
-        "title": "Meshinuma.",
-        "type": "ona",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/41322/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/41322/tiny.jpg",
-        "synonyms": [
-            "めしぬま。"
-        ],
-        "relations": [],
-        "tags": [
-            "cooking",
-            "seinen",
-            "slice of life"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/108534",
+            "https://anime-planet.com/anime/meshi-numa",
+            "https://anisearch.com/anime/13791",
+            "https://kitsu.io/anime/41322",
             "https://livechart.me/anime/3266",
             "https://myanimelist.net/anime/37904",
             "https://notify.moe/anime/LCjoJNDiR"
@@ -8700,16 +8637,25 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1299/94348t.jpg",
         "synonyms": [
             "Meshi Numa",
+            "Meshi Numa.",
+            "めしぬま.",
             "めしぬま。"
         ],
         "relations": [],
         "tags": [
+            "based on a manga",
+            "cooking",
             "food",
+            "food and beverage",
             "gourmet",
+            "josei",
             "male protagonist",
+            "present",
             "primarily adult cast",
             "seinen",
-            "slice of life"
+            "short episodes",
+            "slice of life",
+            "vertical anime"
         ],
         "date": {
             "season": "spring",
@@ -8899,6 +8845,8 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/monster-strike-the-animation-trouble-in-monster-strike",
+            "https://anisearch.com/anime/13717",
             "https://kitsu.io/anime/41499",
             "https://livechart.me/anime/8552",
             "https://myanimelist.net/anime/38024",
@@ -8911,13 +8859,25 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1014/93215.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1014/93215t.jpg",
         "synonyms": [
+            "Monster Strike Season 4 Episode 0",
             "Monster Strike The Animation Episodio 0",
             "Monster Strike The Animation Folge 0",
             "Monster Strike The Animation Épisode 0 Annonce",
+            "Monster Strike The Animation: Monster no Kiki",
+            "Monster Strike The Animation: Trouble in Monster Strike",
+            "Monster Strike the Animation: Trouble in Monster Strike",
             "Trouble in Monster Strike",
-            "モンスターストライク The Animation"
+            "モンスターストライク The Animation",
+            "モンスターストライク The Animation モンストの危機"
         ],
         "relations": [
+            "https://anime-planet.com/anime/monster-strike-2nd-season",
+            "https://anime-planet.com/anime/monster-strike-a-rhapsody-called-lucy-the-very-first-song",
+            "https://anime-planet.com/anime/monster-strike-an-encore-and-continuance-pandoras-box",
+            "https://anime-planet.com/anime/monster-strike-the-animation",
+            "https://anime-planet.com/anime/monster-strike-the-fading-cosmos",
+            "https://anime-planet.com/anime/monster-strike-the-long-awaited-utopia",
+            "https://anisearch.com/anime/13715",
             "https://kitsu.io/anime/41498",
             "https://myanimelist.net/anime/36246",
             "https://myanimelist.net/anime/38022",
@@ -8926,36 +8886,14 @@
         ],
         "tags": [
             "action",
+            "based on a mobile game",
+            "cg animation",
+            "cg-anime",
             "fantasy",
             "fantasy world",
             "game",
+            "monsters",
             "video game"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/13717"
-        ],
-        "title": "Monster Strike The Animation: Monster no Kiki",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/13/13717.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/13/13717.webp",
-        "synonyms": [
-            "Monster Strike Season 4 Episode 0",
-            "Monster Strike The Animation: Trouble in Monster Strike",
-            "モンスターストライク The Animation モンストの危機"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/13715"
-        ],
-        "tags": [
-            "cg-anime"
         ],
         "date": {
             "season": "spring",
