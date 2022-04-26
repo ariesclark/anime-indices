@@ -119,6 +119,7 @@
         "relations": [
             "https://anidb.net/anime/12366",
             "https://anime-planet.com/anime/the-glass-mask-year-3-class-d",
+            "https://anisearch.com/anime/11730",
             "https://myanimelist.net/anime/1974",
             "https://myanimelist.net/anime/33975"
         ],
@@ -354,8 +355,6 @@
             "https://anime-planet.com/anime/a-channel-plus-smile",
             "https://anime-planet.com/anime/a-channel-specials",
             "https://anisearch.com/anime/6585",
-            "https://anisearch.com/anime/7148",
-            "https://anisearch.com/anime/7252",
             "https://livechart.me/anime/1239",
             "https://livechart.me/anime/1562",
             "https://livechart.me/anime/2639",
@@ -876,6 +875,7 @@
         "relations": [],
         "tags": [
             "based on a manga",
+            "bullying",
             "comedy",
             "coming of age",
             "dancing",
@@ -4095,6 +4095,7 @@
             "based on a light novel",
             "comedy",
             "drama",
+            "e-sports",
             "football",
             "game",
             "ganbatte",
@@ -6197,7 +6198,9 @@
             "異世界はスマートフォンとともに。",
             "이세계는 스마트폰과 함께"
         ],
-        "relations": [],
+        "relations": [
+            "https://anime-planet.com/anime/in-another-world-with-my-smartphone-2"
+        ],
         "tags": [
             "action",
             "adventure",
@@ -6782,6 +6785,7 @@
             "Kakegurui: Das Leben ist ein Spiel",
             "Kakegurui: Spiele ohne Grenzen",
             "Kakegurui: Szał hazardu",
+            "Безумный Азарт",
             "Безумный азарт",
             "קאקגורוי",
             "โคตรเซียนโรงเรียนพนัน",
@@ -7666,6 +7670,7 @@
             "https://anilist.co/anime/101501",
             "https://anime-planet.com/anime/love-and-lies-ova",
             "https://kitsu.io/anime/41253",
+            "https://livechart.me/anime/3209",
             "https://myanimelist.net/anime/37711",
             "https://notify.moe/anime/-scEk37ig"
         ],
@@ -8243,7 +8248,6 @@
     {
         "sources": [
             "https://kitsu.io/anime/12503",
-            "https://livechart.me/anime/6847",
             "https://notify.moe/anime/wF8k2KmmR"
         ],
         "title": "Locker Room",
@@ -8285,6 +8289,28 @@
         "tags": [
             "adventure",
             "comedy"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/47579"
+        ],
+        "title": "Long Qi Shi Episode 0",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1020/123203.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1020/123203t.jpg",
+        "synonyms": [
+            "龙骑侍"
+        ],
+        "relations": [],
+        "tags": [
+            "fantasy"
         ],
         "date": {
             "season": "summer",
@@ -9618,6 +9644,7 @@
             "girls love",
             "gl",
             "high school",
+            "lgbtq+ themes",
             "love triangle",
             "maids",
             "manga",
@@ -11720,7 +11747,6 @@
             "https://kitsu.io/anime/44319",
             "https://livechart.me/anime/10326",
             "https://livechart.me/anime/10327",
-            "https://livechart.me/anime/10328",
             "https://livechart.me/anime/3452",
             "https://livechart.me/anime/3453",
             "https://livechart.me/anime/5347",

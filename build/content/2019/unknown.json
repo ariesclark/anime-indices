@@ -1587,8 +1587,8 @@
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [],
         "relations": [
             "https://anime-planet.com/anime/daifuku-kun-kin-tele"
@@ -3441,6 +3441,27 @@
             "drama",
             "psychological"
         ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/148003"
+        ],
+        "title": "Hitojichi Koukan",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148003-4vUXvaUjsfla.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148003-4vUXvaUjsfla.png",
+        "synonyms": [
+            "We The Hostages",
+            "人質交換"
+        ],
+        "relations": [],
+        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2019

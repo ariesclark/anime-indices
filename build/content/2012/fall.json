@@ -493,6 +493,7 @@
             "https://anisearch.com/anime/12220",
             "https://anisearch.com/anime/9493",
             "https://livechart.me/anime/10112",
+            "https://livechart.me/anime/11182",
             "https://livechart.me/anime/1616",
             "https://livechart.me/anime/1785",
             "https://livechart.me/anime/2037",
@@ -1063,6 +1064,9 @@
             "https://kitsu.io/anime/8767",
             "https://livechart.me/anime/1165",
             "https://livechart.me/anime/3298",
+            "https://livechart.me/anime/6162",
+            "https://livechart.me/anime/6215",
+            "https://livechart.me/anime/7712",
             "https://myanimelist.net/anime/10030",
             "https://myanimelist.net/anime/15711",
             "https://myanimelist.net/anime/23361",
@@ -1531,6 +1535,8 @@
             "https://anisearch.com/anime/4906",
             "https://kitsu.io/anime/6461",
             "https://kitsu.io/anime/7475",
+            "https://livechart.me/anime/2738",
+            "https://livechart.me/anime/4756",
             "https://myanimelist.net/anime/11103",
             "https://myanimelist.net/anime/16614",
             "https://notify.moe/anime/EjIIpKiig",
@@ -3574,12 +3580,10 @@
             "moe",
             "new",
             "original work",
-            "parody",
             "plot continuity",
             "present",
             "primarily female cast",
             "primarily teen cast",
-            "satire",
             "school",
             "school club",
             "school clubs",
@@ -5424,7 +5428,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/3/40409t.jpg",
         "synonyms": [
             "(مغامرات جوجو العجيبة (2012",
-            ", JoJo’s Bizarre Adventure Phantom Blood + Battle Tendency",
+            ", JoJo’s Bizarre Adventure Phantom Blood + Battle Tendency, JoJo : Les Aventures Bizarre des Jojo",
             "Aventurile Bizare ale lui JoJo (2012)",
             "Battle Tendency",
             "Cuộc phiêu lưu kì lạ của JoJo (2012)",
@@ -5488,6 +5492,7 @@
             "https://anime-planet.com/anime/jojos-bizarre-adventure-stardust-crusaders",
             "https://anime-planet.com/anime/jojos-bizarre-adventure-stardust-crusaders-battle-in-egypt",
             "https://anime-planet.com/anime/jojos-bizarre-adventure-stone-ocean",
+            "https://anisearch.com/anime/17313",
             "https://anisearch.com/anime/4027",
             "https://anisearch.com/anime/9149",
             "https://kitsu.io/anime/13306",
@@ -6621,6 +6626,7 @@
             "ensemble cast",
             "fantasy",
             "female protagonist",
+            "heterosexual",
             "love triangle",
             "male protagonist",
             "present",
@@ -9524,6 +9530,32 @@
             "nonsense-comedy",
             "present",
             "short episodes"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/127981",
+            "https://anime-planet.com/anime/otsukare-oyasumi-yumeko",
+            "https://kitsu.io/anime/46076"
+        ],
+        "title": "Otsukare Oyasumi, Yumeko.",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/otsukare-oyasumi-yumeko-1.jpg?t=1625908908",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/otsukare-oyasumi-yumeko-1-190x266.jpg?t=1625908908",
+        "synonyms": [
+            "おつかれおやすみ、ゆめ子。"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "dementia",
+            "shorts"
         ],
         "date": {
             "season": "fall",

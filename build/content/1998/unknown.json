@@ -1,6 +1,27 @@
 [
     {
         "sources": [
+            "https://anilist.co/anime/147977"
+        ],
+        "title": "Aidattandayo",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147977-5uQkfbDmocah.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147977-5uQkfbDmocah.png",
+        "synonyms": [
+            "Minna no Uta",
+            "愛だったんだよ"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 1998
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/an-introduction-of-human-zoology"
         ],
         "title": "An introduction of human zoology",
@@ -120,6 +141,29 @@
         "tags": [
             "based on a visual novel",
             "school life"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1998
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51679"
+        ],
+        "title": "Evangelion: Death (True)²",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1369/123212.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1369/123212t.jpg",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "drama",
+            "mecha",
+            "psychological",
+            "sci-fi"
         ],
         "date": {
             "season": "unknown",

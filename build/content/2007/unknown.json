@@ -582,8 +582,8 @@
         "type": "special",
         "episodes": 2,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [],
         "relations": [],
         "tags": [
@@ -872,6 +872,31 @@
             "fantasy",
             "no dialogue",
             "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/nissin-cup-noodles-x-freedom"
+        ],
+        "title": "Nissin Cup Noodles x Freedom",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/nissin-cup-noodles-x-freedom-1.webp?t=1650578123",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/nissin-cup-noodles-x-freedom-1-285x399.webp?t=1650578123",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/freedom",
+            "https://anime-planet.com/anime/hikaru-utada-kiss-cry"
+        ],
+        "tags": [
+            "cg animation",
+            "commercials",
+            "promotional"
         ],
         "date": {
             "season": "unknown",

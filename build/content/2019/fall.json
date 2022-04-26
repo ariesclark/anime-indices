@@ -336,6 +336,7 @@
             "https://kitsu.io/anime/43104",
             "https://kitsu.io/anime/7205",
             "https://livechart.me/anime/10112",
+            "https://livechart.me/anime/11182",
             "https://livechart.me/anime/1616",
             "https://livechart.me/anime/1785",
             "https://livechart.me/anime/2037",
@@ -657,6 +658,9 @@
             "https://kitsu.io/anime/44316",
             "https://kitsu.io/anime/44318",
             "https://kitsu.io/anime/45367",
+            "https://kitsu.io/anime/46063",
+            "https://kitsu.io/anime/46064",
+            "https://kitsu.io/anime/46066",
             "https://myanimelist.net/anime/45574",
             "https://myanimelist.net/anime/50205"
         ],
@@ -814,9 +818,15 @@
             "https://anime-planet.com/anime/azur-lane-slow-ahead",
             "https://anime-planet.com/anime/mikasa-dai-senpai-to-manabu-anime-azur-lane",
             "https://anisearch.com/anime/14804",
+            "https://anisearch.com/anime/15102",
+            "https://anisearch.com/anime/15459",
             "https://anisearch.com/anime/15468",
             "https://anisearch.com/anime/15567",
+            "https://anisearch.com/anime/15791",
             "https://anisearch.com/anime/15847",
+            "https://anisearch.com/anime/16191",
+            "https://anisearch.com/anime/16580",
+            "https://anisearch.com/anime/16780",
             "https://anisearch.com/anime/16975",
             "https://kitsu.io/anime/42734",
             "https://kitsu.io/anime/43822",
@@ -2465,7 +2475,9 @@
             "Cue! CM",
             "キュー！アニメーションPV"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/15712"
+        ],
         "tags": [
             "anime & movie",
             "idol",
@@ -2988,9 +3000,7 @@
             "엄마 까투리 시즌3"
         ],
         "relations": [
-            "https://anisearch.com/anime/14994",
-            "https://anisearch.com/anime/14995",
-            "https://anisearch.com/anime/16733"
+            "https://anisearch.com/anime/14994"
         ],
         "tags": [
             "cg-anime"
@@ -3006,6 +3016,7 @@
             "https://anime-planet.com/anime/bagel-girl",
             "https://anisearch.com/anime/15011",
             "https://kitsu.io/anime/43742",
+            "https://livechart.me/anime/11188",
             "https://myanimelist.net/anime/43779",
             "https://notify.moe/anime/L-J9k8oMg"
         ],
@@ -6778,7 +6789,6 @@
             "In/Spectre Mini Anime",
             "Kyokou Suiri Mini",
             "Kyokō Suiri Mini Anime",
-            "虚構推理",
             "虚構推理 ミニ",
             "虚構推理 ミニアニメ"
         ],
@@ -6788,6 +6798,7 @@
             "https://anime-planet.com/anime/kyokou-uranai",
             "https://kitsu.io/anime/42117",
             "https://livechart.me/anime/10237",
+            "https://livechart.me/anime/11159",
             "https://livechart.me/anime/9193",
             "https://myanimelist.net/anime/39017",
             "https://myanimelist.net/anime/51542",
@@ -6804,6 +6815,7 @@
             "romance",
             "short episodes",
             "shounen",
+            "slice of life",
             "super deformed",
             "supernatural"
         ],
@@ -8936,6 +8948,7 @@
         "synonyms": [
             "One Punch Man 2nd Season Specials",
             "One Punch Man Season 2 OVAs",
+            "One-Punch Man Season 2 Specials",
             "ワンパンマン SEASON 2",
             "ワンパンマン SEASON2 Specials"
         ],
@@ -9106,8 +9119,7 @@
             "俺を好きなのはお前だけかよ 特別編 ～俺は丁寧に進める～"
         ],
         "relations": [
-            "https://anisearch.com/anime/13938",
-            "https://anisearch.com/anime/14843"
+            "https://anisearch.com/anime/13938"
         ],
         "tags": [
             "comedy",
@@ -9557,7 +9569,7 @@
         ],
         "title": "Pokemon (2019)",
         "type": "tv",
-        "episodes": 106,
+        "episodes": 107,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1689/105554.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1689/105554t.jpg",
@@ -10601,7 +10613,9 @@
             "Twittering Birds Never Fly Twitter Anime",
             "囀る動物はやるしかない！"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/14374"
+        ],
         "tags": [
             "comedy",
             "parody"
@@ -12327,6 +12341,7 @@
             "aviation",
             "based on a 4-koma manga",
             "based on a manga",
+            "cgdct",
             "comedy",
             "contemporary fantasy",
             "ecchi",

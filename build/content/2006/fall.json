@@ -816,8 +816,8 @@
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1/1686.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1/1686t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1649/121185.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1649/121185t.jpg",
         "synonyms": [
             "BLEACH MEMORIES OF NOBODY",
             "BLEACH: MEMORIES OF NOBODY",
@@ -876,7 +876,6 @@
             "adventure",
             "afterlife",
             "based on a manga",
-            "comedy",
             "contemporary fantasy",
             "demons",
             "drama",
@@ -1878,6 +1877,8 @@
         "relations": [
             "https://anilist.co/anime/2319",
             "https://anime-planet.com/anime/freedom-prologue",
+            "https://anime-planet.com/anime/hikaru-utada-kiss-cry",
+            "https://anime-planet.com/anime/nissin-cup-noodles-x-freedom",
             "https://kitsu.io/anime/2101",
             "https://myanimelist.net/anime/2319",
             "https://notify.moe/anime/Up0E5KimR"
@@ -2139,6 +2140,14 @@
             "https://anisearch.com/anime/2666",
             "https://anisearch.com/anime/8840",
             "https://kitsu.io/anime/350",
+            "https://livechart.me/anime/5454",
+            "https://livechart.me/anime/5680",
+            "https://livechart.me/anime/5992",
+            "https://livechart.me/anime/6134",
+            "https://livechart.me/anime/6680",
+            "https://livechart.me/anime/7005",
+            "https://livechart.me/anime/7651",
+            "https://livechart.me/anime/7895",
             "https://myanimelist.net/anime/383",
             "https://notify.moe/anime/JIXhcKmiR"
         ],
@@ -3244,8 +3253,6 @@
             "https://anime-planet.com/anime/hell-girl",
             "https://anime-planet.com/anime/hell-girl-fourth-twilight",
             "https://anime-planet.com/anime/hell-girl-three-vessels",
-            "https://anisearch.com/anime/12257",
-            "https://anisearch.com/anime/17069",
             "https://anisearch.com/anime/2256",
             "https://anisearch.com/anime/4808",
             "https://kitsu.io/anime/203",
@@ -3979,8 +3986,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [
             "Kochikame: Ryoutsu no Asakusa Rinyuuaru Daisakusen!! - Aa",
             "Om",
@@ -4054,8 +4061,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/7305",
-            "https://anilist.co/anime/145903",
-            "https://anilist.co/anime/7461",
+            "https://anilist.co/anime/147928",
             "https://anime-planet.com/anime/komanekos-christmas-the-lost-gift",
             "https://anisearch.com/anime/5994",
             "https://kitsu.io/anime/4984",
@@ -4090,6 +4096,37 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/147928"
+        ],
+        "title": "Komaneko: Hajime no Ippo",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147928-DfubkrL8mdfw.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147928-DfubkrL8mdfw.png",
+        "synonyms": [
+            "Komaneko: The First Step",
+            "こまねこ はじめのいっぽ"
+        ],
+        "relations": [
+            "https://anilist.co/anime/145903",
+            "https://anilist.co/anime/147464",
+            "https://anilist.co/anime/7461",
+            "https://anilist.co/anime/7547"
+        ],
+        "tags": [
+            "animals",
+            "no dialogue",
+            "slice of life",
+            "stop motion"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2006
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/9130"
         ],
         "title": "Koorookkooroowa Chingoodeul",
@@ -4104,7 +4141,9 @@
             "Tales of Greenery",
             "꾸루꾸루와 친구들"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/11359"
+        ],
         "tags": [],
         "date": {
             "season": "fall",
@@ -7972,10 +8011,7 @@
             "https://anime-planet.com/anime/gunbuster-renewal-ex",
             "https://anime-planet.com/anime/gunbuster-science-lessons",
             "https://anime-planet.com/anime/gunbuster-science-lessons-return",
-            "https://anisearch.com/anime/13870",
             "https://anisearch.com/anime/2008",
-            "https://anisearch.com/anime/3201",
-            "https://anisearch.com/anime/4025",
             "https://kitsu.io/anime/841",
             "https://kitsu.io/anime/892",
             "https://livechart.me/anime/3501",

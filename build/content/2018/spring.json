@@ -408,6 +408,7 @@
             "https://anime-planet.com/anime/aikatsu-stars",
             "https://anisearch.com/anime/14144",
             "https://livechart.me/anime/10112",
+            "https://livechart.me/anime/11182",
             "https://livechart.me/anime/1616",
             "https://livechart.me/anime/1785",
             "https://livechart.me/anime/2037",
@@ -1861,6 +1862,7 @@
             "henshin heroes",
             "magic",
             "magical girl",
+            "mahou shoujo",
             "recap",
             "romance",
             "shoujo",
@@ -7403,8 +7405,11 @@
             "https://myanimelist.net/anime/42344"
         ],
         "tags": [
+            "animals",
+            "female protagonist",
             "independent anime",
-            "music"
+            "music",
+            "superhero"
         ],
         "date": {
             "season": "spring",
@@ -8159,8 +8164,7 @@
             "urban fantasy",
             "violence",
             "witch",
-            "yandere",
-            "yuri"
+            "yandere"
         ],
         "date": {
             "season": "spring",
@@ -9588,6 +9592,7 @@
             "https://anisearch.com/anime/4731",
             "https://kitsu.io/anime/3461",
             "https://kitsu.io/anime/41171",
+            "https://livechart.me/anime/4953",
             "https://myanimelist.net/anime/37622",
             "https://myanimelist.net/anime/4094",
             "https://notify.moe/anime/HUVu5Kiig"
@@ -10300,9 +10305,9 @@
             "https://anime-planet.com/anime/bang-dream",
             "https://anime-planet.com/anime/pastel-palettes-shuwarin-dorimin",
             "https://kitsu.io/anime/12330",
-            "https://livechart.me/anime/10322",
             "https://livechart.me/anime/10567",
             "https://livechart.me/anime/10631",
+            "https://livechart.me/anime/11126",
             "https://livechart.me/anime/2247",
             "https://livechart.me/anime/2537",
             "https://livechart.me/anime/3238",
@@ -10840,7 +10845,7 @@
         ],
         "title": "Puzzle & Dragon",
         "type": "tv",
-        "episodes": 200,
+        "episodes": 201,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1535/95070.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1535/95070t.jpg",
@@ -10904,6 +10909,36 @@
             "beastmen",
             "cg-anime",
             "comedy"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/14207",
+            "https://myanimelist.net/anime/51302"
+        ],
+        "title": "Qian Ting Zong Dong Yuan: Haidi Liang Wanli",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1463/121518.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1463/121518t.jpg",
+        "synonyms": [
+            "Happy Little Submarine: 20000 Leagues Under the Sea",
+            "Happy Little Submarine: 20000 Leagues under the Sea",
+            "Qianting Zongdongyuan: Haidi Liang Wanli",
+            "潜艇总动员: 海底两万里",
+            "潜艇总动员：海底两万里"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/51688"
+        ],
+        "tags": [
+            "adventure",
+            "kids"
         ],
         "date": {
             "season": "spring",
@@ -10985,33 +11020,6 @@
         ],
         "tags": [
             "cg-anime"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/14207",
-            "https://myanimelist.net/anime/51302"
-        ],
-        "title": "Qianting Zongdongyuan: Haidi Liang Wanli",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1463/121518.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1463/121518t.jpg",
-        "synonyms": [
-            "Happy Little Submarine: 20000 Leagues Under the Sea",
-            "Happy Little Submarine: 20000 Leagues under the Sea",
-            "潜艇总动员: 海底两万里",
-            "潜艇总动员：海底两万里"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "kids"
         ],
         "date": {
             "season": "spring",
@@ -14582,6 +14590,7 @@
             "https://anisearch.com/anime/9433",
             "https://kitsu.io/anime/13333",
             "https://livechart.me/anime/10479",
+            "https://livechart.me/anime/11120",
             "https://livechart.me/anime/1355",
             "https://livechart.me/anime/1511",
             "https://livechart.me/anime/2144",

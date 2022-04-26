@@ -861,6 +861,7 @@
             "https://kitsu.io/anime/9111",
             "https://livechart.me/anime/10470",
             "https://livechart.me/anime/10524",
+            "https://livechart.me/anime/11118",
             "https://livechart.me/anime/1570",
             "https://livechart.me/anime/2996",
             "https://livechart.me/anime/4692",
@@ -3564,7 +3565,6 @@
         "relations": [
             "https://anilist.co/anime/14853",
             "https://anilist.co/anime/17677",
-            "https://anilist.co/anime/17679",
             "https://anilist.co/anime/19573",
             "https://anime-planet.com/anime/buki-yo-saraba",
             "https://anime-planet.com/anime/gambo",
@@ -6215,21 +6215,7 @@
             "https://kitsu.io/anime/4365",
             "https://kitsu.io/anime/6152",
             "https://kitsu.io/anime/9073",
-            "https://livechart.me/anime/10273",
-            "https://livechart.me/anime/1537",
-            "https://livechart.me/anime/1665",
-            "https://livechart.me/anime/2546",
-            "https://livechart.me/anime/3092",
-            "https://livechart.me/anime/4548",
-            "https://livechart.me/anime/5031",
-            "https://livechart.me/anime/5235",
-            "https://livechart.me/anime/5321",
-            "https://livechart.me/anime/5324",
             "https://livechart.me/anime/6592",
-            "https://livechart.me/anime/6655",
-            "https://livechart.me/anime/6747",
-            "https://livechart.me/anime/9228",
-            "https://livechart.me/anime/9832",
             "https://myanimelist.net/anime/10370",
             "https://myanimelist.net/anime/21479",
             "https://myanimelist.net/anime/31049",
@@ -8018,6 +8004,7 @@
             "ice skating",
             "idol",
             "idols",
+            "idols (female)",
             "love triangle",
             "music",
             "musical",
@@ -8050,7 +8037,8 @@
             "潜艇总动员2"
         ],
         "relations": [
-            "https://myanimelist.net/anime/51303"
+            "https://myanimelist.net/anime/51303",
+            "https://myanimelist.net/anime/51686"
         ],
         "tags": [
             "adventure",
@@ -8941,6 +8929,7 @@
             "https://anisearch.com/anime/8371",
             "https://kitsu.io/anime/6873",
             "https://kitsu.io/anime/7492",
+            "https://livechart.me/anime/3806",
             "https://myanimelist.net/anime/13055",
             "https://myanimelist.net/anime/16694",
             "https://notify.moe/anime/IzWvpFmmR",
@@ -9021,6 +9010,7 @@
             "https://anisearch.com/anime/8371",
             "https://kitsu.io/anime/6521",
             "https://kitsu.io/anime/7492",
+            "https://livechart.me/anime/1131",
             "https://myanimelist.net/anime/11499",
             "https://myanimelist.net/anime/16694",
             "https://notify.moe/anime/HBASpFimg",
@@ -9217,7 +9207,15 @@
         "synonyms": [
             "しまじろうのわお!"
         ],
-        "relations": [],
+        "relations": [
+            "https://livechart.me/anime/11122",
+            "https://livechart.me/anime/1908",
+            "https://livechart.me/anime/2402",
+            "https://livechart.me/anime/2964",
+            "https://livechart.me/anime/350",
+            "https://livechart.me/anime/8227",
+            "https://livechart.me/anime/9659"
+        ],
         "tags": [
             "adventure",
             "comedy",
@@ -9751,6 +9749,7 @@
     {
         "sources": [
             "https://anidb.net/anime/9184",
+            "https://anilist.co/anime/147814",
             "https://anime-planet.com/anime/stitch-and-the-planet-of-sand",
             "https://anisearch.com/anime/7794",
             "https://kitsu.io/anime/9637",
@@ -9771,6 +9770,8 @@
         "relations": [
             "https://anidb.net/anime/11374",
             "https://anidb.net/anime/7570",
+            "https://anilist.co/anime/147815",
+            "https://anilist.co/anime/8964",
             "https://anime-planet.com/anime/stitch",
             "https://anime-planet.com/anime/stitch-best-friends-forever",
             "https://anime-planet.com/anime/stitch-best-friends-forever-aces-back",
@@ -10975,7 +10976,6 @@
         "relations": [
             "https://anilist.co/anime/13639",
             "https://anilist.co/anime/17677",
-            "https://anilist.co/anime/17679",
             "https://anilist.co/anime/19573",
             "https://anime-planet.com/anime/buki-yo-saraba",
             "https://anime-planet.com/anime/gambo",
@@ -11276,17 +11276,6 @@
             "https://anime-planet.com/anime/uchuu-senkan-yamato-2205-aratanaru-tabidachi-zenshou-take-off",
             "https://anime-planet.com/anime/yamato-2520",
             "https://anisearch.com/anime/11350",
-            "https://anisearch.com/anime/14656",
-            "https://anisearch.com/anime/15722",
-            "https://anisearch.com/anime/17116",
-            "https://anisearch.com/anime/1968",
-            "https://anisearch.com/anime/2259",
-            "https://anisearch.com/anime/2999",
-            "https://anisearch.com/anime/3294",
-            "https://anisearch.com/anime/3366",
-            "https://anisearch.com/anime/5441",
-            "https://anisearch.com/anime/681",
-            "https://anisearch.com/anime/853",
             "https://anisearch.com/anime/9038",
             "https://anisearch.com/anime/9629",
             "https://anisearch.com/anime/965",
@@ -11520,6 +11509,34 @@
             "short episodes",
             "slice of life",
             "vocaloid"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/44817",
+            "https://myanimelist.net/anime/51356"
+        ],
+        "title": "Wo Shi Da Xiongmao",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "Happy Panda",
+            "我是大熊猫"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/51357"
+        ],
+        "tags": [
+            "adventure",
+            "fantasy",
+            "kids"
         ],
         "date": {
             "season": "spring",

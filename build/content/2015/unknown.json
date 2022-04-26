@@ -2400,6 +2400,31 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51655",
+            "https://myanimelist.net/anime/51656"
+        ],
+        "title": "Jiu Cang Miao Wo",
+        "type": "ona",
+        "episodes": 31,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "DNA×CAT",
+            "九藏喵窝",
+            "九藏喵窝 第二季"
+        ],
+        "relations": [],
+        "tags": [
+            "fantasy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/44911",
             "https://myanimelist.net/anime/47064"
         ],
@@ -2722,8 +2747,8 @@
         "type": "special",
         "episodes": 17,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [
             "ことわざガンダムさん"
         ],
@@ -2737,40 +2762,6 @@
             "mecha",
             "parody",
             "sci fi"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/50506"
-        ],
-        "title": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:5 Pyrophoric Cult",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "Ghost in the Shell: Arise - Border 5: Pyrophoric Cult",
-            "Ghost in the Shell: Arise - Border:5 Pyrophoric Cult",
-            "攻殻機動隊ARISE -GHOST IN THE SHELL- border:5 Pyrophoric Cult"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/19195",
-            "https://myanimelist.net/anime/27411",
-            "https://myanimelist.net/anime/29325"
-        ],
-        "tags": [
-            "action",
-            "mecha",
-            "military",
-            "mystery",
-            "police",
-            "sci-fi",
-            "seinen"
         ],
         "date": {
             "season": "unknown",
@@ -3361,8 +3352,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [
             "Malta's Adventure 2"
         ],

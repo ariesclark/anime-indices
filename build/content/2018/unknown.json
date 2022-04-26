@@ -2550,26 +2550,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/harumaki-gohan-aster"
-        ],
-        "title": "Harumaki Gohan: Aster",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/harumaki-gohan-aster-1.webp?t=1630190157",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/harumaki-gohan-aster-1-285x400.webp?t=1630190157",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "vocaloid"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/harumaki-gohan-melty-land-nightmare"
         ],
         "title": "Harumaki Gohan: Melty Land Nightmare",
@@ -2786,6 +2766,29 @@
             "historical",
             "primarily male cast",
             "swordplay"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/hikaru-utada-kiss-cry"
+        ],
+        "title": "Hikaru Utada: Kiss & Cry",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/hikaru-utada-kiss-cry-1.webp?t=1650578276",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/hikaru-utada-kiss-cry-1-285x399.webp?t=1650578276",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/freedom",
+            "https://anime-planet.com/anime/nissin-cup-noodles-x-freedom"
+        ],
+        "tags": [
+            "cg animation"
         ],
         "date": {
             "season": "unknown",
@@ -7390,6 +7393,24 @@
         "relations": [
             "https://anime-planet.com/anime/revue-starlight"
         ],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/sukima-switch-mr-kite"
+        ],
+        "title": "Sukima Switch: Mr. Kite",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/sukima-switch-mr-kite-1.webp?t=1650577737",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/sukima-switch-mr-kite-1-285x400.webp?t=1650577737",
+        "synonyms": [],
+        "relations": [],
         "tags": [],
         "date": {
             "season": "unknown",

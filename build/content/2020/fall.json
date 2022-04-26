@@ -1946,6 +1946,7 @@
             "https://anilist.co/anime/144822",
             "https://anilist.co/anime/144827",
             "https://anilist.co/anime/146321",
+            "https://anilist.co/anime/147216",
             "https://anime-planet.com/anime/d4dj-all-mix",
             "https://anime-planet.com/anime/d4dj-double-mix",
             "https://anime-planet.com/anime/d4dj-petit-mix",
@@ -2567,9 +2568,7 @@
         ],
         "relations": [
             "https://anisearch.com/anime/13989",
-            "https://anisearch.com/anime/14818",
-            "https://anisearch.com/anime/16097",
-            "https://anisearch.com/anime/16920"
+            "https://anisearch.com/anime/14818"
         ],
         "tags": [
             "action",
@@ -2595,7 +2594,7 @@
         ],
         "title": "Dragon Quest: Dai no Daibouken (2020)",
         "type": "tv",
-        "episodes": 73,
+        "episodes": 74,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1499/109126.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1499/109126t.jpg",
@@ -3478,7 +3477,7 @@
         ],
         "title": "Fushigi Dagashiya: Zenitendou",
         "type": "tv",
-        "episodes": 54,
+        "episodes": 55,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1994/108212.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1994/108212t.jpg",
@@ -4644,6 +4643,7 @@
             "Yashahime 1",
             "Yashahime: Princess Half-Demon",
             "Принцесса-полудемон",
+            "ยาฉะฮิเมะ: เจ้าหญิงครึ่งอสูร",
             "半妖の夜叉姫",
             "半妖の夜叉姫 -戦国御伽草子-",
             "半妖的夜叉姬"
@@ -5305,7 +5305,7 @@
         "title": "Hua Jianghu: Gui Yexing",
         "type": "ona",
         "episodes": 40,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1842/116032.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1842/116032t.jpg",
         "synonyms": [
@@ -5972,7 +5972,6 @@
             "drawing",
             "female protagonist",
             "heterosexual",
-            "josei",
             "love triangle",
             "male protagonist",
             "mermaid",
@@ -6005,7 +6004,7 @@
         ],
         "title": "Jue Shi Wu Hun",
         "type": "ona",
-        "episodes": 160,
+        "episodes": 260,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1183/110438.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1183/110438t.jpg",
@@ -6102,6 +6101,7 @@
             "https://anidb.net/anime/17196",
             "https://anilist.co/anime/131573",
             "https://anilist.co/anime/145064",
+            "https://anilist.co/anime/147463",
             "https://anime-planet.com/anime/eve-kaikai-kitan",
             "https://anime-planet.com/anime/juju-sanpo",
             "https://anime-planet.com/anime/jujutsu-kaisen-0",
@@ -6109,6 +6109,7 @@
             "https://anime-planet.com/anime/jujutsu-kaisen-2nd-season",
             "https://anisearch.com/anime/16092",
             "https://anisearch.com/anime/17085",
+            "https://anisearch.com/anime/17192",
             "https://kitsu.io/anime/43748",
             "https://kitsu.io/anime/43814",
             "https://kitsu.io/anime/43886",
@@ -11739,6 +11740,33 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/125517",
+            "https://kitsu.io/anime/46070"
+        ],
+        "title": "Star Smash PV",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://media.kitsu.io/anime/46070/poster_image/small-efefcb1f0a7c24dc34791ce2fc0bc4b1.jpeg",
+        "thumbnail": "https://media.kitsu.io/anime/46070/poster_image/tiny-69d259c7d403aed9d076ad1430948721.jpeg",
+        "synonyms": [
+            "スタースマッシュ PV"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "advertisement",
+            "fantasy",
+            "music",
+            "sports"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
             "https://kitsu.io/anime/43923"
         ],
         "title": "Step and Go!!",
@@ -12725,7 +12753,6 @@
             "demons",
             "drama",
             "fantasy",
-            "foreign",
             "ghost",
             "ghost stories",
             "ghosts",
@@ -12940,9 +12967,11 @@
         "tags": [
             "cute girls doing cute things",
             "fashion",
+            "female protagonist",
             "original work",
             "post apocalypse",
             "post-apocalyptic",
+            "primarily female cast",
             "promotional",
             "sci-fi",
             "short episodes",
@@ -13437,6 +13466,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1188/110437.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1188/110437t.jpg",
         "synonyms": [
+            "Penakluk Bintang",
             "Swallowed Star",
             "Tun Shi Xing Kong",
             "吞噬星空"
@@ -14281,6 +14311,41 @@
     },
     {
         "sources": [
+            "https://anisearch.com/anime/17309"
+        ],
+        "title": "Xue Ying Ling Zhu Di Er Ji",
+        "type": "ona",
+        "episodes": 22,
+        "status": "finished",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17309.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17309.webp",
+        "synonyms": [
+            "Lord Xue Ying 2nd Season",
+            "Snow Eagle Lord 2nd Season",
+            "Xue Ying Ling Zhu 2nd Season",
+            "雪鹰领主 第二季"
+        ],
+        "relations": [
+            "https://anisearch.com/anime/15476",
+            "https://anisearch.com/anime/17310"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "beastmen",
+            "cg-anime",
+            "fantasy",
+            "magic",
+            "monster",
+            "swords & co"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/15972"
         ],
         "title": "Xue Ying Lingzhu Di Er Ji",
@@ -14776,6 +14841,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/147764",
             "https://anime-planet.com/anime/zoids-wild-senki",
             "https://anisearch.com/anime/15758",
             "https://livechart.me/anime/10147",
@@ -14792,6 +14858,7 @@
             "ゾイドワイルド戦記"
         ],
         "relations": [
+            "https://anilist.co/anime/110788",
             "https://anime-planet.com/anime/zoids-wild",
             "https://anime-planet.com/anime/zoids-wild-zero",
             "https://anisearch.com/anime/14529",

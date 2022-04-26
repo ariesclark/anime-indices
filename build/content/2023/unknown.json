@@ -203,6 +203,28 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17334"
+        ],
+        "title": "Meitantei Conan (2023)",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.anidb.net/images/main/233056.jpg",
+        "thumbnail": "https://cdn.anidb.net/images/main/233056.jpg-thumb.jpg",
+        "synonyms": [
+            "名探偵コナン (2023)"
+        ],
+        "relations": [
+            "https://anidb.net/anime/266"
+        ],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/51484"
         ],
         "title": "Mishiranu Joushikousei ni Kankin Sareta Mangaka no Hanashi",
@@ -218,6 +240,54 @@
         "tags": [
             "horror",
             "suspense"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/15996",
+            "https://anilist.co/anime/128715",
+            "https://anime-planet.com/anime/sacrificial-princess-and-the-king-of-beasts",
+            "https://anisearch.com/anime/15905",
+            "https://kitsu.io/anime/44013",
+            "https://livechart.me/anime/10357",
+            "https://myanimelist.net/anime/46422",
+            "https://notify.moe/anime/Sq9jQABGR"
+        ],
+        "title": "Niehime to Kemono no Ou",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1172/123068.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1172/123068t.jpg",
+        "synonyms": [
+            "Niehime to Kemono no Ō",
+            "Sacrifice Princess and King of Beasts",
+            "Sacrifice to the King of Beasts",
+            "Sacrificial Princess and The King of Beasts",
+            "Sacrificial Princess and the King of Beasts",
+            "贄姫と獣の王"
+        ],
+        "relations": [],
+        "tags": [
+            "alternative world",
+            "based on a manga",
+            "beastmen",
+            "demon",
+            "demons",
+            "drama",
+            "fantasy",
+            "fantasy world",
+            "interspecies relationship",
+            "manga",
+            "mansion",
+            "non-human protagonists",
+            "romance",
+            "royalty",
+            "shoujo"
         ],
         "date": {
             "season": "unknown",
@@ -507,31 +577,6 @@
             "primarily female cast",
             "showbiz",
             "slice of life"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2023
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/11187"
-        ],
-        "title": "ULTRAMAN FINAL",
-        "type": "ona",
-        "episodes": 6,
-        "status": "upcoming",
-        "picture": "https://u.livechart.me/anime/11187/poster_image/493f8ae076c610262acfc3f4522a8a6a.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/11187/poster_image/493f8ae076c610262acfc3f4522a8a6a.jpg?style=small&format=jpg",
-        "synonyms": [],
-        "relations": [
-            "https://livechart.me/anime/11021",
-            "https://livechart.me/anime/2997",
-            "https://livechart.me/anime/9465"
-        ],
-        "tags": [
-            "action",
-            "superpower"
         ],
         "date": {
             "season": "unknown",
