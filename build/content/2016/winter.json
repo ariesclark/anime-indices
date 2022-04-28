@@ -5415,6 +5415,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/the-anthem-of-the-heart-x-sony-hi-res-walkman-and-headphone",
             "https://kitsu.io/anime/12046",
             "https://livechart.me/anime/8086",
             "https://myanimelist.net/anime/33170",
@@ -5429,15 +5430,19 @@
         "synonyms": [
             "Anthem of the Heart x Sony",
             "Kokosake x Sony",
+            "The Anthem of the Heart x Sony Hi-Res \"Walkman\" and Headphone",
             "心が叫びたがってるんだ。×ソニー製ハイレゾ対応「ウォークマン®」＆ヘッドホン"
         ],
         "relations": [
+            "https://anime-planet.com/anime/the-anthem-of-the-heart",
             "https://kitsu.io/anime/10056",
             "https://myanimelist.net/anime/28725",
             "https://notify.moe/anime/xARstKiig"
         ],
         "tags": [
-            "drama"
+            "commercials",
+            "drama",
+            "promotional"
         ],
         "date": {
             "season": "winter",
@@ -6418,6 +6423,7 @@
     {
         "sources": [
             "https://anime-planet.com/anime/love-live-x-watering-kissmint-collaboration-cm",
+            "https://anisearch.com/anime/11666",
             "https://kitsu.io/anime/11845",
             "https://myanimelist.net/anime/32730",
             "https://notify.moe/anime/Iw9qtKimR"
@@ -6429,6 +6435,8 @@
         "picture": "https://cdn.myanimelist.net/images/anime/7/78535.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/7/78535t.jpg",
         "synonyms": [
+            "Love Live! × Watering KissMint Collaboration CM",
+            "ラブライブ！ × ウォータリングキスミント コラボ CM",
             "ラブライブ！ × ウォータリングキスミント　コラボCM"
         ],
         "relations": [
@@ -6439,32 +6447,10 @@
         ],
         "tags": [
             "commercials",
-            "music",
-            "promotional"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/11666"
-        ],
-        "title": "Love Live! × Watering KissMint Collaboration CM",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11666.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11666.webp",
-        "synonyms": [
-            "Love Live! x Watering KissMint Collaboration CM",
-            "ラブライブ！ × ウォータリングキスミント コラボ CM"
-        ],
-        "relations": [],
-        "tags": [
             "indefinite",
+            "music",
             "present",
+            "promotional",
             "slice of life"
         ],
         "date": {

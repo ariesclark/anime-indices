@@ -5089,6 +5089,7 @@
     {
         "sources": [
             "https://anime-planet.com/anime/last-exile-doyou-no-asa",
+            "https://anisearch.com/anime/14976",
             "https://kitsu.io/anime/10121",
             "https://myanimelist.net/anime/28811",
             "https://notify.moe/anime/iGFstFmmg"
@@ -5100,7 +5101,11 @@
         "picture": "https://cdn.myanimelist.net/images/anime/2/69533.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/2/69533t.jpg",
         "synonyms": [
+            "Last Exile: Kinyou no Yoru (Doyou no Asa)",
+            "Last Exile: Kin’you no Yoru (Doyou no Asa)",
+            "Last Exile: Kin’yō no Yoru (Doyō no Asa)",
             "Last Exile: Saturday Morning",
+            "ラストエグザイル 金曜のヨル（土曜の朝）",
             "ラストエグザイル～金曜のヨル~（土曜の朝）"
         ],
         "relations": [
@@ -5113,6 +5118,7 @@
             "chibi",
             "comedy",
             "commercials",
+            "episodic",
             "parody",
             "promotional",
             "sci-fi",
@@ -5281,32 +5287,6 @@
             "recap",
             "sci-fi",
             "science fiction"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/14976"
-        ],
-        "title": "Last Exile: Kin’you no Yoru (Doyou no Asa)",
-        "type": "ona",
-        "episodes": 3,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/0.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/0.webp",
-        "synonyms": [
-            "Last Exile: Kinyou no Yoru (Doyou no Asa)",
-            "Last Exile: Kin’yō no Yoru (Doyō no Asa)",
-            "ラストエグザイル 金曜のヨル（土曜の朝）"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "episodic",
-            "parody"
         ],
         "date": {
             "season": "fall",

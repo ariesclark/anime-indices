@@ -4101,6 +4101,8 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/4454",
+            "https://anime-planet.com/anime/macross-frontier-deculture-edition",
             "https://kitsu.io/anime/3616",
             "https://livechart.me/anime/4917",
             "https://myanimelist.net/anime/4454",
@@ -4113,10 +4115,14 @@
         "picture": "https://cdn.myanimelist.net/images/anime/4/8507.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/4/8507t.jpg",
         "synonyms": [
+            "Macross Frontier Deculture Edition",
             "Macross Frontier: Close Encounter - Deculture Edition",
+            "マクロスＦ",
             "マクロスＦ　第1話「クロース・エンカウンター」Deculture edition"
         ],
         "relations": [
+            "https://anilist.co/anime/3572",
+            "https://anime-planet.com/anime/macross-frontier",
             "https://kitsu.io/anime/3113",
             "https://livechart.me/anime/3982",
             "https://livechart.me/anime/4000",
@@ -4138,9 +4144,12 @@
         ],
         "tags": [
             "action",
+            "aliens",
+            "idols",
             "mecha",
             "military",
             "music",
+            "sci fi",
             "sci-fi",
             "science fiction",
             "space"
