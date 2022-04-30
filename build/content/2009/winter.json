@@ -6898,34 +6898,7 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/8314"
-        ],
-        "title": "Tentai Senshi Sunred: DVD Short Corners",
-        "type": "special",
-        "episodes": 4,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8314.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8314.jpg",
-        "synonyms": [
-            "Astro Fighter Sunred: DVD Short Corners",
-            "Tentai Senshi Sunred Specials",
-            "天体戦士サンレッド"
-        ],
-        "relations": [
-            "https://anilist.co/anime/5005"
-        ],
-        "tags": [
-            "comedy",
-            "parody",
-            "super power"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/8314",
             "https://anime-planet.com/anime/tentai-senshi-sunred-specials",
             "https://kitsu.io/anime/5290",
             "https://myanimelist.net/anime/8314",
@@ -6941,9 +6914,12 @@
             "Astro Fighter Sunred Specials",
             "Astro Fighter Sunred: DVD Short Corners",
             "Tentai Senshi Sunred Specials",
+            "Tentai Senshi Sunred: DVD Short Corners",
+            "天体戦士サンレッド",
             "天体戦士サンレッド ショートコーナー"
         ],
         "relations": [
+            "https://anilist.co/anime/5005",
             "https://anime-planet.com/anime/tentai-senshi-sunred",
             "https://anime-planet.com/anime/tentai-senshi-sunred-2",
             "https://kitsu.io/anime/3878",
@@ -7284,91 +7260,13 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/toradora-sos-hurray-for-gourmands",
-            "https://anisearch.com/anime/7135"
-        ],
-        "title": "Toradora SOS! Hurray for Gourmands",
-        "type": "special",
-        "episodes": 4,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/toradora-sos-hurray-for-gourmands-1.jpg?t=1625886644",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/toradora-sos-hurray-for-gourmands-1-190x262.jpg?t=1625886644",
-        "synonyms": [
-            "Toradora SOS!",
-            "Toradora SOS! Connoisseurs Banzai",
-            "Toradora SOS! Hurra den Vielfraßen!",
-            "Toradora SOS! Hurra, es schmeckt so lecker!",
-            "Toradora SOS! Hurray for Foodies",
-            "Toradora SOS! Hurray for Gluttons",
-            "Toradora SOS! Kuishinbou Banbanzai",
-            "Toradora SOS! Kuishinbō Banbanzai",
-            "とらドラSOS！食いしん坊万々歳"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/toradora",
-            "https://anime-planet.com/anime/toradora-recap",
-            "https://anime-planet.com/anime/toradora-the-true-meaning-of-bento"
-        ],
-        "tags": [
-            "based on a light novel",
-            "chibi",
-            "comedy",
-            "episodic",
-            "food and beverage",
-            "food preparation",
-            "nonsense-comedy",
-            "parody",
-            "present",
-            "shounen",
-            "slapstick"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/6127",
+            "https://anime-planet.com/anime/toradora-sos-hurray-for-gourmands",
+            "https://anisearch.com/anime/7135",
             "https://kitsu.io/anime/4438",
             "https://livechart.me/anime/3421",
+            "https://myanimelist.net/anime/6127",
             "https://notify.moe/anime/CZ-q5KimR"
-        ],
-        "title": "Toradora!: SOS!",
-        "type": "special",
-        "episodes": 4,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/4438/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/4438/tiny.jpg",
-        "synonyms": [
-            "Toradora SOS! Hurray for Foodies",
-            "Toradora! SOS! Hooray for Foodies",
-            "Toradora! SOS! Hurray for Gourmands",
-            "とらドラ! SOS!"
-        ],
-        "relations": [
-            "https://anilist.co/anime/4224",
-            "https://kitsu.io/anime/3532",
-            "https://livechart.me/anime/3420",
-            "https://livechart.me/anime/3422",
-            "https://notify.moe/anime/vo0u5Kmmg"
-        ],
-        "tags": [
-            "chibi",
-            "comedy",
-            "food",
-            "romance",
-            "school",
-            "slice of life"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/6127"
         ],
         "title": "Toradora!: SOS! Kuishinbou Banbanzai",
         "type": "special",
@@ -7377,16 +7275,51 @@
         "picture": "https://cdn.myanimelist.net/images/anime/6/59833.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/6/59833t.jpg",
         "synonyms": [
+            "Toradora SOS!",
+            "Toradora SOS! Connoisseurs Banzai",
+            "Toradora SOS! Hurra den Vielfraßen!",
+            "Toradora SOS! Hurra, es schmeckt so lecker!",
+            "Toradora SOS! Hurray for Foodies",
+            "Toradora SOS! Hurray for Gluttons",
+            "Toradora SOS! Hurray for Gourmands",
+            "Toradora SOS! Kuishinbou Banbanzai",
+            "Toradora SOS! Kuishinbō Banbanzai",
             "Toradora! SOS! Hooray for Foodies",
+            "Toradora! SOS! Hurray for Gourmands",
+            "Toradora!: SOS!",
             "Toradora!: SOS! Hurray for Gourmands",
-            "とらドラ! SOS! 食いしん坊万々歳"
+            "とらドラ! SOS!",
+            "とらドラ! SOS! 食いしん坊万々歳",
+            "とらドラSOS！食いしん坊万々歳"
         ],
         "relations": [
-            "https://myanimelist.net/anime/4224"
+            "https://anilist.co/anime/4224",
+            "https://anime-planet.com/anime/toradora",
+            "https://anime-planet.com/anime/toradora-recap",
+            "https://anime-planet.com/anime/toradora-the-true-meaning-of-bento",
+            "https://kitsu.io/anime/3532",
+            "https://livechart.me/anime/3420",
+            "https://livechart.me/anime/3422",
+            "https://myanimelist.net/anime/4224",
+            "https://notify.moe/anime/vo0u5Kmmg"
         ],
         "tags": [
+            "based on a light novel",
+            "chibi",
             "comedy",
-            "gourmet"
+            "episodic",
+            "food",
+            "food and beverage",
+            "food preparation",
+            "gourmet",
+            "nonsense-comedy",
+            "parody",
+            "present",
+            "romance",
+            "school",
+            "shounen",
+            "slapstick",
+            "slice of life"
         ],
         "date": {
             "season": "winter",

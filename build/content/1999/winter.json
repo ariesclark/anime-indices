@@ -4100,6 +4100,7 @@
     {
         "sources": [
             "https://anilist.co/anime/103721",
+            "https://anime-planet.com/anime/vampiyan-kids-pv",
             "https://kitsu.io/anime/8917",
             "https://myanimelist.net/anime/25599",
             "https://notify.moe/anime/1L0xtKimR"
@@ -4112,9 +4113,12 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/10/65119t.jpg",
         "synonyms": [
             "Vampiyan Kids Extra",
+            "Vampiyan Kids PV",
             "プロモーション"
         ],
         "relations": [
+            "https://anime-planet.com/anime/vampiyan-kids",
+            "https://anime-planet.com/anime/vampiyan-kids-pilot",
             "https://kitsu.io/anime/2912",
             "https://kitsu.io/anime/3604",
             "https://myanimelist.net/anime/3290",
@@ -4123,9 +4127,14 @@
             "https://notify.moe/anime/e2cwcFimg"
         ],
         "tags": [
+            "cg animation",
             "comedy",
             "fantasy",
-            "kids"
+            "kids",
+            "original work",
+            "promotional",
+            "supernatural",
+            "vampires"
         ],
         "date": {
             "season": "winter",

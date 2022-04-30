@@ -10410,6 +10410,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/18003",
             "https://anime-planet.com/anime/thermae-romae-x-toto-collaboration",
             "https://kitsu.io/anime/8778",
             "https://myanimelist.net/anime/18003",
@@ -10422,9 +10423,11 @@
         "picture": "https://cdn.myanimelist.net/images/anime/8/47881.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/8/47881t.jpg",
         "synonyms": [
+            "Thermae Romae: Thermae Romae x TOTO Collaboration",
             "テルマエ・ロマエｘ TOTO企業コラボレーション"
         ],
         "relations": [
+            "https://anilist.co/anime/12321",
             "https://anime-planet.com/anime/thermae-romae",
             "https://anime-planet.com/anime/thermae-romae-kodai-romajin-ga-uchuu-e",
             "https://anime-planet.com/anime/thermae-romae-specials",
@@ -10491,32 +10494,6 @@
             "seinen",
             "shorts",
             "space"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/18003"
-        ],
-        "title": "Thermae Romae: Thermae Romae x TOTO Collaboration",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18003.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18003.jpg",
-        "synonyms": [
-            "テルマエ・ロマエｘ TOTO企業コラボレーション"
-        ],
-        "relations": [
-            "https://anilist.co/anime/12321"
-        ],
-        "tags": [
-            "comedy",
-            "historical",
-            "seinen"
         ],
         "date": {
             "season": "spring",
@@ -10890,6 +10867,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/meg-x-the-telephones-tough-boy",
             "https://anisearch.com/anime/9166",
             "https://kitsu.io/anime/41033",
             "https://myanimelist.net/anime/37385",
@@ -10903,6 +10881,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1569/90777t.jpg",
         "synonyms": [
             "MEG - Tough Boy",
+            "Meg x The Telephones: Tough Boy",
             "TOUGH BOY",
             "TOUGH BOY／MEG × the telephones"
         ],

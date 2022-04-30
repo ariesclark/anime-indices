@@ -3277,43 +3277,10 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/1421"
-        ],
-        "title": "Touch: Miss Lonely Yesterday - Are kara, Kimi wa …",
-        "type": "tv",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/1/1421.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/1/1421.webp",
-        "synonyms": [
-            "Touch Movie 4",
-            "Touch, Bateadores: Miss Lonely Yesterday",
-            "Touch: Miss Lonely Yesterday - Arekara, Kimi Ha",
-            "Touch: Prendi il mondo e vai OAV",
-            "タッチ Miss Lonely Yesterday あれから、君は…"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/1047",
-            "https://anisearch.com/anime/1479",
-            "https://anisearch.com/anime/2112",
-            "https://anisearch.com/anime/2827",
-            "https://anisearch.com/anime/684"
-        ],
-        "tags": [
-            "drama",
-            "present",
-            "romance",
-            "sports",
-            "university"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 1998
-        }
-    },
-    {
-        "sources": [
+            "https://anidb.net/anime/3059",
             "https://anilist.co/anime/1540",
+            "https://anime-planet.com/anime/touch-miss-lonely-yesterday-arekara-kimi-wa",
+            "https://anisearch.com/anime/1421",
             "https://kitsu.io/anime/1381",
             "https://myanimelist.net/anime/1540",
             "https://notify.moe/anime/fBJa5Fimg"
@@ -3325,13 +3292,35 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1300/96421.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1300/96421t.jpg",
         "synonyms": [
+            "Théo ou la batte de la victoire - Miss Lonely Yesterday",
             "Touch Bateadores: Miss Lonely Yesterday",
+            "Touch MLY",
+            "Touch Movie 4",
+            "Touch, Bateadores: Miss Lonely Yesterday",
+            "Touch4",
+            "Touch: Miss Lonely Yesterday - Are kara, Kimi wa …",
+            "Touch: Miss Lonely Yesterday - Arekara, Kimi Ha",
+            "Touch: Miss Lonely Yesterday - Arekara, Kimi wa",
+            "Touch: Prendi il mondo e vai OAV",
             "タッチ Miss Lonely Yesterday あれから",
-            "タッチ Miss Lonely Yesterday あれから, 君は..."
+            "タッチ Miss Lonely Yesterday あれから, 君は...",
+            "タッチ Miss Lonely Yesterday あれから、君は…"
         ],
         "relations": [
+            "https://anidb.net/anime/241",
+            "https://anidb.net/anime/3061",
             "https://anilist.co/anime/1065",
             "https://anilist.co/anime/1539",
+            "https://anime-planet.com/anime/touch",
+            "https://anime-planet.com/anime/touch-cross-road-kaze-no-yukue",
+            "https://anime-planet.com/anime/touch-kimi-ga-toorisugita-ato-ni",
+            "https://anime-planet.com/anime/touch-sayonara-no-okurimono",
+            "https://anime-planet.com/anime/touch-sebangou-no-nai-ace",
+            "https://anisearch.com/anime/1047",
+            "https://anisearch.com/anime/1479",
+            "https://anisearch.com/anime/2112",
+            "https://anisearch.com/anime/2827",
+            "https://anisearch.com/anime/684",
             "https://kitsu.io/anime/1380",
             "https://kitsu.io/anime/952",
             "https://myanimelist.net/anime/1065",
@@ -3342,10 +3331,13 @@
         "tags": [
             "asia",
             "baseball",
+            "based on a manga",
             "college",
+            "drama",
             "earth",
             "japan",
             "love polygon",
+            "manga",
             "photography",
             "present",
             "primarily adult cast",
@@ -3354,50 +3346,8 @@
             "school life",
             "shounen",
             "sports",
-            "time skip"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 1998
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/3059",
-            "https://anime-planet.com/anime/touch-miss-lonely-yesterday-arekara-kimi-wa"
-        ],
-        "title": "Touch: Miss Lonely Yesterday - Arekara, Kimi wa",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/touch-miss-lonely-yesterday-arekara-kimi-wa-1.jpg?t=1625886420",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/touch-miss-lonely-yesterday-arekara-kimi-wa-1-190x270.jpg?t=1625886420",
-        "synonyms": [
-            "Théo ou la batte de la victoire - Miss Lonely Yesterday",
-            "Touch MLY",
-            "Touch Movie 4",
-            "Touch4",
-            "タッチ Miss Lonely Yesterday あれから, 君は..."
-        ],
-        "relations": [
-            "https://anidb.net/anime/241",
-            "https://anidb.net/anime/3061",
-            "https://anime-planet.com/anime/touch",
-            "https://anime-planet.com/anime/touch-cross-road-kaze-no-yukue",
-            "https://anime-planet.com/anime/touch-kimi-ga-toorisugita-ato-ni",
-            "https://anime-planet.com/anime/touch-sayonara-no-okurimono",
-            "https://anime-planet.com/anime/touch-sebangou-no-nai-ace"
-        ],
-        "tags": [
-            "baseball",
-            "based on a manga",
-            "drama",
-            "love polygon",
-            "manga",
-            "romance",
-            "school life",
-            "shounen",
-            "sports"
+            "time skip",
+            "university"
         ],
         "date": {
             "season": "fall",

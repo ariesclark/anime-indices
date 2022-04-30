@@ -3176,6 +3176,9 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/3977",
+            "https://anime-planet.com/anime/to-heart-specials",
+            "https://anisearch.com/anime/11566",
             "https://kitsu.io/anime/3392",
             "https://livechart.me/anime/7806",
             "https://myanimelist.net/anime/3977",
@@ -3188,9 +3191,29 @@
         "picture": "https://cdn.myanimelist.net/images/anime/9/29923.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/9/29923t.jpg",
         "synonyms": [
-            "トゥハート おまけ"
+            "To Heart Omakes",
+            "To Heart Specials",
+            "To Heart: Eizou Tokuten",
+            "To Heart: Eizō Tokuten",
+            "To Heart: Special Mini Episodes",
+            "トゥハート おまけ",
+            "トゥハート 映像特典"
         ],
         "relations": [
+            "https://anilist.co/anime/472",
+            "https://anime-planet.com/anime/to-heart",
+            "https://anime-planet.com/anime/to-heart-2",
+            "https://anime-planet.com/anime/to-heart-2-ad-next",
+            "https://anime-planet.com/anime/to-heart-2-ad-ova",
+            "https://anime-planet.com/anime/to-heart-2-ad-plus",
+            "https://anime-planet.com/anime/to-heart-2-dungeon-travelers",
+            "https://anime-planet.com/anime/to-heart-2-ova",
+            "https://anime-planet.com/anime/to-heart-2-special-compilation",
+            "https://anime-planet.com/anime/to-heart-remember-my-memories",
+            "https://anime-planet.com/anime/to-heart-remember-my-memories-specials",
+            "https://anisearch.com/anime/2354",
+            "https://anisearch.com/anime/3924",
+            "https://anisearch.com/anime/915",
             "https://kitsu.io/anime/434",
             "https://livechart.me/anime/5093",
             "https://livechart.me/anime/5477",
@@ -3206,37 +3229,13 @@
             "https://notify.moe/anime/s6Ho5FmiR"
         ],
         "tags": [
+            "chibi",
             "comedy",
+            "female harem",
             "harem",
             "school",
             "school life",
-            "slice of life"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 1999
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/3977"
-        ],
-        "title": "To Heart Omakes",
-        "type": "special",
-        "episodes": 6,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3977.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3977.jpg",
-        "synonyms": [
-            "トゥハート おまけ"
-        ],
-        "relations": [
-            "https://anilist.co/anime/472"
-        ],
-        "tags": [
-            "comedy",
-            "female harem",
-            "school",
+            "short episodes",
             "slice of life"
         ],
         "date": {
