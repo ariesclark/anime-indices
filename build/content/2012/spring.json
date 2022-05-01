@@ -8051,7 +8051,9 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/14663",
             "https://anime-planet.com/anime/queens-blade-rebellion-vs-hagure-yuusha-no-aesthetica",
+            "https://anisearch.com/anime/7739",
             "https://kitsu.io/anime/7152",
             "https://myanimelist.net/anime/14663",
             "https://notify.moe/anime/TedOpKmiR"
@@ -8063,9 +8065,14 @@
         "picture": "https://cdn.myanimelist.net/images/anime/2/39901.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/2/39901t.jpg",
         "synonyms": [
+            "Queen's Blade Rebellion vs. Aesthetica of a Rogue Hero",
+            "Queen's Blade Rebellion vs. Hagure Yuusha no Estetica",
+            "Queen's Blade Rebellion vs. Hagure Yūsha no Estetica",
             "クイーンズブレイド リベリオンVSはぐれ勇者の鬼畜美学"
         ],
         "relations": [
+            "https://anilist.co/anime/11859",
+            "https://anilist.co/anime/13161",
             "https://anime-planet.com/anime/aesthetica-of-a-rogue-hero",
             "https://anime-planet.com/anime/queens-blade-rebellion",
             "https://myanimelist.net/anime/11859",
@@ -8073,43 +8080,12 @@
         ],
         "tags": [
             "action",
-            "crossover",
-            "ecchi",
-            "fantasy",
-            "short episodes"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/14663",
-            "https://anisearch.com/anime/7739"
-        ],
-        "title": "Queen's Blade Rebellion vs. Hagure Yuusha no Estetica",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/7/7739.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/7/7739.webp",
-        "synonyms": [
-            "Queen's Blade Rebellion vs. Aesthetica of a Rogue Hero",
-            "Queen's Blade Rebellion vs. Hagure Yūsha no Estetica",
-            "クイーンズブレイド リベリオンVSはぐれ勇者の鬼畜美学"
-        ],
-        "relations": [
-            "https://anilist.co/anime/11859",
-            "https://anilist.co/anime/13161"
-        ],
-        "tags": [
-            "action",
             "action comedy",
             "comedy",
             "crossover",
             "ecchi",
-            "fantasy"
+            "fantasy",
+            "short episodes"
         ],
         "date": {
             "season": "spring",

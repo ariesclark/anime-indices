@@ -4420,6 +4420,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/117019",
             "https://anime-planet.com/anime/nana-seven-of-seven-shougatsu-da-yo-7-x-7-equals-49-nin-no-nana",
             "https://kitsu.io/anime/8807",
             "https://myanimelist.net/anime/22361",
@@ -4436,9 +4437,12 @@
             "Nana 7 of 7: Oshougatsu Da yo! 7 x 7 = 49-nin no Nana?",
             "Nana Seven of Seven: Shougatsu Da yo! 7 x 7 = 49-nin no Nana?",
             "New Year Special: It's New Year's! 7 x 7 = 49 Nanas?",
-            "お正月だよ! 7×7=49人のナナ?"
+            "Shichinin no Nana: Oshougatsu Da yo! 7×7 = 49-nin no Nana?",
+            "お正月だよ! 7×7=49人のナナ?",
+            "七人のナナ お正月だよ!7×7＝49人のナナ?"
         ],
         "relations": [
+            "https://anilist.co/anime/623",
             "https://anime-planet.com/anime/nana-seven-of-seven",
             "https://kitsu.io/anime/578",
             "https://myanimelist.net/anime/623",
@@ -4448,35 +4452,10 @@
             "adventure",
             "based on a manga",
             "comedy",
-            "magic",
-            "shounen"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2002
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/117019"
-        ],
-        "title": "Shichinin no Nana: Oshougatsu Da yo! 7×7 = 49-nin no Nana?",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117019-x3szkP8JrzZE.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117019-x3szkP8JrzZE.jpg",
-        "synonyms": [
-            "New Year Special: It's New Year's! 7 x 7 = 49 Nanas?",
-            "七人のナナ お正月だよ!7×7＝49人のナナ?"
-        ],
-        "relations": [
-            "https://anilist.co/anime/623"
-        ],
-        "tags": [
-            "comedy",
             "female protagonist",
-            "primarily female cast"
+            "magic",
+            "primarily female cast",
+            "shounen"
         ],
         "date": {
             "season": "fall",

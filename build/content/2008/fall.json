@@ -6983,35 +6983,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/8908"
-        ],
-        "title": "Tales of Symphonia The Animation: Kaettekita Kratos-sensei no Private Lesson",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8908.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8908.jpg",
-        "synonyms": [
-            "Tales of Symphonia The Animation: Sylvarant Chapter - The Return of Professor Kratos' Private Lesson",
-            "Tales of Symphonia The Animation: Sylvarant-hen Special 2",
-            "帰ってきたクラトス先生のプライベートレッスン"
-        ],
-        "relations": [
-            "https://anilist.co/anime/3954"
-        ],
-        "tags": [
-            "action",
-            "comedy",
-            "fantasy",
-            "magic"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2008
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/6040",
             "https://anilist.co/anime/4884",
             "https://anime-planet.com/anime/tales-of-the-abyss",
@@ -7109,57 +7080,8 @@
         "sources": [
             "https://anidb.net/anime/6156",
             "https://anilist.co/anime/5538",
-            "https://anisearch.com/anime/5130"
-        ],
-        "title": "Tegami Bachi: Hikari to Ao no Gensou Yawa",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/5/5130.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/5/5130.webp",
-        "synonyms": [
-            "Letter Bee: Light and Blue Night Fantasy",
-            "Tegami Bachi - Jump Super Anime Tour Special 2008",
-            "Tegami Bachi : L`histoire fantastique de la lumière et du bleu",
-            "Tegami Bachi OVA",
-            "Tegami Bachi: Hikari to Ao no Gensō Yawa",
-            "Tegamibachi",
-            "Tegamibachi: The Fantasy Night Talk of Light and Blue",
-            "tbova",
-            "Пчелиная почта (фильм)",
-            "テガミバチ ~光と青の幻想夜話~",
-            "テガミバチ 〜光と青の幻想夜話〜",
-            "テガミバチ ～光と青の幻想夜話～"
-        ],
-        "relations": [
-            "https://anidb.net/anime/6772",
-            "https://anilist.co/anime/6444",
-            "https://anisearch.com/anime/5439",
-            "https://anisearch.com/anime/6207",
-            "https://anisearch.com/anime/9567"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "alternative world",
-            "contemporary fantasy",
-            "drama",
-            "fantasy",
-            "guns",
-            "manga",
-            "monster",
-            "shounen",
-            "slice of life",
-            "steampunk",
-            "supernatural"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2008
-        }
-    },
-    {
-        "sources": [
+            "https://anime-planet.com/anime/tegami-bachi-letter-bee-light-and-blue-night-fantasy",
+            "https://anisearch.com/anime/5130",
             "https://kitsu.io/anime/4141",
             "https://livechart.me/anime/7386",
             "https://myanimelist.net/anime/5538",
@@ -7173,9 +7095,32 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/9/84685t.jpg",
         "synonyms": [
             "Letter Bee: Light and Blue Night Fantasy",
-            "テガミバチ 光と青の幻想夜話"
+            "Tegami Bachi - Jump Super Anime Tour Special 2008",
+            "Tegami Bachi : L`histoire fantastique de la lumière et du bleu",
+            "Tegami Bachi OVA",
+            "Tegami Bachi: Hikari to Ao no Gensou Yawa",
+            "Tegami Bachi: Hikari to Ao no Gensō Yawa",
+            "Tegami Bachi: Letter Bee - Hikari to Ao no Gensou Yawa",
+            "Tegami Bachi: Letter Bee - Light and Blue Night Fantasy",
+            "Tegamibachi",
+            "Tegamibachi: The Fantasy Night Talk of Light and Blue",
+            "tbova",
+            "Пчелиная почта (фильм)",
+            "テガミバチ ~光と青の幻想夜話~",
+            "テガミバチ 〜光と青の幻想夜話〜",
+            "テガミバチ 光と青の幻想夜話",
+            "テガミバチ ～光と青の幻想夜話～"
         ],
         "relations": [
+            "https://anidb.net/anime/6772",
+            "https://anilist.co/anime/6444",
+            "https://anime-planet.com/anime/letter-bee-academy",
+            "https://anime-planet.com/anime/tegami-bachi-letter-bee",
+            "https://anime-planet.com/anime/tegami-bachi-letter-bee-reverse",
+            "https://anime-planet.com/anime/tegami-bachi-letter-bee-reverse-specials",
+            "https://anisearch.com/anime/5439",
+            "https://anisearch.com/anime/6207",
+            "https://anisearch.com/anime/9567",
             "https://kitsu.io/anime/4564",
             "https://livechart.me/anime/3956",
             "https://livechart.me/anime/4656",
@@ -7185,12 +7130,21 @@
             "https://notify.moe/anime/LYM6cFmiR"
         ],
         "tags": [
+            "action",
             "adventure",
+            "alternative world",
+            "based on a manga",
             "contemporary fantasy",
+            "drama",
             "fantasy",
             "fantasy world",
+            "guns",
+            "insects",
+            "manga",
+            "monster",
             "shounen",
             "slice of life",
+            "steampunk",
             "supernatural"
         ],
         "date": {

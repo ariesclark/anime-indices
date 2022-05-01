@@ -1726,90 +1726,10 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/3624"
-        ],
-        "title": "Tekkamen o Oe \"d`Artagnan Monogatari\" yori",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/5306.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/5306.jpg-thumb.jpg",
-        "synonyms": [
-            "After the man in the iron mask! from the Tale of d`Artagnan",
-            "鉄仮面を追え 「ダルタニャン物語」より"
-        ],
-        "relations": [
-            "https://anidb.net/anime/1962"
-        ],
-        "tags": [
-            "action",
-            "comedy",
-            "conspiracy",
-            "novel"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 1987
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/2341"
-        ],
-        "title": "Tekkamen o Oe! d’Artagnan Monogatari yori",
-        "type": "tv",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/2/2341.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/2/2341.webp",
-        "synonyms": [
-            "After the man in the iron mask! from the Tale of d’Artagnan",
-            "Tekkamen o Oe: \"d’Artagnan Monogatari\" yori",
-            "Tekkamen wo Oe! d’Artagnan Monogatari yori",
-            "Tekkamen wo Oe: \"d’Artagnan Monogatari\" yori",
-            "鉄仮面を追え 「ダルタニャン物語」より"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "adventure",
-            "historical"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 1987
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/8214"
-        ],
-        "title": "Tekkamen wo Oe! Dartanyan Monogatari yori",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8214.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8214.jpg",
-        "synonyms": [
-            "After the man in the iron mask! from the Tale of D'Artagnan",
-            "Anime Sanjushi Pilot Episode",
-            "鉄仮面を追え ダルタニャン物語より"
-        ],
-        "relations": [
-            "https://anilist.co/anime/2333"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "historical"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 1987
-        }
-    },
-    {
-        "sources": [
+            "https://anidb.net/anime/3624",
+            "https://anilist.co/anime/8214",
+            "https://anime-planet.com/anime/tekkamen-wo-oe-dartagnan-monogatari-yori",
+            "https://anisearch.com/anime/2341",
             "https://kitsu.io/anime/5246",
             "https://livechart.me/anime/8061",
             "https://myanimelist.net/anime/8214",
@@ -1823,21 +1743,40 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/12/21062t.jpg",
         "synonyms": [
             "After the man in the iron mask! from the Tale of D'Artagnan",
+            "After the man in the iron mask! from the Tale of d`Artagnan",
+            "After the man in the iron mask! from the Tale of d’Artagnan",
+            "Anime Sanjushi Pilot",
             "Anime Sanjushi Pilot Episode",
+            "Tekkamen o Oe \"d`Artagnan Monogatari\" yori",
+            "Tekkamen o Oe! d’Artagnan Monogatari yori",
+            "Tekkamen o Oe: \"d’Artagnan Monogatari\" yori",
+            "Tekkamen wo Oe! D'Artagnan Monogatari Yori",
+            "Tekkamen wo Oe! Dartanyan Monogatari yori",
+            "Tekkamen wo Oe! d’Artagnan Monogatari yori",
+            "Tekkamen wo Oe: \"d’Artagnan Monogatari\" yori",
+            "鉄仮面を追え 「ダルタニャン物語」より",
+            "鉄仮面を追え ダルタニャン物語より",
             "鉄仮面を追えダルタニャン物語より"
         ],
         "relations": [
+            "https://anidb.net/anime/1962",
+            "https://anilist.co/anime/2333",
+            "https://anime-planet.com/anime/the-three-musketeers",
+            "https://anime-planet.com/anime/the-three-musketeers-adventure-of-aramis",
             "https://kitsu.io/anime/2113",
             "https://myanimelist.net/anime/2333",
             "https://notify.moe/anime/TIJPcFiiR"
         ],
         "tags": [
             "action",
+            "adventure",
+            "based on a novel",
             "comedy",
             "conspiracy",
             "europe",
             "france",
             "historical",
+            "novel",
             "past"
         ],
         "date": {

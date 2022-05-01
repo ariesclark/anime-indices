@@ -5163,39 +5163,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/8346",
-            "https://anilist.co/anime/14023",
-            "https://anime-planet.com/anime/r2-rise-r-to-the-second-power",
-            "https://anisearch.com/anime/6975"
-        ],
-        "title": "R2 [rise R To The Second Power]",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "synonyms": [
-            "R2: Rise R to the Second Power",
-            "R² [rise R to the second power]",
-            "R²[rise R to the second power]"
-        ],
-        "relations": [],
-        "tags": [
-            "alternative world",
-            "based on a manga",
-            "guns",
-            "manga",
-            "promotional",
-            "shorts",
-            "shounen"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2005
-        }
-    },
-    {
-        "sources": [
             "https://kitsu.io/anime/13848",
             "https://notify.moe/anime/IAAS2Kmig"
         ],
@@ -5314,6 +5281,10 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/8346",
+            "https://anilist.co/anime/14023",
+            "https://anime-planet.com/anime/r2-rise-r-to-the-second-power",
+            "https://anisearch.com/anime/6975",
             "https://kitsu.io/anime/7068",
             "https://myanimelist.net/anime/14023",
             "https://notify.moe/anime/UK3DtKmmR"
@@ -5325,11 +5296,21 @@
         "picture": "https://cdn.myanimelist.net/images/anime/2/38771.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/2/38771t.jpg",
         "synonyms": [
+            "R2 [rise R To The Second Power]",
+            "R2: Rise R to the Second Power",
+            "R² [rise R to the second power]",
             "R²[rise R to the second power]"
         ],
         "relations": [],
         "tags": [
-            "music"
+            "alternative world",
+            "based on a manga",
+            "guns",
+            "manga",
+            "music",
+            "promotional",
+            "shorts",
+            "shounen"
         ],
         "date": {
             "season": "winter",

@@ -11879,8 +11879,11 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/21862",
             "https://anime-planet.com/anime/havent-you-heard-i-was-sakamoto",
+            "https://anisearch.com/anime/11748",
             "https://kitsu.io/anime/12278",
+            "https://livechart.me/anime/2241",
             "https://myanimelist.net/anime/33524",
             "https://notify.moe/anime/DA_R2Fimg"
         ],
@@ -11894,18 +11897,31 @@
             "Haven't You Heard? I was Sakamoto",
             "Haven't You Heard? I'm Sakamoto (Sakamoto Desu Ga?) Episodio 13: Sakamoto. La Película",
             "Haven't You Heard? I'm Sakamoto Episode 13",
+            "Haven't You Heard? I'm Sakamoto: Haven’t You Heard? I was Sakamoto",
+            "Haven't You Heard? I'm Sakamoto: The Movie",
             "Haven’t You Heard? I’m Sakamoto Folge 13 – Untitled",
             "Haven’t You Heard? I’m Sakamoto Special",
             "Haven’t You Heard? I’m Sakamoto Épisode 13: Untitled",
+            "Sakamoto Deshita?",
             "Sakamoto deshita",
             "Sakamoto desu ga? OVA",
             "Sakamoto desu ga? Special",
+            "Sakamoto desu ga? The Movie",
+            "Sakamoto desu ga?: Sakamoto Deshita?",
+            "Sakamoto, pour vous servir ! The Movie",
+            "Sono Sakamoto, perché? The Movie",
             "さかもとですが",
-            "坂本ですが？"
+            "坂本でした?",
+            "坂本ですが? 坂本でした?",
+            "坂本ですが？",
+            "坂本ですが？ THE MOVIE"
         ],
         "relations": [
+            "https://anilist.co/anime/21595",
             "https://anime-planet.com/anime/havent-you-heard-im-sakamoto",
+            "https://anisearch.com/anime/11091",
             "https://kitsu.io/anime/11751",
+            "https://livechart.me/anime/1994",
             "https://myanimelist.net/anime/32542",
             "https://notify.moe/anime/S52qtFimR"
         ],
@@ -11915,37 +11931,9 @@
             "comedy",
             "delinquents",
             "gag",
-            "school",
-            "school life",
-            "seinen",
-            "slice of life"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/21862"
-        ],
-        "title": "Sakamoto desu ga?: Sakamoto Deshita?",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21862-bl3H26pdq3el.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21862-bl3H26pdq3el.jpg",
-        "synonyms": [
-            "Haven't You Heard? I'm Sakamoto: Haven’t You Heard? I was Sakamoto",
-            "坂本ですが? 坂本でした?"
-        ],
-        "relations": [
-            "https://anilist.co/anime/21595"
-        ],
-        "tags": [
-            "comedy",
             "male protagonist",
             "school",
+            "school life",
             "seinen",
             "slice of life",
             "surreal comedy"
