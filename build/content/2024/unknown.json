@@ -1,6 +1,24 @@
 [
     {
         "sources": [
+            "https://anilist.co/anime/148080"
+        ],
+        "title": "(Title to be Announced)",
+        "type": "ona",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148080-Vh4JomDG4dfW.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148080-Vh4JomDG4dfW.jpg",
+        "synonyms": [],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2024
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/16863"
         ],
         "title": "Kidou Senshi Gundam: Senkou no Hathaway - San of Bright",
@@ -24,6 +42,24 @@
             "drama",
             "mecha"
         ],
+        "date": {
+            "season": "unknown",
+            "year": 2024
+        }
+    },
+    {
+        "sources": [
+            "https://livechart.me/anime/11194"
+        ],
+        "title": "Untitled Studio Colorido Film",
+        "type": "movie",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://u.livechart.me/anime/11194/poster_image/699994e4583b4c29006f7b4d0b9f8aa9.webp?style=large&format=jpg",
+        "thumbnail": "https://u.livechart.me/anime/11194/poster_image/699994e4583b4c29006f7b4d0b9f8aa9.webp?style=small&format=jpg",
+        "synonyms": [],
+        "relations": [],
+        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2024

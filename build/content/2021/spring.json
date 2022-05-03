@@ -218,10 +218,14 @@
             "male protagonist",
             "mecha",
             "military",
+            "necromancy",
             "novel",
             "philosophy",
             "piloted robot",
             "politics",
+            "post-apocalyptic",
+            "pov",
+            "primarily female cast",
             "primarily teen cast",
             "real robot",
             "robots",
@@ -291,6 +295,28 @@
             "science fiction",
             "science-fiction",
             "war"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anisearch.com/anime/17348"
+        ],
+        "title": "ALL-IN Anime CM",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17348.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17348.webp",
+        "synonyms": [
+            "ALL-IN アニメCM"
+        ],
+        "relations": [],
+        "tags": [
+            "present"
         ],
         "date": {
             "season": "spring",
@@ -4795,6 +4821,7 @@
             "https://kitsu.io/anime/45265",
             "https://kitsu.io/anime/45645",
             "https://kitsu.io/anime/45899",
+            "https://kitsu.io/anime/46082",
             "https://livechart.me/anime/10320",
             "https://livechart.me/anime/10351",
             "https://livechart.me/anime/11082",
@@ -5727,29 +5754,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/130568"
-        ],
-        "title": "Kaijuu Iro no Shima PV",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130568-WpTsF4Qr9x3H.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130568-WpTsF4Qr9x3H.jpg",
-        "synonyms": [
-            "かいじゅう色の島 - PV"
-        ],
-        "relations": [],
-        "tags": [
-            "drama",
-            "slice of life"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/16510",
             "https://anime-planet.com/anime/kaijuu-step-sdgs-daisakusen",
             "https://anisearch.com/anime/16512",
@@ -5785,6 +5789,37 @@
             "monsters",
             "sci fi",
             "short episodes"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/130568",
+            "https://anime-planet.com/anime/kaijuu-iro-no-shima-pv"
+        ],
+        "title": "Kaijuu-iro no Shima PV",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/kaijuu-iro-no-shima-pv-1.webp?t=1651392160",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kaijuu-iro-no-shima-pv-1-285x400.webp?t=1651392160",
+        "synonyms": [
+            "Kaijuu Iro no Shima PV",
+            "かいじゅう色の島 - PV"
+        ],
+        "relations": [],
+        "tags": [
+            "based on a manga",
+            "drama",
+            "gl",
+            "island",
+            "promotional",
+            "shoujo-ai",
+            "shounen",
+            "slice of life"
         ],
         "date": {
             "season": "spring",
@@ -7528,7 +7563,7 @@
         ],
         "title": "Mini Van Large",
         "type": "ona",
-        "episodes": 24,
+        "episodes": 25,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1758/116411.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1758/116411t.jpg",
@@ -8369,6 +8404,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/148041",
             "https://myanimelist.net/anime/51453"
         ],
         "title": "Nonnon",
@@ -9949,13 +9985,15 @@
             "mansion",
             "memory manipulation",
             "mystery",
+            "ojou-sama",
             "parasite",
             "primarily child cast",
             "seinen",
             "slice of life",
             "supernatural",
             "supernatural drama",
-            "tragedy"
+            "tragedy",
+            "urban fantasy"
         ],
         "date": {
             "season": "spring",
@@ -10066,6 +10104,7 @@
             "https://anime-planet.com/anime/shaman-king",
             "https://anime-planet.com/anime/shaman-king-mini-anime-funbari-onsen-hanjouki",
             "https://anime-planet.com/anime/shaman-king-new",
+            "https://anisearch.com/anime/17339",
             "https://anisearch.com/anime/877",
             "https://kitsu.io/anime/132",
             "https://kitsu.io/anime/46079",
@@ -10076,7 +10115,8 @@
             "https://myanimelist.net/anime/154",
             "https://myanimelist.net/anime/49708",
             "https://myanimelist.net/anime/51673",
-            "https://notify.moe/anime/DJUp5Fmig"
+            "https://notify.moe/anime/DJUp5Fmig",
+            "https://notify.moe/anime/_PwJX-w7R"
         ],
         "tags": [
             "action",
@@ -11662,9 +11702,9 @@
             "female harem",
             "goblin",
             "isekai",
-            "iyashikei",
             "kingdom building",
             "magic",
+            "male protagonist",
             "management",
             "manga",
             "monster",
@@ -12206,7 +12246,7 @@
         ],
         "title": "Uchuu Nanchara Kotetsu-kun",
         "type": "tv",
-        "episodes": 35,
+        "episodes": 36,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1226/112286.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1226/112286t.jpg",
@@ -13557,7 +13597,7 @@
         ],
         "title": "Youkai Watch ♪",
         "type": "tv",
-        "episodes": 52,
+        "episodes": 53,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1682/118273.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1682/118273t.jpg",

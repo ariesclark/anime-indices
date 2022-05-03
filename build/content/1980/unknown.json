@@ -439,6 +439,27 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/148068"
+        ],
+        "title": "Mr. Synthesizer",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148068-H1dKpZP8aYyR.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148068-H1dKpZP8aYyR.png",
+        "synonyms": [
+            "Minna no Uta",
+            "ミスター シンセサイザー"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 1980
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/shelter-1980"
         ],
         "title": "SHELTER (1980)",
@@ -462,6 +483,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/148076",
             "https://myanimelist.net/anime/49197"
         ],
         "title": "Shelter",
@@ -475,7 +497,8 @@
         ],
         "relations": [],
         "tags": [
-            "avant garde"
+            "avant garde",
+            "psychological"
         ],
         "date": {
             "season": "unknown",

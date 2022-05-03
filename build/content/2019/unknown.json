@@ -2228,6 +2228,7 @@
             "https://anime-planet.com/anime/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-2-event-pv",
             "https://anime-planet.com/anime/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-3-event-pv",
             "https://anime-planet.com/anime/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-5-event-pv",
+            "https://anime-planet.com/anime/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-52-event-pv",
             "https://anime-planet.com/anime/fate-grand-order-first-order",
             "https://anime-planet.com/anime/fategrand-order-cosmos-in-the-lostbelt-lostbelt-no-1-event-pv"
         ],
@@ -5917,6 +5918,27 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/locomotor"
+        ],
+        "title": "Locomotor",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/locomotor-1.webp?t=1650943649",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/locomotor-1-285x400.webp?t=1650943649",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "black and white",
+            "no dialogue"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/131992"
         ],
         "title": "Long Xin Shaonü: Zhuiluo",
@@ -7750,28 +7772,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/51040"
-        ],
-        "title": "Primal",
-        "type": "tv",
-        "episodes": 10,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "action",
-            "adventure",
-            "historical"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/42235"
         ],
         "title": "Princess Aya",
@@ -9208,37 +9208,6 @@
             "fantasy",
             "full cgi",
             "historical",
-            "mystery"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/51066"
-        ],
-        "title": "Si Hai Jing Qi 3rd Season",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1666/121009.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1666/121009t.jpg",
-        "synonyms": [
-            "Beyond the Ocean",
-            "Beyond the Ocean 3",
-            "四海鲸骑",
-            "四海鲸骑第三季"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "adventure",
-            "fantasy",
-            "historical",
-            "martial arts",
-            "military",
             "mystery"
         ],
         "date": {
