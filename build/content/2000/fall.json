@@ -2812,23 +2812,38 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/3804"
+            "https://anilist.co/anime/1094",
+            "https://anime-planet.com/anime/one-piece-special-adventure-in-the-oceans-naval",
+            "https://anisearch.com/anime/3804",
+            "https://kitsu.io/anime/979",
+            "https://livechart.me/anime/4720",
+            "https://myanimelist.net/anime/1094",
+            "https://notify.moe/anime/nNXJ5FimR"
         ],
-        "title": "One Piece: Luffy Rakka! Hikyou - Umi no Heso no Daibouken",
-        "type": "tv",
+        "title": "One Piece: Umi no Heso no Daibouken-hen",
+        "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/3/3804.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/3/3804.webp",
+        "picture": "https://cdn.myanimelist.net/images/anime/6/20923.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/6/20923t.jpg",
         "synonyms": [
+            "ONE PIECE TV Special: Umi no Heso no Daibouken-hen",
+            "ONE PIECE TVスペシャル 海のヘソの大冒険篇",
+            "One Piece Special 1: Adventure in the Ocean's Navel",
+            "One Piece Special 1: Umi no Heso no Daibouken-hen",
+            "One Piece Special: Adventure in the Ocean's Navel",
             "One Piece TV Special 01",
             "One Piece: Avventura nell'ombelico dell'oceano",
+            "One Piece: Luffy Rakka! Hikyou - Umi no Heso no Daibouken",
             "One Piece: Luffy Rakka! Hikyō - Umi no Heso no Daibōken",
             "One Piece: Luffy's Fall! The Unexplored Region - Grand Adventure in the Ocean's Navel",
             "One Piece: Super Year-End Special",
+            "ワンピース ルフィ落下!秘境・海のヘソの大冒険",
             "ワンピース ルフィ落下！ 秘境・海のヘソの大冒険"
         ],
         "relations": [
+            "https://anilist.co/anime/21",
+            "https://anime-planet.com/anime/one-piece",
             "https://anisearch.com/anime/10689",
             "https://anisearch.com/anime/10975",
             "https://anisearch.com/anime/11009",
@@ -2872,44 +2887,7 @@
             "https://anisearch.com/anime/8738",
             "https://anisearch.com/anime/8884",
             "https://anisearch.com/anime/9785",
-            "https://anisearch.com/anime/9793"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "alternative world",
-            "comedy",
-            "fantasy",
-            "fighting-shounen",
-            "hero of strong character",
-            "martial arts",
-            "monster",
-            "pirate",
-            "slapstick"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2000
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/979",
-            "https://livechart.me/anime/4720",
-            "https://myanimelist.net/anime/1094",
-            "https://notify.moe/anime/nNXJ5FimR"
-        ],
-        "title": "One Piece: Umi no Heso no Daibouken-hen",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/6/20923.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/6/20923t.jpg",
-        "synonyms": [
-            "One Piece Special: Adventure in the Ocean's Navel",
-            "ワンピース ルフィ落下!秘境・海のヘソの大冒険"
-        ],
-        "relations": [
+            "https://anisearch.com/anime/9793",
             "https://kitsu.io/anime/12",
             "https://livechart.me/anime/321",
             "https://livechart.me/anime/4028",
@@ -2932,12 +2910,27 @@
         "tags": [
             "action",
             "adventure",
+            "alternative world",
+            "based on a manga",
             "comedy",
+            "ensemble cast",
             "fantasy",
+            "fighting-shounen",
             "friendship",
+            "hero of strong character",
+            "kaiju",
+            "male protagonist",
+            "martial arts",
+            "monster",
+            "pirate",
+            "pirates",
+            "ships",
             "shounen",
+            "skeleton",
+            "slapstick",
             "super power",
-            "superpower"
+            "superpower",
+            "swordplay"
         ],
         "date": {
             "season": "fall",

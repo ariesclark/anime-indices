@@ -3821,6 +3821,9 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/1238",
+            "https://anime-planet.com/anime/one-piece-special-protect-the-last-great-stage",
+            "https://anisearch.com/anime/3836",
             "https://kitsu.io/anime/1114",
             "https://livechart.me/anime/5208",
             "https://myanimelist.net/anime/1238",
@@ -3834,11 +3837,27 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/5/77108t.jpg",
         "synonyms": [
             "Mamore! Saigo no Oobutai",
+            "ONE PIECE TV Special 3: Mamore! Saigo no Oobutai",
+            "ONE PIECE TVスペシャル3 守れ! 最後の大舞台",
+            "One Piece Special 3: Mamore! Saigo no Dai Butai",
+            "One Piece Special 3: Protect! The Last Great Stage",
             "One Piece Special: Protect! The Last Great Performance",
+            "One Piece Special: Protect! The Last Great Stage",
+            "One Piece TV Special 03",
             "One Piece TV Special 3",
-            "ワンピース守れ! 最後の大舞台"
+            "One Piece: L'ultima esibizione",
+            "One Piece: Mamore! Saigo no Daibutai",
+            "One Piece: Mamore! Saigo no Oobutai",
+            "One Piece: Mamore! Saigo no Ōbutai",
+            "One Piece: Protect! The Last Great Performance",
+            "ワンピース 守れ！ 最後の大舞台",
+            "ワンピース守れ! 最後の大舞台",
+            "守れ!最後の大舞台"
         ],
         "relations": [
+            "https://anilist.co/anime/21",
+            "https://anime-planet.com/anime/one-piece",
+            "https://anisearch.com/anime/2227",
             "https://kitsu.io/anime/12",
             "https://livechart.me/anime/321",
             "https://livechart.me/anime/4028",
@@ -3859,51 +3878,30 @@
             "https://notify.moe/anime/jdZp5KmiR"
         ],
         "tags": [
-            "action",
-            "adventure",
-            "comedy",
-            "fantasy",
-            "shounen"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2003
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/3836"
-        ],
-        "title": "One Piece: Mamore! Saigo no Oobutai",
-        "type": "tv",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/3/3836.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/3/3836.webp",
-        "synonyms": [
-            "One Piece TV Special 03",
-            "One Piece: L'ultima esibizione",
-            "One Piece: Mamore! Saigo no Ōbutai",
-            "One Piece: Protect! The Last Great Performance",
-            "ワンピース 守れ！ 最後の大舞台"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/2227"
-        ],
-        "tags": [
+            "acting",
             "action",
             "adventure",
             "alternative world",
+            "based on a manga",
             "beastmen",
             "bionic powers",
             "comedy",
+            "ensemble cast",
             "fantasy",
             "fighting-shounen",
             "hero of strong character",
             "magic",
+            "male protagonist",
             "pirate",
+            "pirates",
             "psi-powers",
+            "revenge",
+            "shapeshifting",
+            "ships",
+            "shounen",
             "slapstick",
+            "super power",
+            "swordplay",
             "theater"
         ],
         "date": {

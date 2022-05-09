@@ -1272,6 +1272,9 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/4508",
+            "https://anime-planet.com/anime/da-capo-second-season-specials",
+            "https://anisearch.com/anime/8634",
             "https://kitsu.io/anime/3655",
             "https://livechart.me/anime/8572",
             "https://myanimelist.net/anime/4508",
@@ -1286,9 +1289,28 @@
         "synonyms": [
             "D.C. ～ダ・カーポ～ セコンドシースン Omake",
             "D.C.S.G. Omake",
-            "Da Capo 2nd Season Omake"
+            "Da Capo 2nd Season Omake",
+            "Da Capo Second Season Omake",
+            "Da Capo Second Season Specials"
         ],
         "relations": [
+            "https://anilist.co/anime/291",
+            "https://anime-planet.com/anime/da-capo",
+            "https://anime-planet.com/anime/da-capo-dc-i-ii-psp",
+            "https://anime-planet.com/anime/da-capo-if",
+            "https://anime-planet.com/anime/da-capo-ii",
+            "https://anime-planet.com/anime/da-capo-ii-second-season",
+            "https://anime-planet.com/anime/da-capo-iii",
+            "https://anime-planet.com/anime/da-capo-iii-special",
+            "https://anime-planet.com/anime/da-capo-second-season",
+            "https://anime-planet.com/anime/t-p-sakura-time-paladin-sakura",
+            "https://anisearch.com/anime/2896",
+            "https://anisearch.com/anime/3482",
+            "https://anisearch.com/anime/4453",
+            "https://anisearch.com/anime/4645",
+            "https://anisearch.com/anime/5071",
+            "https://anisearch.com/anime/6467",
+            "https://anisearch.com/anime/7937",
             "https://kitsu.io/anime/266",
             "https://livechart.me/anime/4192",
             "https://livechart.me/anime/4875",
@@ -1301,43 +1323,8 @@
             "https://notify.moe/anime/d8hhcKmmg"
         ],
         "tags": [
-            "comedy",
-            "harem",
-            "romance"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2005
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/4508",
-            "https://anisearch.com/anime/8634"
-        ],
-        "title": "Da Capo Second Season Omake",
-        "type": "special",
-        "episodes": 7,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/8/8634.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/8/8634.webp",
-        "synonyms": [
-            "D.C. ～ダ・カーポ～ セコンドシースン Omake",
-            "D.C.S.G. Omake",
-            "D.C.S.S: Da Capo Second Season Omake",
-            "Da Capo 2nd Season Omake"
-        ],
-        "relations": [
-            "https://anilist.co/anime/291",
-            "https://anisearch.com/anime/2896",
-            "https://anisearch.com/anime/3482",
-            "https://anisearch.com/anime/4453",
-            "https://anisearch.com/anime/4645",
-            "https://anisearch.com/anime/5071",
-            "https://anisearch.com/anime/6467",
-            "https://anisearch.com/anime/7937"
-        ],
-        "tags": [
+            "based on a visual novel",
+            "based on an eroge",
             "comedy",
             "female harem",
             "harem",
