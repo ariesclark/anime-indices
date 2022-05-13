@@ -109,38 +109,10 @@
             "阿优6 神奇萝卜2",
             "阿优之神奇萝卜2"
         ],
-        "relations": [
-            "https://anisearch.com/anime/15548",
-            "https://anisearch.com/anime/15563",
-            "https://anisearch.com/anime/15591",
-            "https://anisearch.com/anime/15592",
-            "https://anisearch.com/anime/15593",
-            "https://anisearch.com/anime/15648",
-            "https://anisearch.com/anime/15649"
-        ],
+        "relations": [],
         "tags": [
             "comedy",
             "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/ak-mofa-shaonu"
-        ],
-        "title": "AK Mofa Shaonu",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/ak-mofa-shaonu-1.jpg?t=1634083018",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/ak-mofa-shaonu-1-285x399.jpg?t=1634083018",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "chinese animation"
         ],
         "date": {
             "season": "unknown",
@@ -178,24 +150,23 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44491"
+            "https://myanimelist.net/anime/45396"
         ],
-        "title": "Ai Ke Mofa Shaonu",
+        "title": "AU: Mengxiang Xilie",
         "type": "tv",
-        "episodes": 52,
+        "episodes": 40,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1392/122393.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1392/122393t.jpg",
         "synonyms": [
-            "艾可魔法少女"
+            "阿U之梦想系列"
         ],
-        "relations": [],
+        "relations": [
+            "https://myanimelist.net/anime/45384"
+        ],
         "tags": [
-            "action",
-            "adventure",
-            "josei",
-            "kids",
-            "music"
+            "comedy",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -830,30 +801,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44910"
-        ],
-        "title": "Chao Neng Tu Zhandui",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "超能兔战队"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/45316"
         ],
         "title": "Chaoji Fei Xia",
@@ -1068,28 +1015,6 @@
             "police",
             "shorts",
             "shounen"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44902"
-        ],
-        "title": "Dongbei Hua Ze Lei Zhi Qi Yao Ezi",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "东北花泽类之起幺蛾子"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy"
         ],
         "date": {
             "season": "unknown",
@@ -3949,32 +3874,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44609"
-        ],
-        "title": "Na Nian Na Tu Naxie Shi",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "那年那兔那些事"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44610"
-        ],
-        "tags": [
-            "fantasy",
-            "historical",
-            "military"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/44610"
         ],
         "title": "Na Nian Na Tu Naxie Shi season2",
@@ -4612,6 +4511,31 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/persona-4-dancing-all-night-op"
+        ],
+        "title": "Persona 4: Dancing All Night OP",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/persona-4-dancing-all-night-op-1.webp?t=1652126088",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/persona-4-dancing-all-night-op-1-285x400.webp?t=1652126088",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/persona-4-the-animation"
+        ],
+        "tags": [
+            "based on a video game",
+            "dancing",
+            "opening animation",
+            "promotional"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/pichiko-dakyuubu-usa-hen",
             "https://anisearch.com/anime/11575",
             "https://kitsu.io/anime/11925",
@@ -4980,25 +4904,28 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44662"
+            "https://anime-planet.com/anime/qihuan-zhi-lu",
+            "https://myanimelist.net/anime/46016"
         ],
-        "title": "Qianting Zongdongyuan 5: Shiguang Bao He",
-        "type": "movie",
-        "episodes": 1,
+        "title": "Qihuan Zhi Lu",
+        "type": "tv",
+        "episodes": 20,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
-            "潜艇总动员5：时光宝盒"
+            "奇幻之旅"
         ],
         "relations": [
-            "https://myanimelist.net/anime/44661",
-            "https://myanimelist.net/anime/44663"
+            "https://myanimelist.net/anime/46006"
         ],
         "tags": [
-            "adventure",
-            "fantasy",
-            "kids"
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "non-human protagonists"
         ],
         "date": {
             "season": "unknown",
@@ -6664,32 +6591,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/49311"
-        ],
-        "title": "Uchuu Senkan Yamato 2199: Hoshimeguru Hakobune Picture Drama",
-        "type": "special",
-        "episodes": 3,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1441/116136.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1441/116136t.jpg",
-        "synonyms": [
-            "Uchuu Senkan Yamato 2199: Hoshi-Meguru Hakobune Picture Drama, Space Battleship Yamato 2199: Odyssey of the Celestial Ark Picture Drama",
-            "宇宙戦艦ヤマト2199 星巡る方舟"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/23249"
-        ],
-        "tags": [
-            "sci-fi",
-            "space"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/wakamono-analyze"
         ],
         "title": "Wakamono Analyze",
@@ -7144,31 +7045,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/43980"
-        ],
-        "title": "Xiyou Ji Zhi Da Sheng Guilai",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "西遊記之大聖歸來"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "adventure",
-            "fantasy",
-            "historical"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/yuki-suki-tte-nandarou-namida"
         ],
         "title": "YUKI: Suki tte Nandarou... Namida",
@@ -7252,31 +7128,6 @@
         ],
         "tags": [
             "chinese animation",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44028"
-        ],
-        "title": "Yi Fei Chongtian Zhi Tianji Zhan Qi",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "翼飞冲天之天际战骑"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44027"
-        ],
-        "tags": [
-            "adventure",
             "kids"
         ],
         "date": {
@@ -7562,28 +7413,6 @@
             "non-human protagonists",
             "promotional",
             "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44896"
-        ],
-        "title": "Zang Ling Wangzhixue Yu Jingling",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "藏羚王之雪域精灵"
-        ],
-        "relations": [],
-        "tags": [
-            "kids"
         ],
         "date": {
             "season": "unknown",

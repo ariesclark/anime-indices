@@ -100,7 +100,6 @@
             "https://anidb.net/anime/2369",
             "https://anilist.co/anime/269",
             "https://anime-planet.com/anime/bleach",
-            "https://anisearch.com/anime/1078",
             "https://kitsu.io/anime/244",
             "https://livechart.me/anime/3340",
             "https://livechart.me/anime/3786",
@@ -196,11 +195,11 @@
             "https://anidb.net/anime/15484",
             "https://anilist.co/anime/117193",
             "https://anime-planet.com/anime/my-hero-academia-5",
-            "https://anisearch.com/anime/15141",
             "https://kitsu.io/anime/43108",
             "https://livechart.me/anime/10100",
             "https://livechart.me/anime/10236",
             "https://livechart.me/anime/10926",
+            "https://livechart.me/anime/11210",
             "https://livechart.me/anime/1895",
             "https://livechart.me/anime/2225",
             "https://livechart.me/anime/2292",
@@ -211,6 +210,7 @@
             "https://livechart.me/anime/9371",
             "https://livechart.me/anime/9877",
             "https://myanimelist.net/anime/41587",
+            "https://myanimelist.net/anime/51781",
             "https://notify.moe/anime/SJU4EIjWR"
         ],
         "tags": [
@@ -293,7 +293,6 @@
             "https://anilist.co/anime/143766",
             "https://anilist.co/anime/16157",
             "https://anime-planet.com/anime/hyperdimension-neptunia",
-            "https://anisearch.com/anime/8255",
             "https://livechart.me/anime/14",
             "https://livechart.me/anime/367",
             "https://livechart.me/anime/9400",
@@ -388,8 +387,7 @@
             "映画かいけつゾロリ ラララ♪スターたんじょう"
         ],
         "relations": [
-            "https://anidb.net/anime/14986",
-            "https://anisearch.com/anime/14711"
+            "https://anidb.net/anime/14986"
         ],
         "tags": [
             "adventure",
@@ -463,7 +461,6 @@
             "Fumetsu no Anata e Season 2",
             "To You",
             "To You, the Immortal 2nd Season",
-            "To Your Eternity",
             "To Your Eternity (2022)",
             "To Your Eternity 2",
             "To Your Eternity 2nd Season",
@@ -482,7 +479,6 @@
             "https://anidb.net/anime/15351",
             "https://anilist.co/anime/114535",
             "https://anime-planet.com/anime/to-your-eternity",
-            "https://anisearch.com/anime/14882",
             "https://kitsu.io/anime/43211",
             "https://livechart.me/anime/9762",
             "https://myanimelist.net/anime/41025",
@@ -537,9 +533,11 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1733/119909.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1733/119909t.jpg",
         "synonyms": [
+            "Golden Kamuy (2022)",
             "Golden Kamuy 4",
             "Golden Kamuy Season 4",
             "ゴールデンカムイ",
+            "ゴールデンカムイ (2022)",
             "ゴールデンカムイ 4",
             "ゴールデンカムイ 第四期",
             "ゴールデンカムイ４"
@@ -552,7 +550,6 @@
             "https://anime-planet.com/anime/golden-kamuy-season-2",
             "https://anime-planet.com/anime/golden-kamuy-season-2-ova",
             "https://anime-planet.com/anime/golden-kamuy-season-3",
-            "https://anisearch.com/anime/14496",
             "https://kitsu.io/anime/42435",
             "https://livechart.me/anime/2818",
             "https://livechart.me/anime/3247",
@@ -646,6 +643,7 @@
             "religion",
             "romance",
             "samurai",
+            "ships",
             "shounen",
             "splatter",
             "super power",
@@ -702,7 +700,6 @@
             "https://anilist.co/anime/131942",
             "https://anime-planet.com/anime/jojos-bizarre-adventure",
             "https://anime-planet.com/anime/jojos-bizarre-adventure-stone-ocean",
-            "https://anisearch.com/anime/16162",
             "https://kitsu.io/anime/44294",
             "https://myanimelist.net/anime/48661",
             "https://notify.moe/anime/m26yPJ_Gg"
@@ -868,7 +865,6 @@
             "https://anilist.co/anime/20553",
             "https://anime-planet.com/anime/kantai-collection-kan-colle",
             "https://anime-planet.com/anime/kantai-collection-kan-colle-movie",
-            "https://anisearch.com/anime/9021",
             "https://kitsu.io/anime/8039",
             "https://livechart.me/anime/1770",
             "https://livechart.me/anime/252",
@@ -923,6 +919,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1007/122756.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1007/122756t.jpg",
         "synonyms": [
+            "A Raven in the Harem",
             "Kokyu no Karasu",
             "Kōkyū no Karasu",
             "後宮の烏"
@@ -936,83 +933,6 @@
             "magic",
             "mystery",
             "supernatural"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/15876",
-            "https://anilist.co/anime/126529",
-            "https://anime-planet.com/anime/in-spectre-2nd-season",
-            "https://anisearch.com/anime/15783",
-            "https://kitsu.io/anime/43755",
-            "https://livechart.me/anime/10237",
-            "https://myanimelist.net/anime/44204",
-            "https://notify.moe/anime/_qfUfV0Mg"
-        ],
-        "title": "Kyokou Suiri 2nd Season",
-        "type": "tv",
-        "episodes": 12,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1415/121211.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1415/121211t.jpg",
-        "synonyms": [
-            "In/Spectre 2nd Season",
-            "In/Spectre Season 2",
-            "Kyokou Suiri 2",
-            "Kyokou Suiri Season 2",
-            "Kyokō Suiri 2",
-            "ไขปมปริศนาภูต ภาค 2",
-            "虚構推理",
-            "虚構推理 2",
-            "虚構推理 Season2"
-        ],
-        "relations": [
-            "https://anidb.net/anime/14602",
-            "https://anilist.co/anime/107201",
-            "https://anime-planet.com/anime/in-spectre",
-            "https://anisearch.com/anime/14105",
-            "https://kitsu.io/anime/42117",
-            "https://livechart.me/anime/11159",
-            "https://livechart.me/anime/9193",
-            "https://livechart.me/anime/9690",
-            "https://myanimelist.net/anime/39017",
-            "https://myanimelist.net/anime/51542",
-            "https://notify.moe/anime/IGXCdL_iR"
-        ],
-        "tags": [
-            "action",
-            "action drama",
-            "based on a manga",
-            "comedy",
-            "contemporary fantasy",
-            "deity",
-            "demon",
-            "demons",
-            "detective",
-            "drama",
-            "fantasy",
-            "female protagonist",
-            "ghost",
-            "ghost stories",
-            "ghosts",
-            "heroine of strong character",
-            "heterosexual",
-            "japanese mythology",
-            "mystery",
-            "mythology",
-            "older man, younger woman",
-            "present",
-            "romance",
-            "shounen",
-            "super power",
-            "supernatural",
-            "supernatural drama",
-            "urban fantasy",
-            "youkai"
         ],
         "date": {
             "season": "fall",
@@ -1039,7 +959,6 @@
         "synonyms": [
             "Mairimashita! Iruma-kun (2022)",
             "Mairimashita! Iruma-kun 3",
-            "Welcome to Demon Schoo!l Iruma-kun 3rd Season",
             "Welcome to Demon School! Iruma-kun (2022)",
             "Welcome to Demon School! Iruma-kun 3rd Season",
             "Welcome to Demon School! Iruma-kun Season 3",
@@ -1057,7 +976,6 @@
             "https://anilist.co/anime/116338",
             "https://anime-planet.com/anime/welcome-to-demon-school-iruma-kun",
             "https://anime-planet.com/anime/welcome-to-demon-school-iruma-kun-2",
-            "https://anisearch.com/anime/15059",
             "https://kitsu.io/anime/43047",
             "https://livechart.me/anime/9215",
             "https://livechart.me/anime/9820",
@@ -1169,7 +1087,6 @@
         "relations": [
             "https://anidb.net/anime/12296",
             "https://anilist.co/anime/87502",
-            "https://anisearch.com/anime/12066",
             "https://kitsu.io/anime/12509",
             "https://livechart.me/anime/2265",
             "https://notify.moe/anime/b4wzhFimR"
@@ -1275,7 +1192,6 @@
             "https://anidb.net/anime/15230",
             "https://anilist.co/anime/112716",
             "https://anime-planet.com/anime/muv-luv-alternative",
-            "https://anisearch.com/anime/15772",
             "https://kitsu.io/anime/43690",
             "https://livechart.me/anime/1034",
             "https://livechart.me/anime/1607",
@@ -1329,7 +1245,6 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1537/120232.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1537/120232t.jpg",
         "synonyms": [
-            "Pop Team Epic",
             "Pop Team Epic (2022)",
             "Pop Team Epic 2",
             "Pop Team Epic 2nd Season",
@@ -1346,7 +1261,6 @@
             "https://anilist.co/anime/98549",
             "https://anime-planet.com/anime/pop-team-epic",
             "https://anime-planet.com/anime/pop-team-epic-2019",
-            "https://anisearch.com/anime/14316",
             "https://kitsu.io/anime/13319",
             "https://livechart.me/anime/2656",
             "https://livechart.me/anime/3520",
@@ -1400,7 +1314,6 @@
             "https://anidb.net/anime/553",
             "https://anilist.co/anime/293",
             "https://anime-planet.com/anime/di-gi-charat",
-            "https://anisearch.com/anime/3272",
             "https://kitsu.io/anime/268",
             "https://livechart.me/anime/6074",
             "https://livechart.me/anime/6920",
@@ -1531,7 +1444,6 @@
             "https://anidb.net/anime/590",
             "https://anilist.co/anime/170",
             "https://anime-planet.com/anime/slam-dunk",
-            "https://anisearch.com/anime/1808",
             "https://myanimelist.net/anime/170",
             "https://notify.moe/anime/4DutcFmmR"
         ],
@@ -1622,7 +1534,6 @@
             "https://anidb.net/anime/16947",
             "https://anilist.co/anime/140960",
             "https://anime-planet.com/anime/spy-x-family",
-            "https://anisearch.com/anime/16717",
             "https://kitsu.io/anime/45398",
             "https://livechart.me/anime/10456",
             "https://myanimelist.net/anime/50265",
@@ -1647,6 +1558,7 @@
             "female protagonist",
             "foreign",
             "male protagonist",
+            "manga",
             "present",
             "psychic powers",
             "romance",
@@ -1654,8 +1566,7 @@
             "secret identity",
             "shounen",
             "slice of life",
-            "supernatural",
-            "thriller"
+            "supernatural"
         ],
         "date": {
             "season": "fall",
@@ -1683,6 +1594,7 @@
             "Sparrow’s Door Tightening",
             "Suzume Locking Up the Doors",
             "Suzume's Locking-Up",
+            "Suzume’s Door-Locking",
             "すずめの戸締まり"
         ],
         "relations": [],
@@ -1723,11 +1635,10 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1346/121728t.jpg",
         "synonyms": [
             "Gekijouban Sword Art Online the Movie: Progressive - Kuraki Yuuyami no Scherzo",
+            "Gekijōban Sword Art Online the Movie: Progressive - Kuraki Yūyami no Scherzo",
             "Sword Art Online -Progressive- Kuraki Yuuyami no Scherzo",
             "Sword Art Online : Progressive - คัลโซแห่งความมืดสลัวยามพลบค่ำ",
             "Sword Art Online the Movie -Progressive- Scherzo of Deep Night",
-            "Sword Art Online the Movie: Progressive - Kuraki Yuuyami no Scherzo",
-            "Sword Art Online the Movie: Progressive - Kuraki Yūyami no Scherzo",
             "Sword Art Online the Movie: Progressive - Scherzo of Deep Night",
             "Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo",
             "Sword Art Online: Progressive - Scherzo of Dark Night",
@@ -1742,7 +1653,6 @@
             "https://anilist.co/anime/124140",
             "https://anime-planet.com/anime/sword-art-online",
             "https://anime-planet.com/anime/sword-art-online-progressive-movie-1-aria-of-a-starless-night",
-            "https://anisearch.com/anime/15547",
             "https://kitsu.io/anime/43546",
             "https://livechart.me/anime/10159",
             "https://livechart.me/anime/1017",
@@ -1823,7 +1733,8 @@
             "Tensei shitara Ken deshita",
             "Tensei shitara Kendeshita",
             "ซวยเหลือหลาย เกิดใหม่กลายเป็นดาบ",
-            "転生したら剣でした"
+            "転生したら剣でした",
+            "転生したら剣でした #転剣"
         ],
         "relations": [],
         "tags": [
@@ -1901,7 +1812,6 @@
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime",
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-season-2",
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-season-2-part-ii",
-            "https://anisearch.com/anime/15098",
             "https://kitsu.io/anime/41024",
             "https://livechart.me/anime/11140",
             "https://livechart.me/anime/3132",
@@ -1984,6 +1894,53 @@
             "supernatural",
             "supernatural drama",
             "yuri"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/17352",
+            "https://anilist.co/anime/148401",
+            "https://anime-planet.com/anime/umayuru",
+            "https://kitsu.io/anime/46100",
+            "https://livechart.me/anime/11206",
+            "https://myanimelist.net/anime/51772"
+        ],
+        "title": "Umayuru",
+        "type": "ona",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1137/123666.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1137/123666t.jpg",
+        "synonyms": [
+            "うまゆる"
+        ],
+        "relations": [
+            "https://anilist.co/anime/98514",
+            "https://anime-planet.com/anime/uma-musume-pretty-derby",
+            "https://kitsu.io/anime/13485",
+            "https://livechart.me/anime/10163",
+            "https://livechart.me/anime/11205",
+            "https://livechart.me/anime/2630",
+            "https://livechart.me/anime/3272",
+            "https://livechart.me/anime/8674",
+            "https://myanimelist.net/anime/35249"
+        ],
+        "tags": [
+            "all-girls school",
+            "animal characteristics",
+            "anthropomorphic",
+            "based on a mobile game",
+            "chibi",
+            "comedy",
+            "horse racing",
+            "non-human protagonists",
+            "school life",
+            "slice of life",
+            "sports"
         ],
         "date": {
             "season": "fall",
@@ -2113,7 +2070,6 @@
             "https://anime-planet.com/anime/encouragement-of-climb-2",
             "https://anime-planet.com/anime/encouragement-of-climb-3",
             "https://anime-planet.com/anime/encouragement-of-climb-special",
-            "https://anisearch.com/anime/12521",
             "https://kitsu.io/anime/13583",
             "https://livechart.me/anime/1237",
             "https://livechart.me/anime/2713",
@@ -2178,7 +2134,6 @@
             "https://anidb.net/anime/13245",
             "https://anilist.co/anime/99476",
             "https://anime-planet.com/anime/yowamushi-pedal-glory-line",
-            "https://anisearch.com/anime/12601",
             "https://kitsu.io/anime/13594",
             "https://livechart.me/anime/1464",
             "https://livechart.me/anime/1603",

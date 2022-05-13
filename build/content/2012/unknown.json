@@ -603,12 +603,12 @@
         "sources": [
             "https://myanimelist.net/anime/44455"
         ],
-        "title": "Dou Dou Di Di Zhi Ku Bi Xiao Zhentan",
+        "title": "Doby Disy: Ku Bi Xiao Zhentan",
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1916/122904.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1916/122904t.jpg",
         "synonyms": [
             "逗逗迪迪之酷比小侦探"
         ],
@@ -617,8 +617,6 @@
             "https://myanimelist.net/anime/44456"
         ],
         "tags": [
-            "adventure",
-            "fantasy",
             "kids"
         ],
         "date": {
@@ -1834,12 +1832,12 @@
         "sources": [
             "https://myanimelist.net/anime/44109"
         ],
-        "title": "Kaixin Baobei Zhi Kaixin Xing Xingqiu",
+        "title": "Kaixin Baobei: Kaixin Xing Xingqiu",
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1387/122277.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1387/122277t.jpg",
         "synonyms": [
             "开心宝贝之开心星星球"
         ],
@@ -1848,8 +1846,9 @@
             "https://myanimelist.net/anime/44110"
         ],
         "tags": [
-            "adventure",
-            "kids"
+            "comedy",
+            "kids",
+            "sci-fi"
         ],
         "date": {
             "season": "unknown",
@@ -2741,20 +2740,20 @@
         "sources": [
             "https://myanimelist.net/anime/44469"
         ],
-        "title": "Mu Ling Baobei Zhi Chong Hui Fan Zhi Gu",
+        "title": "Mu Ling Baobei",
         "type": "tv",
         "episodes": 33,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1444/122292.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1444/122292t.jpg",
         "synonyms": [
-            "木灵宝贝之重回帆智谷"
+            "Mu Ling Baobei: Chong Hui Fan Zhi Gu",
+            "木灵宝贝"
         ],
         "relations": [
             "https://myanimelist.net/anime/44470"
         ],
         "tags": [
-            "adventure",
             "fantasy",
             "kids"
         ],
@@ -2826,7 +2825,9 @@
             "なにぬねのの"
         ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "educational"
+        ],
         "date": {
             "season": "unknown",
             "year": 2012
@@ -3171,31 +3172,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44536"
-        ],
-        "title": "Pao Fu Xiaojie season4",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "泡芙小姐第四季"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44535",
-            "https://myanimelist.net/anime/44537"
-        ],
-        "tags": [
-            "romance"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/pinocchio-p-common-world-domination"
         ],
         "title": "Pinocchio-P: Common World Domination",
@@ -3365,11 +3341,11 @@
         "tags": [
             "action",
             "chinese animation",
-            "game",
             "kids",
             "proxy battles",
             "sci-fi",
-            "sports"
+            "sports",
+            "strategy game"
         ],
         "date": {
             "season": "unknown",
@@ -3447,37 +3423,12 @@
             "潜艇总动员2"
         ],
         "relations": [
-            "https://myanimelist.net/anime/44658",
             "https://myanimelist.net/anime/44660"
         ],
         "tags": [
             "adventure",
             "fantasy",
             "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/43976"
-        ],
-        "title": "Qijiguang Yingxiong Chuan",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "戚继光英雄传"
-        ],
-        "relations": [],
-        "tags": [
-            "historical",
-            "kids",
-            "military"
         ],
         "date": {
             "season": "unknown",
@@ -3500,6 +3451,31 @@
         "relations": [],
         "tags": [
             "action",
+            "comedy",
+            "fantasy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/44133"
+        ],
+        "title": "Qin Shi Mingyue: Xiao Chuangjianghu 2nd Season",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1692/118746.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1692/118746t.jpg",
+        "synonyms": [
+            "秦时明月之笑闯江湖 第二季"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44132"
+        ],
+        "tags": [
             "comedy",
             "fantasy"
         ],
@@ -3803,33 +3779,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44415"
-        ],
-        "title": "Shaonian Shiye Zhi Xiayi Huanle Xing",
-        "type": "tv",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "少年师爷之侠义欢乐行"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44414",
-            "https://myanimelist.net/anime/44416"
-        ],
-        "tags": [
-            "adventure",
-            "historical",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/44464"
         ],
         "title": "Shenlong Zhengjiu Dui Zhi Yuanqi Xing Hun",
@@ -3934,15 +3883,15 @@
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1648/122310.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1648/122310t.jpg",
         "synonyms": [
+            "The Flooding of Jinshan Temple",
             "水漫金山"
         ],
         "relations": [],
         "tags": [
             "fantasy",
-            "historical",
             "kids"
         ],
         "date": {
@@ -4669,6 +4618,29 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/xi-ge-xi-mei-kaixin-leyuan"
+        ],
+        "title": "Xi Ge Xi Mei: Kaixin Leyuan",
+        "type": "tv",
+        "episodes": 25,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/xi-ge-xi-mei-kaixin-leyuan-1.webp?t=1651691499",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/xi-ge-xi-mei-kaixin-leyuan-1-285x400.webp?t=1651691499",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "chibi",
+            "chinese animation",
+            "family friendly",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/131590",
             "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-the-athletic-carousel",
             "https://myanimelist.net/anime/43986"
@@ -5126,7 +5098,6 @@
         ],
         "relations": [],
         "tags": [
-            "adventure",
             "kids",
             "racing"
         ],
@@ -5589,6 +5560,24 @@
             "cg animation",
             "vocaloid"
         ],
+        "date": {
+            "season": "unknown",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/148591"
+        ],
+        "title": "É in MOTION No.2",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+        "synonyms": [],
+        "relations": [],
+        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2012

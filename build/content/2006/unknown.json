@@ -150,12 +150,7 @@
             "Football Kids",
             "Robokicks"
         ],
-        "relations": [
-            "https://anisearch.com/anime/16747",
-            "https://anisearch.com/anime/16748",
-            "https://anisearch.com/anime/16749",
-            "https://anisearch.com/anime/16750"
-        ],
+        "relations": [],
         "tags": [
             "soccer",
             "sports"
@@ -249,29 +244,6 @@
         "relations": [],
         "tags": [
             "abstract"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2006
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44497",
-            "https://myanimelist.net/anime/44498"
-        ],
-        "title": "Galactik Football",
-        "type": "tv",
-        "episodes": 78,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1380/111319.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1380/111319t.jpg",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "action",
-            "sci-fi",
-            "sports"
         ],
         "date": {
             "season": "unknown",
@@ -476,11 +448,12 @@
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1896/123078.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1896/123078t.jpg",
         "synonyms": [
-            "精灵世纪",
-            "精靈世紀"
+            "Century Sonny",
+            "Wizard Century",
+            "精灵世纪"
         ],
         "relations": [],
         "tags": [
@@ -1342,6 +1315,27 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/148569"
+        ],
+        "title": "Yume wo Kanaeyou",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148569-LkDwHUzK5kVl.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148569-LkDwHUzK5kVl.png",
+        "synonyms": [
+            "Minna no Uta",
+            "夢をかなえよう"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2006
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/44373"
         ],
         "title": "Zhongguo Nanhai Hongzhanhui",
@@ -1371,8 +1365,8 @@
         "type": "ova",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1314/122650.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1314/122650t.jpg",
         "synonyms": [
             "Fullani"
         ],

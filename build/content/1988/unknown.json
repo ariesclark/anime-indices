@@ -275,44 +275,7 @@
             "Dragonball OVA 2",
             "ドラゴンボール 悟空の消防隊"
         ],
-        "relations": [
-            "https://anisearch.com/anime/10022",
-            "https://anisearch.com/anime/1011",
-            "https://anisearch.com/anime/10383",
-            "https://anisearch.com/anime/1054",
-            "https://anisearch.com/anime/11462",
-            "https://anisearch.com/anime/1269",
-            "https://anisearch.com/anime/13114",
-            "https://anisearch.com/anime/1441",
-            "https://anisearch.com/anime/1568",
-            "https://anisearch.com/anime/16372",
-            "https://anisearch.com/anime/1825",
-            "https://anisearch.com/anime/1841",
-            "https://anisearch.com/anime/1947",
-            "https://anisearch.com/anime/245",
-            "https://anisearch.com/anime/2466",
-            "https://anisearch.com/anime/2504",
-            "https://anisearch.com/anime/2748",
-            "https://anisearch.com/anime/2849",
-            "https://anisearch.com/anime/286",
-            "https://anisearch.com/anime/2938",
-            "https://anisearch.com/anime/2957",
-            "https://anisearch.com/anime/3163",
-            "https://anisearch.com/anime/3449",
-            "https://anisearch.com/anime/360",
-            "https://anisearch.com/anime/427",
-            "https://anisearch.com/anime/4281",
-            "https://anisearch.com/anime/468",
-            "https://anisearch.com/anime/5088",
-            "https://anisearch.com/anime/5286",
-            "https://anisearch.com/anime/68",
-            "https://anisearch.com/anime/6962",
-            "https://anisearch.com/anime/763",
-            "https://anisearch.com/anime/7952",
-            "https://anisearch.com/anime/831",
-            "https://anisearch.com/anime/9483",
-            "https://anisearch.com/anime/9753"
-        ],
+        "relations": [],
         "tags": [
             "adventure",
             "present"
@@ -719,6 +682,28 @@
         "relations": [],
         "tags": [
             "family friendly"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1988
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/44642"
+        ],
+        "title": "Sun Wukong Yu Tang Lao Ya",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1664/123061.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1664/123061t.jpg",
+        "synonyms": [
+            "孙悟空与唐老鸭"
+        ],
+        "relations": [],
+        "tags": [
+            "kids"
         ],
         "date": {
             "season": "unknown",

@@ -93,12 +93,6 @@
         "relations": [
             "https://anidb.net/anime/2074",
             "https://anilist.co/anime/3909",
-            "https://anisearch.com/anime/1801",
-            "https://anisearch.com/anime/2840",
-            "https://anisearch.com/anime/3349",
-            "https://anisearch.com/anime/3818",
-            "https://anisearch.com/anime/3909",
-            "https://anisearch.com/anime/6054",
             "https://kitsu.io/anime/3340",
             "https://myanimelist.net/anime/3909",
             "https://notify.moe/anime/JlllcKiiR"
@@ -421,7 +415,6 @@
             "https://anidb.net/anime/2684",
             "https://anilist.co/anime/3023",
             "https://anime-planet.com/anime/esper-mami",
-            "https://anisearch.com/anime/1288",
             "https://kitsu.io/anime/2731",
             "https://livechart.me/anime/10872",
             "https://livechart.me/anime/10874",
@@ -525,7 +518,8 @@
             "kids",
             "shounen",
             "soccer",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "winter",
@@ -553,8 +547,6 @@
             "がんばれ！キッカーズスペシャル ひとりぼっちのエースストライカー"
         ],
         "relations": [
-            "https://anisearch.com/anime/13695",
-            "https://anisearch.com/anime/2133",
             "https://kitsu.io/anime/2753",
             "https://notify.moe/anime/Rm_UcKiig"
         ],
@@ -1000,6 +992,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/148822",
             "https://myanimelist.net/anime/41739"
         ],
         "title": "Jungle Dance",
@@ -1010,7 +1003,8 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1761/107107t.jpg",
         "synonyms": [
             "Minna no Uta",
-            "ジャングル·ダンス"
+            "ジャングル·ダンス",
+            "ジャングル・ダンス"
         ],
         "relations": [],
         "tags": [
@@ -1112,7 +1106,8 @@
             "based on a manga",
             "drama",
             "korean animation",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "winter",
@@ -1767,12 +1762,6 @@
             "https://anime-planet.com/anime/mokei-senshi-gunpla-builders-beginning-g",
             "https://anime-planet.com/anime/ring-of-gundam",
             "https://anime-planet.com/anime/turn-a-gundam",
-            "https://anisearch.com/anime/1216",
-            "https://anisearch.com/anime/17021",
-            "https://anisearch.com/anime/2046",
-            "https://anisearch.com/anime/2344",
-            "https://anisearch.com/anime/2541",
-            "https://anisearch.com/anime/389",
             "https://kitsu.io/anime/11008",
             "https://kitsu.io/anime/2085",
             "https://kitsu.io/anime/2088",
@@ -1969,6 +1958,7 @@
             "comedy",
             "episodic",
             "gag",
+            "gag humor",
             "kids",
             "male protagonist",
             "primarily male cast",
@@ -2053,23 +2043,6 @@
             "https://anidb.net/anime/826",
             "https://anilist.co/anime/1254",
             "https://anime-planet.com/anime/saint-seiya-knights-of-the-zodiac",
-            "https://anisearch.com/anime/10149",
-            "https://anisearch.com/anime/10186",
-            "https://anisearch.com/anime/10239",
-            "https://anisearch.com/anime/12143",
-            "https://anisearch.com/anime/12698",
-            "https://anisearch.com/anime/1454",
-            "https://anisearch.com/anime/1487",
-            "https://anisearch.com/anime/1923",
-            "https://anisearch.com/anime/2041",
-            "https://anisearch.com/anime/2108",
-            "https://anisearch.com/anime/3026",
-            "https://anisearch.com/anime/318",
-            "https://anisearch.com/anime/4632",
-            "https://anisearch.com/anime/5190",
-            "https://anisearch.com/anime/6673",
-            "https://anisearch.com/anime/6906",
-            "https://anisearch.com/anime/7598",
             "https://kitsu.io/anime/1129",
             "https://livechart.me/anime/1279",
             "https://livechart.me/anime/2464",
@@ -2154,7 +2127,6 @@
             "https://anidb.net/anime/2071",
             "https://anilist.co/anime/4031",
             "https://anime-planet.com/anime/sakigake-otokojuku-movie",
-            "https://anisearch.com/anime/3103",
             "https://kitsu.io/anime/2633",
             "https://myanimelist.net/anime/4031",
             "https://notify.moe/anime/QeKU5FimR"
@@ -2256,9 +2228,6 @@
             "https://anime-planet.com/anime/aura-battler-dunbine",
             "https://anime-planet.com/anime/garzeys-wing",
             "https://anime-planet.com/anime/wings-of-rean",
-            "https://anisearch.com/anime/10203",
-            "https://anisearch.com/anime/1422",
-            "https://anisearch.com/anime/623",
             "https://kitsu.io/anime/827",
             "https://myanimelist.net/anime/929",
             "https://notify.moe/anime/hmnJcKmiR"
@@ -2413,6 +2382,7 @@
             "Ceddie",
             "Cedie",
             "Der kleine Lord",
+            "El Pequeño Lord",
             "El pequeño lord",
             "Il piccolo lord",
             "Le Petit Lord",
@@ -2431,7 +2401,6 @@
         "relations": [
             "https://anidb.net/anime/7151",
             "https://anime-planet.com/anime/shoukoushi-cedie-specials",
-            "https://anisearch.com/anime/6102",
             "https://kitsu.io/anime/9592",
             "https://myanimelist.net/anime/25075",
             "https://notify.moe/anime/pXZYpKmmg"
@@ -2629,23 +2598,7 @@
             "Sōkō Kihei Votoms: Sunsa",
             "装甲騎兵ボトムズ サンサ"
         ],
-        "relations": [
-            "https://anisearch.com/anime/2070",
-            "https://anisearch.com/anime/2498",
-            "https://anisearch.com/anime/3960",
-            "https://anisearch.com/anime/4240",
-            "https://anisearch.com/anime/4658",
-            "https://anisearch.com/anime/5079",
-            "https://anisearch.com/anime/5152",
-            "https://anisearch.com/anime/5937",
-            "https://anisearch.com/anime/6482",
-            "https://anisearch.com/anime/723",
-            "https://anisearch.com/anime/8966",
-            "https://anisearch.com/anime/8968",
-            "https://anisearch.com/anime/8969",
-            "https://anisearch.com/anime/8970",
-            "https://anisearch.com/anime/8971"
-        ],
+        "relations": [],
         "tags": [],
         "date": {
             "season": "winter",
@@ -2719,6 +2672,7 @@
     {
         "sources": [
             "https://anidb.net/anime/12708",
+            "https://anilist.co/anime/148610",
             "https://anisearch.com/anime/11597",
             "https://kitsu.io/anime/10320",
             "https://myanimelist.net/anime/29103",
@@ -2808,7 +2762,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/10594",
             "https://anime-planet.com/anime/tokimeki-tonight-recaps",
             "https://kitsu.io/anime/6259",
             "https://myanimelist.net/anime/10594",
@@ -2827,7 +2780,6 @@
             "ときめきトゥナイト・スペシャル"
         ],
         "relations": [
-            "https://anilist.co/anime/3125",
             "https://anime-planet.com/anime/tokimeki-tonight",
             "https://kitsu.io/anime/2811",
             "https://myanimelist.net/anime/3125",
@@ -2972,17 +2924,6 @@
             "https://anime-planet.com/anime/urusei-yatsura-ova",
             "https://anime-planet.com/anime/urusei-yatsura-special-its-spring-take-off",
             "https://anime-planet.com/anime/urusei-yatsura-the-obstacle-course-swim-meet",
-            "https://anisearch.com/anime/1574",
-            "https://anisearch.com/anime/16977",
-            "https://anisearch.com/anime/191",
-            "https://anisearch.com/anime/1945",
-            "https://anisearch.com/anime/195",
-            "https://anisearch.com/anime/2685",
-            "https://anisearch.com/anime/2980",
-            "https://anisearch.com/anime/340",
-            "https://anisearch.com/anime/6035",
-            "https://anisearch.com/anime/8388",
-            "https://anisearch.com/anime/8616",
             "https://kitsu.io/anime/1166",
             "https://livechart.me/anime/11005",
             "https://livechart.me/anime/4301",
@@ -3049,6 +2990,7 @@
         "synonyms": [
             "Dragon Slayer Legend",
             "XANADU Dragon Slayer Densetsu",
+            "XANADU ドラゴンスレイヤー伝説",
             "Xanadu",
             "Xanadu Dragonslayer Legend",
             "Xanadu: Legend of Dragonslayer",

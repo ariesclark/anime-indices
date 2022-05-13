@@ -462,35 +462,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/axel-the-biggest-little-hero",
-            "https://myanimelist.net/anime/50319"
-        ],
-        "title": "Bonta",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1093/119259.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1093/119259t.jpg",
-        "synonyms": [
-            "Axel: The Biggest Little Hero",
-            "Gaegujaeng-i Bokaui Daemoheom"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "cg animation",
-            "chinese animation",
-            "comedy",
-            "family friendly",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/13583"
         ],
         "title": "Boom",
@@ -879,24 +850,31 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/electro-boy-3rd-season",
             "https://myanimelist.net/anime/44021"
         ],
-        "title": "Dianji Xiaozi Part 3",
+        "title": "Dianji Xiaozi 3rd Season",
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1625/122867.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1625/122867t.jpg",
         "synonyms": [
+            "Electro Boy 3rd Season",
             "电击小子 第三部"
         ],
         "relations": [
+            "https://anime-planet.com/anime/electro-boy-2nd-season",
             "https://myanimelist.net/anime/44020"
         ],
         "tags": [
-            "action",
-            "adventure",
-            "kids"
+            "cg animation",
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "robots",
+            "sci fi",
+            "superheroes"
         ],
         "date": {
             "season": "unknown",
@@ -1062,33 +1040,6 @@
         "relations": [],
         "tags": [
             "space"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/electro-boy-3rd-season"
-        ],
-        "title": "Electro Boy 3rd Season",
-        "type": "tv",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/electro-boy-3rd-season-1.jpg?t=1625908923",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/electro-boy-3rd-season-1-190x255.jpg?t=1625908923",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/electro-boy-2nd-season"
-        ],
-        "tags": [
-            "cg animation",
-            "chinese animation",
-            "family friendly",
-            "robots",
-            "sci fi",
-            "superheroes"
         ],
         "date": {
             "season": "unknown",
@@ -1311,42 +1262,6 @@
             "korean animation",
             "no dialogue",
             "shorts"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/129481",
-            "https://anime-planet.com/anime/guodong-san-jianke",
-            "https://myanimelist.net/anime/44279"
-        ],
-        "title": "Guodong San Jianke",
-        "type": "tv",
-        "episodes": 20,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "The Jelly 3 Musketeers",
-            "果冻三剑客",
-            "果凍三劍客",
-            "果宝特攻前传"
-        ],
-        "relations": [
-            "https://anilist.co/anime/129480",
-            "https://myanimelist.net/anime/44278",
-            "https://myanimelist.net/anime/44280"
-        ],
-        "tags": [
-            "adventure",
-            "chinese animation",
-            "comedy",
-            "fantasy",
-            "full cgi",
-            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -1702,31 +1617,6 @@
         ],
         "tags": [
             "advertisement"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/51127"
-        ],
-        "title": "InaDan Picture Drama",
-        "type": "special",
-        "episodes": 9,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1496/121106.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1496/121106t.jpg",
-        "synonyms": [
-            "InaDan Telephone"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/15785"
-        ],
-        "tags": [
-            "sports",
-            "strategy game"
         ],
         "date": {
             "season": "unknown",
@@ -2612,28 +2502,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44564"
-        ],
-        "title": "Li Shidai",
-        "type": "ona",
-        "episodes": 14,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "擼時代"
-        ],
-        "relations": [],
-        "tags": [
-            "game"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/lico-and-gli"
         ],
         "title": "Lico & Gli",
@@ -3334,31 +3202,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/43922"
-        ],
-        "title": "New Big Head Son and Little Head Dad Season 1",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "新大头儿子和小头爸爸 第一季"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/43921"
-        ],
-        "tags": [
-            "comedy",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/nia-luna-virus-plus"
         ],
         "title": "Nia: Luna Virus+",
@@ -3736,31 +3579,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44537"
-        ],
-        "title": "Pao Fu Xiaojie Hua Yang Ji",
-        "type": "ona",
-        "episodes": 28,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "泡芙小姐花漾季"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44536",
-            "https://myanimelist.net/anime/44538"
-        ],
-        "tags": [
-            "romance"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/51259"
         ],
         "title": "Piece, Peace",
@@ -3952,6 +3770,29 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/114467",
+            "https://myanimelist.net/anime/51757"
+        ],
+        "title": "QUAILS",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1106/123613.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1106/123613t.jpg",
+        "synonyms": [
+            "うずら"
+        ],
+        "relations": [],
+        "tags": [
+            "psychological"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2013
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/44660"
         ],
         "title": "Qianting Zongdongyuan 3: Caihong Baozang",
@@ -3964,8 +3805,7 @@
             "潜艇总动员3：彩虹宝藏"
         ],
         "relations": [
-            "https://myanimelist.net/anime/44659",
-            "https://myanimelist.net/anime/44661"
+            "https://myanimelist.net/anime/44659"
         ],
         "tags": [
             "adventure",
@@ -3979,7 +3819,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/114467",
             "https://anime-planet.com/anime/quails"
         ],
         "title": "Quails",
@@ -3989,16 +3828,13 @@
         "picture": "https://cdn.anime-planet.com/anime/primary/quails-1.webp?t=1632103890",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/quails-1-285x399.webp?t=1632103890",
         "synonyms": [
-            "QUAILS",
-            "Uzura",
-            "うずら"
+            "Uzura"
         ],
         "relations": [],
         "tags": [
             "abstract",
             "black and white",
             "no dialogue",
-            "psychological",
             "shorts"
         ],
         "date": {
@@ -4361,33 +4197,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44418"
-        ],
-        "title": "Shaonian Shiye Zhi Zhili Wanshitong",
-        "type": "tv",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "少年师爷之知礼万事通"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44417",
-            "https://myanimelist.net/anime/44419"
-        ],
-        "tags": [
-            "adventure",
-            "historical",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/44834"
         ],
         "title": "Shaonian Yuefei",
@@ -4401,33 +4210,6 @@
         ],
         "relations": [],
         "tags": [
-            "historical",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44417"
-        ],
-        "title": "Shaonian shiye Zhi Xinyi Xiao Xiake",
-        "type": "tv",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "少年师爷之信义小侠客"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44416",
-            "https://myanimelist.net/anime/44418"
-        ],
-        "tags": [
-            "adventure",
             "historical",
             "kids"
         ],
@@ -4454,6 +4236,56 @@
             "adventure",
             "kids",
             "sports"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2013
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/44477"
+        ],
+        "title": "Shenqi A You",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1177/122313.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1177/122313t.jpg",
+        "synonyms": [
+            "神奇阿呦"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44478"
+        ],
+        "tags": [
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2013
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/47000",
+            "https://myanimelist.net/anime/47568"
+        ],
+        "title": "Shentan Si Dou Xing",
+        "type": "tv",
+        "episodes": 208,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "神探四豆星"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "anthropomorphic",
+            "fantasy",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -4753,8 +4585,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [],
         "relations": [
             "https://anime-planet.com/anime/puchimas-petit-idolmaster",
@@ -4971,6 +4803,31 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/44468"
+        ],
+        "title": "Wu Long Xiao Zi: Yong Chuang Le Huo Dao",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1097/122291.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1097/122291t.jpg",
+        "synonyms": [
+            "乌龙小子之勇闯乐活岛"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44467"
+        ],
+        "tags": [
+            "fantasy",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2013
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/44288"
         ],
         "title": "Wu Zhan Dao",
@@ -5111,32 +4968,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/43901"
-        ],
-        "title": "Xibai Po 2: Yingxiong Wang Er Xiao",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "西柏坡 2：英雄王二小"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/43898"
-        ],
-        "tags": [
-            "adventure",
-            "historical",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/44831"
         ],
         "title": "Xin Ba Da Lixian Ji 2013",
@@ -5154,6 +4985,44 @@
         "tags": [
             "adventure",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2013
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/43922"
+        ],
+        "title": "Xin Datou Er Zi He Xiao Tou Baba",
+        "type": "tv",
+        "episodes": 50,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1733/122593.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1733/122593t.jpg",
+        "synonyms": [
+            "New Big Head Son and Little Head Dad 1st Season",
+            "新大头儿子和小头爸爸 第一季"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/43920",
+            "https://myanimelist.net/anime/43923",
+            "https://myanimelist.net/anime/43928",
+            "https://myanimelist.net/anime/43929",
+            "https://myanimelist.net/anime/43930",
+            "https://myanimelist.net/anime/43931",
+            "https://myanimelist.net/anime/43933",
+            "https://myanimelist.net/anime/43934",
+            "https://myanimelist.net/anime/43935",
+            "https://myanimelist.net/anime/43936",
+            "https://myanimelist.net/anime/43937",
+            "https://myanimelist.net/anime/43938",
+            "https://myanimelist.net/anime/43939"
+        ],
+        "tags": [
+            "kids",
+            "slice of life"
         ],
         "date": {
             "season": "unknown",

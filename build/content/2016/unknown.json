@@ -254,6 +254,24 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/affordance"
+        ],
+        "title": "Affordance",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/affordance-1.webp?t=1652081620",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/affordance-1-285x399.webp?t=1652081620",
+        "synonyms": [],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/139024"
         ],
         "title": "Afraid To Be Cool",
@@ -1188,32 +1206,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44449"
-        ],
-        "title": "Dou Long Zhanshi Zhi Xing Yin Luopan",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "斗龙战士之星印罗盘"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44440"
-        ],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/41661"
         ],
         "title": "Dragon Ball Z Resurrection F - Future Trunks Special Edition",
@@ -2002,30 +1994,6 @@
             "pigs",
             "rabbits",
             "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/49367"
-        ],
-        "title": "Grown-Up Alice",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1724/116350.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1724/116350t.jpg",
-        "synonyms": [
-            "大人になったアリス"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/31941"
-        ],
-        "tags": [
-            "avant garde"
         ],
         "date": {
             "season": "unknown",
@@ -2940,12 +2908,12 @@
         "sources": [
             "https://myanimelist.net/anime/44115"
         ],
-        "title": "Kaixin Chaoren Lianmeng Zhi Yingxiong Guilai",
+        "title": "Kaixin Chaoren Lianmeng: Yingxiong Guilai",
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1649/122967.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1649/122967t.jpg",
         "synonyms": [
             "开心超人联盟之英雄归来"
         ],
@@ -2954,8 +2922,9 @@
             "https://myanimelist.net/anime/44116"
         ],
         "tags": [
-            "adventure",
-            "kids"
+            "comedy",
+            "kids",
+            "sci-fi"
         ],
         "date": {
             "season": "unknown",
@@ -3007,7 +2976,7 @@
         "tags": [
             "avant garde",
             "black and white",
-            "demons",
+            "mythology",
             "no dialogue",
             "philosophy",
             "psychological",
@@ -3215,35 +3184,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/50976"
-        ],
-        "title": "Kiznaiver Pre-Broadcast Special.",
-        "type": "tv",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1936/120834.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1936/120834t.jpg",
-        "synonyms": [
-            "Kiznaiver Episode 0",
-            "キズナイーバー"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/31798"
-        ],
-        "tags": [
-            "drama",
-            "psychological",
-            "romance",
-            "school",
-            "sci-fi"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/komorebi-mori-no-ibaraido-cm-mori-no-seirei-to-asobou"
         ],
         "title": "Komorebi Mori no Ibaraido CM: Mori no Seirei to Asobou!",
@@ -3333,32 +3273,6 @@
         "relations": [],
         "tags": [
             "vocaloid"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/49632"
-        ],
-        "title": "Kyou wa Oyasumi",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1980/117274.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1980/117274t.jpg",
-        "synonyms": [
-            "Good Night for Today",
-            "今日はおやすみ"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/30370"
-        ],
-        "tags": [
-            "comedy",
-            "shoujo"
         ],
         "date": {
             "season": "unknown",
@@ -3496,6 +3410,31 @@
             "promotional",
             "short episodes",
             "superpowers"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/44035"
+        ],
+        "title": "Ling Su Zhengba",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1227/122271.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1227/122271t.jpg",
+        "synonyms": [
+            "零速争霸"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "kids",
+            "racing",
+            "sci-fi"
         ],
         "date": {
             "season": "unknown",
@@ -4092,30 +4031,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44302"
-        ],
-        "title": "Menghuan Xiyou Zhi Tianming Zhi Zhan",
-        "type": "tv",
-        "episodes": 13,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "梦幻西游之天命之战"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "adventure",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/47258"
         ],
         "title": "Mengxiang Zhaohuan Wang",
@@ -4366,32 +4281,6 @@
             "comedy",
             "picture drama",
             "shounen"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44611"
-        ],
-        "title": "Na Nian Na Tu Naxie Shi Fanwai Pian",
-        "type": "ona",
-        "episodes": 5,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "那年那兔那些事儿 番外篇"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44610"
-        ],
-        "tags": [
-            "fantasy",
-            "historical",
-            "military"
         ],
         "date": {
             "season": "unknown",
@@ -4820,6 +4709,31 @@
         ],
         "tags": [
             "romance"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/persona-5-op"
+        ],
+        "title": "Persona 5 OP",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/persona-5-op-1.webp?t=1652113116",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/persona-5-op-1-285x400.webp?t=1652113116",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/persona-5-royal-op",
+            "https://anime-planet.com/anime/persona-5-the-animation"
+        ],
+        "tags": [
+            "based on a video game",
+            "opening animation",
+            "promotional"
         ],
         "date": {
             "season": "unknown",
@@ -5850,6 +5764,32 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/44422"
+        ],
+        "title": "Shaonian Shiye: Ji Yu Shengdian",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1409/123108.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1409/123108t.jpg",
+        "synonyms": [
+            "少年师爷之祭禹盛典"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44421",
+            "https://myanimelist.net/anime/44423"
+        ],
+        "tags": [
+            "historical",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/45104"
         ],
         "title": "Shenhai Tegong Dui",
@@ -5971,31 +5911,6 @@
             "promotional",
             "shounen",
             "sports"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44496"
-        ],
-        "title": "Shouwang Zhengfeng Zhi Yuanshi Zhi Li",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "兽王争锋之原石之力"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44495"
-        ],
-        "tags": [
-            "adventure",
-            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -7418,31 +7333,6 @@
         "tags": [
             "adventure",
             "fantasy",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44170"
-        ],
-        "title": "Xindongfang Shen Wa",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "新东方神娃"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44168"
-        ],
-        "tags": [
-            "adventure",
             "kids"
         ],
         "date": {

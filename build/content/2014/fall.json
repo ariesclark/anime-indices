@@ -130,42 +130,6 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/15593",
-            "https://myanimelist.net/anime/45388"
-        ],
-        "title": "A U Zhi Shenqi Luobo",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "A U: Shen Qi Luo Bo",
-            "A U: Shenqi Luobo",
-            "阿U 第5季",
-            "阿U 第五季",
-            "阿U之神奇萝卜"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/15548",
-            "https://anisearch.com/anime/15563",
-            "https://anisearch.com/anime/15591",
-            "https://anisearch.com/anime/15592",
-            "https://anisearch.com/anime/15647",
-            "https://anisearch.com/anime/15648",
-            "https://anisearch.com/anime/15649"
-        ],
-        "tags": [
-            "comedy",
-            "kids"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/13292"
         ],
         "title": "AFA2014: Welcome Promo Video - Featuring Seika Project",
@@ -199,9 +163,7 @@
             "Ai Tenchi Muyo!: Looking Back",
             "愛・天地無用！ ～振り返り～"
         ],
-        "relations": [
-            "https://anisearch.com/anime/9760"
-        ],
+        "relations": [],
         "tags": [
             "comedy",
             "science-fiction"
@@ -473,9 +435,6 @@
             "https://anime-planet.com/anime/aikatsu-nerawareta-mahou-no-aikatsu-card",
             "https://anime-planet.com/anime/aikatsu-stars",
             "https://anime-planet.com/anime/aikatsu-stars-the-movie",
-            "https://anisearch.com/anime/10040",
-            "https://anisearch.com/anime/12220",
-            "https://anisearch.com/anime/7982",
             "https://kitsu.io/anime/10093",
             "https://kitsu.io/anime/7205",
             "https://livechart.me/anime/10112",
@@ -507,6 +466,7 @@
             "henshin",
             "idol",
             "idols",
+            "idols (female)",
             "music",
             "new",
             "present",
@@ -770,6 +730,7 @@
             "甘ブリ",
             "甘城ブリリアントパーク",
             "甘城光辉游乐园",
+            "甘城輝煌樂園救世主",
             "아마기",
             "아마기 브릴리언트 파크"
         ],
@@ -778,8 +739,6 @@
             "https://anilist.co/anime/21077",
             "https://anime-planet.com/anime/amagi-brilliant-park-no-time-to-take-it-easy",
             "https://anime-planet.com/anime/amagi-brilliant-park-wakuwaku-mini-theater",
-            "https://anisearch.com/anime/10219",
-            "https://anisearch.com/anime/10515",
             "https://kitsu.io/anime/10610",
             "https://kitsu.io/anime/10715",
             "https://livechart.me/anime/1423",
@@ -1590,8 +1549,6 @@
             "https://anilist.co/anime/15605",
             "https://anime-planet.com/anime/brothers-conflict",
             "https://anime-planet.com/anime/brothers-conflict-special",
-            "https://anisearch.com/anime/8078",
-            "https://anisearch.com/anime/9501",
             "https://kitsu.io/anime/7280",
             "https://livechart.me/anime/10",
             "https://livechart.me/anime/446",
@@ -1785,6 +1742,7 @@
         "relations": [
             "https://anidb.net/anime/10483",
             "https://anidb.net/anime/11485",
+            "https://anidb.net/anime/14681",
             "https://anilist.co/anime/20564",
             "https://anilist.co/anime/21345",
             "https://anime-planet.com/anime/cardfight-vanguard",
@@ -1795,18 +1753,6 @@
             "https://anime-planet.com/anime/cardfight-vanguard-g-z",
             "https://anime-planet.com/anime/cardfight-vanguard-legion-mate",
             "https://anime-planet.com/anime/cardfight-vanguard-link-joker",
-            "https://anisearch.com/anime/10763",
-            "https://anisearch.com/anime/11287",
-            "https://anisearch.com/anime/11768",
-            "https://anisearch.com/anime/12673",
-            "https://anisearch.com/anime/13499",
-            "https://anisearch.com/anime/14369",
-            "https://anisearch.com/anime/14578",
-            "https://anisearch.com/anime/15140",
-            "https://anisearch.com/anime/6549",
-            "https://anisearch.com/anime/7604",
-            "https://anisearch.com/anime/8086",
-            "https://anisearch.com/anime/9492",
             "https://kitsu.io/anime/11220",
             "https://kitsu.io/anime/8264",
             "https://livechart.me/anime/1716",
@@ -1840,6 +1786,7 @@
             "school",
             "shounen",
             "sports",
+            "strategy game",
             "tournaments"
         ],
         "date": {
@@ -2409,7 +2356,6 @@
         "relations": [
             "https://anilist.co/anime/17827",
             "https://anime-planet.com/anime/a-good-librarian-like-a-good-shepherd",
-            "https://anisearch.com/anime/8913",
             "https://kitsu.io/anime/8002",
             "https://livechart.me/anime/231",
             "https://myanimelist.net/anime/17827",
@@ -2573,6 +2519,7 @@
             "Date a Live II OAD",
             "Date a Live II OVA",
             "Date a Live II: Kurumi Star Festival",
+            "Date a Live Saison 2 OVA",
             "Date a Live: Encore",
             "Date a Live: Encore OVA",
             "デート・ア・ライブ II 狂三スターフェスティバル",
@@ -2591,12 +2538,6 @@
             "https://anime-planet.com/anime/date-a-live-ii",
             "https://anime-planet.com/anime/date-a-live-iii",
             "https://anime-planet.com/anime/date-a-live-movie-mayuri-judgement",
-            "https://anisearch.com/anime/12920",
-            "https://anisearch.com/anime/15080",
-            "https://anisearch.com/anime/8071",
-            "https://anisearch.com/anime/8464",
-            "https://anisearch.com/anime/8673",
-            "https://anisearch.com/anime/9803",
             "https://kitsu.io/anime/7864",
             "https://livechart.me/anime/10064",
             "https://livechart.me/anime/110",
@@ -2839,6 +2780,7 @@
             "family life",
             "friendship",
             "ganbatte",
+            "male protagonist",
             "manga",
             "present",
             "primarily male cast",
@@ -3124,9 +3066,6 @@
             "https://anime-planet.com/anime/fastening-days-2",
             "https://anime-planet.com/anime/fastening-days-3",
             "https://anime-planet.com/anime/fastening-days-4",
-            "https://anisearch.com/anime/11651",
-            "https://anisearch.com/anime/12782",
-            "https://anisearch.com/anime/14830",
             "https://kitsu.io/anime/44277",
             "https://myanimelist.net/anime/48604"
         ],
@@ -3244,10 +3183,7 @@
         "synonyms": [
             "Fate/Grand Order TV Commercials"
         ],
-        "relations": [
-            "https://anisearch.com/anime/11903",
-            "https://anisearch.com/anime/14075"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "fantasy",
@@ -3562,7 +3498,6 @@
         "relations": [
             "https://anidb.net/anime/242",
             "https://anime-planet.com/anime/step-up-love-story",
-            "https://anisearch.com/anime/479",
             "https://kitsu.io/anime/349",
             "https://myanimelist.net/anime/382",
             "https://notify.moe/anime/zWXhcKmiR"
@@ -3702,8 +3637,6 @@
             "https://anilist.co/anime/21418",
             "https://anime-planet.com/anime/ganbare-lulu-lolo",
             "https://anime-planet.com/anime/tiny-twin-bears-3rd-season",
-            "https://anisearch.com/anime/10848",
-            "https://anisearch.com/anime/8092",
             "https://kitsu.io/anime/11561",
             "https://kitsu.io/anime/5686",
             "https://kitsu.io/anime/8984",
@@ -3819,6 +3752,7 @@
             "magic",
             "medieval",
             "monster",
+            "mythology",
             "new",
             "power suits",
             "present",
@@ -4044,7 +3978,6 @@
         "relations": [
             "https://anilist.co/anime/20516",
             "https://anime-planet.com/anime/go-go-575",
-            "https://anisearch.com/anime/9260",
             "https://kitsu.io/anime/8092",
             "https://myanimelist.net/anime/21267",
             "https://notify.moe/anime/Px_hpFmiR"
@@ -4221,6 +4154,7 @@
             "present",
             "primarily female cast",
             "psychological",
+            "rape",
             "revenge",
             "romance",
             "school",
@@ -4346,7 +4280,6 @@
         "relations": [
             "https://anilist.co/anime/20904",
             "https://anime-planet.com/anime/gugure-kokkuri-san-specials",
-            "https://anisearch.com/anime/9972",
             "https://kitsu.io/anime/9835",
             "https://livechart.me/anime/1256",
             "https://myanimelist.net/anime/27945",
@@ -4417,9 +4350,7 @@
             "Gugure! Kokkuri-san Specials",
             "繰繰れ！ コックリさんミニOVA"
         ],
-        "relations": [
-            "https://anisearch.com/anime/9531"
-        ],
+        "relations": [],
         "tags": [
             "comedy",
             "fantasy",
@@ -4825,7 +4756,6 @@
             "https://anidb.net/anime/10282",
             "https://anilist.co/anime/20577",
             "https://anime-planet.com/anime/happiness-charge-pretty-cure",
-            "https://anisearch.com/anime/9286",
             "https://kitsu.io/anime/8269",
             "https://livechart.me/anime/5176",
             "https://livechart.me/anime/5317",
@@ -5214,6 +5144,7 @@
             "cg-anime",
             "chibi",
             "comedy",
+            "crossover",
             "cute girls doing cute things",
             "episodic",
             "female protagonist",
@@ -5233,6 +5164,7 @@
             "slapstick",
             "slice of life",
             "verbal comedy",
+            "video game",
             "video games",
             "virtual reality",
             "virtual world"
@@ -5311,11 +5243,7 @@
             "Hōzuki no Reitetsu OAD",
             "鬼灯の冷徹 OAD"
         ],
-        "relations": [
-            "https://anisearch.com/anime/12301",
-            "https://anisearch.com/anime/13163",
-            "https://anisearch.com/anime/9075"
-        ],
+        "relations": [],
         "tags": [
             "comedy",
             "fantasy"
@@ -6012,11 +5940,7 @@
             "One Week Friends: Yukis Tagebuch",
             "一週間フレンズ。長谷の日記"
         ],
-        "relations": [
-            "https://anisearch.com/anime/10353",
-            "https://anisearch.com/anime/9217",
-            "https://anisearch.com/anime/9738"
-        ],
+        "relations": [],
         "tags": [
             "drama",
             "present",
@@ -6052,9 +5976,6 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/one-week-friends",
-            "https://anisearch.com/anime/12435",
-            "https://anisearch.com/anime/9217",
-            "https://anisearch.com/anime/9738",
             "https://kitsu.io/anime/8096",
             "https://myanimelist.net/anime/21327",
             "https://notify.moe/anime/pJX2pKmig"
@@ -6438,9 +6359,6 @@
             "https://anime-planet.com/anime/joker-2",
             "https://anime-planet.com/anime/joker-3",
             "https://anime-planet.com/anime/joker-4",
-            "https://anisearch.com/anime/10101",
-            "https://anisearch.com/anime/11033",
-            "https://anisearch.com/anime/11550",
             "https://kitsu.io/anime/10070",
             "https://livechart.me/anime/1350",
             "https://livechart.me/anime/1822",
@@ -6798,6 +6716,7 @@
         "synonyms": [
             "Il Parassita",
             "Kiseiju - L'ospite indesiderato",
+            "Kiseiju - L`ospite indesiderato",
             "Kiseiju: L'ospite indesiderato",
             "Kiseijuu",
             "Kiseijū: Sei no Kakuritsu",
@@ -7725,6 +7644,7 @@
             "魔弾の王と戦姫 (ヴァナディース)",
             "魔弾の王と戦姫(ヴァナディース)",
             "魔弾の王と戦姫[ヴァナディース]",
+            "魔彈之王與戰姬",
             "마탄의 왕과 바나디스"
         ],
         "relations": [
@@ -7878,9 +7798,6 @@
             "https://anime-planet.com/anime/detective-conan",
             "https://anime-planet.com/anime/lupin-the-3rd-lupin-family-all-stars",
             "https://anime-planet.com/anime/magic-kaito",
-            "https://anisearch.com/anime/1721",
-            "https://anisearch.com/anime/223",
-            "https://anisearch.com/anime/6155",
             "https://kitsu.io/anime/210",
             "https://kitsu.io/anime/2280",
             "https://kitsu.io/anime/5287",
@@ -8175,11 +8092,6 @@
             "https://anime-planet.com/anime/mcdull-fan-bao-qibing",
             "https://anime-planet.com/anime/mcdull-xiang-dang-dang",
             "https://anime-planet.com/anime/mcdull-xiang-dang-dang-ban-wo-xin",
-            "https://anisearch.com/anime/10010",
-            "https://anisearch.com/anime/10014",
-            "https://anisearch.com/anime/12870",
-            "https://anisearch.com/anime/1486",
-            "https://anisearch.com/anime/5104",
             "https://kitsu.io/anime/10606",
             "https://kitsu.io/anime/13827",
             "https://notify.moe/anime/HQtShFmmg",
@@ -8555,6 +8467,7 @@
             "Mushi-Shi The Next Passage (2014)",
             "Mushi-Shi: The Next Chapter 2",
             "Mushi-Shi: The Next Passage 2",
+            "Mushi-shi: Next Passage Part 2",
             "Mushishi -Next Passage- 2nd Season",
             "Mushishi S3",
             "Mushishi Zoku Shou (2014)",
@@ -8570,6 +8483,7 @@
             "虫师 续章 第2期",
             "蟲師 続章",
             "蟲師 続章 (2014)",
+            "蟲師 続章 2",
             "蟲師 続章 （2014）"
         ],
         "relations": [
@@ -8598,6 +8512,7 @@
             "https://notify.moe/anime/zmcTpFimg"
         ],
         "tags": [
+            "adult cast",
             "adventure",
             "based on a manga",
             "contemporary fantasy",
@@ -8690,6 +8605,7 @@
             "Sedam smrtnih grijeha",
             "Seven Deadly Sins",
             "The Seven Deadly Sins",
+            "The Seven Deadly Sins: Siedem Grzechów Głównych",
             "Yedi Ölümcül Günah",
             "Седемте смъртни гряха",
             "Семь Смертных Грехов",
@@ -9076,8 +8992,8 @@
             "https://myanimelist.net/anime/32681",
             "https://myanimelist.net/anime/3444",
             "https://myanimelist.net/anime/34549",
+            "https://myanimelist.net/anime/35847",
             "https://myanimelist.net/anime/3785",
-            "https://myanimelist.net/anime/38055",
             "https://myanimelist.net/anime/80",
             "https://notify.moe/anime/17npcFmmR",
             "https://notify.moe/anime/6LAl5Kmmg",
@@ -9232,10 +9148,6 @@
             "https://anime-planet.com/anime/nisekoi-2",
             "https://anime-planet.com/anime/nisekoi-2-ova",
             "https://anime-planet.com/anime/nisekoi-four-seasons",
-            "https://anisearch.com/anime/11094",
-            "https://anisearch.com/anime/11403",
-            "https://anisearch.com/anime/8676",
-            "https://anisearch.com/anime/9888",
             "https://kitsu.io/anime/11760",
             "https://kitsu.io/anime/9178",
             "https://livechart.me/anime/106",
@@ -9476,8 +9388,6 @@
             "https://anime-planet.com/anime/oresama-ookami-heart",
             "https://anime-planet.com/anime/wolf-girl-and-black-prince-ova",
             "https://anime-planet.com/anime/wolf-girl-and-black-prince-recap",
-            "https://anisearch.com/anime/10108",
-            "https://anisearch.com/anime/10398",
             "https://kitsu.io/anime/10066",
             "https://kitsu.io/anime/10156",
             "https://livechart.me/anime/1288",
@@ -9677,10 +9587,12 @@
             "absurdist humour",
             "action",
             "action comedy",
+            "aliens",
             "asia",
             "based on a light novel",
             "comedy",
             "contemporary fantasy",
+            "crossdressing",
             "earth",
             "ecchi",
             "fantasy",
@@ -9704,9 +9616,12 @@
             "small breasts",
             "stereotypes",
             "super power",
+            "superhero",
             "superpowers",
+            "swordplay",
             "tokusatsu",
-            "tsundere"
+            "tsundere",
+            "yuri"
         ],
         "date": {
             "season": "fall",
@@ -9839,9 +9754,6 @@
             "https://anime-planet.com/anime/bottom-biting-bug-4",
             "https://anime-planet.com/anime/minna-no-uta-bottom-biting-bug",
             "https://anime-planet.com/anime/oshiri-no-yama-wa-everest",
-            "https://anisearch.com/anime/10805",
-            "https://anisearch.com/anime/6362",
-            "https://anisearch.com/anime/7814",
             "https://kitsu.io/anime/11590",
             "https://kitsu.io/anime/7976",
             "https://livechart.me/anime/1852",
@@ -10292,7 +10204,6 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/pokemon-xy",
-            "https://anisearch.com/anime/8744",
             "https://kitsu.io/anime/7850",
             "https://livechart.me/anime/3702",
             "https://livechart.me/anime/3816",
@@ -10379,11 +10290,6 @@
             "https://anime-planet.com/anime/psycho-pass-ss-case-2-first-guardian",
             "https://anime-planet.com/anime/psycho-pass-ss-case-3-vengeances-horizon",
             "https://anime-planet.com/anime/psycho-pass-the-movie",
-            "https://anisearch.com/anime/14240",
-            "https://anisearch.com/anime/14872",
-            "https://anisearch.com/anime/15711",
-            "https://anisearch.com/anime/7765",
-            "https://anisearch.com/anime/9098",
             "https://kitsu.io/anime/41027",
             "https://kitsu.io/anime/7000",
             "https://kitsu.io/anime/7986",
@@ -10564,7 +10470,8 @@
             "https://myanimelist.net/anime/33258",
             "https://myanimelist.net/anime/33278",
             "https://myanimelist.net/anime/36732",
-            "https://myanimelist.net/anime/39023"
+            "https://myanimelist.net/anime/39023",
+            "https://myanimelist.net/anime/44128"
         ],
         "tags": [
             "action",
@@ -10744,7 +10651,6 @@
             "ランス01 光をもとめて The Animation"
         ],
         "relations": [
-            "https://anisearch.com/anime/4593",
             "https://myanimelist.net/anime/33104",
             "https://myanimelist.net/anime/5259"
         ],
@@ -10753,13 +10659,17 @@
             "big boobs",
             "bondage",
             "crime fiction",
+            "cruel",
             "dark skinned girl",
+            "defloration",
             "fantasy",
             "flat chested",
             "hentai",
+            "hero of strong character",
             "magic",
             "oral",
             "outdoors",
+            "sado maso",
             "slave",
             "softcore"
         ],
@@ -11236,9 +11146,6 @@
             "https://anime-planet.com/anime/selector-infected-wixoss",
             "https://anime-planet.com/anime/selector-infected-wixoss-specials",
             "https://anime-planet.com/anime/wixoss-diva-alive",
-            "https://anisearch.com/anime/10528",
-            "https://anisearch.com/anime/9406",
-            "https://anisearch.com/anime/9890",
             "https://kitsu.io/anime/11213",
             "https://kitsu.io/anime/12065",
             "https://kitsu.io/anime/8285",
@@ -11404,7 +11311,6 @@
             "https://anidb.net/anime/10892",
             "https://anilist.co/anime/21039",
             "https://anime-planet.com/anime/your-lie-in-april-moments",
-            "https://anisearch.com/anime/9938",
             "https://kitsu.io/anime/9968",
             "https://livechart.me/anime/1271",
             "https://myanimelist.net/anime/28069",
@@ -11752,6 +11658,7 @@
             "demons",
             "fantasy",
             "magic",
+            "mythology",
             "recap",
             "supernatural",
             "swords & co"
@@ -11870,13 +11777,14 @@
             "Shingeki no Kyojin Gaiden: Kuinaki Sentaku",
             "Shingeki no Kyojin: Birth of Levi",
             "SnK",
+            "ผ่าพิภพไททัน OAD",
+            "ผ่าพิภพไททัน ภาค OAD No Regret",
             "進撃の巨人 外伝 悔いなき選択",
             "進撃の巨人 悔いなき選択"
         ],
         "relations": [
             "https://anilist.co/anime/16498",
             "https://anime-planet.com/anime/attack-on-titan",
-            "https://anisearch.com/anime/8219",
             "https://kitsu.io/anime/7442",
             "https://kitsu.io/anime/7694",
             "https://livechart.me/anime/10487",
@@ -11912,6 +11820,7 @@
             "hero of strong character",
             "horror",
             "isolated society",
+            "iyashikei",
             "kaiju",
             "male protagonist",
             "middle ages",
@@ -11957,8 +11866,6 @@
             "神曲のグリモワール The Animation"
         ],
         "relations": [
-            "https://anisearch.com/anime/9412",
-            "https://anisearch.com/anime/9711",
             "https://myanimelist.net/anime/22347"
         ],
         "tags": [
@@ -12340,9 +12247,6 @@
             "https://anime-planet.com/anime/space-dandy",
             "https://anime-planet.com/anime/space-dandy-2",
             "https://anime-planet.com/anime/space-dandy-picture-drama",
-            "https://anisearch.com/anime/10179",
-            "https://anisearch.com/anime/8937",
-            "https://anisearch.com/anime/9556",
             "https://kitsu.io/anime/8312",
             "https://kitsu.io/anime/8741",
             "https://myanimelist.net/anime/23327",
@@ -12415,6 +12319,7 @@
             "Steins;Gate 聡明叡智のコグニティブコンピューティング",
             "Steins;Gate 聡明叡智のコグニティブ・コンピューティング",
             "Steins;Gate: Sōmei Eichi no Cognitive Computing",
+            "Steins;Gate: The Sagacious Wisdom of Cognitive Computing",
             "슈타인즈 게이트: 총명예지의 코그니티브 컴퓨팅"
         ],
         "relations": [
@@ -12537,14 +12442,6 @@
             "https://anime-planet.com/anime/strike-witches-movie",
             "https://anime-planet.com/anime/strike-witches-ova",
             "https://anime-planet.com/anime/strike-witches-road-to-berlin",
-            "https://anisearch.com/anime/13739",
-            "https://anisearch.com/anime/13740",
-            "https://anisearch.com/anime/14450",
-            "https://anisearch.com/anime/15401",
-            "https://anisearch.com/anime/3673",
-            "https://anisearch.com/anime/4934",
-            "https://anisearch.com/anime/5278",
-            "https://anisearch.com/anime/6900",
             "https://kitsu.io/anime/4540",
             "https://kitsu.io/anime/5851",
             "https://myanimelist.net/anime/6381",
@@ -13121,6 +13018,7 @@
             "Détective Conan: La Disparition de Conan",
             "Edogawa Conan Shissou Jiken: Shijou Saiaku no Futsukakan",
             "Edogawa Conan Shissō Jiken: Shijō Saiaku no Futsukakan",
+            "Meitantei Conan: Edogawa Conan Shissou Jiken - Shijou Saiaku no Futsukakan",
             "名探偵コナン 江戸川コナン失踪事件～史上最悪の二日間～",
             "江戸川コナン失踪事件 史上最悪の二日間"
         ],
@@ -13147,7 +13045,6 @@
             "https://anime-planet.com/anime/detective-conan-the-stranger-of-10-years",
             "https://anime-planet.com/anime/detective-conan-the-target-is-kogoro",
             "https://anime-planet.com/anime/detective-conan-vs-wooo",
-            "https://anisearch.com/anime/1721",
             "https://kitsu.io/anime/210",
             "https://myanimelist.net/anime/235",
             "https://notify.moe/anime/lWnhcKiig"
@@ -13246,9 +13143,9 @@
             "THE LAST -NARUTO THE MOVIE-",
             "THE LAST NARUTO THE MOVIE",
             "THE LAST: NARUTO THE MOVIE",
+            "The Last : Naruto le Film",
             "The Last : Naruto le film",
             "The Last: Naruto - La Película",
-            "The Last: Naruto le Film",
             "Наруто: Последний фильм",
             "ザ・ラスト ナルト・ザ・ムービー"
         ],
@@ -13268,27 +13165,6 @@
             "https://anime-planet.com/anime/naruto-shippuden-movie-6-road-to-ninja",
             "https://anime-planet.com/anime/naruto-shippuden-ova-sage-naruto-vs-sasuke",
             "https://anime-planet.com/anime/naruto-shippuden-sunny-side-battle",
-            "https://anisearch.com/anime/10223",
-            "https://anisearch.com/anime/12103",
-            "https://anisearch.com/anime/12678",
-            "https://anisearch.com/anime/2788",
-            "https://anisearch.com/anime/2988",
-            "https://anisearch.com/anime/3574",
-            "https://anisearch.com/anime/3647",
-            "https://anisearch.com/anime/3972",
-            "https://anisearch.com/anime/4096",
-            "https://anisearch.com/anime/4097",
-            "https://anisearch.com/anime/4098",
-            "https://anisearch.com/anime/4272",
-            "https://anisearch.com/anime/4816",
-            "https://anisearch.com/anime/5279",
-            "https://anisearch.com/anime/5853",
-            "https://anisearch.com/anime/604",
-            "https://anisearch.com/anime/6206",
-            "https://anisearch.com/anime/6730",
-            "https://anisearch.com/anime/7002",
-            "https://anisearch.com/anime/7479",
-            "https://anisearch.com/anime/7646",
             "https://kitsu.io/anime/1555",
             "https://livechart.me/anime/316",
             "https://livechart.me/anime/3585",
@@ -13552,6 +13428,7 @@
             "new",
             "original work",
             "performance",
+            "performing arts",
             "present",
             "school",
             "school life",
@@ -13701,18 +13578,6 @@
             "https://anime-planet.com/anime/owarimonogatari",
             "https://anime-planet.com/anime/owarimonogatari-ii",
             "https://anime-planet.com/anime/zoku-owarimonogatari",
-            "https://anisearch.com/anime/10536",
-            "https://anisearch.com/anime/11060",
-            "https://anisearch.com/anime/12343",
-            "https://anisearch.com/anime/13149",
-            "https://anisearch.com/anime/14932",
-            "https://anisearch.com/anime/5027",
-            "https://anisearch.com/anime/6334",
-            "https://anisearch.com/anime/7306",
-            "https://anisearch.com/anime/7527",
-            "https://anisearch.com/anime/7796",
-            "https://anisearch.com/anime/8117",
-            "https://anisearch.com/anime/9095",
             "https://kitsu.io/anime/11182",
             "https://kitsu.io/anime/11291",
             "https://kitsu.io/anime/11613",
@@ -13750,7 +13615,6 @@
             "ghosts",
             "gods",
             "hero of strong character",
-            "incest",
             "kamis",
             "male protagonist",
             "mystery",
@@ -13849,6 +13713,7 @@
         ],
         "tags": [
             "action",
+            "adult cast",
             "adventure",
             "alien",
             "aliens",
@@ -13923,7 +13788,6 @@
             "https://anime-planet.com/anime/star-blazers-the-comet-empire",
             "https://anime-planet.com/anime/star-blazers-the-quest-for-iscandar",
             "https://anime-planet.com/anime/yamato-2520",
-            "https://anisearch.com/anime/7427",
             "https://kitsu.io/anime/6646",
             "https://livechart.me/anime/187",
             "https://livechart.me/anime/2965",
@@ -14305,7 +14169,6 @@
             "https://anidb.net/anime/9582",
             "https://anilist.co/anime/16742",
             "https://anime-planet.com/anime/watamote-no-matter-how-i-look-at-it-its-you-guys-fault-im-not-popular",
-            "https://anisearch.com/anime/8287",
             "https://kitsu.io/anime/7504",
             "https://livechart.me/anime/2",
             "https://myanimelist.net/anime/16742",
@@ -15044,12 +14907,6 @@
             "https://anime-planet.com/anime/youkai-watch-movie-4-shadowside-oni-ou-no-fukkatsu",
             "https://anime-planet.com/anime/youkai-watch-movie-5-forever-friends",
             "https://anime-planet.com/anime/youkai-watch-shadow-side",
-            "https://anisearch.com/anime/10556",
-            "https://anisearch.com/anime/10753",
-            "https://anisearch.com/anime/11320",
-            "https://anisearch.com/anime/13466",
-            "https://anisearch.com/anime/14217",
-            "https://anisearch.com/anime/8217",
             "https://kitsu.io/anime/10140",
             "https://kitsu.io/anime/8010",
             "https://livechart.me/anime/10436",

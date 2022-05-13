@@ -140,29 +140,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/43966"
-        ],
-        "title": "Dragon School",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "恐龙学校"
-        ],
-        "relations": [],
-        "tags": [
-            "fantasy",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2000
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/feifei-de-hangye",
             "https://myanimelist.net/anime/46157"
         ],
@@ -286,6 +263,29 @@
             "outer space",
             "sci fi",
             "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2000
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/43966"
+        ],
+        "title": "Konglong Xuexiao",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1178/122854.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1178/122854t.jpg",
+        "synonyms": [
+            "Dragon School",
+            "恐龙学校"
+        ],
+        "relations": [],
+        "tags": [
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -527,6 +527,27 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/148570"
+        ],
+        "title": "Otsukare-san",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148570-ezsfO5VnSzHM.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148570-ezsfO5VnSzHM.png",
+        "synonyms": [
+            "Minna no Uta",
+            "おつかれさん"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2000
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/43853"
         ],
         "title": "Ouch, mother!",
@@ -570,31 +591,6 @@
             "action",
             "sci-fi",
             "super power"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2000
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/42928"
-        ],
-        "title": "Pokemon Movie 03: Kesshoutou no Teiou Entei PV",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "ポケットモンスター 結晶塔の帝王 ENTEI"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/1118"
-        ],
-        "tags": [
-            "fantasy",
-            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -779,8 +775,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/3188",
-            "https://anidb.net/anime/6278",
-            "https://anisearch.com/anime/162"
+            "https://anidb.net/anime/6278"
         ],
         "tags": [
             "action",

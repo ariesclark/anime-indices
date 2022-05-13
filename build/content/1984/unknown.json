@@ -26,6 +26,27 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/148571"
+        ],
+        "title": "Fifi",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148571-glOETELwA5E4.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148571-glOETELwA5E4.png",
+        "synonyms": [
+            "Minna no Uta",
+            "ふぃふぃ"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 1984
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/13907",
             "https://anilist.co/anime/116234"
         ],
@@ -169,6 +190,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/148408",
             "https://anime-planet.com/anime/imagination-of-marathon-runners",
             "https://myanimelist.net/anime/51048"
         ],
@@ -497,9 +519,7 @@
             "Saving Mother",
             "西岳奇童"
         ],
-        "relations": [
-            "https://anisearch.com/anime/1541"
-        ],
+        "relations": [],
         "tags": [],
         "date": {
             "season": "unknown",

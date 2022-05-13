@@ -31,11 +31,6 @@
             "https://anime-planet.com/anime/robot-taekwon-v-wa-hwanggeum-nalgae",
             "https://anime-planet.com/anime/robot-taekwon-v-wooju-jakjeon",
             "https://anime-planet.com/anime/syupeo-taegwon-v",
-            "https://anisearch.com/anime/7514",
-            "https://anisearch.com/anime/8481",
-            "https://anisearch.com/anime/8595",
-            "https://anisearch.com/anime/8615",
-            "https://anisearch.com/anime/9281",
             "https://kitsu.io/anime/7462",
             "https://myanimelist.net/anime/16568",
             "https://notify.moe/anime/ZFuFtFimR"
@@ -351,14 +346,22 @@
             "beastmen",
             "bounty hunter",
             "cats",
+            "chimera",
             "comedy",
+            "delinquents",
+            "foreign",
             "genetic modification",
             "guns",
+            "kemonomimi",
+            "male protagonist",
             "manga",
+            "monster girl",
             "motorcycles",
+            "nekomimi",
             "non-human protagonists",
             "original work",
             "present",
+            "revenge",
             "romance",
             "sci-fi",
             "science fiction",
@@ -549,6 +552,7 @@
         "tags": [
             "action",
             "action comedy",
+            "combat sports",
             "comedy",
             "hand to hand combat",
             "manga",
@@ -799,7 +803,6 @@
             "https://anime-planet.com/anime/super-dimensional-fortress-macross",
             "https://anime-planet.com/anime/super-dimensional-fortress-macross-flash-back-2012",
             "https://anime-planet.com/anime/super-dimensional-fortress-macross-ii-lovers-again",
-            "https://anisearch.com/anime/597",
             "https://kitsu.io/anime/1137",
             "https://kitsu.io/anime/1350",
             "https://kitsu.io/anime/973",
@@ -1003,8 +1006,10 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1130/111494.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1130/111494t.jpg",
         "synonyms": [
+            "URACON III",
             "URACON III Opening",
-            "Uracon III"
+            "Uracon III",
+            "ウラコンIII オープニングアニメーション"
         ],
         "relations": [],
         "tags": [
@@ -1036,6 +1041,7 @@
         "synonyms": [
             "Dokgotak 2",
             "My name is Dokgo Tak",
+            "私の名前はDokgo Takです",
             "내 이름은 독고탁",
             "독고탁 태양을 향해 던져라"
         ],
@@ -1049,7 +1055,8 @@
         "tags": [
             "baseball",
             "korean animation",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "summer",
@@ -1083,8 +1090,6 @@
             "https://anilist.co/anime/9243",
             "https://anime-planet.com/anime/nine",
             "https://anime-planet.com/anime/nine-2-koibito-sengen",
-            "https://anisearch.com/anime/1985",
-            "https://anisearch.com/anime/2121",
             "https://kitsu.io/anime/5643",
             "https://myanimelist.net/anime/9243",
             "https://notify.moe/anime/vqsWpKmiR"
@@ -1143,6 +1148,7 @@
     {
         "sources": [
             "https://anidb.net/anime/2280",
+            "https://anilist.co/anime/148903",
             "https://anime-planet.com/anime/papa-mama-bye-bye",
             "https://anisearch.com/anime/1154",
             "https://kitsu.io/anime/10002",
@@ -1157,14 +1163,17 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/11/67947t.jpg",
         "synonyms": [
             "Papa Mama Bye-bye",
-            "パパ ママ バイバイ"
+            "パパ ママ バイバイ",
+            "パパママバイバイ"
         ],
         "relations": [],
         "tags": [
+            "biographical",
             "drama",
             "family friendly",
             "historical",
-            "kids"
+            "kids",
+            "tragedy"
         ],
         "date": {
             "season": "summer",

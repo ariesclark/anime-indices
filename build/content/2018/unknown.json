@@ -172,34 +172,6 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/15646",
-            "https://myanimelist.net/anime/45394"
-        ],
-        "title": "A U De Fannao",
-        "type": "tv",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "A U De Fan Nao",
-            "阿U的烦恼",
-            "阿优的烦恼"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/16309"
-        ],
-        "tags": [
-            "comedy",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/a4-microcosm"
         ],
         "title": "A4 Microcosm",
@@ -222,6 +194,38 @@
     },
     {
         "sources": [
+            "https://anisearch.com/anime/15646",
+            "https://myanimelist.net/anime/45394"
+        ],
+        "title": "AU: De Fannao",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1287/122389.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1287/122389t.jpg",
+        "synonyms": [
+            "A U De Fan Nao",
+            "A U De Fannao",
+            "阿U的烦恼",
+            "阿优的烦恼"
+        ],
+        "relations": [
+            "https://anisearch.com/anime/16309",
+            "https://myanimelist.net/anime/45393",
+            "https://myanimelist.net/anime/45395",
+            "https://myanimelist.net/anime/45400"
+        ],
+        "tags": [
+            "comedy",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/45395"
         ],
         "title": "AU: Tong Qu Xilie",
@@ -235,6 +239,31 @@
         ],
         "relations": [
             "https://myanimelist.net/anime/45394"
+        ],
+        "tags": [
+            "comedy",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/45398"
+        ],
+        "title": "AU: Xue Kexue 2nd Season",
+        "type": "tv",
+        "episodes": 30,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1858/122395.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1858/122395t.jpg",
+        "synonyms": [
+            "阿U学科学第2季"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/45397"
         ],
         "tags": [
             "comedy",
@@ -953,31 +982,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/50554"
-        ],
-        "title": "Chao Zhi Neng Zu Qiu 2",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1133/119977.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1133/119977t.jpg",
-        "synonyms": [
-            "GGO Football 2"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/36993"
-        ],
-        "tags": [
-            "comedy",
-            "sports"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/135278",
             "https://myanimelist.net/anime/47612"
         ],
@@ -1256,6 +1260,31 @@
             "dancing",
             "no dialogue",
             "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/47611"
+        ],
+        "title": "Dao Jian",
+        "type": "ona",
+        "episodes": 3,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1607/123385.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1607/123385t.jpg",
+        "synonyms": [
+            "The Razor Edge",
+            "刀尖"
+        ],
+        "relations": [],
+        "tags": [
+            "drama",
+            "historical",
+            "military"
         ],
         "date": {
             "season": "unknown",
@@ -1825,6 +1854,28 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/46938"
+        ],
+        "title": "Feifan Meirenyu",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1205/123177.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1205/123177t.jpg",
+        "synonyms": [
+            "非凡美人鱼"
+        ],
+        "relations": [],
+        "tags": [
+            "fantasy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/44890"
         ],
         "title": "Fengle! Gui Bao",
@@ -1897,7 +1948,27 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44298",
+            "https://anime-planet.com/anime/galaxy-seminar"
+        ],
+        "title": "Galaxy Seminar",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/galaxy-seminar-1.webp?t=1651843854",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/galaxy-seminar-1-285x399.webp?t=1651843854",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "comedy",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/44299"
         ],
         "title": "Gangtie Feilong 2 Zhi Ao Te Man Liliang",
@@ -1914,6 +1985,32 @@
             "action",
             "adventure",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/44298"
+        ],
+        "title": "Gangtie Feilong 2: Ultraman Liliang",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1110/123075.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1110/123075t.jpg",
+        "synonyms": [
+            "钢铁飞龙2之奥特曼力量"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44293",
+            "https://myanimelist.net/anime/44300"
+        ],
+        "tags": [
+            "action",
+            "sci-fi"
         ],
         "date": {
             "season": "unknown",
@@ -2283,30 +2380,6 @@
         "relations": [],
         "tags": [
             "slice of life"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/45079"
-        ],
-        "title": "Gui Tu Da Zuozhan",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "龟兔大作战"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -2835,6 +2908,32 @@
         "tags": [
             "romance",
             "vocaloid"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/45774"
+        ],
+        "title": "Hong Lou Meng (ONA)",
+        "type": "ona",
+        "episodes": 16,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1203/123469.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1203/123469t.jpg",
+        "synonyms": [
+            "Dream of the Red Chamber (ONA)",
+            "红楼梦"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/45773"
+        ],
+        "tags": [
+            "historical",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -3414,6 +3513,29 @@
         "relations": [],
         "tags": [
             "avant garde"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/47701"
+        ],
+        "title": "Jing Xi Meng Bao",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1214/123429.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1214/123429t.jpg",
+        "synonyms": [
+            "惊喜萌宝"
+        ],
+        "relations": [],
+        "tags": [
+            "comedy",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -4350,6 +4472,31 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/45822"
+        ],
+        "title": "Luo Baobei 2nd Season",
+        "type": "tv",
+        "episodes": 13,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1734/122996.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1734/122996t.jpg",
+        "synonyms": [
+            "洛宝贝 第二季"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/45821",
+            "https://myanimelist.net/anime/45823"
+        ],
+        "tags": [
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/lupin-the-3rd-part-v-is-lupin-still-burning"
         ],
         "title": "Lupin III: Part V - Is Lupin Still Burning?",
@@ -4564,30 +4711,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/45043"
-        ],
-        "title": "Mama Mi Ya",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "妈妈咪鸭"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/march-comes-in-like-a-lion-cm-lion-x-hachiclo"
         ],
         "title": "March Comes in like a Lion CM: Lion x HachiClo",
@@ -4733,6 +4856,30 @@
             "fantasy",
             "food protagonists",
             "full cgi"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/47708"
+        ],
+        "title": "Meng Ji Xiao Xuetang",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1751/123438.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1751/123438t.jpg",
+        "synonyms": [
+            "萌鸡小学堂"
+        ],
+        "relations": [],
+        "tags": [
+            "anthropomorphic",
+            "fantasy",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -5061,12 +5208,12 @@
         "sources": [
             "https://myanimelist.net/anime/44472"
         ],
-        "title": "Mu Qi Ling 3 Qi Ling Zhi Xin",
+        "title": "Mu Qi Ling 3: Qi Ling Zhi Xin",
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1036/122295.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1036/122295t.jpg",
         "synonyms": [
             "木奇灵3奇灵之心"
         ],
@@ -5074,38 +5221,8 @@
             "https://myanimelist.net/anime/44471"
         ],
         "tags": [
-            "adventure",
             "fantasy",
             "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/50201"
-        ],
-        "title": "Nam-ui BL Manhwa",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1289/118953.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1289/118953t.jpg",
-        "synonyms": [
-            "Namui BL Manhwa Animation, NBM, Someone Else's BL Comic Animation",
-            "Someone Else's BL Cartoon",
-            "남의 BL만화’ 애니메이션"
-        ],
-        "relations": [],
-        "tags": [
-            "boys love",
-            "comedy",
-            "drama",
-            "romance",
-            "school",
-            "slice of life"
         ],
         "date": {
             "season": "unknown",
@@ -5432,6 +5549,30 @@
             "commercials",
             "food and beverage",
             "promotional"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/47718"
+        ],
+        "title": "Nongchang Gushi",
+        "type": "ona",
+        "episodes": 20,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1862/123442.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1862/123442t.jpg",
+        "synonyms": [
+            "农场故事"
+        ],
+        "relations": [],
+        "tags": [
+            "anthropomorphic",
+            "fantasy",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -5767,24 +5908,19 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/39399"
+            "https://anilist.co/anime/148758"
         ],
-        "title": "Overlord III Yokoku",
+        "title": "Otoshimono",
         "type": "special",
-        "episodes": 13,
+        "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148758-YHnqMeTxbxFh.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148758-YHnqMeTxbxFh.png",
         "synonyms": [
-            "オーバーロードⅢ予告"
+            "オトシモノ"
         ],
         "relations": [],
-        "tags": [
-            "action",
-            "fantasy",
-            "game",
-            "supernatural"
-        ],
+        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2018
@@ -6075,7 +6211,6 @@
             "潜艇总动员6：海底两万里"
         ],
         "relations": [
-            "https://myanimelist.net/anime/44662",
             "https://myanimelist.net/anime/44664"
         ],
         "tags": [
@@ -6185,6 +6320,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/148410",
             "https://anime-planet.com/anime/riku-ni-agatta-ningyo-no-hanashi-pilot"
         ],
         "title": "Riku ni Agatta Ningyo no Hanashi Pilot",
@@ -6193,7 +6329,12 @@
         "status": "finished",
         "picture": "https://cdn.anime-planet.com/anime/primary/riku-ni-agatta-ningyo-no-hanashi-pilot-1.jpg?t=1634435098",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/riku-ni-agatta-ningyo-no-hanashi-pilot-1-285x399.jpg?t=1634435098",
-        "synonyms": [],
+        "synonyms": [
+            "Riku ni Agatta Ningyo no Hanashi (Pilot)",
+            "The Animal Family (Pilot)",
+            "The Story of the Mermaid that went up to Land",
+            "陸にあがった人魚のはなし"
+        ],
         "relations": [],
         "tags": [
             "fantasy",
@@ -6774,6 +6915,34 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/44395"
+        ],
+        "title": "Shen Shou Jin Gang 4: Bang Bao Lixian Ji",
+        "type": "tv",
+        "episodes": 45,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1403/123094.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1403/123094t.jpg",
+        "synonyms": [
+            "神兽金刚4邦宝历险记"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44394",
+            "https://myanimelist.net/anime/44396"
+        ],
+        "tags": [
+            "action",
+            "kids",
+            "mecha",
+            "sci-fi"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/shenbing-xiaojiang-2nd-season"
         ],
         "title": "Shenbing Xiaojiang 2nd Season",
@@ -6880,34 +7049,6 @@
             "chinese animation",
             "family friendly",
             "fantasy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44395"
-        ],
-        "title": "Shenshou Jingang 4 Bang Bao Lixian Ji",
-        "type": "tv",
-        "episodes": 45,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "神兽金刚4邦宝历险记"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44394",
-            "https://myanimelist.net/anime/44396"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "kids",
-            "mecha"
         ],
         "date": {
             "season": "unknown",
@@ -7421,6 +7562,31 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/47697"
+        ],
+        "title": "Taikong Xueyuan",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1762/123427.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1762/123427t.jpg",
+        "synonyms": [
+            "Kiddets",
+            "太空学院"
+        ],
+        "relations": [],
+        "tags": [
+            "anthropomorphic",
+            "educational",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/tales-of-the-rays-mirrage-prison-op"
         ],
         "title": "Tales of the Rays: Mirrage Prison OP",
@@ -7495,6 +7661,29 @@
             "black and white",
             "political",
             "vocaloid"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51750"
+        ],
+        "title": "The Angler",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1908/123597.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1908/123597t.jpg",
+        "synonyms": [
+            "더 앵글러"
+        ],
+        "relations": [],
+        "tags": [
+            "award winning",
+            "slice of life"
         ],
         "date": {
             "season": "unknown",
@@ -7642,6 +7831,34 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/44460"
+        ],
+        "title": "Tian Xin Ge Ge 4th Season",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1390/122910.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1390/122910t.jpg",
+        "synonyms": [
+            "甜心格格 第四季"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/38246",
+            "https://myanimelist.net/anime/44461"
+        ],
+        "tags": [
+            "comedy",
+            "historical",
+            "kids",
+            "school"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/117163",
             "https://anime-planet.com/anime/tian-yu-2-cang-gu-zhi-ban"
         ],
@@ -7754,6 +7971,33 @@
         "relations": [],
         "tags": [
             "vocaloid"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/48220"
+        ],
+        "title": "Tobot V",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1102/122950.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1102/122950t.jpg",
+        "synonyms": [
+            "Galaxy Detectives",
+            "Tobot GD",
+            "Ttobos V",
+            "또봇 V"
+        ],
+        "relations": [],
+        "tags": [
+            "kids",
+            "mecha",
+            "sci-fi"
         ],
         "date": {
             "season": "unknown",

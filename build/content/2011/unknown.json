@@ -429,32 +429,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44291"
-        ],
-        "title": "Chao Shou Wuzhuang Zhi Renzhe Wudi",
-        "type": "tv",
-        "episodes": 33,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "超兽武装之仁者无敌"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44292"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/44292"
         ],
         "title": "Chao Shou Wuzhuang Zhi Yongzhe Wu Ju",
@@ -466,9 +440,7 @@
         "synonyms": [
             "超兽武装之勇者无惧"
         ],
-        "relations": [
-            "https://myanimelist.net/anime/44291"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "adventure",
@@ -722,6 +694,31 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/dou-ding-de-kuaile-riji-2"
+        ],
+        "title": "Dou Ding De Kuaile Riji 2",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/dou-ding-de-kuaile-riji-2-1.webp?t=1651692454",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/dou-ding-de-kuaile-riji-2-1-285x400.webp?t=1651692454",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/dou-ding-de-kuaile-riji"
+        ],
+        "tags": [
+            "chibi",
+            "chinese animation",
+            "family friendly",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/44454"
         ],
         "title": "Dou Dou Di Di Ai Tanxian",
@@ -797,6 +794,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/148576",
             "https://anime-planet.com/anime/friend"
         ],
         "title": "FRIEND.",
@@ -1571,6 +1569,33 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/44451",
+            "https://myanimelist.net/anime/44452",
+            "https://myanimelist.net/anime/45715"
+        ],
+        "title": "Jiu Hua Xiao Heshang",
+        "type": "tv",
+        "episodes": 104,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "九华小和尚",
+            "九華小和尚"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "fantasy",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/44104"
         ],
         "title": "Kaixin Baobei Zhi Kaixin Chaoren",
@@ -2185,36 +2210,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/lei-su-deng-yi-fei-chong-tian",
-            "https://myanimelist.net/anime/43303"
-        ],
-        "title": "Lei Su Deng Yi Fei Chong Tian",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1585/109681.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1585/109681t.jpg",
-        "synonyms": [
-            "Hover Champs",
-            "雷速登翼飞冲天"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/35642",
-            "https://myanimelist.net/anime/43305"
-        ],
-        "tags": [
-            "action",
-            "chinese animation",
-            "kids",
-            "proxy battles"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/44027"
         ],
         "title": "Lei Su Deng Zhi Yi Fei Chongtian",
@@ -2226,12 +2221,41 @@
         "synonyms": [
             "雷速登之翼飞冲天"
         ],
-        "relations": [
-            "https://myanimelist.net/anime/44028"
-        ],
+        "relations": [],
         "tags": [
             "adventure",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/lei-su-deng-yi-fei-chong-tian",
+            "https://myanimelist.net/anime/43303"
+        ],
+        "title": "Lei Su Deng: Yi Fei Chong Tian",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1585/109681.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1585/109681t.jpg",
+        "synonyms": [
+            "Hover Champs",
+            "Lei Su Deng Yi Fei Chong Tian",
+            "雷速登之翼飞冲天"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/35642",
+            "https://myanimelist.net/anime/43305"
+        ],
+        "tags": [
+            "action",
+            "chinese animation",
+            "kids",
+            "proxy battles"
         ],
         "date": {
             "season": "unknown",
@@ -2252,6 +2276,30 @@
             "龙斗台球"
         ],
         "relations": [],
+        "tags": [
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/45825"
+        ],
+        "title": "Luo Baobei Ai Kexue",
+        "type": "tv",
+        "episodes": 364,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1109/122999.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1109/122999t.jpg",
+        "synonyms": [
+            "洛宝贝爱科学"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/45821"
+        ],
         "tags": [
             "kids"
         ],
@@ -2416,6 +2464,31 @@
         "tags": [
             "desert",
             "drama"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/45827"
+        ],
+        "title": "Maitian Shen Shu",
+        "type": "tv",
+        "episodes": 356,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1424/123004.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1424/123004t.jpg",
+        "synonyms": [
+            "Luo Baobei: Maitian Shen Shu",
+            "麦田神书"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/45821"
+        ],
+        "tags": [
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -3177,36 +3250,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/42138"
-        ],
-        "title": "Pokemon Best Wishes! Hikari to Kage no Tenkyuugi",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1215/107850.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1215/107850t.jpg",
-        "synonyms": [
-            "Pokemon Best Wishes!: Celestial Globe of Light and Shadow",
-            "ポケットモンスター ベストウイッシュ 光と影のテンキュウギ"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/9107"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "comedy",
-            "drama",
-            "fantasy",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/policeman-galo-sengan"
         ],
         "title": "Policeman: Galo Sengan",
@@ -3278,8 +3321,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [
             "Ojisan no Yasashii Eigo no Uta"
         ],
@@ -3531,55 +3574,22 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44414"
+            "https://myanimelist.net/anime/44958"
         ],
-        "title": "Shaonian Shiye Zhi Zhihui Kuaile Xia",
+        "title": "Shuiguo Baobei",
         "type": "tv",
-        "episodes": 26,
+        "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1614/123161.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1614/123161t.jpg",
         "synonyms": [
-            "少年师爷之智慧快乐侠"
+            "水果宝贝"
         ],
         "relations": [
-            "https://myanimelist.net/anime/44413",
-            "https://myanimelist.net/anime/44415"
+            "https://myanimelist.net/anime/44959"
         ],
         "tags": [
-            "adventure",
-            "historical",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/shaonian-yuefei-chuanqi",
-            "https://myanimelist.net/anime/43899",
-            "https://myanimelist.net/anime/44783"
-        ],
-        "title": "Shaonian Yuefei Chuanqi",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "The Legend of Young Yue Fei",
-            "少年岳飛傳奇",
-            "少年岳飞传奇"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "chinese animation",
-            "drama",
             "fantasy",
-            "historical",
             "kids"
         ],
         "date": {
@@ -3608,6 +3618,30 @@
             "chinese animation",
             "comedy",
             "kids",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/shujia-shang-de-qimiao-shijie-2"
+        ],
+        "title": "Shujia Shang De Qimiao Shijie 2",
+        "type": "tv",
+        "episodes": 64,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/shujia-shang-de-qimiao-shijie-2-1.webp?t=1651691360",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/shujia-shang-de-qimiao-shijie-2-1-285x400.webp?t=1651691360",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/shujia-shang-de-qimiao-shijie"
+        ],
+        "tags": [
+            "chinese animation",
+            "family friendly",
             "short episodes"
         ],
         "date": {
@@ -4531,23 +4565,30 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44290"
+            "https://anime-planet.com/anime/yuzhou-xing-shen-10-zhounian-zhong-zhiban",
+            "https://myanimelist.net/anime/44290",
+            "https://myanimelist.net/anime/48035"
         ],
         "title": "Yuzhou Xing Shen",
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1862/118308.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1862/118308t.jpg",
         "synonyms": [
+            "Yuzhou Xing Shen 10 Zhounian Zhong Zhiban",
             "宇宙星神"
         ],
         "relations": [],
         "tags": [
             "action",
             "adventure",
+            "chinese animation",
             "fantasy",
-            "kids"
+            "kids",
+            "mecha",
+            "sci fi",
+            "sci-fi"
         ],
         "date": {
             "season": "unknown",

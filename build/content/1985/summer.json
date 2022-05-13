@@ -140,15 +140,6 @@
             "https://anidb.net/anime/3560",
             "https://anidb.net/anime/505",
             "https://anilist.co/anime/2116",
-            "https://anisearch.com/anime/1275",
-            "https://anisearch.com/anime/13102",
-            "https://anisearch.com/anime/144",
-            "https://anisearch.com/anime/1460",
-            "https://anisearch.com/anime/1633",
-            "https://anisearch.com/anime/1907",
-            "https://anisearch.com/anime/2268",
-            "https://anisearch.com/anime/3466",
-            "https://anisearch.com/anime/466",
             "https://kitsu.io/anime/1451",
             "https://livechart.me/anime/3012",
             "https://livechart.me/anime/4357",
@@ -170,7 +161,8 @@
             "primarily male cast",
             "shounen",
             "soccer",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "summer",
@@ -293,6 +285,7 @@
             "based on a light novel",
             "bounty hunter",
             "comedy",
+            "crime",
             "cyberpunk",
             "detective",
             "ecchi",
@@ -344,6 +337,7 @@
             "Dokgo Tak 3 - Mound Which Was Taken Back",
             "Dokgo Tak 3: Mound Which Was Taken Back",
             "Dokgotak 3",
+            "トッコタク再び訪れたマウンド",
             "독고탁 다시 찾은 마운드"
         ],
         "relations": [
@@ -357,7 +351,8 @@
         "tags": [
             "baseball",
             "shounen",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "summer",
@@ -490,7 +485,6 @@
         "relations": [
             "https://anilist.co/anime/3670",
             "https://anime-planet.com/anime/genesis-climber-mospeada",
-            "https://anisearch.com/anime/3450",
             "https://kitsu.io/anime/3182",
             "https://myanimelist.net/anime/3670",
             "https://notify.moe/anime/J9Sl5Kmmg"
@@ -590,11 +584,6 @@
             "https://anime-planet.com/anime/ginga-hyouryuu-vifam-chicago-super-police-13",
             "https://anime-planet.com/anime/ginga-hyouryuu-vifam-kachua-kara-no-tayori",
             "https://anime-planet.com/anime/ginga-hyouryuu-vifam-kieta-12-nin",
-            "https://anisearch.com/anime/1446",
-            "https://anisearch.com/anime/1890",
-            "https://anisearch.com/anime/2812",
-            "https://anisearch.com/anime/3443",
-            "https://anisearch.com/anime/61",
             "https://kitsu.io/anime/2701",
             "https://kitsu.io/anime/7075",
             "https://myanimelist.net/anime/14067",
@@ -666,7 +655,6 @@
             "https://anidb.net/anime/8922",
             "https://anime-planet.com/anime/night-on-the-galactic-railroad-fantasy-railroad-in-the-stars",
             "https://anime-planet.com/anime/night-on-the-galactic-railroad-fantasy-railroad-in-the-stars-special",
-            "https://anisearch.com/anime/5766",
             "https://kitsu.io/anime/4871",
             "https://myanimelist.net/anime/1206",
             "https://myanimelist.net/anime/7112",
@@ -1448,6 +1436,8 @@
         "relations": [],
         "tags": [
             "action",
+            "alien",
+            "gunfights",
             "korean animation",
             "mecha",
             "sci fi",

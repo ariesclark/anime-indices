@@ -334,6 +334,27 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/148590"
+        ],
+        "title": "Flow",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148590-u96YdZVL5CMv.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148590-u96YdZVL5CMv.png",
+        "synonyms": [
+            "浮楼"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2005
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/148404",
             "https://anime-planet.com/anime/fuyu-no-niji"
         ],
         "title": "Fuyu no Niji",
@@ -342,12 +363,15 @@
         "status": "finished",
         "picture": "https://cdn.anime-planet.com/anime/primary/fuyu-no-niji-1.jpg?t=1634429112",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/fuyu-no-niji-1-285x399.jpg?t=1634429112",
-        "synonyms": [],
+        "synonyms": [
+            "冬の虹"
+        ],
         "relations": [],
         "tags": [
             "abstract",
             "no dialogue",
-            "shorts"
+            "shorts",
+            "slice of life"
         ],
         "date": {
             "season": "unknown",
@@ -1392,6 +1416,32 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/44580"
+        ],
+        "title": "Shaolin Tu Yu Wudang Gou",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1876/123028.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1876/123028t.jpg",
+        "synonyms": [
+            "Gonfu Tu Xilie: Shaolin Tu Yu Wudang Gou",
+            "Kung Fu Bunny",
+            "少林兔与武当狗"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44581"
+        ],
+        "tags": [
+            "comedy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2005
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/139132",
             "https://myanimelist.net/anime/41443"
         ],
@@ -1518,20 +1568,20 @@
         ],
         "title": "Tianshang Diao Xia Ge Zhubajie",
         "type": "tv",
-        "episodes": 208,
+        "episodes": 104,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1437/123077.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1437/123077t.jpg",
         "synonyms": [
+            "Heaven Pig",
             "天上掉下个猪八戒"
         ],
         "relations": [
             "https://myanimelist.net/anime/45883"
         ],
         "tags": [
-            "adventure",
+            "anthropomorphic",
             "fantasy",
-            "historical",
             "kids"
         ],
         "date": {
@@ -1560,6 +1610,60 @@
             "fantasy",
             "kids",
             "school"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2005
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/45374"
+        ],
+        "title": "Tianyan You Qi Zhao",
+        "type": "tv",
+        "episodes": 156,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1050/122370.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1050/122370t.jpg",
+        "synonyms": [
+            "天眼有奇招"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/45371",
+            "https://myanimelist.net/anime/45376"
+        ],
+        "tags": [
+            "adventure"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2005
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/tonghua-dongwuyuan",
+            "https://myanimelist.net/anime/45976"
+        ],
+        "title": "Tonghua Dongwuyuan",
+        "type": "tv",
+        "episodes": 72,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "童话动物园"
+        ],
+        "relations": [],
+        "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "non-human protagonists",
+            "rabbits"
         ],
         "date": {
             "season": "unknown",
@@ -1643,6 +1747,79 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/xiao-xiao-lushi",
+            "https://myanimelist.net/anime/45776"
+        ],
+        "title": "Xiao Xiao Lushi",
+        "type": "tv",
+        "episodes": 100,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "小小律师"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "kids",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2005
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/45987"
+        ],
+        "title": "Yan Shu Jiemei Kan Shijie",
+        "type": "tv",
+        "episodes": 13,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1816/123487.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1816/123487t.jpg",
+        "synonyms": [
+            "鼹鼠姐妹看世界"
+        ],
+        "relations": [],
+        "tags": [
+            "fantasy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2005
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/yundong-xiao-fuxing",
+            "https://myanimelist.net/anime/45984"
+        ],
+        "title": "Yundong Xiao Fuxing",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "运动小福星"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2005
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/zamagi-its-so-good-now"
         ],
         "title": "Zamagi: It's So Good Now",
@@ -1711,22 +1888,6 @@
             "https://anime-planet.com/anime/zhu-zhu-xia-wu-xia-2008",
             "https://anime-planet.com/anime/zhu-zhu-xia-xingfu-jiuyuan-dui",
             "https://anime-planet.com/anime/zhu-zhu-xia-yong-chuang-weilai-cheng",
-            "https://anisearch.com/anime/13029",
-            "https://anisearch.com/anime/13044",
-            "https://anisearch.com/anime/13077",
-            "https://anisearch.com/anime/13093",
-            "https://anisearch.com/anime/13115",
-            "https://anisearch.com/anime/13142",
-            "https://anisearch.com/anime/13171",
-            "https://anisearch.com/anime/13244",
-            "https://anisearch.com/anime/13252",
-            "https://anisearch.com/anime/13299",
-            "https://anisearch.com/anime/13300",
-            "https://anisearch.com/anime/13426",
-            "https://anisearch.com/anime/13567",
-            "https://anisearch.com/anime/13666",
-            "https://anisearch.com/anime/14214",
-            "https://anisearch.com/anime/14259",
             "https://myanimelist.net/anime/38118"
         ],
         "tags": [

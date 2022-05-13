@@ -327,7 +327,8 @@
             "slapstick",
             "tragedy",
             "work",
-            "work life"
+            "work life",
+            "workplace"
         ],
         "date": {
             "season": "spring",
@@ -593,12 +594,6 @@
             "https://anime-planet.com/anime/tsubasa-reservoir-chronicle-the-movie-the-princess-in-the-birdcage-kingdom",
             "https://anime-planet.com/anime/tsubasa-reservoir-chronicle-tokyo-revelations",
             "https://anime-planet.com/anime/tsubasa-spring-thunder-chronicle",
-            "https://anisearch.com/anime/11517",
-            "https://anisearch.com/anime/12379",
-            "https://anisearch.com/anime/13578",
-            "https://anisearch.com/anime/2051",
-            "https://anisearch.com/anime/2731",
-            "https://anisearch.com/anime/8471",
             "https://kitsu.io/anime/2200",
             "https://kitsu.io/anime/338",
             "https://kitsu.io/anime/339",
@@ -719,9 +714,6 @@
             "https://anime-planet.com/anime/cowboy-bebop-eins-summer-vacation",
             "https://anime-planet.com/anime/cowboy-bebop-session-xx-mish-mash-blues",
             "https://anime-planet.com/anime/cowboy-bebop-the-movie",
-            "https://anisearch.com/anime/10291",
-            "https://anisearch.com/anime/261",
-            "https://anisearch.com/anime/8409",
             "https://kitsu.io/anime/2",
             "https://kitsu.io/anime/3424",
             "https://kitsu.io/anime/7604",
@@ -1313,6 +1305,7 @@
         ],
         "tags": [
             "comedy",
+            "gag humor",
             "mecha",
             "sci-fi",
             "science fiction",
@@ -1649,7 +1642,6 @@
             "https://anidb.net/anime/2233",
             "https://anilist.co/anime/2415",
             "https://anime-planet.com/anime/grander-musashi",
-            "https://anisearch.com/anime/2868",
             "https://kitsu.io/anime/2191",
             "https://myanimelist.net/anime/2415",
             "https://notify.moe/anime/FdyPcFiig"
@@ -1948,10 +1940,12 @@
             "Hell Teacher Nube",
             "Hell Teacher Nube OVA",
             "Jigoku Sensei Nube (1998)",
+            "Jigoku Sensei Nube THE OVA",
             "じごくせんせいぬーべー",
             "地獄先生ぬ~べ~ (1998)",
             "地獄先生ぬ～べ～",
-            "地獄先生ぬ～べ～ OVA"
+            "地獄先生ぬ～べ～ OVA",
+            "地獄先生ぬ～べ～ THE OVA"
         ],
         "relations": [
             "https://anidb.net/anime/2100",
@@ -1983,6 +1977,7 @@
             "horror",
             "japan",
             "manga",
+            "mythology",
             "present",
             "psychological drama",
             "school",
@@ -2420,6 +2415,7 @@
             "henshin heroes",
             "idol",
             "idols",
+            "idols (female)",
             "japan",
             "magic",
             "magical girl",
@@ -2474,9 +2470,6 @@
             "https://anime-planet.com/anime/maze",
             "https://anime-planet.com/anime/maze-bakunetsu-jikuu-hot-springs",
             "https://anime-planet.com/anime/maze-ova",
-            "https://anisearch.com/anime/2164",
-            "https://anisearch.com/anime/3075",
-            "https://anisearch.com/anime/9420",
             "https://kitsu.io/anime/1042",
             "https://myanimelist.net/anime/1161",
             "https://notify.moe/anime/F0MbcFiig"
@@ -3180,9 +3173,7 @@
             "Sexy Commando Side Story: Amazing! Masaru - Learn it in 2 days - The Road to Masaru-san Mastership",
             "セクシーコマンドー外伝 すごいよ！！ マサルさん 2日で出来る マサルさんマスターへの道"
         ],
-        "relations": [
-            "https://anisearch.com/anime/1660"
-        ],
+        "relations": [],
         "tags": [
             "comedy"
         ],
@@ -3335,6 +3326,59 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/2895",
+            "https://anilist.co/anime/2715",
+            "https://anime-planet.com/anime/catnapped-the-movie",
+            "https://anisearch.com/anime/2675",
+            "https://kitsu.io/anime/2476",
+            "https://myanimelist.net/anime/2715",
+            "https://notify.moe/anime/ruwycFimR"
+        ],
+        "title": "Totsuzen! Neko no Kuni Banipal Witt",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/6/58211.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/6/58211t.jpg",
+        "synonyms": [
+            "Catnapped",
+            "Catnapped!",
+            "Catnapped! The Movie",
+            "Papadoll au Pays des Chats",
+            "Papadoll au pays des chats",
+            "とつぜん! 猫の国 バニパルウィット",
+            "とつぜん！猫の国 バニパルウィット",
+            "とつぜん！猫の国　バニパルウィット"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "animal protagonists",
+            "animal transformation",
+            "animals",
+            "anthropomorphic",
+            "cats",
+            "comedy",
+            "coming of age",
+            "family friendly",
+            "fantasy",
+            "isekai",
+            "kemonomimi",
+            "mina",
+            "nekomimi",
+            "non-human protagonists",
+            "novel",
+            "person in a strange world",
+            "present",
+            "siblings"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 1998
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/53",
             "https://anilist.co/anime/6",
             "https://anime-planet.com/anime/trigun",
@@ -3368,7 +3412,6 @@
             "https://anidb.net/anime/7208",
             "https://anilist.co/anime/4106",
             "https://anime-planet.com/anime/trigun-badlands-rumble",
-            "https://anisearch.com/anime/5359",
             "https://kitsu.io/anime/3470",
             "https://livechart.me/anime/4042",
             "https://myanimelist.net/anime/4106",
@@ -3377,6 +3420,7 @@
         "tags": [
             "action",
             "action drama",
+            "adult cast",
             "adventure",
             "alien",
             "aliens",
@@ -3554,7 +3598,6 @@
             "https://anidb.net/anime/1299",
             "https://anilist.co/anime/1891",
             "https://anime-planet.com/anime/yat-anshin-uchuu-ryokou",
-            "https://anisearch.com/anime/2819",
             "https://kitsu.io/anime/1701",
             "https://myanimelist.net/anime/1891",
             "https://notify.moe/anime/3urBcFimg"
@@ -3660,6 +3703,7 @@
             "manga",
             "mopeds",
             "non-human protagonists",
+            "philosophy",
             "photography",
             "post-apocalyptic",
             "robots",
@@ -3704,8 +3748,6 @@
             "https://anidb.net/anime/137",
             "https://anilist.co/anime/206",
             "https://anime-planet.com/anime/record-of-lodoss-war-chronicles-of-the-heroic-knight",
-            "https://anisearch.com/anime/1694",
-            "https://anisearch.com/anime/2691",
             "https://kitsu.io/anime/182",
             "https://myanimelist.net/anime/206",
             "https://notify.moe/anime/JRk25KmmR"
@@ -3927,6 +3969,7 @@
             "school life",
             "science fiction",
             "shounen",
+            "strategy game",
             "supernatural",
             "supernatural drama"
         ],

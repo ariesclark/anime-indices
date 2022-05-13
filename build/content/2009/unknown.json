@@ -196,6 +196,33 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/44582"
+        ],
+        "title": "Cai Bao Gou Da Fanji",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1930/123030.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1930/123030t.jpg",
+        "synonyms": [
+            "Gonfu Tu Xilie 3: Cai Bao Gou Da Fanji",
+            "Kungfu Bunny 3",
+            "菜包狗大反击"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/42457",
+            "https://myanimelist.net/anime/44581"
+        ],
+        "tags": [
+            "comedy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/communicate"
         ],
         "title": "Communicate",
@@ -315,24 +342,66 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/electro-boy",
             "https://myanimelist.net/anime/44019"
         ],
         "title": "Dianji Xiaozi",
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1298/122865.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1298/122865t.jpg",
         "synonyms": [
+            "Electro Boy",
             "电击小子"
         ],
         "relations": [
+            "https://anime-planet.com/anime/electro-boy-2nd-season",
             "https://myanimelist.net/anime/44020"
         ],
         "tags": [
-            "action",
-            "adventure",
-            "kids"
+            "cg animation",
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "robots",
+            "sci fi",
+            "superheroes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/electro-boy-2nd-season",
+            "https://myanimelist.net/anime/44020"
+        ],
+        "title": "Dianji Xiaozi 2nd Season",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1066/122866.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1066/122866t.jpg",
+        "synonyms": [
+            "Electro Boy 2nd Season",
+            "电击小子 第二季"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/electro-boy",
+            "https://anime-planet.com/anime/electro-boy-3rd-season",
+            "https://myanimelist.net/anime/44019",
+            "https://myanimelist.net/anime/44021"
+        ],
+        "tags": [
+            "cg animation",
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "robots",
+            "sci fi",
+            "superheroes"
         ],
         "date": {
             "season": "unknown",
@@ -516,61 +585,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/electro-boy"
-        ],
-        "title": "Electro Boy",
-        "type": "tv",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/electro-boy-1.jpg?t=1625908922",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/electro-boy-1-190x248.jpg?t=1625908922",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/electro-boy-2nd-season"
-        ],
-        "tags": [
-            "cg animation",
-            "chinese animation",
-            "family friendly",
-            "robots",
-            "sci fi",
-            "superheroes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/electro-boy-2nd-season"
-        ],
-        "title": "Electro Boy 2nd Season",
-        "type": "tv",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/electro-boy-2nd-season-1.jpg?t=1625908922",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/electro-boy-2nd-season-1-190x247.jpg?t=1625908922",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/electro-boy",
-            "https://anime-planet.com/anime/electro-boy-3rd-season"
-        ],
-        "tags": [
-            "cg animation",
-            "chinese animation",
-            "family friendly",
-            "robots",
-            "sci fi",
-            "superheroes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/fact-rise"
         ],
         "title": "FACT: Rise",
@@ -677,30 +691,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/41725"
-        ],
-        "title": "Fukarai-chou, Tunnel Roji no Otoko",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1041/107090.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1041/107090t.jpg",
-        "synonyms": [
-            "Man In The Tunnel Alley",
-            "福来町、トンネル路地の男"
-        ],
-        "relations": [],
-        "tags": [
-            "avant garde",
-            "sci-fi"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/11555"
         ],
         "title": "Gekijouban Chinyuuki: Tarou to Yukai na Nakama-tachi",
@@ -757,28 +747,6 @@
             "family friendly",
             "music",
             "non-human protagonists"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44657"
-        ],
-        "title": "Guai Zai",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "怪哉"
-        ],
-        "relations": [],
-        "tags": [
-            "horror"
         ],
         "date": {
             "season": "unknown",
@@ -1684,28 +1652,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44531"
-        ],
-        "title": "Li Xianji Lixian Ji",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "李獻計歷險記"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/lizard-planet"
         ],
         "title": "Lizard Planet",
@@ -1747,32 +1693,6 @@
         "tags": [
             "chinese animation",
             "family friendly",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/43895"
-        ],
-        "title": "Ma Lanhua(2009)",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "馬蘭花(2009)"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/43894"
-        ],
-        "tags": [
-            "adventure",
-            "fantasy",
             "kids"
         ],
         "date": {
@@ -1840,7 +1760,7 @@
         ],
         "relations": [],
         "tags": [
-            "cars"
+            "racing"
         ],
         "date": {
             "season": "unknown",
@@ -1983,7 +1903,6 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1129/116543.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1129/116543t.jpg",
         "synonyms": [
-            "Morning Ice Pop",
             "Mourning Ice Pop",
             "Popsicle of Sorrow",
             "Popsicle's Grief",
@@ -2456,15 +2375,14 @@
     {
         "sources": [
             "https://anime-planet.com/anime/qise-zhanji",
-            "https://myanimelist.net/anime/44383",
             "https://myanimelist.net/anime/45078"
         ],
         "title": "Qise Zhanji",
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1281/110817.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1281/110817t.jpg",
         "synonyms": [
             "Planet of 7 Colors",
             "七色戰記"
@@ -2484,6 +2402,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/qiu-pao-senlin",
             "https://myanimelist.net/anime/45994"
         ],
         "title": "Qiu Pao Senlin",
@@ -2497,6 +2416,8 @@
         ],
         "relations": [],
         "tags": [
+            "chinese animation",
+            "family friendly",
             "fantasy"
         ],
         "date": {
@@ -2934,17 +2855,18 @@
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1738/122372.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1738/122372t.jpg",
         "synonyms": [
             "天眼神牛"
         ],
         "relations": [
-            "https://myanimelist.net/anime/45377",
+            "https://myanimelist.net/anime/45376",
             "https://myanimelist.net/anime/45379"
         ],
         "tags": [
-            "fantasy"
+            "fantasy",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -3052,6 +2974,35 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/xiao-chong-sanbao",
+            "https://myanimelist.net/anime/45985"
+        ],
+        "title": "Xiao Chong Sanbao",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "小虫三宝"
+        ],
+        "relations": [],
+        "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
+            "fantasy",
+            "insects",
+            "non-human protagonists"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/xiaomi-de-senlin",
             "https://myanimelist.net/anime/45812",
             "https://myanimelist.net/anime/46155"
@@ -3071,6 +3022,33 @@
             "adventure",
             "chinese animation",
             "kids",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/xiaonu-cao-e",
+            "https://myanimelist.net/anime/45990"
+        ],
+        "title": "Xiaonu Cao E",
+        "type": "tv",
+        "episodes": 10,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1318/123483.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1318/123483t.jpg",
+        "synonyms": [
+            "Filial daughter-Cao E",
+            "孝女曹娥"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "fantasy",
+            "historical",
             "short episodes"
         ],
         "date": {

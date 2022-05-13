@@ -118,13 +118,6 @@
             "阿U之开心童年"
         ],
         "relations": [
-            "https://anisearch.com/anime/15548",
-            "https://anisearch.com/anime/15591",
-            "https://anisearch.com/anime/15592",
-            "https://anisearch.com/anime/15593",
-            "https://anisearch.com/anime/15647",
-            "https://anisearch.com/anime/15648",
-            "https://anisearch.com/anime/15649",
             "https://myanimelist.net/anime/45384"
         ],
         "tags": [
@@ -167,7 +160,6 @@
             "https://anidb.net/anime/8816",
             "https://anilist.co/anime/12149",
             "https://anime-planet.com/anime/akb0048",
-            "https://anisearch.com/anime/7447",
             "https://kitsu.io/anime/6678",
             "https://livechart.me/anime/1097",
             "https://myanimelist.net/anime/12149",
@@ -444,7 +436,6 @@
         "relations": [
             "https://anilist.co/anime/20734",
             "https://anime-planet.com/anime/amnesia-ova",
-            "https://anisearch.com/anime/9390",
             "https://kitsu.io/anime/8041",
             "https://myanimelist.net/anime/20655",
             "https://notify.moe/anime/N1fhpFmmR"
@@ -634,7 +625,6 @@
         "relations": [
             "https://anilist.co/anime/12967",
             "https://anime-planet.com/anime/la-storia-della-arcana-famiglia",
-            "https://anisearch.com/anime/7611",
             "https://kitsu.io/anime/6859",
             "https://myanimelist.net/anime/12967",
             "https://notify.moe/anime/08kvtKiig"
@@ -1140,6 +1130,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/148515",
             "https://myanimelist.net/anime/40728"
         ],
         "title": "Bijutsu Kyouiku",
@@ -1206,8 +1197,10 @@
         "synonyms": [
             "Boku no Imouto wa \"Oosaka Okan\"",
             "Boku no Imouto wa Osaka Okan",
-            "Boku no Imōto wa \"Osaka Okan\"",
-            "Boku-no-imoutowa\"Osaka-okan\"",
+            "Boku no Imouto wa ”Oosaka Okan”",
+            "Boku no Imouto wa ”Osaka Okan”",
+            "Boku no Imōto wa ”Osaka Okan”",
+            "Boku-no-imoutowa ”Osaka-okan”",
             "Osaka Okan",
             "ぼくのいもうとはおおさかおかん",
             "僕の妹は「大阪おかん」",
@@ -1219,8 +1212,6 @@
             "https://anilist.co/anime/18419",
             "https://anime-planet.com/anime/boku-no-imouto-wa-oosaka-okan-haishin-gentei-oosaka-okan",
             "https://anime-planet.com/anime/boku-no-imouto-wa-oosaka-okan-uchi-no-onii-chan-wa-tokyo-rule",
-            "https://anisearch.com/anime/10477",
-            "https://anisearch.com/anime/8529",
             "https://kitsu.io/anime/7557",
             "https://kitsu.io/anime/8582",
             "https://myanimelist.net/anime/16936",
@@ -1296,9 +1287,6 @@
             "https://anime-planet.com/anime/haganai-i-dont-have-many-friends",
             "https://anime-planet.com/anime/haganai-i-dont-have-many-friends-a-round-robin-storys-ending-is-way-extreme",
             "https://anime-planet.com/anime/haganai-i-dont-have-many-friends-ova",
-            "https://anisearch.com/anime/7101",
-            "https://anisearch.com/anime/7200",
-            "https://anisearch.com/anime/7801",
             "https://kitsu.io/anime/7069",
             "https://livechart.me/anime/1176",
             "https://livechart.me/anime/3288",
@@ -1466,6 +1454,7 @@
             "high school",
             "japan",
             "male protagonist",
+            "mythology",
             "present",
             "proxy battles",
             "school",
@@ -1474,6 +1463,7 @@
             "school life",
             "shounen",
             "sports",
+            "strategy game",
             "super power",
             "tournaments"
         ],
@@ -1593,6 +1583,7 @@
             "shoujo",
             "slice of life",
             "sports",
+            "strategy game",
             "tokyo",
             "tomboy",
             "tournaments"
@@ -3112,20 +3103,6 @@
             "https://anime-planet.com/anime/fairy-tail-movie-1-phoenix-priestess",
             "https://anime-planet.com/anime/fairy-tail-movie-2-dragon-cry",
             "https://anime-planet.com/anime/fairy-tail-ova",
-            "https://anisearch.com/anime/10618",
-            "https://anisearch.com/anime/11479",
-            "https://anisearch.com/anime/11551",
-            "https://anisearch.com/anime/11552",
-            "https://anisearch.com/anime/12640",
-            "https://anisearch.com/anime/16579",
-            "https://anisearch.com/anime/5476",
-            "https://anisearch.com/anime/6666",
-            "https://anisearch.com/anime/7079",
-            "https://anisearch.com/anime/7424",
-            "https://anisearch.com/anime/7695",
-            "https://anisearch.com/anime/8291",
-            "https://anisearch.com/anime/8793",
-            "https://anisearch.com/anime/8811",
             "https://kitsu.io/anime/4676",
             "https://kitsu.io/anime/6652",
             "https://livechart.me/anime/1053",
@@ -3226,7 +3203,6 @@
             "https://anidb.net/anime/10016",
             "https://anilist.co/anime/20567",
             "https://anime-planet.com/anime/gj-bu-at",
-            "https://anisearch.com/anime/9111",
             "https://kitsu.io/anime/8007",
             "https://livechart.me/anime/229",
             "https://myanimelist.net/anime/21635",
@@ -3249,6 +3225,7 @@
             "novel",
             "present",
             "primarily female cast",
+            "primarily teen cast",
             "school",
             "school club",
             "school clubs",
@@ -3634,13 +3611,13 @@
             "劇場版 花咲くいろは HOME SWEET HOME",
             "花咲くいろは HOME SWEET HOME",
             "花咲くいろは Home Sweet Home",
+            "花开伊吕波 Home Sweet Home",
             "꽃이 피는 첫걸음: Home Sweet Home"
         ],
         "relations": [
             "https://anidb.net/anime/7874",
             "https://anilist.co/anime/9289",
             "https://anime-planet.com/anime/hanasaku-iroha",
-            "https://anisearch.com/anime/6361",
             "https://kitsu.io/anime/5657",
             "https://livechart.me/anime/1525",
             "https://myanimelist.net/anime/9289",
@@ -3826,18 +3803,6 @@
             "https://anime-planet.com/anime/hetalia-world-series",
             "https://anime-planet.com/anime/hetalia-world-series-extra-episodes",
             "https://anime-planet.com/anime/hetalia-world-stars",
-            "https://anisearch.com/anime/10081",
-            "https://anisearch.com/anime/10595",
-            "https://anisearch.com/anime/14199",
-            "https://anisearch.com/anime/14201",
-            "https://anisearch.com/anime/15680",
-            "https://anisearch.com/anime/16324",
-            "https://anisearch.com/anime/5006",
-            "https://anisearch.com/anime/5754",
-            "https://anisearch.com/anime/6280",
-            "https://anisearch.com/anime/7876",
-            "https://anisearch.com/anime/8997",
-            "https://anisearch.com/anime/9004",
             "https://kitsu.io/anime/10057",
             "https://kitsu.io/anime/5351",
             "https://kitsu.io/anime/7626",
@@ -4285,6 +4250,7 @@
             "assassins",
             "based on a manga",
             "comedy",
+            "disability",
             "drama",
             "excessive violence",
             "fantasy",
@@ -4422,7 +4388,6 @@
         "relations": [
             "https://anilist.co/anime/18149",
             "https://anime-planet.com/anime/ishida-and-asakura-special",
-            "https://anisearch.com/anime/8565",
             "https://kitsu.io/anime/7809",
             "https://myanimelist.net/anime/18149",
             "https://notify.moe/anime/PtAtpKmiR"
@@ -4474,7 +4439,6 @@
         "relations": [
             "https://anilist.co/anime/16317",
             "https://anime-planet.com/anime/ishida-and-asakura",
-            "https://anisearch.com/anime/8191",
             "https://kitsu.io/anime/7404",
             "https://myanimelist.net/anime/16317",
             "https://notify.moe/anime/rbbKtKmiR"
@@ -4672,11 +4636,13 @@
             "cute girls doing cute things",
             "earth",
             "gag",
+            "gag humor",
             "manga",
             "meta",
             "moe",
             "parody",
             "performance",
+            "performing arts",
             "present",
             "rakugo",
             "satire",
@@ -5583,7 +5549,8 @@
             "full cgi",
             "ganbatte",
             "present",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "winter",
@@ -5695,9 +5662,7 @@
             "Kuromajo-san ga Tōru!! (2013)",
             "黒魔女さんが通る！！ （2013）"
         ],
-        "relations": [
-            "https://anisearch.com/anime/7656"
-        ],
+        "relations": [],
         "tags": [
             "comedy",
             "ghosts",
@@ -5792,16 +5757,14 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1075/108448.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1075/108448t.jpg",
         "synonyms": [
-            "Aimer - Kyou Kara Omoide",
+            "Aimer - Kyou kara Omoide",
             "Aimer: Kyou kara Omoide",
-            "Kyou Kara Omoide",
             "Kyoukara Omoide",
-            "Kyō Kara Omoide",
+            "Kyō kara Omoide",
             "今日から思い出"
         ],
         "relations": [
             "https://anime-planet.com/anime/aimer-mine",
-            "https://anisearch.com/anime/12109",
             "https://myanimelist.net/anime/42380",
             "https://myanimelist.net/anime/42439"
         ],
@@ -6183,13 +6146,6 @@
             "https://anime-planet.com/anime/love-live-sunshine",
             "https://anime-planet.com/anime/love-live-superstar",
             "https://anime-planet.com/anime/love-live-the-school-idol-movie",
-            "https://anisearch.com/anime/14986",
-            "https://anisearch.com/anime/15002",
-            "https://anisearch.com/anime/8672",
-            "https://anisearch.com/anime/9048",
-            "https://anisearch.com/anime/9208",
-            "https://anisearch.com/anime/9583",
-            "https://anisearch.com/anime/9821",
             "https://kitsu.io/anime/11745",
             "https://kitsu.io/anime/42872",
             "https://kitsu.io/anime/44124",
@@ -6578,6 +6534,7 @@
             "economics",
             "fantasy",
             "medieval",
+            "mythology",
             "recap",
             "romance"
         ],
@@ -6602,9 +6559,7 @@
             "Maoyū Maō Yūsha: Kono Monogatari wa, Daniku dake de wa Nai no Ja!",
             "まおゆう魔王勇者 この物語は、 駄肉だけではないのじゃ！"
         ],
-        "relations": [
-            "https://anisearch.com/anime/7933"
-        ],
+        "relations": [],
         "tags": [
             "adventure"
         ],
@@ -7707,8 +7662,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/8208",
-            "https://anime-planet.com/anime/otona-joshi-no-anime-time-kawamo-o-suberu-kaze",
-            "https://anisearch.com/anime/6822"
+            "https://anime-planet.com/anime/otona-joshi-no-anime-time-kawamo-o-suberu-kaze"
         ],
         "tags": [
             "based on a novel",
@@ -8207,8 +8161,10 @@
             "https://notify.moe/anime/SS3BpFimR"
         ],
         "tags": [
+            "educational",
             "kids",
-            "music"
+            "music",
+            "performing arts"
         ],
         "date": {
             "season": "winter",
@@ -8457,8 +8413,6 @@
             "https://anime-planet.com/anime/the-idolmaster-movie-kagayaki-no-mukougawa-e",
             "https://anime-planet.com/anime/the-idolmaster-onegai-cinderella",
             "https://anime-planet.com/anime/the-idolmaster-shiny-festa",
-            "https://anisearch.com/anime/8127",
-            "https://anisearch.com/anime/9009",
             "https://kitsu.io/anime/6111",
             "https://kitsu.io/anime/7307",
             "https://kitsu.io/anime/7823",
@@ -8841,7 +8795,6 @@
             "https://anime-planet.com/anime/sket-dance",
             "https://anime-planet.com/anime/sket-dance-demystifying-special",
             "https://anime-planet.com/anime/sket-dance-sd-character-flash-anime",
-            "https://anisearch.com/anime/6566",
             "https://kitsu.io/anime/5908",
             "https://myanimelist.net/anime/9863",
             "https://notify.moe/anime/_TQGtKmmR"
@@ -9466,13 +9419,6 @@
             "https://anime-planet.com/anime/shimajirou-to-otsuki-sama-no-himitsu",
             "https://anime-planet.com/anime/shimajirou-to-tanjoubi-no-ohoshi-sama",
             "https://anime-planet.com/anime/shimajirou-to-ururu-no-hero-land",
-            "https://anisearch.com/anime/11906",
-            "https://anisearch.com/anime/11943",
-            "https://anisearch.com/anime/4462",
-            "https://anisearch.com/anime/5174",
-            "https://anisearch.com/anime/7469",
-            "https://anisearch.com/anime/7761",
-            "https://anisearch.com/anime/9129",
             "https://kitsu.io/anime/9039",
             "https://myanimelist.net/anime/18941",
             "https://notify.moe/anime/9lebtFmmg"
@@ -9824,8 +9770,8 @@
         "relations": [],
         "tags": [
             "fantasy",
-            "game",
-            "music"
+            "music",
+            "strategy game"
         ],
         "date": {
             "season": "winter",
@@ -9942,7 +9888,6 @@
             "https://livechart.me/anime/227",
             "https://myanimelist.net/anime/17879",
             "https://myanimelist.net/anime/21647",
-            "https://myanimelist.net/anime/23399",
             "https://notify.moe/anime/--7ApKiiR",
             "https://notify.moe/anime/f_KppFmiR",
             "https://notify.moe/anime/rSRTtKmmg"
@@ -10188,7 +10133,8 @@
         "relations": [],
         "tags": [
             "music",
-            "romance"
+            "romance",
+            "visual arts"
         ],
         "date": {
             "season": "winter",
@@ -10297,9 +10243,6 @@
             "https://anilist.co/anime/8937",
             "https://anime-planet.com/anime/a-certain-magical-index-ii",
             "https://anime-planet.com/anime/a-certain-magical-index-movie-the-miracle-of-endymion-special",
-            "https://anisearch.com/anime/12847",
-            "https://anisearch.com/anime/4946",
-            "https://anisearch.com/anime/6268",
             "https://kitsu.io/anime/5541",
             "https://kitsu.io/anime/8120",
             "https://livechart.me/anime/2895",
@@ -10737,6 +10680,7 @@
             "action",
             "adventure",
             "angel",
+            "bondage",
             "borderline h",
             "demons",
             "ecchi",
@@ -10760,7 +10704,8 @@
             "shrine maiden",
             "slavery",
             "swordplay",
-            "swords & co"
+            "swords & co",
+            "torture"
         ],
         "date": {
             "season": "winter",
@@ -10802,7 +10747,6 @@
             "https://anime-planet.com/anime/queens-blade-the-exiled-virgin-specials",
             "https://anime-planet.com/anime/queens-blade-unlimited",
             "https://anime-planet.com/anime/queens-blade-vanquished-queens",
-            "https://anisearch.com/anime/8193",
             "https://kitsu.io/anime/7412",
             "https://myanimelist.net/anime/16363",
             "https://notify.moe/anime/OzfFpFmig"
@@ -11235,16 +11179,6 @@
         ],
         "relations": [
             "https://anidb.net/anime/12533",
-            "https://anisearch.com/anime/12766",
-            "https://anisearch.com/anime/12767",
-            "https://anisearch.com/anime/12768",
-            "https://anisearch.com/anime/12769",
-            "https://anisearch.com/anime/12770",
-            "https://anisearch.com/anime/15204",
-            "https://anisearch.com/anime/15253",
-            "https://anisearch.com/anime/15621",
-            "https://anisearch.com/anime/15625",
-            "https://anisearch.com/anime/9507",
             "https://kitsu.io/anime/11862",
             "https://myanimelist.net/anime/32818"
         ],
@@ -11298,12 +11232,6 @@
             "https://anime-planet.com/anime/encouragement-of-climb-next-summit",
             "https://anime-planet.com/anime/encouragement-of-climb-omoide-present",
             "https://anime-planet.com/anime/encouragement-of-climb-special",
-            "https://anisearch.com/anime/12520",
-            "https://anisearch.com/anime/12521",
-            "https://anisearch.com/anime/16069",
-            "https://anisearch.com/anime/8358",
-            "https://anisearch.com/anime/9278",
-            "https://anisearch.com/anime/9999",
             "https://kitsu.io/anime/7766",
             "https://livechart.me/anime/10474",
             "https://livechart.me/anime/1237",
@@ -11786,8 +11714,6 @@
             "https://anime-planet.com/anime/gdgd-fairies",
             "https://anime-planet.com/anime/gdgd-fairies-the-movie-tte-iu-eiga-wa-dou-kana",
             "https://anime-planet.com/anime/gdgd-mens-party",
-            "https://anisearch.com/anime/7442",
-            "https://anisearch.com/anime/8469",
             "https://kitsu.io/anime/14093",
             "https://kitsu.io/anime/7550",
             "https://kitsu.io/anime/8941",

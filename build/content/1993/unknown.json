@@ -70,6 +70,32 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/43826"
+        ],
+        "title": "Kaixin Guo",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1331/122431.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1331/122431t.jpg",
+        "synonyms": [
+            "Happy Fruit/Pistachio",
+            "开心果"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/43861"
+        ],
+        "tags": [
+            "anthropomorphic",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1993
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/lan-pi-shu-yu-da-lian-mao",
             "https://myanimelist.net/anime/43311"
         ],
@@ -111,6 +137,29 @@
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
             "レッツゴーなかまたち！　―ぼくらと博士の防火の誓い―"
+        ],
+        "relations": [],
+        "tags": [
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1993
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/43828"
+        ],
+        "title": "Lu Nu",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1770/122433.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1770/122433t.jpg",
+        "synonyms": [
+            "Lunu",
+            "鹿女"
         ],
         "relations": [],
         "tags": [
@@ -433,8 +482,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [
             "The Legend of the Dog Warriors: The Hakkenden Digest"
         ],
@@ -551,10 +600,7 @@
             "The Adventures of Willy Fog: 20,000 Leagues Under the Sea",
             "Willy Fog En 20.000 leguas de viaje submarino"
         ],
-        "relations": [
-            "https://anisearch.com/anime/2039",
-            "https://anisearch.com/anime/4442"
-        ],
+        "relations": [],
         "tags": [
             "adventure",
             "beastmen",

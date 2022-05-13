@@ -119,10 +119,7 @@
             "Robokicks 2",
             "Robokicks Season 2"
         ],
-        "relations": [
-            "https://anisearch.com/anime/16746",
-            "https://anisearch.com/anime/16748"
-        ],
+        "relations": [],
         "tags": [
             "soccer",
             "sports"
@@ -222,8 +219,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [],
         "relations": [
             "https://anime-planet.com/anime/cofun-gal-no-coffy",
@@ -291,8 +288,7 @@
             "https://myanimelist.net/anime/44377",
             "https://myanimelist.net/anime/44378",
             "https://myanimelist.net/anime/44379",
-            "https://myanimelist.net/anime/44380",
-            "https://myanimelist.net/anime/44381"
+            "https://myanimelist.net/anime/44380"
         ],
         "title": "Fuwa: Chao Shikong Renwu",
         "type": "tv",
@@ -306,6 +302,40 @@
         "relations": [],
         "tags": [
             "adventure",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/129481",
+            "https://anime-planet.com/anime/guodong-san-jianke",
+            "https://myanimelist.net/anime/44279"
+        ],
+        "title": "Guodong San Jianke",
+        "type": "tv",
+        "episodes": 20,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1257/123013.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1257/123013t.jpg",
+        "synonyms": [
+            "The Jelly 3 Musketeers",
+            "果冻三剑客",
+            "果宝特攻前传"
+        ],
+        "relations": [
+            "https://anilist.co/anime/129480",
+            "https://myanimelist.net/anime/44278",
+            "https://myanimelist.net/anime/44280"
+        ],
+        "tags": [
+            "chinese animation",
+            "comedy",
+            "fantasy",
+            "full cgi",
             "kids"
         ],
         "date": {
@@ -597,6 +627,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/148468",
             "https://myanimelist.net/anime/41496"
         ],
         "title": "Koi Nobori",
@@ -781,28 +812,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44670"
-        ],
-        "title": "Mayi",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "蚂蚁"
-        ],
-        "relations": [],
-        "tags": [
-            "horror"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2007
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/45197",
             "https://myanimelist.net/anime/45798"
         ],
@@ -966,31 +975,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/42929"
-        ],
-        "title": "Pokemon Movie 10: Dialga vs. Palkia vs. Darkrai PVs",
-        "type": "special",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "ポケットモンスター ダイヤモンド＆パール ディアルガVSパルキアVSダークライ"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/2847"
-        ],
-        "tags": [
-            "fantasy",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2007
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/125266",
             "https://anime-planet.com/anime/shayou",
             "https://myanimelist.net/anime/38641"
@@ -1088,6 +1072,31 @@
             "adventure",
             "historical",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/43893"
+        ],
+        "title": "Shen Gong Chuanqi",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1996/122542.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1996/122542t.jpg",
+        "synonyms": [
+            "The Legend of Bow",
+            "神弓传奇"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44178"
+        ],
+        "tags": [
+            "fantasy"
         ],
         "date": {
             "season": "unknown",
@@ -1215,6 +1224,32 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/45376"
+        ],
+        "title": "Tian Yanshen Hu",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1445/122371.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1445/122371t.jpg",
+        "synonyms": [
+            "天眼神虎"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/45374",
+            "https://myanimelist.net/anime/45378"
+        ],
+        "tags": [
+            "fantasy",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/tongsheng-tong-qi-kan-shijie",
             "https://myanimelist.net/anime/46184",
             "https://myanimelist.net/anime/46213"
@@ -1249,6 +1284,24 @@
         "status": "finished",
         "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114447-oRUj7JqTupSj.jpg",
         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114447-oRUj7JqTupSj.jpg",
+        "synonyms": [],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51748"
+        ],
+        "title": "Tube Angel",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1130/123595.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1130/123595t.jpg",
         "synonyms": [],
         "relations": [],
         "tags": [],
@@ -1476,6 +1529,28 @@
             "chinese animation",
             "comedy",
             "family friendly"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/44505"
+        ],
+        "title": "Yunduan Di Rizi",
+        "type": "ona",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1670/122921.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1670/122921t.jpg",
+        "synonyms": [
+            "云端的日子"
+        ],
+        "relations": [],
+        "tags": [
+            "romance"
         ],
         "date": {
             "season": "unknown",

@@ -167,6 +167,36 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/15058",
+            "https://kitsu.io/anime/40776",
+            "https://myanimelist.net/anime/35497",
+            "https://notify.moe/anime/mjzOhFiig"
+        ],
+        "title": "Hashire Melos",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/2/85540.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/2/85540t.jpg",
+        "synonyms": [
+            "Run",
+            "Run, Melos!",
+            "走れメロス"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/4876",
+            "https://myanimelist.net/anime/8554"
+        ],
+        "tags": [
+            "adventure"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1979
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/11389",
             "https://anisearch.com/anime/10843"
         ],
@@ -425,6 +455,7 @@
         ],
         "relations": [],
         "tags": [
+            "educational",
             "kids",
             "sci-fi"
         ],
@@ -435,6 +466,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/148374",
             "https://anime-planet.com/anime/under-the-sun",
             "https://myanimelist.net/anime/49029"
         ],

@@ -397,20 +397,28 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/dou-ding-de-kuaile-riji",
             "https://myanimelist.net/anime/45978"
         ],
         "title": "Dou Ding De Kuaile Riji",
         "type": "tv",
         "episodes": 104,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1421/123494.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1421/123494t.jpg",
         "synonyms": [
             "豆丁的快乐日记"
         ],
-        "relations": [],
+        "relations": [
+            "https://anime-planet.com/anime/dou-ding-de-kuaile-riji-2"
+        ],
         "tags": [
-            "kids"
+            "chibi",
+            "chinese animation",
+            "comedy",
+            "family friendly",
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -829,6 +837,31 @@
         "tags": [
             "romance",
             "vocaloid"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/44639"
+        ],
+        "title": "Hou Wang Chuan",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1228/123057.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1228/123057t.jpg",
+        "synonyms": [
+            "Ashley",
+            "猴王传"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "fantasy",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -1376,20 +1409,22 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/50226"
+            "https://anime-planet.com/anime/ku-bao-fangkuai-2nd-season"
         ],
-        "title": "Kiiroi Coat",
-        "type": "special",
-        "episodes": 1,
+        "title": "Ku Bao Fangkuai 2nd Season",
+        "type": "tv",
+        "episodes": 29,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1001/119001.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1001/119001t.jpg",
-        "synonyms": [
-            "Yellow Coat",
-            "黄色いコート"
+        "picture": "https://cdn.anime-planet.com/anime/primary/ku-bao-fangkuai-2nd-season-1.webp?t=1651689914",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/ku-bao-fangkuai-2nd-season-1-285x400.webp?t=1651689914",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/ku-bao-fangkuai"
         ],
-        "relations": [],
-        "tags": [],
+        "tags": [
+            "chinese animation",
+            "short episodes"
+        ],
         "date": {
             "season": "unknown",
             "year": 2010
@@ -1823,6 +1858,29 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51749"
+        ],
+        "title": "Meogda",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1455/123596.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1455/123596t.jpg",
+        "synonyms": [
+            "Eating",
+            "먹다"
+        ],
+        "relations": [],
+        "tags": [
+            "avant garde"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/monkey-majik-aishiteru"
         ],
         "title": "Monkey Majik: Aishiteru",
@@ -2229,6 +2287,32 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/46857"
+        ],
+        "title": "Rexue Sanguo: Sanguo Dingli",
+        "type": "tv",
+        "episodes": 140,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1920/122348.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1920/122348t.jpg",
+        "synonyms": [
+            "热血三国之三国鼎立"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/46859"
+        ],
+        "tags": [
+            "comedy",
+            "historical",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/132703"
         ],
         "title": "Rokujouma no Shinryakusha!? Promotion Movie",
@@ -2353,15 +2437,13 @@
         "type": "tv",
         "episodes": 51,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1032/123005.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1032/123005t.jpg",
         "synonyms": [
-            "少林海寶"
+            "少林海宝"
         ],
         "relations": [],
         "tags": [
-            "action",
-            "adventure",
             "kids",
             "martial arts"
         ],
@@ -2428,8 +2510,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [],
         "relations": [
             "https://anime-planet.com/anime/koihime-musou",
@@ -2490,6 +2572,34 @@
             "chinese animation",
             "family friendly",
             "kids",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/shujia-shang-de-qimiao-shijie",
+            "https://myanimelist.net/anime/45983"
+        ],
+        "title": "Shujia Shang De Qimiao Shijie",
+        "type": "tv",
+        "episodes": 110,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "书架上的奇妙世界"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/shujia-shang-de-qimiao-shijie-2"
+        ],
+        "tags": [
+            "chinese animation",
+            "family friendly",
+            "historical",
             "short episodes"
         ],
         "date": {
@@ -3022,32 +3132,6 @@
             "kids",
             "non-human protagonists",
             "original work"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44479"
-        ],
-        "title": "Xiao Ji Bu Hao Re",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "小鸡不好惹"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44480"
-        ],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "kids"
         ],
         "date": {
             "season": "unknown",

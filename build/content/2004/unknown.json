@@ -38,13 +38,14 @@
         "type": "tv",
         "episodes": 40,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1191/122861.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1191/122861t.jpg",
         "synonyms": [
             "寶貝女兒好媽媽"
         ],
         "relations": [
-            "https://myanimelist.net/anime/44016"
+            "https://myanimelist.net/anime/44016",
+            "https://myanimelist.net/anime/44017"
         ],
         "tags": [
             "comedy",
@@ -74,28 +75,6 @@
         ],
         "tags": [
             "comedy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2004
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/43863"
-        ],
-        "title": "Bravo Dong Dong",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "Bravo東東"
-        ],
-        "relations": [],
-        "tags": [
-            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -292,6 +271,29 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51785"
+        ],
+        "title": "Hana to Kaze no Fantasy",
+        "type": "ova",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1812/123690.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1812/123690t.jpg",
+        "synonyms": [
+            "花と風のファンタジー"
+        ],
+        "relations": [],
+        "tags": [
+            "kids",
+            "music"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2004
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16348",
             "https://anime-planet.com/anime/hoshi-usagi-to-tsuki-no-fune"
         ],
@@ -363,8 +365,8 @@
             "https://myanimelist.net/anime/1606"
         ],
         "tags": [
-            "demons",
             "fantasy",
+            "mythology",
             "shounen",
             "supernatural"
         ],
@@ -733,20 +735,13 @@
             "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-i-celestial-being",
             "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-iii-return-the-world",
             "https://anime-planet.com/anime/mobile-suit-gundam-00-the-movie-a-wakening-of-the-trailblazer",
-            "https://anime-planet.com/anime/mobile-suit-gundam-0080-war-in-the-pocket",
-            "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory",
             "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory-the-mayfly-of-space",
             "https://anime-planet.com/anime/mobile-suit-gundam-0083-the-afterglow-of-zeon",
             "https://anime-planet.com/anime/mobile-suit-gundam-age",
             "https://anime-planet.com/anime/mobile-suit-gundam-age-memory-of-eden",
-            "https://anime-planet.com/anime/mobile-suit-gundam-chars-counterattack",
             "https://anime-planet.com/anime/mobile-suit-gundam-evolve",
-            "https://anime-planet.com/anime/mobile-suit-gundam-f91",
             "https://anime-planet.com/anime/mobile-suit-gundam-iron-blooded-orphans",
             "https://anime-planet.com/anime/mobile-suit-gundam-iron-blooded-orphans-2",
-            "https://anime-planet.com/anime/mobile-suit-gundam-ms-igloo-2-juuryoku-sensen",
-            "https://anime-planet.com/anime/mobile-suit-gundam-ms-igloo-apocalypse-0079",
-            "https://anime-planet.com/anime/mobile-suit-gundam-ms-igloo-the-hidden-one-year-war",
             "https://anime-planet.com/anime/mobile-suit-gundam-seed",
             "https://anime-planet.com/anime/mobile-suit-gundam-seed-ce73-stargazer",
             "https://anime-planet.com/anime/mobile-suit-gundam-seed-character-theater",
@@ -762,19 +757,12 @@
             "https://anime-planet.com/anime/mobile-suit-gundam-seed-msv-astray",
             "https://anime-planet.com/anime/mobile-suit-gundam-seed-project-ignited",
             "https://anime-planet.com/anime/mobile-suit-gundam-special-edition-ii-end-of-the-world",
-            "https://anime-planet.com/anime/mobile-suit-gundam-the-08th-ms-team",
-            "https://anime-planet.com/anime/mobile-suit-gundam-the-origin",
-            "https://anime-planet.com/anime/mobile-suit-gundam-thunderbolt",
-            "https://anime-planet.com/anime/mobile-suit-gundam-unicorn",
             "https://anime-planet.com/anime/mobile-suit-gundam-wing",
             "https://anime-planet.com/anime/mobile-suit-gundam-wing-endless-waltz",
             "https://anime-planet.com/anime/mobile-suit-gundam-wing-endless-waltz-movie",
-            "https://anime-planet.com/anime/mobile-suit-gundam-zz",
             "https://anime-planet.com/anime/mobile-suit-gundam-zz-gundam-frag",
             "https://anime-planet.com/anime/mobile-suit-sd-gundam-mk-i",
             "https://anime-planet.com/anime/mobile-suit-sd-gundam-no-gyakushuu-arashi-wo-yobu-gakuensai",
-            "https://anime-planet.com/anime/mobile-suit-victory-gundam",
-            "https://anime-planet.com/anime/mobile-suit-zeta-gundam",
             "https://anime-planet.com/anime/mokei-senshi-gunpla-builders-beginning-g",
             "https://anime-planet.com/anime/ring-of-gundam",
             "https://anime-planet.com/anime/turn-a-gundam"
@@ -901,36 +889,6 @@
         "relations": [],
         "tags": [
             "music"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2004
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/42135"
-        ],
-        "title": "Pokemon Advanced Generation: Planetarium: Tenkuu Kara no Chousen",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1069/107847.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1069/107847t.jpg",
-        "synonyms": [
-            "Pokemon Advanced Generation: Planetarium: Challenge from the Sky",
-            "ポケットモンスターアドバンスジェネレーション　プラネタリウム　天空からの挑戦"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/1564"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "comedy",
-            "drama",
-            "fantasy",
-            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -1149,6 +1107,33 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/wanpi-fu-duo",
+            "https://myanimelist.net/anime/45998"
+        ],
+        "title": "Wanpi Fu Duo",
+        "type": "tv",
+        "episodes": 39,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1024/123478.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1024/123478t.jpg",
+        "synonyms": [
+            "顽皮福多"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2004
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/yumirose-michi"
         ],
         "title": "Yumirose: Michi",
@@ -1183,6 +1168,30 @@
         "tags": [
             "comedy",
             "parody"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2004
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/43891"
+        ],
+        "title": "Zhonghua Meide",
+        "type": "tv",
+        "episodes": 99,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1686/122540.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1686/122540t.jpg",
+        "synonyms": [
+            "中华美德"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "fantasy",
+            "kids"
         ],
         "date": {
             "season": "unknown",

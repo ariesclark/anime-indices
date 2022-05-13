@@ -1,6 +1,35 @@
 [
     {
         "sources": [
+            "https://anidb.net/anime/14833",
+            "https://anime-planet.com/anime/bai-ge-dao",
+            "https://myanimelist.net/anime/43875"
+        ],
+        "title": "Bai Ge Dao",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1102/122514.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1102/122514t.jpg",
+        "synonyms": [
+            "Bird Island",
+            "白鸽岛"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "original work",
+            "sci fi",
+            "sci-fi"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2003
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/7340",
             "https://anilist.co/anime/20189",
             "https://anime-planet.com/anime/my-son-goku",
@@ -783,6 +812,7 @@
             "episodic",
             "female protagonist",
             "gag",
+            "gag humor",
             "guns",
             "high school",
             "japan",
@@ -1016,6 +1046,7 @@
             "Fighting Spirit: Mashiba vs. Kimura",
             "Hajime no Ippo: Extra Round",
             "Hajime no Ippo: Mashiba vs Kimura",
+            "Hajime no Ippo: Mashiba vs Kimura - Shikei Shikkou",
             "Hajime no Ippo: The Fighting! - Kimura Tatsuya vs Mashiba Ryo",
             "Hajime no Ippo: The Fighting! - Mashiba vs Kimura: Shikei Shikkou",
             "Hajime no Ippo: The Fighting! - Mashiba vs Kimura: Shikei Shikkō",
@@ -1035,11 +1066,6 @@
             "https://anime-planet.com/anime/hajime-no-ippo-rising",
             "https://anime-planet.com/anime/hajime-no-ippo-the-fighting",
             "https://anime-planet.com/anime/hajime-no-ippo-the-fighting-special",
-            "https://anisearch.com/anime/10921",
-            "https://anisearch.com/anime/1586",
-            "https://anisearch.com/anime/3028",
-            "https://anisearch.com/anime/5149",
-            "https://anisearch.com/anime/8832",
             "https://kitsu.io/anime/239",
             "https://kitsu.io/anime/4016",
             "https://livechart.me/anime/144",
@@ -1256,7 +1282,6 @@
         "relations": [
             "https://anilist.co/anime/958",
             "https://anime-planet.com/anime/heat-guy-j",
-            "https://anisearch.com/anime/3071",
             "https://kitsu.io/anime/848",
             "https://myanimelist.net/anime/958",
             "https://notify.moe/anime/3tHJcKmiR"
@@ -1266,6 +1291,7 @@
             "adventure",
             "alternative world",
             "cops",
+            "detective",
             "guns",
             "hero of strong character",
             "mafia",
@@ -1516,15 +1542,6 @@
             "https://anime-planet.com/anime/ikkitousen-xtreme-xecutor",
             "https://anime-planet.com/anime/ikkitousen-xtreme-xecutor-specials",
             "https://anime-planet.com/anime/shin-ikkitousen",
-            "https://anisearch.com/anime/13916",
-            "https://anisearch.com/anime/2537",
-            "https://anisearch.com/anime/3063",
-            "https://anisearch.com/anime/3981",
-            "https://anisearch.com/anime/4748",
-            "https://anisearch.com/anime/5064",
-            "https://anisearch.com/anime/7239",
-            "https://anisearch.com/anime/7297",
-            "https://anisearch.com/anime/9812",
             "https://kitsu.io/anime/1762",
             "https://livechart.me/anime/10674",
             "https://livechart.me/anime/3543",
@@ -1544,9 +1561,11 @@
             "asia",
             "based on a manga",
             "bionic powers",
+            "bisexual",
             "comedy",
             "earth",
             "ecchi",
+            "ensemble cast",
             "female harem",
             "female protagonist",
             "hand to hand combat",
@@ -1962,7 +1981,6 @@
             "魔法少女アイ"
         ],
         "relations": [
-            "https://anisearch.com/anime/4741",
             "https://myanimelist.net/anime/5653"
         ],
         "tags": [
@@ -2048,7 +2066,6 @@
             "Masaru あしたの雪之丞2"
         ],
         "relations": [
-            "https://anisearch.com/anime/2183",
             "https://myanimelist.net/anime/5674"
         ],
         "tags": [
@@ -2103,7 +2120,6 @@
             "https://anidb.net/anime/2327",
             "https://anilist.co/anime/3182",
             "https://anime-planet.com/anime/massugu-ni-ikou-2004",
-            "https://anisearch.com/anime/1975",
             "https://kitsu.io/anime/2843",
             "https://myanimelist.net/anime/3182",
             "https://notify.moe/anime/JlWQcFimg"
@@ -2242,6 +2258,33 @@
             "splatter",
             "supernatural",
             "threesome"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2003
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/103383",
+            "https://anime-planet.com/anime/minamo",
+            "https://kitsu.io/anime/10413",
+            "https://myanimelist.net/anime/29767",
+            "https://notify.moe/anime/0F08pFimg"
+        ],
+        "title": "Minamo",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/6/71621.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/6/71621t.jpg",
+        "synonyms": [
+            "minamo"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "shorts"
         ],
         "date": {
             "season": "summer",
@@ -2479,13 +2522,13 @@
             "nasu",
             "なすあんだるしあのなつ",
             "アンダルシアの夏",
-            "茄子 アンダルシアの夏"
+            "茄子 アンダルシアの夏",
+            "茄子 安达卢西亚之夏"
         ],
         "relations": [
             "https://anidb.net/anime/5110",
             "https://anilist.co/anime/3111",
             "https://anime-planet.com/anime/nasu-suitcase-no-wataridori",
-            "https://anisearch.com/anime/4211",
             "https://kitsu.io/anime/2803",
             "https://myanimelist.net/anime/3111",
             "https://notify.moe/anime/D_qU5FmmR"
@@ -2668,6 +2711,7 @@
             "https://kitsu.io/anime/406",
             "https://kitsu.io/anime/483",
             "https://livechart.me/anime/3925",
+            "https://livechart.me/anime/5072",
             "https://livechart.me/anime/5921",
             "https://livechart.me/anime/7240",
             "https://myanimelist.net/anime/195",
@@ -2742,6 +2786,7 @@
             "historical",
             "magic",
             "maid",
+            "mythology",
             "nurse",
             "oral",
             "outdoors",
@@ -3301,8 +3346,6 @@
             "https://anime-planet.com/anime/rahxephon",
             "https://anime-planet.com/anime/rahxephon-the-motion-picture",
             "https://anime-planet.com/anime/rahxephon-tsubasa-no-kioku-memory",
-            "https://anisearch.com/anime/1015",
-            "https://anisearch.com/anime/1830",
             "https://kitsu.io/anime/143",
             "https://livechart.me/anime/4139",
             "https://livechart.me/anime/8076",
@@ -3522,19 +3565,6 @@
             "https://anime-planet.com/anime/fist-of-the-north-star-the-movie",
             "https://anime-planet.com/anime/hokuto-no-ken-legend-of-heroes",
             "https://anime-planet.com/anime/legends-of-the-dark-king-a-fist-of-the-north-star-story",
-            "https://anisearch.com/anime/12949",
-            "https://anisearch.com/anime/13689",
-            "https://anisearch.com/anime/1509",
-            "https://anisearch.com/anime/1672",
-            "https://anisearch.com/anime/2190",
-            "https://anisearch.com/anime/2195",
-            "https://anisearch.com/anime/2653",
-            "https://anisearch.com/anime/2743",
-            "https://anisearch.com/anime/3053",
-            "https://anisearch.com/anime/3874",
-            "https://anisearch.com/anime/4843",
-            "https://anisearch.com/anime/8108",
-            "https://anisearch.com/anime/843",
             "https://kitsu.io/anime/1210",
             "https://livechart.me/anime/1661",
             "https://livechart.me/anime/4523",
@@ -3604,6 +3634,7 @@
             "hentai",
             "masturbation",
             "oral",
+            "present",
             "softcore"
         ],
         "date": {
@@ -3635,71 +3666,6 @@
         "relations": [
             "https://anidb.net/anime/5548",
             "https://anidb.net/anime/7392",
-            "https://anisearch.com/anime/10200",
-            "https://anisearch.com/anime/11284",
-            "https://anisearch.com/anime/11668",
-            "https://anisearch.com/anime/12016",
-            "https://anisearch.com/anime/12023",
-            "https://anisearch.com/anime/12255",
-            "https://anisearch.com/anime/13190",
-            "https://anisearch.com/anime/14159",
-            "https://anisearch.com/anime/15028",
-            "https://anisearch.com/anime/4235",
-            "https://anisearch.com/anime/4549",
-            "https://anisearch.com/anime/4578",
-            "https://anisearch.com/anime/4788",
-            "https://anisearch.com/anime/4985",
-            "https://anisearch.com/anime/5019",
-            "https://anisearch.com/anime/5321",
-            "https://anisearch.com/anime/5322",
-            "https://anisearch.com/anime/5323",
-            "https://anisearch.com/anime/5324",
-            "https://anisearch.com/anime/5325",
-            "https://anisearch.com/anime/5326",
-            "https://anisearch.com/anime/5327",
-            "https://anisearch.com/anime/5328",
-            "https://anisearch.com/anime/5329",
-            "https://anisearch.com/anime/5330",
-            "https://anisearch.com/anime/5331",
-            "https://anisearch.com/anime/5332",
-            "https://anisearch.com/anime/5333",
-            "https://anisearch.com/anime/5334",
-            "https://anisearch.com/anime/5335",
-            "https://anisearch.com/anime/5336",
-            "https://anisearch.com/anime/5337",
-            "https://anisearch.com/anime/5338",
-            "https://anisearch.com/anime/5502",
-            "https://anisearch.com/anime/5504",
-            "https://anisearch.com/anime/6222",
-            "https://anisearch.com/anime/6246",
-            "https://anisearch.com/anime/6247",
-            "https://anisearch.com/anime/6248",
-            "https://anisearch.com/anime/6249",
-            "https://anisearch.com/anime/6364",
-            "https://anisearch.com/anime/6365",
-            "https://anisearch.com/anime/6366",
-            "https://anisearch.com/anime/6367",
-            "https://anisearch.com/anime/6368",
-            "https://anisearch.com/anime/6369",
-            "https://anisearch.com/anime/6370",
-            "https://anisearch.com/anime/6374",
-            "https://anisearch.com/anime/6375",
-            "https://anisearch.com/anime/6376",
-            "https://anisearch.com/anime/6377",
-            "https://anisearch.com/anime/6378",
-            "https://anisearch.com/anime/6380",
-            "https://anisearch.com/anime/6953",
-            "https://anisearch.com/anime/6956",
-            "https://anisearch.com/anime/7638",
-            "https://anisearch.com/anime/8266",
-            "https://anisearch.com/anime/8459",
-            "https://anisearch.com/anime/8508",
-            "https://anisearch.com/anime/8845",
-            "https://anisearch.com/anime/8872",
-            "https://anisearch.com/anime/8932",
-            "https://anisearch.com/anime/8933",
-            "https://anisearch.com/anime/9060",
-            "https://anisearch.com/anime/9581",
             "https://myanimelist.net/anime/1960"
         ],
         "tags": [
@@ -3884,7 +3850,6 @@
             "https://anidb.net/anime/4288",
             "https://anilist.co/anime/16251",
             "https://anime-planet.com/anime/shinkai-no-kantai-submarine-707",
-            "https://anisearch.com/anime/3550",
             "https://kitsu.io/anime/7394",
             "https://myanimelist.net/anime/16251",
             "https://notify.moe/anime/tvJKpFmig"
@@ -3933,6 +3898,7 @@
             "Michel",
             "Michel - The Little Guardian",
             "Michel: The Little Guardian",
+            "Shugo Yousei Michel",
             "守護妖精ミシェル",
             "수호요정 미셸",
             "수호요정 미셸 (Korean)"
@@ -3968,9 +3934,7 @@
             "水晶の夜 ~蒼い告白より~",
             "水晶の夜 ～蒼い告白より～"
         ],
-        "relations": [
-            "https://anisearch.com/anime/523"
-        ],
+        "relations": [],
         "tags": [
             "hardcore",
             "hentai",
@@ -4692,13 +4656,7 @@
             "UFO Ultramaiden Valkyrie: Special Series Highlights Episode",
             "円盤皇女ワるきゅーレ特別総集編"
         ],
-        "relations": [
-            "https://anisearch.com/anime/1012",
-            "https://anisearch.com/anime/1255",
-            "https://anisearch.com/anime/15541",
-            "https://anisearch.com/anime/276",
-            "https://anisearch.com/anime/3607"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "comedy",
@@ -4813,6 +4771,7 @@
             "korean animation",
             "love polygon",
             "military",
+            "motorcycles",
             "post apocalypse",
             "post-apocalyptic",
             "romance",

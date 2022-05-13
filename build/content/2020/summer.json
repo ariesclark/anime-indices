@@ -818,6 +818,7 @@
             "https://livechart.me/anime/10236",
             "https://livechart.me/anime/10814",
             "https://livechart.me/anime/10926",
+            "https://livechart.me/anime/11210",
             "https://livechart.me/anime/1895",
             "https://livechart.me/anime/2225",
             "https://livechart.me/anime/2292",
@@ -1102,6 +1103,7 @@
             "comedy",
             "idol",
             "idols",
+            "idols (female)",
             "music",
             "parody",
             "psychological"
@@ -1176,7 +1178,6 @@
             "https://anime-planet.com/anime/crayon-shin-chan-movie-7-bakuhatsu-onsen-wakuwaku-daikessen",
             "https://anime-planet.com/anime/crayon-shin-chan-movie-8-arashi-wo-yobu-jungle",
             "https://anime-planet.com/anime/crayon-shin-chan-movie-9-the-adult-empire-strikes-back",
-            "https://anisearch.com/anime/178",
             "https://kitsu.io/anime/43051",
             "https://livechart.me/anime/1608",
             "https://livechart.me/anime/7211",
@@ -1261,7 +1262,6 @@
             "gods",
             "hell",
             "magic",
-            "manga",
             "manhua",
             "mythology",
             "school",
@@ -1477,7 +1477,9 @@
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1299/109045.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1299/109045t.jpg",
-        "synonyms": [],
+        "synonyms": [
+            "Saint Snow - Dazzling White Town"
+        ],
         "relations": [
             "https://anidb.net/anime/11878",
             "https://anilist.co/anime/21584",
@@ -1485,12 +1487,14 @@
             "https://myanimelist.net/anime/40245"
         ],
         "tags": [
+            "comedy",
             "idol",
             "idols",
             "music",
             "new",
             "present",
-            "primarily female cast"
+            "primarily female cast",
+            "slice of life"
         ],
         "date": {
             "season": "summer",
@@ -1605,7 +1609,6 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/deca-dence",
-            "https://anisearch.com/anime/14492",
             "https://kitsu.io/anime/42433",
             "https://myanimelist.net/anime/40056",
             "https://notify.moe/anime/DjvqrkQZg"
@@ -1760,9 +1763,7 @@
         "synonyms": [
             "도깨비 전래동화 깹!"
         ],
-        "relations": [
-            "https://anisearch.com/anime/14087"
-        ],
+        "relations": [],
         "tags": [
             "cg-anime"
         ],
@@ -1885,7 +1886,6 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/super-hxeros",
-            "https://anisearch.com/anime/14705",
             "https://kitsu.io/anime/42657",
             "https://myanimelist.net/anime/40623"
         ],
@@ -1944,6 +1944,7 @@
             "Doraemon: Nobita no Shin Kyouryuu",
             "Eiga Doraemon: Nobita no Shin Kyouryuu",
             "Eiga Doraemon: Nobita no Shin Kyōryū",
+            "โดราเอมอน: ไดโนเสาร์ตัวใหม่ของโนบิตะ",
             "哆啦A夢：大雄的新恐龍",
             "映画 ドラえもん のび太の新恐竜",
             "映画ドラえもん のび太の新恐竜"
@@ -2338,9 +2339,7 @@
             "Fire Force Temporada 2",
             "炎炎ノ消防隊 弐ノ章"
         ],
-        "relations": [
-            "https://anisearch.com/anime/13987"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "adventure",
@@ -2984,6 +2983,7 @@
             "based on a webtoon",
             "body horror",
             "bullying",
+            "cg-anime",
             "drama",
             "female protagonist",
             "full cgi",
@@ -2993,6 +2993,7 @@
             "korean animation",
             "monster girl",
             "nudity",
+            "present",
             "psychological drama",
             "revenge",
             "supernatural drama",
@@ -3524,7 +3525,9 @@
         "tags": [
             "action",
             "comedy",
+            "educational",
             "manga",
+            "medical",
             "shounen",
             "violence"
         ],
@@ -3577,6 +3580,31 @@
         "tags": [
             "comedy",
             "idol",
+            "music"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/49126"
+        ],
+        "title": "Honeycomb Summer",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1523/115564.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1523/115564t.jpg",
+        "synonyms": [
+            "Ensemble Stars!! Idol Song Season 1 Crazy:B"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/32212"
+        ],
+        "tags": [
+            "idols (male)",
             "music"
         ],
         "date": {
@@ -6028,6 +6056,7 @@
             "https://kitsu.io/anime/43177",
             "https://kitsu.io/anime/45964",
             "https://myanimelist.net/anime/39678",
+            "https://myanimelist.net/anime/50841",
             "https://notify.moe/anime/MQ5qVKiMR"
         ],
         "tags": [
@@ -6038,6 +6067,7 @@
             "demons",
             "fantasy",
             "historical",
+            "mythology",
             "short episodes",
             "slice of life",
             "supernatural"
@@ -6335,8 +6365,8 @@
         "type": "ona",
         "episodes": 30,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1748/108467.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1748/108467t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1210/122883.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1210/122883t.jpg",
         "synonyms": [
             "Grandmaster of Demonic Cultivation Q",
             "Mistrz demonicznej kultywacji Q",
@@ -6352,7 +6382,6 @@
             "https://anime-planet.com/anime/mo-dao-zu-shi",
             "https://anime-planet.com/anime/mo-dao-zu-shi-2",
             "https://anime-planet.com/anime/mo-dao-zu-shi-3",
-            "https://anisearch.com/anime/13964",
             "https://kitsu.io/anime/42163",
             "https://livechart.me/anime/4603",
             "https://livechart.me/anime/8141",
@@ -6551,9 +6580,12 @@
         "tags": [
             "cgi",
             "drama",
+            "heterosexual",
             "music",
             "mystery",
-            "psychological"
+            "psychological",
+            "suicide",
+            "tragedy"
         ],
         "date": {
             "season": "summer",
@@ -6585,11 +6617,13 @@
             "Muhyo & Roji`s Bureau of Supernatural Investigation (2020)",
             "Muhyo & Roji`s Bureau of Supernatural Investigation 2",
             "Muhyo & Roji’s Bureau of Supernatural Investigation Season 2",
+            "Muhyo & Rôji – Bureau d`investigation des affaires du paranormal - Saison 2",
             "Muhyo to Roji no Mahouritsu Soudan Jimusho (2020)",
             "Muhyo to Roji no Mahōritsu Sōdan Jimusho (2020)",
             "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2",
             "Muhyo to Roujii no Mahouritsu Soudan Jimusho 2",
             "Muhyo to Roujii no Mahouritsu Soudan Jimusho 2nd Season",
+            "Бюро паранормальных расследований Мухё и Родзи. 2 сезон",
             "مكتب موهيو وروجي لتحرّيات الظواهر الخارقة (2020)",
             "ムヒョとロージーの魔法律相談事務所 (2020)",
             "ムヒョとロージーの魔法律相談事務所 2",
@@ -6943,7 +6977,9 @@
         ],
         "relations": [],
         "tags": [
-            "music"
+            "music",
+            "performing arts",
+            "visual arts"
         ],
         "date": {
             "season": "summer",
@@ -7391,6 +7427,7 @@
             "food preparation",
             "game",
             "gourmet",
+            "iyashikei",
             "primarily female cast",
             "recipes",
             "short episodes",
@@ -7526,6 +7563,7 @@
             "based on a manga",
             "comedy",
             "coming of age",
+            "cosplay",
             "drama",
             "ensemble cast",
             "female protagonist",
@@ -7533,6 +7571,7 @@
             "love triangle",
             "manga",
             "present",
+            "primarily teen cast",
             "romance",
             "rotoscoping",
             "school",
@@ -7564,6 +7603,7 @@
             "I Want to Be Eaten by a Wolf",
             "I Want to Be His Prey",
             "I Want to be His Prey",
+            "Ookami-san Wants to Be Eaten",
             "Ōkami-san wa Taberaretai",
             "オオカミさんは食べられたい"
         ],
@@ -7613,13 +7653,14 @@
             "Ore wo Suki na no wa Omae dake ka yo: Oretachi no Game Set",
             "Ore wo Suki nano wa Omae dake ka yo Episode 13",
             "Ore wo Suki nano wa Omae dake ka yo Kanketsu-hen",
+            "Oresuki Are You the Only One Who Loves Me? Unser Spiel ist zu Ende",
             "Oresuki Are you the only one who loves me? OVA",
-            "Oresuki Are you the only one who loves me? Unser Spiel ist zu Ende",
             "Oresuki: Are You the Only One Who Loves Me? - Our Playball / Our End Run / Our Game",
-            "Oresuki: Are you the only one who loves me? Episodes 13 - 15",
+            "Oresuki: Are You the Only One Who Loves Me? Episodes 13-15",
+            "Oresuki: Are You the Only One Who Loves Me? Final",
+            "Oresuki: Are You the Only One Who Loves Me? OVA",
+            "Oresuki: Are You the Only One Who Loves Me? Our Playball / Our End Run / Our Game",
             "Oresuki: Are you the only one who loves me? Final",
-            "Oresuki: Are you the only one who loves me? OVA",
-            "Oresuki: Are you the only one who loves me? Our Playball / Our End Run / Our Game",
             "俺を好きなのはお前だけかよ ~俺たちのゲームセット~",
             "俺を好きなのはお前だけかよ ～俺たちのゲームセット～",
             "俺を好きなのはお前だけかよ～俺たちのゲームセット～"
@@ -7628,8 +7669,6 @@
             "https://anidb.net/anime/14442",
             "https://anilist.co/anime/104464",
             "https://anime-planet.com/anime/oresuki-are-you-the-only-one-who-loves-me",
-            "https://anisearch.com/anime/13938",
-            "https://anisearch.com/anime/15138",
             "https://kitsu.io/anime/42047",
             "https://livechart.me/anime/3557",
             "https://myanimelist.net/anime/38483",
@@ -7890,8 +7929,6 @@
         ],
         "relations": [
             "https://anidb.net/anime/13535",
-            "https://anisearch.com/anime/12351",
-            "https://anisearch.com/anime/12961",
             "https://myanimelist.net/anime/40089"
         ],
         "tags": [
@@ -7929,7 +7966,6 @@
         "relations": [
             "https://anidb.net/anime/15067",
             "https://anime-planet.com/anime/pokemon-journeys",
-            "https://anisearch.com/anime/14596",
             "https://myanimelist.net/anime/40351"
         ],
         "tags": [
@@ -8168,6 +8204,7 @@
             "sports",
             "stoic hero",
             "tournaments",
+            "video game",
             "video games",
             "virtual reality",
             "virtual world",
@@ -8282,6 +8319,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1586/108326t.jpg",
         "synonyms": [
             "Re:ZERO ~Starting Break Time From Zero~ 2nd Season",
+            "Re:ZERO ~Starting Break Time From Zero~ Season 2",
             "Re:ZERO: Starting Break Time From Zero 2nd Season",
             "Re:Zero kara Hajimeru Kyuukei Jikan 2",
             "Re:ゼロから始める休憩時間（ブレイクタイム）2nd season"
@@ -9031,6 +9069,7 @@
             "Attack on Titan ~Chronicle~",
             "Attack on Titan: Chronicle",
             "Shingeki no Kyojin Movie 4: Chronicle",
+            "ผ่าพิภพไททัน Chronicle",
             "「進撃の巨人」～クロニクル～",
             "進撃の巨人 ~CHRONICLE~",
             "進撃の巨人 ~クロニクル~",
@@ -9051,10 +9090,6 @@
             "https://anime-planet.com/anime/attack-on-titan-2nd-season",
             "https://anime-planet.com/anime/attack-on-titan-3rd-season",
             "https://anime-planet.com/anime/attack-on-titan-3rd-season-part-ii",
-            "https://anisearch.com/anime/10082",
-            "https://anisearch.com/anime/12550",
-            "https://anisearch.com/anime/13942",
-            "https://anisearch.com/anime/8219",
             "https://kitsu.io/anime/41982",
             "https://livechart.me/anime/10487",
             "https://livechart.me/anime/11010",
@@ -9103,6 +9138,7 @@
             "heroine of strong character",
             "horror",
             "isolated society",
+            "iyashikei",
             "kaiju",
             "kuudere",
             "male protagonist",
@@ -9195,9 +9231,6 @@
             "https://anidb.net/anime/13152",
             "https://anilist.co/anime/98658",
             "https://anime-planet.com/anime/revue-starlight",
-            "https://anisearch.com/anime/12446",
-            "https://anisearch.com/anime/13820",
-            "https://anisearch.com/anime/15955",
             "https://kitsu.io/anime/14174",
             "https://kitsu.io/anime/42681",
             "https://livechart.me/anime/2687",
@@ -9228,6 +9261,7 @@
             "music",
             "musical",
             "original work",
+            "performing arts",
             "present",
             "primarily female cast",
             "recap",
@@ -9262,8 +9296,8 @@
         "relations": [],
         "tags": [
             "demon",
-            "demons",
-            "music"
+            "music",
+            "mythology"
         ],
         "date": {
             "season": "summer",
@@ -9829,6 +9863,7 @@
         "synonyms": [
             "Sword Art Online Alicization - War of Underworld (2020) Epsiode 00",
             "Sword Art Online: Alicization - War of Underworld Episode 12.5",
+            "Sword Art Online: Alicization - War of Underworld Reminiscence",
             "Sword Art Online: Alicization - War of Underworld: Reminiscence",
             "「アリシゼーションWoU」1stクール総集編",
             "ソードアート・オンライン アリシゼーション War of Underworld レミニセンス"
@@ -10014,7 +10049,8 @@
             "short episodes",
             "slice of life",
             "supernatural",
-            "working life"
+            "working life",
+            "workplace"
         ],
         "date": {
             "season": "summer",
@@ -10178,6 +10214,7 @@
             "THE GOD OF HIGH SCHOOL",
             "THE GOD OF HIGH SCHOOL ゴッド・オブ・ハイスクール",
             "The God Of High School",
+            "The God of High School (TV)",
             "The God of Highschool",
             "Бог старшей школы",
             "إله الثانوية",
@@ -10310,7 +10347,8 @@
             "떳다 그녀!! another step"
         ],
         "relations": [
-            "https://kitsu.io/anime/4585"
+            "https://kitsu.io/anime/4585",
+            "https://myanimelist.net/anime/6505"
         ],
         "tags": [
             "anthropomorphism",
@@ -10381,7 +10419,6 @@
             "https://anidb.net/anime/16312",
             "https://anilist.co/anime/126354",
             "https://anime-planet.com/anime/tian-bao-fuyao-lu-2nd-season",
-            "https://anisearch.com/anime/16118",
             "https://kitsu.io/anime/43792",
             "https://livechart.me/anime/10561",
             "https://myanimelist.net/anime/44068",
@@ -10731,10 +10768,10 @@
             "https://anilist.co/anime/124395",
             "https://anime-planet.com/anime/kano-nadamesukashi-negotiation",
             "https://anime-planet.com/anime/uzaki-chan-wants-to-hang-out-w",
-            "https://anisearch.com/anime/15579",
             "https://kitsu.io/anime/43581",
             "https://livechart.me/anime/10167",
             "https://myanimelist.net/anime/42962",
+            "https://myanimelist.net/anime/50316",
             "https://notify.moe/anime/6v9zS4FGR"
         ],
         "tags": [
@@ -10754,6 +10791,7 @@
             "primarily adult cast",
             "romance",
             "romantic comedy",
+            "romantic subtext",
             "seinen",
             "senpai-kouhai relationship",
             "shounen",
@@ -10991,6 +11029,7 @@
             "https://kitsu.io/anime/42326",
             "https://kitsu.io/anime/45076",
             "https://myanimelist.net/anime/39024",
+            "https://notify.moe/anime/jXkZotyng",
             "https://notify.moe/anime/t-dMpiMGR"
         ],
         "tags": [
@@ -11054,7 +11093,7 @@
             "https://myanimelist.net/anime/37936",
             "https://notify.moe/anime/N3l-bjviR"
         ],
-        "title": "Wu Shan Wu Xing",
+        "title": "Wu Shan Wu Xing (2020)",
         "type": "ona",
         "episodes": 3,
         "status": "finished",
@@ -11064,7 +11103,7 @@
             "Five Elements in the Misty Mountain",
             "Fog Hill of Five Elements",
             "Fog Hill of the Five Elements",
-            "Wu Shan Wu Xing (2020)",
+            "Wu Shan Wu Xing",
             "Wu Shan Wu Xing: Zhuo Yuan Shen Huo",
             "Wushan Wuxing",
             "Wushan Wuxing (2020)",
@@ -11079,7 +11118,8 @@
             "https://anime-planet.com/anime/wu-shan-wu-xing-xichuan-huan-zi-lin",
             "https://kitsu.io/anime/44108",
             "https://kitsu.io/anime/45557",
-            "https://myanimelist.net/anime/50407"
+            "https://myanimelist.net/anime/50407",
+            "https://myanimelist.net/anime/51195"
         ],
         "tags": [
             "action",
@@ -11205,6 +11245,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1092/108634t.jpg",
         "synonyms": [
             "Chronicles of Everlasting Wind and Sword Rain",
+            "Song of Taoists and Fairies",
             "Xian Feng Jian Yu Lu",
             "仙风剑雨录"
         ],
@@ -11459,6 +11500,7 @@
             "hikikomori",
             "idol",
             "japan",
+            "love polygon",
             "love triangle",
             "male protagonist",
             "meta",
@@ -11695,7 +11737,6 @@
             "https://anidb.net/anime/16429",
             "https://anilist.co/anime/126360",
             "https://anime-planet.com/anime/yuan-long-2nd-season",
-            "https://anisearch.com/anime/16441",
             "https://kitsu.io/anime/43788",
             "https://livechart.me/anime/10694",
             "https://myanimelist.net/anime/44071",

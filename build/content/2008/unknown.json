@@ -242,10 +242,7 @@
             "Robokicks 3",
             "Robokicks Season 3"
         ],
-        "relations": [
-            "https://anisearch.com/anime/16747",
-            "https://anisearch.com/anime/16749"
-        ],
+        "relations": [],
         "tags": [
             "soccer",
             "sports"
@@ -351,30 +348,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/43972"
-        ],
-        "title": "Fengyun Jue",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "风云决"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "historical",
-            "martial arts"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2008
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/filfla-for"
         ],
         "title": "FilFla: For",
@@ -420,6 +393,30 @@
             "anthropomorphic",
             "chinese animation",
             "family friendly"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2008
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/41725"
+        ],
+        "title": "Fukarai-chou, Tunnel Roji no Otoko",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1041/107090.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1041/107090t.jpg",
+        "synonyms": [
+            "Man In The Tunnel Alley",
+            "福来町、トンネル路地の男"
+        ],
+        "relations": [],
+        "tags": [
+            "avant garde",
+            "sci-fi"
         ],
         "date": {
             "season": "unknown",
@@ -759,6 +756,35 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/jidian-xiao-xinshi",
+            "https://myanimelist.net/anime/45980"
+        ],
+        "title": "Jidian Xiao Xinshi",
+        "type": "tv",
+        "episodes": 36,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "急电小信使"
+        ],
+        "relations": [],
+        "tags": [
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "non-human protagonists",
+            "robots",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2008
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/45883"
         ],
         "title": "Jingbao Zhanshi",
@@ -985,13 +1011,14 @@
         "sources": [
             "https://myanimelist.net/anime/45973"
         ],
-        "title": "Ludang Jin Jian",
+        "title": "Lu Dang Jin Jian",
         "type": "tv",
         "episodes": 30,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1100/122741.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1100/122741t.jpg",
         "synonyms": [
+            "In Reed's Gold Arrow",
             "芦荡金箭"
         ],
         "relations": [],
@@ -1026,30 +1053,7 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/45824"
-        ],
-        "title": "Luo Baobei Xilie Zhi Qi Qu Baodian Julebu",
-        "type": "tv",
-        "episodes": 499,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "洛宝贝系列之奇趣宝典俱乐部"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/45821"
-        ],
-        "tags": [
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2008
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/148407",
             "https://anime-planet.com/anime/merry-go-round"
         ],
         "title": "Merry go round",
@@ -1058,7 +1062,9 @@
         "status": "finished",
         "picture": "https://cdn.anime-planet.com/anime/primary/merry-go-round-1.webp?t=1637811056",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/merry-go-round-1-285x400.webp?t=1637811056",
-        "synonyms": [],
+        "synonyms": [
+            "​メリーゴーラウンド"
+        ],
         "relations": [],
         "tags": [
             "abstract",
@@ -1334,6 +1340,31 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/45824"
+        ],
+        "title": "Qi Qu Baodian Julebu",
+        "type": "tv",
+        "episodes": 499,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1024/122998.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1024/122998t.jpg",
+        "synonyms": [
+            "Luo Baobei Xilie: Qi Qu Baodian Julebu",
+            "奇趣宝典俱乐部"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/45821"
+        ],
+        "tags": [
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2008
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/46173"
         ],
         "title": "Qingwa Wangzi",
@@ -1571,6 +1602,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/148406",
             "https://anime-planet.com/anime/space-circus"
         ],
         "title": "Space circus",
@@ -1580,7 +1612,9 @@
         "picture": "https://cdn.anime-planet.com/anime/primary/space-circus-1.webp?t=1634276729",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/space-circus-1-285x400.webp?t=1634276729",
         "synonyms": [
-            "Floating world"
+            "Floating world",
+            "Space Circus",
+            "スペースサーカス"
         ],
         "relations": [],
         "tags": [
@@ -1975,20 +2009,53 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/44479"
+        ],
+        "title": "Xiao Ji Bu Hao Re",
+        "type": "tv",
+        "episodes": 418,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1685/122322.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1685/122322t.jpg",
+        "synonyms": [
+            "Chiken Stew",
+            "小鸡不好惹"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44486"
+        ],
+        "tags": [
+            "anthropomorphic",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2008
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/129493",
+            "https://anime-planet.com/anime/xiaosong-dangjia",
             "https://myanimelist.net/anime/44018"
         ],
         "title": "Xiao Song Dangjia",
         "type": "tv",
         "episodes": 100,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1118/122864.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1118/122864t.jpg",
         "synonyms": [
+            "Cookie Master",
+            "Xiaosong Dangjia",
             "小宋当家"
         ],
         "relations": [],
         "tags": [
-            "historical",
+            "chibi",
+            "chinese animation",
+            "comedy",
+            "drama",
             "kids"
         ],
         "date": {
@@ -2014,33 +2081,6 @@
         ],
         "tags": [
             "half-length episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2008
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/129493",
-            "https://anime-planet.com/anime/xiaosong-dangjia"
-        ],
-        "title": "Xiaosong Dangjia",
-        "type": "tv",
-        "episodes": 100,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/xiaosong-dangjia-1.jpg?t=1625908972",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/xiaosong-dangjia-1-190x267.jpg?t=1625908972",
-        "synonyms": [
-            "Cookie Master",
-            "小宋当家"
-        ],
-        "relations": [],
-        "tags": [
-            "chibi",
-            "chinese animation",
-            "comedy",
-            "drama"
         ],
         "date": {
             "season": "unknown",
