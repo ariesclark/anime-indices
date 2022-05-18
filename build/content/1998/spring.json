@@ -158,6 +158,26 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17409"
+        ],
+        "title": "Aji no Hiraki no Sandogasa",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anidb.net/images/main/272980.jpg",
+        "thumbnail": "https://cdn.anidb.net/images/main/272980.jpg-thumb.jpg",
+        "synonyms": [
+            "アジのひらきの三度笠"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "spring",
+            "year": 1998
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/509",
             "https://anilist.co/anime/2288",
             "https://anime-planet.com/anime/cyberteam-in-akihabara",
@@ -578,10 +598,10 @@
             "https://anilist.co/anime/1078",
             "https://anilist.co/anime/177",
             "https://anilist.co/anime/2424",
+            "https://anilist.co/anime/2768",
             "https://anilist.co/anime/371",
             "https://anilist.co/anime/372",
             "https://anilist.co/anime/969",
-            "https://anilist.co/anime/98554",
             "https://anime-planet.com/anime/cardcaptor-sakura-clear-card-hen",
             "https://anime-planet.com/anime/cardcaptor-sakura-clear-card-hen-recap",
             "https://anime-planet.com/anime/cardcaptor-sakura-clear-card-prologue-sakura-and-the-two-bears",
@@ -1029,6 +1049,7 @@
             "dystopia",
             "episodic",
             "manga",
+            "mecha",
             "post apocalypse",
             "post-apocalyptic",
             "sci fi",
@@ -1124,7 +1145,6 @@
             "https://anime-planet.com/anime/detective-conan-the-raven-chaser",
             "https://anime-planet.com/anime/detective-conan-the-time-bombed-skyscraper",
             "https://anime-planet.com/anime/detective-conan-zekkai-no-private-eye",
-            "https://anisearch.com/anime/1721",
             "https://kitsu.io/anime/210",
             "https://livechart.me/anime/319",
             "https://livechart.me/anime/4579",
@@ -1795,6 +1815,7 @@
             "IDFS",
             "Inisharu Di",
             "Initial D",
+            "Initial D 1st Stage",
             "Initial D: 1e Étape",
             "Initial D: First Stage",
             "Initial D: Primera Temporada",

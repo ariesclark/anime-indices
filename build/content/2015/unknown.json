@@ -48,6 +48,33 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/3-little-pigs-and-the-magic-lamp"
+        ],
+        "title": "3 Little Pigs and the Magic Lamp",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/3-little-pigs-and-the-magic-lamp-1.webp?t=1652458376",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/3-little-pigs-and-the-magic-lamp-1-285x399.webp?t=1652458376",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/san-zhi-xiao-zhu-2"
+        ],
+        "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
+            "non-human protagonists",
+            "pigs"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/40meterp-dan-dan-hayaku-naru"
         ],
         "title": "40MeterP: Dan Dan Hayaku Naru",
@@ -1560,26 +1587,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/gesu-no-kiwami-otome-muku-na-kisetsu"
-        ],
-        "title": "Gesu no Kiwami Otome: Muku na Kisetsu",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/gesu-no-kiwami-otome-muku-na-kisetsu-1.jpg?t=1625908130",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/gesu-no-kiwami-otome-muku-na-kisetsu-1-190x266.jpg?t=1625908130",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "school life"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/gingahoumen-p-ashita-no-password"
         ],
         "title": "Gingahoumen-P: Ashita no Password",
@@ -1986,39 +1993,6 @@
             "adventure",
             "fantasy",
             "romance"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/idolish7-monster-generation"
-        ],
-        "title": "IDOLiSH7: MONSTER GENERATiON",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/idolish7-monster-generation-1.jpg?t=1625897753",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/idolish7-monster-generation-1-190x285.jpg?t=1625897753",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/idolish7",
-            "https://anime-planet.com/anime/idolish7-memories-melodies",
-            "https://anime-planet.com/anime/idolish7-nanatsu-iro-realize",
-            "https://anime-planet.com/anime/idolish7-restart-pointer",
-            "https://anime-planet.com/anime/idolish7-wish-voyage",
-            "https://anime-planet.com/anime/re-vale-no-doubt",
-            "https://anime-planet.com/anime/re-vale-re-raise",
-            "https://anime-planet.com/anime/trigger-crescent-rise",
-            "https://anime-planet.com/anime/trigger-daybreak-interlude",
-            "https://anime-planet.com/anime/trigger-diamond-fusion",
-            "https://anime-planet.com/anime/trigger-leopard-eyes",
-            "https://anime-planet.com/anime/zool-bang-bang-bang"
-        ],
-        "tags": [
-            "idols"
         ],
         "date": {
             "season": "unknown",
@@ -4521,7 +4495,9 @@
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/persona-4-dancing-all-night-op-1-285x400.webp?t=1652126088",
         "synonyms": [],
         "relations": [
-            "https://anime-planet.com/anime/persona-4-the-animation"
+            "https://anime-planet.com/anime/persona-3-dancing-in-moonlight-op",
+            "https://anime-planet.com/anime/persona-4-the-animation",
+            "https://anime-planet.com/anime/persona-5-dancing-in-starlight-op"
         ],
         "tags": [
             "based on a video game",
@@ -7393,6 +7369,29 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/149037"
+        ],
+        "title": "Yuuyake Dandan",
+        "type": "special",
+        "episodes": 13,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b149037-6TJOeBKnZYwI.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b149037-6TJOeBKnZYwI.jpg",
+        "synonyms": [
+            "夕やけだん団"
+        ],
+        "relations": [],
+        "tags": [
+            "full cgi",
+            "slice of life"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/yuuyake-dandan-manner-movies"
         ],
         "title": "Yuuyake Dandan: Manner Movies",
@@ -7751,32 +7750,6 @@
         ],
         "tags": [
             "music"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/50468"
-        ],
-        "title": "オー/ヾーロードドラマCD1",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "OVERLORD The Sealed Evil Tree [Prologue]"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/37264"
-        ],
-        "tags": [
-            "drama",
-            "game",
-            "super power"
         ],
         "date": {
             "season": "unknown",

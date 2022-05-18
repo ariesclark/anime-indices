@@ -648,6 +648,7 @@
             "artificial intelligence",
             "assassin",
             "assassins",
+            "baseball",
             "based on a manga",
             "bullying",
             "comedy",
@@ -6284,6 +6285,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/108730",
             "https://anime-planet.com/anime/magical-girl-lyrical-nanoha-strikers-picture-drama",
             "https://kitsu.io/anime/41360",
             "https://myanimelist.net/anime/37934",
@@ -6298,11 +6300,13 @@
         "synonyms": [
             "Magical Girl Lyrical Nanoha StrikerS Picture Drama",
             "Mahou Shoujo Lyrical Nanoha A's: Picture Drama - Midchilda Gakuen e Youkoso!",
+            "Mahou Shoujo Lyrical Nanoha StrikerS: Picture Drama - Midchilda Gakuen e Youkoso!",
             "Nanoha Picture Drama 05",
             "Welcome to Midchilda Academy",
             "魔法少女リリカルなのはStrikerS ピクチャードラマ ミッドチルダ学園へようこそ！"
         ],
         "relations": [
+            "https://anilist.co/anime/1915",
             "https://anime-planet.com/anime/magical-girl-lyrical-nanoha-strikers",
             "https://kitsu.io/anime/1725",
             "https://myanimelist.net/anime/1915",
@@ -6314,39 +6318,14 @@
         ],
         "tags": [
             "comedy",
+            "kuudere",
             "magic",
             "magical girl",
+            "mahou shoujo",
             "parody",
             "picture drama",
             "school",
             "school life"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/108730"
-        ],
-        "title": "Mahou Shoujo Lyrical Nanoha StrikerS: Picture Drama - Midchilda Gakuen e Youkoso!",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108730-mrqPezOjeeVo.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108730-mrqPezOjeeVo.jpg",
-        "synonyms": [
-            "Nanoha Picture Drama 05",
-            "魔法少女リリカルなのはStrikerS ピクチャードラマ ミッドチルダ学園へようこそ！"
-        ],
-        "relations": [
-            "https://anilist.co/anime/1915"
-        ],
-        "tags": [
-            "comedy",
-            "kuudere",
-            "mahou shoujo"
         ],
         "date": {
             "season": "winter",
@@ -6898,52 +6877,28 @@
             "https://anilist.co/anime/108039",
             "https://anilist.co/anime/1090",
             "https://anilist.co/anime/80",
-            "https://anime-planet.com/anime/30th-gundam-perfect-mission",
-            "https://anime-planet.com/anime/after-war-gundam-x",
-            "https://anime-planet.com/anime/all-that-gundam",
-            "https://anime-planet.com/anime/chou-denei-ban-sd-gundam-sangokuden-brave-battle-warriors",
-            "https://anime-planet.com/anime/collection-of-key-animation-films",
-            "https://anime-planet.com/anime/gundam-mission-to-the-rise",
-            "https://anime-planet.com/anime/mobile-fighter-g-gundam",
-            "https://anime-planet.com/anime/mobile-suit-gundam-00",
-            "https://anime-planet.com/anime/mobile-suit-gundam-00-second-season",
-            "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-i-celestial-being",
-            "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-iii-return-the-world",
-            "https://anime-planet.com/anime/mobile-suit-gundam-00-the-movie-a-wakening-of-the-trailblazer",
+            "https://anime-planet.com/anime/mobile-suit-gundam",
             "https://anime-planet.com/anime/mobile-suit-gundam-0080-war-in-the-pocket",
             "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory",
-            "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory-the-mayfly-of-space",
-            "https://anime-planet.com/anime/mobile-suit-gundam-0083-the-afterglow-of-zeon",
-            "https://anime-planet.com/anime/mobile-suit-gundam-age",
-            "https://anime-planet.com/anime/mobile-suit-gundam-age-memory-of-eden",
             "https://anime-planet.com/anime/mobile-suit-gundam-chars-counterattack",
             "https://anime-planet.com/anime/mobile-suit-gundam-evolve",
             "https://anime-planet.com/anime/mobile-suit-gundam-f91",
-            "https://anime-planet.com/anime/mobile-suit-gundam-iron-blooded-orphans",
-            "https://anime-planet.com/anime/mobile-suit-gundam-iron-blooded-orphans-2",
+            "https://anime-planet.com/anime/mobile-suit-gundam-hathaways-flash-i",
+            "https://anime-planet.com/anime/mobile-suit-gundam-hathaways-flash-ii",
+            "https://anime-planet.com/anime/mobile-suit-gundam-hathaways-flash-iii",
             "https://anime-planet.com/anime/mobile-suit-gundam-ms-igloo-2-juuryoku-sensen",
             "https://anime-planet.com/anime/mobile-suit-gundam-ms-igloo-apocalypse-0079",
             "https://anime-planet.com/anime/mobile-suit-gundam-ms-igloo-the-hidden-one-year-war",
-            "https://anime-planet.com/anime/mobile-suit-gundam-seed",
-            "https://anime-planet.com/anime/mobile-suit-gundam-seed-after-phase-in-the-valley-of-stars",
-            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny",
-            "https://anime-planet.com/anime/mobile-suit-gundam-special-edition-ii-end-of-the-world",
+            "https://anime-planet.com/anime/mobile-suit-gundam-narrative",
             "https://anime-planet.com/anime/mobile-suit-gundam-the-08th-ms-team",
             "https://anime-planet.com/anime/mobile-suit-gundam-the-origin-advent-of-the-red-comet",
             "https://anime-planet.com/anime/mobile-suit-gundam-thunderbolt",
+            "https://anime-planet.com/anime/mobile-suit-gundam-thunderbolt-2nd-season",
+            "https://anime-planet.com/anime/mobile-suit-gundam-twilight-axis",
             "https://anime-planet.com/anime/mobile-suit-gundam-unicorn",
-            "https://anime-planet.com/anime/mobile-suit-gundam-wing",
-            "https://anime-planet.com/anime/mobile-suit-gundam-wing-endless-waltz",
-            "https://anime-planet.com/anime/mobile-suit-gundam-wing-endless-waltz-movie",
             "https://anime-planet.com/anime/mobile-suit-gundam-zz",
-            "https://anime-planet.com/anime/mobile-suit-gundam-zz-gundam-frag",
-            "https://anime-planet.com/anime/mobile-suit-sd-gundam-mk-i",
-            "https://anime-planet.com/anime/mobile-suit-sd-gundam-no-gyakushuu-arashi-wo-yobu-gakuensai",
             "https://anime-planet.com/anime/mobile-suit-victory-gundam",
             "https://anime-planet.com/anime/mobile-suit-zeta-gundam",
-            "https://anime-planet.com/anime/mokei-senshi-gunpla-builders-beginning-g",
-            "https://anime-planet.com/anime/ring-of-gundam",
-            "https://anime-planet.com/anime/turn-a-gundam",
             "https://livechart.me/anime/3938",
             "https://livechart.me/anime/4607",
             "https://livechart.me/anime/4659",
@@ -8852,7 +8807,8 @@
             "software development",
             "tsundere",
             "video game industry",
-            "video games"
+            "video games",
+            "writing"
         ],
         "date": {
             "season": "winter",
@@ -9376,9 +9332,7 @@
             "セックス&バイオレンスwithマッハスピードノ",
             "日本アニメ（ーター）見本市 #14"
         ],
-        "relations": [
-            "https://anisearch.com/anime/11099"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "comedy",

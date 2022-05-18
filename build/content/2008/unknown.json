@@ -1407,6 +1407,31 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/see-through"
+        ],
+        "title": "See Through",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/see-through-1.webp?t=1652403496",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/see-through-1-285x400.webp?t=1652403496",
+        "synonyms": [
+            "Da, Da Ge Da Xigua"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "chinese animation",
+            "military",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2008
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/139049",
             "https://myanimelist.net/anime/40633"
         ],
@@ -1694,6 +1719,31 @@
             "comedy",
             "family friendly",
             "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2008
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/swirl-fighter"
+        ],
+        "title": "Swirl Fighter",
+        "type": "tv",
+        "episodes": 39,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/swirl-fighter-1.webp?t=1652546925",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/swirl-fighter-1-285x399.webp?t=1652546925",
+        "synonyms": [
+            "Jingbao Zhanshi"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/swirl-fighter-2"
+        ],
+        "tags": [
+            "chinese animation",
+            "family friendly"
         ],
         "date": {
             "season": "unknown",
@@ -2009,6 +2059,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/xiao-ji-bu-hao-re",
             "https://myanimelist.net/anime/44479"
         ],
         "title": "Xiao Ji Bu Hao Re",
@@ -2018,6 +2069,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1685/122322.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1685/122322t.jpg",
         "synonyms": [
+            "Chicken Stew",
             "Chiken Stew",
             "小鸡不好惹"
         ],
@@ -2025,8 +2077,13 @@
             "https://myanimelist.net/anime/44486"
         ],
         "tags": [
+            "animal protagonists",
             "anthropomorphic",
-            "kids"
+            "birds",
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "non-human protagonists"
         ],
         "date": {
             "season": "unknown",

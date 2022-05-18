@@ -65,30 +65,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/148070"
-        ],
-        "title": "Akashi",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148070-B2Qwc77iDCqz.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148070-B2Qwc77iDCqz.png",
-        "synonyms": [
-            "Minna no Uta",
-            "あかし",
-            "証"
-        ],
-        "relations": [],
-        "tags": [
-            "slice of life"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/132511"
         ],
         "title": "Annyeong Jaduya",
@@ -420,30 +396,6 @@
         "tags": [
             "chinese animation",
             "family friendly",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44292"
-        ],
-        "title": "Chao Shou Wuzhuang Zhi Yongzhe Wu Ju",
-        "type": "tv",
-        "episodes": 33,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "超兽武装之勇者无惧"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "adventure",
             "kids"
         ],
         "date": {
@@ -2625,6 +2577,33 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/dream-racers",
+            "https://myanimelist.net/anime/45201"
+        ],
+        "title": "Mengxiang Jing Su",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "Dream Racers",
+            "梦想竞速"
+        ],
+        "relations": [],
+        "tags": [
+            "cars",
+            "chinese animation",
+            "family friendly",
+            "racing"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/mimi-chan-no-te-to-te-to-te",
             "https://kitsu.io/anime/40879",
             "https://myanimelist.net/anime/36273",
@@ -3866,6 +3845,34 @@
             "based on a cartoon",
             "disney",
             "family friendly"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/super-rabbit"
+        ],
+        "title": "Super Rabbit",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/super-rabbit-1.webp?t=1652547256",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/super-rabbit-1-285x400.webp?t=1652547256",
+        "synonyms": [
+            "Magic Eye Magic Rabbit",
+            "Tian Yanshen Tu"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/magic-eye-adventures",
+            "https://anime-planet.com/anime/super-buffalo"
+        ],
+        "tags": [
+            "chinese animation",
+            "family friendly",
+            "fantasy"
         ],
         "date": {
             "season": "unknown",

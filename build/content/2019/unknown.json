@@ -1792,34 +1792,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/dou-hun-wei-xuan-yue-qiyuan-iii"
-        ],
-        "title": "Dou Hun Wei: Xuan Yue Qiyuan III",
-        "type": "ona",
-        "episodes": 13,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/dou-hun-wei-xuan-yue-qiyuan-iii-1.jpg?t=1625908354",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/dou-hun-wei-xuan-yue-qiyuan-iii-1-190x266.jpg?t=1625908354",
-        "synonyms": [
-            "Spirit Guardians III"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/dou-hun-wei-xuan-yue-qiyuan-ii",
-            "https://anime-planet.com/anime/dou-hun-wei-xuan-yue-qiyuan-iv"
-        ],
-        "tags": [
-            "cg animation",
-            "chinese animation",
-            "fantasy",
-            "original work"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/drive-boy-midnight-run"
         ],
         "title": "Drive Boy: Midnight Run",
@@ -2286,6 +2258,7 @@
             "https://anime-planet.com/anime/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-2-event-pv",
             "https://anime-planet.com/anime/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-3-event-pv",
             "https://anime-planet.com/anime/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-4-event-pv",
+            "https://anime-planet.com/anime/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-52-event-pv",
             "https://anime-planet.com/anime/fate-grand-order-first-order",
             "https://anime-planet.com/anime/fategrand-order-cosmos-in-the-lostbelt-lostbelt-no-1-event-pv"
         ],
@@ -7409,7 +7382,7 @@
             "https://anime-planet.com/anime/persona-5-royal-op"
         ],
         "title": "Persona 5 Royal OP",
-        "type": "special",
+        "type": "ona",
         "episodes": 1,
         "status": "finished",
         "picture": "https://cdn.anime-planet.com/anime/primary/persona-5-royal-op-1.webp?t=1652124527",
@@ -7420,9 +7393,14 @@
             "https://anime-planet.com/anime/persona-5-the-animation"
         ],
         "tags": [
+            "action",
             "based on a video game",
             "opening animation",
-            "promotional"
+            "promotional",
+            "secret identity",
+            "supernatural",
+            "thieves",
+            "vigilantes"
         ],
         "date": {
             "season": "unknown",
@@ -8804,6 +8782,29 @@
         "tags": [
             "adventure",
             "fantasy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/148965"
+        ],
+        "title": "Shi no Shounin",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+        "synonyms": [
+            "The Death Vendor",
+            "死の商人"
+        ],
+        "relations": [],
+        "tags": [
+            "psychological"
         ],
         "date": {
             "season": "unknown",

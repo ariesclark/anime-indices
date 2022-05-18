@@ -261,6 +261,36 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/da-tang-fengyun",
+            "https://myanimelist.net/anime/44665"
+        ],
+        "title": "Da Tang Fengyun",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "大唐风云"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/da-tang-fengyun-2",
+            "https://myanimelist.net/anime/44666"
+        ],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "fantasy",
+            "historical",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/dragon-ball-z-nippon-ijin-taishou-saikyou-no-ijin-wa-dare"
         ],
         "title": "Dragon Ball Z: Nippon Ijin Taishou - Saikyou no Ijin wa Dare?",
@@ -576,36 +606,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/115275",
-            "https://anime-planet.com/anime/kazoku-dekki",
-            "https://myanimelist.net/anime/38643"
-        ],
-        "title": "Kazoku Dekki",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1628/114686.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1628/114686t.jpg",
-        "synonyms": [
-            "Family Deck",
-            "The Deck Family",
-            "The Deck Family, Family Deck",
-            "家族デッキ"
-        ],
-        "relations": [],
-        "tags": [
-            "shorts",
-            "slice of life",
-            "stop motion",
-            "stop motion animation"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2007
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/kochira-katsushikaku-kameari-kouenmae-hashutsujo-ryou-san-no-sushi-kuinee-choujyou-maguro-taiketsu"
         ],
         "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Ryou-san no Sushi Kuinee! - Choujyou Maguro Taiketsu",
@@ -789,21 +789,24 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/marginal-prince-tokyo-merry-go-round"
+            "https://anime-planet.com/anime/magic-tiger"
         ],
-        "title": "Marginal Prince: Tokyo Merry-Go-Round",
-        "type": "special",
-        "episodes": 1,
+        "title": "Magic Tiger",
+        "type": "tv",
+        "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/marginal-prince-tokyo-merry-go-round-1.jpg?t=1625908437",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/marginal-prince-tokyo-merry-go-round-1-190x266.jpg?t=1625908437",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/marginal-prince"
+        "picture": "https://cdn.anime-planet.com/anime/primary/magic-tiger-1.webp?t=1652547585",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/magic-tiger-1-243x341.webp?t=1652547585",
+        "synonyms": [
+            "Magic Eye Magic Tiger",
+            "Tian Yanshen Hu"
         ],
+        "relations": [],
         "tags": [
-            "based on a visual novel",
-            "shounen-ai"
+            "anthropomorphic",
+            "cats",
+            "chinese animation",
+            "family friendly"
         ],
         "date": {
             "season": "unknown",

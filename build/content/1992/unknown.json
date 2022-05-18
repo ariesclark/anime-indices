@@ -1,6 +1,7 @@
 [
     {
         "sources": [
+            "https://anime-planet.com/anime/12-zhi-wenzi-he-5-geren",
             "https://myanimelist.net/anime/43912"
         ],
         "title": "12 Zhi Wenzi He 5 Geren",
@@ -14,8 +15,10 @@
         ],
         "relations": [],
         "tags": [
+            "chinese animation",
             "educational",
-            "kids"
+            "kids",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -268,6 +271,32 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kaidian",
+            "https://myanimelist.net/anime/43916"
+        ],
+        "title": "Kaidian",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "开店"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "historical",
+            "kids",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1992
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/kobo-chan-no-koutsuu-anzen",
             "https://myanimelist.net/anime/39342"
         ],
@@ -346,6 +375,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/mao-yu-shu",
             "https://myanimelist.net/anime/43911"
         ],
         "title": "Mao Yu Shu",
@@ -356,11 +386,17 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1424/122556t.jpg",
         "synonyms": [
             "A Cat and A Rat",
+            "A Cat and a Rat",
             "猫与鼠"
         ],
         "relations": [],
         "tags": [
-            "kids"
+            "animal protagonists",
+            "cats",
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -369,6 +405,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/mo-feng",
             "https://myanimelist.net/anime/43910"
         ],
         "title": "Mo Feng",
@@ -382,7 +419,9 @@
         ],
         "relations": [],
         "tags": [
-            "mythology"
+            "chinese animation",
+            "mythology",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -483,6 +522,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/shei-shi-guanjun",
             "https://myanimelist.net/anime/43913"
         ],
         "title": "Shei Shi Guanjun",
@@ -496,8 +536,41 @@
         ],
         "relations": [],
         "tags": [
+            "animal protagonists",
             "anthropomorphic",
-            "kids"
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "rabbits",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1992
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/taiyang-zhizi",
+            "https://myanimelist.net/anime/43948"
+        ],
+        "title": "Taiyang Zhizi",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "Son of the Sun",
+            "太阳之子"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "fantasy",
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",

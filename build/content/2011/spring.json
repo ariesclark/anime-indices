@@ -2530,9 +2530,11 @@
         ],
         "tags": [
             "aliens",
+            "amnesia",
             "asia",
             "baseball",
             "based on a light novel",
+            "chibi",
             "chuunibyou",
             "comedy",
             "coming of age",
@@ -3622,9 +3624,7 @@
             "Katuri: A Story of a Mother Bird",
             "엄마 까투리"
         ],
-        "relations": [
-            "https://anisearch.com/anime/14995"
-        ],
+        "relations": [],
         "tags": [
             "cg-anime"
         ],
@@ -6437,34 +6437,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/11554",
-            "https://anime-planet.com/anime/maria-holic-alive-runrunriru-ranranrara",
-            "https://anisearch.com/anime/11652"
-        ],
-        "title": "Maria Holic Alive: Runrunriru Ranranrara",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "synonyms": [
-            "Maria†Holic: Children's Day Parody PV",
-            "Maria†Holic: Run Run Riru Ran Ran Rara",
-            "まりあ†ほりっく あらいぶ るんるんりる らんらんらら"
-        ],
-        "relations": [
-            "https://anidb.net/anime/8041"
-        ],
-        "tags": [
-            "cg-anime"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/8041",
             "https://anilist.co/anime/9712",
             "https://anime-planet.com/anime/maria-holic-alive",
@@ -6552,7 +6524,10 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/11554",
             "https://anilist.co/anime/10679",
+            "https://anime-planet.com/anime/maria-holic-alive-runrunriru-ranranrara",
+            "https://anisearch.com/anime/11652",
             "https://kitsu.io/anime/6287",
             "https://myanimelist.net/anime/10679",
             "https://notify.moe/anime/WM0VtKimg"
@@ -6564,10 +6539,13 @@
         "picture": "https://cdn.myanimelist.net/images/anime/2/29426.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/2/29426t.jpg",
         "synonyms": [
+            "Maria Holic Alive: Runrunriru Ranranrara",
             "Maria†Holic: Children's Day Parody PV",
-            "「るんるんりる　らんらんらら」小林ゆう初ＣＧアニメ化ＰＶ"
+            "「るんるんりる　らんらんらら」小林ゆう初ＣＧアニメ化ＰＶ",
+            "まりあ†ほりっく あらいぶ るんるんりる らんらんらら"
         ],
         "relations": [
+            "https://anidb.net/anime/8041",
             "https://anilist.co/anime/9712",
             "https://kitsu.io/anime/5832",
             "https://myanimelist.net/anime/9712",
@@ -6576,6 +6554,7 @@
         "tags": [
             "animals",
             "band",
+            "cg-anime",
             "cgi",
             "comedy",
             "full cgi",
@@ -7681,8 +7660,7 @@
             "ポケットモンスター ベストウイッシュ～光と影のテンキュウギ～"
         ],
         "relations": [
-            "https://anidb.net/anime/7891",
-            "https://anisearch.com/anime/6306"
+            "https://anidb.net/anime/7891"
         ],
         "tags": [
             "adventure",
@@ -9891,6 +9869,7 @@
             "drama",
             "dystopian",
             "earth",
+            "ensemble cast",
             "female protagonist",
             "game",
             "gender bender",

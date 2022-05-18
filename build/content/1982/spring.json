@@ -70,6 +70,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17405",
             "https://anilist.co/anime/118046",
             "https://anime-planet.com/anime/asa-wo-kitan",
             "https://kitsu.io/anime/44937",
@@ -82,6 +83,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1641/98908.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1641/98908t.jpg",
         "synonyms": [
+            "Asa o Kitan",
             "I Woke Up This Morning",
             "Minna no Uta",
             "Minna no Uta: Asa wo Kitan",
@@ -1077,9 +1079,7 @@
             "Urusei Yatsura: Spring Special Part 1",
             "うる星やつらオールスター大進撃！"
         ],
-        "relations": [
-            "https://anisearch.com/anime/1945"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "comedy",

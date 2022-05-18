@@ -56,6 +56,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/bravo-dong-dong",
             "https://myanimelist.net/anime/43863"
         ],
         "title": "Bravo Dong Dong",
@@ -69,7 +70,9 @@
         ],
         "relations": [],
         "tags": [
+            "chinese animation",
             "comedy",
+            "family friendly",
             "kids"
         ],
         "date": {
@@ -184,6 +187,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/feilong-tian-jiang",
             "https://myanimelist.net/anime/43865"
         ],
         "title": "Feilong Tian Jiang",
@@ -198,8 +202,11 @@
         "relations": [],
         "tags": [
             "anthropomorphic",
+            "chinese animation",
+            "family friendly",
             "fantasy",
-            "kids"
+            "kids",
+            "non-human protagonists"
         ],
         "date": {
             "season": "unknown",
@@ -703,6 +710,33 @@
         "tags": [
             "japanese mythology",
             "supernatural"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2002
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/shui-de-zhangfu-li-de-zui-yuan",
+            "https://myanimelist.net/anime/43866"
+        ],
+        "title": "Shui De Zhangfu Li De Zui Yuan",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "Whose husband is the furthest away",
+            "誰的丈夫離得最遠"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "comedy",
+            "kids",
+            "shorts"
         ],
         "date": {
             "season": "unknown",

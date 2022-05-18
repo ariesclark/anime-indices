@@ -2623,8 +2623,8 @@
         "type": "ona",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1959/91379.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1959/91379t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1046/122722.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1046/122722t.jpg",
         "synonyms": [
             "Devilman: Crybaby - Digest Eizō",
             "Devilman: Crybaby Promo Video",
@@ -2877,29 +2877,7 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/14892"
-        ],
-        "title": "Dou Po Cang Qiong: Q Ban Xiao Juchang 2",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/233149.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/233149.jpg-thumb.jpg",
-        "synonyms": [
-            "斗破苍穹 Q版小剧场 第2季"
-        ],
-        "relations": [
-            "https://anidb.net/anime/13851",
-            "https://anidb.net/anime/14891"
-        ],
-        "tags": [],
-        "date": {
-            "season": "winter",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
+            "https://anidb.net/anime/14892",
             "https://anisearch.com/anime/16282"
         ],
         "title": "Dou Po Cang Qiong: Q Ban Xiao Juchang Di Er Ji",
@@ -2910,12 +2888,15 @@
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16282.webp",
         "synonyms": [
             "Dou Po Cang Qiong: Q Ban Xiao Ju Chang Di Er Ji",
+            "Dou Po Cang Qiong: Q Ban Xiao Juchang 2",
             "Doupo Cangqiong: Q Ban Xiao Juchang 2",
             "斗破苍穹 Q版小剧场 第2季",
             "斗破苍穹 Q版小剧场 第二季",
             "斗破苍穹 第2季 小剧场"
         ],
         "relations": [
+            "https://anidb.net/anime/13851",
+            "https://anidb.net/anime/14891",
             "https://anisearch.com/anime/13239",
             "https://anisearch.com/anime/13245",
             "https://anisearch.com/anime/14991",
@@ -5900,6 +5881,7 @@
             "https://anilist.co/anime/114922",
             "https://anilist.co/anime/114958",
             "https://anilist.co/anime/138687",
+            "https://anilist.co/anime/148816",
             "https://anime-planet.com/anime/idolish7-memories-melodies",
             "https://anime-planet.com/anime/idolish7-monster-generation",
             "https://anime-planet.com/anime/idolish7-mr-affection",
@@ -5957,6 +5939,7 @@
             "adoption",
             "based on a mobile game",
             "comedy",
+            "conspiracy",
             "dancing",
             "drama",
             "ensemble cast",
@@ -5971,6 +5954,7 @@
             "language barrier",
             "male protagonist",
             "music",
+            "office lady",
             "otaku",
             "otaku culture",
             "performance",
@@ -5985,7 +5969,8 @@
             "the arts",
             "tsundere",
             "twins",
-            "urban"
+            "urban",
+            "work"
         ],
         "date": {
             "season": "winter",
@@ -11976,7 +11961,6 @@
             "hero of strong character",
             "horror",
             "isolated society",
-            "iyashikei",
             "kaiju",
             "male protagonist",
             "manga",
@@ -14641,8 +14625,6 @@
             "https://anilist.co/anime/104959",
             "https://anime-planet.com/anime/yaoshenji",
             "https://anime-planet.com/anime/yaoshenji-3rd-season",
-            "https://anisearch.com/anime/12748",
-            "https://anisearch.com/anime/14137",
             "https://kitsu.io/anime/42048",
             "https://livechart.me/anime/10919",
             "https://livechart.me/anime/8157",
@@ -15000,6 +14982,7 @@
             "racing",
             "reluctant hero",
             "school club",
+            "school clubs",
             "shounen",
             "slapstick",
             "sports",

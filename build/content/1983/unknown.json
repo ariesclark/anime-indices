@@ -82,6 +82,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16242",
             "https://anime-planet.com/anime/go-uyeongui-samguksi-tadodongtak"
         ],
         "title": "Go Uyeongui Samguksi: Tadodongtak",
@@ -90,8 +91,12 @@
         "status": "finished",
         "picture": "https://cdn.anime-planet.com/anime/primary/go-uyeongui-samguksi-tadodongtak-1.jpg?t=1625909115",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/go-uyeongui-samguksi-tadodongtak-1-190x266.jpg?t=1625909115",
-        "synonyms": [],
+        "synonyms": [
+            "Gouyeong-ui Samgugji 2: Tadodongtag",
+            "고우영의 삼국지 2 - 타도동탁"
+        ],
         "relations": [
+            "https://anidb.net/anime/16233",
             "https://anime-planet.com/anime/go-uyeongui-samguksi-1-dowon-gyeoluipyeon",
             "https://anime-planet.com/anime/go-uyeongui-samguksi-2-gwanu-ogwandolpa-pyeon"
         ],
@@ -102,28 +107,6 @@
             "korean animation",
             "war"
         ],
-        "date": {
-            "season": "unknown",
-            "year": 1983
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16242"
-        ],
-        "title": "Gouyeong-ui Samgugji 2: Tadodongtag",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/259896.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/259896.jpg-thumb.jpg",
-        "synonyms": [
-            "고우영의 삼국지 2 - 타도동탁"
-        ],
-        "relations": [
-            "https://anidb.net/anime/16233"
-        ],
-        "tags": [],
         "date": {
             "season": "unknown",
             "year": 1983

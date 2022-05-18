@@ -1,27 +1,6 @@
 [
     {
         "sources": [
-            "https://anilist.co/anime/147977"
-        ],
-        "title": "Aidattandayo",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147977-5uQkfbDmocah.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147977-5uQkfbDmocah.png",
-        "synonyms": [
-            "Minna no Uta",
-            "愛だったんだよ"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 1998
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/an-introduction-of-human-zoology"
         ],
         "title": "An introduction of human zoology",
@@ -105,6 +84,32 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/cong-ming-de-ben-xiao-zhu"
+        ],
+        "title": "Cong Ming De Ben Xiao Zhu",
+        "type": "tv",
+        "episodes": 17,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/cong-ming-de-ben-xiao-zhu-1.webp?t=1652411154",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/cong-ming-de-ben-xiao-zhu-1-269x378.webp?t=1652411154",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
+            "non-human protagonists",
+            "pigs",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1998
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/dinozaurs-the-series"
         ],
         "title": "Dinozaurs: The Series",
@@ -172,6 +177,38 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/fanqie-jiang",
+            "https://myanimelist.net/anime/43946"
+        ],
+        "title": "Fanqie Jiang",
+        "type": "tv",
+        "episodes": 12,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "ketchup",
+            "番茄酱"
+        ],
+        "relations": [],
+        "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
+            "comedy",
+            "family friendly",
+            "fantasy",
+            "kids",
+            "non-human protagonists",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1998
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/16418"
         ],
         "title": "Far",
@@ -183,6 +220,35 @@
         "synonyms": [],
         "relations": [],
         "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 1998
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/gulu-xiansheng",
+            "https://myanimelist.net/anime/43949"
+        ],
+        "title": "Gulu Xiansheng",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "咕噜先生"
+        ],
+        "relations": [],
+        "tags": [
+            "anthropomorphic",
+            "chinese animation",
+            "comedy",
+            "fantasy",
+            "kids",
+            "non-human protagonists",
+            "short episodes"
+        ],
         "date": {
             "season": "unknown",
             "year": 1998
@@ -474,8 +540,11 @@
         "picture": "https://cdn.anisearch.com/images/anime/cover/full/0.webp",
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/0.webp",
         "synonyms": [
+            "Kappa",
+            "Kappa Hyakuzu",
             "水の精 河童百図",
-            "水の精・河童百図"
+            "水の精・河童百図",
+            "河童百図"
         ],
         "relations": [],
         "tags": [],
@@ -664,6 +733,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/149085",
             "https://myanimelist.net/anime/43851"
         ],
         "title": "Xue Hu",

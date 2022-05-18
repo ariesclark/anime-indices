@@ -38,6 +38,31 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17403",
+            "https://myanimelist.net/anime/51810"
+        ],
+        "title": "Aki Monogatari",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1950/123767.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1950/123767t.jpg",
+        "synonyms": [
+            "Minna no Uta",
+            "秋物語"
+        ],
+        "relations": [],
+        "tags": [
+            "kids",
+            "music"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 1984
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/5351",
             "https://myanimelist.net/anime/8574"
         ],

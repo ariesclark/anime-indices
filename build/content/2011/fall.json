@@ -1212,22 +1212,28 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/15523"
+            "https://anidb.net/anime/15523",
+            "https://myanimelist.net/anime/44292"
         ],
-        "title": "Chao Shou Wuzhuang: Yongzhe Wu Ju",
+        "title": "Chao Shou Wuzhuang Zhi Yongzhe Wu Ju",
         "type": "tv",
         "episodes": 33,
         "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/246838.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/246838.jpg-thumb.jpg",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "Chao Shou Wuzhuang: Yongzhe Wu Ju",
             "RevEvolution 2",
             "超兽武装之勇者无惧"
         ],
         "relations": [
             "https://anidb.net/anime/14299"
         ],
-        "tags": [],
+        "tags": [
+            "action",
+            "adventure",
+            "kids"
+        ],
         "date": {
             "season": "fall",
             "year": 2011
@@ -2397,46 +2403,6 @@
             "https://anime-planet.com/anime/fate-zero-remix",
             "https://anime-planet.com/anime/lord-el-melloi-iis-case-files-rail-zeppelin-grace-note",
             "https://anime-planet.com/anime/lord-el-melloi-iis-case-files-rail-zeppelin-grace-note-a-grave-keeper-a-cat-and-a-mage",
-            "https://anisearch.com/anime/10005",
-            "https://anisearch.com/anime/10784",
-            "https://anisearch.com/anime/10845",
-            "https://anisearch.com/anime/10862",
-            "https://anisearch.com/anime/11294",
-            "https://anisearch.com/anime/11746",
-            "https://anisearch.com/anime/11791",
-            "https://anisearch.com/anime/11903",
-            "https://anisearch.com/anime/12160",
-            "https://anisearch.com/anime/12811",
-            "https://anisearch.com/anime/13096",
-            "https://anisearch.com/anime/13137",
-            "https://anisearch.com/anime/13661",
-            "https://anisearch.com/anime/13775",
-            "https://anisearch.com/anime/13776",
-            "https://anisearch.com/anime/14065",
-            "https://anisearch.com/anime/14075",
-            "https://anisearch.com/anime/14077",
-            "https://anisearch.com/anime/14546",
-            "https://anisearch.com/anime/15056",
-            "https://anisearch.com/anime/15552",
-            "https://anisearch.com/anime/16397",
-            "https://anisearch.com/anime/16783",
-            "https://anisearch.com/anime/16825",
-            "https://anisearch.com/anime/3538",
-            "https://anisearch.com/anime/5288",
-            "https://anisearch.com/anime/5880",
-            "https://anisearch.com/anime/7515",
-            "https://anisearch.com/anime/7528",
-            "https://anisearch.com/anime/7654",
-            "https://anisearch.com/anime/8290",
-            "https://anisearch.com/anime/8686",
-            "https://anisearch.com/anime/8762",
-            "https://anisearch.com/anime/9106",
-            "https://anisearch.com/anime/9329",
-            "https://anisearch.com/anime/9333",
-            "https://anisearch.com/anime/9744",
-            "https://anisearch.com/anime/9824",
-            "https://anisearch.com/anime/9844",
-            "https://anisearch.com/anime/9947",
             "https://kitsu.io/anime/42076",
             "https://kitsu.io/anime/42092",
             "https://kitsu.io/anime/6906",
@@ -4519,8 +4485,8 @@
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1266/93263.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1266/93263t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1244/123638.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1244/123638t.jpg",
         "synonyms": [
             "Tayo Der Kleine Bus Staffel 2",
             "Tayo El Pequeño Autobús 2",
@@ -4547,6 +4513,7 @@
             "half-length episodes",
             "kids",
             "korean animation",
+            "racing",
             "short episodes"
         ],
         "date": {
@@ -5937,6 +5904,43 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/12239",
+            "https://anime-planet.com/anime/manyuu-hiken-chou-picture-drama",
+            "https://kitsu.io/anime/6693",
+            "https://livechart.me/anime/5895",
+            "https://notify.moe/anime/1ddNpFiig"
+        ],
+        "title": "Manyuu Hiken-chou Picture Drama",
+        "type": "special",
+        "episodes": 4,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/manyuu-hiken-chou-picture-drama-1.jpg?t=1625896326",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/manyuu-hiken-chou-picture-drama-1-190x250.jpg?t=1625896326",
+        "synonyms": [
+            "Manyuu Hikenchou Picture Drama",
+            "Manyuu Hikenchou: Kaede no Chifusa-sama Oppai Seichou Kiroku",
+            "魔乳秘剣帖 ピクチャードラマ"
+        ],
+        "relations": [
+            "https://anilist.co/anime/10465",
+            "https://anime-planet.com/anime/manyuu-hiken-chou",
+            "https://anime-planet.com/anime/manyuu-hiken-chou-specials",
+            "https://kitsu.io/anime/6194",
+            "https://notify.moe/anime/WriVpFimR"
+        ],
+        "tags": [
+            "ecchi",
+            "picture drama",
+            "seinen",
+            "yuri"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/7680"
         ],
         "title": "Manyuu Hiken-chou: Binyuu Tanren - Chichi Togi",
@@ -5999,38 +6003,6 @@
             "old asia",
             "samurai",
             "swords & co"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/12239",
-            "https://kitsu.io/anime/6693",
-            "https://livechart.me/anime/5895",
-            "https://notify.moe/anime/1ddNpFiig"
-        ],
-        "title": "Manyuu Hikenchou Picture Drama",
-        "type": "special",
-        "episodes": 4,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/6693/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/6693/tiny.jpg",
-        "synonyms": [
-            "Manyuu Hikenchou: Kaede no Chifusa-sama Oppai Seichou Kiroku",
-            "魔乳秘剣帖 ピクチャードラマ"
-        ],
-        "relations": [
-            "https://anilist.co/anime/10465",
-            "https://kitsu.io/anime/6194",
-            "https://notify.moe/anime/WriVpFimR"
-        ],
-        "tags": [
-            "ecchi",
-            "seinen",
-            "yuri"
         ],
         "date": {
             "season": "fall",

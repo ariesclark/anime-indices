@@ -22,10 +22,9 @@
             "Akuma-kun (2023)",
             "Akuma-kun (New Anime)",
             "Akuma-kun (Shin Anime)",
-            "Akuma-kun (Shin Series)",
             "悪魔くん",
+            "悪魔くん (2023)",
             "悪魔くん (新アニメ)",
-            "悪魔くん (新シリーズ)",
             "悪魔くん （2023）"
         ],
         "relations": [
@@ -526,6 +525,7 @@
             "comedy",
             "dogs",
             "ecchi",
+            "pov",
             "present",
             "romance",
             "romantic comedy",
@@ -873,6 +873,44 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/14884",
+            "https://anilist.co/anime/148589",
+            "https://anime-planet.com/anime/mahou-shoujuu-sherbert",
+            "https://anisearch.com/anime/14409",
+            "https://kitsu.io/anime/46115",
+            "https://livechart.me/anime/9423",
+            "https://myanimelist.net/anime/41585"
+        ],
+        "title": "Mahou Shoujuu Sherbert",
+        "type": "tv",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "Magical Beast Sherbert",
+            "Magical Beast Sherbet",
+            "Mahō Shōjū Sherbert",
+            "魔法少獣シャーベット"
+        ],
+        "relations": [],
+        "tags": [
+            "based on a manga",
+            "comedy",
+            "fantasy",
+            "female protagonist",
+            "magic",
+            "magical girl",
+            "mahou shoujo",
+            "sci-fi"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/17080",
             "https://anilist.co/anime/143103",
             "https://anime-planet.com/anime/mahoutsukai-no-yoru",
@@ -1188,6 +1226,7 @@
             "comedy",
             "manga & doujinshi",
             "manga industry",
+            "otaku culture",
             "present",
             "romance",
             "romantic comedy",
@@ -1342,7 +1381,6 @@
             "foreign",
             "gods",
             "gore",
-            "iyashikei",
             "kaiju",
             "kuudere",
             "military",
@@ -1430,23 +1468,114 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/46101"
+            "https://anidb.net/anime/17351",
+            "https://anilist.co/anime/148370",
+            "https://anime-planet.com/anime/uma-musume-pretty-derby-2022",
+            "https://anisearch.com/anime/17368",
+            "https://kitsu.io/anime/46101",
+            "https://livechart.me/anime/11205",
+            "https://myanimelist.net/anime/51761"
         ],
-        "title": "Uma Musume: Pretty Derby",
+        "title": "Uma Musume: Pretty Derby (ONA)",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://media.kitsu.io/anime/46101/poster_image/small-57fde5b81ab19e43ae2aaab315e6e6c8.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/46101/poster_image/tiny-b63976ff2a12003aa9023d7baefbbaad.jpeg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1729/123619.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1729/123619t.jpg",
         "synonyms": [
+            "Uma Musume: Pretty Derby",
+            "Uma Musume: Pretty Derby (2022)",
+            "Uma Musume: Pretty Derby (Web)",
             "Umamusume: Pretty Derby",
-            "ウマ娘 プリティーダービー"
+            "Umamusume: Pretty Derby (ONA)",
+            "Umamusume: Pretty Derby (Web)",
+            "ウマ娘 プリティーダービー",
+            "ウマ娘 プリティーダービー (ONA)",
+            "ウマ娘 プリティーダービー (Web)"
         ],
         "relations": [
-            "https://kitsu.io/anime/13485"
+            "https://anilist.co/anime/98514",
+            "https://anime-planet.com/anime/uma-musume-pretty-derby",
+            "https://anime-planet.com/anime/uma-musume-pretty-derby-season-2",
+            "https://kitsu.io/anime/13485",
+            "https://livechart.me/anime/10163",
+            "https://livechart.me/anime/11206",
+            "https://livechart.me/anime/2630",
+            "https://livechart.me/anime/3272",
+            "https://livechart.me/anime/8674",
+            "https://myanimelist.net/anime/35249"
         ],
         "tags": [
+            "anthropomorphic",
+            "based on a mobile game",
+            "comedy",
+            "drama",
+            "ganbatte",
+            "horse racing",
+            "non-human protagonists",
+            "school life",
+            "slice of life",
             "sports"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/17362",
+            "https://anilist.co/anime/149028",
+            "https://anime-planet.com/anime/yuri-is-my-job",
+            "https://anisearch.com/anime/17381",
+            "https://kitsu.io/anime/46116",
+            "https://livechart.me/anime/11219",
+            "https://myanimelist.net/anime/51817"
+        ],
+        "title": "Watashi no Yuri wa Oshigoto desu!",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1324/123787.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1324/123787t.jpg",
+        "synonyms": [
+            "Café Liebe",
+            "Schwestern in Liebe!",
+            "Watashi no Yuri wa Oshigoto Desu!",
+            "Watayuri",
+            "Yuri Is My Job!",
+            "Yuri is My Job!",
+            "私の百合はお仕事です!",
+            "私の百合はお仕事です！"
+        ],
+        "relations": [],
+        "tags": [
+            "acting",
+            "based on a manga",
+            "cafe",
+            "comedy",
+            "cute girls doing cute things",
+            "female protagonist",
+            "girls love",
+            "gl",
+            "gyaru",
+            "love triangle",
+            "maid",
+            "meta",
+            "ojou-sama",
+            "parody",
+            "present",
+            "primarily female cast",
+            "romance",
+            "romantic comedy",
+            "school",
+            "shoujo ai",
+            "shoujo-ai",
+            "slice of life",
+            "work",
+            "work life",
+            "working life",
+            "yuri"
         ],
         "date": {
             "season": "winter",
@@ -1512,6 +1641,7 @@
             "genius",
             "high school",
             "male protagonist",
+            "mystery",
             "philosophy",
             "present",
             "psychological",

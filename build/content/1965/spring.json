@@ -1,6 +1,27 @@
 [
     {
         "sources": [
+            "https://anidb.net/anime/17393"
+        ],
+        "title": "A A B C",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anidb.net/images/main/272961.jpg",
+        "thumbnail": "https://cdn.anidb.net/images/main/272961.jpg-thumb.jpg",
+        "synonyms": [
+            "A・A・B・C",
+            "ア・ア・ビ・チ"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "spring",
+            "year": 1965
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/3576",
             "https://anilist.co/anime/8879",
             "https://anime-planet.com/anime/dolphin-ouji",

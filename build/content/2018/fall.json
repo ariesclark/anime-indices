@@ -705,6 +705,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1463/102588.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1463/102588t.jpg",
         "synonyms": [
+            "Balala Little Magic Fairy: Ocean Magic",
             "Balala The Fairies 5 Enchanted Sea Firefly Castle",
             "Balala The Fairies: Ocean Magic",
             "Balala Xiao Moxian: Mofa Hai Ying Bao",
@@ -2652,6 +2653,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/effendi-qi-yuan-lixian",
             "https://myanimelist.net/anime/51777"
         ],
         "title": "Effendi: Qi Yuan Lixian",
@@ -2665,11 +2667,14 @@
             "阿凡提之奇缘历险"
         ],
         "relations": [
+            "https://anime-planet.com/anime/effendi-de-gushi",
             "https://myanimelist.net/anime/43447",
             "https://myanimelist.net/anime/43449",
             "https://myanimelist.net/anime/43454"
         ],
         "tags": [
+            "chinese animation",
+            "family friendly",
             "kids"
         ],
         "date": {
@@ -4047,7 +4052,8 @@
             "https://myanimelist.net/anime/37334"
         ],
         "tags": [
-            "sci-fi"
+            "sci-fi",
+            "short episodes"
         ],
         "date": {
             "season": "fall",
@@ -8280,6 +8286,37 @@
     },
     {
         "sources": [
+            "https://kitsu.io/anime/44002",
+            "https://myanimelist.net/anime/51814"
+        ],
+        "title": "Miren Record",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1299/123771.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1299/123771t.jpg",
+        "synonyms": [
+            "Wistful Record",
+            "未練レコード"
+        ],
+        "relations": [
+            "https://kitsu.io/anime/43740",
+            "https://myanimelist.net/anime/44042",
+            "https://myanimelist.net/anime/51428",
+            "https://myanimelist.net/anime/51813"
+        ],
+        "tags": [
+            "idol",
+            "idols (female)",
+            "music"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/122013",
             "https://kitsu.io/anime/43800"
         ],
@@ -8656,6 +8693,7 @@
             "anime influenced",
             "augmented reality",
             "based on a comic book",
+            "body horror",
             "comedy",
             "conspiracy",
             "cops",
@@ -9423,7 +9461,6 @@
             "https://anime-planet.com/anime/overlord-play-play-pleiades",
             "https://anime-planet.com/anime/overlord-play-play-pleiades-ova",
             "https://anime-planet.com/anime/overlord-ple-ple-pleiades-theatrical-version",
-            "https://anisearch.com/anime/9855",
             "https://kitsu.io/anime/11166",
             "https://myanimelist.net/anime/29803",
             "https://myanimelist.net/anime/31138"
@@ -9891,8 +9928,6 @@
             "https://anilist.co/anime/115800",
             "https://anime-planet.com/anime/quanzhi-fashi-ii",
             "https://anime-planet.com/anime/quanzhi-fashi-iv",
-            "https://anisearch.com/anime/12835",
-            "https://anisearch.com/anime/15060",
             "https://kitsu.io/anime/13841",
             "https://kitsu.io/anime/43232",
             "https://livechart.me/anime/10744",
@@ -11033,7 +11068,6 @@
             "https://anilist.co/anime/104157",
             "https://anime-planet.com/anime/rascal-does-not-dream-of-a-dreaming-girl",
             "https://anime-planet.com/anime/rascal-does-not-dream-of-bunny-girl-senpai-picture-drama",
-            "https://anisearch.com/anime/13889",
             "https://kitsu.io/anime/41991",
             "https://kitsu.io/anime/42087",
             "https://livechart.me/anime/3513",
@@ -11618,7 +11652,6 @@
             "comedy",
             "fantasy",
             "fantasy world",
-            "iyashikei",
             "male protagonist",
             "military",
             "parody",
@@ -14161,7 +14194,6 @@
         "relations": [
             "https://anilist.co/anime/98514",
             "https://anime-planet.com/anime/uma-musume-pretty-derby",
-            "https://anisearch.com/anime/12470",
             "https://kitsu.io/anime/13485",
             "https://livechart.me/anime/10163",
             "https://livechart.me/anime/2630",
@@ -14434,29 +14466,6 @@
         "relations": [],
         "tags": [
             "romance"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/44002"
-        ],
-        "title": "Wistful Record",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44002/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44002/tiny.jpg",
-        "synonyms": [],
-        "relations": [
-            "https://kitsu.io/anime/43740"
-        ],
-        "tags": [
-            "idol",
-            "music"
         ],
         "date": {
             "season": "fall",

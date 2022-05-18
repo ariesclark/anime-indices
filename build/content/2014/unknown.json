@@ -4429,6 +4429,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/rexue-sanguo-luanshi-tianxia",
             "https://myanimelist.net/anime/46860"
         ],
         "title": "Rexue Sanguo: Luanshi Tianxia",
@@ -4441,12 +4442,38 @@
             "热血三国之乱世天下"
         ],
         "relations": [
+            "https://anime-planet.com/anime/rexue-sanguo-san-gu-maolu",
             "https://myanimelist.net/anime/46859"
         ],
         "tags": [
+            "chinese animation",
             "comedy",
             "historical",
-            "kids"
+            "kids",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/rexue-sanguo-san-gu-maolu"
+        ],
+        "title": "Rexue Sanguo: San Gu Maolu",
+        "type": "tv",
+        "episodes": 38,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/rexue-sanguo-san-gu-maolu-1.webp?t=1652502730",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/rexue-sanguo-san-gu-maolu-1-259x364.webp?t=1652502730",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/rexue-sanguo-luanshi-tianxia"
+        ],
+        "tags": [
+            "chinese animation",
+            "comedy"
         ],
         "date": {
             "season": "unknown",
@@ -5306,38 +5333,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/the-comic-artist-and-his-assistants-specials"
-        ],
-        "title": "The Comic Artist and His Assistants Specials",
-        "type": "special",
-        "episodes": 6,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/the-comic-artist-and-his-assistants-specials-1.jpg?t=1625896889",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-comic-artist-and-his-assistants-specials-1-190x257.jpg?t=1625896889",
-        "synonyms": [
-            "Mangaka-san to Assistant-san to Specials"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/the-comic-artist-and-his-assistants"
-        ],
-        "tags": [
-            "based on a manga",
-            "comedy",
-            "coworkers",
-            "ecchi",
-            "manga industry",
-            "otaku culture",
-            "seinen",
-            "slice of life",
-            "writers"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/131855",
             "https://anime-planet.com/anime/tiandi-fengyun-lu-mo-lu-xuezhan"
         ],
@@ -5815,6 +5810,32 @@
             "historical",
             "kids",
             "military"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/148976"
+        ],
+        "title": "Xiong Chumo: Conglin Zhongdongyuan 2",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148976-U5Jw6QOdm48Q.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148976-U5Jw6QOdm48Q.jpg",
+        "synonyms": [
+            "Forest Frenzy of Boonie Bears",
+            "熊出没之丛林总动员2"
+        ],
+        "relations": [
+            "https://anilist.co/anime/148974",
+            "https://anilist.co/anime/148975"
+        ],
+        "tags": [
+            "comedy"
         ],
         "date": {
             "season": "unknown",

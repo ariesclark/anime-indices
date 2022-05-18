@@ -3012,44 +3012,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/naruto-shippuden-sunny-side-battle"
-        ],
-        "title": "Naruto Shippuden: Sunny Side Battle!",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/naruto-shippuden-sunny-side-battle-1.jpg?t=1625896652",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/naruto-shippuden-sunny-side-battle-1-190x253.jpg?t=1625896652",
-        "synonyms": [
-            "Naruto Shippuden: Sani Saido Batoru!!!"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/honoo-no-chuunin-shiken-naruto-vs-konohamaru",
-            "https://anime-planet.com/anime/naruto-shippuden",
-            "https://anime-planet.com/anime/naruto-shippuden-konoha-gakuen-picture-drama-special",
-            "https://anime-planet.com/anime/naruto-shippuden-movie-1",
-            "https://anime-planet.com/anime/naruto-shippuden-movie-2-bonds",
-            "https://anime-planet.com/anime/naruto-shippuden-movie-3-the-will-of-fire",
-            "https://anime-planet.com/anime/naruto-shippuden-movie-4-the-lost-tower",
-            "https://anime-planet.com/anime/naruto-shippuden-movie-5-blood-prison",
-            "https://anime-planet.com/anime/naruto-shippuden-movie-6-road-to-ninja",
-            "https://anime-planet.com/anime/naruto-shippuden-ova-sage-naruto-vs-sasuke",
-            "https://anime-planet.com/anime/the-last-naruto-the-movie"
-        ],
-        "tags": [
-            "based on a manga",
-            "comedy",
-            "food and beverage",
-            "ninja",
-            "shounen"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/121676"
         ],
         "title": "Nasakenai kao de",
@@ -3571,6 +3533,33 @@
         "relations": [],
         "tags": [
             "stop motion animation"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2013
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/persona-4-arena-ultimax-op"
+        ],
+        "title": "Persona 4 Arena Ultimax OP",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/persona-4-arena-ultimax-op-1.webp?t=1652381108",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/persona-4-arena-ultimax-op-1-285x400.webp?t=1652381108",
+        "synonyms": [
+            "Persona 4: The Ultimax Ultra Suplex Hold OP"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/persona-4-the-animation"
+        ],
+        "tags": [
+            "action",
+            "based on a video game",
+            "opening animation",
+            "promotional"
         ],
         "date": {
             "season": "unknown",
@@ -4244,6 +4233,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/shenqi-a-you",
             "https://myanimelist.net/anime/44477"
         ],
         "title": "Shenqi A You",
@@ -4259,7 +4249,10 @@
             "https://myanimelist.net/anime/44478"
         ],
         "tags": [
-            "kids"
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -4444,6 +4437,31 @@
             "adventure",
             "no dialogue",
             "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2013
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/swirl-fighter-3"
+        ],
+        "title": "Swirl Fighter 3",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/swirl-fighter-3-1.webp?t=1652547054",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/swirl-fighter-3-1-257x360.webp?t=1652547054",
+        "synonyms": [
+            "Jingbao Zhanshi 3"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/swirl-fighter-2"
+        ],
+        "tags": [
+            "chinese animation",
+            "family friendly"
         ],
         "date": {
             "season": "unknown",
@@ -5161,14 +5179,15 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/123348"
+            "https://anilist.co/anime/123348",
+            "https://myanimelist.net/anime/51812"
         ],
         "title": "Zassou-kun",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123348-SjERcCgIq8Ab.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123348-SjERcCgIq8Ab.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1676/123769.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1676/123769t.jpg",
         "synonyms": [
             "雑草くん"
         ],

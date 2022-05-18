@@ -1005,6 +1005,7 @@
             "Baki: The Great Raitai Tournament",
             "Baki: The Great Raitai Tournament Saga",
             "באקי: סאגת טורניר הראיקאי הגדול",
+            "バキ",
             "バキ (2020)",
             "バキ 大擂台賽編",
             "刃牙 2"
@@ -2342,6 +2343,10 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/15881",
+            "https://anilist.co/anime/119925",
+            "https://anime-planet.com/anime/dou-hun-wei-xuan-yue-qiyuan-iv",
+            "https://kitsu.io/anime/45048",
             "https://myanimelist.net/anime/45448"
         ],
         "title": "Dou Hun Wei Zhi Xuan Yue Qiyuan IV",
@@ -2351,41 +2356,32 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1340/111256.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1340/111256t.jpg",
         "synonyms": [
+            "Dou Hun Wei Zhi Xuan Yue Qi Yuan 4",
             "Dou Hun Wei Zhi Xuan Yue Qiyuan 4th Season",
+            "Dou Hun Wei: Xuan Yue Qi Yuan IV",
+            "Dou Hun Wei: Xuan Yue Qiyuan IV",
             "Spirit Guardians",
-            "斗魂卫之玄月奇缘 IV"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/41081"
-        ],
-        "tags": [
-            "action",
-            "fantasy"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/15881"
-        ],
-        "title": "Dou Hun Wei: Xuan Yue Qi Yuan IV",
-        "type": "ona",
-        "episodes": 13,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/254602.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/254602.jpg-thumb.jpg",
-        "synonyms": [
+            "Spirit Guardians 4",
+            "Spirit Guardians IV",
+            "斗魂卫之玄月奇缘 4",
             "斗魂卫之玄月奇缘 IV"
         ],
         "relations": [
             "https://anidb.net/anime/15880",
-            "https://anidb.net/anime/17116"
+            "https://anidb.net/anime/17116",
+            "https://anilist.co/anime/110273",
+            "https://anilist.co/anime/146347",
+            "https://anime-planet.com/anime/dou-hun-wei-xuan-yue-qiyuan-iii",
+            "https://myanimelist.net/anime/41081"
         ],
         "tags": [
-            "new"
+            "action",
+            "adventure",
+            "chinese animation",
+            "fantasy",
+            "full cgi",
+            "new",
+            "original work"
         ],
         "date": {
             "season": "spring",
@@ -2948,6 +2944,7 @@
             "contemporary fantasy",
             "crossdressing",
             "curse",
+            "daily life",
             "denpa",
             "drama",
             "dysfunctional families",
@@ -3193,7 +3190,6 @@
             "https://anidb.net/anime/17017",
             "https://anilist.co/anime/142216",
             "https://anime-planet.com/anime/girl-gaku-ii-lucky-stars",
-            "https://anisearch.com/anime/16885",
             "https://kitsu.io/anime/45549",
             "https://livechart.me/anime/10918",
             "https://myanimelist.net/anime/50495",
@@ -3311,19 +3307,34 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16717"
+            "https://anidb.net/anime/16717",
+            "https://anilist.co/anime/120406",
+            "https://anime-planet.com/anime/gu-xiong",
+            "https://kitsu.io/anime/43476",
+            "https://livechart.me/anime/9955",
+            "https://myanimelist.net/anime/41912",
+            "https://notify.moe/anime/N7aSZ4xGR"
         ],
         "title": "Gu Xiong",
         "type": "ona",
         "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/265360.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/265360.jpg-thumb.jpg",
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1194/108285.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1194/108285t.jpg",
         "synonyms": [
+            "Lonely Hero",
             "孤雄"
         ],
-        "relations": [],
-        "tags": [],
+        "relations": [
+            "https://anime-planet.com/anime/gu-xiong-huo-qi",
+            "https://myanimelist.net/anime/42464"
+        ],
+        "tags": [
+            "action",
+            "chinese animation",
+            "drama",
+            "slice of life"
+        ],
         "date": {
             "season": "spring",
             "year": 2020
@@ -4096,11 +4107,6 @@
             "https://anime-planet.com/anime/hitori-no-shita-the-outcast-4",
             "https://anime-planet.com/anime/hitori-no-shita-the-outcast-fanwai-pian",
             "https://anime-planet.com/anime/hitori-no-shita-the-outcast-recap",
-            "https://anisearch.com/anime/11508",
-            "https://anisearch.com/anime/12466",
-            "https://anisearch.com/anime/13224",
-            "https://anisearch.com/anime/16149",
-            "https://anisearch.com/anime/16652",
             "https://kitsu.io/anime/13885",
             "https://kitsu.io/anime/45264",
             "https://livechart.me/anime/10111",
@@ -4232,9 +4238,6 @@
             "https://anime-planet.com/anime/ascendance-of-a-bookworm-ova",
             "https://anime-planet.com/anime/ascendance-of-a-bookworm-part-iii",
             "https://anime-planet.com/anime/ascendance-of-a-bookworm-recaps",
-            "https://anisearch.com/anime/14237",
-            "https://anisearch.com/anime/15064",
-            "https://anisearch.com/anime/15391",
             "https://kitsu.io/anime/42241",
             "https://kitsu.io/anime/43607",
             "https://livechart.me/anime/10065",
@@ -5115,10 +5118,6 @@
             "https://anime-planet.com/anime/kaguya-sama-love-is-war-ova",
             "https://anime-planet.com/anime/kaguya-sama-love-is-war-ultra-romantic",
             "https://anime-planet.com/anime/kaguya-sama-love-is-war-ultra-romantic-pv-yu-ishigami-wants-to-discuss-it",
-            "https://anisearch.com/anime/13650",
-            "https://anisearch.com/anime/15681",
-            "https://anisearch.com/anime/15682",
-            "https://anisearch.com/anime/15700",
             "https://kitsu.io/anime/41373",
             "https://kitsu.io/anime/43691",
             "https://kitsu.io/anime/43731",
@@ -7818,6 +7817,31 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/149039"
+        ],
+        "title": "Ooya-san to Boku 2",
+        "type": "tv",
+        "episodes": 5,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b149039-0Igkmq92A5KT.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b149039-0Igkmq92A5KT.jpg",
+        "synonyms": [
+            "大家さんと僕2"
+        ],
+        "relations": [
+            "https://anilist.co/anime/117280",
+            "https://anilist.co/anime/149040"
+        ],
+        "tags": [
+            "slice of life"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/ore-no-yubi-de-midarero-heitengo-futarikiri-no-salon-de",
             "https://anisearch.com/anime/15014",
             "https://kitsu.io/anime/43106",
@@ -8036,11 +8060,7 @@
             "Otome Game no Hametsu Flag shika Nai Akuyaku Reijō ni Tensei Shite Shimatta …",
             "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…"
         ],
-        "relations": [
-            "https://anisearch.com/anime/15346",
-            "https://anisearch.com/anime/16329",
-            "https://anisearch.com/anime/16894"
-        ],
+        "relations": [],
         "tags": [
             "comedy",
             "drama",
@@ -11465,7 +11485,6 @@
             "https://anilist.co/anime/117496",
             "https://anime-planet.com/anime/sing-yesterday-for-me-extra",
             "https://anime-planet.com/anime/yourness-kago-no-naka-ni-tori",
-            "https://anisearch.com/anime/14937",
             "https://kitsu.io/anime/43175",
             "https://livechart.me/anime/9775",
             "https://myanimelist.net/anime/41660",

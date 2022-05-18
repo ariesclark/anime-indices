@@ -162,6 +162,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17408",
             "https://anilist.co/anime/145756",
             "https://anime-planet.com/anime/ashita-aou-ne",
             "https://kitsu.io/anime/40858",
@@ -2606,8 +2607,6 @@
             "https://anime-planet.com/anime/hell-girl",
             "https://anime-planet.com/anime/hell-girl-fourth-twilight",
             "https://anime-planet.com/anime/hell-girl-two-mirrors",
-            "https://anisearch.com/anime/12257",
-            "https://anisearch.com/anime/3679",
             "https://kitsu.io/anime/13249",
             "https://kitsu.io/anime/1434",
             "https://livechart.me/anime/2564",
@@ -3129,46 +3128,6 @@
         ],
         "tags": [
             "ecchi"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2008
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/5351",
-            "https://kitsu.io/anime/4069"
-        ],
-        "title": "Kidou Senshi Gundam 00: Tenshitachi no Kiseki",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/4069/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/4069/tiny.jpg",
-        "synonyms": [
-            "Gundam 00 Recap",
-            "Gundam 00 Soushuuhen",
-            "Mobile Suit Gundam 00: Tenshitachi no Kiseki",
-            "機動戦士ガンダム00-天使たちの軌跡"
-        ],
-        "relations": [
-            "https://anilist.co/anime/2581",
-            "https://kitsu.io/anime/2346"
-        ],
-        "tags": [
-            "action",
-            "drama",
-            "ensemble cast",
-            "mecha",
-            "military",
-            "politics",
-            "real robot",
-            "sci-fi",
-            "science fiction",
-            "space",
-            "space battles",
-            "war"
         ],
         "date": {
             "season": "fall",

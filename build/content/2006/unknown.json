@@ -107,6 +107,30 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51808"
+        ],
+        "title": "Arigatou: Kokoro no Bara",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1533/123765.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1533/123765t.jpg",
+        "synonyms": [
+            "Minna no Uta",
+            "ありがとう ～こころのバラ～"
+        ],
+        "relations": [],
+        "tags": [
+            "kids",
+            "romance"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2006
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/bi-jia-zhu",
             "https://myanimelist.net/anime/45523"
         ],
@@ -1291,6 +1315,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/yu-shi",
             "https://myanimelist.net/anime/44669"
         ],
         "title": "Yu Shi",
@@ -1305,6 +1330,8 @@
         "relations": [],
         "tags": [
             "adventure",
+            "chinese animation",
+            "drama",
             "kids",
             "romance"
         ],

@@ -43,6 +43,49 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17396"
+        ],
+        "title": "Ai ni Iku no.",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anidb.net/images/main/272964.jpg",
+        "thumbnail": "https://cdn.anidb.net/images/main/272964.jpg-thumb.jpg",
+        "synonyms": [
+            "会いにいくの."
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "summer",
+            "year": 1998
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/17394",
+            "https://anilist.co/anime/147977"
+        ],
+        "title": "Aidattandayo",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147977-5uQkfbDmocah.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147977-5uQkfbDmocah.png",
+        "synonyms": [
+            "Ai Dattanda yo",
+            "Minna no Uta",
+            "愛だったんだよ"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "summer",
+            "year": 1998
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/610",
             "https://anilist.co/anime/374",
             "https://anime-planet.com/anime/all-purpose-cultural-cat-girl-nuku-nuku-dash",
@@ -1388,36 +1431,22 @@
             "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-i-celestial-being",
             "https://anime-planet.com/anime/mobile-suit-gundam-00-special-edition-iii-return-the-world",
             "https://anime-planet.com/anime/mobile-suit-gundam-00-the-movie-a-wakening-of-the-trailblazer",
-            "https://anime-planet.com/anime/mobile-suit-gundam-0080-war-in-the-pocket",
-            "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory",
             "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory-the-mayfly-of-space",
             "https://anime-planet.com/anime/mobile-suit-gundam-0083-the-afterglow-of-zeon",
             "https://anime-planet.com/anime/mobile-suit-gundam-age",
             "https://anime-planet.com/anime/mobile-suit-gundam-age-memory-of-eden",
-            "https://anime-planet.com/anime/mobile-suit-gundam-chars-counterattack",
             "https://anime-planet.com/anime/mobile-suit-gundam-evolve",
-            "https://anime-planet.com/anime/mobile-suit-gundam-f91",
             "https://anime-planet.com/anime/mobile-suit-gundam-iron-blooded-orphans-2",
-            "https://anime-planet.com/anime/mobile-suit-gundam-ms-igloo-2-juuryoku-sensen",
-            "https://anime-planet.com/anime/mobile-suit-gundam-ms-igloo-apocalypse-0079",
-            "https://anime-planet.com/anime/mobile-suit-gundam-ms-igloo-the-hidden-one-year-war",
             "https://anime-planet.com/anime/mobile-suit-gundam-seed-after-phase-in-the-valley-of-stars",
             "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny",
             "https://anime-planet.com/anime/mobile-suit-gundam-special-edition-ii-end-of-the-world",
-            "https://anime-planet.com/anime/mobile-suit-gundam-the-08th-ms-team",
-            "https://anime-planet.com/anime/mobile-suit-gundam-the-origin",
-            "https://anime-planet.com/anime/mobile-suit-gundam-thunderbolt",
-            "https://anime-planet.com/anime/mobile-suit-gundam-unicorn",
             "https://anime-planet.com/anime/mobile-suit-gundam-wing",
             "https://anime-planet.com/anime/mobile-suit-gundam-wing-endless-waltz",
             "https://anime-planet.com/anime/mobile-suit-gundam-wing-frozen-teardrop-picture-drama-aratanaru-tatakai",
             "https://anime-planet.com/anime/mobile-suit-gundam-wing-operation-meteor",
-            "https://anime-planet.com/anime/mobile-suit-gundam-zz",
             "https://anime-planet.com/anime/mobile-suit-gundam-zz-gundam-frag",
             "https://anime-planet.com/anime/mobile-suit-sd-gundam-mk-i",
             "https://anime-planet.com/anime/mobile-suit-sd-gundam-no-gyakushuu-arashi-wo-yobu-gakuensai",
-            "https://anime-planet.com/anime/mobile-suit-victory-gundam",
-            "https://anime-planet.com/anime/mobile-suit-zeta-gundam",
             "https://anime-planet.com/anime/mokei-senshi-gunpla-builders-beginning-g",
             "https://anime-planet.com/anime/ring-of-gundam",
             "https://anime-planet.com/anime/turn-a-gundam",
@@ -1969,11 +1998,6 @@
             "https://anime-planet.com/anime/pokemon-movie-22-mewtwo-strikes-back-evolution",
             "https://anime-planet.com/anime/pokemon-pikachus-summer-vacation",
             "https://anime-planet.com/anime/pokemon-the-origin-of-mewtwo",
-            "https://anisearch.com/anime/11443",
-            "https://anisearch.com/anime/13756",
-            "https://anisearch.com/anime/3139",
-            "https://anisearch.com/anime/3551",
-            "https://anisearch.com/anime/5731",
             "https://kitsu.io/anime/1534",
             "https://kitsu.io/anime/4136",
             "https://kitsu.io/anime/41871",
@@ -2422,8 +2446,6 @@
             "https://anime-planet.com/anime/slayers-the-book-of-spells",
             "https://anime-planet.com/anime/slayers-the-motion-picture",
             "https://anime-planet.com/anime/slayers-try",
-            "https://anisearch.com/anime/2106",
-            "https://anisearch.com/anime/545",
             "https://kitsu.io/anime/493",
             "https://kitsu.io/anime/769",
             "https://livechart.me/anime/4050",

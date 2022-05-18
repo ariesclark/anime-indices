@@ -118,6 +118,35 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17402",
+            "https://anilist.co/anime/148070",
+            "https://myanimelist.net/anime/51806"
+        ],
+        "title": "Akashi",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1168/123763.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1168/123763t.jpg",
+        "synonyms": [
+            "Minna no Uta",
+            "あかし",
+            "証"
+        ],
+        "relations": [],
+        "tags": [
+            "drama",
+            "kids",
+            "school",
+            "slice of life"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/13830"
         ],
         "title": "Amanogawa Meteor Shower",
@@ -1282,12 +1311,10 @@
             "From Kokuriko Hill",
             "From Up On Poppy Hill",
             "From Up on Poppy Hill",
-            "From up on Poppy Hill",
             "Kokuriko Saka kara",
             "Kokuriko-Zaka Kara",
             "Kokuriko-saka kara",
             "Kokuriko-zaka kara",
-            "Kokurikozaka Kara",
             "Kokurikozaka kara",
             "Kukkulan tyttö, sataman poika",
             "La Colina de las Amapolas",
@@ -2886,6 +2913,7 @@
             "La croisée dans un labyrinthe étranger Special",
             "ikokumeiro",
             "いこくめいろのくろわーぜじあにめーしょん",
+            "异国迷宫的十字路口",
             "異国迷路のクロワーゼ",
             "異国迷路のクロワーゼ The Animation",
             "異国迷路のクロワーゼ The Animation La croisée dans un labyrinthe étranger",
@@ -6251,10 +6279,7 @@
             "One Piece: Episode of Alabasta - Prologue",
             "One Piece: Episode of Alabasta - Sabaku no Ōjo to Kaizoku-tachi Tokubetsu-hen"
         ],
-        "relations": [
-            "https://anisearch.com/anime/2227",
-            "https://anisearch.com/anime/3965"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "adventure",
@@ -7637,9 +7662,7 @@
             "World Masterpiece Theater Complete Edition: Mina and Porphyras",
             "世界名作劇場・完結版 ポルフィの長い旅"
         ],
-        "relations": [
-            "https://anisearch.com/anime/4582"
-        ],
+        "relations": [],
         "tags": [
             "adventure",
             "comedy",
@@ -9831,7 +9854,6 @@
             "school clubs",
             "school life",
             "seinen",
-            "shoujo",
             "shoujo ai",
             "shoujo-ai",
             "slapstick",

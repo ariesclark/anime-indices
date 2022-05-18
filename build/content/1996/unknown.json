@@ -53,6 +53,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/baixue-gongzhu-yu-gingwa-wangzi",
             "https://myanimelist.net/anime/43834"
         ],
         "title": "Baixue Gongzhu Yu Gingwa Wangzi",
@@ -63,10 +64,13 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1415/122453t.jpg",
         "synonyms": [
             "Snow White and the Frog Prince",
+            "Snow White and the Prince of Frogs",
             "白雪公主與青蛙王子"
         ],
         "relations": [],
         "tags": [
+            "based on a fairy tale",
+            "chinese animation",
             "fantasy",
             "kids"
         ],
@@ -102,6 +106,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/boshi-wa-dou-bianselong",
             "https://myanimelist.net/anime/43836"
         ],
         "title": "Boshi Wa Dou Bianselong",
@@ -115,8 +120,10 @@
         ],
         "relations": [],
         "tags": [
+            "chinese animation",
             "fantasy",
-            "kids"
+            "kids",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -127,7 +134,7 @@
         "sources": [
             "https://anilist.co/anime/148411"
         ],
-        "title": "Bugi Ugi Gorila",
+        "title": "Bugi Ugi Gorilla",
         "type": "special",
         "episodes": 1,
         "status": "finished",
@@ -199,6 +206,30 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/149087"
+        ],
+        "title": "Dou Bianselong",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b149087-W4Sga56QDfTn.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b149087-W4Sga56QDfTn.png",
+        "synonyms": [
+            "博士蛙斗变色龙",
+            "博士蛙的故事《斗变色龙》",
+            "斗变色龙"
+        ],
+        "relations": [],
+        "tags": [
+            "fantasy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1996
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/grm-the-record-of-garm-war",
             "https://myanimelist.net/anime/45571"
         ],
@@ -245,6 +276,34 @@
             "action",
             "shounen",
             "sports"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1996
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/kaixin-jie",
+            "https://myanimelist.net/anime/43943"
+        ],
+        "title": "Kaixin Jie",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "Happy Street",
+            "开心街"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -504,6 +563,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/xiao-zhu-heng-heng",
             "https://myanimelist.net/anime/43942"
         ],
         "title": "Xiao Zhu Heng Heng",
@@ -518,8 +578,13 @@
         ],
         "relations": [],
         "tags": [
+            "animal protagonists",
             "anthropomorphic",
-            "kids"
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "non-human protagonists",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -528,6 +593,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/jin-jin-and-the-panda-patrol",
             "https://myanimelist.net/anime/43944"
         ],
         "title": "Xiongmao Jing Jing",
@@ -537,13 +603,19 @@
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "Jin Jin and the Panda Patrol",
             "Panda Jing Jing",
             "熊猫京京"
         ],
         "relations": [],
         "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
             "fantasy",
-            "kids"
+            "kids",
+            "pandas"
         ],
         "date": {
             "season": "unknown",

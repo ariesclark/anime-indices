@@ -496,6 +496,26 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17400"
+        ],
+        "title": "Ai o Kite",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anidb.net/images/main/272968.jpg",
+        "thumbnail": "https://cdn.anidb.net/images/main/272968.jpg-thumb.jpg",
+        "synonyms": [
+            "愛を着て"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "winter",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/15983",
             "https://anilist.co/anime/128872",
             "https://anime-planet.com/anime/aikatsu-planet",
@@ -1699,6 +1719,8 @@
             "https://anilist.co/anime/103712",
             "https://anilist.co/anime/1239",
             "https://anilist.co/anime/21462",
+            "https://anime-planet.com/anime/bishoujo-senshi-sailor-moon-cosmos-movie-1",
+            "https://anime-planet.com/anime/bishoujo-senshi-sailor-moon-cosmos-movie-2",
             "https://anime-planet.com/anime/pretty-guardian-sailor-moon-crystal",
             "https://anime-planet.com/anime/pretty-guardian-sailor-moon-crystal-2016",
             "https://anime-planet.com/anime/pretty-guardian-sailor-moon-eternal-movie-2",
@@ -1748,6 +1770,7 @@
             "magic",
             "magical girl",
             "mahou shoujo",
+            "mythology",
             "primarily female cast",
             "primarily teen cast",
             "reincarnation",
@@ -2787,7 +2810,6 @@
             "https://anidb.net/anime/266",
             "https://anilist.co/anime/113653",
             "https://anilist.co/anime/235",
-            "https://anisearch.com/anime/1721",
             "https://livechart.me/anime/319",
             "https://livechart.me/anime/4579",
             "https://livechart.me/anime/4615",
@@ -3241,9 +3263,6 @@
             "https://anime-planet.com/anime/dr-stone-ryuusui",
             "https://anime-planet.com/anime/dr-stone-stone-wars-eve-of-the-battle",
             "https://anime-planet.com/anime/hatena-koe-dake-ga",
-            "https://anisearch.com/anime/13989",
-            "https://anisearch.com/anime/15673",
-            "https://anisearch.com/anime/16097",
             "https://kitsu.io/anime/42080",
             "https://kitsu.io/anime/44289",
             "https://kitsu.io/anime/45615",
@@ -5787,7 +5806,8 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1025/111962.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1025/111962t.jpg",
         "synonyms": [
-            "IDOLY PRIDE"
+            "IDOLY PRIDE",
+            "ไอดอลลีไพรด์"
         ],
         "relations": [
             "https://anilist.co/anime/142967",
@@ -5865,7 +5885,7 @@
         ],
         "title": "Ikinuke! Bakusou! Kusohamu-chan!",
         "type": "ona",
-        "episodes": 80,
+        "episodes": 81,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1950/113662.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1950/113662t.jpg",
@@ -6281,7 +6301,10 @@
             "Низкоуровневый Томодзаки",
             "Низькорівневий персонаж Томозакі",
             "เกมพลิกโฉมนายกระจอก",
-            "弱キャラ友崎くん"
+            "弱キャラ友崎くん",
+            "弱势角色友崎同学",
+            "弱势角色友崎君",
+            "弱角友崎同学"
         ],
         "relations": [
             "https://anidb.net/anime/17134",
@@ -7677,6 +7700,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tayo-and-little-wizards",
             "https://myanimelist.net/anime/51753"
         ],
         "title": "Madeob Bus Tayo",
@@ -7691,11 +7715,20 @@
             "마법버스 타요"
         ],
         "relations": [
+            "https://anime-planet.com/anime/lunas-magic-class",
+            "https://anime-planet.com/anime/tayo-the-little-bus",
             "https://myanimelist.net/anime/38631",
             "https://myanimelist.net/anime/51756"
         ],
         "tags": [
-            "kids"
+            "cars",
+            "cg animation",
+            "family friendly",
+            "fantasy",
+            "kids",
+            "korean animation",
+            "non-human protagonists",
+            "short episodes"
         ],
         "date": {
             "season": "winter",
@@ -8000,16 +8033,7 @@
             "Miraculous World: New York, United Heroez",
             "미라큘러스 월드 : 뉴욕, 하나 된 영웅들"
         ],
-        "relations": [
-            "https://anisearch.com/anime/11124",
-            "https://anisearch.com/anime/12133",
-            "https://anisearch.com/anime/12169",
-            "https://anisearch.com/anime/13153",
-            "https://anisearch.com/anime/14205",
-            "https://anisearch.com/anime/14481",
-            "https://anisearch.com/anime/16892",
-            "https://anisearch.com/anime/17074"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "action comedy",
@@ -8149,6 +8173,7 @@
         "sources": [
             "https://anidb.net/anime/16147",
             "https://anilist.co/anime/129706",
+            "https://anime-planet.com/anime/zutomayo-mune-no-kemuri",
             "https://anisearch.com/anime/16479",
             "https://myanimelist.net/anime/47543"
         ],
@@ -8162,6 +8187,8 @@
             "One's Mind",
             "One‘s Mind",
             "ZUTOMAYO - One‘s Mind",
+            "Zutomayo: Mune no Kemuri",
+            "Zutomayo: One's Mind",
             "Zutto Mayonaka de Ii no ni. - Mune no Kemuri",
             "Zutto Mayonaka de Ii no ni.: Mune no Kemuri",
             "Zutto Mayonaka de Iinoni.: One`s Mind",
@@ -8173,8 +8200,12 @@
             "https://anilist.co/anime/131755"
         ],
         "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "dogs",
             "independent anime",
             "music",
+            "non-human protagonists",
             "psychological",
             "supernatural"
         ],
@@ -8850,6 +8881,30 @@
             "kids",
             "non-human protagonists",
             "short episodes",
+            "slice of life"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/149040"
+        ],
+        "title": "Ooya-san to Boku 3",
+        "type": "tv",
+        "episodes": 5,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b149040-N6sO0XdX8m1v.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b149040-N6sO0XdX8m1v.jpg",
+        "synonyms": [
+            "大家さんと僕3"
+        ],
+        "relations": [
+            "https://anilist.co/anime/149039"
+        ],
+        "tags": [
             "slice of life"
         ],
         "date": {
@@ -9614,6 +9669,7 @@
             "PUI PUI CAVY-CAR",
             "PUI PUI MOLCAR",
             "PUI PUI Molcar",
+            "PUI PUI มอลคาร์ (รถหนูตะเภา)",
             "PUI PUI モルカー",
             "Pui-pui ! Rongeurs à moteur"
         ],
@@ -10445,7 +10501,6 @@
             "https://anidb.net/anime/14946",
             "https://anilist.co/anime/16381",
             "https://anime-planet.com/anime/santa-company-christmas-no-himitsu",
-            "https://anisearch.com/anime/14459",
             "https://kitsu.io/anime/42522",
             "https://livechart.me/anime/352",
             "https://livechart.me/anime/9463",
@@ -11236,6 +11291,7 @@
             "https://livechart.me/anime/9996",
             "https://myanimelist.net/anime/38524",
             "https://myanimelist.net/anime/48583",
+            "https://myanimelist.net/anime/49627",
             "https://notify.moe/anime/g9nvf6wMR",
             "https://notify.moe/anime/k8I25a-ig"
         ],
@@ -12134,7 +12190,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1271/109841t.jpg",
         "synonyms": [
             "Meine Wiedergeburt als Schleim in einer anderen Welt (2021)",
-            "Meine Wiedergeburt als Schleim in einer anderen Welt Season 2",
+            "Meine Wiedergeburt als Schleim in einer anderen Welt Staffel 2",
             "Moi, quand je me réincarne en Slime (2021)",
             "Moi, quand je me réincarne en Slime (Saison 2)",
             "Moi, quand je me réincarne en Slime Saison 2",
@@ -12177,9 +12233,6 @@
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-season-2-veldoras-journal",
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-veldoras-journal",
             "https://anime-planet.com/anime/the-slime-diaries-that-time-i-got-reincarnated-as-a-slime",
-            "https://anisearch.com/anime/13436",
-            "https://anisearch.com/anime/15098",
-            "https://anisearch.com/anime/16435",
             "https://kitsu.io/anime/41024",
             "https://kitsu.io/anime/43361",
             "https://kitsu.io/anime/43897",
@@ -12280,6 +12333,7 @@
             "That Time I Got Reincarnated as a Slime Episodio 24.9. Digresión: Hinata Sakaguchi",
             "That Time I Got Reincarnated as a Slime Season 2 Episode 24.9",
             "That Time I Got Reincarnated as a Slime Season 2 Episode 24.9 – Digression: Hinata Sakaguchi",
+            "That Time I Got Reincarnated as a Slime Season 2: Digression - Hinata Sakaguchi",
             "That Time I Got Reincarnated as a Slime: Digression - Hinata Sakaguchi",
             "That Time I got Reincarnated as a Slime Episode 24.9",
             "転生したらスライムだった件 閑話: ヒナタ・サカグチ",
@@ -12312,6 +12366,7 @@
             "modern knowledge",
             "monster",
             "monsters",
+            "mythology",
             "non-human protagonists",
             "recap",
             "reincarnation",
@@ -13096,7 +13151,16 @@
             "『ディズニー ツイステッドワンダーランド』1周年記念PV"
         ],
         "relations": [
-            "https://anime-planet.com/anime/disney-twisted-wonderland"
+            "https://anime-planet.com/anime/disney-twisted-wonderland",
+            "https://anime-planet.com/anime/disney-twisted-wonderland-2-shuunen-kinen-pv",
+            "https://anime-planet.com/anime/disney-twisted-wonderland-heartslabyul-pv",
+            "https://anime-planet.com/anime/disney-twisted-wonderland-ignihyde-pv",
+            "https://anime-planet.com/anime/disney-twisted-wonderland-octavinelle-pv",
+            "https://anime-planet.com/anime/disney-twisted-wonderland-op",
+            "https://anime-planet.com/anime/disney-twisted-wonderland-pomefiore-pv",
+            "https://anime-planet.com/anime/disney-twisted-wonderland-savanaclaw-pv",
+            "https://anime-planet.com/anime/disney-twisted-wonderland-scarabia-pv",
+            "https://anime-planet.com/anime/disney-twisted-wonderland-scary-monsters-pv"
         ],
         "tags": [
             "based on a mobile game",
@@ -13217,8 +13281,6 @@
             "https://anilist.co/anime/145608",
             "https://anilist.co/anime/98514",
             "https://anime-planet.com/anime/uma-musume-pretty-derby",
-            "https://anisearch.com/anime/12470",
-            "https://anisearch.com/anime/17166",
             "https://kitsu.io/anime/13485",
             "https://livechart.me/anime/2630",
             "https://livechart.me/anime/3272",
@@ -14085,7 +14147,9 @@
         "status": "finished",
         "picture": "https://cdn.anime-planet.com/anime/primary/world-before-you-end-1.webp?t=1648517554",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/world-before-you-end-1-285x400.webp?t=1648517554",
-        "synonyms": [],
+        "synonyms": [
+            "Sekai ga Horobiru Mae ni Kimi ni Aitai"
+        ],
         "relations": [],
         "tags": [
             "drama",

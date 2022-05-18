@@ -71,6 +71,61 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/15977",
+            "https://anilist.co/anime/128344",
+            "https://anime-planet.com/anime/argonavis-from-bang-dream-movie",
+            "https://anisearch.com/anime/16992",
+            "https://livechart.me/anime/10322",
+            "https://myanimelist.net/anime/45731",
+            "https://notify.moe/anime/ooAM_vYGR"
+        ],
+        "title": "Argonavis Movie: Axia",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1227/123814.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1227/123814t.jpg",
+        "synonyms": [
+            "ARGONAVIS from BanG Dream! Movie",
+            "Argonavis AXIA",
+            "Argonavis from BanG Dream! Movie",
+            "Argonavis from Bang Dream! Movie",
+            "Gekijouban Argonavis from Bang Dream!",
+            "Gekijouban Argonavis: Axia",
+            "Gekijōban Argonavis from Bang Dream!",
+            "劇場版 ARGONAVIS from BanG Dream!",
+            "劇場版「アルゴナビス from BanG Dream!」（仮題）",
+            "劇場版アルゴナビス AXIA",
+            "劇場版アルゴナビス AXIA（アクシア）",
+            "劇場版アルゴナビス アクシア"
+        ],
+        "relations": [
+            "https://anidb.net/anime/15256",
+            "https://anilist.co/anime/113051",
+            "https://anime-planet.com/anime/argonavis-from-bang-dream-animation",
+            "https://anime-planet.com/anime/argonavis-movie-ryuusei-no-obligato",
+            "https://livechart.me/anime/10567",
+            "https://livechart.me/anime/9667",
+            "https://myanimelist.net/anime/40677",
+            "https://myanimelist.net/anime/49471",
+            "https://notify.moe/anime/DQN9pbUZg",
+            "https://notify.moe/anime/YycBQxG7g"
+        ],
+        "tags": [
+            "band",
+            "drama",
+            "music",
+            "primarily adult cast",
+            "primarily male cast",
+            "showbiz"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/15449",
             "https://anilist.co/anime/116674",
             "https://anime-planet.com/anime/bleach-sennen-kessen-hen",
@@ -146,6 +201,103 @@
             "time skip",
             "tragedy",
             "war"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/16519",
+            "https://anilist.co/anime/137822",
+            "https://anime-planet.com/anime/blue-lock",
+            "https://anisearch.com/anime/16520",
+            "https://kitsu.io/anime/44973",
+            "https://livechart.me/anime/10687",
+            "https://myanimelist.net/anime/49596",
+            "https://notify.moe/anime/nThRrG77R"
+        ],
+        "title": "Blue Lock",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1400/123773.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1400/123773t.jpg",
+        "synonyms": [
+            "BLUE LOCK",
+            "BLUE LOCK ขังดวลแข้ง",
+            "BLUELOCK",
+            "ブルーロック"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "athletics",
+            "augmented reality",
+            "based on a manga",
+            "battle royale",
+            "drama",
+            "ensemble cast",
+            "football",
+            "high school",
+            "male protagonist",
+            "present",
+            "primarily male cast",
+            "primarily teen cast",
+            "school",
+            "shounen",
+            "slice of life",
+            "soccer",
+            "sports",
+            "team sports",
+            "tragedy"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/16706",
+            "https://anilist.co/anime/139310",
+            "https://anime-planet.com/anime/boku-ga-ai-shita-subete-no-kimi-e",
+            "https://anisearch.com/anime/16599",
+            "https://kitsu.io/anime/45220",
+            "https://livechart.me/anime/10791",
+            "https://myanimelist.net/anime/49834",
+            "https://notify.moe/anime/IF6CMCS7R"
+        ],
+        "title": "Boku ga Aishita Subete no Kimi e",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1149/123760.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1149/123760t.jpg",
+        "synonyms": [
+            "Boku ga Ai Shita Subete no Kimi e",
+            "Nhắn gửi tất cả các em, những người tôi đã yêu",
+            "To All of You That I Loved",
+            "僕が愛したすべての君へ"
+        ],
+        "relations": [
+            "https://anidb.net/anime/16707",
+            "https://anilist.co/anime/139311",
+            "https://anime-planet.com/anime/kimi-wo-ai-shita-hitori-no-boku-e",
+            "https://kitsu.io/anime/45219",
+            "https://livechart.me/anime/10792",
+            "https://myanimelist.net/anime/49835"
+        ],
+        "tags": [
+            "alternate universe",
+            "alternative present",
+            "based on a light novel",
+            "drama",
+            "present",
+            "romance",
+            "school life",
+            "sci-fi"
         ],
         "date": {
             "season": "fall",
@@ -509,6 +661,42 @@
             "supernatural",
             "survival",
             "tragedy"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/148970",
+            "https://kitsu.io/anime/46114"
+        ],
+        "title": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://media.kitsu.io/anime/46114/poster_image/small-3f60056409c4448a1c674c69652aff50.jpeg",
+        "thumbnail": "https://media.kitsu.io/anime/46114/poster_image/tiny-546bc11cdcb8e862ae4a1a0bcfe0c7ad.jpeg",
+        "synonyms": [
+            "Legend of the Galactic Heroes: Die Neue These - Intrigue",
+            "銀河英雄伝説 Die Neue These 策謀"
+        ],
+        "relations": [
+            "https://anilist.co/anime/124032",
+            "https://kitsu.io/anime/44169"
+        ],
+        "tags": [
+            "action",
+            "drama",
+            "military",
+            "politics",
+            "sci-fi",
+            "science fiction",
+            "shipboard",
+            "space",
+            "space battles",
+            "war"
         ],
         "date": {
             "season": "fall",
@@ -903,6 +1091,53 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16707",
+            "https://anilist.co/anime/139311",
+            "https://anime-planet.com/anime/kimi-wo-ai-shita-hitori-no-boku-e",
+            "https://anisearch.com/anime/16598",
+            "https://kitsu.io/anime/45219",
+            "https://livechart.me/anime/10792",
+            "https://myanimelist.net/anime/49835",
+            "https://notify.moe/anime/zV_WnCI7g"
+        ],
+        "title": "Kimi wo Aishita Hitori no Boku e",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1706/123761.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1706/123761t.jpg",
+        "synonyms": [
+            "Kimi o Aishita Hitori no Boku e",
+            "Kimi wo Ai Shita Hitori no Boku e",
+            "Nhắn gửi một tôi, người đã yêu em",
+            "To the Only Me Who Loved You",
+            "君を愛したひとりの僕へ"
+        ],
+        "relations": [
+            "https://anidb.net/anime/16706",
+            "https://anilist.co/anime/139310",
+            "https://anime-planet.com/anime/boku-ga-ai-shita-subete-no-kimi-e",
+            "https://kitsu.io/anime/45220",
+            "https://livechart.me/anime/10791",
+            "https://myanimelist.net/anime/49834"
+        ],
+        "tags": [
+            "alternate universe",
+            "alternative present",
+            "based on a light novel",
+            "drama",
+            "present",
+            "romance",
+            "school life",
+            "sci-fi"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/17038",
             "https://anilist.co/anime/142701",
             "https://anime-planet.com/anime/koukyuu-no-karasu",
@@ -933,6 +1168,137 @@
             "magic",
             "mystery",
             "supernatural"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/legend-of-the-galactic-heroes-die-neue-these-fourth-1",
+            "https://livechart.me/anime/11215"
+        ],
+        "title": "Legend of the Galactic Heroes: Die Neue These Fourth 1",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/legend-of-the-galactic-heroes-die-neue-these-fourth-1-1.webp?t=1652420952",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/legend-of-the-galactic-heroes-die-neue-these-fourth-1-1-285x399.webp?t=1652420952",
+        "synonyms": [
+            "Ginga Eiyuu Densetsu: Die Neue These - Sakubou 1",
+            "Legend of the Galactic Heroes: Die Neue These Season 4 Part 1",
+            "銀河英雄伝説 Die Neue These 策謀　第一章"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/legend-of-the-galactic-heroes-die-neue-these-fourth-2",
+            "https://anime-planet.com/anime/legend-of-the-galactic-heroes-die-neue-these-third-3",
+            "https://livechart.me/anime/10151",
+            "https://livechart.me/anime/10832",
+            "https://livechart.me/anime/10833",
+            "https://livechart.me/anime/11216",
+            "https://livechart.me/anime/11217",
+            "https://livechart.me/anime/2887",
+            "https://livechart.me/anime/2888",
+            "https://livechart.me/anime/2889",
+            "https://livechart.me/anime/436"
+        ],
+        "tags": [
+            "action",
+            "based on a novel",
+            "drama",
+            "military",
+            "sci fi",
+            "sci-fi",
+            "space",
+            "space opera"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/legend-of-the-galactic-heroes-die-neue-these-fourth-2",
+            "https://livechart.me/anime/11216"
+        ],
+        "title": "Legend of the Galactic Heroes: Die Neue These Fourth 2",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "synonyms": [
+            "Ginga Eiyuu Densetsu: Die Neue These - Sakubou 2",
+            "Legend of the Galactic Heroes: Die Neue These Season 4 Part 2",
+            "銀河英雄伝説 Die Neue These 策謀　第二章"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/legend-of-the-galactic-heroes-die-neue-these-fourth-1",
+            "https://anime-planet.com/anime/legend-of-the-galactic-heroes-die-neue-these-fourth-3",
+            "https://livechart.me/anime/10151",
+            "https://livechart.me/anime/10832",
+            "https://livechart.me/anime/10833",
+            "https://livechart.me/anime/11215",
+            "https://livechart.me/anime/11217",
+            "https://livechart.me/anime/2887",
+            "https://livechart.me/anime/2888",
+            "https://livechart.me/anime/2889",
+            "https://livechart.me/anime/436"
+        ],
+        "tags": [
+            "action",
+            "based on a novel",
+            "drama",
+            "military",
+            "sci fi",
+            "sci-fi",
+            "space",
+            "space opera"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/legend-of-the-galactic-heroes-die-neue-these-fourth-3",
+            "https://livechart.me/anime/11217"
+        ],
+        "title": "Legend of the Galactic Heroes: Die Neue These Fourth 3",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "synonyms": [
+            "Ginga Eiyuu Densetsu: Die Neue These - Sakubou 3",
+            "Legend of the Galactic Heroes: Die Neue These Season 4 Part 3",
+            "銀河英雄伝説 Die Neue These 策謀　第三章"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/legend-of-the-galactic-heroes-die-neue-these-fourth-2",
+            "https://livechart.me/anime/10151",
+            "https://livechart.me/anime/10832",
+            "https://livechart.me/anime/10833",
+            "https://livechart.me/anime/11215",
+            "https://livechart.me/anime/11216",
+            "https://livechart.me/anime/2887",
+            "https://livechart.me/anime/2888",
+            "https://livechart.me/anime/2889",
+            "https://livechart.me/anime/436"
+        ],
+        "tags": [
+            "action",
+            "based on a novel",
+            "drama",
+            "military",
+            "sci fi",
+            "sci-fi",
+            "space",
+            "space opera"
         ],
         "date": {
             "season": "fall",
@@ -1109,6 +1475,152 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16841",
+            "https://anilist.co/anime/140005",
+            "https://anime-planet.com/anime/detective-conan-the-culprit-hanazawa",
+            "https://anisearch.com/anime/16786",
+            "https://kitsu.io/anime/45282",
+            "https://livechart.me/anime/10828",
+            "https://myanimelist.net/anime/50010",
+            "https://notify.moe/anime/6yzCQMcng"
+        ],
+        "title": "Meitantei Conan: Hannin no Hanzawa-san",
+        "type": "ona",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1199/118528.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1199/118528t.jpg",
+        "synonyms": [
+            "Detective Conan: Hannin no Hanzawa-san",
+            "Detective Conan: Hanzawa the Criminal",
+            "Detective Conan: The Culprit Hanazawa",
+            "Detective Conan: The Culprit Hanzawa",
+            "Detektiv Conan: The Culprit Hanzawa",
+            "Hanzawa the Criminal",
+            "The Culprit Hanzawa",
+            "ยอดนักสืบจิ๋วโคนัน ภาค ฮันซาวะ ตัวร้ายสุดโหด",
+            "名探偵コナン 犯人の犯沢さん"
+        ],
+        "relations": [
+            "https://anidb.net/anime/266",
+            "https://anilist.co/anime/235",
+            "https://anime-planet.com/anime/detective-conan",
+            "https://livechart.me/anime/319",
+            "https://livechart.me/anime/4579",
+            "https://livechart.me/anime/4615",
+            "https://livechart.me/anime/4634",
+            "https://livechart.me/anime/4688",
+            "https://livechart.me/anime/4710",
+            "https://livechart.me/anime/4732",
+            "https://livechart.me/anime/4783",
+            "https://livechart.me/anime/4809",
+            "https://livechart.me/anime/6391",
+            "https://livechart.me/anime/6392",
+            "https://livechart.me/anime/6400",
+            "https://livechart.me/anime/6411",
+            "https://livechart.me/anime/6441",
+            "https://livechart.me/anime/8185",
+            "https://myanimelist.net/anime/235",
+            "https://notify.moe/anime/lWnhcKiig"
+        ],
+        "tags": [
+            "based on a manga",
+            "comedy",
+            "crime",
+            "mystery",
+            "parody",
+            "shounen",
+            "slice of life",
+            "surreal comedy"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/16915",
+            "https://anilist.co/anime/140439",
+            "https://anime-planet.com/anime/mob-psycho-100-iii",
+            "https://anisearch.com/anime/16661",
+            "https://kitsu.io/anime/45338",
+            "https://livechart.me/anime/10841",
+            "https://myanimelist.net/anime/50172",
+            "https://notify.moe/anime/_qgGuTd7g"
+        ],
+        "title": "Mob Psycho 100 III",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1448/118899.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1448/118899t.jpg",
+        "synonyms": [
+            "Mob Psycho 100 3rd Season",
+            "Mob Psycho 100 Season 3",
+            "Mob Psycho 3rd Season",
+            "Mob Psycho Hyaku",
+            "Mob Psycho Hyaku Season 3",
+            "Mob Psycho One Hundred",
+            "Mob Psycho One Hundred 3rd Season",
+            "ม็อบไซโค 100 คนพลังจิต ภาค 3",
+            "モブサイコ III",
+            "モブサイコ100 III",
+            "モブサイコ100 Ⅲ"
+        ],
+        "relations": [
+            "https://anidb.net/anime/13939",
+            "https://anilist.co/anime/101338",
+            "https://anime-planet.com/anime/mob-psycho-100-ii",
+            "https://kitsu.io/anime/41071",
+            "https://livechart.me/anime/1936",
+            "https://livechart.me/anime/2944",
+            "https://livechart.me/anime/3163",
+            "https://livechart.me/anime/4276",
+            "https://livechart.me/anime/9406",
+            "https://myanimelist.net/anime/37510",
+            "https://notify.moe/anime/sn4K2Fmmg"
+        ],
+        "tags": [
+            "action",
+            "action comedy",
+            "based on a manga",
+            "comedy",
+            "coming of age",
+            "demons",
+            "dissociative identities",
+            "exorcists",
+            "ghost",
+            "ghosts",
+            "hero of weak character",
+            "heterosexual",
+            "male protagonist",
+            "parody",
+            "philosophy",
+            "plot continuity",
+            "present",
+            "primarily teen cast",
+            "psi-powers",
+            "psychic powers",
+            "psychological",
+            "psychological drama",
+            "rural",
+            "satire",
+            "school life",
+            "shounen",
+            "slice of life",
+            "super power",
+            "supernatural",
+            "superpowers",
+            "urban"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16700",
             "https://anilist.co/anime/139274",
             "https://anime-planet.com/anime/mobile-suit-gundam-suisei-no-majo",
@@ -1146,6 +1658,7 @@
             "action",
             "action drama",
             "drama",
+            "female protagonist",
             "mecha",
             "original work",
             "piloted robot",
@@ -1181,6 +1694,7 @@
             "Muv-Luv ALTERNATIVE (2022)",
             "Muv-Luv Alternative (2022)",
             "Muv-Luv Alternative 2",
+            "Muv-Luv Alternative Season 2",
             "Muv-Luv Alternative The Animation 2",
             "マブラヴ オルタネイティヴ",
             "マブラヴ オルタネイティヴ (2022)",
@@ -2034,6 +2548,52 @@
             "supernatural drama",
             "survival",
             "tragedy"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/15839",
+            "https://anilist.co/anime/125910",
+            "https://anime-planet.com/anime/vazzrock-the-animation",
+            "https://anisearch.com/anime/15733",
+            "https://livechart.me/anime/10212",
+            "https://myanimelist.net/anime/43771",
+            "https://notify.moe/anime/4RJR80TMg"
+        ],
+        "title": "Vazzrock The Animation",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1423/123777.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1423/123777t.jpg",
+        "synonyms": [
+            "VAZZROCK THE ANIMATION",
+            "VazzRock the Animation",
+            "Vazzrock the Animation"
+        ],
+        "relations": [
+            "https://anilist.co/anime/97904",
+            "https://anime-planet.com/anime/tsukipro-the-animation",
+            "https://anime-planet.com/anime/tsukiuta-the-animation",
+            "https://livechart.me/anime/11172",
+            "https://livechart.me/anime/1291",
+            "https://livechart.me/anime/2441",
+            "https://livechart.me/anime/3028",
+            "https://livechart.me/anime/9207",
+            "https://myanimelist.net/anime/33037",
+            "https://myanimelist.net/anime/37008",
+            "https://notify.moe/anime/IPfKaDrZg",
+            "https://notify.moe/anime/sE06pKimR"
+        ],
+        "tags": [
+            "idols",
+            "idols (male)",
+            "music",
+            "showbiz"
         ],
         "date": {
             "season": "fall",

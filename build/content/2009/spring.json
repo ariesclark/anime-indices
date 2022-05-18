@@ -840,8 +840,6 @@
             "https://anime-planet.com/anime/chis-sweet-adventure-2nd-season",
             "https://anime-planet.com/anime/chis-sweet-home",
             "https://anime-planet.com/anime/chis-sweet-home-ova",
-            "https://anisearch.com/anime/43",
-            "https://anisearch.com/anime/7601",
             "https://kitsu.io/anime/3293",
             "https://kitsu.io/anime/5166",
             "https://myanimelist.net/anime/3841",
@@ -2198,6 +2196,16 @@
             "https://anisearch.com/anime/2362",
             "https://kitsu.io/anime/4447",
             "https://kitsu.io/anime/7776",
+            "https://livechart.me/anime/2137",
+            "https://livechart.me/anime/2138",
+            "https://livechart.me/anime/3986",
+            "https://livechart.me/anime/4478",
+            "https://livechart.me/anime/4480",
+            "https://livechart.me/anime/5429",
+            "https://livechart.me/anime/6445",
+            "https://livechart.me/anime/6449",
+            "https://livechart.me/anime/6535",
+            "https://livechart.me/anime/9188",
             "https://myanimelist.net/anime/317",
             "https://myanimelist.net/anime/6151",
             "https://notify.moe/anime/LVf35Fmmg",
@@ -2541,6 +2549,7 @@
             "military",
             "monster",
             "mystery",
+            "necromancy",
             "philosophy",
             "plot continuity",
             "politics",
@@ -2558,6 +2567,7 @@
             "tanned skin",
             "tomboy",
             "tragedy",
+            "trains",
             "tsundere",
             "violence",
             "vore",
@@ -3138,6 +3148,7 @@
             "フォーリング・ダウン"
         ],
         "relations": [
+            "https://anilist.co/anime/5630",
             "https://anime-planet.com/anime/eden-of-the-east",
             "https://anime-planet.com/anime/eden-of-the-east-compilation-air-communication",
             "https://anime-planet.com/anime/eden-of-the-east-movie-i-the-king-of-eden",
@@ -5285,51 +5296,12 @@
     {
         "sources": [
             "https://anilist.co/anime/6736",
-            "https://kitsu.io/anime/4693",
-            "https://notify.moe/anime/3xP65Fiig"
-        ],
-        "title": "Mouryou no Hako Special",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/4693/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/4693/tiny.jpg",
-        "synonyms": [
-            "Chuzenji Atsuko no Jikenbo 'Hako no Yuurei no Koto'",
-            "Mouryou no Hako - Hako no Yuurei no Koto",
-            "The Case Files of Atsuko Chuzenji: 'The Case of the Spirits in the Boxes'",
-            "もうりょうのはこ",
-            "魍魎の匣"
-        ],
-        "relations": [
-            "https://anilist.co/anime/4879",
-            "https://kitsu.io/anime/3835",
-            "https://notify.moe/anime/DZp95Kiig"
-        ],
-        "tags": [
-            "detective",
-            "fantasy",
-            "female protagonist",
-            "historical",
-            "mystery",
-            "police",
-            "primarily adult cast",
-            "rural",
-            "seinen",
-            "supernatural",
-            "thriller"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/mouryou-no-hako-hako-no-yuurei-no-koto",
             "https://anisearch.com/anime/6996",
+            "https://kitsu.io/anime/4693",
             "https://livechart.me/anime/8026",
-            "https://myanimelist.net/anime/6736"
+            "https://myanimelist.net/anime/6736",
+            "https://notify.moe/anime/3xP65Fiig"
         ],
         "title": "Mouryou no Hako: Chuuzenji Atsuko no Jikenbo - Hako no Yurei no Koto",
         "type": "special",
@@ -5341,19 +5313,31 @@
             "Chuzenji Atsuko no Jikenbo 'Hako no Yuurei no Koto'",
             "Mouryou no Hako - Hako no Yuurei no Koto",
             "Mouryou no Hako Episode 14",
+            "Mouryou no Hako Special",
             "Mouryou no Hako: Hako no Yuurei no Koto",
             "Mouryou no Hako: The Case Files of Chuuzenji Atsuko - A Ghost Box",
             "Mōryō no Hako: Chūzenji Atsuko no Jikenbo - Hako no Yurei no Koto",
             "The Case Files of Atsuko Chuzenji: 'The Case of the Spirits in the Boxes'",
+            "もうりょうのはこ",
             "魍魎の匣",
             "魍魎の匣 中禅寺敦子の事件簿 箱の幽霊の事"
         ],
         "relations": [
+            "https://anilist.co/anime/4879",
             "https://anime-planet.com/anime/mouryou-no-hako",
-            "https://myanimelist.net/anime/4879"
+            "https://kitsu.io/anime/3835",
+            "https://myanimelist.net/anime/4879",
+            "https://notify.moe/anime/DZp95Kiig"
         ],
         "tags": [
+            "detective",
+            "fantasy",
+            "female protagonist",
+            "historical",
             "mystery",
+            "police",
+            "primarily adult cast",
+            "rural",
             "seinen",
             "supernatural",
             "suspense",
@@ -8012,7 +7996,6 @@
         "relations": [
             "https://anilist.co/anime/6705",
             "https://anime-planet.com/anime/tayutayu-pure-my-heart",
-            "https://anisearch.com/anime/8492",
             "https://kitsu.io/anime/4677",
             "https://myanimelist.net/anime/6705",
             "https://notify.moe/anime/vdfe5Kimg"

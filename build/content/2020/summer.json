@@ -446,6 +446,26 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17407"
+        ],
+        "title": "Ashiato",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anidb.net/images/main/272978.jpg",
+        "thumbnail": "https://cdn.anidb.net/images/main/272978.jpg-thumb.jpg",
+        "synonyms": [
+            "足跡"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "summer",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/47816"
         ],
         "title": "Ashuai 3rd Season",
@@ -813,7 +833,6 @@
             "https://anidb.net/anime/13485",
             "https://anilist.co/anime/104276",
             "https://anime-planet.com/anime/my-hero-academia-3",
-            "https://anisearch.com/anime/13910",
             "https://kitsu.io/anime/13881",
             "https://livechart.me/anime/10236",
             "https://livechart.me/anime/10814",
@@ -1445,8 +1464,7 @@
             "約會大作戰 DATE A BULLET"
         ],
         "relations": [
-            "https://anidb.net/anime/13533",
-            "https://anisearch.com/anime/12920"
+            "https://anidb.net/anime/13533"
         ],
         "tags": [
             "action",
@@ -2489,9 +2507,7 @@
             "凡人修仙传",
             "凡人修仙传 风起天南"
         ],
-        "relations": [
-            "https://anisearch.com/anime/16921"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "adventure",
@@ -3088,35 +3104,6 @@
             "the arts",
             "tragedy",
             "university"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/golden-douga-gekijou-specials",
-            "https://myanimelist.net/anime/51149"
-        ],
-        "title": "Golden Douga Gekijou Specials",
-        "type": "special",
-        "episodes": 4,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1194/121164.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1194/121164t.jpg",
-        "synonyms": [
-            "ゴールデン道画劇場"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/golden-douga-gekijou",
-            "https://anime-planet.com/anime/golden-kamuy",
-            "https://anime-planet.com/anime/golden-kamuy-season-2",
-            "https://anime-planet.com/anime/golden-kamuy-season-3",
-            "https://myanimelist.net/anime/37755"
-        ],
-        "tags": [
-            "comedy"
         ],
         "date": {
             "season": "summer",
@@ -7866,7 +7853,6 @@
             "https://anidb.net/anime/16973",
             "https://anilist.co/anime/141400",
             "https://anime-planet.com/anime/peter-grill-and-the-philosophers-time-super-extra",
-            "https://anisearch.com/anime/16791",
             "https://kitsu.io/anime/45490",
             "https://livechart.me/anime/10884",
             "https://myanimelist.net/anime/50348",
@@ -9138,7 +9124,6 @@
             "heroine of strong character",
             "horror",
             "isolated society",
-            "iyashikei",
             "kaiju",
             "kuudere",
             "male protagonist",
@@ -10565,6 +10550,8 @@
             "https://anime-planet.com/anime/uma-musume-pretty-derby",
             "https://kitsu.io/anime/13485",
             "https://livechart.me/anime/10163",
+            "https://livechart.me/anime/11205",
+            "https://livechart.me/anime/11206",
             "https://livechart.me/anime/2630",
             "https://livechart.me/anime/3272",
             "https://myanimelist.net/anime/35249",
@@ -10779,6 +10766,7 @@
             "bullying",
             "college",
             "comedy",
+            "daily life",
             "ecchi",
             "episodic",
             "female protagonist",
@@ -10838,6 +10826,7 @@
             "Violet Evergarden: O Filme",
             "Violet Evergarden: The Movie",
             "Violet Evergarden: the Movie",
+            "剧场版 紫罗兰永恒花园",
             "劇場版 ヴァイオレット・エヴァーガーデン",
             "劇場版 紫羅蘭永恆花園",
             "극장판 바이올렛 에버가든"

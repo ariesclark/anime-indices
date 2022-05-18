@@ -1,6 +1,26 @@
 [
     {
         "sources": [
+            "https://anidb.net/anime/17392"
+        ],
+        "title": "Aa Okashii ne",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anidb.net/images/main/272960.jpg",
+        "thumbnail": "https://cdn.anidb.net/images/main/272960.jpg-thumb.jpg",
+        "synonyms": [
+            "ああ おかしいね"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "spring",
+            "year": 1985
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/103771",
             "https://anime-planet.com/anime/ame-no-ten-ten",
             "https://kitsu.io/anime/14201",
