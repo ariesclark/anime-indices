@@ -70,6 +70,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/12114",
             "https://anisearch.com/anime/12119"
         ],
         "title": "A Boy",
@@ -80,9 +81,14 @@
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/12/12119.webp",
         "synonyms": [
             "Ieiri Leo x Jungle Taitei `a boy` (家入レオxジャングル大帝「a boy」)",
-            "Ieiri Leo x Jungle Taitei `a boy` (家入レオ×ジャングル大帝「a boy」)"
+            "Ieiri Leo x Jungle Taitei `a boy` (家入レオ×ジャングル大帝「a boy」)",
+            "Ieiri Leo x Jungle Taitei: \"A Boy\"",
+            "家入レオ×ジャングル大帝「a boy」"
         ],
-        "relations": [],
+        "relations": [
+            "https://anidb.net/anime/1490",
+            "https://anidb.net/anime/6652"
+        ],
         "tags": [],
         "date": {
             "season": "winter",
@@ -3225,6 +3231,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/12364",
             "https://anime-planet.com/anime/henna-omamesan",
             "https://kitsu.io/anime/12483",
             "https://livechart.me/anime/8960",
@@ -3238,10 +3245,13 @@
         "picture": "https://cdn.myanimelist.net/images/anime/7/80677.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/7/80677t.jpg",
         "synonyms": [
+            "Hen na Omame-san",
             "Mameshiba",
+            "Mameshiba x Henna Ojisan",
             "変なお豆さん"
         ],
         "relations": [
+            "https://anidb.net/anime/9829",
             "https://anime-planet.com/anime/mameshiba",
             "https://kitsu.io/anime/4918",
             "https://myanimelist.net/anime/7261",
@@ -3249,8 +3259,10 @@
         ],
         "tags": [
             "comedy",
+            "new",
             "parody",
-            "promotional"
+            "promotional",
+            "short episodes"
         ],
         "date": {
             "season": "winter",
@@ -3654,29 +3666,6 @@
             "music",
             "slice of life"
         ],
-        "date": {
-            "season": "winter",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/12114"
-        ],
-        "title": "Ieiri Leo x Jungle Taitei: \"A Boy\"",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/186466.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/186466.jpg-thumb.jpg",
-        "synonyms": [
-            "家入レオ×ジャングル大帝「a boy」"
-        ],
-        "relations": [
-            "https://anidb.net/anime/1490",
-            "https://anidb.net/anime/6652"
-        ],
-        "tags": [],
         "date": {
             "season": "winter",
             "year": 2014

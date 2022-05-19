@@ -5169,31 +5169,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16616"
-        ],
-        "title": "Hu Yao Xiao Hongniang: Mu Tiancheng Pian",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/264830.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/264830.jpg-thumb.jpg",
-        "synonyms": [
-            "狐妖小红娘 沐天城篇"
-        ],
-        "relations": [
-            "https://anidb.net/anime/12119",
-            "https://anidb.net/anime/16617"
-        ],
-        "tags": [
-            "manhua"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/15861",
             "https://anilist.co/anime/120268",
             "https://anime-planet.com/anime/hua-jianghu-zhi-gui-yexing",
@@ -5295,6 +5270,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16616",
             "https://anilist.co/anime/122672",
             "https://anime-planet.com/anime/fox-spirit-matchmaker-season-10",
             "https://kitsu.io/anime/43885",
@@ -5312,13 +5288,17 @@
             "Fox Spirit Matchmaker 10th Season",
             "Fox Spirit Matchmaker 9",
             "Fox Spirit Matchmaker Season 10",
+            "Hu Yao Xiao Hongniang: Mu Tiancheng Pian",
             "Huyao Xiao Hongniang: Mu Tiancheng Ding Dang",
             "Little Foxspirit Matchmaker Season 10",
             "狐妖小红娘 沐天城",
             "狐妖小红娘 沐天城定档",
+            "狐妖小红娘 沐天城篇",
             "狐妖小红娘 第9季"
         ],
         "relations": [
+            "https://anidb.net/anime/12119",
+            "https://anidb.net/anime/16617",
             "https://anilist.co/anime/117572",
             "https://anilist.co/anime/130323",
             "https://anime-planet.com/anime/fox-spirit-matchmaker",
@@ -5346,6 +5326,7 @@
             "fantasy",
             "historical",
             "magic",
+            "manhua",
             "non-human protagonists",
             "romance",
             "supernatural"
@@ -5705,28 +5686,8 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/15818"
-        ],
-        "title": "Jian Wang 3: Xia Gan Yi Dan Shen Jian Xin - Changpiao",
-        "type": "ona",
-        "episodes": 20,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/255004.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/255004.jpg-thumb.jpg",
-        "synonyms": [
-            "剑网3·侠肝义胆沈剑心之长漂"
-        ],
-        "relations": [
-            "https://anidb.net/anime/15941"
-        ],
-        "tags": [],
-        "date": {
-            "season": "fall",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
+            "https://anidb.net/anime/15818",
+            "https://anilist.co/anime/123379",
             "https://anime-planet.com/anime/jian-wang-3-xia-gan-yi-dan-shen-jianxin-zhi-chang-piao",
             "https://myanimelist.net/anime/44228",
             "https://notify.moe/anime/0w9rIVxMR"
@@ -5739,9 +5700,13 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1792/110429t.jpg",
         "synonyms": [
             "JX Online 3: The Adventure of Shen Jianxin in Chang'an",
+            "Jian Wang 3: Xia Gan Yi Dan Shen Jian Xin - Changpiao",
+            "Jian Wang 3: Xia Gan Yi Dan Shen Jianxin - Chang Piao",
             "剑网3·侠肝义胆沈剑心之长漂"
         ],
         "relations": [
+            "https://anidb.net/anime/15941",
+            "https://anilist.co/anime/108980",
             "https://anime-planet.com/anime/jian-wang-3-xia-gan-yi-dan-shen-jianxin",
             "https://anime-planet.com/anime/jian-wang-3-xia-gan-yi-dan-shen-jianxin-ii",
             "https://myanimelist.net/anime/44078",
@@ -5753,6 +5718,7 @@
             "cg animation",
             "chinese animation",
             "comedy",
+            "full cgi",
             "historical",
             "short episodes"
         ],

@@ -5510,6 +5510,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/12371",
             "https://kitsu.io/anime/12958",
             "https://myanimelist.net/anime/33982",
             "https://notify.moe/anime/t9BZ2Fmig"
@@ -5521,32 +5522,14 @@
         "picture": "https://cdn.myanimelist.net/images/anime/4/81787.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/4/81787t.jpg",
         "synonyms": [
-            "石山寺デジタル縁起絵巻"
+            "Ishiyama-dera Engi Emaki",
+            "石山寺デジタル縁起絵巻",
+            "石山寺縁起絵巻"
         ],
         "relations": [],
         "tags": [
             "historical"
         ],
-        "date": {
-            "season": "summer",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/12371"
-        ],
-        "title": "Ishiyama-dera Engi Emaki",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "石山寺縁起絵巻"
-        ],
-        "relations": [],
-        "tags": [],
         "date": {
             "season": "summer",
             "year": 2016

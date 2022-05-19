@@ -5429,44 +5429,25 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16617"
+            "https://anidb.net/anime/16737",
+            "https://anilist.co/anime/131991",
+            "https://anime-planet.com/anime/huaguo-shan-zhuan"
         ],
-        "title": "Hu Yao Xiao Hongniang: Liang Sheng Hua Pian",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/264831.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/264831.jpg-thumb.jpg",
-        "synonyms": [
-            "狐妖小红娘 两生花篇"
-        ],
-        "relations": [
-            "https://anidb.net/anime/16616",
-            "https://anidb.net/anime/16864"
-        ],
-        "tags": [
-            "manhua"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16737"
-        ],
-        "title": "Huaguoshan Zhuan",
+        "title": "Huaguo Shan Zhuan",
         "type": "ona",
         "episodes": 2,
         "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/265214.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/265214.jpg-thumb.jpg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/huaguo-shan-zhuan-1.jpg?t=1625908927",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/huaguo-shan-zhuan-1-190x254.jpg?t=1625908927",
         "synonyms": [
+            "Huaguoshan Zhuan",
             "花果山传"
         ],
         "relations": [],
         "tags": [
+            "action",
+            "chinese animation",
+            "fantasy",
             "short episodes"
         ],
         "date": {
@@ -5539,6 +5520,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16617",
             "https://anime-planet.com/anime/fox-spirit-matchmaker-season-11",
             "https://livechart.me/anime/10529",
             "https://myanimelist.net/anime/48694"
@@ -5553,10 +5535,14 @@
             "Enmusubi no Youko-chan",
             "Fox Spirit Matchmaker 11th Season",
             "Fox Spirit Matchmaker Season 11",
+            "Hu Yao Xiao Hongniang: Liang Sheng Hua Pian",
             "Little Foxspirit Matchmaker Season 11",
-            "狐妖小红娘 两生花"
+            "狐妖小红娘 两生花",
+            "狐妖小红娘 两生花篇"
         ],
         "relations": [
+            "https://anidb.net/anime/16616",
+            "https://anidb.net/anime/16864",
             "https://anime-planet.com/anime/fox-spirit-matchmaker",
             "https://anime-planet.com/anime/fox-spirit-matchmaker-season-10",
             "https://anime-planet.com/anime/fox-spirit-matchmaker-season-2",
@@ -5585,6 +5571,7 @@
             "drama",
             "fantasy",
             "historical",
+            "manhua",
             "non-human protagonists",
             "romance",
             "supernatural"

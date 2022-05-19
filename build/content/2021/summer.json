@@ -4700,30 +4700,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16631"
-        ],
-        "title": "Hu Yao Xiao Hongniang: Yue Hong 2",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/264921.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/264921.jpg-thumb.jpg",
-        "synonyms": [
-            "狐妖小红娘·月红2"
-        ],
-        "relations": [
-            "https://anidb.net/anime/12119"
-        ],
-        "tags": [
-            "manhua"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/138402",
             "https://myanimelist.net/anime/51076"
         ],
@@ -4749,6 +4725,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16631",
             "https://anilist.co/anime/132381",
             "https://myanimelist.net/anime/49718"
         ],
@@ -4759,6 +4736,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1933/118633.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1933/118633t.jpg",
         "synonyms": [
+            "Hu Yao Xiao Hongniang: Yue Hong 2",
             "Huyao Xiao Hongniang Web Movie",
             "狐妖小红娘 月红2",
             "狐妖小红娘·月红2",
@@ -4766,6 +4744,7 @@
             "狐妖小红娘动漫电影"
         ],
         "relations": [
+            "https://anidb.net/anime/12119",
             "https://anilist.co/anime/102600",
             "https://myanimelist.net/anime/33446"
         ],
@@ -4773,6 +4752,7 @@
             "adventure",
             "comedy",
             "historical",
+            "manhua",
             "romance",
             "supernatural"
         ],
