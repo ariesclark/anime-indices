@@ -2151,7 +2151,6 @@
         "relations": [
             "https://anilist.co/anime/124612",
             "https://anime-planet.com/anime/dogeza-i-tried-asking-while-kowtowing-isekai-hen",
-            "https://anisearch.com/anime/15667",
             "https://kitsu.io/anime/43605",
             "https://livechart.me/anime/10173",
             "https://myanimelist.net/anime/42990",
@@ -2565,7 +2564,7 @@
         ],
         "title": "Dragon Quest: Dai no Daibouken (2020)",
         "type": "tv",
-        "episodes": 77,
+        "episodes": 78,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1499/109126.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1499/109126t.jpg",
@@ -2623,6 +2622,7 @@
             "dungeon",
             "fantasy",
             "fantasy world",
+            "gore",
             "high fantasy",
             "love triangle",
             "magic",
@@ -3210,6 +3210,7 @@
             "gag",
             "magic",
             "meta",
+            "mythology",
             "parody",
             "sci fi",
             "supernatural",
@@ -3438,7 +3439,7 @@
         ],
         "title": "Fushigi Dagashiya: Zenitendou",
         "type": "tv",
-        "episodes": 57,
+        "episodes": 58,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1994/108212.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1994/108212t.jpg",
@@ -3664,10 +3665,7 @@
             "Gekijōban Fate/Grand Order: Shinsei Entaku Ryōiki Camelot",
             "劇場版 Fate／Grand Order -神聖円卓領域キャメロット-"
         ],
-        "relations": [
-            "https://anisearch.com/anime/11903",
-            "https://anisearch.com/anime/13776"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "action drama",
@@ -4539,49 +4537,12 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/9937"
-        ],
-        "title": "Hanyo no Yashahime",
-        "type": "tv",
-        "episodes": 24,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/9937/poster_image/c901e3891963171d85ded1a1c991c50e.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/9937/poster_image/c901e3891963171d85ded1a1c991c50e.png?style=small&format=jpg",
-        "synonyms": [
-            "Yashahime: Princess Half-Demon",
-            "半妖の夜叉姫"
-        ],
-        "relations": [
-            "https://livechart.me/anime/10475",
-            "https://livechart.me/anime/3684",
-            "https://livechart.me/anime/3952",
-            "https://livechart.me/anime/4805",
-            "https://livechart.me/anime/4810",
-            "https://livechart.me/anime/4971",
-            "https://livechart.me/anime/5029",
-            "https://livechart.me/anime/5388"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "comedy",
-            "demons",
-            "fantasy",
-            "historical",
-            "magic",
-            "supernatural"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/15546",
             "https://anilist.co/anime/118399",
             "https://anime-planet.com/anime/yashahime-princess-half-demon",
+            "https://anisearch.com/anime/15241",
             "https://kitsu.io/anime/43180",
+            "https://livechart.me/anime/9937",
             "https://myanimelist.net/anime/41911",
             "https://notify.moe/anime/OfH_dvgGR"
         ],
@@ -4594,9 +4555,13 @@
         "synonyms": [
             "Han`you no Yashahime",
             "Han`you no Yashahime: Sengoku Otogizoushi",
+            "Hanyo no Yashahime",
             "Hanyou no Yashahime",
+            "Han’you no Yashahime: Sengoku Otogizoushi",
+            "Han’yō no Yashahime: Sengoku Otogizōshi",
             "Inuyasha: Hanyou no Yasha Hime",
             "Yashahime 1",
+            "Yashahime : Princess Half-Demon",
             "Yashahime: Princess Half-Demon",
             "Принцесса-полудемон",
             "ยาฉะฮิเมะ: เจ้าหญิงครึ่งอสูร",
@@ -4614,6 +4579,14 @@
             "https://anime-planet.com/anime/yashahime-princess-half-demon-the-second-act",
             "https://kitsu.io/anime/44199",
             "https://kitsu.io/anime/4726",
+            "https://livechart.me/anime/10475",
+            "https://livechart.me/anime/3684",
+            "https://livechart.me/anime/3952",
+            "https://livechart.me/anime/4805",
+            "https://livechart.me/anime/4810",
+            "https://livechart.me/anime/4971",
+            "https://livechart.me/anime/5029",
+            "https://livechart.me/anime/5388",
             "https://myanimelist.net/anime/48505",
             "https://myanimelist.net/anime/6811",
             "https://notify.moe/anime/8Rre5KmmR",
@@ -4632,55 +4605,25 @@
             "fantasy world",
             "female protagonist",
             "feudal japan",
+            "fighting-shounen",
             "historical",
             "isekai",
             "kemonomimi",
             "magic",
             "memory manipulation",
             "new",
+            "old asia",
             "primarily female cast",
             "shounen",
             "siblings",
             "super power",
             "supernatural",
             "swordplay",
+            "swords & co",
             "time manipulation",
             "time travel",
             "tomboy",
             "youkai"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/15241"
-        ],
-        "title": "Han’you no Yashahime: Sengoku Otogizoushi",
-        "type": "tv",
-        "episodes": 24,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15241.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15241.webp",
-        "synonyms": [
-            "Hanyou no Yashahime: Sengoku Otogizoushi",
-            "Han’yō no Yashahime: Sengoku Otogizōshi",
-            "Yashahime : Princess Half-Demon",
-            "Yashahime: Princess Half-Demon",
-            "半妖の夜叉姫 -戦国御伽草子-"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "adventure",
-            "demons",
-            "fantasy",
-            "fighting-shounen",
-            "kemonomimi",
-            "old asia",
-            "swords & co"
         ],
         "date": {
             "season": "fall",
@@ -5248,6 +5191,8 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/zutomayo-kangurei",
+            "https://anisearch.com/anime/17398",
             "https://myanimelist.net/anime/44084"
         ],
         "title": "Hunch Gray",
@@ -5257,10 +5202,18 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1946/113743.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1946/113743t.jpg",
         "synonyms": [
+            "Zutomayo - Hunch Gray",
+            "Zutomayo: Hunch Gray",
+            "Zutomayo: Kangurei",
+            "Zutto Mayonaka de Ii no ni. - Hunch Gray",
+            "ずっと真夜中でいいのに。- 勘ぐれい",
             "勘ぐれい"
         ],
         "relations": [],
         "tags": [
+            "action",
+            "childhood friends",
+            "independent anime",
             "music"
         ],
         "date": {
@@ -5881,6 +5834,7 @@
             "Žose, tigras ir žuvis",
             "Её заветное желание",
             "Жозе",
+            "Жозе, тигр и рыба",
             "тигр і риба",
             "โจเซ่ กับเสือและหมู่ปลา",
             "โจเสะ กับเสือและมวลหมู่ปลา",
@@ -5918,7 +5872,8 @@
             "stoic hero",
             "time skip",
             "tragedy",
-            "tsundere"
+            "tsundere",
+            "visual arts"
         ],
         "date": {
             "season": "fall",
@@ -6040,9 +5995,6 @@
             "https://anime-planet.com/anime/jujutsu-kaisen-0",
             "https://anime-planet.com/anime/jujutsu-kaisen-2018",
             "https://anime-planet.com/anime/jujutsu-kaisen-2nd-season",
-            "https://anisearch.com/anime/16092",
-            "https://anisearch.com/anime/17085",
-            "https://anisearch.com/anime/17192",
             "https://kitsu.io/anime/43748",
             "https://kitsu.io/anime/43814",
             "https://kitsu.io/anime/43886",
@@ -6592,6 +6544,32 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51888"
+        ],
+        "title": "Kansatsu! Pokemon Zukan",
+        "type": "ona",
+        "episodes": 2,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1575/123956.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1575/123956t.jpg",
+        "synonyms": [
+            "Kansatsu! Pokemon Book: Oddish",
+            "Kansatsu! Pokemon Book: One Pachi",
+            "かんさつ！ポケモンずかん"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/527"
+        ],
+        "tags": [
+            "kids"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/136044",
             "https://kitsu.io/anime/44809"
         ],
@@ -7000,6 +6978,7 @@
             "ศึกสุดท้ายของเธอกับผมคือจุดเริ่มต้นของโลกใบใหม่",
             "キミと僕の最後の戦場, あるいは世界が始まる聖戦",
             "キミと僕の最後の戦場、あるいは世界が始まる聖戦",
+            "你与我最后的战场，亦或是世界起始的圣战",
             "這是妳與我的最後戰場，或是開創世界的聖戰",
             "너와 나의 최후의 전장, 혹은 세계가 시작되는 성전"
         ],
@@ -7301,12 +7280,15 @@
             "こまねこショートムービー2021"
         ],
         "relations": [
-            "https://anilist.co/anime/7547",
+            "https://anilist.co/anime/147928",
             "https://myanimelist.net/anime/7547"
         ],
         "tags": [
+            "animals",
             "kids",
-            "slice of life"
+            "no dialogue",
+            "slice of life",
+            "stop motion"
         ],
         "date": {
             "season": "fall",
@@ -7609,7 +7591,6 @@
             "Kusoge-tte Iuna! Animation",
             "Kusoge-tte iuna! Animation",
             "Kusoge– tte iuna!",
-            "kusoge-tte iuna! Animation",
             "¡Que no es una porquería de videojuego!",
             "クソゲーって言うな!",
             "クソゲーって言うな！",
@@ -7623,11 +7604,11 @@
             "fantasy",
             "fantasy world",
             "flash animation",
-            "game",
             "parody",
             "rpg",
             "short episodes",
             "slice of life",
+            "video game",
             "virtual world"
         ],
         "date": {
@@ -8146,7 +8127,6 @@
             "https://anime-planet.com/anime/ojamajo-doremi",
             "https://anime-planet.com/anime/ojamajo-doremi-dokkaan",
             "https://anime-planet.com/anime/ojamajo-doremi-sharp",
-            "https://anisearch.com/anime/3083",
             "https://livechart.me/anime/5331",
             "https://livechart.me/anime/5450",
             "https://livechart.me/anime/5563",
@@ -8960,7 +8940,6 @@
             "https://anime-planet.com/anime/talentless-nana-mini-anime",
             "https://anime-planet.com/anime/talentless-nana-mini-anime-yaminabe-party",
             "https://kitsu.io/anime/43728",
-            "https://livechart.me/anime/10142",
             "https://myanimelist.net/anime/42831",
             "https://notify.moe/anime/pMIJ65pGg"
         ],
@@ -9971,6 +9950,33 @@
             "excessive violence",
             "guns",
             "mafia",
+            "music"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51884"
+        ],
+        "title": "Pokemon Daiundoukai",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1682/123952.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1682/123952t.jpg",
+        "synonyms": [
+            "Pokémon Fun Video",
+            "Pokémon Sports Day",
+            "ポケモン大運動会"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/527"
+        ],
+        "tags": [
+            "kids",
             "music"
         ],
         "date": {
@@ -12883,10 +12889,6 @@
             "https://anime-planet.com/anime/tonikawa-over-the-moon-for-you-flashbacks",
             "https://anime-planet.com/anime/tonikawa-over-the-moon-for-you-ova",
             "https://anime-planet.com/anime/tonikawa-over-the-moon-for-you-special-episode",
-            "https://anisearch.com/anime/15828",
-            "https://anisearch.com/anime/15860",
-            "https://anisearch.com/anime/16756",
-            "https://anisearch.com/anime/17272",
             "https://kitsu.io/anime/43832",
             "https://kitsu.io/anime/43833",
             "https://kitsu.io/anime/45415",
@@ -12923,6 +12925,7 @@
             "romance",
             "romantic comedy",
             "shounen",
+            "slapstick",
             "slice of life",
             "software development",
             "sudden girlfriend appearance",
@@ -14172,10 +14175,7 @@
             "Xue Ying Ling Zhu 2nd Season",
             "雪鹰领主 第二季"
         ],
-        "relations": [
-            "https://anisearch.com/anime/15476",
-            "https://anisearch.com/anime/17310"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "adventure",
@@ -14565,6 +14565,7 @@
             "male protagonist",
             "manga",
             "mystery",
+            "politics",
             "primarily adult cast",
             "primarily male cast",
             "psychological",

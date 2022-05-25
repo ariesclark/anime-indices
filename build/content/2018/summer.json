@@ -140,37 +140,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/107196",
-            "https://anisearch.com/anime/13845",
-            "https://kitsu.io/anime/44487"
-        ],
-        "title": "Ambivalent",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44487/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44487/tiny.jpg",
-        "synonyms": [
-            "Eve - Ambivalent",
-            "Eve: Ambivalent",
-            "アンビバレント"
-        ],
-        "relations": [
-            "https://anilist.co/anime/101915",
-            "https://kitsu.io/anime/41067"
-        ],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "music"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/14778",
             "https://anilist.co/anime/105899",
             "https://anime-planet.com/anime/and2-girls",
@@ -648,6 +617,7 @@
             "episodic",
             "female protagonist",
             "gag",
+            "gag humor",
             "gyaru",
             "high school",
             "manga",
@@ -2075,6 +2045,7 @@
             "game",
             "idol",
             "idols",
+            "idols (female)",
             "music",
             "present",
             "primarily female cast",
@@ -2793,6 +2764,40 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/107196",
+            "https://anime-planet.com/anime/eve-ambivalent",
+            "https://anisearch.com/anime/13845",
+            "https://kitsu.io/anime/44487"
+        ],
+        "title": "Eve: Ambivalent",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/eve-ambivalent-1.jpg?t=1625899090",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/eve-ambivalent-1-190x266.jpg?t=1625899090",
+        "synonyms": [
+            "Ambivalent",
+            "Eve - Ambivalent",
+            "アンビバレント"
+        ],
+        "relations": [
+            "https://anilist.co/anime/101915",
+            "https://kitsu.io/anime/41067"
+        ],
+        "tags": [
+            "abstract",
+            "adventure",
+            "cats",
+            "fantasy",
+            "music"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/13258",
             "https://anilist.co/anime/21748",
             "https://anime-planet.com/anime/flcl-alternative",
@@ -2822,6 +2827,7 @@
         "relations": [
             "https://anidb.net/anime/12023",
             "https://anidb.net/anime/17264",
+            "https://anilist.co/anime/146472",
             "https://anilist.co/anime/21746",
             "https://anime-planet.com/anime/flcl",
             "https://anime-planet.com/anime/flcl-grunge",
@@ -4166,6 +4172,7 @@
             "https://anilist.co/anime/104082",
             "https://anime-planet.com/anime/the-sprites-of-floria",
             "https://kitsu.io/anime/41967",
+            "https://livechart.me/anime/9037",
             "https://myanimelist.net/anime/38469",
             "https://notify.moe/anime/fiKTI_0ig"
         ],
@@ -4178,6 +4185,7 @@
         "synonyms": [
             "Hanasaki Kizuna no Romantan",
             "Hanasaki Ku-han no Romantan",
+            "Hanasaki Kuhan no Romantan",
             "Hanasaki Kurodino Romantan",
             "Hanasakiku Kizuna no Romantan",
             "The Sprites of Floria",
@@ -4330,6 +4338,7 @@
             "supernatural drama",
             "thriller",
             "tragedy",
+            "urban",
             "violence",
             "work",
             "yandere",
@@ -4413,7 +4422,6 @@
         ],
         "relations": [
             "https://anilist.co/anime/99586",
-            "https://anisearch.com/anime/12647",
             "https://myanimelist.net/anime/35983",
             "https://notify.moe/anime/14sVhKiiR"
         ],
@@ -7807,8 +7815,8 @@
         "type": "ova",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1062/92517.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1062/92517t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1439/123818.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1439/123818t.jpg",
         "synonyms": [
             "Masamune-kun no Revenge (2018)",
             "Masamune-kun no Revenge OAD",
@@ -7829,7 +7837,6 @@
             "https://anilist.co/anime/21857",
             "https://anime-planet.com/anime/masamune-kuns-revenge",
             "https://anime-planet.com/anime/masamune-kuns-revenge-r",
-            "https://anisearch.com/anime/11537",
             "https://kitsu.io/anime/12267",
             "https://livechart.me/anime/11170",
             "https://livechart.me/anime/2226",
@@ -8508,7 +8515,6 @@
             "https://anilist.co/anime/110028",
             "https://anime-planet.com/anime/muhyo-and-rojis-bureau-of-supernatural-investigation-2nd-season",
             "https://anime-planet.com/anime/oresama-hotohashiru",
-            "https://anisearch.com/anime/14442",
             "https://kitsu.io/anime/42103",
             "https://kitsu.io/anime/43295",
             "https://livechart.me/anime/9470",
@@ -12832,7 +12838,6 @@
             "https://anilist.co/anime/109189",
             "https://anime-planet.com/anime/tales-of-the-rays-everlasting-destiny",
             "https://anime-planet.com/anime/tales-of-the-rays-mirrage-prison-op",
-            "https://anisearch.com/anime/13199",
             "https://livechart.me/anime/1645",
             "https://livechart.me/anime/1972",
             "https://livechart.me/anime/1973",
@@ -14097,6 +14102,7 @@
             "https://anime-planet.com/anime/hora-mimi-ga-mieteru-yo",
             "https://anisearch.com/anime/13834",
             "https://kitsu.io/anime/41945",
+            "https://livechart.me/anime/3479",
             "https://myanimelist.net/anime/38217",
             "https://notify.moe/anime/NJ6fcv0mR"
         ],
@@ -14133,6 +14139,7 @@
             "https://anilist.co/anime/107984",
             "https://anime-planet.com/anime/hora-mimi-ga-mieteru-yo-2",
             "https://kitsu.io/anime/42158",
+            "https://livechart.me/anime/9247",
             "https://myanimelist.net/anime/39380"
         ],
         "tags": [

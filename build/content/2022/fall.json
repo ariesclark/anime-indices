@@ -73,7 +73,7 @@
         "sources": [
             "https://anidb.net/anime/15977",
             "https://anilist.co/anime/128344",
-            "https://anime-planet.com/anime/argonavis-from-bang-dream-movie",
+            "https://anime-planet.com/anime/arvonavis-movie-axia",
             "https://anisearch.com/anime/16992",
             "https://livechart.me/anime/10322",
             "https://myanimelist.net/anime/45731",
@@ -83,16 +83,17 @@
         "type": "movie",
         "episodes": 1,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1227/123814.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1227/123814t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1848/123788.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1848/123788t.jpg",
         "synonyms": [
             "ARGONAVIS from BanG Dream! Movie",
             "Argonavis AXIA",
             "Argonavis from BanG Dream! Movie",
             "Argonavis from Bang Dream! Movie",
+            "Arvonavis Movie AXIA",
             "Gekijouban Argonavis from Bang Dream!",
             "Gekijouban Argonavis: Axia",
-            "Gekijōban Argonavis from Bang Dream!",
+            "Gekijōban Argonavis: Axia",
             "劇場版 ARGONAVIS from BanG Dream!",
             "劇場版「アルゴナビス from BanG Dream!」（仮題）",
             "劇場版アルゴナビス AXIA",
@@ -115,9 +116,11 @@
             "band",
             "drama",
             "music",
+            "musical",
             "primarily adult cast",
             "primarily male cast",
-            "showbiz"
+            "showbiz",
+            "video games"
         ],
         "date": {
             "season": "fall",
@@ -409,7 +412,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16824",
             "https://anilist.co/anime/139806",
             "https://anime-planet.com/anime/hyperdimension-neptunia-nepu-nepu-darake-no-festival",
             "https://anisearch.com/anime/16809",
@@ -440,7 +442,6 @@
             "超次元ゲイム ネプテューヌ ～ねぷねぷだらけのフェスティバル～"
         ],
         "relations": [
-            "https://anidb.net/anime/9395",
             "https://anilist.co/anime/108758",
             "https://anilist.co/anime/143766",
             "https://anilist.co/anime/16157",
@@ -868,7 +869,7 @@
             "JoJo no Kimyou na Bouken: Stone Ocean Part 2",
             "JoJo's Bizarre Adventure Part 6 (Part 2)",
             "JoJo's Bizarre Adventure Part 6: Stone Ocean Part 2",
-            "JoJo's Bizarre Adventure STONE OCEAN Part 2",
+            "JoJo's Bizarre Adventure: STONE OCEAN Part 2",
             "JoJo's Bizarre Adventure: Stone Ocean - Part II",
             "JoJo's Bizarre Adventure: Stone Ocean Part 2",
             "JoJo`s Bizarre Adventure: Stone Ocean (2022)",
@@ -1382,8 +1383,8 @@
         "type": "tv",
         "episodes": 0,
         "status": "unknown",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [],
         "relations": [
             "https://anime-planet.com/anime/megaton-musashi"
@@ -1584,6 +1585,7 @@
         "tags": [
             "action",
             "action comedy",
+            "aliens",
             "based on a manga",
             "comedy",
             "coming of age",
@@ -1931,6 +1933,37 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17211",
+            "https://anilist.co/anime/145604",
+            "https://anime-planet.com/anime/shinobi-no-ittoki",
+            "https://anisearch.com/anime/17156",
+            "https://livechart.me/anime/11095",
+            "https://myanimelist.net/anime/51098",
+            "https://notify.moe/anime/FCG_kwfnR"
+        ],
+        "title": "Shinobi no Ittoki",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1876/121083.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1876/121083t.jpg",
+        "synonyms": [
+            "A Shinobi’s Moment",
+            "忍の一時"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "ninja",
+            "original work"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/15974",
             "https://anilist.co/anime/128207",
             "https://anime-planet.com/anime/slam-dunk-movie",
@@ -2107,6 +2140,7 @@
         "synonyms": [
             "Sparrow’s Door Tightening",
             "Suzume Locking Up the Doors",
+            "Suzume no Tojimari (Working Title)",
             "Suzume's Locking-Up",
             "Suzume’s Door-Locking",
             "すずめの戸締まり"
@@ -2419,9 +2453,11 @@
             "https://anidb.net/anime/17352",
             "https://anilist.co/anime/148401",
             "https://anime-planet.com/anime/umayuru",
+            "https://anisearch.com/anime/17388",
             "https://kitsu.io/anime/46100",
             "https://livechart.me/anime/11206",
-            "https://myanimelist.net/anime/51772"
+            "https://myanimelist.net/anime/51772",
+            "https://notify.moe/anime/FBS0BLX7g"
         ],
         "title": "Umayuru",
         "type": "ona",
@@ -2441,7 +2477,8 @@
             "https://livechart.me/anime/2630",
             "https://livechart.me/anime/3272",
             "https://livechart.me/anime/8674",
-            "https://myanimelist.net/anime/35249"
+            "https://myanimelist.net/anime/35249",
+            "https://notify.moe/anime/PKq72KmmR"
         ],
         "tags": [
             "all-girls school",
@@ -2482,6 +2519,83 @@
         "tags": [
             "action",
             "mahou shoujo"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/17096",
+            "https://anilist.co/anime/143277",
+            "https://anime-planet.com/anime/urusei-yatsura-2022",
+            "https://anisearch.com/anime/16977",
+            "https://kitsu.io/anime/45694",
+            "https://livechart.me/anime/11005",
+            "https://myanimelist.net/anime/50710"
+        ],
+        "title": "Urusei Yatsura (2022)",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1418/123904.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1418/123904t.jpg",
+        "synonyms": [
+            "Lum the Invader Girl (2022)",
+            "Lum: Urusei Yatsura (2022)",
+            "The Return of Lum (2022)",
+            "Those Obnoxious Aliens (2022)",
+            "Urusei Yatsura",
+            "うる星やつら",
+            "うる星やつら (2022)",
+            "うる星やつら （2022）"
+        ],
+        "relations": [
+            "https://anidb.net/anime/377",
+            "https://anilist.co/anime/1293",
+            "https://anime-planet.com/anime/urusei-yatsura",
+            "https://kitsu.io/anime/1166",
+            "https://livechart.me/anime/4301",
+            "https://livechart.me/anime/8215",
+            "https://livechart.me/anime/8720",
+            "https://livechart.me/anime/8721",
+            "https://livechart.me/anime/8722",
+            "https://livechart.me/anime/8724",
+            "https://livechart.me/anime/8726",
+            "https://livechart.me/anime/8727",
+            "https://livechart.me/anime/8753",
+            "https://livechart.me/anime/9091",
+            "https://myanimelist.net/anime/1293"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "aliens",
+            "based on a manga",
+            "cohabitation",
+            "comedy",
+            "drama",
+            "episodic",
+            "love triangle",
+            "manga",
+            "noitamina",
+            "parody",
+            "present",
+            "romance",
+            "romantic comedy",
+            "school life",
+            "sci fi",
+            "sci-fi",
+            "science fiction",
+            "science-fiction",
+            "shounen",
+            "slapstick",
+            "slice of life",
+            "super power",
+            "supernatural",
+            "tsundere",
+            "urban fantasy"
         ],
         "date": {
             "season": "fall",

@@ -1239,6 +1239,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/gui-tu-zai-pao",
             "https://myanimelist.net/anime/44872"
         ],
         "title": "Gui Tu Zai Pao",
@@ -1248,12 +1249,18 @@
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "Tale of the Rally",
             "龟兔再跑"
         ],
         "relations": [],
         "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
             "fantasy",
-            "kids"
+            "kids",
+            "non-human protagonists"
         ],
         "date": {
             "season": "unknown",
@@ -1317,6 +1324,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/guo-guo-qi-xia-chuan",
             "https://myanimelist.net/anime/44901",
             "https://myanimelist.net/anime/46894"
         ],
@@ -1335,6 +1343,8 @@
         ],
         "tags": [
             "adventure",
+            "chinese animation",
+            "family friendly",
             "fantasy",
             "kids",
             "sci-fi"
@@ -2403,32 +2413,6 @@
         "synonyms": [],
         "relations": [],
         "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/129217"
-        ],
-        "title": "Konglong Baobei: Shiluo de Wenming",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129217-XKy2rkgnjUtg.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129217-XKy2rkgnjUtg.jpg",
-        "synonyms": [
-            "恐龙宝贝之失落的文明"
-        ],
-        "relations": [
-            "https://anilist.co/anime/129216"
-        ],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "full cgi"
-        ],
         "date": {
             "season": "unknown",
             "year": 2014
@@ -4456,6 +4440,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/rexue-xiaojiang",
             "https://myanimelist.net/anime/46936"
         ],
         "title": "Rexue Xiaojiang",
@@ -4466,13 +4451,17 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1176/123178t.jpg",
         "synonyms": [
             "Hot Blooded Captain",
+            "Hot-Blooded Captain",
             "热血小将"
         ],
         "relations": [],
         "tags": [
+            "chinese animation",
             "comedy",
+            "family friendly",
             "kids",
-            "military"
+            "military",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -4776,6 +4765,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/shanhai-qi-tan",
             "https://myanimelist.net/anime/46902"
         ],
         "title": "Shanhai Qi Tan",
@@ -4790,6 +4780,8 @@
         "relations": [],
         "tags": [
             "adventure",
+            "chinese animation",
+            "family friendly",
             "fantasy",
             "kids"
         ],
@@ -5023,6 +5015,30 @@
         "relations": [],
         "tags": [
             "fantasy",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/small-island"
+        ],
+        "title": "Small Island",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/small-island-1.webp?t=1652748556",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/small-island-1-285x399.webp?t=1652748556",
+        "synonyms": [
+            "Beolineun Seom"
+        ],
+        "relations": [],
+        "tags": [
+            "korean animation",
+            "pets",
             "shorts"
         ],
         "date": {
@@ -5691,6 +5707,32 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/xian-bu-chuanqi",
+            "https://myanimelist.net/anime/44979"
+        ],
+        "title": "Xian Bu Chuanqi",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "Legend of Bu",
+            "仙布传奇"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "fantasy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/44869"
         ],
         "title": "Xihu Chuanqi",
@@ -5976,6 +6018,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/zhonghua-xun-lixian-ji",
             "https://myanimelist.net/anime/44880"
         ],
         "title": "Zhonghua Xun Lixian Ji",
@@ -5991,9 +6034,14 @@
         "relations": [],
         "tags": [
             "adventure",
+            "animal protagonists",
             "anthropomorphic",
+            "chinese animation",
+            "family friendly",
             "fantasy",
-            "kids"
+            "kids",
+            "non-human protagonists",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",

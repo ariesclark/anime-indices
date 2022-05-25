@@ -39,13 +39,13 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/12/89091t.jpg",
         "synonyms": [
             "25-Year-Old High School Girl",
+            "25-Year-Old High School Girl, I Wouldn't Do This with a Kid",
             "25-Year-Old High School Girl, I Wouldn’t Do This with a Kid",
             "25-Year-Old High School Girl: I'll Do What Can't Be Taught to Children",
             "25-sai no Joshikousei: Kodomo ni wa Oshierarenai Koto Shite Yaru yo",
             "25-sai no Joshikōsei",
             "25-sai no Jyoshikousei",
             "25歳の女子高生",
-            "The 25 Year Old High School Girl",
             "２５歳の女子高生～子供には教えられないことシてやるよ"
         ],
         "relations": [],
@@ -168,6 +168,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/132000",
             "https://anime-planet.com/anime/a-day-before-us-merry-christmas",
             "https://kitsu.io/anime/42871",
             "https://myanimelist.net/anime/49531"
@@ -179,9 +180,14 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1931/116858.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1931/116858t.jpg",
         "synonyms": [
-            "연애하루전 Merry Christmas"
+            "A day before us ZERO: Merry Christmas!",
+            "Yeonae Haru Jeon Christmas Special",
+            "Yeonae Haru Jeon ZERO: Merry Christmas!",
+            "연애하루전 Merry Christmas",
+            "연애하루전 ZERO Merry Christmas!"
         ],
         "relations": [
+            "https://anilist.co/anime/104372",
             "https://anime-planet.com/anime/a-day-before-us",
             "https://anime-planet.com/anime/a-day-before-us-2",
             "https://anime-planet.com/anime/a-day-before-us-zero",
@@ -1092,6 +1098,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/bie-re-liumang-tu-ma-xiu",
             "https://myanimelist.net/anime/47714"
         ],
         "title": "Bie Re Liumang Tu Ma Xiu",
@@ -1105,13 +1112,21 @@
             "别惹流氓兔马修"
         ],
         "relations": [
+            "https://anime-planet.com/anime/bie-re-liumang-tu-ma-xiu-2",
             "https://myanimelist.net/anime/47716"
         ],
         "tags": [
+            "animal protagonists",
             "anthropomorphic",
+            "cg animation",
+            "chinese animation",
             "comedy",
             "fantasy",
-            "kids"
+            "kids",
+            "non-human protagonists",
+            "rabbits",
+            "sanrio characters",
+            "short episodes"
         ],
         "date": {
             "season": "winter",
@@ -1475,7 +1490,6 @@
         "relations": [
             "https://anidb.net/anime/13060",
             "https://anilist.co/anime/372",
-            "https://anilist.co/anime/98554",
             "https://anime-planet.com/anime/cardcaptor-sakura",
             "https://anime-planet.com/anime/cardcaptor-sakura-clear-card-hen-recap",
             "https://anime-planet.com/anime/cardcaptor-sakura-clear-card-prologue-sakura-and-the-two-bears",
@@ -3012,10 +3026,6 @@
             "https://anime-planet.com/anime/dou-po-cangqiong",
             "https://anime-planet.com/anime/dou-po-cangqiong-2nd-season-specials",
             "https://anime-planet.com/anime/dou-po-cangqiong-3rd-season",
-            "https://anisearch.com/anime/13239",
-            "https://anisearch.com/anime/14991",
-            "https://anisearch.com/anime/16281",
-            "https://anisearch.com/anime/16282",
             "https://kitsu.io/anime/14116",
             "https://kitsu.io/anime/42663",
             "https://kitsu.io/anime/42665",
@@ -4283,9 +4293,7 @@
             "Miraculous 2: The Secret of Miracle Stone",
             "극장판 레이디버그2: 미라클스톤의 비밀"
         ],
-        "relations": [
-            "https://anisearch.com/anime/13153"
-        ],
+        "relations": [],
         "tags": [],
         "date": {
             "season": "winter",
@@ -4335,7 +4343,6 @@
             "https://anidb.net/anime/11840",
             "https://anilist.co/anime/21662",
             "https://anime-planet.com/anime/the-silver-guardian",
-            "https://anisearch.com/anime/11208",
             "https://kitsu.io/anime/11936",
             "https://livechart.me/anime/1965",
             "https://myanimelist.net/anime/32936",
@@ -10777,6 +10784,42 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/rascal-does-not-dream-of-bunny-girl-senpai-picture-drama",
+            "https://kitsu.io/anime/42087",
+            "https://livechart.me/anime/8711",
+            "https://notify.moe/anime/WR0FpxUig"
+        ],
+        "title": "Rascal Does Not Dream of Bunny Girl Senpai Picture Drama",
+        "type": "special",
+        "episodes": 5,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/rascal-does-not-dream-of-bunny-girl-senpai-picture-drama-1.jpg?t=1625899044",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/rascal-does-not-dream-of-bunny-girl-senpai-picture-drama-1-190x275.jpg?t=1625899044",
+        "synonyms": [
+            "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - Picture Drama",
+            "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai Picture Drama",
+            "Seishun Buta Yarou wa Bunny Girl-senpai no Yume wo Minai Picture Drama",
+            "青春ブタ野郎はバニーガール先輩の夢を見ない"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/rascal-does-not-dream-of-bunny-girl-senpai",
+            "https://kitsu.io/anime/41056",
+            "https://livechart.me/anime/3147",
+            "https://livechart.me/anime/3513",
+            "https://notify.moe/anime/5pGFhKimg"
+        ],
+        "tags": [
+            "comedy",
+            "picture drama",
+            "romance"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/121969",
             "https://kitsu.io/anime/44545"
         ],
@@ -11462,10 +11505,12 @@
         ],
         "tags": [
             "advertisement",
+            "bullying",
             "comedy",
             "coming of age",
             "cute boys doing cute things",
             "drama",
+            "gyaru",
             "hero of strong character",
             "hero of weak character",
             "high school",
@@ -11562,16 +11607,21 @@
         "relations": [],
         "tags": [
             "adventure",
+            "assassins",
             "childcare",
             "coming of age",
             "dragons",
             "drama",
+            "ensemble cast",
+            "espionage",
             "family life",
             "fantasy",
             "fantasy world",
             "female protagonist",
+            "foreign",
             "fugitive",
             "heroine of weak character",
+            "heterosexual",
             "middle ages",
             "netorare",
             "new",
@@ -11584,7 +11634,9 @@
             "swords & co",
             "time skip",
             "tragedy",
-            "war"
+            "urban fantasy",
+            "war",
+            "work"
         ],
         "date": {
             "season": "winter",
@@ -12254,6 +12306,29 @@
             "avant garde",
             "dementia",
             "music"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51852"
+        ],
+        "title": "Shirayukihime to 7-nin no Kokeshi",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1710/123900.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1710/123900t.jpg",
+        "synonyms": [
+            "SnowWhite and the Seven Kokeshis",
+            "～白雪姫と7人のこけし～"
+        ],
+        "relations": [],
+        "tags": [
+            "avant garde"
         ],
         "date": {
             "season": "winter",
@@ -13342,15 +13417,16 @@
             "https://anime-planet.com/anime/tayo-the-little-bus-3",
             "https://anime-planet.com/anime/tayo-the-little-bus-4",
             "https://anime-planet.com/anime/tayo-the-little-bus-movie-mission-ace",
-            "https://myanimelist.net/anime/38070"
+            "https://myanimelist.net/anime/38070",
+            "https://myanimelist.net/anime/51754"
         ],
         "tags": [
-            "cars",
             "cg animation",
             "cg-anime",
             "family friendly",
             "kids",
             "korean animation",
+            "racing",
             "short episodes",
             "trains"
         ],
@@ -14007,6 +14083,30 @@
         ],
         "tags": [
             "idol",
+            "music"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51853"
+        ],
+        "title": "Umiushi Shimai Gekijou: Tanabata-hen",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1968/123902.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1968/123902t.jpg",
+        "synonyms": [
+            "Sea Slug Sisters Go to Heaven",
+            "うみうし姉妹劇場～七夕編～"
+        ],
+        "relations": [],
+        "tags": [
+            "avant garde",
             "music"
         ],
         "date": {

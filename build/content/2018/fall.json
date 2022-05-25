@@ -45,6 +45,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/30-pun-de-wakaru-kore-made-no-love-live-sunshine",
             "https://anisearch.com/anime/15353",
             "https://kitsu.io/anime/42967",
             "https://myanimelist.net/anime/41188"
@@ -61,6 +62,8 @@
             "Love Live! Sunshine!! Recap"
         ],
         "relations": [
+            "https://anime-planet.com/anime/love-live-sunshine",
+            "https://anime-planet.com/anime/love-live-sunshine-the-school-idol-movie-over-the-rainbow",
             "https://anisearch.com/anime/11075",
             "https://anisearch.com/anime/12245",
             "https://anisearch.com/anime/12908",
@@ -75,10 +78,13 @@
             "https://myanimelist.net/anime/36473"
         ],
         "tags": [
+            "all-girls school",
             "ganbatte",
             "idol",
+            "idols",
             "music",
             "present",
+            "recap",
             "school",
             "slice of life",
             "the arts"
@@ -513,6 +519,32 @@
             "short episodes",
             "slice of life",
             "sports"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51813"
+        ],
+        "title": "Ao ga Niki Umi Yori Fukai Sora no Shita",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1156/123770.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1156/123770t.jpg",
+        "synonyms": [
+            "海より深い空の下"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44042",
+            "https://myanimelist.net/anime/51428"
+        ],
+        "tags": [
+            "idols (female)",
+            "music"
         ],
         "date": {
             "season": "fall",
@@ -1581,7 +1613,7 @@
         "relations": [
             "https://anilist.co/anime/122370",
             "https://anilist.co/anime/136666",
-            "https://anilist.co/anime/21296"
+            "https://anilist.co/anime/138459"
         ],
         "tags": [
             "music",
@@ -3341,7 +3373,7 @@
         "synonyms": [
             "Goblin Slayer Episode 10.5",
             "Goblin Slayer Recap",
-            "Goblin Slayer: Adventurer Sheet",
+            "Goblin Slayer: Adventure Sheet",
             "ゴブリンスレイヤー　冒険記録用紙[アドベンチャーシート]"
         ],
         "relations": [
@@ -3863,7 +3895,8 @@
             "twins",
             "verbal comedy",
             "work",
-            "work life"
+            "work life",
+            "workplace"
         ],
         "date": {
             "season": "fall",
@@ -4076,32 +4109,6 @@
         ],
         "relations": [],
         "tags": [],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/9037"
-        ],
-        "title": "Hanasaki Kuhan no Romantan",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/9037/poster_image/81e616c73c22dd4560a9bb9fb4b51e23.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/9037/poster_image/81e616c73c22dd4560a9bb9fb4b51e23.jpg?style=small&format=jpg",
-        "synonyms": [
-            "The Sprites of Floria",
-            "花咲ク絆ノ浪漫譚"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "adventure",
-            "drama",
-            "fantasy"
-        ],
         "date": {
             "season": "fall",
             "year": 2018
@@ -4876,33 +4883,6 @@
         "tags": [
             "music",
             "romance"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/3479"
-        ],
-        "title": "Hora, Mimi ga Mieteru yo!",
-        "type": "tv",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/3479/poster_image/68165192fd190abbe2713ae5c751b6dd.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/3479/poster_image/68165192fd190abbe2713ae5c751b6dd.png?style=small&format=jpg",
-        "synonyms": [
-            "Look, I Can See Your Ears!",
-            "ほら、耳がみえてるよ！"
-        ],
-        "relations": [
-            "https://livechart.me/anime/9247"
-        ],
-        "tags": [
-            "comedy",
-            "shounen ai",
-            "slice of life"
         ],
         "date": {
             "season": "fall",
@@ -5895,9 +5875,6 @@
             "https://anime-planet.com/anime/jojos-bizarre-adventure-stardust-crusaders",
             "https://anime-planet.com/anime/jojos-bizarre-adventure-stardust-crusaders-battle-in-egypt",
             "https://anime-planet.com/anime/jojos-bizarre-adventure-stone-ocean",
-            "https://anisearch.com/anime/10985",
-            "https://anisearch.com/anime/14083",
-            "https://anisearch.com/anime/16162",
             "https://kitsu.io/anime/11459",
             "https://kitsu.io/anime/42116",
             "https://kitsu.io/anime/44294",
@@ -5949,7 +5926,6 @@
             "horror",
             "italy",
             "mafia",
-            "male harem",
             "male protagonist",
             "manga",
             "mystery",
@@ -7894,7 +7870,6 @@
             "https://anilist.co/anime/127149",
             "https://anilist.co/anime/97815",
             "https://anime-planet.com/anime/fate-grand-order-first-order",
-            "https://anisearch.com/anime/11903",
             "https://kitsu.io/anime/12710",
             "https://livechart.me/anime/1100",
             "https://livechart.me/anime/1185",
@@ -8335,7 +8310,26 @@
             "https://anilist.co/anime/21658",
             "https://anilist.co/anime/6336",
             "https://anime-planet.com/anime/mobile-suit-gundam",
+            "https://anime-planet.com/anime/mobile-suit-gundam-0080-war-in-the-pocket",
+            "https://anime-planet.com/anime/mobile-suit-gundam-0083-stardust-memory",
+            "https://anime-planet.com/anime/mobile-suit-gundam-chars-counterattack",
+            "https://anime-planet.com/anime/mobile-suit-gundam-evolve",
+            "https://anime-planet.com/anime/mobile-suit-gundam-f91",
+            "https://anime-planet.com/anime/mobile-suit-gundam-hathaways-flash-i",
+            "https://anime-planet.com/anime/mobile-suit-gundam-hathaways-flash-ii",
+            "https://anime-planet.com/anime/mobile-suit-gundam-hathaways-flash-iii",
+            "https://anime-planet.com/anime/mobile-suit-gundam-ms-igloo-2-juuryoku-sensen",
+            "https://anime-planet.com/anime/mobile-suit-gundam-ms-igloo-apocalypse-0079",
+            "https://anime-planet.com/anime/mobile-suit-gundam-ms-igloo-the-hidden-one-year-war",
+            "https://anime-planet.com/anime/mobile-suit-gundam-the-08th-ms-team",
+            "https://anime-planet.com/anime/mobile-suit-gundam-the-origin",
+            "https://anime-planet.com/anime/mobile-suit-gundam-thunderbolt",
+            "https://anime-planet.com/anime/mobile-suit-gundam-thunderbolt-2nd-season",
+            "https://anime-planet.com/anime/mobile-suit-gundam-twilight-axis",
             "https://anime-planet.com/anime/mobile-suit-gundam-unicorn",
+            "https://anime-planet.com/anime/mobile-suit-gundam-zz",
+            "https://anime-planet.com/anime/mobile-suit-victory-gundam",
+            "https://anime-planet.com/anime/mobile-suit-zeta-gundam",
             "https://anisearch.com/anime/10546",
             "https://anisearch.com/anime/10601",
             "https://anisearch.com/anime/10932",
@@ -9208,8 +9202,6 @@
         "relations": [
             "https://anilist.co/anime/108062",
             "https://anime-planet.com/anime/my-sister-my-writer-my-little-sister-and-i-in-a-virtual-world",
-            "https://anisearch.com/anime/12086",
-            "https://anisearch.com/anime/14245",
             "https://kitsu.io/anime/42225",
             "https://livechart.me/anime/9227",
             "https://myanimelist.net/anime/39397",
@@ -11024,7 +11016,6 @@
             "https://livechart.me/anime/3513",
             "https://livechart.me/anime/8711",
             "https://myanimelist.net/anime/38329",
-            "https://myanimelist.net/anime/38938",
             "https://notify.moe/anime/xxwM2f-mg"
         ],
         "tags": [
@@ -11072,44 +11063,6 @@
             "urban",
             "urban fantasy",
             "verbal comedy"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/rascal-does-not-dream-of-bunny-girl-senpai-picture-drama",
-            "https://kitsu.io/anime/42087",
-            "https://livechart.me/anime/8711",
-            "https://myanimelist.net/anime/38938",
-            "https://notify.moe/anime/WR0FpxUig"
-        ],
-        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai Picture Drama",
-        "type": "special",
-        "episodes": 5,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1315/99597.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1315/99597t.jpg",
-        "synonyms": [
-            "Rascal Does Not Dream of Bunny Girl Senpai Picture Drama",
-            "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - Picture Drama",
-            "Seishun Buta Yarou wa Bunny Girl-senpai no Yume wo Minai Picture Drama",
-            "青春ブタ野郎はバニーガール先輩の夢を見ない"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/rascal-does-not-dream-of-bunny-girl-senpai",
-            "https://kitsu.io/anime/41056",
-            "https://livechart.me/anime/3147",
-            "https://livechart.me/anime/3513",
-            "https://myanimelist.net/anime/37450",
-            "https://notify.moe/anime/5pGFhKimg"
-        ],
-        "tags": [
-            "comedy",
-            "picture drama",
-            "romance"
         ],
         "date": {
             "season": "fall",
@@ -11485,7 +11438,6 @@
             "https://anilist.co/anime/133730",
             "https://anime-planet.com/anime/shaonian-bai-ma-zui-chunfeng",
             "https://anime-planet.com/anime/shaonian-gexing-2nd-season",
-            "https://anisearch.com/anime/16459",
             "https://kitsu.io/anime/45195",
             "https://myanimelist.net/anime/40732",
             "https://myanimelist.net/anime/48867",
@@ -11496,12 +11448,16 @@
             "adventure",
             "based on a web novel",
             "cg animation",
+            "cg-anime",
             "chinese animation",
+            "comedy",
             "fantasy",
             "full cgi",
             "historical",
+            "magic",
             "martial arts",
             "mystery",
+            "old asia",
             "supernatural drama",
             "wuxia"
         ],
@@ -11675,9 +11631,6 @@
         "relations": [
             "https://anilist.co/anime/98658",
             "https://anime-planet.com/anime/revue-starlight",
-            "https://anisearch.com/anime/12446",
-            "https://anisearch.com/anime/14739",
-            "https://anisearch.com/anime/15955",
             "https://kitsu.io/anime/14174",
             "https://livechart.me/anime/2687",
             "https://livechart.me/anime/9405",
@@ -12181,6 +12134,29 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/149055",
+            "https://myanimelist.net/anime/51830"
+        ],
+        "title": "Steel Wonder",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1062/123833.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1062/123833t.jpg",
+        "synonyms": [
+            "スチールワンダー"
+        ],
+        "relations": [],
+        "tags": [
+            "music"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/steins-gate-0-valentines-of-crystal-polymorphism-bittersweet-intermedio",
             "https://kitsu.io/anime/41443",
             "https://myanimelist.net/anime/37492"
@@ -12554,6 +12530,7 @@
             "https://anidb.net/anime/15112",
             "https://anime-planet.com/anime/sylvanian-families",
             "https://anime-planet.com/anime/sylvanian-families-mini-story",
+            "https://anime-planet.com/anime/sylvanian-families-mini-story-3rd-season",
             "https://kitsu.io/anime/13915",
             "https://kitsu.io/anime/42620",
             "https://livechart.me/anime/2854",
@@ -13426,6 +13403,7 @@
             "東京喰種-トーキョーグール-:re 2",
             "東京喰種:re 最終章",
             "東京喰種[トーキョーグール]:re (2018)",
+            "東京喰種トーキョーグール：re 第2期",
             "도쿄 구울:RE (2018)"
         ],
         "relations": [
@@ -13460,6 +13438,7 @@
             "dragons",
             "drama",
             "excessive violence",
+            "fantasy",
             "gore",
             "horror",
             "human enhancement",
@@ -14147,6 +14126,8 @@
             "https://anime-planet.com/anime/uma-musume-pretty-derby",
             "https://kitsu.io/anime/13485",
             "https://livechart.me/anime/10163",
+            "https://livechart.me/anime/11205",
+            "https://livechart.me/anime/11206",
             "https://livechart.me/anime/2630",
             "https://livechart.me/anime/8674",
             "https://myanimelist.net/anime/35249",
@@ -15007,6 +14988,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/yuzhou-huwei-dui",
             "https://anisearch.com/anime/15197",
             "https://myanimelist.net/anime/47640"
         ],
@@ -15018,6 +15000,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
             "Cosmic Guard",
+            "Cosmicrew",
             "Yu Zhou Hu Wei Dui",
             "宇宙护卫队"
         ],
@@ -15026,8 +15009,14 @@
         ],
         "tags": [
             "adventure",
+            "animal protagonists",
+            "anthropomorphic",
             "cg-anime",
-            "comedy"
+            "chinese animation",
+            "comedy",
+            "family friendly",
+            "non-human protagonists",
+            "short episodes"
         ],
         "date": {
             "season": "fall",

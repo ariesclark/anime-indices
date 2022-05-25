@@ -119,7 +119,6 @@
         "relations": [
             "https://anidb.net/anime/12366",
             "https://anime-planet.com/anime/the-glass-mask-year-3-class-d",
-            "https://anisearch.com/anime/11730",
             "https://myanimelist.net/anime/1974",
             "https://myanimelist.net/anime/33975"
         ],
@@ -1932,6 +1931,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/chaoji-xiaoxiong-boomi",
             "https://anisearch.com/anime/15741",
             "https://myanimelist.net/anime/47541"
         ],
@@ -1950,6 +1950,8 @@
         "relations": [],
         "tags": [
             "cg-anime",
+            "chinese animation",
+            "family friendly",
             "fantasy",
             "kids"
         ],
@@ -4530,6 +4532,7 @@
             "school life",
             "shounen",
             "sports",
+            "team sports",
             "tournaments",
             "volleyball"
         ],
@@ -4649,7 +4652,7 @@
             "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen",
             "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou OVA",
             "Haikyuu!!: Tokushuu! Haru-kou Volley ni Kaketa Seishun",
-            "Haikyū!!: Tokushū! Haru-kō Volley ni Kaketa Seishun",
+            "Haikyū!! Tokushū! Haru-kō Volley ni Kaketa Seishun",
             "ハイキュー!! 烏野高校 VS 白鳥沢学園高校 特集! 春高バレーに賭けた青春",
             "ハイキュー!! 特集！春高バレーに賭けた青春",
             "ハイキュー！！ 特集！ 春高バレーに賭けた青春",
@@ -4661,7 +4664,6 @@
             "https://anilist.co/anime/21698",
             "https://anime-planet.com/anime/haikyuu-karasuno-high-school-vs-shiratorizawa-academy",
             "https://anime-planet.com/anime/haikyuu-second-season",
-            "https://anisearch.com/anime/11209",
             "https://myanimelist.net/anime/28891",
             "https://myanimelist.net/anime/32935"
         ],
@@ -6728,6 +6730,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kan-ge-qiu",
             "https://myanimelist.net/anime/47452"
         ],
         "title": "Kan Ge Qiu",
@@ -6743,8 +6746,11 @@
         "relations": [],
         "tags": [
             "anthropomorphic",
+            "chinese animation",
             "comedy",
-            "fantasy"
+            "family friendly",
+            "fantasy",
+            "short episodes"
         ],
         "date": {
             "season": "summer",
@@ -8159,14 +8165,15 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/long-qi-shi",
             "https://kitsu.io/anime/45806"
         ],
         "title": "Long Qi Shi",
         "type": "ona",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45806/poster_image/small-30652b04ef50563dc46ea4173d253ca0.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45806/poster_image/tiny-9d8ce14702bf4f5254de50a0c74802ba.jpeg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/long-qi-shi-1.webp?t=1652914744",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/long-qi-shi-1-254x357.webp?t=1652914744",
         "synonyms": [
             "Dragon Knight",
             "龙骑侍"
@@ -8174,7 +8181,10 @@
         "relations": [],
         "tags": [
             "adventure",
-            "comedy"
+            "chinese animation",
+            "comedy",
+            "fantasy",
+            "shorts"
         ],
         "date": {
             "season": "summer",
@@ -9808,8 +9818,6 @@
             "https://anime-planet.com/anime/no-game-no-life",
             "https://anime-planet.com/anime/no-game-no-life-specials",
             "https://anime-planet.com/anime/no-game-no-life-zero-manner-movie",
-            "https://anisearch.com/anime/15008",
-            "https://anisearch.com/anime/8878",
             "https://kitsu.io/anime/43366",
             "https://kitsu.io/anime/7880",
             "https://livechart.me/anime/150",
@@ -10174,7 +10182,6 @@
         "relations": [
             "https://anilist.co/anime/21",
             "https://anime-planet.com/anime/one-piece",
-            "https://anisearch.com/anime/2227",
             "https://kitsu.io/anime/12",
             "https://livechart.me/anime/321",
             "https://livechart.me/anime/4028",
@@ -12139,6 +12146,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/4/86647t.jpg",
         "synonyms": [
             "A Predator in a Skirt",
+            "A Wolf in Women's Clothing",
             "A Wolf in Women’s Clothing",
             "A wolf in women's clothing",
             "Skirt no Naka wa Kedamono deshita.",
@@ -14627,7 +14635,7 @@
             "You Jitsu",
             "You Zitsu",
             "You-Zitsu",
-            "You-zitsu",
+            "You-jitsu",
             "Youjitsu",
             "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
             "Youzitsu",
@@ -14667,13 +14675,13 @@
             "drama",
             "ecchi",
             "ensemble cast",
-            "female harem",
             "ganbatte",
             "genius",
             "hero of strong character",
             "heroine of strong character",
             "high school",
             "male protagonist",
+            "mind games",
             "novel",
             "philosophy",
             "present",

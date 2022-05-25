@@ -252,6 +252,30 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51901"
+        ],
+        "title": "Chuunken Senshi Mr. Chun",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1398/124020.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1398/124020t.jpg",
+        "synonyms": [
+            "中間戦士 Mr.中"
+        ],
+        "relations": [],
+        "tags": [
+            "comedy",
+            "parody",
+            "super power"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/51328"
         ],
         "title": "City",
@@ -845,6 +869,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/hou-wang-chuan",
             "https://myanimelist.net/anime/44639"
         ],
         "title": "Hou Wang Chuan",
@@ -860,8 +885,13 @@
         "relations": [],
         "tags": [
             "adventure",
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
             "fantasy",
-            "kids"
+            "kids",
+            "non-human protagonists"
         ],
         "date": {
             "season": "unknown",
@@ -1634,6 +1664,27 @@
         "relations": [],
         "tags": [
             "vocaloid"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/lei-feng-de-gushi"
+        ],
+        "title": "Lei Feng De Gushi",
+        "type": "tv",
+        "episodes": 30,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/lei-feng-de-gushi-1.webp?t=1653060984",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/lei-feng-de-gushi-1-269x377.webp?t=1653060984",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "historical"
         ],
         "date": {
             "season": "unknown",
@@ -2476,6 +2527,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/shaonian-shiye",
             "https://myanimelist.net/anime/44413"
         ],
         "title": "Shaonian Shiye",
@@ -2488,10 +2540,14 @@
             "少年師爺"
         ],
         "relations": [
+            "https://anime-planet.com/anime/shaonian-shiye-da-yu-baozang",
+            "https://anime-planet.com/anime/shaonian-shiye-zhihui-kuaile-xia",
             "https://myanimelist.net/anime/44414"
         ],
         "tags": [
             "adventure",
+            "chinese animation",
+            "family friendly",
             "historical",
             "kids"
         ],
@@ -3019,9 +3075,9 @@
         ],
         "tags": [
             "action",
-            "cars",
             "kids",
             "mecha",
+            "racing",
             "super power"
         ],
         "date": {
@@ -3031,20 +3087,28 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/51809"
+            "https://anime-planet.com/anime/tu-baobao-he-san-jian-shenqi-baobei",
+            "https://myanimelist.net/anime/44371"
         ],
-        "title": "Umarete Kureta Arigatou",
-        "type": "special",
-        "episodes": 1,
+        "title": "Tu Baobao He San Jian Shenqi Baobei",
+        "type": "tv",
+        "episodes": 164,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1627/123766.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1627/123766t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
-            "生まれてくれてありがとう"
+            "兔宝宝和三件神奇宝贝"
         ],
         "relations": [],
         "tags": [
-            "slice of life"
+            "adventure",
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
+            "fantasy",
+            "kids",
+            "non-human protagonists"
         ],
         "date": {
             "season": "unknown",

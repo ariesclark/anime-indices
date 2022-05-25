@@ -107,30 +107,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/51808"
-        ],
-        "title": "Arigatou: Kokoro no Bara",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1533/123765.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1533/123765t.jpg",
-        "synonyms": [
-            "Minna no Uta",
-            "ありがとう ～こころのバラ～"
-        ],
-        "relations": [],
-        "tags": [
-            "kids",
-            "romance"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2006
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/bi-jia-zhu",
             "https://myanimelist.net/anime/45523"
         ],
@@ -410,6 +386,32 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/huazhi-de-gushi",
+            "https://myanimelist.net/anime/44374"
+        ],
+        "title": "Huazhi De Gushi",
+        "type": "tv",
+        "episodes": 32,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "花枝的故事"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2006
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/huo-xing-wa-jiankang-chengzhang",
             "https://myanimelist.net/anime/45756"
         ],
@@ -465,6 +467,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/jingling-shiji",
             "https://myanimelist.net/anime/44351",
             "https://myanimelist.net/anime/45885"
         ],
@@ -482,8 +485,12 @@
         "relations": [],
         "tags": [
             "adventure",
+            "cg animation",
+            "chinese animation",
+            "family friendly",
             "fantasy",
-            "kids"
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -1137,6 +1144,30 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/shuihu-zuqiu-zhongji-ban-tian-can-fanji-zhan"
+        ],
+        "title": "Shuihu Zuqiu Zhongji Ban: Tian Can Fanji Zhan",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/shuihu-zuqiu-zhongji-ban-tian-can-fanji-zhan-1.webp?t=1653198410",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/shuihu-zuqiu-zhongji-ban-tian-can-fanji-zhan-1-258x362.webp?t=1653198410",
+        "synonyms": [
+            "Shui Hu, The Soccer Heroes"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "soccer",
+            "sports"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2006
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/the-adventures-of-the-little-prince-specials"
         ],
         "title": "The Adventures of the Little Prince Specials",
@@ -1378,6 +1409,28 @@
         "tags": [
             "adventure",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2006
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/zhongguo-nanhai-hong-zhanhui"
+        ],
+        "title": "Zhongguo Nanhai: Hong Zhanhui",
+        "type": "tv",
+        "episodes": 12,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/zhongguo-nanhai-hong-zhanhui-1.webp?t=1653072432",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/zhongguo-nanhai-hong-zhanhui-1-285x399.webp?t=1653072432",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "family friendly",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",

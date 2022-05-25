@@ -2824,10 +2824,6 @@
             "https://anime-planet.com/anime/fate-zero-onegai-einzbern-soudanshitsu",
             "https://anime-planet.com/anime/lord-el-melloi-iis-case-files-rail-zeppelin-grace-note",
             "https://anime-planet.com/anime/lord-el-melloi-iis-case-files-rail-zeppelin-grace-note-a-grave-keeper-a-cat-and-a-mage",
-            "https://anisearch.com/anime/10005",
-            "https://anisearch.com/anime/14065",
-            "https://anisearch.com/anime/3538",
-            "https://anisearch.com/anime/6691",
             "https://kitsu.io/anime/323",
             "https://kitsu.io/anime/4788",
             "https://kitsu.io/anime/6028",
@@ -3759,6 +3755,7 @@
             "Ice-cream",
             "The Niece of Time",
             "Хьёка",
+            "Хёка",
             "هیوکا",
             "ปริศนาความทรงจำ",
             "เฮียวกะปริศนาความทรงจำ",
@@ -6406,7 +6403,7 @@
             "Naruto Sugoi Doryoku: Rock Lē no Seishun Full-Power Ninden",
             "Rock Lee and His Ninja Pals",
             "Rock Lee no Seishun Full-Power Ninden",
-            "Rock Lee's Springtime of Youth Full Power Ninja",
+            "Rock Lee’s Springtime of Youth Full Power Ninja",
             "ナルトSD ロック・リーの青春フルパワー忍伝",
             "火影忍者SD 李洛克的青春全力忍传"
         ],
@@ -6414,7 +6411,6 @@
             "https://anidb.net/anime/4880",
             "https://anilist.co/anime/1735",
             "https://anime-planet.com/anime/naruto-shippuden",
-            "https://anisearch.com/anime/3972",
             "https://kitsu.io/anime/1555",
             "https://livechart.me/anime/316",
             "https://livechart.me/anime/3585",
@@ -6658,6 +6654,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1668/117560t.jpg",
         "synonyms": [
             "IA",
+            "Japan Bridge Overpass Under R Plan",
             "Jin: Nihonbashi Koukashita R Keikaku",
             "Nihonbashi Kōkashita R Keikaku",
             "日本橋高架下R計画"
@@ -6699,6 +6696,7 @@
         "synonyms": [
             "Niji-Iro Hotaru ~Eien no Natsu Yasumi~",
             "Niji-iro Hotaru: Eien no Natsuyasumi",
+            "Rainbow Fireflies",
             "Rainbow-Colored Fireflies: The Eternal Summer Vacation",
             "Rainbow-Coloured Fireflies: The Eternal Summer Vacation",
             "Rainbow-colored Firefly: Never Ending Summer Vacation",
@@ -7320,6 +7318,7 @@
         "synonyms": [
             "P4A: The Factor of Hope",
             "Persona 4 The Animation: The Factor of Hope",
+            "Persona 4 the Animation: the Factor of Hope",
             "Shin Megami Tensei: Persona 4: The Factor of Hope",
             "ペルソナ4 The Animation -the Factor of Hope-",
             "ペルソナ4 the Animation -the Factor of Hope-"
@@ -7866,6 +7865,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/qian-ting-zong-dong-yuan-2",
             "https://myanimelist.net/anime/51631"
         ],
         "title": "Qian Ting Zong Dong Yuan 2",
@@ -7879,12 +7879,19 @@
             "潜艇总动员2"
         ],
         "relations": [
+            "https://anime-planet.com/anime/qian-ting-zong-dong-yuan",
+            "https://anime-planet.com/anime/qian-ting-zong-dong-yuan-3-caihong-baozang",
             "https://myanimelist.net/anime/51303",
             "https://myanimelist.net/anime/51686"
         ],
         "tags": [
             "adventure",
-            "kids"
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "non-human protagonists",
+            "ocean"
         ],
         "date": {
             "season": "spring",
@@ -8942,6 +8949,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/shaonian-shiye-xiayi-huanle-xing",
             "https://myanimelist.net/anime/44415"
         ],
         "title": "Shaonian Shiye: Xiayi Huanle Xing",
@@ -8954,10 +8962,14 @@
             "少年师爷之侠义欢乐行"
         ],
         "relations": [
+            "https://anime-planet.com/anime/shaonian-shiye-ren-shanxing-tianxia",
+            "https://anime-planet.com/anime/shaonian-shiye-zhihui-kuaile-xia",
             "https://myanimelist.net/anime/44414",
             "https://myanimelist.net/anime/44416"
         ],
         "tags": [
+            "chinese animation",
+            "family friendly",
             "historical",
             "kids"
         ],

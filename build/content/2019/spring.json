@@ -148,6 +148,7 @@
             "Aggressive Retsuko 2",
             "Aggressive Retsuko Season 2",
             "Aggretsuko (2019)",
+            "Aggretsuko (ONA) 2nd Season",
             "Aggretsuko 2",
             "Aggretsuko 2nd Season",
             "Aggretsuko : Saison 2",
@@ -216,7 +217,8 @@
             "urban",
             "work",
             "work life",
-            "working life"
+            "working life",
+            "workplace"
         ],
         "date": {
             "season": "spring",
@@ -505,8 +507,8 @@
             "Backwasher! -Her and I, in the Women's Bath!?-",
             "Backwasher! Her and I, in the Women's Bath!?",
             "Miss Washer!: Her and I in Female Bath!?",
+            "Washer! She and I in the Women's Bath!?",
             "Washer!: She and I in the Women's Bath!",
-            "Washer!: She and I in the Women's Bath!?",
             "洗い屋さん! ~俺とアイツが女湯で!?~",
             "洗い屋さん！ ～俺とアイツが女湯で！？～",
             "洗い屋さん！～俺とアイツが女湯で！？～"
@@ -1645,7 +1647,6 @@
         ],
         "relations": [
             "https://anilist.co/anime/101594",
-            "https://anilist.co/anime/111144",
             "https://anilist.co/anime/115656",
             "https://kitsu.io/anime/41145",
             "https://livechart.me/anime/1098",
@@ -4179,6 +4180,7 @@
     {
         "sources": [
             "https://anidb.net/anime/14882",
+            "https://anime-planet.com/anime/kung-fu-si-xia-yong-chuang-digong",
             "https://myanimelist.net/anime/44964"
         ],
         "title": "Gongfu Si Xia: Yong Chuang Digong",
@@ -4189,18 +4191,26 @@
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
             "Four Warriors: The Underworld",
+            "Kung Fu Si Xia: Yong Chuang Digong",
             "功夫四侠2",
             "功夫四侠: 勇闯地宫",
             "功夫四侠：勇闯地宫"
         ],
         "relations": [
             "https://anidb.net/anime/14881",
+            "https://anime-planet.com/anime/kung-fu-si-xia",
             "https://myanimelist.net/anime/44963"
         ],
         "tags": [
             "adventure",
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
             "fantasy",
-            "kids"
+            "kids",
+            "martial arts",
+            "non-human protagonists"
         ],
         "date": {
             "season": "spring",
@@ -4728,8 +4738,6 @@
             "https://livechart.me/anime/2579",
             "https://livechart.me/anime/2715",
             "https://livechart.me/anime/9457",
-            "https://myanimelist.net/anime/31988",
-            "https://myanimelist.net/anime/39894",
             "https://notify.moe/anime/xDNCtFiiR"
         ],
         "tags": [
@@ -4884,44 +4892,18 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/10320"
-        ],
-        "title": "Holo no Graffiti",
-        "type": "ona",
-        "episodes": 0,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/10320/poster_image/31686a65575d7d134ba2f0fbaca10919.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/10320/poster_image/31686a65575d7d134ba2f0fbaca10919.jpg?style=small&format=jpg",
-        "synonyms": [
-            "Holo Graffiti",
-            "ホロのぐらふぃてぃ"
-        ],
-        "relations": [
-            "https://livechart.me/anime/10351",
-            "https://livechart.me/anime/10650",
-            "https://livechart.me/anime/11082"
-        ],
-        "tags": [
-            "comedy"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/15971",
             "https://anilist.co/anime/118123",
             "https://anime-planet.com/anime/holo-no-graffiti",
             "https://anisearch.com/anime/16354",
             "https://kitsu.io/anime/43740",
+            "https://livechart.me/anime/10320",
             "https://myanimelist.net/anime/44042",
             "https://notify.moe/anime/00RDLeYMg"
         ],
         "title": "Holo no Graffiti",
         "type": "ona",
-        "episodes": 157,
+        "episodes": 158,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1259/110227.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1259/110227t.jpg",
@@ -4990,12 +4972,17 @@
             "https://kitsu.io/anime/46012",
             "https://kitsu.io/anime/46042",
             "https://kitsu.io/anime/46058",
+            "https://livechart.me/anime/10351",
+            "https://livechart.me/anime/10650",
+            "https://livechart.me/anime/11082",
             "https://myanimelist.net/anime/43878",
             "https://myanimelist.net/anime/43879",
+            "https://myanimelist.net/anime/44345",
             "https://myanimelist.net/anime/47904",
             "https://myanimelist.net/anime/49860",
             "https://myanimelist.net/anime/49861",
             "https://myanimelist.net/anime/50030",
+            "https://myanimelist.net/anime/50036",
             "https://myanimelist.net/anime/50352",
             "https://myanimelist.net/anime/50669",
             "https://myanimelist.net/anime/50774",
@@ -5097,33 +5084,6 @@
             "cg-anime",
             "independent anime",
             "science-fiction"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/9247"
-        ],
-        "title": "Hora, Mimi ga Mieteru yo! Season 2",
-        "type": "tv",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/9247/poster_image/dabd70d512adc76f335f8d2d30ad732b.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/9247/poster_image/dabd70d512adc76f335f8d2d30ad732b.png?style=small&format=jpg",
-        "synonyms": [
-            "Look, I Can See Your Ears! Season 2",
-            "ほら、耳がみえてるよ！シーズン２"
-        ],
-        "relations": [
-            "https://livechart.me/anime/3479"
-        ],
-        "tags": [
-            "comedy",
-            "shounen ai",
-            "slice of life"
         ],
         "date": {
             "season": "spring",
@@ -6126,14 +6086,6 @@
             "https://anime-planet.com/anime/demon-slayer-kimetsu-no-yaiba-mugen-train",
             "https://anime-planet.com/anime/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc",
             "https://anime-planet.com/anime/kimetsu-gakuen-valentine-hen",
-            "https://anisearch.com/anime/14215",
-            "https://anisearch.com/anime/14653",
-            "https://anisearch.com/anime/15971",
-            "https://anisearch.com/anime/16194",
-            "https://anisearch.com/anime/16195",
-            "https://anisearch.com/anime/16614",
-            "https://anisearch.com/anime/16658",
-            "https://anisearch.com/anime/16659",
             "https://kitsu.io/anime/42586",
             "https://kitsu.io/anime/44063",
             "https://kitsu.io/anime/44388",
@@ -6852,9 +6804,7 @@
             "https://anidb.net/anime/14553",
             "https://anilist.co/anime/108891",
             "https://anime-planet.com/anime/kono-oto-tomare-2nd-season",
-            "https://anisearch.com/anime/14046",
             "https://kitsu.io/anime/42306",
-            "https://livechart.me/anime/8684",
             "https://myanimelist.net/anime/38889",
             "https://notify.moe/anime/shDrOCZWg"
         ],
@@ -7886,6 +7836,7 @@
             "supernatural drama",
             "urban fantasy",
             "work life",
+            "workplace",
             "youkai",
             "zombie"
         ],
@@ -9404,8 +9355,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1968/100374.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1968/100374t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1550/123539.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1550/123539t.jpg",
         "synonyms": [
             "OPM 2",
             "One Punch Man Saison 2 Épisode 0",
@@ -9933,6 +9884,33 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51870"
+        ],
+        "title": "Pokemon de Manabi, Asobu",
+        "type": "ona",
+        "episodes": 6,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1790/123933.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1790/123933t.jpg",
+        "synonyms": [
+            "Learn and play with Pokémon",
+            "ポケモンで学び、遊ぶ"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/527"
+        ],
+        "tags": [
+            "comedy",
+            "educational",
+            "kids"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/112152",
             "https://anisearch.com/anime/15239"
         ],
@@ -10025,8 +10003,6 @@
             "https://anilist.co/anime/98549",
             "https://anime-planet.com/anime/pop-team-epic",
             "https://anime-planet.com/anime/pop-team-epic-2nd-season",
-            "https://anisearch.com/anime/12461",
-            "https://anisearch.com/anime/16962",
             "https://kitsu.io/anime/13319",
             "https://livechart.me/anime/10970",
             "https://livechart.me/anime/2656",
@@ -10321,6 +10297,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/qian-ting-zong-dong-yuan-wai-xing-baobei-jihua",
             "https://myanimelist.net/anime/44664"
         ],
         "title": "Qian Ting Zong Dong Yuan: Wai Xing Baobei Jihua",
@@ -10333,10 +10310,17 @@
             "Happy Little Submarine: Space Pals",
             "潜艇总动员：外星宝贝计划"
         ],
-        "relations": [],
+        "relations": [
+            "https://anime-planet.com/anime/qian-ting-zong-dong-yuan"
+        ],
         "tags": [
             "adventure",
-            "kids"
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "non-human protagonists",
+            "ocean"
         ],
         "date": {
             "season": "spring",
@@ -12615,7 +12599,6 @@
             "天球、彗星は夜を跨いで"
         ],
         "relations": [
-            "https://anilist.co/anime/137593",
             "https://kitsu.io/anime/43740",
             "https://myanimelist.net/anime/44042",
             "https://myanimelist.net/anime/44259",
@@ -13544,8 +13527,6 @@
             "https://anime-planet.com/anime/washimo-6",
             "https://anime-planet.com/anime/washimo-8",
             "https://anime-planet.com/anime/washimo-9",
-            "https://anisearch.com/anime/13547",
-            "https://anisearch.com/anime/15736",
             "https://livechart.me/anime/10479",
             "https://livechart.me/anime/11120",
             "https://livechart.me/anime/1355",

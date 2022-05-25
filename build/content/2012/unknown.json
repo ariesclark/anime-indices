@@ -1087,6 +1087,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/gangtie-feilong",
             "https://myanimelist.net/anime/44293"
         ],
         "title": "Gangtie Feilong",
@@ -1096,14 +1097,21 @@
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "Dragon Force",
             "鋼鐵飛龍"
         ],
         "relations": [
+            "https://anime-planet.com/anime/gangtie-feilong-2-ultraman-liliang",
+            "https://anime-planet.com/anime/gangtie-feilong-movie",
+            "https://anime-planet.com/anime/gangtie-feilong-zaijian-ultraman",
             "https://myanimelist.net/anime/44294"
         ],
         "tags": [
+            "action",
             "adventure",
+            "chinese animation",
             "kids",
+            "sci fi",
             "sci-fi"
         ],
         "date": {
@@ -3530,29 +3538,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/recruit-rhapsody"
-        ],
-        "title": "Recruit Rhapsody",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/recruit-rhapsody-1.webp?t=1639024318",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/recruit-rhapsody-1-285x400.webp?t=1639024318",
-        "synonyms": [
-            "Shuukatsu Kyousokyouku"
-        ],
-        "relations": [],
-        "tags": [
-            "no dialogue",
-            "shorts"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/103367"
         ],
         "title": "Requiem",
@@ -4313,6 +4298,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tiejia-wei-chong-zhi-qi-ren-wang",
             "https://myanimelist.net/anime/44301"
         ],
         "title": "Tiejia Wei Chong Zhi Qi Ren Wang",
@@ -4322,12 +4308,15 @@
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "Armored Beetles",
             "铁甲威虫之骑刃王"
         ],
         "relations": [],
         "tags": [
             "action",
             "adventure",
+            "chinese animation",
+            "family friendly",
             "fantasy",
             "kids"
         ],

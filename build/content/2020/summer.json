@@ -244,6 +244,7 @@
             "Aggressive Retsuko 3",
             "Aggressive Retsuko Season 3",
             "Aggretsuko (2020)",
+            "Aggretsuko (ONA) 3rd Season",
             "Aggretsuko 3",
             "Aggretsuko 3rd Season",
             "Aggretsuko : Saison 3",
@@ -317,7 +318,8 @@
             "urban",
             "work",
             "work life",
-            "working life"
+            "working life",
+            "workplace"
         ],
         "date": {
             "season": "summer",
@@ -2295,6 +2297,7 @@
             "https://livechart.me/anime/10323",
             "https://livechart.me/anime/8355",
             "https://myanimelist.net/anime/38671",
+            "https://myanimelist.net/anime/51818",
             "https://notify.moe/anime/g1DshxUmR"
         ],
         "tags": [
@@ -3112,6 +3115,28 @@
     },
     {
         "sources": [
+            "https://anisearch.com/anime/17383"
+        ],
+        "title": "GoGo Dino Uri Dongne Gongnyong",
+        "type": "tv",
+        "episodes": 13,
+        "status": "finished",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17383.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17383.webp",
+        "synonyms": [
+            "고고다이노 우리동네공룡"
+        ],
+        "relations": [],
+        "tags": [
+            "cg-anime"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/15964"
         ],
         "title": "Golden Kamuy: Shiton Doubutsuki",
@@ -3148,21 +3173,29 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16862"
+            "https://anidb.net/anime/16862",
+            "https://anilist.co/anime/149345"
         ],
-        "title": "Gon Di Hanta: Ta Turan Xiangdao",
+        "title": "Gon De Hanta: Tata Turan Xiangdao",
         "type": "ona",
         "episodes": 12,
         "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/266157.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/266157.jpg-thumb.jpg",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149345-G5Z5fKPLFgFy.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149345-G5Z5fKPLFgFy.png",
         "synonyms": [
-            "Gon的旱獭之獭獭突然想到"
+            "Gon Di Hanta: Ta Turan Xiangdao",
+            "Gon的旱獭 SP",
+            "Gon的旱獭之獭獭突然想到",
+            "Tata's Rainbow Brainstorm"
         ],
         "relations": [
-            "https://anidb.net/anime/16859"
+            "https://anidb.net/anime/16859",
+            "https://anilist.co/anime/149346"
         ],
-        "tags": [],
+        "tags": [
+            "comedy",
+            "slice of life"
+        ],
         "date": {
             "season": "summer",
             "year": 2020
@@ -3240,9 +3273,7 @@
             "Granblue Fantasy: The Animation Staffel 2 OVA 2",
             "グランブルーファンタジー The Animation Season2 降臨！サイファーマスク！／聖アルビオン女学園物語"
         ],
-        "relations": [
-            "https://anisearch.com/anime/12914"
-        ],
+        "relations": [],
         "tags": [],
         "date": {
             "season": "summer",
@@ -5341,6 +5372,7 @@
             "ensemble cast",
             "fantasy",
             "female protagonist",
+            "ghost",
             "idol",
             "idols",
             "magic",
@@ -5552,7 +5584,7 @@
         ],
         "title": "Ling Jian Zun 4th Season",
         "type": "ona",
-        "episodes": 180,
+        "episodes": 280,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1972/108157.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1972/108157t.jpg",
@@ -7181,13 +7213,13 @@
         "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14666.webp",
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14666.webp",
         "synonyms": [
+            "El hundimiento de Japón: 2020",
             "Japan Sinks : 2020",
             "Japan Sinks: 2020",
             "Japan sinkt: 2020",
             "日本沈没2020"
         ],
         "relations": [
-            "https://anisearch.com/anime/15638",
             "https://livechart.me/anime/10122"
         ],
         "tags": [
@@ -7891,6 +7923,32 @@
             "swords & co",
             "tentacles",
             "violence"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51883"
+        ],
+        "title": "Pikachu no Asa no Nikka",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1535/123951.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1535/123951t.jpg",
+        "synonyms": [
+            "Pikachu's Morning Routine",
+            "Pokémon Fun Video",
+            "ピカチュウのあさ"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/527"
+        ],
+        "tags": [
+            "kids"
         ],
         "date": {
             "season": "summer",
@@ -9710,7 +9768,6 @@
             "Sword Art Online 3 3rd Season",
             "Sword Art Online : Alicization - War of Underworld Partie 2",
             "Sword Art Online Alicization War of Underworld (2nd cour)",
-            "Sword Art Online Alicization War of Underworld Part 2",
             "Sword Art Online Alicization War of Underworld Partie 2",
             "Sword Art Online Alicization War of Underworld Teil 2",
             "Sword Art Online III 3rd Season",
@@ -9821,6 +9878,7 @@
             "swords & co",
             "time skip",
             "tragedy",
+            "video game",
             "video games",
             "virtual reality",
             "virtual world",
@@ -10044,6 +10102,30 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51831"
+        ],
+        "title": "Tanjou",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1589/123920.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1589/123920t.jpg",
+        "synonyms": [
+            "Birth",
+            "誕生"
+        ],
+        "relations": [],
+        "tags": [
+            "music"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/tata-tu-ran-xiang-dao",
             "https://myanimelist.net/anime/51261"
         ],
         "title": "Tata Tu Ran Xiang Dao",
@@ -10057,12 +10139,18 @@
             "獭獭突然想到"
         ],
         "relations": [
+            "https://anime-planet.com/anime/tata-tu-ran-xiang-dao-2",
             "https://myanimelist.net/anime/51262"
         ],
         "tags": [
+            "animal protagonists",
             "anthropomorphic",
+            "chinese animation",
             "comedy",
-            "kids"
+            "family friendly",
+            "kids",
+            "non-human protagonists",
+            "short episodes"
         ],
         "date": {
             "season": "summer",
@@ -10826,6 +10914,8 @@
             "Violet Evergarden: O Filme",
             "Violet Evergarden: The Movie",
             "Violet Evergarden: the Movie",
+            "Вайоллет Эвергарден",
+            "Виолетта Эвергарден",
             "剧场版 紫罗兰永恒花园",
             "劇場版 ヴァイオレット・エヴァーガーデン",
             "劇場版 紫羅蘭永恆花園",

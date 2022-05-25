@@ -3089,7 +3089,6 @@
             "https://anidb.net/anime/14875",
             "https://anilist.co/anime/104105",
             "https://anime-planet.com/anime/flowering-heart-2",
-            "https://anisearch.com/anime/17026",
             "https://kitsu.io/anime/14183",
             "https://myanimelist.net/anime/36618"
         ],
@@ -3396,7 +3395,7 @@
             "GATE 奇幻自卫队 炎龙篇",
             "GATE 自衛隊 彼の地にて, 斯く戦えり (2016)",
             "GATE 自衛隊 彼の地にて、斯く戦えり (2016)",
-            "GATE(ゲート) 自衛隊 彼の地にて、斯く戦えり 2",
+            "GATE 自衛隊 彼の地にて、斯く戦えり 2",
             "GATE（ゲート） 自衛隊 彼の地にて、斯く戦えり 2クール",
             "GATE（ゲート）自衛隊　彼の地にて、斯く戦えり　第2クール",
             "Gate (2016)",
@@ -7207,6 +7206,30 @@
     },
     {
         "sources": [
+            "https://kitsu.io/anime/46125"
+        ],
+        "title": "Miku Miku Miku Miku Mi",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://media.kitsu.io/anime/46125/poster_image/small-9a7301fc73f12f85e314260092c29299.jpeg",
+        "thumbnail": "https://media.kitsu.io/anime/46125/poster_image/tiny-e9365ddb605de7c904887235dceececb.jpeg",
+        "synonyms": [
+            "\"ミクミクミクミクミ\"",
+            "Kinoshita: Miku Miku Miku Miku Mi"
+        ],
+        "relations": [],
+        "tags": [
+            "comedy",
+            "music"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/11861",
             "https://anilist.co/anime/21571",
             "https://anime-planet.com/anime/mim-mam-mint",
@@ -9627,38 +9650,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/13182",
-            "https://anilist.co/anime/113182",
-            "https://anime-planet.com/anime/pochi-hana",
-            "https://anisearch.com/anime/12548",
-            "https://myanimelist.net/anime/50687"
-        ],
-        "title": "Pochi Hana",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1915/120266.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1915/120266t.jpg",
-        "synonyms": [
-            "PochiHana",
-            "ぽちはな"
-        ],
-        "relations": [],
-        "tags": [
-            "animals",
-            "drama",
-            "present",
-            "shorts",
-            "slice of life",
-            "slice of life drama"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/12323"
         ],
         "title": "Ponkotsu Quest: Maou to Haken no Mamono-tachi (2016)",
@@ -10515,8 +10506,6 @@
             "https://anilist.co/anime/98421",
             "https://anime-planet.com/anime/oshiete-mahou-no-pendulum-rilu-rilu-fairilu",
             "https://anime-planet.com/anime/rilu-rilu-fairilu-mahou-no-kagami",
-            "https://anisearch.com/anime/10225",
-            "https://anisearch.com/anime/12231",
             "https://kitsu.io/anime/13577",
             "https://livechart.me/anime/2611",
             "https://livechart.me/anime/3103",
@@ -10609,6 +10598,7 @@
     {
         "sources": [
             "https://anilist.co/anime/21605",
+            "https://livechart.me/anime/2004",
             "https://myanimelist.net/anime/32397"
         ],
         "title": "Saga-ken wo Meguru Animation",
@@ -11208,7 +11198,6 @@
             "https://anime-planet.com/anime/shimajirou-to-otsuki-sama-no-himitsu",
             "https://anime-planet.com/anime/shimajirou-to-tanjoubi-no-ohoshi-sama",
             "https://anime-planet.com/anime/shimajirou-to-ururu-no-hero-land",
-            "https://anisearch.com/anime/7761",
             "https://livechart.me/anime/10106",
             "https://livechart.me/anime/11122",
             "https://livechart.me/anime/2402",
@@ -13314,9 +13303,7 @@
         "synonyms": [
             "ウマ娘 プリティーダービー プロモーションムービー"
         ],
-        "relations": [
-            "https://anisearch.com/anime/12470"
-        ],
+        "relations": [],
         "tags": [
             "fantasy",
             "ganbatte",

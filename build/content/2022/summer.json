@@ -138,8 +138,8 @@
         "type": "movie",
         "episodes": 1,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1733/120655.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1733/120655t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1579/123864.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1579/123864t.jpg",
         "synonyms": [
             "Backflip!! Movie",
             "Backflip!! The Movie",
@@ -666,7 +666,7 @@
         ],
         "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV",
         "type": "tv",
-        "episodes": 0,
+        "episodes": 1,
         "status": "upcoming",
         "picture": "https://cdn.myanimelist.net/images/anime/1180/120373.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1180/120373t.jpg",
@@ -692,14 +692,6 @@
             "https://anime-planet.com/anime/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-ii",
             "https://anime-planet.com/anime/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-iii",
             "https://kitsu.io/anime/42583",
-            "https://livechart.me/anime/10279",
-            "https://livechart.me/anime/1274",
-            "https://livechart.me/anime/2045",
-            "https://livechart.me/anime/2066",
-            "https://livechart.me/anime/3107",
-            "https://livechart.me/anime/3108",
-            "https://livechart.me/anime/9612",
-            "https://livechart.me/anime/9613",
             "https://myanimelist.net/anime/40454",
             "https://notify.moe/anime/8sTGGxhWg"
         ],
@@ -807,6 +799,7 @@
             "idol",
             "music",
             "original work",
+            "primarily female cast",
             "school",
             "slice of life",
             "soccer",
@@ -881,7 +874,8 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/51805"
+            "https://myanimelist.net/anime/51805",
+            "https://notify.moe/anime/7trePLu7g"
         ],
         "title": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou",
         "type": "movie",
@@ -897,9 +891,11 @@
         ],
         "relations": [
             "https://myanimelist.net/anime/42886",
-            "https://myanimelist.net/anime/820"
+            "https://myanimelist.net/anime/820",
+            "https://notify.moe/anime/00Njybvng"
         ],
         "tags": [
+            "action",
             "adult cast",
             "drama",
             "military",
@@ -1256,23 +1252,27 @@
             "https://anidb.net/anime/17357",
             "https://anime-planet.com/anime/iii-icecrin-2",
             "https://anisearch.com/anime/17377",
-            "https://livechart.me/anime/11211"
+            "https://livechart.me/anime/11211",
+            "https://myanimelist.net/anime/51839"
         ],
-        "title": "Iii Icecrin 2",
+        "title": "Iii Icecrin Double",
         "type": "tv",
         "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.anime-planet.com/anime/primary/iii-icecrin-2-1.webp?t=1652143644",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/iii-icecrin-2-1-285x399.webp?t=1652143644",
+        "picture": "https://cdn.myanimelist.net/images/anime/1716/123876.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1716/123876t.jpg",
         "synonyms": [
+            "Iii Icecrin 2",
             "iii icecrin 2",
             "iiiあいすくりん 2",
-            "iiiあいすくりん2"
+            "iiiあいすくりん2",
+            "iiiあいすくりん2（あいあいあい あいすくりん ダブル）"
         ],
         "relations": [
             "https://anidb.net/anime/15928",
             "https://anime-planet.com/anime/iii-icecrin",
-            "https://livechart.me/anime/10276"
+            "https://livechart.me/anime/10276",
+            "https://myanimelist.net/anime/44848"
         ],
         "tags": [
             "animal protagonists",
@@ -1453,6 +1453,7 @@
             "medicine",
             "medieval",
             "modern knowledge",
+            "novel",
             "romance",
             "slice of life"
         ],
@@ -1546,12 +1547,51 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16733",
+            "https://anilist.co/anime/139376",
+            "https://anime-planet.com/anime/joshikousei-to-mahou-no-note",
+            "https://anisearch.com/anime/16604",
+            "https://kitsu.io/anime/45221",
+            "https://livechart.me/anime/10796",
+            "https://myanimelist.net/anime/49851",
+            "https://notify.moe/anime/i6F0LmNnR"
+        ],
+        "title": "Joshikousei to Mahou no Note",
+        "type": "ona",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1444/117811.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1444/117811t.jpg",
+        "synonyms": [
+            "High School Girl & the Magic Notebook",
+            "High School Girl and the Magic Notebook",
+            "Joshikōsei to Mahō no Note",
+            "Jyoshikousei to Mahou no Note",
+            "high school girl & the magic notebook",
+            "女子高生と魔法のノート"
+        ],
+        "relations": [],
+        "tags": [
+            "based on a novel",
+            "fantasy",
+            "full cgi",
+            "present",
+            "school"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/17354",
             "https://anilist.co/anime/148492",
             "https://anisearch.com/anime/17369",
             "https://kitsu.io/anime/46113",
             "https://livechart.me/anime/11208",
-            "https://myanimelist.net/anime/51773"
+            "https://myanimelist.net/anime/51773",
+            "https://notify.moe/anime/pyvgLLu7R"
         ],
         "title": "KJ File",
         "type": "tv",
@@ -1642,6 +1682,7 @@
             "gambling",
             "genius",
             "horror",
+            "manga",
             "mystery",
             "present",
             "primarily female cast",
@@ -2198,6 +2239,7 @@
             "incest",
             "inseki",
             "love triangle",
+            "novel",
             "otaku culture",
             "present",
             "remarriage",
@@ -2297,17 +2339,23 @@
     {
         "sources": [
             "https://anime-planet.com/anime/mori-no-kuma-san-toumin-chuu",
+            "https://anisearch.com/anime/17391",
             "https://myanimelist.net/anime/49460"
         ],
         "title": "Mori no Kuma-san, Toumin-chuu.",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1842/123899.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1842/123899t.jpg",
         "synonyms": [
             "Caressing the Nipples of My Hibernating Bear",
             "Mori no Kuma-san, Toumin-chuu ni Chikubi wo Mederaremashita.",
+            "Mori no Kuma-san, Touminchuu ni Chikubi o Mederaremashita.",
+            "Mori no Kuma-san, Touminchuu ni Chikubi wo Mederaremashita.",
+            "Mori no Kuma-san, Tōmin-chū.",
+            "Morikuma",
+            "The Forest Bear, Hibernating",
             "森のくまさん、冬眠中。"
         ],
         "relations": [],
@@ -2476,6 +2524,7 @@
             "ONE PIECE FILM: RED",
             "One Piece Film 14",
             "One Piece Film 15",
+            "One Piece Film : Red",
             "One Piece Film Red",
             "One Piece Movie 14",
             "One Piece Movie 15",
@@ -2483,6 +2532,7 @@
             "فيلم ون بيس: ريد"
         ],
         "relations": [
+            "https://anidb.net/anime/69",
             "https://anilist.co/anime/21",
             "https://anime-planet.com/anime/one-piece",
             "https://kitsu.io/anime/12",
@@ -2609,8 +2659,8 @@
         "type": "movie",
         "episodes": 1,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1101/121368.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1101/121368t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1728/123861.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1728/123861t.jpg",
         "synonyms": [
             "Mr. Osomatsu (2022)",
             "Mr. Osomatsu: The Hipipo Tribe and the Glistening Fruit",
@@ -2838,6 +2888,7 @@
             "action",
             "american derived",
             "based on a cartoon",
+            "coming of age",
             "cult",
             "cyberpunk",
             "fairy tale",
@@ -2978,6 +3029,58 @@
             "sci-fi",
             "science fiction",
             "witch"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/17421",
+            "https://anilist.co/anime/149326",
+            "https://anime-planet.com/anime/the-maid-i-hired-recently-is-mysterious",
+            "https://anisearch.com/anime/17385",
+            "https://livechart.me/anime/11223",
+            "https://myanimelist.net/anime/51837",
+            "https://notify.moe/anime/DNknQLu7g"
+        ],
+        "title": "Saikin Yatotta Maid ga Ayashii",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1022/123845.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1022/123845t.jpg",
+        "synonyms": [
+            "My Recently Hired Maid Is Mysterious",
+            "My Recently Hired Maid Is Suspicious",
+            "My Recently Hired Maid is Suspicious",
+            "Saikin Yatotta Maid ga Ayashī",
+            "The Maid I Hired Recently Is Mysterious",
+            "The Maid I Hired Recently is Mysterious",
+            "The Maid I Recently Hired is Mysterious",
+            "The Maid We Hired Recently Is Suspicious",
+            "最近雇ったメイドが怪しい"
+        ],
+        "relations": [],
+        "tags": [
+            "age gap",
+            "based on a doujinshi",
+            "comedy",
+            "ecchi",
+            "female protagonist",
+            "heterosexual",
+            "maid",
+            "maids",
+            "male protagonist",
+            "manga",
+            "mansion",
+            "older woman, younger man",
+            "romance",
+            "romantic comedy",
+            "romantic subtext",
+            "shounen",
+            "slice of life"
         ],
         "date": {
             "season": "summer",
@@ -3584,6 +3687,8 @@
             "comedy",
             "cute girls doing cute things",
             "present",
+            "primarily female cast",
+            "primarily teen cast",
             "school",
             "slice of life"
         ],
@@ -3853,6 +3958,7 @@
         "tags": [
             "comedy",
             "genius",
+            "manga",
             "present",
             "romance",
             "romantic comedy",
@@ -3878,8 +3984,8 @@
         "type": "movie",
         "episodes": 1,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1636/122766.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1636/122766t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1485/123862.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1485/123862t.jpg",
         "synonyms": [
             "Gekijouban Tsurune: Hajimari no Hitosa",
             "Gekijouban Tsurune: Kazemai Koukou Kyuudou-bu",
@@ -3953,19 +4059,30 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/17361"
+            "https://anidb.net/anime/17361",
+            "https://anisearch.com/anime/17384"
         ],
         "title": "Uta no Prince-sama: Maji Love Starish Tours - Tabi no Hajimari",
-        "type": "special",
+        "type": "tv",
         "episodes": 1,
         "status": "upcoming",
-        "picture": "https://cdn.anidb.net/images/main/272893.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/272893.jpg-thumb.jpg",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17384.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17384.webp",
         "synonyms": [
-            "うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ ~旅の始まり~"
+            "The Start of a Journey",
+            "Utano☆Princesama♪ Maji Love ST☆RISH Tours: Tabi no Hajimari",
+            "うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ ~旅の始まり~",
+            "うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ ～旅の始まり～"
         ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "comedy",
+            "harem",
+            "idol",
+            "music",
+            "present",
+            "romance"
+        ],
         "date": {
             "season": "summer",
             "year": 2022
@@ -4203,7 +4320,7 @@
             "https://notify.moe/anime/y3c3t6M7g"
         ],
         "title": "Yojouhan Time Machine Blues",
-        "type": "tv",
+        "type": "ona",
         "episodes": 6,
         "status": "upcoming",
         "picture": "https://cdn.myanimelist.net/images/anime/1594/117146.jpg",
@@ -4245,7 +4362,9 @@
             "https://anidb.net/anime/17336",
             "https://anilist.co/anime/148042",
             "https://anime-planet.com/anime/nights-with-a-cat",
+            "https://anisearch.com/anime/17389",
             "https://kitsu.io/anime/46090",
+            "https://livechart.me/anime/11193",
             "https://myanimelist.net/anime/51692",
             "https://notify.moe/anime/jKbAPEQ7g"
         ],
@@ -4268,30 +4387,6 @@
             "cats",
             "comedy",
             "pets",
-            "slice of life"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/11193"
-        ],
-        "title": "Yoru wa Neko to Issho",
-        "type": "unknown",
-        "episodes": 0,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/11193/poster_image/f46010d3a599c4f78b523cb74f255755.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/11193/poster_image/f46010d3a599c4f78b523cb74f255755.png?style=small&format=jpg",
-        "synonyms": [
-            "Nights with a Cat",
-            "夜は猫といっしょ"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
             "slice of life"
         ],
         "date": {
@@ -4347,8 +4442,6 @@
             "https://anime-planet.com/anime/classroom-of-the-elite-3rd-season",
             "https://kitsu.io/anime/13503",
             "https://kitsu.io/anime/45951",
-            "https://livechart.me/anime/11116",
-            "https://livechart.me/anime/2688",
             "https://myanimelist.net/anime/35507",
             "https://myanimelist.net/anime/51180",
             "https://notify.moe/anime/4qRV2Fmig",
@@ -4433,14 +4526,15 @@
         "type": "movie",
         "episodes": 1,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1064/122158.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1064/122158t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1052/123863.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1052/123863t.jpg",
         "synonyms": [
             "Eiga Yuru Camp",
             "Eiga Yuru Camp△",
             "Laid-Back Camp Movie",
             "Laid-Back Camp: The Movie",
             "Yuru Camp Movie",
+            "Yurucamp Movie",
             "映画 ゆるキャン△"
         ],
         "relations": [
@@ -4466,6 +4560,7 @@
             "comedy",
             "cute girls doing cute things",
             "iyashikei",
+            "manga",
             "mopeds",
             "outdoor",
             "present",

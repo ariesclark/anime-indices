@@ -90,8 +90,10 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/15862",
             "https://anilist.co/anime/110620",
             "https://anime-planet.com/anime/immemorial-love-for-you",
+            "https://anisearch.com/anime/14784",
             "https://kitsu.io/anime/43218",
             "https://myanimelist.net/anime/40876"
         ],
@@ -103,10 +105,12 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1035/104794t.jpg",
         "synonyms": [
             "Ai Zai Xi Yuan Qian",
+            "Ai Zai Xiyuanqian",
             "Immemorial Love For You",
             "爱在西元前"
         ],
         "relations": [
+            "https://anidb.net/anime/16175",
             "https://anilist.co/anime/129540",
             "https://anime-planet.com/anime/immemorial-love-for-you-2nd-season",
             "https://myanimelist.net/anime/47795"
@@ -122,28 +126,6 @@
             "sci-fi",
             "science fiction"
         ],
-        "date": {
-            "season": "summer",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/14784"
-        ],
-        "title": "Ai Zai Xiyuanqian",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14784.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14784.webp",
-        "synonyms": [
-            "Ai Zai Xi Yuan Qian",
-            "Immemorial Love For You",
-            "爱在西元前"
-        ],
-        "relations": [],
-        "tags": [],
         "date": {
             "season": "summer",
             "year": 2019
@@ -696,9 +678,7 @@
             "Arifureta: From Commonplace to World’s Strongest Zusammenfassung - Das große Orcus-Labyrinth",
             "ありふれた職業で世界最強 総集編 オルクス大迷宮"
         ],
-        "relations": [
-            "https://anisearch.com/anime/13079"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "adventure",
@@ -2174,6 +2154,33 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51868"
+        ],
+        "title": "Doki Doki Ghost Mansion",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1214/123925.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1214/123925t.jpg",
+        "synonyms": [
+            "Mysterious Ghost Manor",
+            "Pokémon Fun Video",
+            "ドキドキ ゴーストマンション"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/527"
+        ],
+        "tags": [
+            "fantasy",
+            "kids"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/15147",
             "https://anilist.co/anime/104922",
             "https://anime-planet.com/anime/dou-po-cangqiong-3rd-season",
@@ -2297,9 +2304,6 @@
             "https://anime-planet.com/anime/dr-stone-stone-wars",
             "https://anime-planet.com/anime/dr-stone-stone-wars-eve-of-the-battle",
             "https://anime-planet.com/anime/snickers-x-dr-stone",
-            "https://anisearch.com/anime/14818",
-            "https://anisearch.com/anime/15630",
-            "https://anisearch.com/anime/15673",
             "https://kitsu.io/anime/42867",
             "https://kitsu.io/anime/43682",
             "https://kitsu.io/anime/43715",
@@ -3251,6 +3255,7 @@
             "Fate/Grand Order -絶対魔獣戦線バビロニア- Initium Iter",
             "Fate/Grand Order Absolute Demonic Front: Babylonia - Initium Iter",
             "Fate/Grand Order: Absolute Demonic Front - Babylonia - Initium Iter",
+            "Fate/Grand Order: Absolute Demonic Front - Babylonia Episode 0",
             "Fate/Grand Order: Absolute Demonic Front Babylonia - Initium Iter",
             "Fate/Grand Order: Zettai Majuu Sensen Babylonia Episode 0",
             "Fate/Grand Order: Zettai Majū Sensen Babylonia - Initium Iter"
@@ -4648,6 +4653,7 @@
             "https://anime-planet.com/anime/hero-mask-part-ii",
             "https://anisearch.com/anime/14518",
             "https://kitsu.io/anime/42510",
+            "https://livechart.me/anime/9533",
             "https://myanimelist.net/anime/40154",
             "https://notify.moe/anime/9O-WwYJMg"
         ],
@@ -4659,11 +4665,13 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1960/102191t.jpg",
         "synonyms": [
             "HERO MASK (2019)",
+            "HERO MASK Part Ⅱ",
             "HERO MASK part II",
             "Hero Mask",
             "Hero Mask (2019)",
             "Hero Mask Part 2",
             "Hero Mask Part II",
+            "Hero Mask Part Ⅱ",
             "Hero Mask Parte 2",
             "Hero Mask Partie 2",
             "Hero Mask Teil 2",
@@ -4680,6 +4688,7 @@
             "https://anilist.co/anime/105096",
             "https://anime-planet.com/anime/hero-mask",
             "https://kitsu.io/anime/42015",
+            "https://livechart.me/anime/8228",
             "https://myanimelist.net/anime/38628",
             "https://notify.moe/anime/9OpavoEiR"
         ],
@@ -4699,33 +4708,6 @@
             "science-fiction",
             "super power",
             "supernatural drama"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/9533"
-        ],
-        "title": "Hero Mask Part Ⅱ",
-        "type": "ona",
-        "episodes": 9,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/9533/poster_image/1a8ec4788c72dd6412e10fcc68ca1613.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/9533/poster_image/1a8ec4788c72dd6412e10fcc68ca1613.png?style=small&format=jpg",
-        "synonyms": [
-            "HERO MASK Part Ⅱ"
-        ],
-        "relations": [
-            "https://livechart.me/anime/8228"
-        ],
-        "tags": [
-            "action",
-            "mystery",
-            "police",
-            "sci-fi"
         ],
         "date": {
             "season": "summer",
@@ -5490,7 +5472,6 @@
             "Takagi-san, experta en bromas pesadas",
             "Takagi-san: Experta en Bromas Pesadas Temporada 2",
             "Takagi-san: Experta en bromas pesadas - Temporada 2",
-            "Teasing Master Takagi-san",
             "Teasing Master Takagi-san 2",
             "Teasing Master Takagi-san 2nd Season",
             "Teasing Master Takagi-san S2",
@@ -9361,7 +9342,6 @@
             "https://anilist.co/anime/528",
             "https://anime-planet.com/anime/pokemon",
             "https://anime-planet.com/anime/pokemon-movie-1-the-first-movie",
-            "https://anisearch.com/anime/2831",
             "https://kitsu.io/anime/487",
             "https://livechart.me/anime/3702",
             "https://livechart.me/anime/3816",
@@ -11770,7 +11750,6 @@
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-season-2",
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-season-2-part-ii",
             "https://anime-planet.com/anime/the-slime-diaries-that-time-i-got-reincarnated-as-a-slime",
-            "https://anisearch.com/anime/13436",
             "https://kitsu.io/anime/41024",
             "https://livechart.me/anime/10804",
             "https://livechart.me/anime/11140",
@@ -13501,6 +13480,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/yuzhou-huwei-dui-2",
             "https://anisearch.com/anime/15228",
             "https://myanimelist.net/anime/47642"
         ],
@@ -13512,6 +13492,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1538/123390t.jpg",
         "synonyms": [
             "Cosmic Guard 2",
+            "Cosmicrew 2",
             "Cosmicrew S2",
             "Yu Zhou Hu Wei Dui 2",
             "Yuzhou Huwei Dui Second Season",
@@ -13524,10 +13505,15 @@
         ],
         "tags": [
             "adventure",
+            "animal protagonists",
             "anthropomorphic",
+            "chinese animation",
             "comedy",
+            "family friendly",
             "kids",
-            "sci-fi"
+            "non-human protagonists",
+            "sci-fi",
+            "short episodes"
         ],
         "date": {
             "season": "summer",
@@ -13565,8 +13551,6 @@
             "https://anime-planet.com/anime/zannen-na-ikimono-no-jiten-2021",
             "https://anime-planet.com/anime/zannen-na-ikimono-no-jiten-movie",
             "https://anime-planet.com/anime/zannen-na-ikimono-no-jiten-specials",
-            "https://anisearch.com/anime/13693",
-            "https://anisearch.com/anime/15992",
             "https://livechart.me/anime/10389",
             "https://livechart.me/anime/10527",
             "https://livechart.me/anime/3347",

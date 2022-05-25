@@ -380,6 +380,7 @@
     {
         "sources": [
             "https://anilist.co/anime/136307",
+            "https://anime-planet.com/anime/zutomayo-aitsura-zenin-dousoukai",
             "https://kitsu.io/anime/45991",
             "https://myanimelist.net/anime/50008"
         ],
@@ -391,6 +392,8 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1701/118525t.jpg",
         "synonyms": [
             "Inside Joke",
+            "Zutomayo: Aitsura Zenin Dousoukai",
+            "Zutomayo: Inside Joke",
             "あいつら全員同窓会"
         ],
         "relations": [],
@@ -2176,8 +2179,7 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/44087",
-            "https://notify.moe/anime/bEnYajwMR"
+            "https://kitsu.io/anime/44087"
         ],
         "title": "DOTA: Dragon's Blood",
         "type": "ona",
@@ -4284,30 +4286,6 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/10403"
-        ],
-        "title": "Guro Gyaru ni natta kara Shinyuu to Yatte mita.",
-        "type": "tv",
-        "episodes": 8,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/10403/poster_image/fdf1802af9b0d29119a67a82301f0517.webp?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/10403/poster_image/fdf1802af9b0d29119a67a82301f0517.webp?style=small&format=jpg",
-        "synonyms": [
-            "黒ギャルになったから親友とヤってみた。"
-        ],
-        "relations": [],
-        "tags": [
-            "ecchi",
-            "romance",
-            "shounen ai"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/15963",
             "https://anilist.co/anime/127958",
             "https://anime-planet.com/anime/gyokou-no-nikuko-chan",
@@ -4719,6 +4697,7 @@
             "https://kitsu.io/anime/45645",
             "https://kitsu.io/anime/45899",
             "https://kitsu.io/anime/46082",
+            "https://kitsu.io/anime/46122",
             "https://livechart.me/anime/10320",
             "https://livechart.me/anime/10351",
             "https://livechart.me/anime/11082",
@@ -5590,7 +5569,6 @@
             "https://anime-planet.com/anime/kaguya-sama-love-is-war-2",
             "https://anime-planet.com/anime/kaguya-sama-love-is-war-ultra-romantic",
             "https://anime-planet.com/anime/kaguya-sama-love-is-war-ultra-romantic-pv-yu-ishigami-wants-to-discuss-it",
-            "https://anisearch.com/anime/14692",
             "https://kitsu.io/anime/42632",
             "https://livechart.me/anime/10191",
             "https://livechart.me/anime/3315",
@@ -5654,7 +5632,6 @@
             "https://anidb.net/anime/14806",
             "https://anime-planet.com/anime/kaijuu-step-wandabada",
             "https://anime-planet.com/anime/the-kaijuu-step",
-            "https://anisearch.com/anime/14642",
             "https://kitsu.io/anime/42594",
             "https://myanimelist.net/anime/39628"
         ],
@@ -5907,9 +5884,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/14042",
-            "https://anidb.net/anime/626",
-            "https://anisearch.com/anime/16863",
-            "https://anisearch.com/anime/394"
+            "https://anidb.net/anime/626"
         ],
         "tags": [
             "action",
@@ -6232,6 +6207,7 @@
             "https://anime-planet.com/anime/kuro-gyaru-ni-natta-kara-shinyuu-to-yattemita",
             "https://anisearch.com/anime/15979",
             "https://kitsu.io/anime/44102",
+            "https://livechart.me/anime/10403",
             "https://myanimelist.net/anime/47591",
             "https://notify.moe/anime/tJMZXz8Gg"
         ],
@@ -6242,6 +6218,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1267/111801.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1267/111801t.jpg",
         "synonyms": [
+            "Guro Gyaru ni natta kara Shinyuu to Yatte mita.",
             "I Became a Black Gal So I Fucked My Best Friend",
             "I Became a Kuro-Gyaru so I F***ed My Best Friend",
             "Kuro Gal ni Natta kara Shinyuu to Yattemita.",
@@ -6250,13 +6227,15 @@
             "Kuro Gyaru ni Natta kara Shinyuu to Yattemita.",
             "Kuro Gyaru ni Nattakara Shinyuu to Shite Mita.",
             "Kurogal",
-            "黒ギャルになったから親友としてみた。"
+            "黒ギャルになったから親友としてみた。",
+            "黒ギャルになったから親友とヤってみた。"
         ],
         "relations": [],
         "tags": [
             "based on a manga",
             "bl",
             "boys love",
+            "ecchi",
             "gender bender",
             "hentai",
             "josei",
@@ -7104,7 +7083,6 @@
             "https://anilist.co/anime/128675",
             "https://anime-planet.com/anime/burnout-syndromes-blizzard",
             "https://anime-planet.com/anime/mashiro-no-oto-mini",
-            "https://anisearch.com/anime/16365",
             "https://kitsu.io/anime/44581",
             "https://livechart.me/anime/10350",
             "https://myanimelist.net/anime/46119",
@@ -9314,7 +9292,8 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1880/113766t.jpg",
         "synonyms": [
             "SSSS Dynazenon",
-            "SSSS.DYNAZENON"
+            "SSSS.DYNAZENON",
+            "SSSS.다이나제논"
         ],
         "relations": [
             "https://anidb.net/anime/13260",
@@ -9648,7 +9627,6 @@
             "https://anidb.net/anime/17246",
             "https://anilist.co/anime/146206",
             "https://anime-planet.com/anime/the-saints-magic-power-is-omnipotent-2nd-season",
-            "https://anisearch.com/anime/17193",
             "https://kitsu.io/anime/45957",
             "https://livechart.me/anime/11121",
             "https://myanimelist.net/anime/51215",
@@ -10439,7 +10417,6 @@
             "https://anilist.co/anime/100620",
             "https://anilist.co/anime/30",
             "https://anime-planet.com/anime/shinkansen-henkei-robo-shinkalion-the-animation",
-            "https://anisearch.com/anime/12896",
             "https://kitsu.io/anime/14143",
             "https://livechart.me/anime/2926",
             "https://livechart.me/anime/9476",
@@ -12148,7 +12125,7 @@
         ],
         "title": "Uchuu Nanchara Kotetsu-kun",
         "type": "tv",
-        "episodes": 37,
+        "episodes": 38,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1226/112286.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1226/112286t.jpg",
@@ -12414,7 +12391,7 @@
         ],
         "title": "Wan Jie Xian Zong 5th Season",
         "type": "ona",
-        "episodes": 96,
+        "episodes": 176,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1897/116128.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1897/116128t.jpg",
@@ -13231,6 +13208,7 @@
             "alternative world",
             "anachronism",
             "body horror",
+            "cgi",
             "drama",
             "excessive violence",
             "fantasy",
@@ -13527,7 +13505,7 @@
         ],
         "title": "Youkai Watch ♪",
         "type": "tv",
-        "episodes": 55,
+        "episodes": 56,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1682/118273.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1682/118273t.jpg",
@@ -13557,6 +13535,7 @@
             "https://livechart.me/anime/618",
             "https://livechart.me/anime/9229",
             "https://livechart.me/anime/9355",
+            "https://livechart.me/anime/9674",
             "https://myanimelist.net/anime/39277",
             "https://myanimelist.net/anime/50191",
             "https://notify.moe/anime/7D28Ru3iR"

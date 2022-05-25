@@ -209,7 +209,6 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/86-eighty-six-part-ii",
-            "https://anisearch.com/anime/16205",
             "https://kitsu.io/anime/44398",
             "https://myanimelist.net/anime/48569"
         ],
@@ -557,7 +556,6 @@
         "relations": [
             "https://anidb.net/anime/15256",
             "https://anime-planet.com/anime/argonavis-from-bang-dream-animation",
-            "https://anime-planet.com/anime/argonavis-from-bang-dream-movie",
             "https://anime-planet.com/anime/gyroaxia-hibana-chiru",
             "https://anisearch.com/anime/14869",
             "https://anisearch.com/anime/16992",
@@ -598,7 +596,9 @@
         "synonyms": [
             "ARIA The BENEDIZIONE",
             "Aria7",
-            "アリア ザ ベネディジオーネ"
+            "アリア ザ ベネディジオーネ",
+            "水星領航員 The BENEDIZIONE",
+            "水星领航员 The BENEDIZIONE"
         ],
         "relations": [
             "https://anidb.net/anime/15499",
@@ -869,7 +869,6 @@
             "https://anidb.net/anime/15307",
             "https://anilist.co/anime/113906",
             "https://anime-planet.com/anime/bang-dream-girls-band-party-pico-ohmori",
-            "https://anisearch.com/anime/15065",
             "https://kitsu.io/anime/43185",
             "https://livechart.me/anime/10567",
             "https://livechart.me/anime/11126",
@@ -1241,7 +1240,8 @@
             "suicide",
             "the arts",
             "time skip",
-            "transgender"
+            "transgender",
+            "visual arts"
         ],
         "date": {
             "season": "fall",
@@ -2207,7 +2207,7 @@
         ],
         "title": "Digimon Ghost Game",
         "type": "tv",
-        "episodes": 25,
+        "episodes": 26,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1907/118797.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1907/118797t.jpg",
@@ -2257,6 +2257,7 @@
             "primarily child cast",
             "sci fi",
             "shounen",
+            "suicide",
             "tragedy",
             "urban fantasy",
             "virtual world",
@@ -2531,6 +2532,35 @@
     },
     {
         "sources": [
+            "https://anisearch.com/anime/17395"
+        ],
+        "title": "Dunpa Mobile",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17395.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17395.webp",
+        "synonyms": [
+            "Dungeon & Fighter Mobile",
+            "Dunpa Mobile Official Animation Video",
+            "던파 모바일"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "fantasy",
+            "guns",
+            "martial arts",
+            "monster",
+            "swords & co"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16922",
             "https://anisearch.com/anime/16669"
         ],
@@ -2642,6 +2672,7 @@
             "https://anilist.co/anime/149071",
             "https://anime-planet.com/anime/fanren-xiu-xian-chuan",
             "https://anime-planet.com/anime/fanren-xiu-xian-chuan-specials-yan-jia-bao-dazhan",
+            "https://anime-planet.com/anime/fanren-xiu-xian-zhuan-zai-bie-tian-nan",
             "https://kitsu.io/anime/43877",
             "https://kitsu.io/anime/46096",
             "https://myanimelist.net/anime/45558",
@@ -3332,38 +3363,12 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/10519"
-        ],
-        "title": "Gokushufudo Part 2",
-        "type": "ona",
-        "episodes": 5,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/10519/poster_image/938e27375a3cd377bab2fdd7f2a44f22.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/10519/poster_image/938e27375a3cd377bab2fdd7f2a44f22.jpg?style=small&format=jpg",
-        "synonyms": [
-            "The Way of the Househusband Part 2",
-            "極主夫道 パート2"
-        ],
-        "relations": [
-            "https://livechart.me/anime/10200"
-        ],
-        "tags": [
-            "comedy",
-            "romance",
-            "slice of life"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/16200",
             "https://anilist.co/anime/132193",
             "https://anime-planet.com/anime/the-way-of-the-househusband-2",
             "https://anisearch.com/anime/16625",
             "https://kitsu.io/anime/44336",
+            "https://livechart.me/anime/10519",
             "https://myanimelist.net/anime/48707",
             "https://notify.moe/anime/Sz3lFRuGg"
         ],
@@ -3375,6 +3380,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1942/120785t.jpg",
         "synonyms": [
             "De yakuza a amo de casa Parte 2",
+            "Gokushufudo Part 2",
             "Gokushufudou (2021)",
             "Gokushufudou 2",
             "Gokushufudō (2021)",
@@ -3399,6 +3405,7 @@
             "https://anime-planet.com/anime/the-way-of-the-househusband",
             "https://anisearch.com/anime/15690",
             "https://kitsu.io/anime/43718",
+            "https://livechart.me/anime/10200",
             "https://myanimelist.net/anime/43692",
             "https://notify.moe/anime/C1wuliAGg"
         ],
@@ -3700,49 +3707,12 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/10475"
-        ],
-        "title": "Hanyo no Yashahime: Ni no Shou",
-        "type": "tv",
-        "episodes": 24,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/10475/poster_image/8090e484496888361885fcba920626a5.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/10475/poster_image/8090e484496888361885fcba920626a5.png?style=small&format=jpg",
-        "synonyms": [
-            "Yashahime: Princess Half-Demon - The Second Act",
-            "半妖の夜叉姫 弐の章"
-        ],
-        "relations": [
-            "https://livechart.me/anime/3684",
-            "https://livechart.me/anime/3952",
-            "https://livechart.me/anime/4805",
-            "https://livechart.me/anime/4810",
-            "https://livechart.me/anime/4971",
-            "https://livechart.me/anime/5029",
-            "https://livechart.me/anime/5388",
-            "https://livechart.me/anime/9937"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "comedy",
-            "demons",
-            "fantasy",
-            "historical",
-            "magic",
-            "supernatural"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/16141",
             "https://anilist.co/anime/131264",
             "https://anime-planet.com/anime/yashahime-princess-half-demon-the-second-act",
+            "https://anisearch.com/anime/16074",
             "https://kitsu.io/anime/44199",
+            "https://livechart.me/anime/10475",
             "https://myanimelist.net/anime/48505",
             "https://notify.moe/anime/ua5LOdQGR"
         ],
@@ -3755,19 +3725,28 @@
         "synonyms": [
             "Han`you no Yashahime: Sengoku Otogizoushi (2021)",
             "Han`you no Yashahime: Sengoku Otogizoushi Ni no Shou",
+            "Hanyo no Yashahime: Ni no Shou",
             "Hanyou no Yashahime: Ni no Shou",
             "Hanyou no Yashahime: Sengoku Otogizoushi (2021)",
             "Hanyou no Yashahime: Sengoku Otogizoushi - The Second Act",
             "Hanyou no Yashahime: Sengoku Otogizoushi 2",
             "Hanyou no Yashahime: Sengoku Otogizoushi 2nd Season",
+            "Han’you no Yashahime: Sengoku Otogizoushi 2",
+            "Han’yō no Yashahime: Sengoku Otogizōshi 2",
             "Yashahime 2",
+            "Yashahime : Princess Half-Demon (Saison 2)",
             "Yashahime: Princess Half-Demon (2021)",
+            "Yashahime: Princess Half-Demon (Season 2)",
+            "Yashahime: Princess Half-Demon (Staffel 2)",
+            "Yashahime: Princess Half-Demon (Stagione 2)",
+            "Yashahime: Princess Half-Demon (Temporada 2)",
             "Yashahime: Princess Half-Demon - The Second Act",
             "Yashahime: Princess Half-Demon 2",
             "Yashahime: Princess Half-Demon – The Second Act",
             "Yashahime: Princess Half-Demon: The Second Act",
             "ยาฉะฮิเมะ: เจ้าหญิงครึ่งอสูร ภาค 2",
             "半妖の夜叉姫 -戦国御伽草子- (2021)",
+            "半妖の夜叉姫 -戦国御伽草子- 2",
             "半妖の夜叉姫 -戦国御伽草子- 弐の章",
             "半妖の夜叉姫 弐の章",
             "半妖の夜叉姫2",
@@ -3780,6 +3759,14 @@
             "https://anime-planet.com/anime/inuyasha-the-final-act",
             "https://anime-planet.com/anime/yashahime-princess-half-demon",
             "https://kitsu.io/anime/43180",
+            "https://livechart.me/anime/3684",
+            "https://livechart.me/anime/3952",
+            "https://livechart.me/anime/4805",
+            "https://livechart.me/anime/4810",
+            "https://livechart.me/anime/4971",
+            "https://livechart.me/anime/5029",
+            "https://livechart.me/anime/5388",
+            "https://livechart.me/anime/9937",
             "https://myanimelist.net/anime/41911",
             "https://notify.moe/anime/OfH_dvgGR"
         ],
@@ -3795,55 +3782,21 @@
             "fantasy world",
             "female protagonist",
             "feudal japan",
+            "fighting-shounen",
             "historical",
             "isekai",
+            "kemonomimi",
             "magic",
             "mythology",
             "new",
+            "old asia",
             "shounen",
             "supernatural",
             "swordplay",
+            "swords & co",
             "time travel",
             "tomboy",
             "youkai"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/16074"
-        ],
-        "title": "Han’you no Yashahime: Sengoku Otogizoushi 2",
-        "type": "tv",
-        "episodes": 24,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16074.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16074.webp",
-        "synonyms": [
-            "Hanyou no Yashahime: Sengoku Otogizoushi 2nd Season",
-            "Han’yō no Yashahime: Sengoku Otogizōshi 2",
-            "Yashahime : Princess Half-Demon (Saison 2)",
-            "Yashahime: Princess Half-Demon (Season 2)",
-            "Yashahime: Princess Half-Demon (Staffel 2)",
-            "Yashahime: Princess Half-Demon (Stagione 2)",
-            "Yashahime: Princess Half-Demon (Temporada 2)",
-            "Yashahime: Princess Half-Demon - The Second Act",
-            "Yashahime: Princess Half-Demon 2",
-            "半妖の夜叉姫 -戦国御伽草子- 2"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "adventure",
-            "demons",
-            "fantasy",
-            "fighting-shounen",
-            "kemonomimi",
-            "old asia",
-            "swords & co"
         ],
         "date": {
             "season": "fall",
@@ -4357,6 +4310,7 @@
         "synonyms": [
             "Des dizaines de Nords",
             "Dozens of Norths",
+            "Pléthore de nords",
             "幾多の北"
         ],
         "relations": [],
@@ -4959,7 +4913,6 @@
             "https://anidb.net/anime/15275",
             "https://anilist.co/anime/113415",
             "https://anime-planet.com/anime/jujutsu-kaisen",
-            "https://anisearch.com/anime/14790",
             "https://kitsu.io/anime/42765",
             "https://livechart.me/anime/10184",
             "https://livechart.me/anime/11083",
@@ -5176,6 +5129,7 @@
             "Kaguya-sama: Love Is War - Ultra Romantic: Ishigami Yu möchte sich unterhalten",
             "Kaguya-sama: Love Is War - Ultra Romantic: Yu Ishigami Wants to Chat",
             "Kaguya-sama: Love Is War - Ultra Romantic: Yu Ishigami vuole chiacchierare",
+            "Kaguya-sama: Love Is War -Ultra Romantic- Season 3 | Teaser Video - \"Yu Ishigami Wants to Chat\"",
             "第３期『かぐや様は告らせたい-ウルトラロマンティック-』 / ティザーPV 「石上優は語りたい」"
         ],
         "relations": [
@@ -5330,6 +5284,7 @@
             "Child of Kamiari Month",
             "Il mese degli dei",
             "Kamiari no Kodomo",
+            "Kamiarizukis barn",
             "Kanna y los dioses de octubre",
             "L’Enfant du mois de Kamiari",
             "เด็กเดือนตุลา",
@@ -5527,13 +5482,7 @@
             "Kikan Gentai Event “Sobō seshi Kōsai no Tō” Anime Image PV",
             "期間限定イベント「遡望せし虹彩の塔」アニメイメージPV"
         ],
-        "relations": [
-            "https://anisearch.com/anime/13888",
-            "https://anisearch.com/anime/14804",
-            "https://anisearch.com/anime/15468",
-            "https://anisearch.com/anime/15567",
-            "https://anisearch.com/anime/15847"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "alternative world",
@@ -5967,7 +5916,6 @@
             "https://anilist.co/anime/142984",
             "https://anime-planet.com/anime/cider-girl-cinderella",
             "https://anime-planet.com/anime/komi-cant-communicate-2nd-season",
-            "https://anisearch.com/anime/16950",
             "https://kitsu.io/anime/45477",
             "https://kitsu.io/anime/45641",
             "https://livechart.me/anime/10962",
@@ -6121,12 +6069,15 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1319/117579.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1319/117579t.jpg",
         "synonyms": [
+            "Ghost in the Shell : SAC_2045 - Sustainable War",
             "Ghost in the Shell: SAC_2045",
             "Ghost in the Shell: SAC_2045 (2021)",
+            "Ghost in the Shell: SAC_2045 - Guerra sostenibile",
             "Ghost in the Shell: SAC_2045 - Jizoku Kanou Sensou",
             "Ghost in the Shell: SAC_2045 - Sustainable War",
             "Ghost in the Shell: SAC_2045 - Sustainable Warfare",
             "Ghost in the Shell: SAC_2045 Movie",
+            "Ghost in the Shell: SAC_2045: Guerra sostenible",
             "Ghost in the Shell: Stand Alone Complex 2045",
             "Koukaku Kidoutai: SAC_2045 Movie",
             "Koukaku Kidoutai: SAC_2045: Jizoku Kanou Sensou",
@@ -6646,12 +6597,14 @@
         "sources": [
             "https://anidb.net/anime/16421",
             "https://anilist.co/anime/136344",
+            "https://anime-planet.com/anime/lord-el-melloi-iis-case-files-rail-zeppelin-grace-note-special-edition",
             "https://anisearch.com/anime/16783",
+            "https://kitsu.io/anime/44868",
             "https://livechart.me/anime/10680",
             "https://myanimelist.net/anime/49361",
             "https://notify.moe/anime/Ljl5MIpnR"
         ],
-        "title": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Tokubetsu-hen",
+        "title": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note Special",
         "type": "special",
         "episodes": 1,
         "status": "finished",
@@ -6660,8 +6613,12 @@
         "synonyms": [
             "Lord El-Melloi II Sei no Jikenbo -Rail Zeppelin Grace Note- Tokubetsu-hen",
             "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Tokubetsu Hen",
+            "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note - Special Edition",
             "Lord El-Melloi II's Case Files: Rail Zeppelin Grace Note - Special Episode",
+            "Lord El-Melloi II's Case Files: Rail Zeppelin Grace Note Special",
+            "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note Special",
             "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note Tokubetsu-hen",
+            "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note - Special Edition",
             "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note - Tokubetsu Hen",
             "Lord El-Melloi II`s Case Files: Rail Zeppelin Grace Note - Special Episode",
             "Lord El-Melloi II’s Case Files : Rail Zeppelin - Grace Note : Waver, la réunion d’anciens et la lanterne magique",
@@ -6671,51 +6628,14 @@
             "Lord El-Melloi II’s Case Files: Rail Zeppelin - Grace Note: Waver, Reunion, and the Magic Lantern",
             "Lord El-Melloi II’s Case Files: Rail Zeppelin - Grace Note: Waver, das Kurstreffen und der Filmprojektor",
             "Lord El-Melloi II’s Case Files: Rail Zeppelin - Grace Note: Waver, una rimpatriata e una lanterna magica",
+            "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note- Special",
             "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note- 特別編"
         ],
         "relations": [
             "https://anidb.net/anime/14580",
             "https://anilist.co/anime/106918",
-            "https://anisearch.com/anime/10005",
-            "https://anisearch.com/anime/10784",
-            "https://anisearch.com/anime/10845",
-            "https://anisearch.com/anime/10862",
-            "https://anisearch.com/anime/11294",
-            "https://anisearch.com/anime/11746",
-            "https://anisearch.com/anime/11791",
-            "https://anisearch.com/anime/11903",
-            "https://anisearch.com/anime/12160",
-            "https://anisearch.com/anime/12811",
-            "https://anisearch.com/anime/13096",
-            "https://anisearch.com/anime/13137",
-            "https://anisearch.com/anime/13661",
-            "https://anisearch.com/anime/13775",
-            "https://anisearch.com/anime/13776",
-            "https://anisearch.com/anime/14065",
-            "https://anisearch.com/anime/14075",
-            "https://anisearch.com/anime/14077",
-            "https://anisearch.com/anime/14546",
-            "https://anisearch.com/anime/15056",
-            "https://anisearch.com/anime/15552",
-            "https://anisearch.com/anime/16397",
-            "https://anisearch.com/anime/16825",
-            "https://anisearch.com/anime/3538",
-            "https://anisearch.com/anime/5288",
-            "https://anisearch.com/anime/5880",
-            "https://anisearch.com/anime/6691",
-            "https://anisearch.com/anime/7515",
-            "https://anisearch.com/anime/7528",
-            "https://anisearch.com/anime/7654",
-            "https://anisearch.com/anime/8290",
-            "https://anisearch.com/anime/8686",
-            "https://anisearch.com/anime/8762",
-            "https://anisearch.com/anime/9106",
-            "https://anisearch.com/anime/9329",
-            "https://anisearch.com/anime/9333",
-            "https://anisearch.com/anime/9744",
-            "https://anisearch.com/anime/9824",
-            "https://anisearch.com/anime/9844",
-            "https://anisearch.com/anime/9947",
+            "https://anime-planet.com/anime/lord-el-melloi-iis-case-files-rail-zeppelin-grace-note",
+            "https://kitsu.io/anime/42092",
             "https://livechart.me/anime/8370",
             "https://livechart.me/anime/8698",
             "https://myanimelist.net/anime/38959",
@@ -6724,18 +6644,23 @@
         "tags": [
             "action",
             "age regression",
+            "based on a light novel",
             "cgi",
             "college",
             "contemporary fantasy",
             "detective",
             "drama",
+            "england",
+            "europe",
             "fantasy",
             "foreign",
             "magic",
             "male protagonist",
             "mystery",
+            "photography",
             "present",
             "primarily adult cast",
+            "seinen",
             "supernatural",
             "supernatural drama",
             "teacher",
@@ -6786,7 +6711,6 @@
             "https://anilist.co/anime/100957",
             "https://anime-planet.com/anime/lupin-the-3rd-part-5",
             "https://anime-planet.com/anime/lupin-the-3rd-part-vi-episode-0",
-            "https://anisearch.com/anime/16648",
             "https://kitsu.io/anime/13749",
             "https://kitsu.io/anime/45318",
             "https://livechart.me/anime/4165",
@@ -7150,8 +7074,10 @@
             "science-fiction",
             "shounen",
             "siblings",
+            "super power",
             "supernatural",
-            "tragedy"
+            "tragedy",
+            "violence"
         ],
         "date": {
             "season": "fall",
@@ -7258,7 +7184,6 @@
         ],
         "relations": [
             "https://anilist.co/anime/145830",
-            "https://anisearch.com/anime/17180",
             "https://kitsu.io/anime/45863",
             "https://kitsu.io/anime/45954",
             "https://myanimelist.net/anime/50810",
@@ -7321,7 +7246,7 @@
             "https://notify.moe/anime/A_LjHbnng"
         ],
         "title": "Maou Evelogia ni Mi wo Sasage yo",
-        "type": "tv",
+        "type": "ona",
         "episodes": 9,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1078/116972.jpg",
@@ -7335,6 +7260,7 @@
             "Maou Ibrogia ni Mi o Sasageyo",
             "Maō Evelogia ni Mi o Sasageyo",
             "Reincarnated Into Demon King Evelogia's World",
+            "Reincarnated into Demon King Evelogia's World",
             "Reincarnated into Demon King Evelogia`s World",
             "Reincarnated into Demon King Evelogia’s World",
             "魔王イブロギアに身を捧げよ"
@@ -7416,11 +7342,14 @@
         ],
         "relations": [],
         "tags": [
+            "female protagonist",
             "music",
             "new",
             "original work",
             "present",
-            "slice of life"
+            "primarily female cast",
+            "slice of life",
+            "urban"
         ],
         "date": {
             "season": "fall",
@@ -7597,7 +7526,6 @@
             "https://anilist.co/anime/141878",
             "https://anime-planet.com/anime/meng-qi-shi-shen",
             "https://anime-planet.com/anime/meng-qi-shi-shen-3rd-season",
-            "https://anisearch.com/anime/13965",
             "https://kitsu.io/anime/41250",
             "https://kitsu.io/anime/45720",
             "https://livechart.me/anime/9011",
@@ -7634,6 +7562,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/menghuan-shuyuan-6th-season",
             "https://myanimelist.net/anime/51760"
         ],
         "title": "Menghuan Shuyuan 6th Season",
@@ -7646,11 +7575,16 @@
             "梦幻书院 第六季"
         ],
         "relations": [
+            "https://anime-planet.com/anime/menghuan-shuyuan-5th-season",
             "https://myanimelist.net/anime/51759"
         ],
         "tags": [
+            "based on a mobile game",
+            "chibi",
+            "chinese animation",
             "comedy",
-            "fantasy"
+            "fantasy",
+            "short episodes"
         ],
         "date": {
             "season": "fall",
@@ -7847,6 +7781,30 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51869"
+        ],
+        "title": "Mukou no Hikari",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1586/123932.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1586/123932t.jpg",
+        "synonyms": [
+            "Light on the other side",
+            "むこうのひかり"
+        ],
+        "relations": [],
+        "tags": [
+            "avant garde",
+            "music"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://livechart.me/anime/10297"
         ],
         "title": "Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Cour",
@@ -7918,9 +7876,6 @@
             "https://anime-planet.com/anime/mushoku-tensei-jobless-reincarnation",
             "https://anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-2nd-season",
             "https://anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-eris-the-goblin-slayer",
-            "https://anisearch.com/anime/14254",
-            "https://anisearch.com/anime/16785",
-            "https://anisearch.com/anime/17184",
             "https://kitsu.io/anime/42323",
             "https://kitsu.io/anime/45492",
             "https://kitsu.io/anime/45950",
@@ -8011,7 +7966,6 @@
             "https://anidb.net/anime/5172",
             "https://anilist.co/anime/5833",
             "https://anime-planet.com/anime/tondemo-senshi-muteking",
-            "https://anisearch.com/anime/3993",
             "https://kitsu.io/anime/4295",
             "https://livechart.me/anime/9456",
             "https://myanimelist.net/anime/5833",
@@ -8376,9 +8330,9 @@
             "https://kitsu.io/anime/45690",
             "https://myanimelist.net/anime/50696"
         ],
-        "title": "One Piece: Luffy Senpai Ouen Kikaku! Barto no Himitsu no Heya!",
+        "title": "One Piece: Barto no Himitsu no Heya!",
         "type": "special",
-        "episodes": 1,
+        "episodes": 2,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1385/120283.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1385/120283t.jpg",
@@ -8386,13 +8340,17 @@
             "One Piece : Épisode spécial - Le jardin secret de Barto",
             "One Piece Episode 1004.5",
             "One Piece Episode 1004.5: Unterstützungsprojekt für Meister Ruffy!",
+            "One Piece Episode 1015.5",
             "One Piece Episode 1015.5: Projekt zu Ehren von Zorro und Sanji!",
             "One Piece Episodio SP: Il piano per incoraggiare il grande Rufy! La stanza segreta di Barto!",
             "One Piece Special Episode: Barto's Secret Room",
+            "One Piece Special Episodes: Barto's Secret Room",
             "One Piece ¡Episodio especial! ¡El cuarto secreto de Barto!",
             "One Piece: Bartos geheimes Kämmerchen!",
+            "One Piece: Luffy Senpai Ouen Kikaku! Barto no Himitsu no Heya!",
             "One Piece: Luffy Senpai Ōen Kikaku! Barto no Himitsu no Heya!",
             "One Piece: Special Episode - Barto’s Secret Room",
+            "バルトの秘密の部屋!",
             "ルフィ先輩応援企画! バルトの秘密の部屋!",
             "ワンピース ルフィ先輩応援企画！ バルトの秘密の部屋！"
         ],
@@ -8533,6 +8491,7 @@
             "King Ranking",
             "Ranking of Kings",
             "Ōsama Ranking",
+            "Кралска класация",
             "Рейтинг королей",
             "تصنيف الملوك",
             "อันดับพระราชา",
@@ -9755,6 +9714,7 @@
         "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16650.webp",
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16650.webp",
         "synonyms": [
+            "Link Click (Shorts)",
             "Link Click Chibi Anime",
             "Link Click OVAs",
             "Link Click: The Daily Life in Lightime",
@@ -9784,6 +9744,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1522/118752.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1522/118752t.jpg",
         "synonyms": [
+            "LINK CLICK (Shorts)",
             "LINK CLICK Mini Theater",
             "Link Click Mini Theater",
             "Link Click: The Daily Life in Lightime",
@@ -10065,14 +10026,17 @@
         "relations": [
             "https://anidb.net/anime/17295",
             "https://anilist.co/anime/146954",
+            "https://kitsu.io/anime/46033",
             "https://livechart.me/anime/11168",
-            "https://myanimelist.net/anime/51495"
+            "https://myanimelist.net/anime/51495",
+            "https://notify.moe/anime/6eCb_-U7R"
         ],
         "tags": [
             "action",
             "action comedy",
             "adventure",
             "alternative world",
+            "anthropomorphism",
             "based on a light novel",
             "comedy",
             "demon",
@@ -10637,6 +10601,7 @@
             "new",
             "original work",
             "primarily teen cast",
+            "seinen",
             "suicide",
             "supernatural",
             "tragedy"
@@ -12213,7 +12178,7 @@
         ],
         "title": "Waccha PriMagi!",
         "type": "tv",
-        "episodes": 30,
+        "episodes": 31,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1522/117595.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1522/117595t.jpg",

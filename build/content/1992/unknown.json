@@ -27,6 +27,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/bailu-he-gui",
             "https://myanimelist.net/anime/44654"
         ],
         "title": "Bailu He Gui",
@@ -40,7 +41,9 @@
         ],
         "relations": [],
         "tags": [
-            "drama"
+            "chinese animation",
+            "drama",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -188,6 +191,32 @@
             "chinese animation",
             "kids",
             "stop motion animation"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1992
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/gushu-xin-shuo",
+            "https://myanimelist.net/anime/44651"
+        ],
+        "title": "Gushu Xin Shuo",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "古书新说"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "historical",
+            "kids",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -375,6 +404,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/149121",
             "https://anime-planet.com/anime/mao-yu-shu",
             "https://myanimelist.net/anime/43911"
         ],
@@ -430,6 +460,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/ok",
             "https://myanimelist.net/anime/44645"
         ],
         "title": "OK",
@@ -441,7 +472,40 @@
         "synonyms": [],
         "relations": [],
         "tags": [
-            "kids"
+            "animal protagonists",
+            "birds",
+            "chinese animation",
+            "kids",
+            "non-human protagonists",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1992
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/qiao-xia-shi-lu",
+            "https://myanimelist.net/anime/43907"
+        ],
+        "title": "Qiao Xia Shi Lu",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "Pick up shoes under the bridge",
+            "桥下拾履"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "historical",
+            "kids",
+            "shorts",
+            "stop motion animation"
         ],
         "date": {
             "season": "unknown",
@@ -499,6 +563,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/shei-pa-shei",
             "https://myanimelist.net/anime/43909"
         ],
         "title": "Shei Pa Shei",
@@ -512,7 +577,12 @@
         ],
         "relations": [],
         "tags": [
+            "animal protagonists",
+            "chinese animation",
+            "family friendly",
             "kids",
+            "non-human protagonists",
+            "shorts",
             "suspense"
         ],
         "date": {

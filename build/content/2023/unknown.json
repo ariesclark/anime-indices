@@ -21,6 +21,27 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17423"
+        ],
+        "title": "Dekiru Neko wa Kyou mo Yuuutsu",
+        "type": "tv",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.anidb.net/images/main/273221.jpg",
+        "thumbnail": "https://cdn.anidb.net/images/main/273221.jpg-thumb.jpg",
+        "synonyms": [
+            "The Masterful Cat Is Depressed Again Today",
+            "デキる猫は今日も憂鬱"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/17264",
             "https://anilist.co/anime/146472",
             "https://anime-planet.com/anime/flcl-grunge",
@@ -449,45 +470,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-8"
-        ],
-        "title": "Pleasant Goat and Big Big Wolf Movie 8",
-        "type": "movie",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://cdn.anime-planet.com/anime/primary/pleasant-goat-and-big-big-wolf-movie-8-1.jpg?t=1625908832",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/pleasant-goat-and-big-big-wolf-movie-8-1-190x266.jpg?t=1625908832",
-        "synonyms": [
-            "Pleasant Goat and Big Big Wolf 3D Movie",
-            "Xi Yangyang Yu Hui Tailang Da Dianying 8"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf",
-            "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-1-the-super-snail-adventure",
-            "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-2-the-tiger-prowess",
-            "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-3-moon-castle-the-space-adventure",
-            "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-4-mission-incredible-adventures-on-the-dragons-trail",
-            "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-5-the-mythical-ark-adventures-in-love-happiness",
-            "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-6-meet-the-pegasus",
-            "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-7-amazing-pleasant-goat"
-        ],
-        "tags": [
-            "adventure",
-            "animal protagonists",
-            "anthropomorphic",
-            "cg animation",
-            "chinese animation",
-            "family friendly",
-            "non-human protagonists",
-            "original work"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2023
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/51404"
         ],
         "title": "Rakudai Majo",
@@ -630,6 +612,7 @@
             "https://myanimelist.net/anime/31894",
             "https://myanimelist.net/anime/35081",
             "https://myanimelist.net/anime/49661",
+            "https://myanimelist.net/anime/51842",
             "https://notify.moe/anime/91tjtKmmg",
             "https://notify.moe/anime/SrI8pKmmg",
             "https://notify.moe/anime/in87tFiiR"

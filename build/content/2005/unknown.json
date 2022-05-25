@@ -354,29 +354,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/51807"
-        ],
-        "title": "Furui Oshiro no Monogatari",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1246/123764.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1246/123764t.jpg",
-        "synonyms": [
-            "Minna no Uta",
-            "古いお城のものがたり"
-        ],
-        "relations": [],
-        "tags": [
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2005
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/148404",
             "https://anime-planet.com/anime/fuyu-no-niji"
         ],
@@ -395,6 +372,38 @@
             "no dialogue",
             "shorts",
             "slice of life"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2005
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/hong-mao-lan-tu-mtv",
+            "https://myanimelist.net/anime/44363"
+        ],
+        "title": "Hong Mao Lan Tu MTV",
+        "type": "tv",
+        "episodes": 65,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "虹猫蓝兔MTV"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/hong-mao-lan-tu-chuang-taikong",
+            "https://myanimelist.net/anime/39121"
+        ],
+        "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "non-human protagonists",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -443,6 +452,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/hong-mao-lan-tu-nao-xinchun",
             "https://myanimelist.net/anime/44358"
         ],
         "title": "Hong Mao Lan Tu Nao Xinchun",
@@ -452,13 +462,19 @@
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "Hong Mao Lan Tu: Nao Xinchun",
             "虹猫蓝兔闹新春"
         ],
         "relations": [
             "https://myanimelist.net/anime/39121"
         ],
         "tags": [
-            "kids"
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "non-human protagonists"
         ],
         "date": {
             "season": "unknown",
@@ -1586,6 +1602,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tianshang-diao-xia-ge-zhubajie",
             "https://myanimelist.net/anime/44350",
             "https://myanimelist.net/anime/45910"
         ],
@@ -1604,8 +1621,11 @@
         ],
         "tags": [
             "anthropomorphic",
+            "chinese animation",
+            "family friendly",
             "fantasy",
-            "kids"
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",

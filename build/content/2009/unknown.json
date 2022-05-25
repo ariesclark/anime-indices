@@ -1813,6 +1813,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/milu-wang",
             "https://myanimelist.net/anime/44667"
         ],
         "title": "Milu Wang",
@@ -1822,11 +1823,14 @@
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "The King of Milu Deer",
             "麋鹿王"
         ],
         "relations": [],
         "tags": [
             "adventure",
+            "chinese animation",
+            "fantasy",
             "kids"
         ],
         "date": {
@@ -2618,7 +2622,10 @@
         "synonyms": [
             "神兽金刚"
         ],
-        "relations": [],
+        "relations": [
+            "https://anime-planet.com/anime/shen-shou-jin-gang-2-tianshen-de-shou",
+            "https://anime-planet.com/anime/shen-shou-jin-gang-qinglong-zaixian"
+        ],
         "tags": [
             "action",
             "chinese animation",
@@ -3079,6 +3086,27 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/xiao-ciwei-lan-doudou"
+        ],
+        "title": "Xiao Ciwei Lan Doudou",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/xiao-ciwei-lan-doudou-1.webp?t=1652829678",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/xiao-ciwei-lan-doudou-1-285x400.webp?t=1652829678",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "family friendly"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/xiaomi-de-senlin",
             "https://myanimelist.net/anime/45812",
             "https://myanimelist.net/anime/46155"
@@ -3151,6 +3179,31 @@
         "tags": [
             "adventure",
             "fantasy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/xinling-zhi-chuang",
+            "https://myanimelist.net/anime/44382"
+        ],
+        "title": "Xinling Zhi Chuang",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "心靈之窗"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "family friendly",
+            "kids"
         ],
         "date": {
             "season": "unknown",

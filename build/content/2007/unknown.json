@@ -48,6 +48,31 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/bai-bian-baobei",
+            "https://myanimelist.net/anime/48163"
+        ],
+        "title": "Bai Bian Baobei",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "百变宝贝"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "comedy",
+            "fantasy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/44738"
         ],
         "title": "Bao Hulu De Mimi",
@@ -283,6 +308,28 @@
             "fantasy",
             "historical",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/day-of-judgement"
+        ],
+        "title": "Day of Judgement",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/day-of-judgement-1.webp?t=1652840429",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/day-of-judgement-1-285x400.webp?t=1652840429",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "shorts",
+            "stop motion animation"
         ],
         "date": {
             "season": "unknown",
@@ -752,8 +799,8 @@
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-winter.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [
             "老呆和小呆"
         ],
@@ -1059,6 +1106,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/shen-chu-xiaofu-gui",
             "https://myanimelist.net/anime/44370"
         ],
         "title": "Shen Chu Xiaofu Gui",
@@ -1068,11 +1116,14 @@
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "Magic Boy Kitchener",
             "神厨小福贵"
         ],
         "relations": [],
         "tags": [
             "adventure",
+            "chinese animation",
+            "family friendly",
             "historical",
             "kids"
         ],

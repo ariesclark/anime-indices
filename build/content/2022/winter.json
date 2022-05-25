@@ -6,7 +6,7 @@
         ],
         "title": "3-byou Ato, Yajuu. Goukon de Suma ni Ita Kare wa Midara na Nikushoku Deshita",
         "type": "ona",
-        "episodes": 7,
+        "episodes": 8,
         "status": "ongoing",
         "picture": "https://cdn.anime-planet.com/anime/primary/3-byou-ato-yajuu-goukon-de-suma-ni-ita-kare-wa-midara-na-nikushoku-deshita-1.webp?t=1645151703",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/3-byou-ato-yajuu-goukon-de-suma-ni-ita-kare-wa-midara-na-nikushoku-deshita-1-285x399.webp?t=1645151703",
@@ -38,7 +38,7 @@
         ],
         "title": "3-byougo, Yajuu.: Goukon de Sumi ni Ita Kare wa Midara Nikushoku deshita",
         "type": "ona",
-        "episodes": 8,
+        "episodes": 9,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1972/121006.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1972/121006t.jpg",
@@ -145,7 +145,6 @@
         "relations": [
             "https://anilist.co/anime/527",
             "https://anime-planet.com/anime/pokemon",
-            "https://anisearch.com/anime/3139",
             "https://myanimelist.net/anime/527"
         ],
         "tags": [
@@ -228,7 +227,7 @@
         ],
         "title": "Aharen-san wa Hakarenai Mini",
         "type": "ona",
-        "episodes": 13,
+        "episodes": 14,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1422/122213.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1422/122213t.jpg",
@@ -293,8 +292,8 @@
         "type": "tv",
         "episodes": 8,
         "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/0.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/0.webp",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17112.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17112.webp",
         "synonyms": [
             "Akachan Honbuchō (2022)",
             "General Manager of Baby (2022)",
@@ -303,7 +302,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/16085",
-            "https://anisearch.com/anime/16023"
+            "https://anidb.net/anime/17306"
         ],
         "tags": [
             "short episodes"
@@ -1052,6 +1051,7 @@
             "あたしゃ川尻こだまだよ ~デンジャラスライフハッカーのただれた生活~",
             "あたしゃ川尻こだまだよ ～デンジャラスライフハッカーのただれた生活～",
             "あたしゃ川尻こだまだよ～デンジャラスライフハッカーのただれた生活～",
+            "川尻小玉的懒散生活",
             "川尻小玉的懶散生活"
         ],
         "relations": [],
@@ -1710,6 +1710,7 @@
             "music",
             "musical band",
             "primarily child cast",
+            "primarily teen cast",
             "seinen",
             "slice of life"
         ],
@@ -1909,7 +1910,6 @@
         ],
         "relations": [
             "https://anilist.co/anime/101633",
-            "https://anisearch.com/anime/11563",
             "https://myanimelist.net/anime/33573"
         ],
         "tags": [
@@ -2111,7 +2111,6 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1632/110707.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1632/110707t.jpg",
         "synonyms": [
-            "CHAINSAW MAN",
             "CSM",
             "Chainsawman",
             "رجل المنشار",
@@ -2147,6 +2146,7 @@
             "mafia",
             "magic",
             "male protagonist",
+            "manga",
             "monster boy",
             "monster girl",
             "mythology",
@@ -2695,7 +2695,7 @@
         ],
         "title": "Delicious Party♡Precure",
         "type": "tv",
-        "episodes": 10,
+        "episodes": 11,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1332/120430.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1332/120430t.jpg",
@@ -3059,7 +3059,9 @@
         ],
         "relations": [
             "https://anilist.co/anime/141802",
-            "https://myanimelist.net/anime/50364"
+            "https://anilist.co/anime/149799",
+            "https://myanimelist.net/anime/50364",
+            "https://myanimelist.net/anime/51892"
         ],
         "tags": [
             "action",
@@ -3335,11 +3337,37 @@
             "idols (male)",
             "music",
             "present",
+            "primarily male cast",
             "reverse harem",
             "school",
             "school life",
             "slice of life",
             "transfer students"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anisearch.com/anime/17397"
+        ],
+        "title": "Eorinireum",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17397.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17397.webp",
+        "synonyms": [
+            "ADORA - Eorinireum",
+            "ADORA - The Little Name",
+            "아도라 - 어린이름",
+            "어린이름"
+        ],
+        "relations": [],
+        "tags": [
+            "independent anime"
         ],
         "date": {
             "season": "winter",
@@ -3860,7 +3888,8 @@
             "suicide",
             "supernatural",
             "teacher",
-            "time skip"
+            "time skip",
+            "tragedy"
         ],
         "date": {
             "season": "winter",
@@ -3965,52 +3994,6 @@
             "slice of life",
             "sudden girlfriend appearance",
             "yuri"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/11023"
-        ],
-        "title": "GO! GO! TOKYO MER ~Kinkyuujitai to Tatakau Nakamatchi~",
-        "type": "ona",
-        "episodes": 0,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/11023/poster_image/3cb43bf873869de1a6e957e0b451f8b0.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/11023/poster_image/3cb43bf873869de1a6e957e0b451f8b0.jpg?style=small&format=jpg",
-        "synonyms": [
-            "GO!GO!TOKYO MER～緊急事態と戦う仲間達～"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/gogotokyo-mer-kinkyuujitai-to-tatakau-nakama-tachi"
-        ],
-        "title": "GO!GO!TOKYO MER: Kinkyuujitai to Tatakau Nakama-tachi",
-        "type": "ona",
-        "episodes": 20,
-        "status": "unknown",
-        "picture": "https://cdn.anime-planet.com/anime/primary/gogotokyo-mer-kinkyuujitai-to-tatakau-nakama-tachi-1.webp?t=1641932937",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/gogotokyo-mer-kinkyuujitai-to-tatakau-nakama-tachi-1-285x400.webp?t=1641932937",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "animal protagonists",
-            "anthropomorphic",
-            "based on a tv series",
-            "comedy",
-            "medical",
-            "non-human protagonists",
-            "short episodes"
         ],
         "date": {
             "season": "winter",
@@ -4376,7 +4359,6 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1225/121124.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1225/121124t.jpg",
         "synonyms": [
-            "Ginga Eiyuu Densetsu: Die Neue These - Gaikotsu",
             "Ginga Eiyū Densetsu: Die Neue These - Gekitotsu",
             "Legend of the Galactic Heroes: Die Neue These - Clash",
             "Legend of the Galactic Heroes: Die Neue These - Collision",
@@ -4396,6 +4378,7 @@
             "https://myanimelist.net/anime/51805",
             "https://myanimelist.net/anime/820",
             "https://notify.moe/anime/4SNzjOAig",
+            "https://notify.moe/anime/7trePLu7g",
             "https://notify.moe/anime/Q6fAcKmmg"
         ],
         "tags": [
@@ -4420,7 +4403,7 @@
         ],
         "title": "Girigiri Warukunai Watame",
         "type": "ona",
-        "episodes": 20,
+        "episodes": 21,
         "status": "ongoing",
         "picture": "https://media.kitsu.io/anime/45948/poster_image/small-3cbf70a7d7cfa3d2b22eefc1ef230cdf.jpeg",
         "thumbnail": "https://media.kitsu.io/anime/45948/poster_image/tiny-032890c7ecacd2454dd64ea5e96a1fa9.jpeg",
@@ -4487,6 +4470,8 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/gogotokyo-mer-kinkyuujitai-to-tatakau-nakama-tachi",
+            "https://livechart.me/anime/11023",
             "https://myanimelist.net/anime/51211"
         ],
         "title": "Go! Go! Tokyo MER: Kinkyuujitai to Tatakau Nakama-tachi",
@@ -4496,11 +4481,20 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1139/121350.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1139/121350t.jpg",
         "synonyms": [
-            "GO!GO!TOKYO MER 緊急事態と戦う仲間達"
+            "GO! GO! TOKYO MER ~Kinkyuujitai to Tatakau Nakamatchi~",
+            "GO!GO!TOKYO MER 緊急事態と戦う仲間達",
+            "GO!GO!TOKYO MER: Kinkyuujitai to Tatakau Nakama-tachi",
+            "GO!GO!TOKYO MER～緊急事態と戦う仲間達～"
         ],
         "relations": [],
         "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "based on a tv series",
             "comedy",
+            "medical",
+            "non-human protagonists",
+            "short episodes",
             "workplace"
         ],
         "date": {
@@ -4774,6 +4768,7 @@
     },
     {
         "sources": [
+            "https://kitsu.io/anime/46122",
             "https://myanimelist.net/anime/51580"
         ],
         "title": "Happiness World",
@@ -4784,9 +4779,11 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1136/122605t.jpg",
         "synonyms": [],
         "relations": [
+            "https://kitsu.io/anime/44088",
             "https://myanimelist.net/anime/44042"
         ],
         "tags": [
+            "idol",
             "music"
         ],
         "date": {
@@ -4959,15 +4956,18 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/10946"
+            "https://livechart.me/anime/10946",
+            "https://myanimelist.net/anime/51871"
         ],
         "title": "Hisui Kobanashi",
         "type": "ona",
-        "episodes": 2,
+        "episodes": 1,
         "status": "finished",
-        "picture": "https://u.livechart.me/anime/10946/poster_image/40c1a09b2acd21b4a511ce667676c2ff.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/10946/poster_image/40c1a09b2acd21b4a511ce667676c2ff.jpg?style=small&format=jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1127/123934.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1127/123934t.jpg",
         "synonyms": [
+            "Hisuian Voltorb is Berry Sorry",
+            "Pokémon stop motion animation",
             "ヒスイ小噺"
         ],
         "relations": [
@@ -4985,9 +4985,12 @@
             "https://livechart.me/anime/5627",
             "https://livechart.me/anime/5641",
             "https://livechart.me/anime/5643",
-            "https://livechart.me/anime/8945"
+            "https://livechart.me/anime/8945",
+            "https://myanimelist.net/anime/527"
         ],
         "tags": [
+            "comedy",
+            "kids",
             "slice of life"
         ],
         "date": {
@@ -5305,6 +5308,29 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/148901",
+            "https://myanimelist.net/anime/51913"
+        ],
+        "title": "Inochi wa Dare no Mono",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1501/124048.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1501/124048t.jpg",
+        "synonyms": [
+            "命は誰のもの"
+        ],
+        "relations": [],
+        "tags": [
+            "music"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16665",
             "https://anilist.co/anime/148932",
             "https://anime-planet.com/anime/inzai-aru-aru-monogatari",
@@ -5367,15 +5393,6 @@
         "relations": [
             "https://anidb.net/anime/11423",
             "https://anilist.co/anime/102484",
-            "https://anisearch.com/anime/10567",
-            "https://anisearch.com/anime/12987",
-            "https://anisearch.com/anime/13003",
-            "https://anisearch.com/anime/13398",
-            "https://anisearch.com/anime/13405",
-            "https://anisearch.com/anime/13406",
-            "https://anisearch.com/anime/13409",
-            "https://anisearch.com/anime/14499",
-            "https://anisearch.com/anime/16379",
             "https://kitsu.io/anime/11296"
         ],
         "tags": [
@@ -5435,6 +5452,7 @@
             "fantasy",
             "isekai",
             "magic",
+            "novel",
             "person in a strange world",
             "romance",
             "seinen",
@@ -6101,7 +6119,6 @@
             "Karakai Jōzu no Takagi-san 3",
             "Nicht schon wieder, Takagi-san: Staffel 3",
             "Skilled Teaser Takagi-san 3rd Season",
-            "Teasing Master Takagi-san",
             "Teasing Master Takagi-san 3",
             "Teasing Master Takagi-san Season 3",
             "Teasing Master Takagi-san: Season 3",
@@ -6639,15 +6656,17 @@
             "Miss Kobayashi's Dragon Maid S: Japanese Hospitality (My Attendant is a Dragon)",
             "Miss Kobayashi's Dragon Maid S: Japanese Hospitality (The Attendant Is a Dragon)",
             "Miss Kobayashi's Dragon Maid S: Japanese Hospitality - Attendance is a Dragon",
+            "Miss Kobayashi’s Dragon Maid S : L’hospitalité à la japonaise - offerte par des dragons",
             "Miss Kobayashi’s Dragon Maid S Special",
+            "Miss Kobayashi’s Dragon Maid S: Hospitalidad japonesa - La asistente es un dragón",
             "Miss Kobayashi’s Dragon Maid S: Japanese Hospitality - Attendance Is a Dragon",
+            "Miss Kobayashi’s Dragon Maid S: Japanische Gastfreundschaft - Der Reiseführer ist ein Drache",
             "小林さんちのメイドラゴンS ニッポンのおもてなし（アテンドはドラゴンです）",
             "小林さんちのメイドラゴンＳ ニッポンのおもてなし（アテンドはドラゴンです）"
         ],
         "relations": [
             "https://anilist.co/anime/107717",
             "https://anime-planet.com/anime/miss-kobayashis-dragon-maid-s",
-            "https://anisearch.com/anime/14169",
             "https://kitsu.io/anime/42149",
             "https://livechart.me/anime/10497",
             "https://livechart.me/anime/10690",
@@ -6830,6 +6849,7 @@
         "synonyms": [
             "Kotaro En Solo",
             "Kotaro Lives Alone",
+            "Kotaro Lives By Himself",
             "Kotaro abita da solo",
             "Kotaro en solo",
             "Kotaro vive solo",
@@ -7519,9 +7539,15 @@
             "action",
             "based on a light novel",
             "brother complex",
+            "drama",
+            "genius",
+            "harem",
+            "hero of strong character",
+            "high school",
             "incest",
             "magic",
             "magic school",
+            "military",
             "overpowered main characters",
             "romance",
             "school",
@@ -7532,6 +7558,8 @@
             "science-fiction",
             "shounen",
             "siblings",
+            "slice of life",
+            "stoic hero",
             "supernatural"
         ],
         "date": {
@@ -7541,6 +7569,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/149099",
             "https://livechart.me/anime/11158",
             "https://myanimelist.net/anime/51349"
         ],
@@ -7555,10 +7584,13 @@
             "魔法使い黎明期 ミニアニメ"
         ],
         "relations": [
+            "https://anilist.co/anime/133175",
+            "https://anilist.co/anime/149098",
             "https://livechart.me/anime/10558",
             "https://myanimelist.net/anime/48842"
         ],
         "tags": [
+            "chibi",
             "comedy",
             "fantasy",
             "slice of life"
@@ -8394,7 +8426,7 @@
         ],
         "title": "Ninjala (TV)",
         "type": "tv",
-        "episodes": 17,
+        "episodes": 19,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1552/119871.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1552/119871t.jpg",
@@ -9243,6 +9275,32 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51885"
+        ],
+        "title": "Pikachu, Pochama to Fushigi na Nendo",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1853/123953.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1853/123953t.jpg",
+        "synonyms": [
+            "Pikachu, Piplup and the Playful Clay!",
+            "Pokémon Fun Video",
+            "ピカチュウ・ポッチャマとふしぎなねんど"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/527"
+        ],
+        "tags": [
+            "kids"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/144990",
             "https://anime-planet.com/anime/serph-x-zun-piplup-step",
             "https://anisearch.com/anime/17094",
@@ -9280,6 +9338,29 @@
             "penguins",
             "rotoscoping",
             "slice of life"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51911"
+        ],
+        "title": "Play Dice!",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1576/124039.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1576/124039t.jpg",
+        "synonyms": [
+            "PLAY DICE!"
+        ],
+        "relations": [],
+        "tags": [
+            "idols (female)",
+            "music"
         ],
         "date": {
             "season": "winter",
@@ -9569,6 +9650,7 @@
         "sources": [
             "https://anidb.net/anime/17163",
             "https://anilist.co/anime/126400",
+            "https://anime-planet.com/anime/qian-cong-shou",
             "https://kitsu.io/anime/45793",
             "https://myanimelist.net/anime/50441"
         ],
@@ -9585,6 +9667,7 @@
         "relations": [],
         "tags": [
             "action",
+            "chinese animation",
             "fantasy",
             "full cgi",
             "sci-fi",
@@ -10590,6 +10673,31 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51842"
+        ],
+        "title": "Seven Count",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1496/123918.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1496/123918t.jpg",
+        "synonyms": [
+            "セブンカウント"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/42385"
+        ],
+        "tags": [
+            "idols (female)",
+            "music"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/17327",
             "https://anilist.co/anime/147850",
             "https://anime-planet.com/anime/shaman-king-new",
@@ -10689,11 +10797,17 @@
             "cg animation",
             "cg-anime",
             "chinese animation",
+            "comedy",
+            "drama",
             "fantasy",
             "full cgi",
             "historical",
+            "magic",
             "martial arts",
-            "mystery"
+            "mystery",
+            "old asia",
+            "romance",
+            "swords & co"
         ],
         "date": {
             "season": "winter",
@@ -10878,6 +10992,7 @@
             "fantasy world",
             "female harem",
             "harem",
+            "hero of strong character",
             "heterosexual",
             "lost civilization",
             "magic",
@@ -10992,6 +11107,7 @@
             "Attack on Titan The Final Season (2022)",
             "Attack on Titan The Final Season (Part 2)",
             "Attack on Titan The Final Season: Part II",
+            "Attack on Titan: Final Season Part 2",
             "Attack on Titan: The Final Season - Part 2",
             "Attack on Titan: The Final Season Part 2",
             "L'attaque des titans Saison Finale Partie 2",
@@ -11028,8 +11144,6 @@
             "https://anime-planet.com/anime/attack-on-titan-the-final-season",
             "https://anime-planet.com/anime/attack-on-titan-the-final-season-part-iii",
             "https://anime-planet.com/anime/sim-the-rumbling",
-            "https://anisearch.com/anime/14484",
-            "https://anisearch.com/anime/17265",
             "https://kitsu.io/anime/42422",
             "https://kitsu.io/anime/46038",
             "https://livechart.me/anime/11010",
@@ -11102,73 +11216,6 @@
             "violence",
             "vore",
             "war"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16755",
-            "https://anilist.co/anime/139435",
-            "https://anime-planet.com/anime/the-duke-of-death-and-his-maid-new",
-            "https://anisearch.com/anime/16605",
-            "https://kitsu.io/anime/45229",
-            "https://livechart.me/anime/10799",
-            "https://myanimelist.net/anime/49858",
-            "https://notify.moe/anime/pcEpEiHng"
-        ],
-        "title": "Shinigami Bocchan to Kuro Maid (Zoku-hen)",
-        "type": "special",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1588/117798.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1588/117798t.jpg",
-        "synonyms": [
-            "Shinigami Bocchan to Kuro Maid (New)",
-            "Shinigami Bocchan to Kuro Maid (Sequel)",
-            "Shinigami Bocchan to Kuro Maid (Zokuhen)",
-            "Shinigami Bocchan to Kuro Maid Season 2",
-            "The Duke of Death and His Maid",
-            "The Duke of Death and His Maid (New)",
-            "The Duke of Death and His Maid (Sequel)",
-            "The Duke of Death and His Maid Season 2",
-            "死神坊ちゃんと黒メイド (続編)",
-            "死神坊ちゃんと黒メイド （続編）"
-        ],
-        "relations": [
-            "https://anidb.net/anime/16036",
-            "https://anilist.co/anime/129277",
-            "https://anime-planet.com/anime/the-duke-of-death-and-his-maid",
-            "https://kitsu.io/anime/44035",
-            "https://livechart.me/anime/10391",
-            "https://myanimelist.net/anime/47257",
-            "https://notify.moe/anime/WR_X9-YGR"
-        ],
-        "tags": [
-            "based on a manga",
-            "cg-anime",
-            "comedy",
-            "contemporary fantasy",
-            "curse",
-            "drama",
-            "ecchi",
-            "fantasy",
-            "heterosexual",
-            "magic",
-            "maid",
-            "maids",
-            "mansion",
-            "master-servant relationship",
-            "mystery",
-            "nobility",
-            "present",
-            "romance",
-            "romantic comedy",
-            "romantic subtext",
-            "supernatural",
-            "witch"
         ],
         "date": {
             "season": "winter",
@@ -11582,7 +11629,7 @@
         ],
         "title": "Stars*Collection!",
         "type": "ona",
-        "episodes": 16,
+        "episodes": 17,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1699/120749.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1699/120749t.jpg",
@@ -11604,7 +11651,8 @@
             "https://kitsu.io/anime/45572",
             "https://kitsu.io/anime/45683",
             "https://kitsu.io/anime/45695",
-            "https://myanimelist.net/anime/44042"
+            "https://myanimelist.net/anime/44042",
+            "https://myanimelist.net/anime/44257"
         ],
         "tags": [
             "cg animation",
@@ -12092,8 +12140,11 @@
             "full cgi",
             "guns",
             "magic",
+            "martial arts",
             "special squads",
-            "swordplay"
+            "super power",
+            "swordplay",
+            "tragedy"
         ],
         "date": {
             "season": "winter",
@@ -12124,6 +12175,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tata-tu-ran-xiang-dao-2",
             "https://myanimelist.net/anime/51262"
         ],
         "title": "Tata Tu Ran Xiang Dao 2",
@@ -12138,12 +12190,18 @@
             "獭獭突然想到 第二季"
         ],
         "relations": [
+            "https://anime-planet.com/anime/tata-tu-ran-xiang-dao",
             "https://myanimelist.net/anime/51261"
         ],
         "tags": [
+            "animal protagonists",
             "anthropomorphic",
+            "chinese animation",
             "comedy",
-            "kids"
+            "family friendly",
+            "kids",
+            "non-human protagonists",
+            "short episodes"
         ],
         "date": {
             "season": "winter",
@@ -12203,7 +12261,7 @@
         ],
         "title": "Teiko Penguin",
         "type": "tv",
-        "episodes": 20,
+        "episodes": 21,
         "status": "ongoing",
         "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143413-yA49X4tYfoQP.jpg",
         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143413-yA49X4tYfoQP.jpg",
@@ -12336,7 +12394,6 @@
             "https://anilist.co/anime/137898",
             "https://anilist.co/anime/144336",
             "https://anime-planet.com/anime/the-genius-princes-guide-to-raising-a-nation-out-of-debt-short-drama",
-            "https://livechart.me/anime/10746",
             "https://myanimelist.net/anime/49592"
         ],
         "tags": [
@@ -12377,6 +12434,7 @@
     {
         "sources": [
             "https://anilist.co/anime/144336",
+            "https://kitsu.io/anime/46124",
             "https://myanimelist.net/anime/50905"
         ],
         "title": "Tensai Ouji no Akaji Kokka Saisei Jutsu: Short Drama Specials",
@@ -12387,16 +12445,20 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1140/120676t.jpg",
         "synonyms": [
             "The Genius Prince's Guide to Raising a Nation Out of Debt",
+            "The Genius Prince's Guide to Raising a Nation Out of Debt: Short Drama Specials",
             "天才王子の赤字国家再生術 ショートドラマ"
         ],
         "relations": [
             "https://anilist.co/anime/129190",
             "https://anilist.co/anime/137898",
+            "https://kitsu.io/anime/44020",
+            "https://kitsu.io/anime/46123",
             "https://myanimelist.net/anime/49592"
         ],
         "tags": [
             "chibi",
             "comedy",
+            "fantasy",
             "slice of life"
         ],
         "date": {
@@ -12973,6 +13035,7 @@
             "The Play-By-Play Commentator Endo-kun and Colour Commentator Kobayashi-san’s Live Commentary on the Tsundere Villainess Liselotte",
             "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endo-kun to Kaisetsu no Kobayashi-san",
             "Tsundere Akuyaku Reijō Liselotte to Jikkyō no Endō-kun to Kaisetsu no Kobayashi-san",
+            "นางร้ายสุดซึน ลีเซล็อตเต กับขบวนการพลิกลิขิตสู่ชีวิตแฮปปี้เอนด์",
             "ツンデレ悪役令嬢リーゼロッテと実況の遠藤くんと解説の小林さん"
         ],
         "relations": [],
@@ -13020,6 +13083,28 @@
         "relations": [],
         "tags": [
             "cg-anime"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://kitsu.io/anime/46126"
+        ],
+        "title": "Type S: Chiaki’s Journey",
+        "type": "ona",
+        "episodes": 4,
+        "status": "finished",
+        "picture": "https://media.kitsu.io/anime/46126/poster_image/small-e839948f15fe7b3990068babe54cc41d.jpeg",
+        "thumbnail": "https://media.kitsu.io/anime/46126/poster_image/tiny-26ab28cc9f423c662b2b02694454d6b2.jpeg",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "anime influenced",
+            "motorsport",
+            "sports"
         ],
         "date": {
             "season": "winter",
@@ -13121,10 +13206,6 @@
         ],
         "relations": [
             "https://anilist.co/anime/124223",
-            "https://anisearch.com/anime/12470",
-            "https://anisearch.com/anime/12525",
-            "https://anisearch.com/anime/13678",
-            "https://anisearch.com/anime/15564",
             "https://myanimelist.net/anime/42941",
             "https://notify.moe/anime/g7X0WRKMg"
         ],
@@ -13137,83 +13218,6 @@
             "primarily female cast",
             "slice of life",
             "sports"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/17096",
-            "https://anilist.co/anime/143277",
-            "https://anime-planet.com/anime/urusei-yatsura-2022",
-            "https://anisearch.com/anime/16977",
-            "https://kitsu.io/anime/45694",
-            "https://livechart.me/anime/11005",
-            "https://myanimelist.net/anime/50710"
-        ],
-        "title": "Urusei Yatsura (2022)",
-        "type": "tv",
-        "episodes": 12,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1558/120306.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1558/120306t.jpg",
-        "synonyms": [
-            "Lum the Invader Girl (2022)",
-            "Lum: Urusei Yatsura (2022)",
-            "The Return of Lum (2022)",
-            "Those Obnoxious Aliens (2022)",
-            "Urusei Yatsura",
-            "うる星やつら",
-            "うる星やつら (2022)",
-            "うる星やつら （2022）"
-        ],
-        "relations": [
-            "https://anidb.net/anime/377",
-            "https://anilist.co/anime/1293",
-            "https://anime-planet.com/anime/urusei-yatsura",
-            "https://kitsu.io/anime/1166",
-            "https://livechart.me/anime/4301",
-            "https://livechart.me/anime/8215",
-            "https://livechart.me/anime/8720",
-            "https://livechart.me/anime/8721",
-            "https://livechart.me/anime/8722",
-            "https://livechart.me/anime/8724",
-            "https://livechart.me/anime/8726",
-            "https://livechart.me/anime/8727",
-            "https://livechart.me/anime/8753",
-            "https://livechart.me/anime/9091",
-            "https://myanimelist.net/anime/1293"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "aliens",
-            "based on a manga",
-            "cohabitation",
-            "comedy",
-            "drama",
-            "episodic",
-            "love triangle",
-            "manga",
-            "noitamina",
-            "parody",
-            "present",
-            "romance",
-            "romantic comedy",
-            "school life",
-            "sci fi",
-            "sci-fi",
-            "science fiction",
-            "science-fiction",
-            "shounen",
-            "slapstick",
-            "slice of life",
-            "super power",
-            "supernatural",
-            "tsundere",
-            "urban fantasy"
         ],
         "date": {
             "season": "winter",
@@ -13495,6 +13499,7 @@
             "primarily adult cast",
             "primarily male cast",
             "shapeshifting",
+            "short episodes",
             "slice of life",
             "supernatural",
             "urban fantasy",
@@ -13512,6 +13517,7 @@
         "sources": [
             "https://anilist.co/anime/145824",
             "https://anime-planet.com/anime/wan-yu-zhi-wang",
+            "https://kitsu.io/anime/46121",
             "https://myanimelist.net/anime/51623",
             "https://notify.moe/anime/uzYb-HwnR"
         ],
@@ -13811,6 +13817,35 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/wo-men-de-dong-ao",
+            "https://myanimelist.net/anime/51877"
+        ],
+        "title": "Wo Men de Dong Ao",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1130/123943.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1130/123943t.jpg",
+        "synonyms": [
+            "Me And My Winter Games",
+            "我们的冬奥"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "family friendly",
+            "fantasy",
+            "sports",
+            "team sports"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/17052"
         ],
         "title": "Womende Dong Ao",
@@ -13898,6 +13933,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1429/121998t.jpg",
         "synonyms": [
             "Take A Good Look at Me Now",
+            "The First Son-In-Law Vanguard of All Time",
             "武映三千道"
         ],
         "relations": [],
@@ -13913,6 +13949,53 @@
             "male protagonist",
             "person in a strange world",
             "short episodes"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/139669",
+            "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-8-dunk-for-future",
+            "https://myanimelist.net/anime/51880"
+        ],
+        "title": "Xi Yangyang Yu Hui Tailang: Kuang Chu Weilai",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1998/123946.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1998/123946t.jpg",
+        "synonyms": [
+            "Pleasant Goat and Big Big Wolf Movie 8; Dunk For Future",
+            "Pleasant Goat and Big Big Wolf: Dunk For Future",
+            "喜羊羊与灰太狼新之筐出未来"
+        ],
+        "relations": [
+            "https://anilist.co/anime/131732",
+            "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf",
+            "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-1-the-super-snail-adventure",
+            "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-2-the-tiger-prowess",
+            "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-3-moon-castle-the-space-adventure",
+            "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-4-mission-incredible-adventures-on-the-dragons-trail",
+            "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-5-the-mythical-ark-adventures-in-love-happiness",
+            "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-6-meet-the-pegasus",
+            "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-7-amazing-pleasant-goat",
+            "https://myanimelist.net/anime/49078"
+        ],
+        "tags": [
+            "adventure",
+            "animal protagonists",
+            "anthropomorphic",
+            "cg animation",
+            "chinese animation",
+            "comedy",
+            "family friendly",
+            "non-human protagonists",
+            "original work",
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "winter",
@@ -13950,6 +14033,37 @@
             "non-human protagonists",
             "original work",
             "slice of life"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/143620",
+            "https://anime-planet.com/anime/xiao-hu-dun-da-yingxiong",
+            "https://myanimelist.net/anime/51881"
+        ],
+        "title": "Xiao Hu Dun Da Yingxiong",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1375/123947.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1375/123947t.jpg",
+        "synonyms": [
+            "Run, Tiger Run!",
+            "小虎墩大英雄"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "cg animation",
+            "chinese animation",
+            "comedy",
+            "family friendly",
+            "fantasy",
+            "full cgi"
         ],
         "date": {
             "season": "winter",
@@ -14027,11 +14141,13 @@
             "hero of weak character",
             "magic",
             "male protagonist",
+            "manhua",
             "martial arts",
             "mythology",
             "primarily teen cast",
             "science-fiction",
-            "short episodes"
+            "short episodes",
+            "super power"
         ],
         "date": {
             "season": "winter",

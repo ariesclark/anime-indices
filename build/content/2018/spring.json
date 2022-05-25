@@ -2420,11 +2420,11 @@
             "fantasy",
             "female protagonist",
             "guns",
-            "harem",
             "historical",
             "josei",
             "male protagonist",
             "military",
+            "reverse harem",
             "romance",
             "shoujo",
             "steampunk"
@@ -6118,7 +6118,9 @@
             "Inazuma Eleven Ares",
             "Inazuma Eleven Balance of Ares",
             "Inazuma Eleven: Ares",
+            "Inazuma Eleven: Ares Kickoff!",
             "Inazuma Eleven: Arès",
+            "Inazuma Eleven: Balance of Ares",
             "イナズマイレブン アレスの天秤",
             "闪电十一人 阿瑞斯的天平"
         ],
@@ -8147,8 +8149,10 @@
             "dark fantasy",
             "drama",
             "fantasy",
+            "gore",
             "horror",
             "magical girl",
+            "mahou shoujo",
             "psychological",
             "recap",
             "shounen",
@@ -8708,11 +8712,7 @@
             "Makoto Shinkai × Sukima Switch - Mister Kite",
             "ミスターカイト"
         ],
-        "relations": [
-            "https://anisearch.com/anime/10571",
-            "https://anisearch.com/anime/7692",
-            "https://anisearch.com/anime/8042"
-        ],
+        "relations": [],
         "tags": [],
         "date": {
             "season": "spring",
@@ -10780,7 +10780,7 @@
         ],
         "title": "Puzzle & Dragon",
         "type": "tv",
-        "episodes": 204,
+        "episodes": 205,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1535/95070.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1535/95070t.jpg",
@@ -10852,6 +10852,7 @@
     {
         "sources": [
             "https://anidb.net/anime/14207",
+            "https://anime-planet.com/anime/qian-ting-zong-dong-yuan-haidi-liang-wanli",
             "https://myanimelist.net/anime/51302"
         ],
         "title": "Qian Ting Zong Dong Yuan: Haidi Liang Wanli",
@@ -10868,11 +10869,17 @@
             "潜艇总动员：海底两万里"
         ],
         "relations": [
+            "https://anime-planet.com/anime/qian-ting-zong-dong-yuan-5-shi-guang-bao-he",
             "https://myanimelist.net/anime/51688"
         ],
         "tags": [
             "adventure",
-            "kids"
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "non-human protagonists",
+            "ocean"
         ],
         "date": {
             "season": "spring",
@@ -11205,6 +11212,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/san-zhi-songshu",
             "https://anisearch.com/anime/14938",
             "https://myanimelist.net/anime/47646"
         ],
@@ -11220,14 +11228,19 @@
             "三只松鼠"
         ],
         "relations": [
+            "https://anime-planet.com/anime/san-zhi-songshu-songshu-xiao-zhen",
             "https://myanimelist.net/anime/47647"
         ],
         "tags": [
             "adventure",
+            "animal protagonists",
             "anthropomorphic",
+            "chinese animation",
             "comedy",
+            "family friendly",
             "fantasy",
-            "kids"
+            "kids",
+            "non-human protagonists"
         ],
         "date": {
             "season": "spring",
@@ -12620,6 +12633,7 @@
             "sci fi",
             "sci-fi",
             "science fiction",
+            "video game",
             "virtual reality",
             "virtual world"
         ],
