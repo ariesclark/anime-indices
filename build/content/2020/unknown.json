@@ -5670,26 +5670,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/15049"
-        ],
-        "title": "Love Knights! A.D",
-        "type": "ona",
-        "episodes": 0,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/237543.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/237543.jpg-thumb.jpg",
-        "synonyms": [
-            "ラブナイツ! A・D"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/love-live-sunshine-shin-bangumi-tokuhou-eizou"
         ],
         "title": "Love Live! Sunshine!! Shin Bangumi Tokuhou Eizou",
@@ -5714,7 +5694,9 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/15049",
             "https://anime-planet.com/anime/love-nights-ad",
+            "https://livechart.me/anime/9569",
             "https://myanimelist.net/anime/49728"
         ],
         "title": "Love Nights! A.D",
@@ -5726,7 +5708,8 @@
         "synonyms": [
             "Love Knights! A.D",
             "Love Nights AxD!",
-            "ラブナイツ! A・D"
+            "ラブナイツ! A・D",
+            "ラブナイツ！Ａ・Ｄ"
         ],
         "relations": [],
         "tags": [
@@ -8874,6 +8857,27 @@
             "sci fi",
             "vocaloid"
         ],
+        "date": {
+            "season": "unknown",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51925"
+        ],
+        "title": "Shitsureishimasu ga, ▽",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "Excuse me, RIP ▽",
+            "失礼しますが、RIP▽"
+        ],
+        "relations": [],
+        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2020

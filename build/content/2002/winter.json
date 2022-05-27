@@ -3851,19 +3851,22 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/10499",
             "https://anilist.co/anime/7616",
             "https://kitsu.io/anime/5054",
+            "https://myanimelist.net/anime/7616",
             "https://notify.moe/anime/m6VktFiig"
         ],
-        "title": "Michi",
+        "title": "Michi (Movie)",
         "type": "movie",
         "episodes": 4,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/5054/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/5054/tiny.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/5/70897.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/5/70897t.jpg",
         "synonyms": [
             "Indigo Road",
             "Lemon Road",
+            "Michi",
             "My Road",
             "Ore no Michi",
             "Scarlet Road",
@@ -3883,6 +3886,8 @@
             "philosophy",
             "puppetry",
             "rural",
+            "short episodes",
+            "slice of life",
             "stop motion"
         ],
         "date": {

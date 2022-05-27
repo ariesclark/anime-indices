@@ -502,14 +502,15 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/44082"
+            "https://kitsu.io/anime/44082",
+            "https://myanimelist.net/anime/51931"
         ],
         "title": "Ai no Chiisana Uta",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44082/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44082/tiny.jpg",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
             "愛の小さな歌"
         ],

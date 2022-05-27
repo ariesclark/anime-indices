@@ -1108,20 +1108,37 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/7350",
+            "https://anilist.co/anime/148078",
+            "https://anime-planet.com/anime/kobo-chan-yume-ippai",
             "https://anisearch.com/anime/6050"
         ],
-        "title": "Kobo-chan Special: Yume Ippai!!",
-        "type": "tv",
+        "title": "Kobo-chan: Yume Ippai!!",
+        "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/6/6050.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/6/6050.webp",
+        "picture": "https://cdn.anime-planet.com/anime/primary/kobo-chan-yume-ippai-1.jpg?t=1625898775",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kobo-chan-yume-ippai-1-190x266.jpg?t=1625898775",
         "synonyms": [
+            "Kobo-chan Special: Yume Ippai!!",
+            "コボちゃんスペシャル 夢いっぱい!!",
             "コボちゃんスペシャル 夢いっぱい！！"
         ],
-        "relations": [],
+        "relations": [
+            "https://anidb.net/anime/7335",
+            "https://anilist.co/anime/136490",
+            "https://anilist.co/anime/19585",
+            "https://anime-planet.com/anime/kobo-chan",
+            "https://anime-planet.com/anime/kobo-chan-aki-ga-ippai",
+            "https://anime-planet.com/anime/kobo-chan-matsuri-ga-ippai",
+            "https://anime-planet.com/anime/kobo-chan-yakusoku-no-magic-day"
+        ],
         "tags": [
-            "comedy"
+            "based on a 4-koma manga",
+            "based on a manga",
+            "comedy",
+            "family friendly",
+            "slice of life"
         ],
         "date": {
             "season": "summer",

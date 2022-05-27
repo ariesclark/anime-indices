@@ -2979,30 +2979,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/kawaru-machi-kawareru-machi"
-        ],
-        "title": "Kawaru Machi, Kawareru Machi",
-        "type": "ona",
-        "episodes": 1,
-        "status": "unknown",
-        "picture": "https://cdn.anime-planet.com/anime/primary/kawaru-machi-kawareru-machi-1.webp?t=1645074987",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kawaru-machi-kawareru-machi-1-285x399.webp?t=1645074987",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "based on a manga",
-            "drama",
-            "fantasy",
-            "no dialogue",
-            "shorts"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/148363"
         ],
         "title": "Ki no Uta",
@@ -3867,6 +3843,30 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51574"
+        ],
+        "title": "Neko Naraba Ikeru",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1353/122590.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1353/122590t.jpg",
+        "synonyms": [
+            "猫ならばいける"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44042"
+        ],
+        "tags": [
+            "idols (female)"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/50507"
         ],
         "title": "Nintama Rantarou (2022)",
@@ -4176,6 +4176,10 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/13729",
+            "https://anilist.co/anime/122331",
+            "https://anime-planet.com/anime/the-king-of-fighters-awaken",
+            "https://anisearch.com/anime/15891",
             "https://myanimelist.net/anime/51537",
             "https://myanimelist.net/anime/51876"
         ],
@@ -4187,17 +4191,29 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1425/123942t.jpg",
         "synonyms": [
             "KOF Awaken",
+            "Quan Huang Jue Xing",
             "Quanhuang Juexing",
             "The King of Fighters: Awaken",
-            "拳皇·觉醒"
+            "拳皇 覚醒",
+            "拳皇·觉醒",
+            "拳皇命运 2"
         ],
         "relations": [
+            "https://anidb.net/anime/13005",
+            "https://anilist.co/anime/99934",
+            "https://anime-planet.com/anime/the-king-of-fighters-another-day",
+            "https://anime-planet.com/anime/the-king-of-fighters-destiny",
             "https://myanimelist.net/anime/35204"
         ],
         "tags": [
             "action",
             "adventure",
+            "based on a video game",
+            "cg animation",
+            "chinese animation",
             "drama",
+            "full cgi",
+            "game",
             "martial arts",
             "super power"
         ],
@@ -4907,6 +4923,27 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/147933"
+        ],
+        "title": "Soumatou",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147933-9y2IaLgGZUGm.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147933-9y2IaLgGZUGm.jpg",
+        "synonyms": [
+            "Flashback",
+            "走馬灯"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/51402"
         ],
         "title": "TAISU PROJECT",
@@ -5083,50 +5120,6 @@
             "fantasy",
             "shorts",
             "wakate animator ikusei project"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/13729",
-            "https://anilist.co/anime/122331",
-            "https://anime-planet.com/anime/the-king-of-fighters-awaken",
-            "https://anisearch.com/anime/15891"
-        ],
-        "title": "The King of Fighters: Awaken",
-        "type": "movie",
-        "episodes": 1,
-        "status": "upcoming",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "synonyms": [
-            "Quan Huang Jue Xing",
-            "Quanhuang Juexing",
-            "Quanhuang: Juexing",
-            "拳皇 覚醒",
-            "拳皇·觉醒",
-            "拳皇命运 2"
-        ],
-        "relations": [
-            "https://anidb.net/anime/13005",
-            "https://anilist.co/anime/99934",
-            "https://anime-planet.com/anime/the-king-of-fighters-another-day",
-            "https://anime-planet.com/anime/the-king-of-fighters-destiny"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "based on a video game",
-            "cg animation",
-            "chinese animation",
-            "drama",
-            "full cgi",
-            "game",
-            "martial arts",
-            "super power"
         ],
         "date": {
             "season": "unknown",
@@ -6007,6 +6000,7 @@
     {
         "sources": [
             "https://anilist.co/anime/138611",
+            "https://anime-planet.com/anime/xixing-ji-movie-qiong-qi-didong",
             "https://myanimelist.net/anime/51834"
         ],
         "title": "Xixing Ji: Qiong Qi Didong",
@@ -6017,14 +6011,19 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1741/123842t.jpg",
         "synonyms": [
             "The Westward: Qiong Qi Didong",
+            "Xixing Ji Movie: Qiong Qi Didong",
             "西行纪之穷奇地洞"
         ],
         "relations": [
+            "https://anime-planet.com/anime/xixing-ji",
             "https://myanimelist.net/anime/42209"
         ],
         "tags": [
             "action",
             "adventure",
+            "based on a manga",
+            "cg animation",
+            "chinese animation",
             "fantasy",
             "full cgi",
             "historical",

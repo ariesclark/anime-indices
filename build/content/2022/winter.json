@@ -6213,7 +6213,9 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17194",
             "https://anilist.co/anime/145063",
+            "https://anime-planet.com/anime/kawaru-machi-kawareru-machi",
             "https://anisearch.com/anime/17086",
             "https://myanimelist.net/anime/51008"
         ],
@@ -6227,12 +6229,16 @@
             "A City That Changes, A City That Can Change, Ishinomaki feat. Jun",
             "Jun",
             "Jun: Shotaro no Fantasy World",
+            "Kawaru Machi, Kawareru Machi",
+            "Kawaru Machi, Kawareru Machi, Ishinomaki. feat. Jun",
             "ジュン",
+            "変わるまち, 変われるまち, 石巻. feat.ジュン",
             "変わるまち、変われるまち、石巻. feat.ジュン",
             "変わるまち、変われるまち、石巻。feat.ジュン"
         ],
         "relations": [],
         "tags": [
+            "based on a manga",
             "drama",
             "drawing",
             "fantasy",
@@ -6240,28 +6246,9 @@
             "no dialogue",
             "psychological",
             "sentimental drama",
+            "shorts",
             "tragedy"
         ],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/17194"
-        ],
-        "title": "Kawaru Machi, Kawareru Machi, Ishinomaki. feat. Jun",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/269596.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/269596.jpg-thumb.jpg",
-        "synonyms": [
-            "変わるまち, 変われるまち, 石巻. feat.ジュン"
-        ],
-        "relations": [],
-        "tags": [],
         "date": {
             "season": "winter",
             "year": 2022
@@ -8340,27 +8327,23 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/43986",
-            "https://kitsu.io/anime/45936",
-            "https://myanimelist.net/anime/51574"
+            "https://kitsu.io/anime/45936"
         ],
         "title": "Neko Naraba Ikeru",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1353/122590.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1353/122590t.jpg",
+        "picture": "https://media.kitsu.io/anime/45936/poster_image/small-b7750e833074ccb831fe06274d086835.jpeg",
+        "thumbnail": "https://media.kitsu.io/anime/45936/poster_image/tiny-0a28d453baf092484f1c194f8af41e01.jpeg",
         "synonyms": [
             "猫ならばいける"
         ],
         "relations": [
             "https://kitsu.io/anime/43740",
-            "https://myanimelist.net/anime/44042"
+            "https://kitsu.io/anime/43986"
         ],
         "tags": [
-            "comedy",
             "idol",
-            "idols (female)",
             "music"
         ],
         "date": {

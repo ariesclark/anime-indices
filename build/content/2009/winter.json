@@ -3391,38 +3391,7 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/6311"
-        ],
-        "title": "Kin`iro no Chord: Secondo Passo",
-        "type": "special",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/22050.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/22050.jpg-thumb.jpg",
-        "synonyms": [
-            "La Corda D`Oro: Secondo Passo",
-            "Златната корда: Втора стъпка",
-            "金色のコルダ ~secondo passo~"
-        ],
-        "relations": [
-            "https://anidb.net/anime/10210",
-            "https://anidb.net/anime/4509"
-        ],
-        "tags": [
-            "bishounen",
-            "music",
-            "reverse harem",
-            "school life",
-            "shoujo",
-            "visual novel"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
+            "https://anidb.net/anime/6311",
             "https://anilist.co/anime/5717",
             "https://anime-planet.com/anime/la-cordo-d-oro-secondo-passo",
             "https://anisearch.com/anime/5241",
@@ -3440,16 +3409,22 @@
         "synonyms": [
             "Kin'iro no Chord: Secondo Passo",
             "Kin'iro no Corda: Secondo Passo",
+            "Kin`iro no Chord: Secondo Passo",
             "Kin’iro no Corda: Secondo Passo",
             "La Corda D'Oro ~secondo passo~",
             "La Corda D'Oro: Secondo Passo",
+            "La Corda D`Oro: Secondo Passo",
             "La Corda d'Oro: Secondo Passo",
             "La corda d'oro: secondo passo",
             "The Golden String: Second Step",
+            "Златната корда: Втора стъпка",
+            "金色のコルダ ~secondo passo~",
             "金色のコルダ セコンド・パッソ",
             "金色のコルダ ～secondo passo～"
         ],
         "relations": [
+            "https://anidb.net/anime/10210",
+            "https://anidb.net/anime/4509",
             "https://anilist.co/anime/1579",
             "https://anilist.co/anime/20492",
             "https://anime-planet.com/anime/la-corda-d-oro-blue-sky",
@@ -3482,7 +3457,8 @@
             "school",
             "school life",
             "shoujo",
-            "stereotypes"
+            "stereotypes",
+            "visual novel"
         ],
         "date": {
             "season": "winter",

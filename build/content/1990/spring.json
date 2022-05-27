@@ -146,34 +146,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/bubblegum-crisis-hurricane-live-2033",
-            "https://anisearch.com/anime/8637"
-        ],
-        "title": "Bubblegum Crisis: Hurricane Live! 2033",
-        "type": "special",
-        "episodes": 7,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "synonyms": [
-            "バブルガムクライシス Hurricane Live！ 2033"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/bubblegum-crisis",
-            "https://anime-planet.com/anime/bubblegum-crisis-hurricane-live-2032"
-        ],
-        "tags": [
-            "action",
-            "music",
-            "science-fiction"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 1990
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/4180",
             "https://anilist.co/anime/9177",
             "https://anime-planet.com/anime/burning-blood",
@@ -719,6 +691,8 @@
     {
         "sources": [
             "https://anilist.co/anime/5036",
+            "https://anime-planet.com/anime/bubblegum-crisis-hurricane-live-2033",
+            "https://anisearch.com/anime/8637",
             "https://kitsu.io/anime/3896",
             "https://myanimelist.net/anime/5036",
             "https://notify.moe/anime/LVP9cKiig"
@@ -731,11 +705,15 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1847/109047t.jpg",
         "synonyms": [
             "Bubblegum Crisis: Hurricane Live!",
-            "バブルガムクライシス Hurricane Live! 2033"
+            "Bubblegum Crisis: Hurricane Live! 2033",
+            "バブルガムクライシス Hurricane Live! 2033",
+            "バブルガムクライシス Hurricane Live！ 2033"
         ],
         "relations": [
             "https://anilist.co/anime/1347",
             "https://anilist.co/anime/5043",
+            "https://anime-planet.com/anime/bubblegum-crisis",
+            "https://anime-planet.com/anime/bubblegum-crisis-hurricane-live-2032",
             "https://kitsu.io/anime/1202",
             "https://kitsu.io/anime/3902",
             "https://myanimelist.net/anime/1347",
@@ -744,8 +722,10 @@
             "https://notify.moe/anime/l-_b5Kmmg"
         ],
         "tags": [
+            "action",
             "cyberpunk",
-            "music"
+            "music",
+            "science-fiction"
         ],
         "date": {
             "season": "spring",

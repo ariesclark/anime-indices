@@ -4365,7 +4365,13 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/7296"
+            "https://anidb.net/anime/8457",
+            "https://anilist.co/anime/7296",
+            "https://anime-planet.com/anime/yumirose-michi",
+            "https://anisearch.com/anime/6029",
+            "https://kitsu.io/anime/4932",
+            "https://myanimelist.net/anime/7296",
+            "https://notify.moe/anime/5hsgpKmig"
         ],
         "title": "Michi (2004)",
         "type": "special",
@@ -4374,37 +4380,23 @@
         "picture": "https://cdn.myanimelist.net/images/anime/7/17333.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/7/17333t.jpg",
         "synonyms": [
+            "Michi",
+            "Michi (Music Video)",
+            "Michi (Music)",
             "Minna no Uta",
-            "道"
-        ],
-        "relations": [],
-        "tags": [
-            "kids",
-            "music"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2004
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/4932",
-            "https://notify.moe/anime/5hsgpKmig"
-        ],
-        "title": "Michi (Music)",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/4932/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/4932/tiny.jpg",
-        "synonyms": [
             "Minna no Uta: Michi",
+            "Yumirose - Michi",
+            "Yumirose: Michi",
             "道"
         ],
         "relations": [],
         "tags": [
+            "cg-anime",
+            "family friendly",
+            "kids",
+            "minna no uta",
             "music",
+            "present",
             "the arts"
         ],
         "date": {

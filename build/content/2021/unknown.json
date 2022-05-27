@@ -2801,34 +2801,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/girls-und-panzer-saishuushou-3-specials"
-        ],
-        "title": "Girls und Panzer: Saishuushou 3 Specials",
-        "type": "special",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/girls-und-panzer-saishuushou-3-specials-1.webp?t=1641529199",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/girls-und-panzer-saishuushou-3-specials-1-285x399.webp?t=1641529199",
-        "synonyms": [
-            "Girls und Panzer das Finale Part 3 Specials"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/girls-und-panzer-saishuushou-3"
-        ],
-        "tags": [
-            "action",
-            "comedy",
-            "original work",
-            "school club",
-            "school life"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/138414",
             "https://myanimelist.net/anime/48800",
             "https://myanimelist.net/anime/48827"
@@ -3013,14 +2985,16 @@
     {
         "sources": [
             "https://anidb.net/anime/16620",
-            "https://anilist.co/anime/126394"
+            "https://anilist.co/anime/126394",
+            "https://anime-planet.com/anime/hei-men",
+            "https://myanimelist.net/anime/50439"
         ],
         "title": "Hei Men",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126394-stAyOPKAm84p.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126394-stAyOPKAm84p.png",
+        "picture": "https://cdn.myanimelist.net/images/anime/1292/123817.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1292/123817t.jpg",
         "synonyms": [
             "Black Gate",
             "Swarm",
@@ -3029,8 +3003,10 @@
         ],
         "relations": [],
         "tags": [
+            "chinese animation",
             "full cgi",
             "mystery",
+            "sci fi",
             "sci-fi"
         ],
         "date": {
@@ -3851,34 +3827,52 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/133774",
-            "https://anime-planet.com/anime/jiutain-yuan-di-jue",
-            "https://anime-planet.com/anime/jiutian-yuan-di-jue"
+            "https://anilist.co/anime/133774"
         ],
-        "title": "Jiutain Yuan Di Jue",
+        "title": "Jiu Tian Xuan Di Jue",
         "type": "ona",
         "episodes": 40,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/jiutain-yuan-di-jue-1.jpg?t=1625908995",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/jiutain-yuan-di-jue-1-190x266.jpg?t=1625908995",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133774-v7JB4m7rQkDg.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133774-v7JB4m7rQkDg.png",
         "synonyms": [
-            "Jiu Tian Xuan Di Jue",
-            "Jiutian Yuan Di Jue",
             "The Success Of Empyrean Xuan Emperor",
-            "The Success Of Mmpyrean Xuan Emperor",
             "九天玄帝诀"
         ],
         "relations": [
-            "https://anilist.co/anime/148226",
-            "https://anime-planet.com/anime/jiutian-yuan-di-jue-2nd-season"
+            "https://anilist.co/anime/148226"
         ],
         "tags": [
             "action",
-            "cg animation",
-            "chinese animation",
             "cultivation",
             "fantasy",
-            "full cgi",
+            "full cgi"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/jiutian-yuan-di-jue"
+        ],
+        "title": "Jiutian Yuan Di Jue",
+        "type": "ona",
+        "episodes": 40,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/jiutian-yuan-di-jue-1.jpg?t=1651549816",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/jiutian-yuan-di-jue-1-190x266.jpg?t=1651549816",
+        "synonyms": [
+            "The Success Of Mmpyrean Xuan Emperor"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/jiutian-yuan-di-jue-2nd-season"
+        ],
+        "tags": [
+            "cg animation",
+            "chinese animation",
+            "fantasy",
             "original work"
         ],
         "date": {

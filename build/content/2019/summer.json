@@ -5854,30 +5854,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/15506"
-        ],
-        "title": "Kidou Senshi Gundam: Hikaru Inochi Chronicle U.C.",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/246805.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/246805.jpg-thumb.jpg",
-        "synonyms": [
-            "Mobile Suit Gundam: The Light of Life Chronicle U.C.",
-            "機動戦士ガンダム 光る命 Chronicle U.C."
-        ],
-        "relations": [
-            "https://anidb.net/anime/715",
-            "https://anidb.net/anime/916"
-        ],
-        "tags": [],
-        "date": {
-            "season": "summer",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/113849",
             "https://anime-planet.com/anime/kimi-no-tonari-ni-itai-kara",
             "https://myanimelist.net/anime/40509"
@@ -7792,6 +7768,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/15506",
             "https://anilist.co/anime/113138",
             "https://anime-planet.com/anime/mobile-suit-gundam-hikaru-inochi-chronicle-uc",
             "https://anisearch.com/anime/16267",
@@ -7812,6 +7789,8 @@
             "機動戦士ガンダム 光る命 Chronicle U.C."
         ],
         "relations": [
+            "https://anidb.net/anime/715",
+            "https://anidb.net/anime/916",
             "https://anilist.co/anime/80",
             "https://anime-planet.com/anime/mobile-suit-gundam",
             "https://kitsu.io/anime/60",

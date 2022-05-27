@@ -23029,32 +23029,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/hei-men",
-            "https://myanimelist.net/anime/50439"
-        ],
-        "title": "Hei Men",
-        "type": "ona",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1292/123817.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1292/123817t.jpg",
-        "synonyms": [
-            "Swarm",
-            "黑门"
-        ],
-        "relations": [],
-        "tags": [
-            "chinese animation",
-            "sci fi",
-            "sci-fi"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/45470"
         ],
         "title": "Hei! Xingxing Hu",
@@ -29694,31 +29668,6 @@
             "chinese animation",
             "comedy",
             "supernatural"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/kaiju-yi-zuo-shan"
-        ],
-        "title": "Kaiju Yi Zuo Shan",
-        "type": "ona",
-        "episodes": 7,
-        "status": "ongoing",
-        "picture": "https://cdn.anime-planet.com/anime/primary/kaiju-yi-zuo-shan-1.webp?t=1652827449",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kaiju-yi-zuo-shan-1-285x400.webp?t=1652827449",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "action",
-            "adventure",
-            "based on a webtoon",
-            "chinese animation",
-            "drama",
-            "kingdom building"
         ],
         "date": {
             "season": "unknown",
@@ -38170,29 +38119,6 @@
         "relations": [],
         "tags": [
             "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/9569"
-        ],
-        "title": "Love Knights! A.D",
-        "type": "ona",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://u.livechart.me/anime/9569/poster_image/e517cc8b78969fbd968b0423699d1a50.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/9569/poster_image/e517cc8b78969fbd968b0423699d1a50.png?style=small&format=jpg",
-        "synonyms": [
-            "ラブナイツ！Ａ・Ｄ"
-        ],
-        "relations": [],
-        "tags": [
-            "demons",
-            "fantasy"
         ],
         "date": {
             "season": "unknown",
@@ -51398,33 +51324,8 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/rick-and-morty"
-        ],
-        "title": "Rick and Morty",
-        "type": "tv",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://cdn.anime-planet.com/anime/primary/rick-and-morty-1.webp?t=1653016103",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/rick-and-morty-1-285x399.webp?t=1653016103",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/rick-and-morty-samurai-and-shogun",
-            "https://anime-planet.com/anime/rick-and-morty-the-great-yokai-battle-of-akihabara",
-            "https://anime-planet.com/anime/rick-and-morty-vs-genocider",
-            "https://anime-planet.com/anime/summer-meets-god-rick-meets-evil"
-        ],
-        "tags": [
-            "based on a cartoon",
-            "sci fi"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/17422",
+            "https://anime-planet.com/anime/rick-and-morty",
             "https://myanimelist.net/anime/51843"
         ],
         "title": "Rick and Morty: The Anime",
@@ -51437,11 +51338,18 @@
             "Rick & Morty",
             "Rick and Morty"
         ],
-        "relations": [],
+        "relations": [
+            "https://anime-planet.com/anime/rick-and-morty-samurai-and-shogun",
+            "https://anime-planet.com/anime/rick-and-morty-the-great-yokai-battle-of-akihabara",
+            "https://anime-planet.com/anime/rick-and-morty-vs-genocider",
+            "https://anime-planet.com/anime/summer-meets-god-rick-meets-evil"
+        ],
         "tags": [
             "adventure",
             "american derived",
+            "based on a cartoon",
             "comedy",
+            "sci fi",
             "sci-fi",
             "western animated cartoon"
         ],
@@ -75868,31 +75776,6 @@
         "relations": [
             "https://anime-planet.com/anime/xixing-ji",
             "https://anime-planet.com/anime/xixing-ji-3rd-season"
-        ],
-        "tags": [
-            "adventure",
-            "based on a manga",
-            "cg animation",
-            "chinese animation"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": null
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/xixing-ji-movie-qiong-qi-didong"
-        ],
-        "title": "Xixing Ji Movie: Qiong Qi Didong",
-        "type": "movie",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://cdn.anime-planet.com/anime/primary/xixing-ji-movie-qiong-qi-didong-1.jpg?t=1633646215",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/xixing-ji-movie-qiong-qi-didong-1-285x399.jpg?t=1633646215",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/xixing-ji"
         ],
         "tags": [
             "adventure",

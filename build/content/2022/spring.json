@@ -2178,6 +2178,31 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51934"
+        ],
+        "title": "Hikousen",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1925/124089.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1925/124089t.jpg",
+        "synonyms": [
+            "CIDERGIRL X DHL FAST-TRACK",
+            "Hikosen",
+            "飛行船"
+        ],
+        "relations": [],
+        "tags": [
+            "fantasy",
+            "music"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/15634",
             "https://anilist.co/anime/121176",
             "https://anime-planet.com/anime/ascendance-of-a-bookworm-part-iii",
@@ -3180,27 +3205,9 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/17358"
-        ],
-        "title": "Kaiju Yi Zuo Shan",
-        "type": "ona",
-        "episodes": 0,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/272824.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/272824.jpg-thumb.jpg",
-        "synonyms": [
-            "开局一座山"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "spring",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
+            "https://anidb.net/anime/17358",
             "https://anilist.co/anime/137698",
+            "https://anime-planet.com/anime/kaiju-yi-zuo-shan",
             "https://myanimelist.net/anime/51385"
         ],
         "title": "Kaiju Yi Zuo Shan",
@@ -3216,7 +3223,12 @@
         "relations": [],
         "tags": [
             "action",
-            "fantasy"
+            "adventure",
+            "based on a webtoon",
+            "chinese animation",
+            "drama",
+            "fantasy",
+            "kingdom building"
         ],
         "date": {
             "season": "spring",

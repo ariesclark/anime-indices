@@ -4060,7 +4060,8 @@
     {
         "sources": [
             "https://anidb.net/anime/17361",
-            "https://anisearch.com/anime/17384"
+            "https://anisearch.com/anime/17384",
+            "https://livechart.me/anime/10911"
         ],
         "title": "Uta no Prince-sama: Maji Love Starish Tours - Tabi no Hajimari",
         "type": "tv",
@@ -4070,35 +4071,9 @@
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17384.webp",
         "synonyms": [
             "The Start of a Journey",
+            "Uta no☆Prince-sama♪ Maji Love ST☆RISH Tours ~Tabi no Hajimari~",
             "Utano☆Princesama♪ Maji Love ST☆RISH Tours: Tabi no Hajimari",
             "うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ ~旅の始まり~",
-            "うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ ～旅の始まり～"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "harem",
-            "idol",
-            "music",
-            "present",
-            "romance"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/10911"
-        ],
-        "title": "Uta no☆Prince-sama♪ Maji Love ST☆RISH Tours ~Tabi no Hajimari~",
-        "type": "special",
-        "episodes": 1,
-        "status": "upcoming",
-        "picture": "https://u.livechart.me/anime/10911/poster_image/b30c31db8926670d8fa3e4cfe4322a0c.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/10911/poster_image/b30c31db8926670d8fa3e4cfe4322a0c.jpg?style=small&format=jpg",
-        "synonyms": [
             "うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ ～旅の始まり～"
         ],
         "relations": [
@@ -4113,7 +4088,9 @@
         "tags": [
             "comedy",
             "harem",
+            "idol",
             "music",
+            "present",
             "romance",
             "school",
             "shoujo"
@@ -4241,6 +4218,29 @@
             "sci-fi",
             "science fiction",
             "slice of life"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51923"
+        ],
+        "title": "Warau Arsnotoria Sun!",
+        "type": "tv",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1213/124081.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1213/124081t.jpg",
+        "synonyms": [
+            "Smile of the Arsnotoria the Animation",
+            "咲う アルスノトリア すんっ！"
+        ],
+        "relations": [],
+        "tags": [
+            "action"
         ],
         "date": {
             "season": "summer",

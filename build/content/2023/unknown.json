@@ -21,20 +21,26 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/17423"
+            "https://anidb.net/anime/17423",
+            "https://myanimelist.net/anime/51916"
         ],
         "title": "Dekiru Neko wa Kyou mo Yuuutsu",
         "type": "tv",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://cdn.anidb.net/images/main/273221.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/273221.jpg-thumb.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1101/124062.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1101/124062t.jpg",
         "synonyms": [
             "The Masterful Cat Is Depressed Again Today",
             "デキる猫は今日も憂鬱"
         ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "anthropomorphic",
+            "comedy",
+            "slice of life",
+            "supernatural"
+        ],
         "date": {
             "season": "unknown",
             "year": 2023

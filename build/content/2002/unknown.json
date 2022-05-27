@@ -464,40 +464,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/scarlet-road",
-            "https://myanimelist.net/anime/7616"
-        ],
-        "title": "Michi (Movie)",
-        "type": "movie",
-        "episodes": 4,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/5/70897.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/5/70897t.jpg",
-        "synonyms": [
-            "Aka no Michi",
-            "Indigo Road",
-            "Lemon Road",
-            "Ore no Michi",
-            "Scarlet Road",
-            "White Road",
-            "俺の路"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/white-road"
-        ],
-        "tags": [
-            "drama",
-            "shorts",
-            "slice of life",
-            "stop motion animation"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2002
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/minimoni-minihams-no-kekkon-song"
         ],
         "title": "Minimoni: Minihams no Kekkon Song",
@@ -568,7 +534,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/10499",
             "https://anisearch.com/anime/9611"
         ],
         "title": "Ore no Michi",
@@ -586,7 +551,6 @@
         "relations": [],
         "tags": [
             "drama",
-            "short episodes",
             "stop motion"
         ],
         "date": {
@@ -657,6 +621,32 @@
         ],
         "tags": [
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2002
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/scarlet-road"
+        ],
+        "title": "Scarlet Road",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/scarlet-road-1.jpg?t=1637814113",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/scarlet-road-1-285x399.jpg?t=1637814113",
+        "synonyms": [
+            "Aka no Michi"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/white-road"
+        ],
+        "tags": [
+            "drama",
+            "shorts",
+            "stop motion animation"
         ],
         "date": {
             "season": "unknown",
