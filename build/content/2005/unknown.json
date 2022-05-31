@@ -26,34 +26,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/50948"
-        ],
-        "title": "Abata densetsu no shonen An",
-        "type": "tv",
-        "episodes": 60,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "Avatar: The last Airbender",
-            "アバター 伝説の少年アン"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "adventure",
-            "fantasy",
-            "kids",
-            "super power",
-            "supernatural"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2005
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/12145"
         ],
         "title": "Bbaekkom",
@@ -519,6 +491,7 @@
             "https://anime-planet.com/anime/hong-mao-lan-tu-le-fantian",
             "https://anime-planet.com/anime/hong-mao-lan-tu-maoyan-kan-yuzhou",
             "https://anime-planet.com/anime/hong-mao-lan-tu-meng-guo-li-xian-ji",
+            "https://anime-planet.com/anime/hong-mao-lan-tu-mtv",
             "https://anime-planet.com/anime/hong-mao-lan-tu-ni-wen-wo-da",
             "https://anime-planet.com/anime/hong-mao-lan-tu-qi-xia-chuan",
             "https://anime-planet.com/anime/hong-mao-lan-tu-qi-xia-waizhuan",
@@ -1455,6 +1428,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/shaolin-tu-yu-wudang-gou",
             "https://myanimelist.net/anime/44580"
         ],
         "title": "Shaolin Tu Yu Wudang Gou",
@@ -1469,10 +1443,19 @@
             "少林兔与武当狗"
         ],
         "relations": [
+            "https://anime-planet.com/anime/kung-fu-bunny",
+            "https://anime-planet.com/anime/tuzi-nali-pao",
             "https://myanimelist.net/anime/44581"
         ],
         "tags": [
-            "comedy"
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
+            "comedy",
+            "dogs",
+            "non-human protagonists",
+            "rabbits",
+            "shorts"
         ],
         "date": {
             "season": "unknown",

@@ -1,6 +1,26 @@
 [
     {
         "sources": [
+            "https://anime-planet.com/anime/blue-lament"
+        ],
+        "title": "Blue Lament",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/blue-lament-1.webp?t=1653608986",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/blue-lament-1-285x400.webp?t=1653608986",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1986
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/143577",
             "https://anime-planet.com/anime/chaoji-feizao",
             "https://myanimelist.net/anime/43597"
@@ -64,6 +84,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kami-no-ie",
             "https://myanimelist.net/anime/51822"
         ],
         "title": "Kami no Ie",
@@ -78,8 +99,10 @@
         ],
         "relations": [],
         "tags": [
+            "abstract",
             "avant garde",
-            "music"
+            "music",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -145,6 +168,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/mizube-no-shokubutsu",
             "https://myanimelist.net/anime/51851"
         ],
         "title": "Mizube no Shokubutsu",
@@ -158,8 +182,10 @@
         ],
         "relations": [],
         "tags": [
+            "abstract",
             "avant garde",
-            "music"
+            "music",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -214,6 +240,27 @@
             "kids",
             "shorts"
         ],
+        "date": {
+            "season": "unknown",
+            "year": 1986
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/150008"
+        ],
+        "title": "Taihen daa",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b150008-pMZ8JkTl4RPO.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b150008-pMZ8JkTl4RPO.png",
+        "synonyms": [
+            "Minna no Uta",
+            "たいへんだぁ"
+        ],
+        "relations": [],
+        "tags": [],
         "date": {
             "season": "unknown",
             "year": 1986

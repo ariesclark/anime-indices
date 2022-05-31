@@ -779,7 +779,6 @@
             "animals",
             "anthropomorphic",
             "anthropomorphism",
-            "baseball",
             "beastmen",
             "bullying",
             "comedy",
@@ -1897,6 +1896,7 @@
             "https://anidb.net/anime/9395",
             "https://anime-planet.com/anime/hyperdimension-neptunia",
             "https://livechart.me/anime/10820",
+            "https://livechart.me/anime/11226",
             "https://livechart.me/anime/14",
             "https://livechart.me/anime/367",
             "https://livechart.me/anime/9400",
@@ -1913,6 +1913,35 @@
             "recap",
             "sci-fi",
             "supernatural"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/143315",
+            "https://anisearch.com/anime/16280",
+            "https://myanimelist.net/anime/51957"
+        ],
+        "title": "Climbing",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1953/124132.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1953/124132t.jpg",
+        "synonyms": [
+            "Keullaiming",
+            "클라이밍"
+        ],
+        "relations": [],
+        "tags": [
+            "athletics",
+            "horror",
+            "psychological",
+            "sports",
+            "suspense"
         ],
         "date": {
             "season": "spring",
@@ -1964,28 +1993,6 @@
         "tags": [
             "action",
             "parody"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/9833"
-        ],
-        "title": "Corocoro Coronya",
-        "type": "ona",
-        "episodes": 8,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/9833/poster_image/f5d29ba26699f83b67bcff304bb639e9.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/9833/poster_image/f5d29ba26699f83b67bcff304bb639e9.png?style=small&format=jpg",
-        "synonyms": [
-            "ころころコロニャ"
-        ],
-        "relations": [],
-        "tags": [
-            "kids"
         ],
         "date": {
             "season": "spring",
@@ -3157,6 +3164,7 @@
             "family friendly",
             "idol",
             "idols",
+            "idols (female)",
             "kids",
             "music",
             "school",
@@ -4748,57 +4756,48 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/43333"
-        ],
-        "title": "Jing-ju Cats 4",
-        "type": "tv",
-        "episodes": 70,
-        "status": "ongoing",
-        "picture": "https://media.kitsu.io/anime/poster_images/43333/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/43333/tiny.jpg",
-        "synonyms": [
-            "Beijing Opera Cats",
-            "Jingju Mao 4th Season",
-            "Jingju Mao Zhi Jiaota Shidi",
-            "京剧猫之脚踏实地"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/43332"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "anthropomorphism",
-            "comedy",
-            "fantasy",
-            "fantasy world",
-            "kids"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/121201",
+            "https://anime-planet.com/anime/jingju-mao-4-zhi-jiaota-shidi",
             "https://livechart.me/anime/10256"
         ],
-        "title": "Jingju Mao Zhi Jiaota Shidi",
+        "title": "Jingju Mao 4 Zhi Jiaota Shidi",
         "type": "ona",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://u.livechart.me/anime/10256/poster_image/939374eccb136c57a2f3773c34189bd2.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/10256/poster_image/939374eccb136c57a2f3773c34189bd2.jpg?style=small&format=jpg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/jingju-mao-4-zhi-jiaota-shidi-1.jpg?t=1625908504",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/jingju-mao-4-zhi-jiaota-shidi-1-190x285.jpg?t=1625908504",
         "synonyms": [
-            "京剧猫之脚踏实地"
+            "Beijing Opera Cats 4 Part 1",
+            "Jing-Ju Cats 4",
+            "Jingju Cats 4 Part 1",
+            "Jingju Mao Zhi Jiaota Shidi",
+            "Jingju Mao: Jiaotashidi Part 1",
+            "京剧猫之脚踏实地",
+            "京剧猫之脚踏实地（上）"
         ],
-        "relations": [],
+        "relations": [
+            "https://anilist.co/anime/121200",
+            "https://anilist.co/anime/121202",
+            "https://anime-planet.com/anime/jingju-mao",
+            "https://anime-planet.com/anime/jingju-mao-2-zhi-xinnian-de-maoxian",
+            "https://anime-planet.com/anime/jingju-mao-3-zhi-cheng-feng-polang",
+            "https://anime-planet.com/anime/jingju-mao-4-zhi-jiaota-shidi-part-ii"
+        ],
         "tags": [
             "action",
             "adventure",
+            "animal protagonists",
+            "cats",
+            "chinese animation",
             "comedy",
+            "family friendly",
             "fantasy",
-            "kids"
+            "hand to hand combat",
+            "kids",
+            "magic",
+            "martial arts",
+            "non-human protagonists",
+            "short episodes"
         ],
         "date": {
             "season": "spring",
@@ -6461,40 +6460,10 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16690",
             "https://anilist.co/anime/116999",
-            "https://livechart.me/anime/10585"
-        ],
-        "title": "Menghuan Shuyuan 3",
-        "type": "ona",
-        "episodes": 14,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116999-Wc2QiCL8ejQf.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116999-Wc2QiCL8ejQf.png",
-        "synonyms": [
-            "Dream Academy 3",
-            "梦幻书院 第三季"
-        ],
-        "relations": [
-            "https://anilist.co/anime/116998",
-            "https://anilist.co/anime/124397",
-            "https://livechart.me/anime/10583",
-            "https://livechart.me/anime/10584",
-            "https://livechart.me/anime/10586",
-            "https://livechart.me/anime/10587",
-            "https://livechart.me/anime/10588"
-        ],
-        "tags": [
-            "comedy",
-            "fantasy"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/menghuan-shuyuan-3rd-season",
+            "https://livechart.me/anime/10585",
             "https://myanimelist.net/anime/42448",
             "https://notify.moe/anime/EZwdhk5GR"
         ],
@@ -6505,11 +6474,23 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1799/108466.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1799/108466t.jpg",
         "synonyms": [
+            "Dream Academy 3",
+            "Menghuan Shuyuan 3",
+            "Menghuan Shuyuan Di San Ji",
             "梦幻书院 第三季"
         ],
         "relations": [
+            "https://anidb.net/anime/16689",
+            "https://anidb.net/anime/16691",
+            "https://anilist.co/anime/116998",
+            "https://anilist.co/anime/124397",
             "https://anime-planet.com/anime/menghuan-shuyuan-2nd-season",
             "https://anime-planet.com/anime/menghuan-shuyuan-4th-season",
+            "https://livechart.me/anime/10583",
+            "https://livechart.me/anime/10584",
+            "https://livechart.me/anime/10586",
+            "https://livechart.me/anime/10587",
+            "https://livechart.me/anime/10588",
             "https://myanimelist.net/anime/42447",
             "https://myanimelist.net/anime/42969",
             "https://notify.moe/anime/nQTGhzcMg",
@@ -6521,31 +6502,6 @@
             "chinese animation",
             "comedy",
             "fantasy",
-            "short episodes"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16690"
-        ],
-        "title": "Menghuan Shuyuan Di San Ji",
-        "type": "ona",
-        "episodes": 14,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/265088.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/265088.jpg-thumb.jpg",
-        "synonyms": [
-            "梦幻书院 第三季"
-        ],
-        "relations": [
-            "https://anidb.net/anime/16689",
-            "https://anidb.net/anime/16691"
-        ],
-        "tags": [
             "short episodes"
         ],
         "date": {
@@ -7403,7 +7359,8 @@
             "https://anime-planet.com/anime/ninjala-ninja-gum-is-born",
             "https://anime-planet.com/anime/ninjala-tv",
             "https://kitsu.io/anime/43141",
-            "https://myanimelist.net/anime/41547"
+            "https://myanimelist.net/anime/41547",
+            "https://myanimelist.net/anime/50418"
         ],
         "tags": [
             "action",
@@ -8325,7 +8282,6 @@
             "https://anilist.co/anime/145433",
             "https://anime-planet.com/anime/follow-your-fantasy",
             "https://anime-planet.com/anime/princess-connect-re-dive-season-2",
-            "https://anisearch.com/anime/15500",
             "https://kitsu.io/anime/12891",
             "https://kitsu.io/anime/43600",
             "https://kitsu.io/anime/44111",
@@ -10431,8 +10387,6 @@
             "https://anilist.co/anime/103350",
             "https://anilist.co/anime/122497",
             "https://anime-planet.com/anime/wan-sheng-jie-2",
-            "https://anisearch.com/anime/16098",
-            "https://anisearch.com/anime/16893",
             "https://kitsu.io/anime/43614",
             "https://livechart.me/anime/10110",
             "https://livechart.me/anime/10741",

@@ -1131,14 +1131,15 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/15668"
+            "https://anidb.net/anime/15668",
+            "https://anime-planet.com/anime/chao-wa-zhanshi-xingji-jiayuan"
         ],
         "title": "Chao Wa Zhanshi: Xingji Jiayuan",
-        "type": "ona",
+        "type": "tv",
         "episodes": 25,
         "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/250916.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/250916.jpg-thumb.jpg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/chao-wa-zhanshi-xingji-jiayuan-1.webp?t=1653345172",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/chao-wa-zhanshi-xingji-jiayuan-1-285x400.webp?t=1653345172",
         "synonyms": [
             "Animen (2011)",
             "超蛙战士之星际家园"
@@ -1148,8 +1149,10 @@
         ],
         "tags": [
             "action",
+            "chinese animation",
             "mecha",
             "new",
+            "sci fi",
             "science fiction"
         ],
         "date": {
@@ -4857,6 +4860,8 @@
             "ghost",
             "henshin",
             "heterosexual",
+            "incest",
+            "inseki",
             "japan",
             "lgbtq+ themes",
             "love polygon",
@@ -4864,6 +4869,7 @@
             "magic",
             "memory manipulation",
             "meta",
+            "musical",
             "mystery",
             "new",
             "original work",
@@ -5598,6 +5604,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/8/82394t.jpg",
         "synonyms": [
             "Natsume Yujin-cho (Season 3)",
+            "Natsume Yujin-cho (Temporada 3)",
             "Natsume Yujincho 3",
             "Natsume Yuujinchou 3",
             "Natsume Yuujinchou Three",

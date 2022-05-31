@@ -14,7 +14,6 @@
             "1%の恋人"
         ],
         "relations": [
-            "https://anilist.co/anime/122040",
             "https://anilist.co/anime/122370"
         ],
         "tags": [
@@ -98,6 +97,24 @@
         "tags": [
             "vocaloid"
         ],
+        "date": {
+            "season": "unknown",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/3-oclock-in-the-afternoon-snack-time"
+        ],
+        "title": "3 O’Clock in the Afternoon, Snack Time",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/3-oclock-in-the-afternoon-snack-time-1.webp?t=1653358915",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/3-oclock-in-the-afternoon-snack-time-1-285x400.webp?t=1653358915",
+        "synonyms": [],
+        "relations": [],
+        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2020
@@ -2234,7 +2251,8 @@
         "tags": [
             "based on a mobile game",
             "disney",
-            "opening animation"
+            "opening animation",
+            "promotional"
         ],
         "date": {
             "season": "unknown",
@@ -2821,14 +2839,15 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-5-2-event-pv",
             "https://anime-planet.com/anime/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-52-event-pv"
         ],
         "title": "Fate/Grand Order: Cosmos in the Lostbelt - Lostbelt No. 5.2 Event PV",
         "type": "ona",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-52-event-pv-1.webp?t=1649569486",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-52-event-pv-1-285x399.webp?t=1649569486",
+        "picture": "https://cdn.anime-planet.com/anime/primary/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-5-2-event-pv-1.webp?t=1653335248",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-5-2-event-pv-1-285x399.webp?t=1653335248",
         "synonyms": [],
         "relations": [
             "https://anime-planet.com/anime/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-2-event-pv",
@@ -4498,36 +4517,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/121201"
-        ],
-        "title": "Jingju Mao: Jiaotashidi Part 1",
-        "type": "ona",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121201-O80EyGBY5Eba.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121201-O80EyGBY5Eba.png",
-        "synonyms": [
-            "Beijing Opera Cats 4 Part 1",
-            "Jingju Cats 4 Part 1",
-            "京剧猫之脚踏实地（上）"
-        ],
-        "relations": [
-            "https://anilist.co/anime/121200",
-            "https://anilist.co/anime/121202"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "comedy",
-            "fantasy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/45140"
         ],
         "title": "Jingling Meng Ye Luo Li season8",
@@ -5167,6 +5156,32 @@
         ],
         "tags": [
             "music"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/kodakku-taichou"
+        ],
+        "title": "Kodakku Taichou",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/kodakku-taichou-1.webp?t=1653689110",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kodakku-taichou-1-285x400.webp?t=1653689110",
+        "synonyms": [
+            "Chairman Psyduck"
+        ],
+        "relations": [],
+        "tags": [
+            "based on a video game",
+            "family friendly",
+            "fantasy",
+            "monsters",
+            "non-human protagonists"
         ],
         "date": {
             "season": "unknown",
@@ -6497,32 +6512,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44623"
-        ],
-        "title": "Mo Jing Lieren 5th season",
-        "type": "ona",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1457/115826.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1457/115826t.jpg",
-        "synonyms": [
-            "魔晶猎人 第五季"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44622"
-        ],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/48075"
         ],
         "title": "Mo Jing Lieren: Long Yao Zhi Zhan",
@@ -6562,6 +6551,24 @@
             "promotional",
             "vtubers"
         ],
+        "date": {
+            "season": "unknown",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/150003"
+        ],
+        "title": "Monorail",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150003-ipXcvcPKbHGQ.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150003-ipXcvcPKbHGQ.jpg",
+        "synonyms": [],
+        "relations": [],
+        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2020
@@ -7141,6 +7148,24 @@
         "tags": [
             "music"
         ],
+        "date": {
+            "season": "unknown",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/one-world"
+        ],
+        "title": "ONE WORLD",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/one-world-1.webp?t=1653358709",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/one-world-1-285x399.webp?t=1653358709",
+        "synonyms": [],
+        "relations": [],
+        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2020
@@ -11525,6 +11550,26 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/yoh-kamiyama-laundry"
+        ],
+        "title": "Yoh Kamiyama: Laundry",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/yoh-kamiyama-laundry-1.jpg?t=1653335216",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/yoh-kamiyama-laundry-1-190x266.jpg?t=1653335216",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "abstract"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/yoh-kamiyama-sugar-highway"
         ],
         "title": "Yoh Kamiyama: Sugar Highway",
@@ -11798,6 +11843,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/zhu-zhu-xia-shenhai-xiao-yingxiong",
             "https://myanimelist.net/anime/44353"
         ],
         "title": "Zhu Zhu Xia: Shenhai Xiao Yingxiong",
@@ -11814,6 +11860,8 @@
         ],
         "tags": [
             "adventure",
+            "chinese animation",
+            "family friendly",
             "fantasy",
             "kids"
         ],

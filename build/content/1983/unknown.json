@@ -505,6 +505,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/sakuhin",
             "https://myanimelist.net/anime/51921"
         ],
         "title": "Sakuhin",
@@ -518,7 +519,9 @@
         ],
         "relations": [],
         "tags": [
-            "avant garde"
+            "abstract",
+            "avant garde",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -556,6 +559,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tsuki-no-musume",
             "https://myanimelist.net/anime/51848"
         ],
         "title": "Tsuki no Musume",
@@ -569,8 +573,10 @@
         ],
         "relations": [],
         "tags": [
+            "abstract",
             "avant garde",
-            "music"
+            "music",
+            "shorts"
         ],
         "date": {
             "season": "unknown",

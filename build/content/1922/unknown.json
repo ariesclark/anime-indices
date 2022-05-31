@@ -1,6 +1,26 @@
 [
     {
         "sources": [
+            "https://anime-planet.com/anime/katei-sekken"
+        ],
+        "title": "Katei Sekken",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/katei-sekken-1.webp?t=1653605346",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/katei-sekken-1-285x400.webp?t=1653605346",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "promotional"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1922
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/9425"
         ],
         "title": "Shokubutsu Seiri: Seishoku No Maki",

@@ -3419,32 +3419,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44659"
-        ],
-        "title": "Qianting Zongdongyuan 2",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "潜艇总动员2"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44660"
-        ],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/44131"
         ],
         "title": "Qin Shi Mingyue: Haixing Dadao",
@@ -3581,6 +3555,30 @@
         "tags": [
             "fantasy",
             "music"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/rubi-yoyo-jiaoyu-xilie-kuaile-chengzhang"
+        ],
+        "title": "Rubi Yoyo Jiaoyu Xilie: Kuaile Chengzhang",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/rubi-yoyo-jiaoyu-xilie-kuaile-chengzhang-1.webp?t=1653369056",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/rubi-yoyo-jiaoyu-xilie-kuaile-chengzhang-1-257x360.webp?t=1653369056",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/rubi-yoyo-3"
+        ],
+        "tags": [
+            "chinese animation",
+            "family friendly",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -3735,6 +3733,33 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/shanhai-qi-tan",
+            "https://myanimelist.net/anime/46902"
+        ],
+        "title": "Shanhai Qi Tan",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1891/123179.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1891/123179t.jpg",
+        "synonyms": [
+            "山海奇谭"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "family friendly",
+            "fantasy",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/shao-nian-effendi",
             "https://myanimelist.net/anime/43450"
         ],
@@ -3783,34 +3808,6 @@
             "adventure",
             "kids",
             "mecha"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/103363"
-        ],
-        "title": "Shiwan Ge Leng Xiaohua",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103363-VcMZs4qEREAs.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103363-VcMZs4qEREAs.jpg",
-        "synonyms": [
-            "100,000 Bad Jokes",
-            "One Hundred Thousand Bad Jokes",
-            "十万个冷笑话"
-        ],
-        "relations": [
-            "https://anilist.co/anime/103360",
-            "https://anilist.co/anime/103362"
-        ],
-        "tags": [
-            "comedy",
-            "parody"
         ],
         "date": {
             "season": "unknown",
@@ -4627,6 +4624,40 @@
             "chibi",
             "chinese animation",
             "family friendly",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/xi-mu-ba-long-jiazu",
+            "https://myanimelist.net/anime/44368"
+        ],
+        "title": "Xi Mu Ba Long Jiazu",
+        "type": "tv",
+        "episodes": 88,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "西姆霸龙家族"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/qiqi-keke-shuo-konglong",
+            "https://myanimelist.net/anime/44367",
+            "https://myanimelist.net/anime/44369"
+        ],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "family friendly",
+            "historical",
+            "kids",
+            "non-human protagonists",
+            "prehistoric",
             "short episodes"
         ],
         "date": {

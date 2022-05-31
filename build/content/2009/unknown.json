@@ -196,6 +196,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/cai-bao-gou-da-fanji",
             "https://myanimelist.net/anime/44582"
         ],
         "title": "Cai Bao Gou Da Fanji",
@@ -210,11 +211,45 @@
             "菜包狗大反击"
         ],
         "relations": [
+            "https://anime-planet.com/anime/tuzi-nali-pao",
             "https://myanimelist.net/anime/42457",
             "https://myanimelist.net/anime/44581"
         ],
         "tags": [
-            "comedy"
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
+            "comedy",
+            "dogs",
+            "non-human protagonists",
+            "rabbits",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/canghaisangtian",
+            "https://myanimelist.net/anime/44677"
+        ],
+        "title": "Canghaisangtian",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "沧海桑田"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "family friendly",
+            "fantasy",
+            "historical"
         ],
         "date": {
             "season": "unknown",
@@ -629,6 +664,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/fei-ba-pili",
             "https://myanimelist.net/anime/44680"
         ],
         "title": "Fei Ba, Pili",
@@ -638,12 +674,16 @@
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "Fly, Pili",
             "飞吧，霹雳"
         ],
         "relations": [],
         "tags": [
+            "chinese animation",
+            "family friendly",
             "fantasy",
-            "kids"
+            "kids",
+            "non-human protagonists"
         ],
         "date": {
             "season": "unknown",
@@ -871,6 +911,32 @@
         "tags": [
             "educational",
             "family friendly"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/hao-hao-wenzi-guo",
+            "https://myanimelist.net/anime/44743"
+        ],
+        "title": "Hao Hao Wenzi Guo",
+        "type": "tv",
+        "episodes": 130,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "浩昊文字国"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "family friendly",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -1474,6 +1540,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kuaile-benpao",
             "https://myanimelist.net/anime/44674"
         ],
         "title": "Kuaile Benpao",
@@ -1483,11 +1550,15 @@
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "Happy Running",
             "快乐奔跑"
         ],
         "relations": [],
         "tags": [
             "adventure",
+            "chinese animation",
+            "comedy",
+            "family friendly",
             "fantasy",
             "kids"
         ],
@@ -1539,6 +1610,28 @@
             "https://anime-planet.com/anime/kuaile-dongxi-2nd-season",
             "https://anime-planet.com/anime/kuaile-dongxi-4th-season"
         ],
+        "tags": [
+            "chinese animation",
+            "comedy",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/kuang-kuang-riji"
+        ],
+        "title": "Kuang Kuang Riji",
+        "type": "ona",
+        "episodes": 20,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/kuang-kuang-riji-1.webp?t=1653360065",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kuang-kuang-riji-1-285x400.webp?t=1653360065",
+        "synonyms": [],
+        "relations": [],
         "tags": [
             "chinese animation",
             "comedy",
@@ -1715,6 +1808,38 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/ludou-wa-gongyi-xilie",
+            "https://myanimelist.net/anime/44619"
+        ],
+        "title": "Ludou Wa Gongyi Xilie",
+        "type": "ona",
+        "episodes": 46,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "Ludou Wa: Gongyi Xilie",
+            "绿豆蛙公益系列"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/ludou-wa",
+            "https://myanimelist.net/anime/44618"
+        ],
+        "tags": [
+            "anthropomorphic",
+            "chinese animation",
+            "comedy",
+            "family friendly",
+            "non-human protagonists",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/man-in-the-tunnel-alley"
         ],
         "title": "Man in the Tunnel Alley",
@@ -1774,6 +1899,26 @@
         "relations": [],
         "tags": [
             "racing"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/midori-ni-tsuite-omou-koto"
+        ],
+        "title": "Midori ni Tsuite Omou Koto",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -2339,6 +2484,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/qi-tian-da-sheng-qianchuan",
             "https://myanimelist.net/anime/44739"
         ],
         "title": "Qi Tian Da Sheng Qianchuan",
@@ -2348,14 +2494,49 @@
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "Prequel of the Monkey King",
             "齐天大圣前传"
         ],
         "relations": [],
         "tags": [
             "adventure",
+            "chinese animation",
+            "family friendly",
             "fantasy",
             "historical",
-            "kids"
+            "journey to the west",
+            "kids",
+            "non-human protagonists"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/qiqi-keke-shuo-konglong"
+        ],
+        "title": "QiQi KeKe Shuo Konglong",
+        "type": "tv",
+        "episodes": 365,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/qiqi-keke-shuo-konglong-1.webp?t=1653502673",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/qiqi-keke-shuo-konglong-1-285x399.webp?t=1653502673",
+        "synonyms": [
+            "The Adventures of QiQi and KeKe"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/qiqi-keke-lixian-ji",
+            "https://anime-planet.com/anime/xi-mu-ba-long-jiazu"
+        ],
+        "tags": [
+            "chinese animation",
+            "dinosaurs",
+            "family friendly",
+            "non-human protagonists",
+            "prehistoric",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -3065,6 +3246,30 @@
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/xiao-ciwei-lan-doudou-1-285x400.webp?t=1652829678",
         "synonyms": [],
         "relations": [],
+        "tags": [
+            "chinese animation",
+            "family friendly"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/xiao-yingtao-3rd-season"
+        ],
+        "title": "Xiao Yingtao 3rd Season",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/xiao-yingtao-3rd-season-1.webp?t=1653367143",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/xiao-yingtao-3rd-season-1-285x400.webp?t=1653367143",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/xiao-yingtao-2nd-season",
+            "https://anime-planet.com/anime/xiao-yingtao-youmo-baodian"
+        ],
         "tags": [
             "chinese animation",
             "family friendly"

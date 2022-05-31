@@ -47,7 +47,7 @@
         "title": "** Kouhai",
         "type": "ova",
         "episodes": 6,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1839/104009.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1839/104009t.jpg",
         "synonyms": [
@@ -422,6 +422,7 @@
             "A3!",
             "A3! SEASON SPRING & SUMMER",
             "A3! SEASON SPRING ＆ SUMMER",
+            "A3! Temporada de Primavera y Verano",
             "Act! Addict! Actors!",
             "Act! Addict! Actors! Season Spring & Summer",
             "エースリー",
@@ -2869,6 +2870,7 @@
             "Danmachi OVA 2",
             "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Myth II OVA",
             "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? Ist es falsch, auf einer unbewohnten Insel nach Heilkräutern zu suchen?",
+            "Danmachi: È sbagliato cercare erbe medicinali su un’isola deserta?",
             "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka: Familia Myth 2 OVA",
             "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darō ka: Familia Myth II: Mujintou ni Yakusō o Motomeru no wa Machigatte Iru Darō ka",
             "Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darou ka: Familia Myth 2 OVA",
@@ -2877,9 +2879,7 @@
             "Is it Wrong to Try to Pick Up Girls in a Dungeon?: Season 2 OVA",
             "ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH II 無人島に薬草を求めるのは間違っているだろうか"
         ],
-        "relations": [
-            "https://anisearch.com/anime/13352"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "action comedy",
@@ -5865,6 +5865,8 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/15758",
+            "https://kitsu.io/anime/43333",
             "https://myanimelist.net/anime/42147"
         ],
         "title": "Jingju Mao Zhi Jiaota Shidi",
@@ -5875,51 +5877,28 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1930/107868t.jpg",
         "synonyms": [
             "Beijing Opera Cats",
-            "Jingju Mao 4th Season",
-            "京剧猫之脚踏实地"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/42146"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "comedy",
-            "fantasy",
-            "kids"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/15758"
-        ],
-        "title": "Jingju Mao: Jiaota Shidi",
-        "type": "ona",
-        "episodes": 70,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/252704.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/252704.jpg-thumb.jpg",
-        "synonyms": [
             "Jing-ju Cats 4",
+            "Jingju Mao 4th Season",
             "Jingju Mao Di Si Ji: Jiaota Shidi",
-            "Jingju Mao Zhi Jiaota Shidi",
+            "Jingju Mao: Jiaota Shidi",
             "京剧猫之脚踏实地",
             "京剧猫第四季: 脚踏实地",
             "京剧猫第四季: 脚踏实地(上)"
         ],
         "relations": [
             "https://anidb.net/anime/15761",
-            "https://anidb.net/anime/15762"
+            "https://anidb.net/anime/15762",
+            "https://kitsu.io/anime/43332",
+            "https://myanimelist.net/anime/42146"
         ],
         "tags": [
+            "action",
             "adventure",
             "anthropomorphism",
             "comedy",
             "fantasy",
+            "fantasy world",
+            "kids",
             "kodomo",
             "martial arts",
             "new"
@@ -6633,7 +6612,6 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/asteroid-in-love",
-            "https://anisearch.com/anime/14210",
             "https://kitsu.io/anime/42470",
             "https://myanimelist.net/anime/39388",
             "https://notify.moe/anime/f5Dud5vZg"
@@ -8111,21 +8089,34 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16626"
+            "https://anidb.net/anime/16626",
+            "https://anime-planet.com/anime/mo-jing-lieren-5th-season",
+            "https://myanimelist.net/anime/44623"
         ],
-        "title": "Mo Jing Lieren Di Wu Ji: Muse Ranshao",
+        "title": "Mo Jing Lieren 5th season",
         "type": "ona",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/264908.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/264908.jpg-thumb.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1457/115826.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1457/115826t.jpg",
         "synonyms": [
+            "Armored Adventure 5th Season",
+            "Mo Jing Lieren 5th Season",
+            "Mo Jing Lieren Di Wu Ji: Muse Ranshao",
+            "魔晶猎人 第五季",
             "魔晶猎人 第五季 暮色燃烧"
         ],
         "relations": [
-            "https://anidb.net/anime/16625"
+            "https://anidb.net/anime/16625",
+            "https://anime-planet.com/anime/mo-jing-lieren-4th-season",
+            "https://myanimelist.net/anime/44622"
         ],
-        "tags": [],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "fantasy",
+            "kids"
+        ],
         "date": {
             "season": "winter",
             "year": 2020
@@ -10144,11 +10135,6 @@
             "Zero kara Hajimeru Isekai Seikatsu RE_START"
         ],
         "relations": [
-            "https://anisearch.com/anime/10572",
-            "https://anisearch.com/anime/12797",
-            "https://anisearch.com/anime/13951",
-            "https://anisearch.com/anime/14302",
-            "https://anisearch.com/anime/15319",
             "https://kitsu.io/anime/11209",
             "https://kitsu.io/anime/42198",
             "https://livechart.me/anime/10009",
@@ -10243,10 +10229,12 @@
         ],
         "tags": [
             "19th century",
+            "adoption",
             "america",
             "anime tamago",
             "bullying",
             "childcare",
+            "classic literature",
             "coming of age",
             "daily life",
             "drama",
@@ -11125,7 +11113,7 @@
         ],
         "title": "Shen Wu Tianzun 2",
         "type": "ona",
-        "episodes": 114,
+        "episodes": 115,
         "status": "ongoing",
         "picture": "https://media.kitsu.io/anime/45670/poster_image/small-8ac81c9085128a9384799a270394b116.jpeg",
         "thumbnail": "https://media.kitsu.io/anime/45670/poster_image/tiny-f47be2ab4992f5063e09f454caccfc1c.jpeg",
@@ -12302,7 +12290,6 @@
             "https://anilist.co/anime/97625",
             "https://anime-planet.com/anime/tsugumomo",
             "https://anime-planet.com/anime/tsugumomo-2",
-            "https://anisearch.com/anime/12070",
             "https://kitsu.io/anime/12534",
             "https://kitsu.io/anime/42180",
             "https://livechart.me/anime/2320",

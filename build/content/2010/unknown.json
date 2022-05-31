@@ -252,30 +252,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/51901"
-        ],
-        "title": "Chuunken Senshi Mr. Chun",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1398/124020.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1398/124020t.jpg",
-        "synonyms": [
-            "中間戦士 Mr.中"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "parody",
-            "super power"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/51328"
         ],
         "title": "City",
@@ -900,6 +876,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/hu-wang-guilai",
             "https://myanimelist.net/anime/44742"
         ],
         "title": "Hu Wang Guilai",
@@ -909,11 +886,14 @@
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "Tiger Returns",
             "虎王归来"
         ],
         "relations": [],
         "tags": [
             "adventure",
+            "chinese animation",
+            "family friendly",
             "kids"
         ],
         "date": {
@@ -2309,6 +2289,33 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/qi-qu-meng-gong-fang",
+            "https://myanimelist.net/anime/45829"
+        ],
+        "title": "Qi Qu Meng Gong Fang",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "奇趣梦工坊"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/45821"
+        ],
+        "tags": [
+            "chinese animation",
+            "family friendly",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/44745"
         ],
         "title": "Qin Shi Mingyue specials",
@@ -2934,6 +2941,33 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/the-dibidogs"
+        ],
+        "title": "The Dibidogs",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/the-dibidogs-1.webp?t=1653840599",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-dibidogs-1-285x400.webp?t=1653840599",
+        "synonyms": [
+            "Dibi Gou"
+        ],
+        "relations": [],
+        "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "cg animation",
+            "chinese animation",
+            "dogs",
+            "family friendly"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/the-lighthouse"
         ],
         "title": "The Lighthouse",
@@ -3264,6 +3298,30 @@
             "adventure",
             "comedy",
             "romance"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/xiao-yingtao-youmo-baodian"
+        ],
+        "title": "Xiao Yingtao: Youmo Baodian",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/xiao-yingtao-youmo-baodian-1.webp?t=1653367237",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/xiao-yingtao-youmo-baodian-1-285x400.webp?t=1653367237",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/xiao-yingtao-3rd-season",
+            "https://anime-planet.com/anime/xiao-yingtao-wu-gang-chuanqi"
+        ],
+        "tags": [
+            "chinese animation",
+            "family friendly"
         ],
         "date": {
             "season": "unknown",

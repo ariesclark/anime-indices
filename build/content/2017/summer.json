@@ -350,7 +350,6 @@
             "https://anime-planet.com/anime/a-channel",
             "https://anime-planet.com/anime/a-channel-plus-smile",
             "https://anime-planet.com/anime/a-channel-specials",
-            "https://anisearch.com/anime/6585",
             "https://livechart.me/anime/1239",
             "https://livechart.me/anime/1562",
             "https://livechart.me/anime/2639",
@@ -7728,7 +7727,6 @@
             "https://anime-planet.com/anime/konosuba-gods-blessing-on-this-wonderful-world",
             "https://anime-planet.com/anime/konosuba-gods-blessing-on-this-wonderful-world-2",
             "https://anime-planet.com/anime/konosuba-gods-blessing-on-this-wonderful-world-movie-legend-of-crimson",
-            "https://anime-planet.com/anime/konosuba-gods-blessing-on-this-wonderful-world-new",
             "https://anime-planet.com/anime/konosuba-gods-blessing-on-this-wonderful-world-ova",
             "https://kitsu.io/anime/11937",
             "https://livechart.me/anime/10708",
@@ -8462,6 +8460,7 @@
             "survival",
             "tanned skin",
             "tragedy",
+            "travel",
             "violence"
         ],
         "date": {
@@ -8954,22 +8953,37 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16625"
+            "https://anidb.net/anime/16625",
+            "https://anime-planet.com/anime/mo-jing-lieren-4th-season",
+            "https://myanimelist.net/anime/44622"
         ],
-        "title": "Mo Jing Lieren Di Si Ji: Heian Juexing",
+        "title": "Mo Jing Lieren 4th Season",
         "type": "ona",
         "episodes": 28,
         "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/264907.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/264907.jpg-thumb.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1434/115825.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1434/115825t.jpg",
         "synonyms": [
+            "Armored Adventure 4th Season",
+            "Draco Monster 4",
+            "Drago Monster 4",
+            "Mo Jing Lieren Di Si Ji: Heian Juexing",
+            "魔晶猎人 第四季",
             "魔晶猎人 第四季 黑暗觉醒"
         ],
         "relations": [
             "https://anidb.net/anime/16624",
-            "https://anidb.net/anime/16626"
+            "https://anidb.net/anime/16626",
+            "https://anime-planet.com/anime/mo-jing-lieren-3rd-season",
+            "https://anime-planet.com/anime/mo-jing-lieren-5th-season",
+            "https://myanimelist.net/anime/33604",
+            "https://myanimelist.net/anime/44623"
         ],
-        "tags": [],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "fantasy"
+        ],
         "date": {
             "season": "summer",
             "year": 2017
@@ -11694,6 +11708,7 @@
             "crude",
             "ecchi",
             "friendship",
+            "gag humor",
             "high school",
             "japan",
             "kuudere",
@@ -13822,6 +13837,34 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/umiushi-shimai-gekijou-tanabata-hen",
+            "https://myanimelist.net/anime/51853"
+        ],
+        "title": "Umiushi Shimai Gekijou: Tanabata-hen",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1968/123902.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1968/123902t.jpg",
+        "synonyms": [
+            "Sea Slug Sisters Go to Heaven",
+            "うみうし姉妹劇場～七夕編～"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "avant garde",
+            "music",
+            "shorts",
+            "stop motion animation"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/12542",
             "https://anilist.co/anime/97855",
             "https://anime-planet.com/anime/vatican-miracle-examiner",
@@ -14693,7 +14736,6 @@
             "school",
             "school club",
             "school life",
-            "shounen",
             "slice of life",
             "stoic hero",
             "stoic heroine",

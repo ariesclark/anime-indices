@@ -231,6 +231,7 @@
             "BLUE LOCK",
             "BLUE LOCK ขังดวลแข้ง",
             "BLUELOCK",
+            "Bluelock",
             "ブルーロック"
         ],
         "relations": [],
@@ -446,6 +447,7 @@
             "https://anilist.co/anime/143766",
             "https://anilist.co/anime/16157",
             "https://anime-planet.com/anime/hyperdimension-neptunia",
+            "https://livechart.me/anime/11226",
             "https://livechart.me/anime/14",
             "https://livechart.me/anime/367",
             "https://livechart.me/anime/9400",
@@ -977,6 +979,7 @@
             "Shadow Garden",
             "The Eminence in Shadow",
             "To Be a Power in the Shadows!",
+            "ชีวิตไม่ต้องเด่น ขอแค่เป็นเทพในเงา",
             "陰の実力者になりたくて!",
             "陰の実力者になりたくて！"
         ],
@@ -995,7 +998,6 @@
             "espionage",
             "fantasy",
             "fantasy world",
-            "female harem",
             "harem",
             "isekai",
             "kemonomimi",
@@ -1036,6 +1038,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1949/121871t.jpg",
         "synonyms": [
             "Fleet Girls Collection",
+            "Fleet Girls Collection 2",
             "KanColle 2nd Season",
             "KanColle: Someday in that Sea",
             "KanKore 2",
@@ -1046,7 +1049,6 @@
             "Kantai Collection: Zoku-hen",
             "「艦これ」いつかあの海で",
             "艦これ いつかあの海で",
-            "艦隊これくしょん -艦これ- 2",
             "艦隊これくしょん -艦これ- ２"
         ],
         "relations": [
@@ -1745,6 +1747,54 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17222",
+            "https://anilist.co/anime/145815",
+            "https://anime-planet.com/anime/noumin-kanren-no-skill-bakka-agetetara-nazeka-tsuyoku-natta",
+            "https://anisearch.com/anime/17171",
+            "https://livechart.me/anime/11105",
+            "https://myanimelist.net/anime/51128",
+            "https://notify.moe/anime/Cp4VpgYng"
+        ],
+        "title": "Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta.",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1711/124077.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1711/124077t.jpg",
+        "synonyms": [
+            "I Somehow Became Stronger by Raising Farming-Related Skills",
+            "I’ve Somehow Gotten Stronger When I Improved My Farm-Related Skills.",
+            "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.",
+            "Noumin Kanren no Skill Bakka Agetetara Nazeka Tsuyoku Natta.",
+            "Nōmin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.",
+            "農民関連のスキルばっか上げてたら何故か強くなった.",
+            "農民関連のスキルばっか上げてたら何故か強くなった。"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "adventure",
+            "agriculture",
+            "alternative world",
+            "based on a light novel",
+            "comedy",
+            "countryside",
+            "demons",
+            "fantasy",
+            "harem",
+            "magic",
+            "medieval",
+            "overpowered main characters",
+            "rpg",
+            "slice of life"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/17079",
             "https://anilist.co/anime/143086",
             "https://anime-planet.com/anime/pop-team-epic-2nd-season",
@@ -1937,6 +1987,7 @@
             "https://anilist.co/anime/145604",
             "https://anime-planet.com/anime/shinobi-no-ittoki",
             "https://anisearch.com/anime/17156",
+            "https://kitsu.io/anime/46134",
             "https://livechart.me/anime/11095",
             "https://myanimelist.net/anime/51098",
             "https://notify.moe/anime/FCG_kwfnR"
@@ -1945,8 +1996,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1876/121083.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1876/121083t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1276/123977.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1276/123977t.jpg",
         "synonyms": [
             "A Shinobi’s Moment",
             "忍の一時"
@@ -1955,7 +2006,8 @@
         "tags": [
             "action",
             "ninja",
-            "original work"
+            "original work",
+            "urban"
         ],
         "date": {
             "season": "fall",
@@ -2008,31 +2060,6 @@
             "shounen",
             "sports",
             "team sports"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16959",
-            "https://anilist.co/anime/143387",
-            "https://anisearch.com/anime/16757",
-            "https://myanimelist.net/anime/50305"
-        ],
-        "title": "Soundback: Kanade no Ishi",
-        "type": "special",
-        "episodes": 1,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1597/119230.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1597/119230t.jpg",
-        "synonyms": [
-            "サウンドバック 奏の石"
-        ],
-        "relations": [],
-        "tags": [
-            "mecha"
         ],
         "date": {
             "season": "fall",
@@ -2492,33 +2519,6 @@
             "school life",
             "slice of life",
             "sports"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16960",
-            "https://anilist.co/anime/143388",
-            "https://anisearch.com/anime/16800",
-            "https://myanimelist.net/anime/50304"
-        ],
-        "title": "Unmei Sensen: Liddell-light",
-        "type": "special",
-        "episodes": 1,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1111/119229.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1111/119229t.jpg",
-        "synonyms": [
-            "Unmei Sensen Liddell-light",
-            "運命戦線 リデルライト"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "mahou shoujo"
         ],
         "date": {
             "season": "fall",

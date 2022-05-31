@@ -2564,7 +2564,7 @@
         ],
         "title": "Dragon Quest: Dai no Daibouken (2020)",
         "type": "tv",
-        "episodes": 78,
+        "episodes": 79,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1499/109126.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1499/109126t.jpg",
@@ -3439,7 +3439,7 @@
         ],
         "title": "Fushigi Dagashiya: Zenitendou",
         "type": "tv",
-        "episodes": 58,
+        "episodes": 59,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1994/108212.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1994/108212t.jpg",
@@ -6544,6 +6544,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kansatsu-pokemon-zukan",
             "https://myanimelist.net/anime/51888"
         ],
         "title": "Kansatsu! Pokemon Zukan",
@@ -6561,7 +6562,14 @@
             "https://myanimelist.net/anime/527"
         ],
         "tags": [
-            "kids"
+            "based on a video game",
+            "family friendly",
+            "fantasy",
+            "kids",
+            "monsters",
+            "no dialogue",
+            "non-human protagonists",
+            "short episodes"
         ],
         "date": {
             "season": "fall",
@@ -8513,40 +8521,10 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16691",
             "https://anilist.co/anime/124397",
-            "https://livechart.me/anime/10584"
-        ],
-        "title": "Menghuan Shuyuan 4",
-        "type": "ona",
-        "episodes": 14,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124397-AlbTM5qoUREf.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124397-AlbTM5qoUREf.png",
-        "synonyms": [
-            "梦幻书院 第四季"
-        ],
-        "relations": [
-            "https://anilist.co/anime/116999",
-            "https://anilist.co/anime/129001",
-            "https://anilist.co/anime/131650",
-            "https://livechart.me/anime/10583",
-            "https://livechart.me/anime/10585",
-            "https://livechart.me/anime/10586",
-            "https://livechart.me/anime/10587",
-            "https://livechart.me/anime/10588"
-        ],
-        "tags": [
-            "comedy",
-            "fantasy"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/menghuan-shuyuan-4th-season",
+            "https://livechart.me/anime/10584",
             "https://myanimelist.net/anime/42969",
             "https://notify.moe/anime/vDdA2z5Mg"
         ],
@@ -8557,12 +8535,24 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1346/109452.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1346/109452t.jpg",
         "synonyms": [
+            "Menghuan Shuyuan 4",
+            "Menghuan Shuyuan Di Si Ji",
             "梦幻书院 第四季"
         ],
         "relations": [
+            "https://anidb.net/anime/16690",
+            "https://anidb.net/anime/16692",
+            "https://anilist.co/anime/116999",
+            "https://anilist.co/anime/129001",
+            "https://anilist.co/anime/131650",
             "https://anime-planet.com/anime/menghuan-shuyuan-3rd-season",
             "https://anime-planet.com/anime/menghuan-shuyuan-5th-season",
             "https://anime-planet.com/anime/menghuan-shuyuan-zhi-huxi-jiankang-kepu",
+            "https://livechart.me/anime/10583",
+            "https://livechart.me/anime/10585",
+            "https://livechart.me/anime/10586",
+            "https://livechart.me/anime/10587",
+            "https://livechart.me/anime/10588",
             "https://myanimelist.net/anime/42448",
             "https://myanimelist.net/anime/51758",
             "https://myanimelist.net/anime/51759",
@@ -8574,31 +8564,6 @@
             "chinese animation",
             "comedy",
             "fantasy",
-            "short episodes"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16691"
-        ],
-        "title": "Menghuan Shuyuan Di Si Ji",
-        "type": "ona",
-        "episodes": 14,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/265089.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/265089.jpg-thumb.jpg",
-        "synonyms": [
-            "梦幻书院 第四季"
-        ],
-        "relations": [
-            "https://anidb.net/anime/16690",
-            "https://anidb.net/anime/16692"
-        ],
-        "tags": [
             "short episodes"
         ],
         "date": {
@@ -8940,6 +8905,7 @@
             "https://anime-planet.com/anime/talentless-nana-mini-anime",
             "https://anime-planet.com/anime/talentless-nana-mini-anime-yaminabe-party",
             "https://kitsu.io/anime/43728",
+            "https://livechart.me/anime/10142",
             "https://myanimelist.net/anime/42831",
             "https://notify.moe/anime/pMIJ65pGg"
         ],
@@ -9959,6 +9925,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/pokemon-sports-day",
             "https://myanimelist.net/anime/51884"
         ],
         "title": "Pokemon Daiundoukai",
@@ -9968,6 +9935,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1682/123952.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1682/123952t.jpg",
         "synonyms": [
+            "Pokemon Sports Day",
             "Pokémon Fun Video",
             "Pokémon Sports Day",
             "ポケモン大運動会"
@@ -9976,8 +9944,14 @@
             "https://myanimelist.net/anime/527"
         ],
         "tags": [
+            "based on a video game",
+            "family friendly",
+            "fantasy",
             "kids",
-            "music"
+            "monsters",
+            "music",
+            "no dialogue",
+            "shorts"
         ],
         "date": {
             "season": "fall",

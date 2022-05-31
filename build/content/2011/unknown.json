@@ -1833,6 +1833,30 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/konglong-baobei"
+        ],
+        "title": "Konglong Baobei",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/konglong-baobei-1.webp?t=1653502192",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/konglong-baobei-1-285x400.webp?t=1653502192",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/konglong-baobei-zhi-longshen-yongshi"
+        ],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "family friendly"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16789",
             "https://anime-planet.com/anime/konglong-baobei-zhi-longshen-yongshi-3"
         ],
@@ -2486,6 +2510,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/maitian-shen-shu",
             "https://myanimelist.net/anime/45827"
         ],
         "title": "Maitian Shen Shu",
@@ -2502,6 +2527,8 @@
             "https://myanimelist.net/anime/45821"
         ],
         "tags": [
+            "chinese animation",
+            "family friendly",
             "kids"
         ],
         "date": {
@@ -4500,6 +4527,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/xiao-yingtao",
             "https://myanimelist.net/anime/44717"
         ],
         "title": "Xiao Yingtao",
@@ -4512,10 +4540,36 @@
             "小樱桃"
         ],
         "relations": [
+            "https://anime-planet.com/anime/xiao-yingtao-2nd-season",
             "https://myanimelist.net/anime/44718"
         ],
         "tags": [
+            "chinese animation",
+            "family friendly",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/xiao-yingtao-wu-gang-chuanqi"
+        ],
+        "title": "Xiao Yingtao: Wu Gang Chuanqi",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/xiao-yingtao-wu-gang-chuanqi-1.webp?t=1653367312",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/xiao-yingtao-wu-gang-chuanqi-1-285x400.webp?t=1653367312",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/xiao-yingtao-youmo-baodian"
+        ],
+        "tags": [
+            "chinese animation",
+            "family friendly"
         ],
         "date": {
             "season": "unknown",
@@ -4602,6 +4656,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/xingfu-xiao-zhen",
             "https://myanimelist.net/anime/44576"
         ],
         "title": "Xingfu Xiao Zhen",
@@ -4611,15 +4666,19 @@
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "Happy Town",
             "幸福小镇"
         ],
         "relations": [
+            "https://anime-planet.com/anime/xingfu-xiao-zhen-2nd-season",
             "https://myanimelist.net/anime/44577"
         ],
         "tags": [
             "action",
             "adventure",
-            "comedy"
+            "chinese animation",
+            "comedy",
+            "family friendly"
         ],
         "date": {
             "season": "unknown",

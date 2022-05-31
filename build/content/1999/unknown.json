@@ -509,6 +509,28 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/mizu-no-enkan-1st-ver"
+        ],
+        "title": "Mizu no Enkan (1st ver)",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/mizu-no-enkan-2nd-ver"
+        ],
+        "tags": [
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1999
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/5264",
             "https://myanimelist.net/anime/18199"
         ],
@@ -799,6 +821,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/sink",
             "https://myanimelist.net/anime/51858"
         ],
         "title": "SiNK",
@@ -810,7 +833,9 @@
         "synonyms": [],
         "relations": [],
         "tags": [
-            "avant garde"
+            "abstract",
+            "avant garde",
+            "shorts"
         ],
         "date": {
             "season": "unknown",

@@ -7884,7 +7884,9 @@
             "Wholly Useless Days",
             "全く身にならない日々"
         ],
-        "relations": [],
+        "relations": [
+            "https://myanimelist.net/anime/51471"
+        ],
         "tags": [
             "music"
         ],
@@ -8969,6 +8971,7 @@
             "https://livechart.me/anime/10292",
             "https://livechart.me/anime/10358",
             "https://livechart.me/anime/10878",
+            "https://livechart.me/anime/11213",
             "https://livechart.me/anime/1447",
             "https://livechart.me/anime/1844",
             "https://livechart.me/anime/2796",
@@ -10190,6 +10193,39 @@
             "sci-fi",
             "science fiction",
             "shounen"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/pokemon-moncolle-story",
+            "https://myanimelist.net/anime/51955"
+        ],
+        "title": "Pokemon Moncolle Story",
+        "type": "ona",
+        "episodes": 8,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1030/124123.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1030/124123t.jpg",
+        "synonyms": [
+            "Pokémon stop motion animation",
+            "ポケモン モンコレストーリ"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/527"
+        ],
+        "tags": [
+            "based on a video game",
+            "comedy",
+            "family friendly",
+            "kids",
+            "monsters",
+            "non-human protagonists",
+            "short episodes",
+            "stop motion animation"
         ],
         "date": {
             "season": "winter",
@@ -11586,6 +11622,7 @@
             "Maquia",
             "Maquia - Decoriamo la mattina dell'addio con i fiori promessi",
             "Maquia - Decoriamo la mattina dell`addio con i fiori promessi",
+            "Maquia - Eine unsterbliche Liebesgeschichte",
             "Maquia, una historia de amor inmortal",
             "Maquia: Decoriamo la mattina dell'addio con i fiori promessi",
             "Maquia: Eine Unsterbliche Liebesgeschichte",
@@ -12314,6 +12351,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/shirayukihime-to-7-nin-no-kokeshi",
             "https://myanimelist.net/anime/51852"
         ],
         "title": "Shirayukihime to 7-nin no Kokeshi",
@@ -12328,7 +12366,11 @@
         ],
         "relations": [],
         "tags": [
-            "avant garde"
+            "abstract",
+            "avant garde",
+            "based on a fairy tale",
+            "shorts",
+            "stop motion animation"
         ],
         "date": {
             "season": "winter",
@@ -14083,30 +14125,6 @@
         ],
         "tags": [
             "idol",
-            "music"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/51853"
-        ],
-        "title": "Umiushi Shimai Gekijou: Tanabata-hen",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1968/123902.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1968/123902t.jpg",
-        "synonyms": [
-            "Sea Slug Sisters Go to Heaven",
-            "うみうし姉妹劇場～七夕編～"
-        ],
-        "relations": [],
-        "tags": [
-            "avant garde",
             "music"
         ],
         "date": {

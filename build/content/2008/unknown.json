@@ -1296,6 +1296,34 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/pp-le-fantian"
+        ],
+        "title": "PP Le Fantian",
+        "type": "tv",
+        "episodes": 140,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/pp-le-fantian-1.webp?t=1653367882",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/pp-le-fantian-1-285x399.webp?t=1653367882",
+        "synonyms": [
+            "Panda's Paradise"
+        ],
+        "relations": [],
+        "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "bears",
+            "chinese animation",
+            "family friendly",
+            "non-human protagonists",
+            "pandas"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2008
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/44676"
         ],
         "title": "Pi Pi Le Fantian",
@@ -1332,6 +1360,34 @@
         "relations": [],
         "tags": [
             "abstract"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2008
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/qi-jian-shang-tianshan",
+            "https://myanimelist.net/anime/44723"
+        ],
+        "title": "Qi Jian Shang Tianshan",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "Seven Swords",
+            "七剑上天山"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "fantasy",
+            "historical",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -2122,6 +2178,30 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/xiao-yingtao-2nd-season"
+        ],
+        "title": "Xiao Yingtao 2nd Season",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/xiao-yingtao-2nd-season-1.webp?t=1653367062",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/xiao-yingtao-2nd-season-1-285x400.webp?t=1653367062",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/xiao-yingtao",
+            "https://anime-planet.com/anime/xiao-yingtao-3rd-season"
+        ],
+        "tags": [
+            "chinese animation",
+            "family friendly"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2008
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/15199"
         ],
         "title": "Xiao Zhuoma",
@@ -2213,6 +2293,32 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51954"
+        ],
+        "title": "Yukikaze Experimental Movie",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1441/124121.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1441/124121t.jpg",
+        "synonyms": [
+            "Yukikaze Experimental Project"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/1080"
+        ],
+        "tags": [
+            "action",
+            "military",
+            "sci-fi"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2008
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/44673"
         ],
         "title": "Zhen Gongfu Zhi Aoyun Zai Wojia",
@@ -2290,6 +2396,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/zhihui-zhi-cheng",
             "https://myanimelist.net/anime/44722"
         ],
         "title": "Zhihui Zhi Cheng",
@@ -2304,7 +2411,10 @@
         "relations": [],
         "tags": [
             "adventure",
-            "kids"
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",

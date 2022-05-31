@@ -855,17 +855,6 @@
             "https://anilist.co/anime/124082",
             "https://anime-planet.com/anime/azur-lane-slow-ahead",
             "https://anime-planet.com/anime/mikasa-dai-senpai-to-manabu-anime-azur-lane",
-            "https://anisearch.com/anime/14804",
-            "https://anisearch.com/anime/15102",
-            "https://anisearch.com/anime/15459",
-            "https://anisearch.com/anime/15468",
-            "https://anisearch.com/anime/15567",
-            "https://anisearch.com/anime/15791",
-            "https://anisearch.com/anime/15847",
-            "https://anisearch.com/anime/16191",
-            "https://anisearch.com/anime/16580",
-            "https://anisearch.com/anime/16780",
-            "https://anisearch.com/anime/16975",
             "https://kitsu.io/anime/42734",
             "https://kitsu.io/anime/43822",
             "https://kitsu.io/anime/44440",
@@ -1665,6 +1654,7 @@
             "My Hero Academia Movie 2: Heroes:Rising",
             "My Hero Academia The Movie: Heroes Rising",
             "My Hero Academia the Movie 2: Heroes:Rising",
+            "My Hero Academia the Movie: Heroes Rising",
             "My Hero Academia: El Despertar de los Héroes",
             "My Hero Academia: Heroes Rising",
             "My Hero Academia: The Movie - Heroes Rising",
@@ -1692,6 +1682,7 @@
             "https://livechart.me/anime/10236",
             "https://livechart.me/anime/10814",
             "https://livechart.me/anime/10926",
+            "https://livechart.me/anime/11210",
             "https://livechart.me/anime/1895",
             "https://livechart.me/anime/2225",
             "https://livechart.me/anime/2292",
@@ -2473,6 +2464,7 @@
     {
         "sources": [
             "https://anime-planet.com/anime/corocoro-coronya",
+            "https://livechart.me/anime/9833",
             "https://myanimelist.net/anime/41412"
         ],
         "title": "Corocoro Coronya",
@@ -2513,9 +2505,7 @@
             "Cue! CM",
             "キュー！アニメーションPV"
         ],
-        "relations": [
-            "https://anisearch.com/anime/15712"
-        ],
+        "relations": [],
         "tags": [
             "anime & movie",
             "idol",
@@ -3898,15 +3888,12 @@
             "https://livechart.me/anime/10151",
             "https://livechart.me/anime/10832",
             "https://livechart.me/anime/10833",
+            "https://livechart.me/anime/11215",
+            "https://livechart.me/anime/11216",
+            "https://livechart.me/anime/11217",
             "https://livechart.me/anime/2887",
             "https://livechart.me/anime/2888",
-            "https://livechart.me/anime/3708",
             "https://livechart.me/anime/436",
-            "https://livechart.me/anime/4439",
-            "https://livechart.me/anime/4443",
-            "https://livechart.me/anime/4484",
-            "https://livechart.me/anime/4771",
-            "https://livechart.me/anime/5588",
             "https://myanimelist.net/anime/36370",
             "https://myanimelist.net/anime/42886",
             "https://myanimelist.net/anime/820",
@@ -7303,9 +7290,9 @@
         ],
         "tags": [
             "action",
-            "action comedy",
             "adult cast",
             "adventure",
+            "adventure comedy",
             "anti-hero",
             "aviation",
             "based on a manga",
@@ -7945,6 +7932,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/na-nian-na-tu-naxie-shi-er-5th-season",
             "https://myanimelist.net/anime/44614"
         ],
         "title": "Na Nian Na Tu Naxie Shi Er 5th Season",
@@ -7957,12 +7945,18 @@
             "那年那兔那些事儿 第五季"
         ],
         "relations": [
+            "https://anime-planet.com/anime/na-nian-na-tu-naxie-shi-er-4th-season",
             "https://myanimelist.net/anime/44613"
         ],
         "tags": [
+            "animal protagonists",
             "anthropomorphic",
+            "chinese animation",
             "comedy",
-            "military"
+            "military",
+            "non-human protagonists",
+            "rabbits",
+            "short episodes"
         ],
         "date": {
             "season": "fall",
@@ -8978,14 +8972,12 @@
             "Ore wo Suki na no wa Omae dake ka yo: Ore wa Teinei ni Susumeru",
             "Ore wo Suki nano wa Omae dake ka yo Episode 9.5",
             "Ore wo Suki nano wa Omae dake ka yo Recap",
-            "Oresuki: Are you the only one who loves me? - Avanzo con cuidado",
-            "Oresuki: Are you the only one who loves me? - I Politely Move Things Forward",
-            "Oresuki: Are you the only one who loves me? Recap",
+            "Oresuki: Are You the Only One Who Loves Me? - Avanzo con cuidado",
+            "Oresuki: Are You the Only One Who Loves Me? - I Politely Move Things Forward",
+            "Oresuki: Are You the Only One Who Loves Me? Recap",
             "俺を好きなのはお前だけかよ 特別編 ～俺は丁寧に進める～"
         ],
-        "relations": [
-            "https://anisearch.com/anime/13938"
-        ],
+        "relations": [],
         "tags": [
             "comedy",
             "ecchi",
@@ -9432,7 +9424,7 @@
         ],
         "title": "Pokemon (2019)",
         "type": "tv",
-        "episodes": 111,
+        "episodes": 112,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1689/105554.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1689/105554t.jpg",
@@ -10464,9 +10456,7 @@
             "Twittering Birds Never Fly Twitter Anime",
             "囀る動物はやるしかない！"
         ],
-        "relations": [
-            "https://anisearch.com/anime/14374"
-        ],
+        "relations": [],
         "tags": [
             "comedy",
             "parody"

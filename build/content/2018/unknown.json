@@ -390,6 +390,33 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/150005"
+        ],
+        "title": "Akatsuki no Requiem",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150005-UtZolKDmDpP7.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150005-UtZolKDmDpP7.jpg",
+        "synonyms": [
+            "暁の鎮魂歌"
+        ],
+        "relations": [
+            "https://anilist.co/anime/99147"
+        ],
+        "tags": [
+            "amnesia",
+            "anti-hero",
+            "drama",
+            "male protagonist"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/akiko-yano-yuki-banana-ga-suki"
         ],
         "title": "Akiko Yano & YUKI: Banana ga Suki",
@@ -854,6 +881,33 @@
             "abstract",
             "black and white",
             "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/bokura-no-hitodeman"
+        ],
+        "title": "Bokura no Hitodeman",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/bokura-no-hitodeman-1.webp?t=1653691830",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/bokura-no-hitodeman-1-285x400.webp?t=1653691830",
+        "synonyms": [
+            "Our Staryu"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "based on a video game",
+            "cg animation",
+            "family friendly",
+            "fantasy",
+            "monsters"
         ],
         "date": {
             "season": "unknown",
@@ -1898,8 +1952,8 @@
         "relations": [
             "https://anime-planet.com/anime/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-2-event-pv",
             "https://anime-planet.com/anime/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-4-event-pv",
+            "https://anime-planet.com/anime/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-5-2-event-pv",
             "https://anime-planet.com/anime/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-5-event-pv",
-            "https://anime-planet.com/anime/fate-grand-order-cosmos-in-the-lostbelt-lostbelt-no-52-event-pv",
             "https://anime-planet.com/anime/fate-grand-order-first-order",
             "https://anime-planet.com/anime/fategrand-order-cosmos-in-the-lostbelt-lostbelt-no-1-event-pv"
         ],
@@ -5370,6 +5424,32 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/namako-bushi-bushi"
+        ],
+        "title": "Namako Bushi-bushi",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/namako-bushi-bushi-1.webp?t=1653692107",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/namako-bushi-bushi-1-285x399.webp?t=1653692107",
+        "synonyms": [
+            "Pyuku Muku-muku"
+        ],
+        "relations": [],
+        "tags": [
+            "based on a video game",
+            "family friendly",
+            "fantasy",
+            "monsters",
+            "non-human protagonists"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/129671",
             "https://anime-planet.com/anime/nami-xueyuan",
             "https://myanimelist.net/anime/45220"
@@ -5764,6 +5844,33 @@
         "relations": [],
         "tags": [
             "action"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/nyarth-no-monohiroi-gai-wo-kirei-ni"
+        ],
+        "title": "Nyarth no Monohiroi: Gai wo Kirei ni",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/nyarth-no-monohiroi-gai-wo-kirei-ni-1.webp?t=1653690662",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/nyarth-no-monohiroi-gai-wo-kirei-ni-1-270x379.webp?t=1653690662",
+        "synonyms": [
+            "Meowth's Pickup: Keep the Streets Clean"
+        ],
+        "relations": [],
+        "tags": [
+            "based on a video game",
+            "cats",
+            "family friendly",
+            "fantasy",
+            "monsters",
+            "non-human protagonists"
         ],
         "date": {
             "season": "unknown",
@@ -8281,6 +8388,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tobot-galaxy-detectives",
             "https://myanimelist.net/anime/48220"
         ],
         "title": "Tobot V",
@@ -8292,14 +8400,21 @@
         "synonyms": [
             "Galaxy Detectives",
             "Tobot GD",
+            "Tobot: Galaxy Detectives",
             "Ttobos V",
             "또봇 V"
         ],
         "relations": [],
         "tags": [
+            "cg animation",
+            "family friendly",
             "kids",
+            "korean animation",
             "mecha",
-            "sci-fi"
+            "sci fi",
+            "sci-fi",
+            "short episodes",
+            "transforming mecha"
         ],
         "date": {
             "season": "unknown",

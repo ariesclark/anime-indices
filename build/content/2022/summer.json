@@ -97,8 +97,8 @@
         "type": "movie",
         "episodes": 1,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1304/123272.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1304/123272t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1263/124155.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1263/124155t.jpg",
         "synonyms": [
             "Ame o Tsugeru Hyouryuu Danchi",
             "Dom na falach",
@@ -402,7 +402,8 @@
             "mythology",
             "original work",
             "present",
-            "slice of life"
+            "slice of life",
+            "supernatural"
         ],
         "date": {
             "season": "summer",
@@ -448,6 +449,7 @@
             "Dig Delight Direct Drive DJ"
         ],
         "relations": [
+            "https://anidb.net/anime/14815",
             "https://anilist.co/anime/115069",
             "https://anilist.co/anime/147216",
             "https://anime-planet.com/anime/d4dj-all-mix",
@@ -600,6 +602,7 @@
             "adventure",
             "based on a manga",
             "comedy",
+            "manga",
             "post-apocalyptic",
             "prehistoric",
             "sci fi",
@@ -630,6 +633,7 @@
             "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon? IV",
             "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darō ka: Familia Myth IV",
             "Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darou ka: Familia Myth IV",
+            "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV",
             "ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH IV"
         ],
         "relations": [],
@@ -664,21 +668,21 @@
             "https://myanimelist.net/anime/47164",
             "https://notify.moe/anime/0buWgoYGg"
         ],
-        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV",
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen",
         "type": "tv",
         "episodes": 1,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1180/120373.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1180/120373t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1576/123989.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1576/123989t.jpg",
         "synonyms": [
             "DanMachi 4th Season",
             "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV",
             "Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darou ka IV: Familia Myth",
+            "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV",
             "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen",
             "Dungeon ni Deai wo Motomeru no wa Machigatteiru no Darou ka IV",
             "Is It Wrong That I Want to Meet You in a Dungeon 4th Season",
             "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV",
-            "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV: New Chapter - The Labyrinth Arc",
             "danmachi4",
             "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน ภาค 4",
             "ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH IV",
@@ -692,6 +696,14 @@
             "https://anime-planet.com/anime/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-ii",
             "https://anime-planet.com/anime/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-iii",
             "https://kitsu.io/anime/42583",
+            "https://livechart.me/anime/10279",
+            "https://livechart.me/anime/1274",
+            "https://livechart.me/anime/2045",
+            "https://livechart.me/anime/2066",
+            "https://livechart.me/anime/3107",
+            "https://livechart.me/anime/3108",
+            "https://livechart.me/anime/9612",
+            "https://livechart.me/anime/9613",
             "https://myanimelist.net/anime/40454",
             "https://notify.moe/anime/8sTGGxhWg"
         ],
@@ -909,101 +921,8 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/9539"
-        ],
-        "title": "Gundam G no Reconguista IV: Gekitou ni Sakebu Ai",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/9539/poster_image/7d59a45f8793dbfa60297aa003ed9ed8.webp?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/9539/poster_image/7d59a45f8793dbfa60297aa003ed9ed8.webp?style=small&format=jpg",
-        "synonyms": [
-            "Gundam Reconguista in G Movie IV",
-            "劇場版 ガンダム Ｇのレコンギスタ ⅠV 激闘に叫ぶ愛"
-        ],
-        "relations": [
-            "https://livechart.me/anime/2678",
-            "https://livechart.me/anime/475",
-            "https://livechart.me/anime/7454",
-            "https://livechart.me/anime/9537",
-            "https://livechart.me/anime/9538",
-            "https://livechart.me/anime/9540"
-        ],
-        "tags": [
-            "action",
-            "mecha",
-            "sci-fi",
-            "space"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/9540"
-        ],
-        "title": "Gundam G no Reconguista V: Shisen wo Koete",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/9540/poster_image/2d3f41642702f3eb964d06da66abbf3c.webp?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/9540/poster_image/2d3f41642702f3eb964d06da66abbf3c.webp?style=small&format=jpg",
-        "synonyms": [
-            "Gundam Reconguista in G Movie V",
-            "劇場版 ガンダム Ｇのレコンギスタ V 死線を越えて"
-        ],
-        "relations": [
-            "https://livechart.me/anime/2678",
-            "https://livechart.me/anime/475",
-            "https://livechart.me/anime/7454",
-            "https://livechart.me/anime/9537",
-            "https://livechart.me/anime/9538",
-            "https://livechart.me/anime/9539"
-        ],
-        "tags": [
-            "action",
-            "mecha",
-            "sci-fi",
-            "space"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/146631"
-        ],
-        "title": "Gundam: G no Reconguista IV - Gekitou Ni Sakebu Ai",
-        "type": "movie",
-        "episodes": 1,
-        "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146631-jBUzQyWOBtAl.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146631-jBUzQyWOBtAl.jpg",
-        "synonyms": [
-            "G-Reco Movie 4",
-            "Reconguista in G the Movie Ⅳ Shouting Love Into a Fierce Fight",
-            "Ｇのレコンギスタ Ⅳ 激闘に叫ぶ愛"
-        ],
-        "relations": [
-            "https://anilist.co/anime/132324",
-            "https://anilist.co/anime/146632"
-        ],
-        "tags": [
-            "action",
-            "mecha",
-            "sci-fi"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/146631",
+            "https://livechart.me/anime/9539",
             "https://myanimelist.net/anime/43205"
         ],
         "title": "Gundam: G no Reconguista Movie IV - Gekitou ni Sakebu Ai",
@@ -1013,10 +932,25 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1679/121763.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1679/121763t.jpg",
         "synonyms": [
+            "G-Reco Movie 4",
             "G-Reco Movie 4, Gekijouban Gundam G no Reconguista 4",
-            "劇場版 ガンダム Ｇのレコンギスタ Ⅳ 激闘に叫ぶ愛"
+            "Gundam G no Reconguista IV: Gekitou ni Sakebu Ai",
+            "Gundam Reconguista in G Movie IV",
+            "Gundam: G no Reconguista IV - Gekitou Ni Sakebu Ai",
+            "Reconguista in G the Movie Ⅳ Shouting Love Into a Fierce Fight",
+            "劇場版 ガンダム Ｇのレコンギスタ ⅠV 激闘に叫ぶ愛",
+            "劇場版 ガンダム Ｇのレコンギスタ Ⅳ 激闘に叫ぶ愛",
+            "Ｇのレコンギスタ Ⅳ 激闘に叫ぶ愛"
         ],
         "relations": [
+            "https://anilist.co/anime/132324",
+            "https://anilist.co/anime/146632",
+            "https://livechart.me/anime/2678",
+            "https://livechart.me/anime/475",
+            "https://livechart.me/anime/7454",
+            "https://livechart.me/anime/9537",
+            "https://livechart.me/anime/9538",
+            "https://livechart.me/anime/9540",
             "https://myanimelist.net/anime/23259",
             "https://myanimelist.net/anime/43204",
             "https://myanimelist.net/anime/43206"
@@ -1034,26 +968,43 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/146632"
+            "https://anilist.co/anime/146632",
+            "https://livechart.me/anime/9540",
+            "https://myanimelist.net/anime/43206"
         ],
-        "title": "Gundam: G no Reconguista V - Shisen wo Koete",
+        "title": "Gundam: G no Reconguista Movie V",
         "type": "movie",
         "episodes": 1,
-        "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146632-cIp2n7Z0Si2F.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146632-cIp2n7Z0Si2F.jpg",
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
             "G-Reco Movie 5",
+            "G-Reco Movie 5, Gekijouban Gundam G no Reconguista 5",
+            "Gundam G no Reconguista V: Shisen wo Koete",
+            "Gundam Reconguista in G Movie V",
+            "Gundam: G no Reconguista V - Shisen wo Koete",
             "Reconguista in G the Movie Ⅴ Crossing the Line Between Life and Death",
+            "劇場版 ガンダム Ｇのレコンギスタ V 死線を越えて",
+            "劇場版 ガンダム Ｇのレコンギスタ Ｖ",
             "Ｇのレコンギスタ Ⅴ 死線を越えて"
         ],
         "relations": [
-            "https://anilist.co/anime/146631"
+            "https://anilist.co/anime/146631",
+            "https://livechart.me/anime/2678",
+            "https://livechart.me/anime/475",
+            "https://livechart.me/anime/7454",
+            "https://livechart.me/anime/9537",
+            "https://livechart.me/anime/9538",
+            "https://livechart.me/anime/9539",
+            "https://myanimelist.net/anime/23259",
+            "https://myanimelist.net/anime/43205"
         ],
         "tags": [
             "action",
             "mecha",
-            "sci-fi"
+            "sci-fi",
+            "space"
         ],
         "date": {
             "season": "summer",
@@ -1714,8 +1665,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1492/121679.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1492/121679t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1083/124088.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1083/124088t.jpg",
         "synonyms": [
             "Kami Kuzu Idol",
             "Phantom of the Idol",
@@ -1732,6 +1683,7 @@
             "idols (female)",
             "idols (male)",
             "josei",
+            "manga",
             "music",
             "present",
             "supernatural"
@@ -1760,15 +1712,17 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1427/120522t.jpg",
         "synonyms": [
             "KanoKari 2",
+            "Kanojo, Okarishimasu (2022)",
             "Kanojo, Okarishimasu 2",
             "Kanokari",
             "Rent-A-Girlfriend 2",
-            "Rent-a-Girlfriend 2",
+            "Rent-a-Girlfriend (2022)",
             "Rent-a-Girlfriend 2nd Season",
             "Rent-a-Girlfriend Season 2",
+            "Rent-a-Girlfriend Staffel 2",
             "Rental Girlfriend 2",
             "สะดุดรักยัยแฟนเช่า ภาค 2",
-            "彼女, お借りします 2",
+            "彼女, お借りします (2022)",
             "彼女、 お借りします 2",
             "彼女、お借りします",
             "彼女、お借りします 第2期",
@@ -1866,6 +1820,7 @@
             "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai o Tsukisusumu",
             "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu",
             "Kinsō no Vermeil: Gakeppuchi Majutsushi wa Saikyō no Yakusai to Mahō Sekai o Tsukisusumu",
+            "Vermeil in Gold",
             "Vermeil in Gold - A Magician Pushes Through the Magical World With the Strongest Disaster",
             "Vermeil in Gold: A Desperate Magician Barges Into the Magical World Alongside the Strongest Calamity",
             "Vermeil in Gold: A Magician Pushes Through the Magical World With the Strongest Disaster",
@@ -2029,8 +1984,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1340/121454.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1340/121454t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1238/124173.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1238/124173t.jpg",
         "synonyms": [
             "Love Live! Superstar!! (2022)",
             "Love Live! Superstar!! 2",
@@ -2141,6 +2096,7 @@
             "Made in Abyss: Season 2",
             "Made in Abyss: The Golden City of the Scorching Sun",
             "Made in Abyss: The Sun Blazes Upon the Golden City",
+            "صنع في الهاوية 2",
             "นักบุกเบิกหลุมยักษ์ ภาค 2",
             "ผ่าเหวนรก ภาค 2",
             "メイドインアビス 烈日の黄金郷"
@@ -2367,8 +2323,14 @@
             "based on a manga",
             "bl",
             "boys love",
+            "contemporary fantasy",
+            "eroticism",
+            "fantasy",
             "hentai",
+            "kemonomimi",
             "non-human protagonists",
+            "present",
+            "romance",
             "smut",
             "yaoi"
         ],
@@ -2414,6 +2376,7 @@
         "tags": [
             "comedy",
             "high school",
+            "kids",
             "moe",
             "new",
             "original work",
@@ -2595,14 +2558,15 @@
         "type": "tv",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1723/121964.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1723/121964t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1199/124160.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1199/124160t.jpg",
         "synonyms": [
             "ORIENT 2nd Cour",
             "ORIENT Part 2",
             "ORIENT: Awajishima Gekitou-hen",
             "ORIENT: The Battle of Awaji Island",
             "Orient (2022)",
+            "Orient Cour 2",
             "Orient Part 2",
             "Orient: Awaji Shima Gekitou Hen",
             "オリエント",
@@ -2830,8 +2794,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1629/120705.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1629/120705t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1227/124174.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1227/124174t.jpg",
         "synonyms": [
             "PrimaDoll",
             "プリマドール"
@@ -2870,7 +2834,7 @@
         ],
         "title": "RWBY: Hyousetsu Teikoku",
         "type": "tv",
-        "episodes": 0,
+        "episodes": 12,
         "status": "upcoming",
         "picture": "https://cdn.myanimelist.net/images/anime/1356/121832.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1356/121832t.jpg",
@@ -2925,8 +2889,8 @@
         "type": "movie",
         "episodes": 1,
         "status": "upcoming",
-        "picture": "https://cdn.anime-planet.com/anime/primary/recycle-of-the-penguindrum-part-ii-1.webp?t=1640171484",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/recycle-of-the-penguindrum-part-ii-1-285x398.webp?t=1640171484",
+        "picture": "https://cdn.anime-planet.com/anime/primary/recycle-of-the-penguindrum-part-ii-1.webp?t=1651212268",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/recycle-of-the-penguindrum-part-ii-1-285x400.webp?t=1651212268",
         "synonyms": [
             "RE:cycle of the PENGUINDRUM Part 2: Boku wa Kimi wo Aishiteru",
             "RE:cycle of the PENGUINDRUM ［後編］ 僕は君を愛してる",
@@ -3041,6 +3005,7 @@
             "https://anilist.co/anime/149326",
             "https://anime-planet.com/anime/the-maid-i-hired-recently-is-mysterious",
             "https://anisearch.com/anime/17385",
+            "https://kitsu.io/anime/46135",
             "https://livechart.me/anime/11223",
             "https://myanimelist.net/anime/51837",
             "https://notify.moe/anime/DNknQLu7g"
@@ -3364,8 +3329,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1155/119474.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1155/119474t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1587/124120.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1587/124120t.jpg",
         "synonyms": [
             "Shoot! -Goal to the Future-",
             "シュート! Goal to the Future",
@@ -3454,8 +3419,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1566/116398.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1566/116398t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1279/124069.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1279/124069t.jpg",
         "synonyms": [
             "Even So, Ayumu Approaches",
             "Even so, Ayumu draws closer to the endgame",
@@ -3821,6 +3786,7 @@
             "magic",
             "magical girl",
             "mahou shoujo",
+            "manga",
             "present",
             "primarily teen cast",
             "romance",
@@ -3948,6 +3914,7 @@
             "总之就是非常可爱"
         ],
         "relations": [
+            "https://anidb.net/anime/15421",
             "https://anilist.co/anime/116267",
             "https://livechart.me/anime/10280",
             "https://livechart.me/anime/10876",
@@ -4213,10 +4180,52 @@
             "drama",
             "ecchi",
             "fantasy",
+            "game",
             "harem",
             "kemonomimi",
             "sci-fi",
             "science fiction",
+            "slice of life",
+            "visual novel"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/17427",
+            "https://anilist.co/anime/149874",
+            "https://anime-planet.com/anime/warau-arsnotoria-sun",
+            "https://anisearch.com/anime/17413",
+            "https://kitsu.io/anime/46136",
+            "https://livechart.me/anime/11229",
+            "https://myanimelist.net/anime/51923"
+        ],
+        "title": "Warau Arsnotoria Sun!",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1213/124081.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1213/124081t.jpg",
+        "synonyms": [
+            "Smile of the Arsnotoria",
+            "Smile of the Arsnotoria the Animation",
+            "Warau Arsnotoria",
+            "Warau Arsnotoria Sun—!",
+            "咲う アルスノトリア すんっ!",
+            "咲う アルスノトリア すんっ！",
+            "咲うアルスノトリア すんっ！"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "based on a mobile game",
+            "fantasy",
+            "magic",
+            "magic school",
+            "school life",
             "slice of life"
         ],
         "date": {
@@ -4226,21 +4235,27 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/51923"
+            "https://anilist.co/anime/149703",
+            "https://myanimelist.net/anime/51862"
         ],
-        "title": "Warau Arsnotoria Sun!",
+        "title": "Xin Weiqi Shaonian",
         "type": "tv",
-        "episodes": 0,
+        "episodes": 52,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1213/124081.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1213/124081t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1957/123915.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1957/123915t.jpg",
         "synonyms": [
-            "Smile of the Arsnotoria the Animation",
-            "咲う アルスノトリア すんっ！"
+            "围棋少年3",
+            "新围棋少年"
         ],
-        "relations": [],
+        "relations": [
+            "https://anilist.co/anime/19839",
+            "https://myanimelist.net/anime/19839"
+        ],
         "tags": [
-            "action"
+            "fantasy",
+            "historical",
+            "strategy game"
         ],
         "date": {
             "season": "summer",
@@ -4370,7 +4385,7 @@
         ],
         "title": "Yoru wa Neko to Issho",
         "type": "tv",
-        "episodes": 0,
+        "episodes": 1,
         "status": "upcoming",
         "picture": "https://cdn.myanimelist.net/images/anime/1468/123273.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1468/123273t.jpg",
@@ -4442,6 +4457,8 @@
             "https://anime-planet.com/anime/classroom-of-the-elite-3rd-season",
             "https://kitsu.io/anime/13503",
             "https://kitsu.io/anime/45951",
+            "https://livechart.me/anime/11116",
+            "https://livechart.me/anime/2688",
             "https://myanimelist.net/anime/35507",
             "https://myanimelist.net/anime/51180",
             "https://notify.moe/anime/4qRV2Fmig",
@@ -4450,7 +4467,9 @@
         "tags": [
             "anti-hero",
             "assassins",
+            "athletics",
             "based on a light novel",
+            "battle royale",
             "boarding school",
             "bullying",
             "comedy",
@@ -4462,6 +4481,7 @@
             "high school",
             "male protagonist",
             "mystery",
+            "novel",
             "philosophy",
             "present",
             "primarily teen cast",

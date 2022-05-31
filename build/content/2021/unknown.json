@@ -279,53 +279,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/15353",
-            "https://anilist.co/anime/114606",
-            "https://anime-planet.com/anime/amrita-no-kyouen",
-            "https://anisearch.com/anime/14883",
-            "https://kitsu.io/anime/43444",
-            "https://livechart.me/anime/9763",
-            "https://myanimelist.net/anime/41029",
-            "https://notify.moe/anime/I2VfwDLMg"
-        ],
-        "title": "Amrita no Kyouen",
-        "type": "movie",
-        "episodes": 1,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1386/105333.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1386/105333t.jpg",
-        "synonyms": [
-            "Amrita no Kyōen",
-            "Feast of Amrita",
-            "The Feast of Amrita",
-            "アムリタの饗宴"
-        ],
-        "relations": [
-            "https://anidb.net/anime/12898",
-            "https://anilist.co/anime/104330",
-            "https://anime-planet.com/anime/aragne-sign-of-vermillion",
-            "https://kitsu.io/anime/40643",
-            "https://myanimelist.net/anime/34974",
-            "https://notify.moe/anime/KQ1D2KiiR"
-        ],
-        "tags": [
-            "cg animation",
-            "drama",
-            "excessive violence",
-            "fantasy",
-            "horror",
-            "insects",
-            "mystery",
-            "original work",
-            "splatter"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/148150"
         ],
         "title": "Anaphylaxis",
@@ -379,6 +332,26 @@
         ],
         "relations": [],
         "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/aqua-minato-kirakira"
+        ],
+        "title": "Aqua Minato: Kirakira",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/aqua-minato-kirakira-1.webp?t=1653770878",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/aqua-minato-kirakira-1-285x400.webp?t=1653770878",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "maids"
+        ],
         "date": {
             "season": "unknown",
             "year": 2021
@@ -1076,6 +1049,31 @@
         ],
         "relations": [],
         "tags": [
+            "fantasy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/150006"
+        ],
+        "title": "Byakuya",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150006-gxmGc4vNKkKe.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150006-gxmGc4vNKkKe.png",
+        "synonyms": [
+            "White Midnight",
+            "白夜"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "adventure",
             "fantasy"
         ],
         "date": {
@@ -2130,7 +2128,8 @@
         ],
         "tags": [
             "action",
-            "adventure"
+            "adventure",
+            "advertisement"
         ],
         "date": {
             "season": "unknown",
@@ -2381,11 +2380,11 @@
             "肥志百科 第四季"
         ],
         "relations": [
-            "https://anilist.co/anime/136635"
+            "https://anilist.co/anime/136635",
+            "https://anilist.co/anime/146730"
         ],
         "tags": [
-            "comedy",
-            "ecchi"
+            "comedy"
         ],
         "date": {
             "season": "unknown",
@@ -3958,6 +3957,26 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kaf-sorekara"
+        ],
+        "title": "KAF: Sorekara",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/kaf-sorekara-1.webp?t=1653865506",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kaf-sorekara-1-285x398.webp?t=1653865506",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "promotional"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/kankan-bloody-mary"
         ],
         "title": "KANKAN: Bloody Mary",
@@ -4575,6 +4594,24 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/laur-animosity"
+        ],
+        "title": "Laur: Animosity",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/laur-animosity-1.webp?t=1653767135",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/laur-animosity-1-285x399.webp?t=1653767135",
+        "synonyms": [],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/136163"
         ],
         "title": "Lianai Shang Shang Qian",
@@ -4739,46 +4776,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/131239",
-            "https://anime-planet.com/anime/luo-xiaohei-zhan-ji-zhongsheng-zhi-men"
-        ],
-        "title": "Luo Xiaohei Zhan Ji: Zhongsheng Zhi Men",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/luo-xiaohei-zhan-ji-zhongsheng-zhi-men-1.jpg?t=1625908943",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/luo-xiaohei-zhan-ji-zhongsheng-zhi-men-1-190x254.jpg?t=1625908943",
-        "synonyms": [
-            "The Legend of Luo Xiaohei: The Gate of All Living Beings",
-            "罗小黑战记 众生之门"
-        ],
-        "relations": [
-            "https://anilist.co/anime/102663",
-            "https://anime-planet.com/anime/luo-xiaohei-zhan-ji"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "animals",
-            "chinese animation",
-            "comedy",
-            "fantasy",
-            "flash animation",
-            "nekomimi",
-            "shapeshifting",
-            "short episodes",
-            "supernatural",
-            "urban fantasy",
-            "video games",
-            "virtual world"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/lupin-the-3rd-part-vi-episode-0"
         ],
         "title": "Lupin III: Part VI - Episode 0",
@@ -4820,6 +4817,32 @@
             "no dialogue",
             "promotional",
             "station identifications"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/machamp-workout"
+        ],
+        "title": "Machamp Workout",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/machamp-workout-1.webp?t=1653688276",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/machamp-workout-1-249x349.webp?t=1653688276",
+        "synonyms": [
+            "Kairikii Taisou"
+        ],
+        "relations": [],
+        "tags": [
+            "cg animation",
+            "fantasy",
+            "monsters",
+            "non-human protagonists",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -6044,7 +6067,7 @@
         ],
         "title": "Nitian Xie Shen 2nd Season",
         "type": "ona",
-        "episodes": 69,
+        "episodes": 70,
         "status": "ongoing",
         "picture": "https://cdn.anime-planet.com/anime/primary/nitian-xie-shen-2nd-season-1.jpg?t=1644183439",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/nitian-xie-shen-2nd-season-1-190x269.jpg?t=1644183439",
@@ -6315,6 +6338,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/oretachi-majikou-destroy-music-video",
             "https://myanimelist.net/anime/48940"
         ],
         "title": "Oretachi Majikou Destroy Music Video",
@@ -6328,8 +6352,11 @@
         ],
         "relations": [],
         "tags": [
+            "based on a manga",
+            "idols",
             "idols (male)",
-            "music"
+            "music",
+            "promotional"
         ],
         "date": {
             "season": "unknown",
@@ -6639,28 +6666,6 @@
             "family friendly",
             "non-human protagonists",
             "original work"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/51828"
-        ],
-        "title": "Polar Bear Bears Boredom",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1310/123815.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1310/123815t.jpg",
-        "synonyms": [
-            "ホッキョクグマすっごくひま"
-        ],
-        "relations": [],
-        "tags": [
-            "award winning"
         ],
         "date": {
             "season": "unknown",
@@ -7004,6 +7009,46 @@
             "outdoor",
             "rural",
             "slice of life"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/rie-takahashi-chameleon-syndrome"
+        ],
+        "title": "Rie Takahashi: Chameleon Syndrome",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/rie-takahashi-chameleon-syndrome-1.webp?t=1653850236",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/rie-takahashi-chameleon-syndrome-1-285x399.webp?t=1653850236",
+        "synonyms": [],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/rie-takahashi-fukenkou-shakai"
+        ],
+        "title": "Rie Takahashi: Fukenkou Shakai",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/rie-takahashi-fukenkou-shakai-1.webp?t=1653849667",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/rie-takahashi-fukenkou-shakai-1-285x399.webp?t=1653849667",
+        "synonyms": [
+            "Rie Takahashi: Unhealthy Society"
+        ],
+        "relations": [],
+        "tags": [
+            "work life"
         ],
         "date": {
             "season": "unknown",
@@ -7802,6 +7847,24 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/150004"
+        ],
+        "title": "Still Life",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150004-W7Cw8E4XWOSp.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150004-W7Cw8E4XWOSp.png",
+        "synonyms": [],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/49148"
         ],
         "title": "Stippling",
@@ -8469,6 +8532,24 @@
             "chinese animation",
             "fantasy"
         ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/weather-map"
+        ],
+        "title": "WEATHER MAP",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/weather-map-1.webp?t=1653358441",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/weather-map-1-285x400.webp?t=1653358441",
+        "synonyms": [],
+        "relations": [],
+        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2021

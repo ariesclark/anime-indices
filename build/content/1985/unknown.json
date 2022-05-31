@@ -203,6 +203,33 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/ki-no-naka-sasu-sakana-no-ki",
+            "https://myanimelist.net/anime/51850"
+        ],
+        "title": "Ki no Naka Sasu Sakana no Ki",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1450/123897.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1450/123897t.jpg",
+        "synonyms": [
+            "Kinonaka sasu Sakana no ki",
+            "木の中刺す魚の気"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "avant garde",
+            "music",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1985
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/35124"
         ],
         "title": "Koala-chan no Shouboutai",
@@ -361,6 +388,47 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/prime-time"
+        ],
+        "title": "Prime Time",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/prime-time-1.webp?t=1653608840",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/prime-time-1-285x400.webp?t=1653608840",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1985
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/profiles"
+        ],
+        "title": "Profiles",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/profiles-1.webp?t=1653608618",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/profiles-1-285x400.webp?t=1653608618",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1985
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/qiang-zhen-tou",
             "https://myanimelist.net/anime/43578"
         ],
@@ -435,6 +503,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/ryuusui-kaen",
             "https://myanimelist.net/anime/51849"
         ],
         "title": "Ryuusui Kaen",
@@ -449,8 +518,10 @@
         ],
         "relations": [],
         "tags": [
+            "abstract",
             "avant garde",
-            "music"
+            "music",
+            "shorts"
         ],
         "date": {
             "season": "unknown",

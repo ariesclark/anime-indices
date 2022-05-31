@@ -1304,6 +1304,7 @@
             "https://livechart.me/anime/10100",
             "https://livechart.me/anime/10814",
             "https://livechart.me/anime/10926",
+            "https://livechart.me/anime/11210",
             "https://livechart.me/anime/1895",
             "https://livechart.me/anime/2225",
             "https://livechart.me/anime/2292",
@@ -2097,39 +2098,6 @@
             "https://anime-planet.com/anime/crayon-shin-chan-movie-7-bakuhatsu-onsen-wakuwaku-daikessen",
             "https://anime-planet.com/anime/crayon-shin-chan-movie-8-arashi-wo-yobu-jungle",
             "https://anime-planet.com/anime/crayon-shin-chan-movie-9-the-adult-empire-strikes-back",
-            "https://anisearch.com/anime/10894",
-            "https://anisearch.com/anime/11594",
-            "https://anisearch.com/anime/118",
-            "https://anisearch.com/anime/11964",
-            "https://anisearch.com/anime/12259",
-            "https://anisearch.com/anime/12333",
-            "https://anisearch.com/anime/12938",
-            "https://anisearch.com/anime/13971",
-            "https://anisearch.com/anime/1433",
-            "https://anisearch.com/anime/14678",
-            "https://anisearch.com/anime/16903",
-            "https://anisearch.com/anime/178",
-            "https://anisearch.com/anime/1843",
-            "https://anisearch.com/anime/2571",
-            "https://anisearch.com/anime/3743",
-            "https://anisearch.com/anime/3744",
-            "https://anisearch.com/anime/3746",
-            "https://anisearch.com/anime/3747",
-            "https://anisearch.com/anime/3748",
-            "https://anisearch.com/anime/3838",
-            "https://anisearch.com/anime/3839",
-            "https://anisearch.com/anime/3840",
-            "https://anisearch.com/anime/3841",
-            "https://anisearch.com/anime/3853",
-            "https://anisearch.com/anime/4011",
-            "https://anisearch.com/anime/4634",
-            "https://anisearch.com/anime/5191",
-            "https://anisearch.com/anime/6595",
-            "https://anisearch.com/anime/6656",
-            "https://anisearch.com/anime/7782",
-            "https://anisearch.com/anime/8214",
-            "https://anisearch.com/anime/9271",
-            "https://anisearch.com/anime/9894",
             "https://livechart.me/anime/1608",
             "https://livechart.me/anime/7211",
             "https://livechart.me/anime/7625",
@@ -4569,20 +4537,28 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/143380"
+            "https://anilist.co/anime/143380",
+            "https://anime-planet.com/anime/polar-bear-bears-boredom",
+            "https://myanimelist.net/anime/51828"
         ],
         "title": "Hokkyokuguma Suggoku Hima",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b143380-QvoRtZILOgBZ.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b143380-QvoRtZILOgBZ.png",
+        "picture": "https://cdn.myanimelist.net/images/anime/1310/123815.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1310/123815t.jpg",
         "synonyms": [
             "Polar Bear Bears Boredom",
             "ホッキョクグマすっごくひま"
         ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "animal protagonists",
+            "award winning",
+            "bears",
+            "non-human protagonists",
+            "shorts"
+        ],
         "date": {
             "season": "summer",
             "year": 2021
@@ -4936,7 +4912,6 @@
         ],
         "relations": [
             "https://anidb.net/anime/10515",
-            "https://anilist.co/anime/20742",
             "https://anilist.co/anime/98107",
             "https://anime-planet.com/anime/idol-land-pripara-episode-0",
             "https://anime-planet.com/anime/idol-time-pripara",
@@ -5609,7 +5584,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/137593",
             "https://anime-planet.com/anime/kakero",
             "https://anisearch.com/anime/16553",
             "https://kitsu.io/anime/44983",
@@ -5626,14 +5600,12 @@
             "駆けろ"
         ],
         "relations": [
-            "https://anilist.co/anime/118123",
             "https://kitsu.io/anime/43740",
             "https://myanimelist.net/anime/44042"
         ],
         "tags": [
             "idol",
             "music",
-            "vtuber",
             "vtubers"
         ],
         "date": {
@@ -7362,28 +7334,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16658"
-        ],
-        "title": "Mei Ying Dai Leyuan",
-        "type": "ona",
-        "episodes": 0,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/264961.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/264961.jpg-thumb.jpg",
-        "synonyms": [
-            "美影大乐园"
-        ],
-        "relations": [],
-        "tags": [
-            "short episodes"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/16492",
             "https://kitsu.io/anime/44883"
         ],
@@ -7491,6 +7441,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16658",
             "https://anilist.co/anime/136619",
             "https://anime-planet.com/anime/meiying-da-leyuan",
             "https://kitsu.io/anime/45496",
@@ -7503,6 +7454,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1647/116378.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1647/116378t.jpg",
         "synonyms": [
+            "Mei Ying Dai Leyuan",
             "Mein Family Daily",
             "美影大乐园"
         ],
@@ -8002,6 +7954,7 @@
             "https://kitsu.io/anime/43458",
             "https://livechart.me/anime/10292",
             "https://livechart.me/anime/10878",
+            "https://livechart.me/anime/11213",
             "https://livechart.me/anime/1447",
             "https://livechart.me/anime/1844",
             "https://livechart.me/anime/2333",
@@ -8348,6 +8301,7 @@
             "https://anilist.co/anime/139682",
             "https://anime-planet.com/anime/obey-me-celestial-ray",
             "https://anime-planet.com/anime/obey-me-devildom-family-trip",
+            "https://kitsu.io/anime/45992",
             "https://myanimelist.net/anime/49755"
         ],
         "tags": [
@@ -11980,7 +11934,7 @@
         "title": "The Owl House Season 2",
         "type": "tv",
         "episodes": 21,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://media.kitsu.io/anime/poster_images/42991/small.jpg",
         "thumbnail": "https://media.kitsu.io/anime/poster_images/42991/tiny.jpg",
         "synonyms": [],
@@ -12618,9 +12572,6 @@
             "https://anidb.net/anime/12578",
             "https://anilist.co/anime/97904",
             "https://anime-planet.com/anime/tsukipro-the-animation",
-            "https://anisearch.com/anime/11477",
-            "https://anisearch.com/anime/12332",
-            "https://anisearch.com/anime/14095",
             "https://kitsu.io/anime/13721",
             "https://livechart.me/anime/10212",
             "https://livechart.me/anime/11172",
@@ -12643,6 +12594,7 @@
             "ensemble cast",
             "idol",
             "idols",
+            "idols (male)",
             "music",
             "primarily male cast",
             "showbiz",

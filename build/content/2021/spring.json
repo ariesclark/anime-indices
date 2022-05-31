@@ -1501,6 +1501,7 @@
             "https://anilist.co/anime/104276",
             "https://anilist.co/anime/126659",
             "https://anilist.co/anime/139630",
+            "https://anilist.co/anime/149073",
             "https://anime-planet.com/anime/my-hero-academia-4",
             "https://anime-planet.com/anime/my-hero-academia-6",
             "https://anime-planet.com/anime/my-hero-academia-movie-3-world-heroes-mission",
@@ -2025,32 +2026,6 @@
             "slice of life",
             "vtuber",
             "vtubers"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/143315",
-            "https://anisearch.com/anime/16280"
-        ],
-        "title": "Climbing",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16280.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16280.webp",
-        "synonyms": [
-            "Keullaiming",
-            "클라이밍"
-        ],
-        "relations": [],
-        "tags": [
-            "athletics",
-            "horror",
-            "psychological"
         ],
         "date": {
             "season": "spring",
@@ -2897,9 +2872,7 @@
             "Is It Wrong to Try to Pick Up Girls in a Dungeon? Is It Wrong to Try to Find a Hot Spring in Orario? Bath God Forever",
             "ダンジョンに出会いを求めるのは間違っているだろうかⅢ オラリオに温泉を求めるのは間違っているだろうか ～おふろの神様フォーエバー～"
         ],
-        "relations": [
-            "https://anisearch.com/anime/14636"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "action comedy",
@@ -4065,7 +4038,6 @@
         ],
         "relations": [
             "https://anilist.co/anime/118123",
-            "https://anilist.co/anime/137593",
             "https://kitsu.io/anime/43740",
             "https://myanimelist.net/anime/44042"
         ],
@@ -4694,10 +4666,10 @@
             "https://kitsu.io/anime/44972",
             "https://kitsu.io/anime/45202",
             "https://kitsu.io/anime/45265",
-            "https://kitsu.io/anime/45645",
             "https://kitsu.io/anime/45899",
             "https://kitsu.io/anime/46082",
             "https://kitsu.io/anime/46122",
+            "https://kitsu.io/anime/46140",
             "https://livechart.me/anime/10320",
             "https://livechart.me/anime/10351",
             "https://livechart.me/anime/11082",
@@ -5007,7 +4979,8 @@
         ],
         "relations": [
             "https://anidb.net/anime/17357",
-            "https://anime-planet.com/anime/iii-icecrin-2"
+            "https://anime-planet.com/anime/iii-icecrin-2",
+            "https://livechart.me/anime/11211"
         ],
         "tags": [
             "animal protagonists",
@@ -5771,9 +5744,6 @@
             "https://anilist.co/anime/120209",
             "https://anime-planet.com/anime/hamefura-catarina-nounai-kaigi",
             "https://anime-planet.com/anime/my-next-life-as-a-villainess-all-routes-lead-to-doom-x",
-            "https://anisearch.com/anime/13946",
-            "https://anisearch.com/anime/15346",
-            "https://anisearch.com/anime/16329",
             "https://livechart.me/anime/10037",
             "https://livechart.me/anime/10431",
             "https://livechart.me/anime/10707",
@@ -6771,6 +6741,9 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16687",
+            "https://anilist.co/anime/131239",
+            "https://anime-planet.com/anime/luo-xiaohei-zhan-ji-zhongsheng-zhi-men",
             "https://myanimelist.net/anime/48791",
             "https://notify.moe/anime/1wOu52CMR"
         ],
@@ -6781,41 +6754,36 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1909/114536.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1909/114536t.jpg",
         "synonyms": [
+            "Luo Xiao Hei Zhanji (2021)",
+            "Luo Xiaohei Zhan Ji: Zhongsheng Zhi Men",
+            "The Legend of Luo Xiaohei: The Gate of All Living Beings",
             "The Legend of Luoxiaohei: The Gate of All Living Beings",
-            "罗小黑战记 众生之门"
+            "罗小黑战记 (2021)",
+            "罗小黑战记 众生之门",
+            "罗小黑战记 众生之门篇"
         ],
         "relations": [
+            "https://anidb.net/anime/14829",
+            "https://anilist.co/anime/102663",
+            "https://anime-planet.com/anime/luo-xiaohei-zhan-ji",
             "https://myanimelist.net/anime/33443",
             "https://notify.moe/anime/Qu_m2Fmig"
         ],
         "tags": [
+            "action",
+            "adventure",
+            "animals",
+            "chinese animation",
             "comedy",
-            "supernatural"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16687"
-        ],
-        "title": "Luo Xiao Hei Zhanji (2021)",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/265084.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/265084.jpg-thumb.jpg",
-        "synonyms": [
-            "罗小黑战记 (2021)",
-            "罗小黑战记 众生之门篇"
-        ],
-        "relations": [
-            "https://anidb.net/anime/14829"
-        ],
-        "tags": [
-            "short episodes"
+            "fantasy",
+            "flash animation",
+            "nekomimi",
+            "shapeshifting",
+            "short episodes",
+            "supernatural",
+            "urban fantasy",
+            "video games",
+            "virtual world"
         ],
         "date": {
             "season": "spring",
@@ -7201,32 +7169,10 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16692"
-        ],
-        "title": "Menghuan Shuyuan Di Wu Ji",
-        "type": "ona",
-        "episodes": 0,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/265090.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/265090.jpg-thumb.jpg",
-        "synonyms": [
-            "梦幻书院 第五季",
-            "梦幻书院之科学小记者"
-        ],
-        "relations": [
-            "https://anidb.net/anime/16691"
-        ],
-        "tags": [
-            "short episodes"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
+            "https://anidb.net/anime/16692",
+            "https://anilist.co/anime/131650",
             "https://anime-planet.com/anime/menghuan-shuyuan-5th-season",
+            "https://livechart.me/anime/10583",
             "https://myanimelist.net/anime/51759"
         ],
         "title": "Menghuan Shuyuan: Kexue Xiao Jizhe",
@@ -7236,11 +7182,22 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1281/123618.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1281/123618t.jpg",
         "synonyms": [
+            "Menghuan Shuyuan 5",
             "Menghuan Shuyuan 5th Season",
+            "Menghuan Shuyuan Di Wu Ji",
+            "Menghuan Shuyuan: Keyue Xiao Jizhe",
+            "梦幻书院 第五季",
             "梦幻书院之科学小记者"
         ],
         "relations": [
+            "https://anidb.net/anime/16691",
+            "https://anilist.co/anime/124397",
             "https://anime-planet.com/anime/menghuan-shuyuan-4th-season",
+            "https://livechart.me/anime/10584",
+            "https://livechart.me/anime/10585",
+            "https://livechart.me/anime/10586",
+            "https://livechart.me/anime/10587",
+            "https://livechart.me/anime/10588",
             "https://myanimelist.net/anime/42969",
             "https://myanimelist.net/anime/51760"
         ],
@@ -7251,39 +7208,6 @@
             "comedy",
             "fantasy",
             "short episodes"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/131650",
-            "https://livechart.me/anime/10583"
-        ],
-        "title": "Menghuan Shuyuan: Keyue Xiao Jizhe",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131650-afWge7voxqP5.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131650-afWge7voxqP5.png",
-        "synonyms": [
-            "Menghuan Shuyuan 5",
-            "梦幻书院 第五季",
-            "梦幻书院之科学小记者"
-        ],
-        "relations": [
-            "https://anilist.co/anime/124397",
-            "https://livechart.me/anime/10584",
-            "https://livechart.me/anime/10585",
-            "https://livechart.me/anime/10586",
-            "https://livechart.me/anime/10587",
-            "https://livechart.me/anime/10588"
-        ],
-        "tags": [
-            "comedy",
-            "fantasy"
         ],
         "date": {
             "season": "spring",
@@ -8905,10 +8829,7 @@
         "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16361.webp",
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16361.webp",
         "synonyms": [],
-        "relations": [
-            "https://anisearch.com/anime/15308",
-            "https://anisearch.com/anime/3139"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "adventure",
@@ -12106,7 +12027,7 @@
         ],
         "title": "Uchuu Nanchara Kotetsu-kun",
         "type": "tv",
-        "episodes": 38,
+        "episodes": 39,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1226/112286.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1226/112286t.jpg",
@@ -12435,8 +12356,8 @@
         "type": "ona",
         "episodes": 78,
         "status": "ongoing",
-        "picture": "https://cdn.myanimelist.net/images/anime/1086/111576.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1086/111576t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1793/124106.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1793/124106t.jpg",
         "synonyms": [
             "Perfect World",
             "完美世界"
@@ -13486,7 +13407,7 @@
         ],
         "title": "Youkai Watch ♪",
         "type": "tv",
-        "episodes": 56,
+        "episodes": 57,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1682/118273.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1682/118273t.jpg",
