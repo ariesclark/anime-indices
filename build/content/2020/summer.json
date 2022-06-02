@@ -688,6 +688,7 @@
     {
         "sources": [
             "https://anilist.co/anime/138261",
+            "https://anime-planet.com/anime/jizue-because",
             "https://kitsu.io/anime/43666",
             "https://myanimelist.net/anime/43318"
         ],
@@ -698,10 +699,12 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1357/109689.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1357/109689t.jpg",
         "synonyms": [
-            "because"
+            "because",
+            "jizue: Because"
         ],
         "relations": [],
         "tags": [
+            "abstract",
             "animals",
             "avant garde",
             "music",
@@ -738,36 +741,7 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/126661"
-        ],
-        "title": "Boku no Hero Academia THE MOVIE: Heroes:Rising - Epilogue Plus: Yume wo Genjitsu ni",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126661-61SI7n5njMNM.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126661-61SI7n5njMNM.jpg",
-        "synonyms": [
-            "Boku no Hero Academia: Heroes Rising - Epilogue Plus",
-            "Boku no Hero Academia: Heroes Rising Picture Drama",
-            "My Hero Academia: Heroes Rising Picture Drama",
-            "僕のヒーローアカデミア THE MOVIE ヒーローズ・ライジング エピローグ・プラス《夢を現実に》"
-        ],
-        "relations": [
-            "https://anilist.co/anime/108553"
-        ],
-        "tags": [
-            "comedy",
-            "school",
-            "shounen",
-            "super power"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/126661",
             "https://anime-planet.com/anime/my-hero-academia-movie-2-heroes-rising-picture-drama",
             "https://kitsu.io/anime/43726",
             "https://myanimelist.net/anime/43683"
@@ -779,13 +753,18 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1447/110165.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1447/110165t.jpg",
         "synonyms": [
+            "Boku no Hero Academia THE MOVIE: Heroes:Rising - Epilogue Plus: Yume wo Genjitsu ni",
             "Boku no Hero Academia the Movie 2 Picture",
             "Boku no Hero Academia the Movie 2 Picture Drama",
+            "Boku no Hero Academia: Heroes Rising - Epilogue Plus",
+            "Boku no Hero Academia: Heroes Rising Picture Drama",
             "My Hero Academia Movie 2: Heroes Rising Epilogue Plus",
             "My Hero Academia Movie 2: Heroes:Rising - Picture Drama",
+            "My Hero Academia: Heroes Rising Picture Drama",
             "僕のヒーローアカデミア THE MOVIE ヒーローズ・ライジング エピローグ・プラス《夢を現実に》"
         ],
         "relations": [
+            "https://anilist.co/anime/108553",
             "https://anime-planet.com/anime/my-hero-academia-movie-2-heroes-rising",
             "https://kitsu.io/anime/42205",
             "https://myanimelist.net/anime/39565"
@@ -793,6 +772,8 @@
         "tags": [
             "comedy",
             "picture drama",
+            "school",
+            "shounen",
             "super power",
             "superhero"
         ],
@@ -913,6 +894,8 @@
     {
         "sources": [
             "https://anilist.co/anime/138401",
+            "https://anime-planet.com/anime/carol-2020",
+            "https://anisearch.com/anime/16839",
             "https://kitsu.io/anime/43577",
             "https://myanimelist.net/anime/42793"
         ],
@@ -924,11 +907,15 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1242/109066t.jpg",
         "synonyms": [
             "Carol",
-            "Minna no Uta"
+            "Carol (2020)",
+            "Minna no Uta",
+            "Minna no Uta: Carol"
         ],
         "relations": [],
         "tags": [
+            "family friendly",
             "kids",
+            "minna no uta",
             "music"
         ],
         "date": {

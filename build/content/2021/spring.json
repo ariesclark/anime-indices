@@ -476,9 +476,14 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16318",
+            "https://anilist.co/anime/134120",
+            "https://anime-planet.com/anime/artiswitch",
             "https://anisearch.com/anime/16298",
+            "https://kitsu.io/anime/44595",
             "https://livechart.me/anime/10579",
-            "https://myanimelist.net/anime/49066"
+            "https://myanimelist.net/anime/49066",
+            "https://notify.moe/anime/98ONJsjMR"
         ],
         "title": "Artiswitch",
         "type": "ona",
@@ -487,45 +492,13 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1805/115216.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1805/115216t.jpg",
         "synonyms": [
+            "Artiswitch (アーティスウィッチ)",
             "Artiswitch（アーティスウィッチ）",
             "アーティスウィッチ"
         ],
         "relations": [
+            "https://anilist.co/anime/145709",
             "https://myanimelist.net/anime/50515"
-        ],
-        "tags": [
-            "contemporary fantasy",
-            "fantasy",
-            "present",
-            "slice of life",
-            "supernatural",
-            "witches"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16318",
-            "https://anilist.co/anime/134120",
-            "https://anime-planet.com/anime/artiswitch",
-            "https://kitsu.io/anime/44595",
-            "https://notify.moe/anime/98ONJsjMR"
-        ],
-        "title": "Artiswitch",
-        "type": "ona",
-        "episodes": 6,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/artiswitch-1.jpg?t=1628016828",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/artiswitch-1-285x406.jpg?t=1628016828",
-        "synonyms": [
-            "Artiswitch (アーティスウィッチ)",
-            "アーティスウィッチ"
-        ],
-        "relations": [
-            "https://anilist.co/anime/145709"
         ],
         "tags": [
             "angst",
@@ -536,6 +509,7 @@
             "drama",
             "ensemble cast",
             "episodic",
+            "fantasy",
             "fashion",
             "female protagonist",
             "japan",
@@ -549,10 +523,12 @@
             "psychological",
             "short episodes",
             "shoujo ai",
+            "slice of life",
             "suicide",
             "supernatural",
             "urban fantasy",
-            "witch"
+            "witch",
+            "witches"
         ],
         "date": {
             "season": "spring",
@@ -1313,6 +1289,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/mae-blue",
             "https://anisearch.com/anime/16218",
             "https://kitsu.io/anime/44462",
             "https://myanimelist.net/anime/48814"
@@ -1325,7 +1302,8 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1303/114587t.jpg",
         "synonyms": [
             "Blue - m@e",
-            "DE m@e - Blue"
+            "DE m@e - Blue",
+            "m@e: Blue"
         ],
         "relations": [],
         "tags": [

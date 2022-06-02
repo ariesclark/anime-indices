@@ -1138,6 +1138,10 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/110641",
+            "https://anime-planet.com/anime/the-heroic-legend-of-arslan-dust-storm-dance-specials",
+            "https://kitsu.io/anime/41623",
+            "https://livechart.me/anime/5837",
             "https://myanimelist.net/anime/36498"
         ],
         "title": "Arslan Senki (TV): Fuujin Ranbu - Arsen 4-koma Gekijou",
@@ -1147,15 +1151,22 @@
         "picture": "https://cdn.myanimelist.net/images/anime/7/88122.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/7/88122t.jpg",
         "synonyms": [
+            "Arslan Senki (TV): Fuujin Ranbu - 4-koma Gekijou",
             "Arslan Senki (TV): Fuujin Ranbu Specials",
+            "Arslan Senki: Fuujin Ranbu - 4-koma Gekijou",
+            "The Heroic Legend of Arslan: Dust Storm Dance Specials",
             "アルスラーン戦記 風塵乱舞 アル戦4コマ劇場"
         ],
         "relations": [
+            "https://anilist.co/anime/21424",
+            "https://anime-planet.com/anime/the-heroic-legend-of-arslan-dust-storm-dance",
             "https://myanimelist.net/anime/30953",
             "https://myanimelist.net/anime/31821"
         ],
         "tags": [
-            "comedy"
+            "chibi",
+            "comedy",
+            "parody"
         ],
         "date": {
             "season": "summer",
@@ -1440,6 +1451,7 @@
     {
         "sources": [
             "https://anilist.co/anime/102314",
+            "https://anime-planet.com/anime/the-hotpantz-beachside-lover",
             "https://kitsu.io/anime/41622",
             "https://myanimelist.net/anime/36489"
         ],
@@ -1449,12 +1461,15 @@
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/9/88103.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/9/88103t.jpg",
-        "synonyms": [],
+        "synonyms": [
+            "The Hotpantz: Beachside Lover"
+        ],
         "relations": [
             "https://myanimelist.net/anime/36158"
         ],
         "tags": [
-            "music"
+            "music",
+            "ocean"
         ],
         "date": {
             "season": "summer",
@@ -1964,6 +1979,8 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/cheer-boys-the-view-we-seven-shared",
+            "https://anisearch.com/anime/11698",
             "https://kitsu.io/anime/12472",
             "https://myanimelist.net/anime/33798",
             "https://notify.moe/anime/Vu-k2FiiR"
@@ -1976,43 +1993,31 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/9/81428t.jpg",
         "synonyms": [
             "Cheer Boys Recap",
+            "Cheer Boys!! Il panorama visto in sette",
+            "Cheer Boys!! Recap",
+            "Cheer Boys!! The View We Seven Shared",
             "Cheer Danshi!! Episode 5.5",
-            "チア男子!! 第5.5話"
+            "Cheer Danshi!! Shichinin de Mita Keshiki",
+            "チア男子!! 第5.5話",
+            "チア男子！！ 七人で見た景色"
         ],
         "relations": [
+            "https://anime-planet.com/anime/cheer-boys",
+            "https://anime-planet.com/anime/cheer-boys-specials",
             "https://kitsu.io/anime/11770",
             "https://myanimelist.net/anime/32483",
             "https://notify.moe/anime/HH13tKimg"
         ],
         "tags": [
+            "based on a novel",
+            "drama",
+            "recap",
             "school",
+            "school club",
             "school life",
-            "sports"
+            "sports",
+            "tournaments"
         ],
-        "date": {
-            "season": "summer",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/11698"
-        ],
-        "title": "Cheer Danshi!! Shichinin de Mita Keshiki",
-        "type": "tv",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11698.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11698.webp",
-        "synonyms": [
-            "Cheer Boys!! Il panorama visto in sette",
-            "Cheer Boys!! Recap",
-            "Cheer Boys!! The View We Seven Shared",
-            "Cheer Danshi!! Episode 5.5",
-            "チア男子！！ 七人で見た景色"
-        ],
-        "relations": [],
-        "tags": [],
         "date": {
             "season": "summer",
             "year": 2016

@@ -183,29 +183,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/cofun-gal-no-coffy-specials"
-        ],
-        "title": "Cofun Gal no Coffy Specials",
-        "type": "special",
-        "episodes": 5,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/cofun-gal-no-coffy",
-            "https://anime-planet.com/anime/cofun-gal-no-coffy-christmas-daisakusen"
-        ],
-        "tags": [
-            "comedy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2006
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/fan-dou-tianting-2"
         ],
         "title": "Fan Dou Tianting 2",
@@ -1449,6 +1426,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/zhongguo-nanhai-hong-zhanhui",
             "https://myanimelist.net/anime/44373"
         ],
         "title": "Zhongguo Nanhai Hongzhanhui",
@@ -1458,33 +1436,15 @@
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "Zhongguo Nanhai: Hong Zhanhui",
             "中国男孩洪战辉"
         ],
         "relations": [],
         "tags": [
             "adventure",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2006
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/zhongguo-nanhai-hong-zhanhui"
-        ],
-        "title": "Zhongguo Nanhai: Hong Zhanhui",
-        "type": "tv",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/zhongguo-nanhai-hong-zhanhui-1.webp?t=1653072432",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/zhongguo-nanhai-hong-zhanhui-1-285x399.webp?t=1653072432",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
             "chinese animation",
             "family friendly",
+            "kids",
             "short episodes"
         ],
         "date": {

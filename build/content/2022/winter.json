@@ -66,7 +66,8 @@
             "https://anisearch.com/anime/17255",
             "https://kitsu.io/anime/46034",
             "https://livechart.me/anime/11171",
-            "https://myanimelist.net/anime/51464"
+            "https://myanimelist.net/anime/51464",
+            "https://notify.moe/anime/x3j4ua8nR"
         ],
         "title": "4-nin wa Sorezore Uso wo Tsuku",
         "type": "tv",
@@ -14637,28 +14638,7 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/17202"
-        ],
-        "title": "Zannen na Ikimono Jiten (2022)",
-        "type": "tv",
-        "episodes": 0,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "ざんねんないきもの事典 (2022)"
-        ],
-        "relations": [
-            "https://anidb.net/anime/16024"
-        ],
-        "tags": [],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
+            "https://anidb.net/anime/17202",
             "https://anisearch.com/anime/17115"
         ],
         "title": "Zannen na Ikimono Jiten (2022)",
@@ -14668,9 +14648,12 @@
         "picture": "https://cdn.anisearch.com/images/anime/cover/full/0.webp",
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/0.webp",
         "synonyms": [
+            "ざんねんないきもの事典 (2022)",
             "ざんねんないきもの事典 （2022）"
         ],
-        "relations": [],
+        "relations": [
+            "https://anidb.net/anime/16024"
+        ],
         "tags": [],
         "date": {
             "season": "winter",

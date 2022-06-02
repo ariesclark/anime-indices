@@ -176,6 +176,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/140140",
             "https://anime-planet.com/anime/ak-mofa-shaonu",
             "https://myanimelist.net/anime/44491"
         ],
@@ -187,13 +188,20 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1609/122329t.jpg",
         "synonyms": [
             "AK Magical Girls",
+            "AK Mofa Shaonü",
             "艾可魔法少女"
         ],
         "relations": [],
         "tags": [
+            "cgi",
             "chinese animation",
+            "female protagonist",
+            "full cgi",
+            "henshin",
             "kids",
-            "mahou shoujo"
+            "magic",
+            "mahou shoujo",
+            "primarily female cast"
         ],
         "date": {
             "season": "spring",
@@ -857,6 +865,7 @@
     {
         "sources": [
             "https://anilist.co/anime/137892",
+            "https://anime-planet.com/anime/yokohama-shi-collaboration-cm",
             "https://kitsu.io/anime/45660",
             "https://myanimelist.net/anime/41844"
         ],
@@ -868,11 +877,15 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1253/115390t.jpg",
         "synonyms": [
             "Find your Yokohama",
+            "Yokohama-shi Collaboration CM",
             "あうたびに、あたらしい"
         ],
         "relations": [],
         "tags": [
+            "abstract",
             "advertisement",
+            "commercials",
+            "promotional",
             "slice of life"
         ],
         "date": {

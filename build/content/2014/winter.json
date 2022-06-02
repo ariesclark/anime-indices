@@ -14142,16 +14142,18 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/15223"
+            "https://anidb.net/anime/15223",
+            "https://myanimelist.net/anime/46858"
         ],
-        "title": "Zheng Chenggong",
+        "title": "Zhengchenggong",
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/241454.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/241454.jpg-thumb.jpg",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
             "The Legend of Zheng Chenggong",
+            "Zheng Chenggong",
             "郑成功"
         ],
         "relations": [],

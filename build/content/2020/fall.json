@@ -1386,6 +1386,8 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/126170",
+            "https://anime-planet.com/anime/chiaki-maruyama-boukentai-mori-no-yuusha",
             "https://anisearch.com/anime/15661",
             "https://kitsu.io/anime/43678",
             "https://myanimelist.net/anime/43444"
@@ -1398,7 +1400,9 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1905/109780t.jpg",
         "synonyms": [
             "Adventuring Party: Hero of Forest",
+            "Bouken-tai: Mori no Yuusha",
             "Bōkentai: Mori no Yūsha",
+            "Chiaki Maruyama: Boukentai - Mori no Yuusha",
             "Chiaki Mayumura - Boukentai: Mori no Yuusha",
             "Heroes of the Old Forest",
             "冒険隊 〜森の勇者〜",
@@ -1406,8 +1410,10 @@
         ],
         "relations": [],
         "tags": [
+            "adventure",
             "drama",
             "family",
+            "forest",
             "indefinite",
             "independent anime",
             "music",
@@ -14291,34 +14297,6 @@
             "drama",
             "fantasy",
             "music"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/44860"
-        ],
-        "title": "Yami Shibai \"Live Action\"",
-        "type": "tv",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44860/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44860/tiny.jpg",
-        "synonyms": [
-            "Yamishibai: Japanese Ghost Stories \"Live Action\"",
-            "闇芝居"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/7840"
-        ],
-        "tags": [
-            "dementia",
-            "horror",
-            "psychological",
-            "supernatural"
         ],
         "date": {
             "season": "fall",

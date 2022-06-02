@@ -1168,6 +1168,7 @@
     {
         "sources": [
             "https://anime-planet.com/anime/blue-reflection-ray-recap",
+            "https://anisearch.com/anime/16443",
             "https://kitsu.io/anime/45593",
             "https://myanimelist.net/anime/49348"
         ],
@@ -1180,52 +1181,29 @@
         "synonyms": [
             "BLUE REFLECTION RAY/澪 特別編",
             "Blue Reflection Ray Episode 12.5",
-            "Blue Reflection Ray Recap"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/blue-reflection-ray",
-            "https://kitsu.io/anime/44084",
-            "https://myanimelist.net/anime/47639"
-        ],
-        "tags": [
-            "fantasy",
-            "magic",
-            "recap",
-            "school",
-            "school life"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/16443"
-        ],
-        "title": "Blue Reflection Ray Tokubetsu Hen",
-        "type": "tv",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16443.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16443.webp",
-        "synonyms": [
-            "Blue Reflection Ray Episode 12.5",
-            "Blue Reflection Ray Special",
+            "Blue Reflection Ray Recap",
+            "Blue Reflection Ray Tokubetsu Hen",
             "ブルーリフレクション レイ 特別編"
         ],
         "relations": [
-            "https://anisearch.com/anime/15975"
+            "https://anime-planet.com/anime/blue-reflection-ray",
+            "https://anisearch.com/anime/15975",
+            "https://kitsu.io/anime/44084",
+            "https://myanimelist.net/anime/47639"
         ],
         "tags": [
             "action",
             "contemporary fantasy",
             "drama",
+            "fantasy",
             "harem",
             "high school",
             "magic",
             "magical girl",
             "present",
+            "recap",
+            "school",
+            "school life",
             "swords & co",
             "twisted story"
         ],
@@ -13910,26 +13888,7 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16653"
-        ],
-        "title": "Yong Zhe Donghua Xilie",
-        "type": "tv",
-        "episodes": 6,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/264954.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/264954.jpg-thumb.jpg",
-        "synonyms": [
-            "勇者動畫系列"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "summer",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
+            "https://anidb.net/anime/16653",
             "https://anisearch.com/anime/16469"
         ],
         "title": "Yong Zhe Xi Lie",
@@ -13942,6 +13901,7 @@
             "Brave Animated Series",
             "Braves",
             "Los valientes: La serie animada",
+            "Yong Zhe Donghua Xilie",
             "Yong Zhe Xilie",
             "勇者動畫系列"
         ],

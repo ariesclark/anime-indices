@@ -4957,17 +4957,22 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/zhiduo-xingjimu"
+            "https://anime-planet.com/anime/zhiduo-xingjimu",
+            "https://myanimelist.net/anime/46387"
         ],
-        "title": "Zhiduo Xingjimu",
+        "title": "Zhiduoxing Jimu",
         "type": "tv",
         "episodes": 72,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/zhiduo-xingjimu-1.webp?t=1652830631",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/zhiduo-xingjimu-1-285x400.webp?t=1652830631",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "Zhiduo Xingjimu",
+            "智多星吉木"
+        ],
         "relations": [],
         "tags": [
+            "adventure",
             "animal protagonists",
             "anthropomorphic",
             "chinese animation",
@@ -5031,31 +5036,6 @@
             "chinese animation",
             "family friendly",
             "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/14931"
-        ],
-        "title": "Zhonghua Dizi Gui 2",
-        "type": "tv",
-        "episodes": 120,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/233857.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/233857.jpg-thumb.jpg",
-        "synonyms": [
-            "The Chinese Standards Season 2",
-            "中华弟子规 第二季"
-        ],
-        "relations": [
-            "https://anidb.net/anime/14930"
-        ],
-        "tags": [
-            "half-length episodes"
         ],
         "date": {
             "season": "unknown",
