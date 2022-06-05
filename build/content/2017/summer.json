@@ -4091,42 +4091,6 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/13016",
-            "https://kitsu.io/anime/13778",
-            "https://notify.moe/anime/thIShKmiR"
-        ],
-        "title": "Glory Days",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/13778/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/13778/tiny.jpg",
-        "synonyms": [
-            "Koukyoushihen: Eureka Seven - Hi-Evolution 1",
-            "Ozaki Hiroya: Glory Days",
-            "Seize the Day"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/13238",
-            "https://notify.moe/anime/Bi9MhFimR"
-        ],
-        "tags": [
-            "action",
-            "alien",
-            "earth",
-            "future",
-            "mecha",
-            "military",
-            "piloted robot",
-            "science fiction"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/16771"
         ],
         "title": "GoGo Dino Gongnyong Tamheomdae",
@@ -4814,9 +4778,11 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/cells-at-work-commercial",
             "https://anisearch.com/anime/12688",
             "https://kitsu.io/anime/14175",
-            "https://myanimelist.net/anime/35840"
+            "https://myanimelist.net/anime/35840",
+            "https://notify.moe/anime/mG9NhFimR"
         ],
         "title": "Hataraku Saibou",
         "type": "ona",
@@ -4828,43 +4794,32 @@
             "Cells at Work!",
             "Cells at Work! (ONA)",
             "Cells at Work! CM",
+            "Cells at Work! Commercial",
+            "Hataraku Saibou (ONA)",
+            "Hataraku Saibou Commercial",
             "Hataraku Saibō",
-            "はたらく細胞"
+            "はたらく細胞",
+            "はたらく細胞 (ONA)"
         ],
         "relations": [
+            "https://anime-planet.com/anime/cells-at-work",
+            "https://anime-planet.com/anime/cells-at-work-specials",
+            "https://anime-planet.com/anime/cells-at-work-the-common-cold",
             "https://myanimelist.net/anime/37141"
         ],
         "tags": [
             "action",
             "alternative world",
+            "anthropomorphic",
+            "based on a manga",
             "comedy",
+            "medical",
+            "non-human protagonists",
+            "promotional",
             "sci-fi",
             "science fiction",
             "science-fiction",
             "slapstick"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
-            "https://notify.moe/anime/mG9NhFimR"
-        ],
-        "title": "Hataraku Saibou (ONA)",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.notify.moe/images/anime/large/mG9NhFimR.webp",
-        "thumbnail": "https://media.notify.moe/images/anime/small/mG9NhFimR.webp",
-        "synonyms": [
-            "Cells at Work! (ONA)",
-            "はたらく細胞 (ONA)"
-        ],
-        "relations": [],
-        "tags": [
-            "sci-fi"
         ],
         "date": {
             "season": "summer",
@@ -5292,6 +5247,46 @@
             "fantasy",
             "kodomo",
             "short episodes"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/hiroya-ozaki-glory-days",
+            "https://anisearch.com/anime/13016",
+            "https://kitsu.io/anime/13778",
+            "https://notify.moe/anime/thIShKmiR"
+        ],
+        "title": "Hiroya Ozaki: Glory Days",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/hiroya-ozaki-glory-days-1.jpg?t=1625898337",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/hiroya-ozaki-glory-days-1-190x266.jpg?t=1625898337",
+        "synonyms": [
+            "Glory Days",
+            "Koukyoushihen: Eureka Seven - Hi-Evolution 1",
+            "Ozaki Hiroya: Glory Days",
+            "Seize the Day"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/koukyoushihen-eureka-seven-hi-evolution-1",
+            "https://kitsu.io/anime/13238",
+            "https://notify.moe/anime/Bi9MhFimR"
+        ],
+        "tags": [
+            "action",
+            "alien",
+            "earth",
+            "future",
+            "mecha",
+            "military",
+            "piloted robot",
+            "sci fi",
+            "science fiction"
         ],
         "date": {
             "season": "summer",

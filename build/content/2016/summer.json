@@ -3687,6 +3687,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/last-note-esoragoto-spiral",
             "https://kitsu.io/anime/40955",
             "https://myanimelist.net/anime/36493",
             "https://notify.moe/anime/R8sdhKmmR"
@@ -3700,18 +3701,27 @@
         "synonyms": [
             "A Fiction Spiral",
             "Fabrication Spiral",
+            "Last Note: Esoragoto Spiral",
+            "Last Note: Fiction Spiral",
             "Mikagura Gakuen Kumikyoku",
             "Mikagura School Suite",
             "絵空事スパイラル"
         ],
         "relations": [
+            "https://anime-planet.com/anime/last-note-garakuta-innocence",
+            "https://anime-planet.com/anime/last-note-houkago-stride",
+            "https://anime-planet.com/anime/last-note-izayoi-seeing",
+            "https://anime-planet.com/anime/last-note-mukiryoku-coup-dtat",
+            "https://anime-planet.com/anime/last-note-uchouten-vivace",
+            "https://anime-planet.com/anime/mikagura-school-suite",
             "https://myanimelist.net/anime/28817",
             "https://myanimelist.net/anime/30924"
         ],
         "tags": [
             "music",
             "psychological",
-            "school"
+            "school",
+            "vocaloid"
         ],
         "date": {
             "season": "summer",
@@ -4861,9 +4871,11 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/118030",
             "https://anisearch.com/anime/13608",
             "https://kitsu.io/anime/14089",
-            "https://myanimelist.net/anime/36297"
+            "https://myanimelist.net/anime/36297",
+            "https://notify.moe/anime/es0H2FmmR"
         ],
         "title": "Hachigatsu no Cinderella Nine",
         "type": "ona",
@@ -4872,9 +4884,12 @@
         "picture": "https://cdn.myanimelist.net/images/anime/11/87686.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/11/87686t.jpg",
         "synonyms": [
-            "八月のシンデレラナイン"
+            "Hachigatsu no Cinderella Nine (ONA)",
+            "八月のシンデレラナイン",
+            "八月のシンデレラナイン (ONA)"
         ],
         "relations": [
+            "https://anilist.co/anime/104989",
             "https://kitsu.io/anime/42144",
             "https://myanimelist.net/anime/38091"
         ],
@@ -4883,36 +4898,9 @@
             "ganbatte",
             "music",
             "present",
+            "primarily female cast",
             "school",
             "slice of life",
-            "sports"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/118030",
-            "https://notify.moe/anime/es0H2FmmR"
-        ],
-        "title": "Hachigatsu no Cinderella Nine (ONA)",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118030-5apST4cSr5Wu.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118030-5apST4cSr5Wu.png",
-        "synonyms": [
-            "八月のシンデレラナイン",
-            "八月のシンデレラナイン (ONA)"
-        ],
-        "relations": [
-            "https://anilist.co/anime/104989"
-        ],
-        "tags": [
-            "music",
-            "primarily female cast",
             "sports"
         ],
         "date": {

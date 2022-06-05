@@ -1406,8 +1406,11 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/9869",
             "https://anime-planet.com/anime/din-dong",
-            "https://myanimelist.net/anime/9869"
+            "https://kitsu.io/anime/5912",
+            "https://myanimelist.net/anime/9869",
+            "https://notify.moe/anime/l4lMtKmig"
         ],
         "title": "Din Dong",
         "type": "ona",
@@ -1420,6 +1423,7 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/cancerfund-x-din-dong",
+            "https://kitsu.io/anime/43143",
             "https://myanimelist.net/anime/38398",
             "https://myanimelist.net/anime/43321"
         ],
@@ -1432,33 +1436,6 @@
             "non-human protagonists",
             "parody",
             "short episodes"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/9869",
-            "https://kitsu.io/anime/5912",
-            "https://notify.moe/anime/l4lMtKmig"
-        ],
-        "title": "Din Dong",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/5912/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/5912/tiny.jpg",
-        "synonyms": [
-            "癲噹"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/43143"
-        ],
-        "tags": [
-            "comedy",
-            "parody"
         ],
         "date": {
             "season": "winter",

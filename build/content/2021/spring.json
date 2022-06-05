@@ -2132,35 +2132,8 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/44087"
-        ],
-        "title": "DOTA: Dragon's Blood",
-        "type": "ona",
-        "episodes": 8,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44087/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44087/tiny.jpg",
-        "synonyms": [
-            "Dragon's Blood"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/44413"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "anime influenced",
-            "dragon",
-            "fantasy"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/134289",
+            "https://anime-planet.com/anime/harumaki-gohan-daisan-no-shinzou",
             "https://kitsu.io/anime/44904",
             "https://myanimelist.net/anime/49014"
         ],
@@ -2171,6 +2144,8 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1696/115017.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1696/115017t.jpg",
         "synonyms": [
+            "Harumaki Gohan: Daisan no Shinzou",
+            "Harumaki Gohan: The Third Heart",
             "The Third Heart",
             "第三の心臓"
         ],
@@ -2179,7 +2154,8 @@
         ],
         "tags": [
             "music",
-            "psychological"
+            "psychological",
+            "vocaloid"
         ],
         "date": {
             "season": "spring",
@@ -2526,6 +2502,46 @@
             "sumo",
             "sumo wrestling",
             "wrestling"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/dota-dragons-blood",
+            "https://kitsu.io/anime/44087",
+            "https://myanimelist.net/anime/51826",
+            "https://notify.moe/anime/bEnYajwMR"
+        ],
+        "title": "Dota : Dragon's Blood",
+        "type": "ona",
+        "episodes": 8,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1403/123811.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1403/123811t.jpg",
+        "synonyms": [
+            "DOTA: Dragon's Blood",
+            "DOTA: Yong-ui Pi",
+            "Dota : Yongui Pi",
+            "Dragon's Blood",
+            "도타: 용의 피"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/dota-dragons-blood-2nd-season",
+            "https://kitsu.io/anime/44413"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "anime influenced",
+            "based on a video game",
+            "body sharing",
+            "dragon",
+            "dragons",
+            "fantasy",
+            "korean animation"
         ],
         "date": {
             "season": "spring",
@@ -3362,6 +3378,7 @@
     {
         "sources": [
             "https://anilist.co/anime/139120",
+            "https://anime-planet.com/anime/hiiragi-kirai-eureka",
             "https://kitsu.io/anime/44697",
             "https://myanimelist.net/anime/49054"
         ],
@@ -3372,13 +3389,16 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1940/115161.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1940/115161t.jpg",
         "synonyms": [
+            "Hiiragi Kirai: Eureka",
             "エウレカ"
         ],
         "relations": [],
         "tags": [
+            "abstract",
             "baseball",
             "music",
-            "psychological"
+            "psychological",
+            "vocaloid"
         ],
         "date": {
             "season": "spring",

@@ -3653,6 +3653,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/t-sensei-dont-cry",
             "https://kitsu.io/anime/40871",
             "https://myanimelist.net/anime/36248",
             "https://notify.moe/anime/e2pOhKiig"
@@ -3669,13 +3670,16 @@
             "Mr. T",
             "My teacher",
             "My teacher, Mr. T",
+            "T-Sensei: Don't Cry",
             "T-sensei"
         ],
         "relations": [
+            "https://anime-planet.com/anime/t-sensei",
             "https://kitsu.io/anime/13479",
             "https://myanimelist.net/anime/35004"
         ],
         "tags": [
+            "based on a manga",
             "childcare",
             "music",
             "school",
@@ -3772,6 +3776,7 @@
     {
         "sources": [
             "https://anilist.co/anime/140078",
+            "https://anime-planet.com/anime/harumaki-gohan-dreamless-dreams",
             "https://anisearch.com/anime/12726",
             "https://myanimelist.net/anime/41044"
         ],
@@ -3782,6 +3787,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1601/105364.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1601/105364t.jpg",
         "synonyms": [
+            "Harumaki Gohan: Dreamless Dreams",
             "Hatsune Miku: Dreamless Dreams",
             "ドリームレス・ドリームス"
         ],
@@ -3790,7 +3796,8 @@
             "alternative world",
             "drama",
             "indefinite",
-            "music"
+            "music",
+            "vocaloid"
         ],
         "date": {
             "season": "spring",
@@ -5183,6 +5190,7 @@
     {
         "sources": [
             "https://anilist.co/anime/148680",
+            "https://anime-planet.com/anime/loin-haita",
             "https://kitsu.io/anime/43451",
             "https://myanimelist.net/anime/39173"
         ],
@@ -5194,11 +5202,13 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1657/98689t.jpg",
         "synonyms": [
             "Loin",
+            "Loin: Haita",
             "ハイタ"
         ],
         "relations": [],
         "tags": [
-            "music"
+            "music",
+            "vocaloid"
         ],
         "date": {
             "season": "spring",

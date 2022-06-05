@@ -2653,6 +2653,9 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/14228",
+            "https://anime-planet.com/anime/dot-bit-retro-boku-dake-no-kusogee",
+            "https://anisearch.com/anime/14078",
             "https://myanimelist.net/anime/38007"
         ],
         "title": "Dot Bit Retro: Boku Dake no Kusoge",
@@ -2662,33 +2665,8 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1705/108115.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1705/108115t.jpg",
         "synonyms": [
-            "Dot Bit Retro - ぼくだけのクソゲー"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "fantasy",
-            "slice of life"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/14228",
-            "https://anime-planet.com/anime/dot-bit-retro-boku-dake-no-kusogee",
-            "https://anisearch.com/anime/14078"
-        ],
-        "title": "Dot Bit Retro: Boku Dake no Kusogee",
-        "type": "ona",
-        "episodes": 10,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/dot-bit-retro-boku-dake-no-kusogee-1.jpg?t=1625898612",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/dot-bit-retro-boku-dake-no-kusogee-1-190x285.jpg?t=1625898612",
-        "synonyms": [
             "Dot Bit Retro - ぼくだけのクソゲー",
+            "Dot Bit Retro: Boku Dake no Kusogee",
             "Dot Bit Retro: Boku Dake no Kusogē",
             "Dot Bit Retro: Boku dake no Kusogee"
         ],
@@ -3845,6 +3823,7 @@
     {
         "sources": [
             "https://anilist.co/anime/126888",
+            "https://anime-planet.com/anime/god-eater-rezo-nantoka-gekijou-episode-ex",
             "https://kitsu.io/anime/42854",
             "https://myanimelist.net/anime/38433"
         ],
@@ -3856,19 +3835,28 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1644/95139t.jpg",
         "synonyms": [
             "GOD EATER レゾなんとか劇場",
-            "GOD EATER レゾなんとか劇場 #EX"
+            "GOD EATER レゾなんとか劇場 #EX",
+            "God Eater Rezo Nantoka Gekijou: Episode EX"
         ],
         "relations": [
             "https://anilist.co/anime/110344",
+            "https://anime-planet.com/anime/god-eater-rezo-nantoka-gekijou",
+            "https://anime-planet.com/anime/god-eater-rezo-nantoka-gekijou-episode-0",
             "https://kitsu.io/anime/42853",
             "https://myanimelist.net/anime/37265"
         ],
         "tags": [
+            "based on a mobile game",
+            "chibi",
+            "comedy",
             "fantasy",
             "military",
             "parody",
+            "person in a strange world",
             "sci-fi",
-            "science fiction"
+            "science fiction",
+            "short episodes",
+            "slice of life"
         ],
         "date": {
             "season": "summer",

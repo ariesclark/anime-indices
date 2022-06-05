@@ -3277,6 +3277,7 @@
     {
         "sources": [
             "https://anilist.co/anime/122534",
+            "https://anime-planet.com/anime/tripshots-gift-nor-art",
             "https://kitsu.io/anime/43453",
             "https://myanimelist.net/anime/39281"
         ],
@@ -3287,12 +3288,15 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1078/99092.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1078/99092t.jpg",
         "synonyms": [
-            "HSP&Tripshots ft. Hatsune Miku"
+            "HSP&Tripshots ft. Hatsune Miku",
+            "Tripshots: Gift nor Art"
         ],
         "relations": [],
         "tags": [
+            "cg animation",
             "full cgi",
-            "music"
+            "music",
+            "vocaloid"
         ],
         "date": {
             "season": "fall",
@@ -3661,6 +3665,7 @@
     },
     {
         "sources": [
+            "https://anisearch.com/anime/8958",
             "https://kitsu.io/anime/7811",
             "https://livechart.me/anime/5013",
             "https://myanimelist.net/anime/18343"
@@ -3672,9 +3677,15 @@
         "picture": "https://cdn.myanimelist.net/images/anime/2/49297.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/2/49297t.jpg",
         "synonyms": [
+            "Girls und Panzer: Akiyama Yukari no Sensha Kouza",
+            "Girls und Panzer: Akiyama Yukari no Sensha Kōza",
             "Girls und Panzer: Akiyama Yukari's Tank Corner",
             "Girls und Panzer: Akiyama Yukari's Tank Course",
             "Girls und Panzer: Akiyama Yukari's Tank Course Girls und Panzer: Akiyama Yukari's Tank Corner",
+            "Girls und Panzer: Akiyama Yukaris Tank Corner",
+            "Girls und Panzer: Akiyama Yukaris Tank Course",
+            "The Humble Akiyama Yukari`s Tank Course",
+            "ガールズ&パンツァー 不肖・秋山優花里の戦車講座",
             "ガールズ＆パンツァー 不肖・秋山優花里の戦車講座"
         ],
         "relations": [
@@ -3684,7 +3695,11 @@
             "https://myanimelist.net/anime/29853"
         ],
         "tags": [
+            "action",
+            "indefinite",
             "military",
+            "moe",
+            "present",
             "school",
             "school life"
         ],

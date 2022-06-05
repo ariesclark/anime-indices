@@ -592,6 +592,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/121750",
             "https://kitsu.io/anime/9822",
             "https://myanimelist.net/anime/27567",
             "https://notify.moe/anime/txeYtKmmg"
@@ -604,45 +605,21 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/12/66771t.jpg",
         "synonyms": [
             "Fushigi Yuugi Special: Watase Yuu Selection",
+            "Fushigi Yuugi: Nakago Shikkari Shinasai!",
+            "Hang in There Nakago!",
+            "ふしぎ遊戯 心宿しっかりしなさい！",
             "ふしぎ遊戯スペシャル 心宿しっかりしなさい！"
         ],
         "relations": [
+            "https://anilist.co/anime/123",
             "https://kitsu.io/anime/102",
             "https://myanimelist.net/anime/123",
             "https://notify.moe/anime/fxat5FimR"
         ],
         "tags": [
             "comedy",
+            "parody",
             "shoujo"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 1996
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/121750"
-        ],
-        "title": "Fushigi Yuugi: Nakago Shikkari Shinasai!",
-        "type": "special",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121750-8Fa43HX3N8Vp.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121750-8Fa43HX3N8Vp.png",
-        "synonyms": [
-            "Fushigi Yuugi Special: Nakago Shikkari Shinasai!",
-            "Fushigi Yuugi Special: Watase Yuu Selection",
-            "Hang in There Nakago!",
-            "ふしぎ遊戯 心宿しっかりしなさい！",
-            "ふしぎ遊戯スペシャル 心宿しっかりしなさい！"
-        ],
-        "relations": [
-            "https://anilist.co/anime/123"
-        ],
-        "tags": [
-            "comedy",
-            "parody"
         ],
         "date": {
             "season": "summer",
