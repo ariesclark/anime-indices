@@ -10486,6 +10486,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/15077",
             "https://kitsu.io/anime/42698",
             "https://myanimelist.net/anime/40670"
         ],
@@ -10496,16 +10497,21 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1223/104115.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1223/104115t.jpg",
         "synonyms": [
-            "うさぎのモフィ"
+            "Usagi no Mofy (2012)",
+            "うさぎのモフィ",
+            "うさぎのモフィ (2012)"
         ],
         "relations": [
+            "https://anidb.net/anime/15078",
+            "https://anidb.net/anime/9297",
             "https://kitsu.io/anime/42699",
             "https://myanimelist.net/anime/21713",
             "https://myanimelist.net/anime/40671"
         ],
         "tags": [
             "anthropomorphism",
-            "kids"
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "winter",

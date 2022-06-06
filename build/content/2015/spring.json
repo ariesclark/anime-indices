@@ -9876,33 +9876,6 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/1300"
-        ],
-        "title": "Papa no Iukoto o Kikinasai!: Ijin-tachi to no Haru",
-        "type": "ova",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/1300/poster_image/1f34fcefcc6d440186be3a6af8d4f8a0.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/1300/poster_image/1f34fcefcc6d440186be3a6af8d4f8a0.jpg?style=small&format=jpg",
-        "synonyms": [
-            "パパのいうことを聞きなさい! OVA"
-        ],
-        "relations": [
-            "https://livechart.me/anime/1080",
-            "https://livechart.me/anime/1158"
-        ],
-        "tags": [
-            "comedy",
-            "romance",
-            "slice of life"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/20737",
             "https://anime-planet.com/anime/persona-3-the-movie-3-falling-down",
             "https://kitsu.io/anime/8711",
@@ -12170,6 +12143,7 @@
             "https://anime-planet.com/anime/typhoon-noruda",
             "https://anisearch.com/anime/10387",
             "https://kitsu.io/anime/10869",
+            "https://livechart.me/anime/1509",
             "https://myanimelist.net/anime/30585",
             "https://notify.moe/anime/N0p_pKiiR"
         ],
@@ -12181,6 +12155,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/8/73450t.jpg",
         "synonyms": [
             "Taifu no Noruda",
+            "Taifuu no Naruda",
             "Taifū no Noruda",
             "Tifón Noruda",
             "Typhoon Noruda",
@@ -13153,31 +13128,8 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/1438"
-        ],
-        "title": "Transformers Adventure",
-        "type": "tv",
-        "episodes": 13,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/1438/poster_image/cea303d1dde028aca6fb341b97e22c40.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/1438/poster_image/cea303d1dde028aca6fb341b97e22c40.jpg?style=small&format=jpg",
-        "synonyms": [
-            "Transformers Robots in Disguise 2015",
-            "トランスフォーマーアドベンチャー"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "sci-fi"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://kitsu.io/anime/12252",
+            "https://livechart.me/anime/1438",
             "https://notify.moe/anime/82YRhFmmg"
         ],
         "title": "Transformers: Robots in Disguise (2015)",
@@ -13186,10 +13138,15 @@
         "status": "finished",
         "picture": "https://media.kitsu.io/anime/poster_images/12252/small.jpg",
         "thumbnail": "https://media.kitsu.io/anime/poster_images/12252/tiny.jpg",
-        "synonyms": [],
+        "synonyms": [
+            "Transformers Adventure",
+            "Transformers Robots in Disguise 2015",
+            "トランスフォーマーアドベンチャー"
+        ],
         "relations": [],
         "tags": [
             "action",
+            "adventure",
             "anime influenced",
             "mecha",
             "sci-fi",

@@ -4184,19 +4184,24 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/14896"
+            "https://anidb.net/anime/14896",
+            "https://myanimelist.net/anime/43961"
         ],
-        "title": "Xiao Bei Liu Lang Ji",
+        "title": "Xiao Bei Liulang Ji",
         "type": "tv",
         "episodes": 10,
         "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/233165.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/233165.jpg-thumb.jpg",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "Xiao Bei Liu Lang Ji",
             "小贝流浪记"
         ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "adventure",
+            "kids"
+        ],
         "date": {
             "season": "winter",
             "year": 1999

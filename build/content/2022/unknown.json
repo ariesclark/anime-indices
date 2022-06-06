@@ -4558,47 +4558,35 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/17058"
-        ],
-        "title": "Shaonian Bai Ma Zui Chun Feng",
-        "type": "ona",
-        "episodes": 20,
-        "status": "upcoming",
-        "picture": "https://cdn.anidb.net/images/main/267760.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/267760.jpg-thumb.jpg",
-        "synonyms": [
-            "少年白马醉春风"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
+            "https://anidb.net/anime/17058",
             "https://anilist.co/anime/133730",
+            "https://anime-planet.com/anime/shaonian-bai-ma-zui-chunfeng",
             "https://kitsu.io/anime/44498",
             "https://myanimelist.net/anime/48867"
         ],
         "title": "Shaonian Baima Zui Chunfeng",
         "type": "ona",
-        "episodes": 0,
+        "episodes": 20,
         "status": "upcoming",
         "picture": "https://cdn.myanimelist.net/images/anime/1568/114690.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1568/114690t.jpg",
         "synonyms": [
             "Shaonian Bai Ma Zui Chun Feng",
+            "Shaonian Bai Ma Zui Chunfeng",
             "少年白马醉春风"
         ],
         "relations": [
             "https://anilist.co/anime/108715",
+            "https://anime-planet.com/anime/shaonian-gexing",
             "https://kitsu.io/anime/42931",
             "https://myanimelist.net/anime/38918"
         ],
         "tags": [
             "action",
+            "adventure",
+            "based on a web novel",
+            "cg animation",
+            "chinese animation",
             "fantasy",
             "full cgi",
             "historical",

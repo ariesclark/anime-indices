@@ -3001,43 +3001,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/4169"
-        ],
-        "title": "Kidou Senshi Gundam SEED: Kokuu no Senjou",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/10143.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/10143.jpg-thumb.jpg",
-        "synonyms": [
-            "GS SE I",
-            "GS Special Edition I",
-            "Gundam SEED - Das leere Schlachtfeld",
-            "Kidou Senshi Gundam SEED Special Edition I: Kokuu no Senjou",
-            "Mobile Suit Gundam SEED: Movie I - The Empty Battlefield",
-            "機動戦士ガンダムSEED -虚空の戦場-",
-            "機動戦士ガンダムSEED スペシャルエディション 虚空の戦場"
-        ],
-        "relations": [
-            "https://anidb.net/anime/252",
-            "https://anidb.net/anime/4168"
-        ],
-        "tags": [
-            "action",
-            "genetic modification",
-            "mecha",
-            "new",
-            "piloted robot",
-            "science fiction",
-            "shounen"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2004
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/12839",
             "https://anilist.co/anime/103982",
             "https://anime-planet.com/anime/ken-hirai-kimi-wa-tomodachi",
@@ -3968,6 +3931,59 @@
             "space",
             "super robots",
             "war"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2004
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/4169",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-i-the-empty-battlefield"
+        ],
+        "title": "Mobile Suit Gundam SEED Movie I: The Empty Battlefield",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/mobile-suit-gundam-seed-movie-i-the-empty-battlefield-1.jpg?t=1625886479",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/mobile-suit-gundam-seed-movie-i-the-empty-battlefield-1-190x268.jpg?t=1625886479",
+        "synonyms": [
+            "GS SE I",
+            "GS Special Edition I",
+            "Gundam SEED - Das leere Schlachtfeld",
+            "Kidou Senshi Gundam SEED Special Edition I: Kokuu no Senjou",
+            "Kidou Senshi Gundam SEED: Kokuu no Senjou",
+            "Mobile Suit Gundam SEED: Movie I - The Empty Battlefield",
+            "機動戦士ガンダムSEED -虚空の戦場-",
+            "機動戦士ガンダムSEED スペシャルエディション 虚空の戦場"
+        ],
+        "relations": [
+            "https://anidb.net/anime/252",
+            "https://anidb.net/anime/4168",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-after-phase-in-the-valley-of-stars",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-ce73-stargazer",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-character-theater",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-final-plus-the-chosen-future",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-i-the-broken-world",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-ii-respective-swords",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-iii-the-hell-fire-of-destiny",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-iv-the-cost-of-freedom",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-ii-the-far-away-dawn",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-iii-the-rumbling-sky",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-msv-astray"
+        ],
+        "tags": [
+            "action",
+            "genetic modification",
+            "mecha",
+            "new",
+            "piloted robot",
+            "sci fi",
+            "science fiction",
+            "shounen"
         ],
         "date": {
             "season": "winter",

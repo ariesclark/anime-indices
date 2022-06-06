@@ -7010,18 +7010,36 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/11041"
+            "https://anidb.net/anime/7399",
+            "https://anilist.co/anime/8287",
+            "https://anime-planet.com/anime/sd-gundam-sangokuden-brave-battle-warriors",
+            "https://anisearch.com/anime/6092",
+            "https://kitsu.io/anime/5277",
+            "https://livechart.me/anime/11041",
+            "https://myanimelist.net/anime/8287",
+            "https://notify.moe/anime/xbnitFiiR"
         ],
-        "title": "SD Gundam Sangokuden",
+        "title": "SD Gundam Sangokuden Brave Battle Warriors",
         "type": "tv",
         "episodes": 51,
         "status": "finished",
-        "picture": "https://u.livechart.me/anime/11041/poster_image/29a1b7cedfd121c4b1ad92d1d2281a0c.webp?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/11041/poster_image/29a1b7cedfd121c4b1ad92d1d2281a0c.webp?style=small&format=jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/6/21471.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/6/21471t.jpg",
         "synonyms": [
-            "SDガンダム三国伝 Brave Battle Warriors"
+            "BB Senshi",
+            "SD Gundam Sangokuden",
+            "SD Gundam Sangokuden Brave Battle Warriors TV",
+            "SDガンダム三国伝 Brave Battle Warriors",
+            "SDガンダム三国伝 BraveBattleWarriors",
+            "SD高达三国传 BraveBattleWarriors"
         ],
         "relations": [
+            "https://anidb.net/anime/7245",
+            "https://anilist.co/anime/80",
+            "https://anilist.co/anime/8132",
+            "https://kitsu.io/anime/42472",
+            "https://kitsu.io/anime/5206",
+            "https://kitsu.io/anime/59",
             "https://livechart.me/anime/10218",
             "https://livechart.me/anime/10793",
             "https://livechart.me/anime/11042",
@@ -7036,48 +7054,7 @@
             "https://livechart.me/anime/7662",
             "https://livechart.me/anime/7717",
             "https://livechart.me/anime/7848",
-            "https://livechart.me/anime/8362"
-        ],
-        "tags": [
-            "action",
-            "historical",
-            "mecha"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/7399",
-            "https://anilist.co/anime/8287",
-            "https://anime-planet.com/anime/sd-gundam-sangokuden-brave-battle-warriors",
-            "https://anisearch.com/anime/6092",
-            "https://kitsu.io/anime/5277",
-            "https://myanimelist.net/anime/8287",
-            "https://notify.moe/anime/xbnitFiiR"
-        ],
-        "title": "SD Gundam Sangokuden Brave Battle Warriors",
-        "type": "tv",
-        "episodes": 51,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/6/21471.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/6/21471t.jpg",
-        "synonyms": [
-            "BB Senshi",
-            "SD Gundam Sangokuden Brave Battle Warriors TV",
-            "SDガンダム三国伝 Brave Battle Warriors",
-            "SDガンダム三国伝 BraveBattleWarriors",
-            "SD高达三国传 BraveBattleWarriors"
-        ],
-        "relations": [
-            "https://anidb.net/anime/7245",
-            "https://anilist.co/anime/80",
-            "https://anilist.co/anime/8132",
-            "https://kitsu.io/anime/42472",
-            "https://kitsu.io/anime/5206",
-            "https://kitsu.io/anime/59",
+            "https://livechart.me/anime/8362",
             "https://myanimelist.net/anime/38715",
             "https://myanimelist.net/anime/80",
             "https://myanimelist.net/anime/8132",

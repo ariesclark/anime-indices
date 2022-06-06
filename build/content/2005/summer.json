@@ -177,7 +177,11 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/akahori-gedou-hour-rabuge-gedou-otometai"
+            "https://anidb.net/anime/2841",
+            "https://anilist.co/anime/491",
+            "https://anime-planet.com/anime/akahori-gedou-hour-rabuge-gedou-otometai",
+            "https://kitsu.io/anime/452",
+            "https://notify.moe/anime/89KocFiig"
         ],
         "title": "Akahori Gedou Hour Rabuge: Sore Yuke! Gedou Otometai",
         "type": "tv",
@@ -185,18 +189,41 @@
         "status": "finished",
         "picture": "https://cdn.anime-planet.com/anime/primary/akahori-gedou-hour-rabuge-gedou-otometai-1.jpg?t=1625896080",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/akahori-gedou-hour-rabuge-gedou-otometai-1-190x271.jpg?t=1625896080",
-        "synonyms": [],
+        "synonyms": [
+            "Akahori Gedou Hour Rabuge",
+            "Akahori Gedou Hour Rabuge (part 2)",
+            "Akahori's Heretical Hour Love Game",
+            "Gedou Otometai",
+            "Rabuge 2",
+            "Sore Yuke! Gedou Otometai",
+            "Soreyuke! Gedou Otometai",
+            "あかほり外道アワーらぶげ part 2",
+            "それゆけ! 外道乙女隊",
+            "それゆけ!外道乙女隊",
+            "外道乙女隊"
+        ],
         "relations": [
+            "https://anidb.net/anime/2840",
+            "https://anilist.co/anime/309",
             "https://anime-planet.com/anime/akahori-gedou-hour-rabuge-zettai-seigi-love-pheromone"
         ],
         "tags": [
             "comedy",
             "demons",
+            "earth",
+            "family",
+            "half-length episodes",
             "henshin heroes",
+            "japan",
             "magic",
             "magical girl",
             "original work",
-            "overpowered main characters"
+            "overpowered main characters",
+            "parody",
+            "primarily female cast",
+            "real robot",
+            "slapstick",
+            "witch"
         ],
         "date": {
             "season": "summer",
@@ -1669,34 +1696,6 @@
             "sci-fi",
             "science fiction",
             "shounen"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2005
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/452"
-        ],
-        "title": "Gedou Otometai",
-        "type": "tv",
-        "episodes": 13,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/452/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/452/tiny.jpg",
-        "synonyms": [
-            "Akahori's Heretical Hour Love Game"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "earth",
-            "family",
-            "japan",
-            "magic",
-            "magical girl",
-            "slapstick"
         ],
         "date": {
             "season": "summer",
@@ -5148,72 +5147,6 @@
             "food protagonists",
             "kids",
             "non-human protagonists"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2005
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/2841"
-        ],
-        "title": "Sore Yuke! Gedou Otometai",
-        "type": "tv",
-        "episodes": 13,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/233517.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/233517.jpg-thumb.jpg",
-        "synonyms": [
-            "Akahori Gedou Hour Rabuge (part 2)",
-            "Gedou Otometai",
-            "Rabuge 2",
-            "あかほり外道アワーらぶげ part 2",
-            "それゆけ! 外道乙女隊",
-            "外道乙女隊"
-        ],
-        "relations": [
-            "https://anidb.net/anime/2840"
-        ],
-        "tags": [
-            "comedy",
-            "half-length episodes",
-            "magic",
-            "magical girl"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2005
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/491",
-            "https://notify.moe/anime/89KocFiig"
-        ],
-        "title": "Soreyuke! Gedou Otometai",
-        "type": "tv",
-        "episodes": 13,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/491.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/491.jpg",
-        "synonyms": [
-            "Akahori Gedou Hour Rabuge",
-            "Akahori Gedou Hour Rabuge (part 2)",
-            "Akahori's Heretical Hour Love Game",
-            "Rabuge 2",
-            "それゆけ!外道乙女隊"
-        ],
-        "relations": [
-            "https://anilist.co/anime/309"
-        ],
-        "tags": [
-            "comedy",
-            "magic",
-            "parody",
-            "primarily female cast",
-            "real robot",
-            "witch"
         ],
         "date": {
             "season": "summer",

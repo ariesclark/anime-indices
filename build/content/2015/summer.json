@@ -7320,6 +7320,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/12842",
             "https://anilist.co/anime/103394",
             "https://anime-planet.com/anime/idolish7-monster-generation",
             "https://anisearch.com/anime/11588",
@@ -7343,6 +7344,7 @@
             "アイドリッシュセブン『MONSTER GENERATiON』"
         ],
         "relations": [
+            "https://anidb.net/anime/12339",
             "https://anilist.co/anime/87495",
             "https://anime-planet.com/anime/idolish7",
             "https://anime-planet.com/anime/idolish7-memories-melodies",
@@ -7982,28 +7984,6 @@
             "ecchi",
             "harem"
         ],
-        "date": {
-            "season": "summer",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/12842"
-        ],
-        "title": "Monster Generation",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/198594.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/198594.jpg-thumb.jpg",
-        "synonyms": [
-            "MONSTER GENERATiON"
-        ],
-        "relations": [
-            "https://anidb.net/anime/12339"
-        ],
-        "tags": [],
         "date": {
             "season": "summer",
             "year": 2015
@@ -9427,34 +9407,9 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/1614"
-        ],
-        "title": "Planetarium Chibi Maruko-chan, Hoshi ni Negai o",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/1614/poster_image/8c38bb34f9ea54e4939ff92b9274219f.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/1614/poster_image/8c38bb34f9ea54e4939ff92b9274219f.jpg?style=small&format=jpg",
-        "synonyms": [
-            "Planetarium Chibi Maruko-chan, Wish Upon a Star",
-            "プラネタリウム　ちびまる子ちゃん　星にねがいを"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "kids",
-            "school",
-            "slice of life"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/13904",
             "https://kitsu.io/anime/10998",
+            "https://livechart.me/anime/1614",
             "https://myanimelist.net/anime/30803",
             "https://notify.moe/anime/lQq_tFiig"
         ],
@@ -9466,6 +9421,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/5/74141t.jpg",
         "synonyms": [
             "Planetarium Chibi Maruko-chan",
+            "Planetarium Chibi Maruko-chan, Hoshi ni Negai o",
             "Planetarium Chibi Maruko-chan, Wish Upon a Star",
             "Planetarium Chibi Maruko-chan: Hoshi ni Negai o",
             "Planetarium Chibi Maruko-chan: Wish Upon a Star",
@@ -9500,50 +9456,11 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/1320"
-        ],
-        "title": "Pocket Monsters XY: Ring no Choumajin Hoopa",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/1320/poster_image/691c5fd1fa5b37a76b94f98071740765.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/1320/poster_image/691c5fd1fa5b37a76b94f98071740765.jpg?style=small&format=jpg",
-        "synonyms": [
-            "Pokémon the Movie: Hoopa and the Clash of Ages",
-            "ポケモン・ザ・ムービーXY 光輪[リング]の超魔神 フーパ"
-        ],
-        "relations": [
-            "https://livechart.me/anime/3702",
-            "https://livechart.me/anime/3816",
-            "https://livechart.me/anime/3936",
-            "https://livechart.me/anime/3979",
-            "https://livechart.me/anime/3992",
-            "https://livechart.me/anime/4045",
-            "https://livechart.me/anime/4148",
-            "https://livechart.me/anime/4505",
-            "https://livechart.me/anime/5217",
-            "https://livechart.me/anime/5359",
-            "https://livechart.me/anime/5371",
-            "https://livechart.me/anime/5627",
-            "https://livechart.me/anime/5641",
-            "https://livechart.me/anime/5643",
-            "https://livechart.me/anime/8945"
-        ],
-        "tags": [
-            "adventure",
-            "kids"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/10966",
             "https://anilist.co/anime/21266",
             "https://anime-planet.com/anime/pokemon-movie-18-hoopa-and-the-clash-of-ages",
             "https://kitsu.io/anime/8903",
+            "https://livechart.me/anime/1320",
             "https://myanimelist.net/anime/25805",
             "https://notify.moe/anime/ZuhxpKimR"
         ],
@@ -9555,6 +9472,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/4/72143t.jpg",
         "synonyms": [
             "Pocket Monsters XY: Ring no Chou Majin Hoopa",
+            "Pocket Monsters XY: Ring no Choumajin Hoopa",
             "Pokemon Movie 18",
             "Pokemon Movie 18: Hoopa and the Clash of Ages",
             "Pokemon XY: Movie 2",
@@ -9593,6 +9511,21 @@
             "https://kitsu.io/anime/10915",
             "https://kitsu.io/anime/11195",
             "https://kitsu.io/anime/7850",
+            "https://livechart.me/anime/3702",
+            "https://livechart.me/anime/3816",
+            "https://livechart.me/anime/3936",
+            "https://livechart.me/anime/3979",
+            "https://livechart.me/anime/3992",
+            "https://livechart.me/anime/4045",
+            "https://livechart.me/anime/4148",
+            "https://livechart.me/anime/4505",
+            "https://livechart.me/anime/5217",
+            "https://livechart.me/anime/5359",
+            "https://livechart.me/anime/5371",
+            "https://livechart.me/anime/5627",
+            "https://livechart.me/anime/5641",
+            "https://livechart.me/anime/5643",
+            "https://livechart.me/anime/8945",
             "https://myanimelist.net/anime/19291",
             "https://myanimelist.net/anime/28853",
             "https://myanimelist.net/anime/30686",
@@ -11529,30 +11462,6 @@
             "school life",
             "short episodes",
             "slice of life"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/1509"
-        ],
-        "title": "Taifuu no Naruda",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/1509/poster_image/5a5bc79b3d286fdc0ba495873f8388d4.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/1509/poster_image/5a5bc79b3d286fdc0ba495873f8388d4.jpg?style=small&format=jpg",
-        "synonyms": [
-            "Typhoon Noruda",
-            "台風のノルダ"
-        ],
-        "relations": [],
-        "tags": [
-            "drama",
-            "school"
         ],
         "date": {
             "season": "summer",

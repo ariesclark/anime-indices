@@ -10270,66 +10270,12 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/10555",
-            "https://notify.moe/anime/MskwpKiiR"
-        ],
-        "title": "Qin Shi Ming Yue Zhi Kong Shan Niao Yu",
-        "type": "ona",
-        "episodes": 3,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/10555/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/10555/tiny.jpg",
-        "synonyms": [
-            "Qin Shi Ming Yue: Kong Shan Niao Yu",
-            "Qin's Moon Special: Birdsong in Hollow Valley",
-            "秦时明月 特别篇：空山鸟语"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/7337",
-            "https://notify.moe/anime/sNyGhFmiR"
-        ],
-        "tags": [
-            "action",
-            "fantasy",
-            "historical",
-            "martial arts"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/13574"
-        ],
-        "title": "Qin Shi Mingyue Tebie Pian: Kongshan Niao Yu",
-        "type": "ona",
-        "episodes": 3,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/209506.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/209506.jpg-thumb.jpg",
-        "synonyms": [
-            "Qin`s Moon Special: Birdsong in Hollow Valley",
-            "秦时明月 特别篇: 空山鸟语"
-        ],
-        "relations": [
-            "https://anidb.net/anime/12479",
-            "https://anidb.net/anime/14656"
-        ],
-        "tags": [
-            "new"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
+            "https://anidb.net/anime/13574",
             "https://anilist.co/anime/109939",
             "https://anime-planet.com/anime/qin-shi-mingyue-kong-shan-niao-yu",
-            "https://myanimelist.net/anime/29935"
+            "https://kitsu.io/anime/10555",
+            "https://myanimelist.net/anime/29935",
+            "https://notify.moe/anime/MskwpKiiR"
         ],
         "title": "Qin Shi Mingyue: Kong Shan Niao Yu",
         "type": "ona",
@@ -10338,11 +10284,18 @@
         "picture": "https://cdn.myanimelist.net/images/anime/12/71868.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/12/71868t.jpg",
         "synonyms": [
+            "Qin Shi Ming Yue Zhi Kong Shan Niao Yu",
+            "Qin Shi Ming Yue: Kong Shan Niao Yu",
+            "Qin Shi Mingyue Tebie Pian: Kongshan Niao Yu",
             "Qin's Moon Special: Birdsong in Hollow Valley",
+            "Qin`s Moon Special: Birdsong in Hollow Valley",
+            "秦时明月 特别篇: 空山鸟语",
             "秦时明月 特别篇： 空山鸟语",
             "秦时明月 特别篇：空山鸟语"
         ],
         "relations": [
+            "https://anidb.net/anime/12479",
+            "https://anidb.net/anime/14656",
             "https://anilist.co/anime/15905",
             "https://anime-planet.com/anime/qin-shi-mingyue-3d-dianying-longteng-wanli",
             "https://anime-planet.com/anime/qin-shi-mingyue-canghai-hengliu",
@@ -10354,13 +10307,15 @@
             "https://anime-planet.com/anime/qin-shi-mingyue-yi-zhe-ru-shi",
             "https://anime-planet.com/anime/qin-shi-mingyue-zhu-zi-bai-jia",
             "https://anime-planet.com/anime/the-legend-of-qin",
+            "https://kitsu.io/anime/7337",
             "https://myanimelist.net/anime/11835",
             "https://myanimelist.net/anime/11841",
             "https://myanimelist.net/anime/15905",
             "https://myanimelist.net/anime/29910",
             "https://myanimelist.net/anime/29936",
             "https://myanimelist.net/anime/36732",
-            "https://myanimelist.net/anime/9806"
+            "https://myanimelist.net/anime/9806",
+            "https://notify.moe/anime/sNyGhFmiR"
         ],
         "tags": [
             "action",
@@ -10372,6 +10327,7 @@
             "full cgi",
             "historical",
             "martial arts",
+            "new",
             "romance",
             "wuxia"
         ],

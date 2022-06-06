@@ -391,7 +391,12 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/angels-of-death-web"
+            "https://anilist.co/anime/104243",
+            "https://anime-planet.com/anime/angels-of-death-web",
+            "https://anisearch.com/anime/13913",
+            "https://kitsu.io/anime/41963",
+            "https://livechart.me/anime/3530",
+            "https://notify.moe/anime/8KGWmvAig"
         ],
         "title": "Angels of Death (Web)",
         "type": "ona",
@@ -400,22 +405,59 @@
         "picture": "https://cdn.anime-planet.com/anime/primary/angels-of-death-web-1.jpg?t=1625898724",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/angels-of-death-web-1-190x271.jpg?t=1625898724",
         "synonyms": [
-            "Satsuriku no Tenshi (Web)"
+            "Angel of Massacre (2018)",
+            "Angel of Massacre ONA",
+            "Angel of Slaughter (2018)",
+            "Angel of Slaughter ONA",
+            "Angels of Death (2018)",
+            "Angels of Death (Episoden 13-16)",
+            "Angels of Death (Episodes 13-16)",
+            "Angels of Death (Episodi 13-16)",
+            "Angels of Death (ONA)",
+            "Angels of Death (Épisodes 13-16)",
+            "Angels of Death ONA",
+            "Angels of Death Specials",
+            "Satsuriku no Tenshi (2018)",
+            "Satsuriku no Tenshi (ONA)",
+            "Satsuriku no Tenshi (Web)",
+            "Satsuriku no Tenshi ONA",
+            "Satsuriku no Tenshi Specials",
+            "殺戮の天使",
+            "殺戮の天使 (ONA)",
+            "殺戮の天使 （2018）"
         ],
         "relations": [
-            "https://anime-planet.com/anime/angels-of-death"
+            "https://anilist.co/anime/99629",
+            "https://anime-planet.com/anime/angels-of-death",
+            "https://anisearch.com/anime/12660",
+            "https://kitsu.io/anime/13715",
+            "https://livechart.me/anime/2805",
+            "https://notify.moe/anime/I-3V2Kimg"
         ],
         "tags": [
             "action",
+            "adventure",
+            "anti-hero",
             "based on a video game",
             "criminals",
             "drama",
+            "female protagonist",
+            "gore",
             "horror",
             "mystery",
+            "older man, younger woman",
             "orphans",
             "psychological",
+            "psychological drama",
+            "romance",
             "serial killers",
-            "thriller"
+            "slapstick",
+            "supernatural drama",
+            "survival",
+            "swords & co",
+            "thriller",
+            "tragedy",
+            "violence"
         ],
         "date": {
             "season": "fall",
@@ -9466,6 +9508,7 @@
             "https://anilist.co/anime/101369",
             "https://anime-planet.com/anime/peace-maker-kurogane-friend",
             "https://kitsu.io/anime/41625",
+            "https://livechart.me/anime/2933",
             "https://myanimelist.net/anime/36556"
         ],
         "title": "Peace Maker Kurogane Movie 2: Yuumei",
@@ -9478,7 +9521,10 @@
             "PEACE MAKER KUROGANE – Belief & Friend",
             "PEACE MAKER Kurogane: Yuumei",
             "PEACE MAKER 鐵 ～ユウメイ～",
+            "PEACE MAKER 鐵 ～友命（ユウメイ）～",
             "PEACE MAKER 鐵～友命～",
+            "Peace Maker Kurogane Part 2: Friend",
+            "Peace Maker Kurogane Part 2: Yuumei",
             "Peace Maker Kurogane: Friend",
             "Peace Maker Kurogane: Yuumei",
             "Peacemaker Kurogane: Friend"
@@ -9487,10 +9533,14 @@
             "https://anilist.co/anime/21770",
             "https://anime-planet.com/anime/peace-maker-kurogane",
             "https://anime-planet.com/anime/peace-maker-kurogane-belief",
+            "https://livechart.me/anime/2157",
+            "https://livechart.me/anime/4368",
+            "https://livechart.me/anime/8769",
             "https://myanimelist.net/anime/33185"
         ],
         "tags": [
             "action",
+            "adventure",
             "based on a manga",
             "comedy",
             "drama",
@@ -9501,36 +9551,6 @@
             "shounen",
             "swordplay",
             "war"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/2933"
-        ],
-        "title": "Peace Maker Kurogane Part 2: Yuumei",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/2933/poster_image/f36f3647d0fcc150f59e6d487153bca6.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/2933/poster_image/f36f3647d0fcc150f59e6d487153bca6.png?style=small&format=jpg",
-        "synonyms": [
-            "PEACE MAKER 鐵 ～友命（ユウメイ）～",
-            "Peace Maker Kurogane Part 2: Friend"
-        ],
-        "relations": [
-            "https://livechart.me/anime/2157",
-            "https://livechart.me/anime/4368",
-            "https://livechart.me/anime/8769"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "historical",
-            "shounen"
         ],
         "date": {
             "season": "fall",
@@ -10784,119 +10804,6 @@
             "seinen",
             "super power",
             "war"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/13913"
-        ],
-        "title": "Satsuriku no Tenshi (2018)",
-        "type": "ona",
-        "episodes": 4,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/13/13913.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/13/13913.webp",
-        "synonyms": [
-            "Angel of Massacre (2018)",
-            "Angel of Slaughter (2018)",
-            "Angels of Death (2018)",
-            "Angels of Death (Episoden 13-16)",
-            "Angels of Death (Episodes 13-16)",
-            "Angels of Death (Episodi 13-16)",
-            "Angels of Death (Épisodes 13-16)",
-            "殺戮の天使 （2018）"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/12660"
-        ],
-        "tags": [
-            "action",
-            "drama",
-            "horror",
-            "older man, younger woman",
-            "psychological drama",
-            "romance",
-            "slapstick",
-            "supernatural drama",
-            "swords & co",
-            "thriller",
-            "tragedy"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/104243",
-            "https://kitsu.io/anime/41963",
-            "https://notify.moe/anime/8KGWmvAig"
-        ],
-        "title": "Satsuriku no Tenshi ONA",
-        "type": "ona",
-        "episodes": 4,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/41963/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/41963/tiny.jpg",
-        "synonyms": [
-            "Angel of Massacre ONA",
-            "Angel of Slaughter ONA",
-            "Angels of Death (ONA)",
-            "Angels of Death ONA",
-            "Satsuriku no Tenshi (ONA)",
-            "殺戮の天使",
-            "殺戮の天使 (ONA)"
-        ],
-        "relations": [
-            "https://anilist.co/anime/99629",
-            "https://kitsu.io/anime/13715",
-            "https://notify.moe/anime/I-3V2Kimg"
-        ],
-        "tags": [
-            "adventure",
-            "anti-hero",
-            "female protagonist",
-            "gore",
-            "horror",
-            "mystery",
-            "psychological",
-            "survival",
-            "thriller",
-            "tragedy",
-            "violence"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/3530"
-        ],
-        "title": "Satsuriku no Tenshi Specials",
-        "type": "ona",
-        "episodes": 4,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/3530/poster_image/662fe77c7c2cde32e27a4a4513a9eece.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/3530/poster_image/662fe77c7c2cde32e27a4a4513a9eece.jpg?style=small&format=jpg",
-        "synonyms": [
-            "Angels of Death Specials",
-            "殺戮の天使"
-        ],
-        "relations": [
-            "https://livechart.me/anime/2805"
-        ],
-        "tags": [
-            "adventure",
-            "horror",
-            "mystery",
-            "psychological"
         ],
         "date": {
             "season": "fall",

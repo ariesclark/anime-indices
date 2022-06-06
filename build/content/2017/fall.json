@@ -12821,20 +12821,39 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/14888"
+            "https://anidb.net/anime/14888",
+            "https://anilist.co/anime/130866",
+            "https://anime-planet.com/anime/sanguo-yanyi"
         ],
-        "title": "San Guo Yan Yi",
+        "title": "Sanguo Yanyi",
         "type": "ona",
         "episodes": 40,
         "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/233062.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/233062.jpg-thumb.jpg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/sanguo-yanyi-1.jpg?t=1625908948",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/sanguo-yanyi-1-190x266.jpg?t=1625908948",
         "synonyms": [
+            "Romance Of Three Kingdoms",
+            "Romance of the Three Kingdoms",
             "Romance of the Three Kingdoms (2017)",
-            "三国演义"
+            "San Guo Yan Yi",
+            "三国演义",
+            "三国演义 第一季 群雄并起"
         ],
-        "relations": [],
-        "tags": [],
+        "relations": [
+            "https://anilist.co/anime/130873",
+            "https://anime-planet.com/anime/sanguo-yanyi-2nd-season-zhulu-zhongyuan"
+        ],
+        "tags": [
+            "action",
+            "cg animation",
+            "chinese animation",
+            "drama",
+            "full cgi",
+            "historical",
+            "romance of the three kingdoms",
+            "supernatural",
+            "war"
+        ],
         "date": {
             "season": "fall",
             "year": 2017

@@ -2176,22 +2176,29 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/15199"
+            "https://anidb.net/anime/15199",
+            "https://myanimelist.net/anime/43896",
+            "https://myanimelist.net/anime/45218"
         ],
-        "title": "Xiao Zhuoma",
+        "title": "Xiao Zhuo Ma",
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/239862.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/239862.jpg-thumb.jpg",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "Xiao Zhuoma",
             "小卓玛"
         ],
         "relations": [
-            "https://anidb.net/anime/15200"
+            "https://anidb.net/anime/15200",
+            "https://myanimelist.net/anime/43897",
+            "https://myanimelist.net/anime/45219"
         ],
         "tags": [
-            "half-length episodes"
+            "adventure",
+            "half-length episodes",
+            "kids"
         ],
         "date": {
             "season": "unknown",

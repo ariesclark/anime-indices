@@ -1724,43 +1724,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/4168"
-        ],
-        "title": "Kidou Senshi Gundam SEED: Harukanaru Akatsuki",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/10167.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/10167.jpg-thumb.jpg",
-        "synonyms": [
-            "GS SE II",
-            "GS Special Edition II",
-            "Kidou Senshi Gundam SEED Special Edition II: Harukanaru Akatsuki",
-            "Mobile Suit Gundam SEED: Movie II - The Far-Away Dawn",
-            "機動戦士ガンダムSEED -遥かなる暁-",
-            "機動戦士ガンダムSEED スペシャルエディションII 遥かなる暁"
-        ],
-        "relations": [
-            "https://anidb.net/anime/252",
-            "https://anidb.net/anime/4165",
-            "https://anidb.net/anime/4169"
-        ],
-        "tags": [
-            "action",
-            "genetic modification",
-            "mecha",
-            "new",
-            "piloted robot",
-            "science fiction",
-            "shounen"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2004
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/698",
             "https://myanimelist.net/anime/2434"
         ],
@@ -2860,6 +2823,59 @@
             "space",
             "super robot",
             "war"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2004
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/4168",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-ii-the-far-away-dawn"
+        ],
+        "title": "Mobile Suit Gundam SEED Movie II: The Far-Away Dawn",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/mobile-suit-gundam-seed-movie-ii-the-far-away-dawn-1.jpg?t=1625886480",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/mobile-suit-gundam-seed-movie-ii-the-far-away-dawn-1-190x266.jpg?t=1625886480",
+        "synonyms": [
+            "GS SE II",
+            "GS Special Edition II",
+            "Kidou Senshi Gundam SEED Special Edition II: Harukanaru Akatsuki",
+            "Kidou Senshi Gundam SEED: Harukanaru Akatsuki",
+            "Mobile Suit Gundam SEED: Movie II - The Far-Away Dawn",
+            "機動戦士ガンダムSEED -遥かなる暁-",
+            "機動戦士ガンダムSEED スペシャルエディションII 遥かなる暁"
+        ],
+        "relations": [
+            "https://anidb.net/anime/252",
+            "https://anidb.net/anime/4165",
+            "https://anidb.net/anime/4169",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-after-phase-in-the-valley-of-stars",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-ce73-stargazer",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-character-theater",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-final-plus-the-chosen-future",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-i-the-broken-world",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-ii-respective-swords",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-iii-the-hell-fire-of-destiny",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-iv-the-cost-of-freedom",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-i-the-empty-battlefield",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-iii-the-rumbling-sky",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-msv-astray"
+        ],
+        "tags": [
+            "action",
+            "genetic modification",
+            "mecha",
+            "new",
+            "piloted robot",
+            "sci fi",
+            "science fiction",
+            "shounen"
         ],
         "date": {
             "season": "summer",

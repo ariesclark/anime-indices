@@ -400,6 +400,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/14865",
             "https://anime-planet.com/anime/shi-er-shengxiao",
             "https://myanimelist.net/anime/43676"
         ],
@@ -411,35 +412,15 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1006/118658t.jpg",
         "synonyms": [
             "Chinese Zoadic",
+            "Shi`er Shengxiao",
             "十二生肖"
         ],
         "relations": [],
         "tags": [
             "chinese animation",
+            "half-length episodes",
             "kids",
             "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 1993
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/14865"
-        ],
-        "title": "Shi`er Shengxiao",
-        "type": "tv",
-        "episodes": 13,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/232935.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/232935.jpg-thumb.jpg",
-        "synonyms": [
-            "十二生肖"
-        ],
-        "relations": [],
-        "tags": [
-            "half-length episodes"
         ],
         "date": {
             "season": "unknown",

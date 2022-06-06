@@ -2441,42 +2441,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/4165"
-        ],
-        "title": "Kidou Senshi Gundam SEED: Meidou no Sora",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/10141.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/10141.jpg-thumb.jpg",
-        "synonyms": [
-            "GS SE III",
-            "GS Special Edition III",
-            "Kidou Senshi Gundam SEED Special Edition Kanketsuhen: Meidou no Sora",
-            "Mobile Suit Gundam SEED: Movie III - The Rumbling Sky",
-            "機動戦士ガンダムSEED -鳴動の宇宙[そら]-",
-            "機動戦士ガンダムSEED スペシャルエディション完結編 鳴動の宇宙"
-        ],
-        "relations": [
-            "https://anidb.net/anime/252",
-            "https://anidb.net/anime/4168"
-        ],
-        "tags": [
-            "action",
-            "genetic modification",
-            "mecha",
-            "new",
-            "piloted robot",
-            "science fiction",
-            "shounen"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2004
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/2663",
             "https://anilist.co/anime/1955",
             "https://anime-planet.com/anime/kimagure-robot",
@@ -3523,6 +3487,59 @@
             "space travel",
             "tragedy",
             "war"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2004
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/4165",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-iii-the-rumbling-sky"
+        ],
+        "title": "Mobile Suit Gundam SEED Movie III: The Rumbling Sky",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/mobile-suit-gundam-seed-movie-iii-the-rumbling-sky-1.jpg?t=1625886480",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/mobile-suit-gundam-seed-movie-iii-the-rumbling-sky-1-190x266.jpg?t=1625886480",
+        "synonyms": [
+            "GS SE III",
+            "GS Special Edition III",
+            "Kidou Senshi Gundam SEED Special Edition Kanketsu Hen: Meidou no Sora",
+            "Kidou Senshi Gundam SEED Special Edition Kanketsuhen: Meidou no Sora",
+            "Kidou Senshi Gundam SEED: Meidou no Sora",
+            "Mobile Suit Gundam SEED: Movie III - The Rumbling Sky",
+            "機動戦士ガンダムSEED -鳴動の宇宙[そら]-",
+            "機動戦士ガンダムSEED スペシャルエディション完結編 鳴動の宇宙"
+        ],
+        "relations": [
+            "https://anidb.net/anime/252",
+            "https://anidb.net/anime/4168",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-after-phase-in-the-valley-of-stars",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-ce73-stargazer",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-character-theater",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-final-plus-the-chosen-future",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-i-the-broken-world",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-ii-respective-swords",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-iii-the-hell-fire-of-destiny",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-iv-the-cost-of-freedom",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-i-the-empty-battlefield",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-movie-ii-the-far-away-dawn",
+            "https://anime-planet.com/anime/mobile-suit-gundam-seed-msv-astray"
+        ],
+        "tags": [
+            "action",
+            "genetic modification",
+            "mecha",
+            "new",
+            "piloted robot",
+            "sci fi",
+            "science fiction",
+            "shounen"
         ],
         "date": {
             "season": "fall",

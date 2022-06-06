@@ -3752,6 +3752,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/15200",
             "https://myanimelist.net/anime/43897"
         ],
         "title": "Jingling Nuhai Xiao Zhuoma",
@@ -3762,9 +3763,13 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1933/122546t.jpg",
         "synonyms": [
             "Jing Ling Nv Hai Xiao Zhuo Ma",
+            "Little Zhuoma",
+            "Xiao Zhuoma (2009)",
+            "小卓玛 (2009)",
             "精灵女孩小卓玛"
         ],
         "relations": [
+            "https://anidb.net/anime/15199",
             "https://myanimelist.net/anime/43896"
         ],
         "tags": [
@@ -9409,29 +9414,6 @@
             "magic",
             "magical girl"
         ],
-        "date": {
-            "season": "spring",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/15200"
-        ],
-        "title": "Xiao Zhuoma (2009)",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/239863.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/239863.jpg-thumb.jpg",
-        "synonyms": [
-            "Little Zhuoma",
-            "小卓玛 (2009)"
-        ],
-        "relations": [
-            "https://anidb.net/anime/15199"
-        ],
-        "tags": [],
         "date": {
             "season": "spring",
             "year": 2009

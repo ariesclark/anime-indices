@@ -2691,6 +2691,7 @@
             "https://anime-planet.com/anime/deliver-police-nishitokyo-shi-deliver-keisatsutai",
             "https://anisearch.com/anime/16048",
             "https://kitsu.io/anime/44916",
+            "https://livechart.me/anime/10898",
             "https://myanimelist.net/anime/48575"
         ],
         "title": "Deliver Police: Nishitokyo-shi Deliver Keisatsutai",
@@ -2701,7 +2702,10 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1114/113739t.jpg",
         "synonyms": [
             "Anime no Tane 2021",
-            "DELIVER POLICE/西東京市デリバー警察隊"
+            "DELIVER POLICE",
+            "DELIVER POLICE/西東京市デリバー警察隊",
+            "Nishi-Tokyo-shi Deliver Keisatsu-tai",
+            "西東京市デリバー警察隊"
         ],
         "relations": [
             "https://anilist.co/anime/130846",
@@ -2713,6 +2717,9 @@
             "https://kitsu.io/anime/44915",
             "https://kitsu.io/anime/44917",
             "https://kitsu.io/anime/44918",
+            "https://livechart.me/anime/10899",
+            "https://livechart.me/anime/10900",
+            "https://livechart.me/anime/10901",
             "https://myanimelist.net/anime/48576",
             "https://myanimelist.net/anime/48577",
             "https://myanimelist.net/anime/48589"
@@ -11402,28 +11409,7 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16746"
-        ],
-        "title": "Shouji Li Di Huanxiong Xiaozhen",
-        "type": "ona",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/265228.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/265228.jpg-thumb.jpg",
-        "synonyms": [
-            "手机里的浣熊小镇"
-        ],
-        "relations": [],
-        "tags": [
-            "short episodes"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
+            "https://anidb.net/anime/16746",
             "https://anilist.co/anime/131664",
             "https://anime-planet.com/anime/shouji-li-de-huanxiong-xiaozhen",
             "https://anisearch.com/anime/16470",
@@ -11440,6 +11426,7 @@
         "synonyms": [
             "Raccoon Town in the Phone",
             "Shou Ji Li de Huan Xiong Xiao Zhen",
+            "Shouji Li Di Huanxiong Xiaozhen",
             "Shouji Li de Huanxiong Xiaozhen",
             "手机小镇",
             "手机里的浣熊小镇",
@@ -13687,6 +13674,33 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16744",
+            "https://anilist.co/anime/132479",
+            "https://anime-planet.com/anime/wei-jin-xiao-juchang"
+        ],
+        "title": "Wei Jin Xiao Juchang",
+        "type": "ona",
+        "episodes": 12,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/wei-jin-xiao-juchang-1.jpg?t=1625908924",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/wei-jin-xiao-juchang-1-190x267.jpg?t=1625908924",
+        "synonyms": [
+            "Weijin Xiao Juchang",
+            "魏晋小剧场"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "comedy",
+            "short episodes"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16585",
             "https://anilist.co/anime/129208",
             "https://anime-planet.com/anime/wei-wo-du-shen",
@@ -13712,28 +13726,6 @@
             "cultivation",
             "fantasy",
             "full cgi",
-            "short episodes"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16744"
-        ],
-        "title": "Weijin Xiao Juchang",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/265225.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/265225.jpg-thumb.jpg",
-        "synonyms": [
-            "魏晋小剧场"
-        ],
-        "relations": [],
-        "tags": [
             "short episodes"
         ],
         "date": {

@@ -11685,33 +11685,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/10968"
-        ],
-        "title": "The Idolmaster: Cinderella Girls - 2 Shuunen Kinen PV",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/165807.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/165807.jpg-thumb.jpg",
-        "synonyms": [
-            "Onegai! Cinderella",
-            "THE iDOLM@STER シンデレラガールズ 2周年記念PV"
-        ],
-        "relations": [
-            "https://anidb.net/anime/10585"
-        ],
-        "tags": [
-            "idol",
-            "music",
-            "the arts"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
             "https://kitsu.io/anime/7938",
             "https://notify.moe/anime/xDn2pKmmR"
         ],
@@ -11780,6 +11753,8 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/10968",
+            "https://anilist.co/anime/120122",
             "https://kitsu.io/anime/8770",
             "https://myanimelist.net/anime/21409"
         ],
@@ -11790,14 +11765,21 @@
         "picture": "https://cdn.myanimelist.net/images/anime/3/67139.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/3/67139t.jpg",
         "synonyms": [
+            "Onegai! Cinderella",
             "THE IDOLM@STER CINDERELLA GIRLS 2nd ANNIVERSARY PV",
+            "THE iDOLM@STER シンデレラガールズ 2周年記念PV",
             "The Idolmaster Cinderella Girls: Onegai Cinderella",
+            "The Idolmaster: Cinderella Girls - 2 Shuunen Kinen PV",
+            "お願い！シンデレラ",
             "アイドルマスター シンデレラガールズ ２周年記念ＰＶ"
         ],
         "relations": [
+            "https://anidb.net/anime/10585",
+            "https://anilist.co/anime/20693",
             "https://myanimelist.net/anime/23587"
         ],
         "tags": [
+            "cute girls doing cute things",
             "idol",
             "idols (female)",
             "music",
