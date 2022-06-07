@@ -212,9 +212,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/10734",
-            "https://anidb.net/anime/11336",
-            "https://anisearch.com/anime/10723",
-            "https://anisearch.com/anime/9828"
+            "https://anidb.net/anime/11336"
         ],
         "tags": [
             "drama"
@@ -333,15 +331,14 @@
             "https://anime-planet.com/anime/qiguai-de-qiusai",
             "https://myanimelist.net/anime/43412"
         ],
-        "title": "Qi Guai De Qiu Sai",
+        "title": "Qiguai de Qiusai",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1824/118193.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1824/118193t.jpg",
         "synonyms": [
-            "Qiguai De Qiusai",
-            "Qiguai de Qiusai",
+            "Qi Guai De Qiu Sai",
             "The Strange Hockey Game",
             "奇怪的球赛"
         ],
@@ -351,7 +348,8 @@
             "kids",
             "no dialogue",
             "sports",
-            "stop motion animation"
+            "stop motion animation",
+            "team sports"
         ],
         "date": {
             "season": "unknown",

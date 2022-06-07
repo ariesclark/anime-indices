@@ -755,6 +755,7 @@
             "present",
             "primarily child cast",
             "school",
+            "school life",
             "sci-fi",
             "seinen",
             "shounen",
@@ -1244,13 +1245,6 @@
             "https://anime-planet.com/anime/di-gi-charat-winter-garden",
             "https://anime-planet.com/anime/leave-it-to-piyoko",
             "https://anime-planet.com/anime/panyo-panyo-di-gi-charat",
-            "https://anisearch.com/anime/1381",
-            "https://anisearch.com/anime/3197",
-            "https://anisearch.com/anime/3272",
-            "https://anisearch.com/anime/3653",
-            "https://anisearch.com/anime/3655",
-            "https://anisearch.com/anime/3657",
-            "https://anisearch.com/anime/963",
             "https://kitsu.io/anime/1577",
             "https://livechart.me/anime/10641",
             "https://livechart.me/anime/6074",
@@ -1507,7 +1501,6 @@
             "瞳裸"
         ],
         "relations": [
-            "https://anisearch.com/anime/2837",
             "https://myanimelist.net/anime/5117"
         ],
         "tags": [
@@ -1909,12 +1902,18 @@
         "tags": [
             "action",
             "adventure",
+            "amnesia",
+            "artificial intelligence",
+            "ensemble cast",
             "fantasy",
             "mecha",
+            "memory manipulation",
             "sci fi",
             "sci-fi",
             "science fiction",
-            "science-fiction"
+            "science-fiction",
+            "video games",
+            "virtual world"
         ],
         "date": {
             "season": "spring",
@@ -2045,9 +2044,6 @@
             "https://anidb.net/anime/8016",
             "https://anidb.net/anime/8017",
             "https://anilist.co/anime/6069",
-            "https://anisearch.com/anime/3105",
-            "https://anisearch.com/anime/6590",
-            "https://anisearch.com/anime/6604",
             "https://kitsu.io/anime/4410",
             "https://myanimelist.net/anime/6069",
             "https://notify.moe/anime/QBT35Fimg"
@@ -2062,6 +2058,7 @@
             "horror",
             "monster",
             "mystery",
+            "mythology",
             "present",
             "short episodes",
             "supernatural",
@@ -2146,7 +2143,6 @@
             "https://anidb.net/anime/919",
             "https://anilist.co/anime/498",
             "https://anime-planet.com/anime/dangaioh-hyper-combat-unit",
-            "https://anisearch.com/anime/27",
             "https://kitsu.io/anime/458",
             "https://myanimelist.net/anime/498",
             "https://notify.moe/anime/LEcocKmig"
@@ -2355,6 +2351,7 @@
             "hardcore",
             "hentai",
             "magic",
+            "mythology",
             "ninja",
             "slapstick",
             "supernatural drama",
@@ -2979,39 +2976,10 @@
     },
     {
         "sources": [
-            "https://notify.moe/anime/S5oBtKiig"
-        ],
-        "title": "Makiba no Shoujo Katori Specials",
-        "type": "special",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://media.notify.moe/images/anime/large/S5oBtKiig.webp",
-        "thumbnail": "https://media.notify.moe/images/anime/small/S5oBtKiig.webp",
-        "synonyms": [
-            "Sekai Meisaku Gekijou Kanketsu Ban: Makiba no Shoujo Katri",
-            "World Masterpiece Theater Complete Edition: Katri",
-            "the Cow Girl",
-            "世界名作劇場・完結版 牧場の少女カトリ"
-        ],
-        "relations": [
-            "https://notify.moe/anime/8HiQcKimR"
-        ],
-        "tags": [
-            "adventure",
-            "drama",
-            "historical",
-            "slice of life"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2001
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/7147",
             "https://kitsu.io/anime/9427",
-            "https://myanimelist.net/anime/25073"
+            "https://myanimelist.net/anime/25073",
+            "https://notify.moe/anime/S5oBtKiig"
         ],
         "title": "Makiba no Shoujo Katri Specials",
         "type": "special",
@@ -3020,6 +2988,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/11/64133.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/11/64133t.jpg",
         "synonyms": [
+            "Makiba no Shoujo Katori Specials",
             "Sekai Meisaku Gekijou Kanketsu Ban: Makiba no Shoujo Katri",
             "World Masterpiece Theater Complete Edition: Katri",
             "World Masterpiece Theater Complete Edition: Katri, the Cow Girl",
@@ -3029,7 +2998,8 @@
         "relations": [
             "https://anidb.net/anime/2299",
             "https://kitsu.io/anime/2832",
-            "https://myanimelist.net/anime/3162"
+            "https://myanimelist.net/anime/3162",
+            "https://notify.moe/anime/8HiQcKimR"
         ],
         "tags": [
             "adventure",
@@ -3346,9 +3316,7 @@
             "のわーる",
             "ノワール"
         ],
-        "relations": [
-            "https://anisearch.com/anime/9508"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "action drama",
@@ -3434,6 +3402,7 @@
             "shounen",
             "soccer",
             "sports",
+            "team sports",
             "tournaments"
         ],
         "date": {
@@ -3466,8 +3435,10 @@
             "action",
             "drama",
             "game",
+            "high stakes game",
             "manga",
             "seinen",
+            "strategy game",
             "tournaments",
             "virtual reality"
         ],
@@ -3792,7 +3763,8 @@
             "RUN=DIM (ランディム)",
             "Run = Dim",
             "Run=Dim: Comandos del Espacio",
-            "ランディム"
+            "ランディム",
+            "런딤"
         ],
         "relations": [],
         "tags": [
@@ -3805,6 +3777,7 @@
             "love triangle",
             "mecha",
             "military",
+            "netorare",
             "original work",
             "politics",
             "post-apocalyptic",
@@ -3829,7 +3802,7 @@
             "https://anisearch.com/anime/3064",
             "https://myanimelist.net/anime/2368"
         ],
-        "title": "Ryouki no Ori: Dai 2 Shou",
+        "title": "Ryouki no Ori 2",
         "type": "ova",
         "episodes": 3,
         "status": "finished",
@@ -3837,6 +3810,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/6/37473t.jpg",
         "synonyms": [
             "Fantasien: Mord im Traumpark",
+            "Ryouki no Ori: Dai 2 Shou",
             "Ryōki no Ori: Dai 2 Shō",
             "The Bizarre Cage",
             "猟奇の檻 ～第2章～",
@@ -4123,6 +4097,7 @@
         "tags": [
             "19th century",
             "based on a novel",
+            "child protagonists",
             "drama",
             "england",
             "europe",
@@ -4395,7 +4370,7 @@
             "Taiho Shichau zo 2nd Season",
             "Taiho Shichau zo TV 2",
             "Taiho Shichau zo: 2nd Season",
-            "Taiho Shichauzo Second Season",
+            "Taiho Shichauzo: SECOND SEASON",
             "Taiho Shichauzo: Second Season",
             "YUA TV2",
             "You're Under Arrest 2nd Season",
@@ -4411,8 +4386,7 @@
             "You`re Under Arrest: Season 2",
             "yua2",
             "逮捕しちゃうぞ SECOND SEASON",
-            "逮捕しちゃうぞ Second Season",
-            "逮捕しちゃうぞ Second season"
+            "逮捕しちゃうぞ Second Season"
         ],
         "relations": [
             "https://anidb.net/anime/438",
@@ -4483,6 +4457,7 @@
             "guns",
             "japan",
             "law and order",
+            "love triangle",
             "manga",
             "motorsport",
             "parody",
@@ -4698,7 +4673,6 @@
             "特別授業"
         ],
         "relations": [
-            "https://anisearch.com/anime/1276",
             "https://myanimelist.net/anime/2380"
         ],
         "tags": [
@@ -4827,9 +4801,6 @@
         "relations": [
             "https://anidb.net/anime/2291",
             "https://anime-planet.com/anime/little-women-ii-jos-boys",
-            "https://anisearch.com/anime/2774",
-            "https://anisearch.com/anime/534",
-            "https://anisearch.com/anime/6127",
             "https://kitsu.io/anime/2323",
             "https://myanimelist.net/anime/2558",
             "https://notify.moe/anime/AGny5FiiR"
@@ -4987,7 +4958,6 @@
             "science fiction",
             "science-fiction",
             "space",
-            "space battles",
             "super robots"
         ],
         "date": {

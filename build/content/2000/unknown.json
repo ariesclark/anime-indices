@@ -108,6 +108,33 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/dahua-sanguo",
+            "https://myanimelist.net/anime/44499"
+        ],
+        "title": "Dahua Sanguo",
+        "type": "ona",
+        "episodes": 36,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1072/122335.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1072/122335t.jpg",
+        "synonyms": [
+            "大话三国"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "comedy",
+            "gag humor",
+            "kids",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2000
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/digimon-adventure-02-movie-the-golden-digimentals"
         ],
         "title": "Digimon Adventure 02 Movie: The Golden Digimentals",
@@ -271,6 +298,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/konglong-xuexiao",
             "https://myanimelist.net/anime/43966"
         ],
         "title": "Konglong Xuexiao",
@@ -285,7 +313,10 @@
         ],
         "relations": [],
         "tags": [
-            "kids"
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "non-human protagonists"
         ],
         "date": {
             "season": "unknown",
@@ -548,21 +579,25 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/ouch-mama",
             "https://myanimelist.net/anime/43853"
         ],
-        "title": "Ouch, mother!",
+        "title": "Ouch, Mama!",
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1547/122488.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1547/122488t.jpg",
         "synonyms": [
-            "哎喲，媽媽！"
+            "Ouch, Mother!",
+            "哎喲, 媽媽!"
         ],
         "relations": [],
         "tags": [
-            "kids",
-            "slice of life"
+            "chinese animation",
+            "comedy",
+            "family friendly",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -882,14 +917,15 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/yinyue-chuan",
             "https://myanimelist.net/anime/43962"
         ],
         "title": "Yinyue Chuan",
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1421/122849.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1421/122849t.jpg",
         "synonyms": [
             "Music Ship",
             "音乐船"
@@ -897,8 +933,12 @@
         "relations": [],
         "tags": [
             "adventure",
-            "fantasy",
-            "kids"
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "ship",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",

@@ -54,7 +54,6 @@
             "https://anilist.co/anime/121888",
             "https://anilist.co/anime/99807",
             "https://anime-planet.com/anime/22-7",
-            "https://anisearch.com/anime/14628",
             "https://kitsu.io/anime/42456",
             "https://livechart.me/anime/9532",
             "https://myanimelist.net/anime/40148",
@@ -206,9 +205,9 @@
         ],
         "tags": [
             "adventure",
-            "anime influenced",
             "anthropomorphism",
             "fantasy",
+            "friendship",
             "magic",
             "post apocalypse",
             "robot",
@@ -448,6 +447,71 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/14559",
+            "https://anilist.co/anime/124341",
+            "https://anime-planet.com/anime/arad-reversal-of-fate",
+            "https://anisearch.com/anime/15490",
+            "https://livechart.me/anime/3538",
+            "https://myanimelist.net/anime/38416",
+            "https://notify.moe/anime/SxSiRadGg"
+        ],
+        "title": "Arad: Gyakuten no Wa",
+        "type": "tv",
+        "episodes": 13,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1117/108106.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1117/108106t.jpg",
+        "synonyms": [
+            "Arad Senki Season 2",
+            "Arad Senki: Gyakuten no Wa",
+            "Arad Senki: Gyakuten no Wa ( アラド戦記 逆転の輪)",
+            "Arad: Gyakuten no Gear",
+            "Arad: Nizhuan Zhi Lun",
+            "Arad: Reversal of Fate",
+            "Daxia Cheng Yu Yongshi: Nizhuan Zhi Lun",
+            "Di Xia Cheng Yu Yong Shi: Ni Zhuan Zhi Lun",
+            "Dixia Cheng Yu Yongshi Zhi Nizhuan Zhi Lun",
+            "Dixia Cheng Yu Yongshi: Dungeon and Fighter",
+            "Dixia Cheng Yu Yongshi: Nizhuan Zhi Lun",
+            "Dungeon and Fighter: Reversal of Fate",
+            "アラド戦記 逆転の輪",
+            "アラド：逆転の輪",
+            "アラド：逆転の輪 - Reversal of Fate",
+            "地下城与勇士 逆转之轮",
+            "地下城与勇士·逆转之轮",
+            "地下城与勇士之逆转之轮",
+            "阿拉德 2",
+            "阿拉德：逆转之轮"
+        ],
+        "relations": [
+            "https://anidb.net/anime/14560",
+            "https://anidb.net/anime/6226",
+            "https://anilist.co/anime/99884",
+            "https://anime-planet.com/anime/the-fate-of-arad",
+            "https://anisearch.com/anime/13005",
+            "https://myanimelist.net/anime/38413",
+            "https://notify.moe/anime/ttqO2FmmR"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "based on a video game",
+            "bionic powers",
+            "chinese animation",
+            "comedy",
+            "fantasy",
+            "game",
+            "magic",
+            "martial arts",
+            "swords & co"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/17407"
         ],
         "title": "Ashiato",
@@ -654,8 +718,10 @@
             "game",
             "kids",
             "military",
+            "mythology",
             "sci-fi",
-            "science fiction"
+            "science fiction",
+            "strategy game"
         ],
         "date": {
             "season": "summer",
@@ -709,6 +775,43 @@
             "avant garde",
             "music",
             "the arts"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/bie-re-liumang-tu-ma-xiu-3",
+            "https://myanimelist.net/anime/47717"
+        ],
+        "title": "Bie Re Liumang Tu Ma Xiu 3",
+        "type": "ona",
+        "episodes": 70,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1437/123441.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1437/123441t.jpg",
+        "synonyms": [
+            "Bie Re Liumang Tu Ma Xiu Third Season",
+            "Mashimaro 3",
+            "别惹流氓兔马修 第3季"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/bie-re-liumang-tu-ma-xiu-2",
+            "https://myanimelist.net/anime/47716"
+        ],
+        "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "cg animation",
+            "chinese animation",
+            "comedy",
+            "kids",
+            "non-human protagonists",
+            "rabbits",
+            "sanrio characters",
+            "short episodes"
         ],
         "date": {
             "season": "summer",
@@ -1071,6 +1174,7 @@
             "male protagonist",
             "martial arts",
             "meta",
+            "mythology",
             "old asia",
             "parody",
             "person in a strange world",
@@ -1419,6 +1523,7 @@
             "female protagonist",
             "harem",
             "high stakes games",
+            "isekai",
             "mecha",
             "person in a strange world",
             "play or die",
@@ -1498,6 +1603,7 @@
             "comedy",
             "idol",
             "idols",
+            "idols (female)",
             "music",
             "new",
             "present",
@@ -1535,7 +1641,6 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/deca-dence-install",
-            "https://anisearch.com/anime/15540",
             "https://kitsu.io/anime/43524",
             "https://myanimelist.net/anime/42723",
             "https://notify.moe/anime/td1DF4FMg"
@@ -2263,13 +2368,14 @@
             "Enen no Shouboutai 2",
             "Enen no Shouboutai 2nd Season",
             "Enn Enn no Shouboutai 2nd Season",
-            "Enn Enn no Shouboutai: Ni no Shou",
+            "Enn Enn no Shouboutai Ni no Shou",
             "Fire Force (2020)",
             "Fire Force 2nd Season",
             "Fire Force Saison 2",
             "Fire Force Season 2",
             "Fire Force Staffel 2",
             "Fire Force Temporada 2",
+            "Пламенный отряд 2",
             "פייר פורס (2020)",
             "หน่วยผจญคนไฟลุก ภาค 2",
             "炎炎ノ消防隊 弐ノ章",
@@ -2277,12 +2383,15 @@
         ],
         "relations": [
             "https://anidb.net/anime/14488",
+            "https://anidb.net/anime/17420",
             "https://anilist.co/anime/105310",
             "https://anilist.co/anime/128390",
             "https://anime-planet.com/anime/fire-force",
             "https://anime-planet.com/anime/fire-force-mini-anime",
             "https://kitsu.io/anime/42068",
+            "https://kitsu.io/anime/46119",
             "https://livechart.me/anime/10323",
+            "https://livechart.me/anime/11222",
             "https://livechart.me/anime/8355",
             "https://myanimelist.net/anime/38671",
             "https://myanimelist.net/anime/51818",
@@ -2434,7 +2543,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1085/109745t.jpg",
         "synonyms": [
             "A Mortal's Journey: The Beginning",
-            "A Record of A Mortal's Journey to Immortality",
+            "A Record Of Mortal's Journey To Immortality",
             "A Record of a Mortal's Journey to Immortality",
             "A Record of a Mortal`s Journey to Immortality",
             "Fan Ren Xiu Xian Chuan: Fan Ren Feng Qi Tian Nan",
@@ -3567,6 +3676,34 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/hatsune-miku-cm-tsutaetai-koto-ga-aru-yo",
+            "https://kitsu.io/anime/46153"
+        ],
+        "title": "Hatsune Miku CM: Tsutaetai Koto ga Aru yo",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/hatsune-miku-cm-tsutaetai-koto-ga-aru-yo-1.jpg?t=1625908318",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/hatsune-miku-cm-tsutaetai-koto-ga-aru-yo-1-190x266.jpg?t=1625908318",
+        "synonyms": [
+            "手洗い推進ソング"
+        ],
+        "relations": [],
+        "tags": [
+            "commercials",
+            "educational",
+            "family friendly",
+            "music",
+            "pandemic",
+            "vocaloid"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
             "https://kitsu.io/anime/43856"
         ],
         "title": "Hololive Ieru Ka Na?",
@@ -3673,6 +3810,7 @@
             "cg animation",
             "cg-anime",
             "chinese animation",
+            "coming of age",
             "female protagonist",
             "full cgi",
             "game",
@@ -3681,7 +3819,8 @@
             "power suit",
             "sci-fi",
             "science fiction",
-            "shorts"
+            "shorts",
+            "urban fantasy"
         ],
         "date": {
             "season": "summer",
@@ -3825,42 +3964,6 @@
             "short episodes",
             "slice of life",
             "surreal comedy"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/10012"
-        ],
-        "title": "Huyao Xiao Hongniang: Jin Chenxi Pian",
-        "type": "ona",
-        "episodes": 10,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/10012/poster_image/0241b855acc71ccc149858289f2fb0be.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/10012/poster_image/0241b855acc71ccc149858289f2fb0be.jpg?style=small&format=jpg",
-        "synonyms": [
-            "Fox Spirit Matchmaker 8th Season",
-            "狐妖小红娘 金晨曦篇"
-        ],
-        "relations": [
-            "https://livechart.me/anime/10013",
-            "https://livechart.me/anime/10529",
-            "https://livechart.me/anime/2711",
-            "https://livechart.me/anime/4596",
-            "https://livechart.me/anime/4704",
-            "https://livechart.me/anime/5048",
-            "https://livechart.me/anime/5339",
-            "https://livechart.me/anime/7984"
-        ],
-        "tags": [
-            "comedy",
-            "drama",
-            "historical",
-            "romance",
-            "supernatural"
         ],
         "date": {
             "season": "summer",
@@ -4205,7 +4308,6 @@
             "https://anidb.net/anime/14257",
             "https://anilist.co/anime/103638",
             "https://anime-planet.com/anime/case-file-no-221-kabukicho",
-            "https://anisearch.com/anime/13802",
             "https://kitsu.io/anime/41939",
             "https://livechart.me/anime/3458",
             "https://myanimelist.net/anime/38161",
@@ -5093,7 +5195,7 @@
             "https://notify.moe/anime/yJmjnoGGR"
         ],
         "title": "Kyojinzoku no Hanayome",
-        "type": "tv",
+        "type": "ona",
         "episodes": 9,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1481/107629.jpg",
@@ -5305,16 +5407,21 @@
             "band",
             "cgi",
             "comedy",
+            "contemporary fantasy",
             "cute girls doing cute things",
+            "diva",
             "drama",
             "ensemble cast",
             "fantasy",
             "female protagonist",
+            "ganbatte",
             "ghost",
             "idol",
             "idols",
+            "idols (female)",
             "magic",
             "magic school",
+            "moe",
             "music",
             "musical band",
             "new",
@@ -5324,7 +5431,10 @@
             "royalty",
             "school",
             "school life",
+            "slice of life",
             "the arts",
+            "tomboy",
+            "tsundere",
             "witch",
             "witches"
         ],
@@ -5356,8 +5466,6 @@
             "https://anime-planet.com/anime/larva-island",
             "https://anime-planet.com/anime/larva-island-2nd-season",
             "https://anime-planet.com/anime/larva-new-york",
-            "https://anisearch.com/anime/13947",
-            "https://anisearch.com/anime/14284",
             "https://myanimelist.net/anime/39431"
         ],
         "tags": [
@@ -5628,6 +5736,7 @@
             "mecha",
             "military",
             "mystery",
+            "mythology",
             "new",
             "original work",
             "post-apocalyptic",
@@ -5791,9 +5900,7 @@
         "synonyms": [
             "TinyTAN Animation"
         ],
-        "relations": [
-            "https://anisearch.com/anime/15910"
-        ],
+        "relations": [],
         "tags": [
             "cg-anime",
             "indefinite",
@@ -5935,6 +6042,7 @@
             "magic school",
             "male protagonist",
             "memory manipulation",
+            "musical",
             "mythology",
             "non-human protagonists",
             "novel",
@@ -5954,29 +6062,6 @@
             "twins",
             "violence",
             "war"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/10006"
-        ],
-        "title": "Mashin Mukashi-Banashi Gekijou",
-        "type": "ona",
-        "episodes": 0,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/10006/poster_image/264c7ba89efd11f4c1f366230a87e037.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/10006/poster_image/264c7ba89efd11f4c1f366230a87e037.png?style=small&format=jpg",
-        "synonyms": [
-            "Mashin Folk Tale Theater",
-            "ましんむかしばなし劇場"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy"
         ],
         "date": {
             "season": "summer",
@@ -6331,7 +6416,6 @@
         "tags": [
             "action",
             "ancient china",
-            "boys' love",
             "chibi",
             "chinese animation",
             "comedy",
@@ -6391,6 +6475,7 @@
         "tags": [
             "age gap",
             "alternative world",
+            "anthropomorphic",
             "based on a light novel",
             "beastmen",
             "centaur",
@@ -6474,7 +6559,8 @@
             "マウスマン～愛の塊～"
         ],
         "relations": [
-            "https://livechart.me/anime/10770"
+            "https://livechart.me/anime/10770",
+            "https://myanimelist.net/anime/51617"
         ],
         "tags": [
             "drama",
@@ -6675,7 +6761,6 @@
         "relations": [
             "https://anilist.co/anime/112293",
             "https://anime-planet.com/anime/seton-academy-join-the-pack",
-            "https://anisearch.com/anime/14660",
             "https://kitsu.io/anime/42601",
             "https://livechart.me/anime/9622",
             "https://myanimelist.net/anime/40483",
@@ -6815,6 +6900,7 @@
         "tags": [
             "dancing",
             "idols",
+            "idols (female)",
             "music"
         ],
         "date": {
@@ -6953,6 +7039,7 @@
             "chibi",
             "idol",
             "idols",
+            "idols (female)",
             "music"
         ],
         "date": {
@@ -7199,7 +7286,6 @@
             "https://anilist.co/anime/124014",
             "https://anilist.co/anime/124027",
             "https://anime-planet.com/anime/no-guns-life",
-            "https://anisearch.com/anime/14255",
             "https://kitsu.io/anime/42197",
             "https://livechart.me/anime/9361",
             "https://myanimelist.net/anime/39539",
@@ -7720,20 +7806,30 @@
             "王女＆女騎士Wド下品露出"
         ],
         "relations": [
-            "https://anisearch.com/anime/16530",
             "https://myanimelist.net/anime/49760"
         ],
         "tags": [
+            "alternative world",
             "anal",
             "big boobs",
+            "bondage",
+            "defloration",
+            "demons",
             "double penetration",
             "fantasy",
+            "futanari",
+            "group sex",
             "hardcore",
             "hentai",
+            "knight",
+            "magic",
+            "masturbation",
             "oral",
+            "outdoors",
             "slave",
             "threesome",
-            "tribadism"
+            "tribadism",
+            "war"
         ],
         "date": {
             "season": "summer",
@@ -7963,30 +8059,43 @@
         "relations": [
             "https://kitsu.io/anime/12558",
             "https://myanimelist.net/anime/32212",
-            "https://myanimelist.net/anime/40690",
-            "https://myanimelist.net/anime/40691",
-            "https://myanimelist.net/anime/42673",
-            "https://myanimelist.net/anime/48519",
-            "https://myanimelist.net/anime/48524",
-            "https://myanimelist.net/anime/48525",
-            "https://myanimelist.net/anime/48529",
-            "https://myanimelist.net/anime/48530",
-            "https://myanimelist.net/anime/48531",
-            "https://myanimelist.net/anime/48538",
-            "https://myanimelist.net/anime/48540",
-            "https://myanimelist.net/anime/48541",
-            "https://myanimelist.net/anime/48552",
-            "https://myanimelist.net/anime/48557",
-            "https://myanimelist.net/anime/48558",
-            "https://myanimelist.net/anime/48565",
-            "https://myanimelist.net/anime/48566",
-            "https://myanimelist.net/anime/49122",
-            "https://myanimelist.net/anime/49126",
-            "https://myanimelist.net/anime/49147"
+            "https://myanimelist.net/anime/48538"
         ],
         "tags": [
             "idol",
+            "idols (male)",
             "music"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/pocari-sweat-cm-ase-kakou",
+            "https://kitsu.io/anime/46162"
+        ],
+        "title": "Pocari Sweat CM: Ase Kakou",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/pocari-sweat-cm-ase-kakou-1.jpg?t=1625908436",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/pocari-sweat-cm-ase-kakou-1-190x266.jpg?t=1625908436",
+        "synonyms": [
+            "ポカリスエットweb movie｜「汗かこう」篇"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/pocari-sweat-nechusho-no-no",
+            "https://kitsu.io/anime/46160"
+        ],
+        "tags": [
+            "cg animation",
+            "commercials",
+            "promotional",
+            "shorts",
+            "slice of life",
+            "vocaloid"
         ],
         "date": {
             "season": "summer",
@@ -8179,33 +8288,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/43769",
-            "https://myanimelist.net/anime/44257"
-        ],
-        "title": "Re:Hello world",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1010/110486.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1010/110486t.jpg",
-        "synonyms": [
-            "Re:Hello World",
-            "ハローワールド"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/43740"
-        ],
-        "tags": [
-            "idol",
-            "music"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/120700",
             "https://anisearch.com/anime/15370",
             "https://livechart.me/anime/10055"
@@ -8230,8 +8312,6 @@
             "https://anilist.co/anime/108632",
             "https://anilist.co/anime/128306",
             "https://anilist.co/anime/21891",
-            "https://anisearch.com/anime/11408",
-            "https://anisearch.com/anime/15885",
             "https://livechart.me/anime/10009",
             "https://livechart.me/anime/10091",
             "https://livechart.me/anime/10262",
@@ -8494,10 +8574,10 @@
             "card games",
             "chibi",
             "comedy",
-            "game",
             "musical",
             "shorts",
             "slice of life",
+            "strategy game",
             "super deformed",
             "vtuber",
             "vtubers"
@@ -8703,6 +8783,7 @@
             "indefinite",
             "meta",
             "music",
+            "otaku culture",
             "work"
         ],
         "date": {
@@ -9215,8 +9296,7 @@
             "swordplay",
             "theater",
             "time manipulation",
-            "yandere",
-            "yuri"
+            "yandere"
         ],
         "date": {
             "season": "summer",
@@ -9911,6 +9991,8 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1339/108564t.jpg",
         "synonyms": [
             "Chibi GODZILLA",
+            "I'm Home! Chibi Godzilla",
+            "I'm Home, Chibi Godzilla",
             "I'm home! Chibi Godzilla",
             "I'm home, Chibigodzilla",
             "Tadaima! Chibi Gojira",
@@ -9979,7 +10061,6 @@
         "relations": [
             "https://anidb.net/anime/15101",
             "https://anime-planet.com/anime/taeko-no-nichijou",
-            "https://anisearch.com/anime/14646",
             "https://kitsu.io/anime/42564",
             "https://livechart.me/anime/9602",
             "https://myanimelist.net/anime/40423",
@@ -10129,6 +10210,7 @@
         "relations": [],
         "tags": [
             "music",
+            "rotoscoping",
             "the arts",
             "vocaloid"
         ],
@@ -10289,6 +10371,7 @@
             "based on a mobile game",
             "idol",
             "idols",
+            "idols (female)",
             "music",
             "present",
             "promotional",
@@ -10900,9 +10983,6 @@
             "https://anilist.co/anime/136146",
             "https://anime-planet.com/anime/wan-jie-xian-zong-3rd-season",
             "https://anime-planet.com/anime/wan-jie-xian-zong-5th-season",
-            "https://anisearch.com/anime/15590",
-            "https://anisearch.com/anime/16150",
-            "https://anisearch.com/anime/16151",
             "https://kitsu.io/anime/43101",
             "https://kitsu.io/anime/45036",
             "https://livechart.me/anime/10269",
@@ -11004,6 +11084,7 @@
             "https://kitsu.io/anime/42326",
             "https://kitsu.io/anime/45076",
             "https://myanimelist.net/anime/39024",
+            "https://myanimelist.net/anime/49570",
             "https://notify.moe/anime/jXkZotyng",
             "https://notify.moe/anime/t-dMpiMGR"
         ],
@@ -11401,6 +11482,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1958/107912t.jpg",
         "synonyms": [
             "My Teen Romantic Comedy SNAFU 3",
+            "My Teen Romantic Comedy SNAFU : Climax",
             "My Teen Romantic Comedy SNAFU Climax",
             "My Teen Romantic Comedy SNAFU Climax!",
             "My Teen Romantic Comedy SNAFU: Climax",
@@ -11441,11 +11523,6 @@
             "https://anime-planet.com/anime/my-teen-romantic-comedy-snafu-ova",
             "https://anime-planet.com/anime/my-teen-romantic-comedy-snafu-too",
             "https://anime-planet.com/anime/my-teen-romantic-comedy-snafu-too-ova",
-            "https://anisearch.com/anime/11419",
-            "https://anisearch.com/anime/15934",
-            "https://anisearch.com/anime/7949",
-            "https://anisearch.com/anime/8724",
-            "https://anisearch.com/anime/9606",
             "https://kitsu.io/anime/43910",
             "https://kitsu.io/anime/8478",
             "https://livechart.me/anime/10352",

@@ -56,31 +56,6 @@
     {
         "sources": [
             "https://anime-planet.com/anime/diao-long-ji",
-            "https://myanimelist.net/anime/44631"
-        ],
-        "title": "Diao Long Ji",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "雕龙记"
-        ],
-        "relations": [],
-        "tags": [
-            "chinese animation",
-            "fantasy",
-            "shorts",
-            "stop motion animation"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 1959
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/43795"
         ],
         "title": "Diao Longji",
@@ -90,11 +65,16 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1127/118666.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1127/118666t.jpg",
         "synonyms": [
+            "Diao Long Ji",
+            "Inscription of Dragons",
             "雕龙记"
         ],
         "relations": [],
         "tags": [
-            "kids"
+            "chinese animation",
+            "kids",
+            "shorts",
+            "stop motion animation"
         ],
         "date": {
             "season": "unknown",

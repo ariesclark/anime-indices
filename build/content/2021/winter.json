@@ -916,7 +916,10 @@
         "synonyms": [
             "ARIA",
             "ARIA The CREPUSCOLO",
-            "Aria6"
+            "Aria6",
+            "水星領航員CREPUSCOLO劇場版",
+            "水星领航员 暮色",
+            "水星领航员CREPUSCOLO劇場版"
         ],
         "relations": [
             "https://anidb.net/anime/11059",
@@ -1487,8 +1490,6 @@
             "https://anime-planet.com/anime/beastars-final-season",
             "https://anime-planet.com/anime/yoasobi-kaibutsu",
             "https://anime-planet.com/anime/yoasobi-yasashii-suisei",
-            "https://anisearch.com/anime/14153",
-            "https://anisearch.com/anime/16524",
             "https://kitsu.io/anime/42147",
             "https://kitsu.io/anime/44914",
             "https://kitsu.io/anime/44933",
@@ -1813,6 +1814,8 @@
             "https://anilist.co/anime/103713",
             "https://anilist.co/anime/1239",
             "https://anilist.co/anime/148149",
+            "https://anime-planet.com/anime/bishoujo-senshi-sailor-moon-cosmos-movie-1",
+            "https://anime-planet.com/anime/bishoujo-senshi-sailor-moon-cosmos-movie-2",
             "https://anime-planet.com/anime/pretty-guardian-sailor-moon-eternal-movie-1",
             "https://kitsu.io/anime/42429",
             "https://livechart.me/anime/113",
@@ -2439,6 +2442,7 @@
             "Demon Slayer Academy Valentine Chapter",
             "Demon Slayer: Kimetsu no Yaiba Valentine-hen",
             "Junior High and High School!! Kimetsu Academy Story",
+            "Kimetsu Academy: Valentine Edition",
             "Kimetsu Gakuen Monogatari: Valentine-hen",
             "Kimetsu Gakuen: Valentine-hen",
             "Tales of a Demon Slayer Academy: Valentine Specials",
@@ -2518,7 +2522,8 @@
         ],
         "relations": [
             "https://anilist.co/anime/146397",
-            "https://kitsu.io/anime/42095"
+            "https://kitsu.io/anime/42095",
+            "https://kitsu.io/anime/45978"
         ],
         "tags": [
             "action",
@@ -2634,7 +2639,6 @@
             "https://anisearch.com/anime/16167",
             "https://kitsu.io/anime/43977",
             "https://myanimelist.net/anime/46487",
-            "https://myanimelist.net/anime/49397",
             "https://myanimelist.net/anime/50037"
         ],
         "title": "DARKEN",
@@ -3328,9 +3332,7 @@
         "synonyms": [
             "TinyTAN Animation"
         ],
-        "relations": [
-            "https://anisearch.com/anime/15748"
-        ],
+        "relations": [],
         "tags": [
             "cg-anime",
             "present"
@@ -3499,14 +3501,14 @@
         ],
         "title": "En’en no Shouboutai Mini Anime",
         "type": "ona",
-        "episodes": 24,
+        "episodes": 30,
         "status": "finished",
         "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16235.webp",
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16235.webp",
         "synonyms": [
             "En’en no Shōbōtai Mini Anime",
             "Fire Force Mini Anime",
-            "Fire Force Staffel 2 Minipisoden",
+            "Fire Force Staffel 2 Miniepisoden",
             "炎炎ノ消防隊 ミニアニメ"
         ],
         "relations": [],
@@ -4145,21 +4147,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/11665",
-            "https://anidb.net/anime/2540",
-            "https://anisearch.com/anime/11125",
-            "https://anisearch.com/anime/14257",
-            "https://anisearch.com/anime/1619",
-            "https://anisearch.com/anime/1927",
-            "https://anisearch.com/anime/2110",
-            "https://anisearch.com/anime/2150",
-            "https://anisearch.com/anime/2333",
-            "https://anisearch.com/anime/2469",
-            "https://anisearch.com/anime/3904",
-            "https://anisearch.com/anime/7836",
-            "https://anisearch.com/anime/83",
-            "https://anisearch.com/anime/855",
-            "https://anisearch.com/anime/8625",
-            "https://anisearch.com/anime/8627"
+            "https://anidb.net/anime/2540"
         ],
         "tags": [
             "action",
@@ -4380,6 +4368,7 @@
             "crude",
             "feudal japan",
             "gag",
+            "gag humor",
             "historical",
             "humanoid alien",
             "male protagonist",
@@ -5703,6 +5692,7 @@
     {
         "sources": [
             "https://anilist.co/anime/131923",
+            "https://anime-planet.com/anime/id-indeed",
             "https://anisearch.com/anime/16490",
             "https://myanimelist.net/anime/46084"
         ],
@@ -5714,17 +5704,20 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1537/111162t.jpg",
         "synonyms": [
             "ID: INDEED",
+            "ID:INDEED",
             "ID:Indeed",
             "イド:インディード",
             "イド：インディード"
         ],
         "relations": [
             "https://anilist.co/anime/110350",
+            "https://anime-planet.com/anime/id-invaded",
             "https://myanimelist.net/anime/40046"
         ],
         "tags": [
             "chibi",
-            "comedy"
+            "comedy",
+            "short episodes"
         ],
         "date": {
             "season": "winter",
@@ -5878,11 +5871,12 @@
         "sources": [
             "https://anilist.co/anime/132418",
             "https://anime-planet.com/anime/ikinuke-bakusou-kusohamu-chan",
+            "https://livechart.me/anime/10481",
             "https://myanimelist.net/anime/48544"
         ],
         "title": "Ikinuke! Bakusou! Kusohamu-chan!",
         "type": "ona",
-        "episodes": 82,
+        "episodes": 83,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1950/113662.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1950/113662t.jpg",
@@ -6320,9 +6314,9 @@
             "based on a light novel",
             "comedy",
             "drama",
+            "e-sports",
             "educational",
             "ensemble cast",
-            "female harem",
             "harem",
             "hero of weak character",
             "heroine of strong character",
@@ -6331,9 +6325,7 @@
             "hikikomori",
             "love triangle",
             "male protagonist",
-            "netorare",
             "novel",
-            "otaku culture",
             "philosophy",
             "present",
             "primarily teen cast",
@@ -7585,9 +7577,6 @@
             "https://anilist.co/anime/20671",
             "https://anime-planet.com/anime/log-horizon",
             "https://anime-planet.com/anime/log-horizon-2",
-            "https://anisearch.com/anime/8348",
-            "https://anisearch.com/anime/9213",
-            "https://anisearch.com/anime/9537",
             "https://kitsu.io/anime/8313",
             "https://livechart.me/anime/489",
             "https://livechart.me/anime/64",
@@ -7797,10 +7786,6 @@
             "https://anilist.co/anime/115651",
             "https://anime-planet.com/anime/sorcerous-stabber-orphen",
             "https://anime-planet.com/anime/sorcerous-stabber-orphen-celestial-artifacts",
-            "https://anisearch.com/anime/13508",
-            "https://anisearch.com/anime/15152",
-            "https://anisearch.com/anime/381",
-            "https://anisearch.com/anime/622",
             "https://kitsu.io/anime/42329",
             "https://kitsu.io/anime/43117",
             "https://livechart.me/anime/3180",
@@ -8563,6 +8548,7 @@
             "iyashikei",
             "japanese mythology",
             "male protagonist",
+            "mythology",
             "orphans",
             "present",
             "rural",
@@ -8906,8 +8892,7 @@
             "Special training in the Secret Dungeon",
             "Special training in the Secret Dungeon!",
             "The Hidden Dungeon Only I Can Enter",
-            "Сильнейший герой",
-            "обученный в тайном подземелье",
+            "Сильнейший герой, обученный в тайном подземелье",
             "ดันเจี้ยนที่มีแต่ข้าเท่านั้นที่เข้าได้ ～แอบฝึกปรืนจนบรรลุสู่สุดแกร่ง～",
             "俺だけ入れる隠しダンジョン",
             "只有我能进入的隐藏迷宫",
@@ -8917,7 +8902,6 @@
             "https://anilist.co/anime/128367",
             "https://anilist.co/anime/131708",
             "https://anime-planet.com/anime/doki-doki-mini-mini-kakushi-dungeon-gekijou",
-            "https://anisearch.com/anime/15919",
             "https://kitsu.io/anime/44295",
             "https://livechart.me/anime/10296",
             "https://myanimelist.net/anime/45658",
@@ -8998,7 +8982,8 @@
             "short episodes",
             "slice of life",
             "supernatural",
-            "the arts"
+            "the arts",
+            "visual arts"
         ],
         "date": {
             "season": "winter",
@@ -9290,8 +9275,6 @@
             "https://anilist.co/anime/21771",
             "https://anime-planet.com/anime/planetarian",
             "https://anime-planet.com/anime/planetarian-movie-hoshi-no-hito",
-            "https://anisearch.com/anime/11352",
-            "https://anisearch.com/anime/11402",
             "https://kitsu.io/anime/12023",
             "https://livechart.me/anime/10537",
             "https://livechart.me/anime/10976",
@@ -9651,6 +9634,7 @@
         "synonyms": [
             "Los Pui Pui",
             "Molcar: Marsvinsbilarna",
+            "PUI PUI",
             "PUI PUI CAVY-CAR",
             "PUI PUI MOLCAR",
             "PUI PUI Molcar",
@@ -9660,6 +9644,7 @@
         ],
         "relations": [
             "https://kitsu.io/anime/44683",
+            "https://kitsu.io/anime/46156",
             "https://myanimelist.net/anime/49146"
         ],
         "tags": [
@@ -9802,8 +9787,6 @@
         "relations": [
             "https://anilist.co/anime/119661",
             "https://anilist.co/anime/120700",
-            "https://anisearch.com/anime/11408",
-            "https://anisearch.com/anime/15370",
             "https://livechart.me/anime/10009",
             "https://livechart.me/anime/10055",
             "https://livechart.me/anime/10091",
@@ -9900,11 +9883,6 @@
             "https://anime-planet.com/anime/re-zero-starting-life-in-another-world-memory-snow",
             "https://anime-planet.com/anime/re-zero-starting-life-in-another-world-season-2",
             "https://anime-planet.com/anime/re-zero-starting-life-in-another-world-the-frozen-bond",
-            "https://anisearch.com/anime/10572",
-            "https://anisearch.com/anime/12797",
-            "https://anisearch.com/anime/13951",
-            "https://anisearch.com/anime/14302",
-            "https://anisearch.com/anime/14867",
             "https://kitsu.io/anime/42198",
             "https://livechart.me/anime/10055",
             "https://livechart.me/anime/10091",
@@ -10328,7 +10306,6 @@
             "https://myanimelist.net/anime/42923"
         ],
         "tags": [
-            "comedy",
             "school life",
             "sports"
         ],
@@ -10356,20 +10333,22 @@
         "synonyms": [
             "Saezuru Tori wa Habatakanai OVA",
             "Saezuru Tori wa Habatakanai: Don`t Stay Gold",
+            "Saezuru Tori wa Habatakanai: Don’t Stay Gold",
             "The Roaring Birds Do Not Fly OVA",
             "Twittering Birds Never Fly OVA",
             "Twittering Birds Never Fly: Don't Stay Gold",
             "Twittering Birds Never Fly: Don`t Stay Gold",
+            "Twittering Birds Never Fly: Don’t Stay Gold",
             "Twittering birds never fly: Don't Stay Gold",
             "囀る鳥は羽ばたかない Don't stay gold",
-            "囀る鳥は羽ばたかない Don`t stay gold"
+            "囀る鳥は羽ばたかない Don`t stay gold",
+            "囀る鳥は羽ばたかない Don’t stay gold"
         ],
         "relations": [
             "https://anidb.net/anime/14889",
             "https://anime-planet.com/anime/saezuru-doubutsu-wa-yarushikanai",
             "https://anime-planet.com/anime/saezuru-tori-wa-habatakanai-the-storm-breaks",
             "https://anime-planet.com/anime/twittering-birds-never-fly-the-clouds-gather",
-            "https://anisearch.com/anime/14374",
             "https://kitsu.io/anime/42295",
             "https://livechart.me/anime/9425",
             "https://livechart.me/anime/9630",
@@ -10554,6 +10533,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/sazae-san-valentine-hen",
             "https://myanimelist.net/anime/47542"
         ],
         "title": "Sazae-san: Valentine-hen",
@@ -10567,11 +10547,14 @@
             "サザエさんバレンタインデースペシャル"
         ],
         "relations": [
+            "https://anime-planet.com/anime/sazae-san",
             "https://myanimelist.net/anime/2406"
         ],
         "tags": [
+            "based on a manga",
             "comedy",
-            "slice of life"
+            "slice of life",
+            "valentine's day"
         ],
         "date": {
             "season": "winter",
@@ -10694,6 +10677,7 @@
             "ecchi",
             "friendship",
             "gag",
+            "gag humor",
             "high school",
             "japan",
             "kuudere",
@@ -10755,8 +10739,7 @@
             "https://anilist.co/anime/132821",
             "https://anime-planet.com/anime/semantic-error",
             "https://kitsu.io/anime/44541",
-            "https://myanimelist.net/anime/49202",
-            "https://myanimelist.net/anime/49990"
+            "https://myanimelist.net/anime/49202"
         ],
         "title": "Semantic Error",
         "type": "ona",
@@ -10824,6 +10807,7 @@
             "https://anilist.co/anime/137746",
             "https://anime-planet.com/anime/shanhe-jian-xin-2nd-season",
             "https://kitsu.io/anime/45072",
+            "https://kitsu.io/anime/46035",
             "https://myanimelist.net/anime/49558",
             "https://myanimelist.net/anime/50217"
         ],
@@ -11171,6 +11155,7 @@
             "https://livechart.me/anime/1155",
             "https://livechart.me/anime/250",
             "https://livechart.me/anime/5767",
+            "https://myanimelist.net/anime/21755",
             "https://notify.moe/anime/6ra2tKmmg"
         ],
         "tags": [
@@ -11182,6 +11167,7 @@
             "school",
             "shounen",
             "sports",
+            "strategy game",
             "tennis"
         ],
         "date": {
@@ -11434,7 +11420,8 @@
         ],
         "relations": [
             "https://anilist.co/anime/139353",
-            "https://kitsu.io/anime/45589"
+            "https://kitsu.io/anime/45589",
+            "https://myanimelist.net/anime/50292"
         ],
         "tags": [
             "animal protagonists",
@@ -11781,6 +11768,29 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/49148"
+        ],
+        "title": "Stippling",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1705/115626.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1705/115626t.jpg",
+        "synonyms": [],
+        "relations": [
+            "https://myanimelist.net/anime/32212"
+        ],
+        "tags": [
+            "idols (male)",
+            "music"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/15877"
         ],
         "title": "Stress Zero",
@@ -11959,6 +11969,7 @@
             "alternative world",
             "based on a light novel",
             "comedy",
+            "coming of age",
             "dungeon",
             "ensemble cast",
             "fantasy",
@@ -12039,6 +12050,7 @@
             "ensemble cast",
             "episodic",
             "fantasy",
+            "gag humor",
             "gods",
             "heaven",
             "manga",
@@ -12049,7 +12061,8 @@
             "transgender",
             "work",
             "work life",
-            "working life"
+            "working life",
+            "workplace"
         ],
         "date": {
             "season": "winter",
@@ -12181,6 +12194,7 @@
             "That Time I Got Reincarnated as a Slime Season 2",
             "That Time I Got Reincarnated as a Slime Staffel 2",
             "That Time I Got Reincarnated as a Slime Temporada 2",
+            "О моём перерождении в слизь 2",
             "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว ภาค 2",
             "关于我转生变成史莱姆这档事 第二季",
             "关于我转生变成史莱姆这档事第二季（上半）",
@@ -12991,6 +13005,7 @@
             "https://anilist.co/anime/131045",
             "https://anime-planet.com/anime/tropical-rouge-precure-petit-tobikome-collaboration-dance-party",
             "https://anisearch.com/anime/16001",
+            "https://kitsu.io/anime/46159",
             "https://livechart.me/anime/10376",
             "https://myanimelist.net/anime/46650"
         ],
@@ -13015,6 +13030,7 @@
             "https://anilist.co/anime/121026",
             "https://anilist.co/anime/126905",
             "https://anime-planet.com/anime/tropical-rouge-pretty-cure",
+            "https://kitsu.io/anime/44929",
             "https://livechart.me/anime/5176",
             "https://livechart.me/anime/5317",
             "https://livechart.me/anime/5318",
@@ -13084,7 +13100,8 @@
             "https://anime-planet.com/anime/disney-twisted-wonderland-pomefiore-pv",
             "https://anime-planet.com/anime/disney-twisted-wonderland-savanaclaw-pv",
             "https://anime-planet.com/anime/disney-twisted-wonderland-scarabia-pv",
-            "https://anime-planet.com/anime/disney-twisted-wonderland-scary-monsters-pv"
+            "https://anime-planet.com/anime/disney-twisted-wonderland-scary-monsters-pv",
+            "https://myanimelist.net/anime/50139"
         ],
         "tags": [
             "based on a mobile game",
@@ -13488,6 +13505,7 @@
             "primarily female cast",
             "psychological",
             "sci-fi",
+            "strategy game",
             "supernatural",
             "virtual reality",
             "virtual world"
@@ -13514,6 +13532,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1664/112449t.jpg",
         "synonyms": [
             "Incomparable Demon King",
+            "The Legendary Monster Emperor",
             "万界奇缘",
             "绝世妖帝"
         ],
@@ -13621,7 +13640,6 @@
             "https://anime-planet.com/anime/wave-surfing-yappe-movie-1",
             "https://anime-planet.com/anime/wave-surfing-yappe-movie-2",
             "https://anime-planet.com/anime/wave-surfing-yappe-movie-3",
-            "https://anisearch.com/anime/14567",
             "https://kitsu.io/anime/42498",
             "https://livechart.me/anime/9566",
             "https://livechart.me/anime/9906",
@@ -14012,6 +14030,7 @@
             "ワールドウィッチーズ発進しますっ！"
         ],
         "relations": [
+            "https://anidb.net/anime/11964",
             "https://anidb.net/anime/14965",
             "https://anilist.co/anime/112732",
             "https://anime-planet.com/anime/strike-witches-501st-joint-fighter-wing-take-off",
@@ -14046,6 +14065,7 @@
             "action comedy",
             "animal characteristics",
             "aviation",
+            "cgdct",
             "comedy",
             "cute girls doing cute things",
             "ecchi",
@@ -14342,7 +14362,9 @@
             "Xing Wu Shen Jue",
             "星武神诀"
         ],
-        "relations": [],
+        "relations": [
+            "https://anilist.co/anime/150080"
+        ],
         "tags": [
             "action",
             "adventure",
@@ -14607,8 +14629,6 @@
             "https://anime-planet.com/anime/baten-kaitos",
             "https://anime-planet.com/anime/the-promised-neverland",
             "https://anime-planet.com/anime/the-promised-neverland-2nd-season-tokubetsu-hen-michishirube",
-            "https://anisearch.com/anime/13592",
-            "https://anisearch.com/anime/15966",
             "https://kitsu.io/anime/41312",
             "https://kitsu.io/anime/44076",
             "https://kitsu.io/anime/44533",
@@ -14694,6 +14714,7 @@
             "The Promised Neverland 2nd Season: Tokubetsu Hen - Michishirube",
             "The Promised Neverland Recap",
             "The Promised Neverland Season 2 Episode 5.5",
+            "The Promised Neverland Season 2: Guidepost",
             "Yakusoku no Neverland (2021) Episode 5.5",
             "Yakusoku no Neverland (2021) Recap",
             "Yakusoku no Neverland 2nd Season Episode 5.5",
@@ -14736,6 +14757,7 @@
             "psychological drama",
             "recap",
             "sci fi",
+            "sci-fi",
             "science-fiction",
             "shounen",
             "slice of life",
@@ -14743,6 +14765,7 @@
             "struggle to survive",
             "supernatural",
             "supernatural drama",
+            "survival",
             "suspense",
             "thriller",
             "tragedy"
@@ -14980,50 +15003,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/134090",
-            "https://anime-planet.com/anime/you-yao-2nd-season",
-            "https://kitsu.io/anime/44594",
-            "https://myanimelist.net/anime/48964"
-        ],
-        "title": "You Yao 2nd Season",
-        "type": "ona",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1195/119379.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1195/119379t.jpg",
-        "synonyms": [
-            "Are You Ok",
-            "Are you OK 2",
-            "You Yao 2",
-            "有药 第2季",
-            "有药 第二季",
-            "有药2"
-        ],
-        "relations": [
-            "https://anilist.co/anime/115901",
-            "https://anime-planet.com/anime/you-yao",
-            "https://kitsu.io/anime/43277",
-            "https://myanimelist.net/anime/41916"
-        ],
-        "tags": [
-            "adventure",
-            "based on a web novel",
-            "boys' love",
-            "cg animation",
-            "chinese animation",
-            "comedy",
-            "full cgi",
-            "historical",
-            "swordplay",
-            "wuxia"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/15748",
             "https://anilist.co/anime/127536",
             "https://anime-planet.com/anime/cute-executive-officer",
@@ -15058,7 +15037,8 @@
             "surreal comedy",
             "work",
             "work life",
-            "working life"
+            "working life",
+            "workplace"
         ],
         "date": {
             "season": "winter",
@@ -15483,6 +15463,7 @@
             "dancing",
             "idol",
             "idols",
+            "idols (female)",
             "indefinite",
             "music",
             "ocean",

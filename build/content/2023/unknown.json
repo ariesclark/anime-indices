@@ -1,6 +1,58 @@
 [
     {
         "sources": [
+            "https://anidb.net/anime/17063",
+            "https://anilist.co/anime/142849",
+            "https://anime-planet.com/anime/ayakashi-triangle",
+            "https://anisearch.com/anime/16925",
+            "https://kitsu.io/anime/45609",
+            "https://livechart.me/anime/10943",
+            "https://myanimelist.net/anime/50606",
+            "https://notify.moe/anime/DlMutaT7R"
+        ],
+        "title": "Ayakashi Triangle",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1543/120134.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1543/120134t.jpg",
+        "synonyms": [
+            "เรื่องอลวน คน ปิศาจ",
+            "あやかしトライアングル"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "based on a manga",
+            "childhood friends",
+            "comedy",
+            "curse",
+            "ecchi",
+            "exorcists",
+            "fantasy",
+            "female protagonist",
+            "gender bender",
+            "gender bending",
+            "ghost",
+            "high school",
+            "japanese mythology",
+            "magic",
+            "male protagonist",
+            "ninja",
+            "present",
+            "romance",
+            "shounen",
+            "slapstick",
+            "supernatural",
+            "youkai"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/51032"
         ],
         "title": "Cheng He Titong",
@@ -170,6 +222,34 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51994"
+        ],
+        "title": "Hibike! Euphonium: Ensemble Contest-hen",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "「アンサンブルコンテスト編」"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/35678",
+            "https://myanimelist.net/anime/39894"
+        ],
+        "tags": [
+            "drama",
+            "music",
+            "performing arts",
+            "school"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16373",
             "https://anilist.co/anime/135778",
             "https://anime-planet.com/anime/high-card",
@@ -203,30 +283,6 @@
             "poker",
             "strategy game",
             "supernatural"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2023
-        }
-    },
-    {
-        "sources": [
-            "https://notify.moe/anime/-eI4GC-7g"
-        ],
-        "title": "MF Ghost",
-        "type": "tv",
-        "episodes": 0,
-        "status": "unknown",
-        "picture": "https://media.notify.moe/images/anime/large/-eI4GC-7g.webp",
-        "thumbnail": "https://media.notify.moe/images/anime/small/-eI4GC-7g.webp",
-        "synonyms": [
-            "MFゴースト"
-        ],
-        "relations": [],
-        "tags": [
-            "sci-fi",
-            "seinen",
-            "sports"
         ],
         "date": {
             "season": "unknown",
@@ -378,10 +434,6 @@
             "https://anilist.co/anime/135177",
             "https://anilist.co/anime/21261",
             "https://anime-planet.com/anime/osomatsu-san-hipipo-zoku-to-kagayaku-kajitsu",
-            "https://livechart.me/anime/10058",
-            "https://livechart.me/anime/10372",
-            "https://livechart.me/anime/10373",
-            "https://livechart.me/anime/10629",
             "https://livechart.me/anime/1707",
             "https://livechart.me/anime/1917",
             "https://livechart.me/anime/1980",
@@ -390,6 +442,12 @@
             "https://livechart.me/anime/2663",
             "https://livechart.me/anime/3044",
             "https://livechart.me/anime/3468",
+            "https://livechart.me/anime/8730",
+            "https://livechart.me/anime/8736",
+            "https://livechart.me/anime/8775",
+            "https://livechart.me/anime/8800",
+            "https://livechart.me/anime/9002",
+            "https://livechart.me/anime/9019",
             "https://livechart.me/anime/9241",
             "https://myanimelist.net/anime/31174",
             "https://myanimelist.net/anime/49119"
@@ -449,14 +507,40 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/150294"
+        ],
+        "title": "Qing Chi Hong Xiaodou Ba! Hong Yu Lü",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150294-dRjSBnJ7RIUh.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150294-dRjSBnJ7RIUh.jpg",
+        "synonyms": [
+            "红小豆大电影",
+            "请吃红小豆吧电影版",
+            "请吃红小豆吧！红与绿"
+        ],
+        "relations": [
+            "https://anilist.co/anime/104629"
+        ],
+        "tags": [
+            "comedy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/51404"
         ],
         "title": "Rakudai Majo",
         "type": "movie",
         "episodes": 1,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1561/121834.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1561/121834t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1621/124234.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1621/124234t.jpg",
         "synonyms": [
             "Failure Witch",
             "The Klutzy Witch",
@@ -465,6 +549,32 @@
         "relations": [],
         "tags": [
             "fantasy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51973"
+        ],
+        "title": "Star Wars: Visions 2",
+        "type": "ona",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1609/124169.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1609/124169t.jpg",
+        "synonyms": [
+            "Star Wars: Visions Volume 2",
+            "スター・ウォーズ：ヴィジョンズ・ボリューム2"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/49357"
+        ],
+        "tags": [
+            "military",
+            "space"
         ],
         "date": {
             "season": "unknown",
@@ -611,6 +721,31 @@
             "primarily female cast",
             "showbiz",
             "slice of life"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/150151",
+            "https://myanimelist.net/anime/51974"
+        ],
+        "title": "Wu Di De Zuqiu",
+        "type": "ona",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1177/124186.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1177/124186t.jpg",
+        "synonyms": [
+            "Wu Di's Football",
+            "吴狄的足球"
+        ],
+        "relations": [],
+        "tags": [
+            "football",
+            "sports"
         ],
         "date": {
             "season": "unknown",

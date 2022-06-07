@@ -234,6 +234,8 @@
             "Shirayuki aux cheveux rouges",
             "Snow White with the Red Hair",
             "Snow White with the Red Hair (Staffel 1)",
+            "Красноволосая Белоснежка",
+            "Красноволосая принцесса Белоснежка",
             "สโนว์ไวท์ผมแดง",
             "あかがみのしらゆきひめ",
             "赤发白雪姬",
@@ -247,8 +249,6 @@
             "https://anilist.co/anime/21313",
             "https://anime-planet.com/anime/snow-white-with-the-red-hair-2nd-season",
             "https://anime-planet.com/anime/snow-white-with-the-red-hair-ova",
-            "https://anisearch.com/anime/10541",
-            "https://anisearch.com/anime/10722",
             "https://kitsu.io/anime/11179",
             "https://livechart.me/anime/1706",
             "https://livechart.me/anime/1784",
@@ -710,13 +710,6 @@
             "https://anime-planet.com/anime/aria-the-natural",
             "https://anime-planet.com/anime/aria-the-origination",
             "https://anime-planet.com/anime/aria-the-ova-arietta",
-            "https://anisearch.com/anime/1468",
-            "https://anisearch.com/anime/3044",
-            "https://anisearch.com/anime/4218",
-            "https://anisearch.com/anime/4484",
-            "https://anisearch.com/anime/5086",
-            "https://anisearch.com/anime/8369",
-            "https://anisearch.com/anime/8562",
             "https://kitsu.io/anime/2916",
             "https://kitsu.io/anime/43481",
             "https://livechart.me/anime/10446",
@@ -990,6 +983,36 @@
             "shoujo",
             "slice of life",
             "supernatural"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/aura-xing-jinji-sheng-dian",
+            "https://myanimelist.net/anime/44889"
+        ],
+        "title": "Aura Xing: Jinji Sheng Dian",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1413/123157.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1413/123157t.jpg",
+        "synonyms": [
+            "Ao La Xing: Jinji Sheng Dian",
+            "Aola Star",
+            "Aura Star: Attack of the Temple",
+            "奥拉星: 进击圣殿"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "family friendly",
+            "fantasy",
+            "kids"
         ],
         "date": {
             "season": "summer",
@@ -1825,6 +1848,35 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/chu-feng-xiao-juchang-shengli-shi-zhong-bagua-bu",
+            "https://myanimelist.net/anime/44620"
+        ],
+        "title": "Chu Feng Xiao Juchang: Shengli Shi Zhong Bagua Bu!",
+        "type": "ona",
+        "episodes": 4,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1174/123045.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1174/123045t.jpg",
+        "synonyms": [
+            "雏蜂小剧场 胜利十中八卦部！"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/29876"
+        ],
+        "tags": [
+            "chinese animation",
+            "comedy",
+            "school",
+            "school life",
+            "short episodes"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/11295",
             "https://anilist.co/anime/99658",
             "https://anime-planet.com/anime/school-shock",
@@ -2172,7 +2224,6 @@
         "relations": [
             "https://anilist.co/anime/21059",
             "https://anime-planet.com/anime/danchigai",
-            "https://anisearch.com/anime/10222",
             "https://kitsu.io/anime/10620",
             "https://myanimelist.net/anime/30127",
             "https://notify.moe/anime/a9DwtFimR"
@@ -2515,11 +2566,6 @@
             "https://anime-planet.com/anime/dog-days-3",
             "https://anime-planet.com/anime/dog-days-gravure-talk",
             "https://anime-planet.com/anime/dog-days-recap",
-            "https://anisearch.com/anime/16187",
-            "https://anisearch.com/anime/6812",
-            "https://anisearch.com/anime/7565",
-            "https://anisearch.com/anime/8199",
-            "https://anisearch.com/anime/8790",
             "https://kitsu.io/anime/11805",
             "https://kitsu.io/anime/7417",
             "https://livechart.me/anime/1024",
@@ -2641,7 +2687,6 @@
             "https://anime-planet.com/anime/dragon-ball-super-broly-skytree-super",
             "https://anime-planet.com/anime/dragon-ball-super-fns-27-hour-tv",
             "https://anime-planet.com/anime/dragon-ball-super-movie-broly",
-            "https://anime-planet.com/anime/dragon-ball-super-super-hero",
             "https://anime-planet.com/anime/dragon-ball-z",
             "https://anime-planet.com/anime/super-dragon-ball-heroes",
             "https://kitsu.io/anime/41046",
@@ -2673,6 +2718,7 @@
             "adventure",
             "age regression",
             "aliens",
+            "alternate universe",
             "anti-hero",
             "badminton",
             "battle royale",
@@ -2775,14 +2821,6 @@
             "https://anime-planet.com/anime/durarara-x2-the-second-arc-onoroke-chakapoko",
             "https://anime-planet.com/anime/durarara-x2-the-third-arc",
             "https://anime-planet.com/anime/durarara-x2-the-third-arc-dufufufu",
-            "https://anisearch.com/anime/10335",
-            "https://anisearch.com/anime/10336",
-            "https://anisearch.com/anime/11200",
-            "https://anisearch.com/anime/11887",
-            "https://anisearch.com/anime/5473",
-            "https://anisearch.com/anime/6984",
-            "https://anisearch.com/anime/6986",
-            "https://anisearch.com/anime/9542",
             "https://kitsu.io/anime/8314",
             "https://livechart.me/anime/1233",
             "https://livechart.me/anime/1234",
@@ -2871,14 +2909,6 @@
             "https://anime-planet.com/anime/durarara-x2-the-second-arc-onoroke-chakapoko",
             "https://anime-planet.com/anime/durarara-x2-the-third-arc",
             "https://anime-planet.com/anime/durarara-x2-the-third-arc-dufufufu",
-            "https://anisearch.com/anime/10336",
-            "https://anisearch.com/anime/10380",
-            "https://anisearch.com/anime/11200",
-            "https://anisearch.com/anime/11887",
-            "https://anisearch.com/anime/5473",
-            "https://anisearch.com/anime/6984",
-            "https://anisearch.com/anime/6986",
-            "https://anisearch.com/anime/9542",
             "https://kitsu.io/anime/11362",
             "https://kitsu.io/anime/8314",
             "https://kitsu.io/anime/9725",
@@ -3400,7 +3430,6 @@
             "https://anidb.net/anime/13446",
             "https://anilist.co/anime/102552",
             "https://anime-planet.com/anime/huan-jing-nuo-de-lin",
-            "https://anisearch.com/anime/12979",
             "https://myanimelist.net/anime/37642",
             "https://notify.moe/anime/igchpC7mg"
         ],
@@ -3899,6 +3928,7 @@
             "fantasy",
             "magic",
             "medieval",
+            "mythology",
             "power suits",
             "slice of life",
             "superheroes",
@@ -4018,7 +4048,6 @@
             "GATE 奇幻自卫队",
             "GATE 自衛隊 彼の地にて, 斯く戦えり",
             "GATE 自衛隊 彼の地にて、斯く戦えり",
-            "GATE(ゲート) 自衛隊 彼の地にて、斯く戦えり",
             "GATE（ゲート） 自衛隊 彼の地にて、斯く戦えり",
             "GATE（ゲート）自衛隊　彼の地にて、斯く戦えり",
             "Gate",
@@ -4035,7 +4064,6 @@
             "https://anidb.net/anime/11602",
             "https://anilist.co/anime/21364",
             "https://anime-planet.com/anime/gate-2016",
-            "https://anisearch.com/anime/10829",
             "https://kitsu.io/anime/11376",
             "https://livechart.me/anime/1831",
             "https://myanimelist.net/anime/31637",
@@ -5102,18 +5130,6 @@
             "https://anime-planet.com/anime/hetalia-world-series",
             "https://anime-planet.com/anime/hetalia-world-series-extra-episodes",
             "https://anime-planet.com/anime/hetalia-world-stars",
-            "https://anisearch.com/anime/10595",
-            "https://anisearch.com/anime/14199",
-            "https://anisearch.com/anime/14201",
-            "https://anisearch.com/anime/15680",
-            "https://anisearch.com/anime/16324",
-            "https://anisearch.com/anime/5006",
-            "https://anisearch.com/anime/5754",
-            "https://anisearch.com/anime/6280",
-            "https://anisearch.com/anime/7876",
-            "https://anisearch.com/anime/7997",
-            "https://anisearch.com/anime/8997",
-            "https://anisearch.com/anime/9004",
             "https://kitsu.io/anime/11274",
             "https://kitsu.io/anime/11689",
             "https://kitsu.io/anime/7226",
@@ -5230,15 +5246,6 @@
             "https://anime-planet.com/anime/high-school-dxd-new-oppai-tsutsumimasu",
             "https://anime-planet.com/anime/high-school-dxd-ova",
             "https://anime-planet.com/anime/high-school-dxd-specials",
-            "https://anisearch.com/anime/10421",
-            "https://anisearch.com/anime/11029",
-            "https://anisearch.com/anime/11878",
-            "https://anisearch.com/anime/13560",
-            "https://anisearch.com/anime/7308",
-            "https://anisearch.com/anime/7570",
-            "https://anisearch.com/anime/7851",
-            "https://anisearch.com/anime/8050",
-            "https://anisearch.com/anime/9808",
             "https://kitsu.io/anime/8514",
             "https://livechart.me/anime/1149",
             "https://livechart.me/anime/1437",
@@ -5338,6 +5345,7 @@
             "干物妹！ うまるちゃん",
             "干物妹！うまるちゃん",
             "干物妹！小埋",
+            "我家有個魚乾妹",
             "건어물 여동생! 우마루짱"
         ],
         "relations": [
@@ -5431,9 +5439,6 @@
             "https://anime-planet.com/anime/himouto-umaru-chan-ova",
             "https://anime-planet.com/anime/himouto-umaru-chan-r",
             "https://anime-planet.com/anime/himouto-umaru-chan-umaru-chan-mou-ikkai",
-            "https://anisearch.com/anime/10093",
-            "https://anisearch.com/anime/10476",
-            "https://anisearch.com/anime/12400",
             "https://kitsu.io/anime/10067",
             "https://livechart.me/anime/1325",
             "https://livechart.me/anime/1656",
@@ -5744,8 +5749,8 @@
         "type": "ova",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/5/77080.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/5/77080t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1786/118533.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1786/118533t.jpg",
         "synonyms": [
             "ISUCA OAD",
             "ISUCA 第拾壱話「極楽」",
@@ -6022,6 +6027,7 @@
             "primarily male cast",
             "romance",
             "romantic comedy",
+            "shoujo",
             "shounen ai",
             "shounen-ai",
             "slice of life",
@@ -6199,10 +6205,6 @@
             "https://anime-planet.com/anime/kamisama-kiss-2nd-season",
             "https://anime-planet.com/anime/kamisama-kiss-kamisama-shiawase-ni-naru",
             "https://anime-planet.com/anime/kamisama-kiss-ova",
-            "https://anisearch.com/anime/11848",
-            "https://anisearch.com/anime/7944",
-            "https://anisearch.com/anime/8722",
-            "https://anisearch.com/anime/9748",
             "https://kitsu.io/anime/13170",
             "https://kitsu.io/anime/8716",
             "https://livechart.me/anime/175",
@@ -6676,12 +6678,14 @@
         ],
         "tags": [
             "asia",
+            "baseball",
             "chuunibyou",
             "coming of age",
             "drama",
             "earth",
             "family life",
             "female protagonist",
+            "heterosexual",
             "high school",
             "japan",
             "love triangle",
@@ -6691,6 +6695,7 @@
             "new",
             "noitamina",
             "original work",
+            "performing arts",
             "present",
             "rehabilitation",
             "romance",
@@ -8041,6 +8046,7 @@
             "https://notify.moe/anime/PDxXpFmiR"
         ],
         "tags": [
+            "anthropomorphic",
             "asia",
             "based on a manga",
             "centaur",
@@ -8235,7 +8241,9 @@
         "relations": [],
         "tags": [
             "animal protagonists",
+            "animals",
             "anthropomorphic",
+            "band",
             "comedy",
             "music",
             "non-human protagonists",
@@ -8362,6 +8370,7 @@
             "https://anilist.co/anime/115197",
             "https://anime-planet.com/anime/neko-enikki",
             "https://kitsu.io/anime/11611",
+            "https://livechart.me/anime/1738",
             "https://myanimelist.net/anime/31361",
             "https://notify.moe/anime/zT9CpFimR"
         ],
@@ -8373,11 +8382,14 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/7/75429t.jpg",
         "synonyms": [
             "Living With Cats",
+            "Nekokirai no Ie ni Umareta Nekosuki ga Neko to Kurashi E Nikki",
             "Nekokirai no Ie ni Umareta Nekosuki ga Neko to Kurashi Enikki",
             "Picture Diary of Cat Lover",
             "Picture Diary of Cat Lover, Who Was Born into a Family of Cat Haters",
             "Picture Diary of Cat Lover, Who Was Born into a Family of Cat Haters, Living With Cats",
+            "Picture Diary of a Cat Lover, Who Was Born into a Family of Cat Haters, Living With Cats",
             "Who Was Born into a Family of Cat Haters",
+            "猫嫌いの家に生まれた猫好きが猫と暮らす絵日記",
             "猫絵日記"
         ],
         "relations": [],
@@ -8425,30 +8437,6 @@
             "kids",
             "non-human protagonists",
             "short episodes"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/1738"
-        ],
-        "title": "Nekokirai no Ie ni Umareta Nekosuki ga Neko to Kurashi E Nikki",
-        "type": "tv",
-        "episodes": 13,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/1738/poster_image/2c0e76dfcd86b4e5d010470f38cc7376.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/1738/poster_image/2c0e76dfcd86b4e5d010470f38cc7376.png?style=small&format=jpg",
-        "synonyms": [
-            "Picture Diary of a Cat Lover, Who Was Born into a Family of Cat Haters, Living With Cats",
-            "猫嫌いの家に生まれた猫好きが猫と暮らす絵日記"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "slice of life"
         ],
         "date": {
             "season": "summer",
@@ -8558,11 +8546,6 @@
             "https://anime-planet.com/anime/non-non-biyori-nonstop-ova",
             "https://anime-planet.com/anime/non-non-biyori-okinawa-e-ikukoto-ni-natta",
             "https://anime-planet.com/anime/non-non-biyori-repeat-ova",
-            "https://anisearch.com/anime/11158",
-            "https://anisearch.com/anime/12494",
-            "https://anisearch.com/anime/14403",
-            "https://anisearch.com/anime/8390",
-            "https://anisearch.com/anime/9397",
             "https://kitsu.io/anime/11767",
             "https://kitsu.io/anime/13535",
             "https://kitsu.io/anime/7711",
@@ -8836,6 +8819,8 @@
             "comedy",
             "crossdressing",
             "ecchi",
+            "female harem",
+            "heterosexual",
             "large breasts",
             "male protagonist",
             "manga",
@@ -9041,7 +9026,6 @@
             "https://anidb.net/anime/12074",
             "https://anilist.co/anime/21768",
             "https://anime-planet.com/anime/osiris-no-tenbin-season-2",
-            "https://anisearch.com/anime/11405",
             "https://kitsu.io/anime/12048",
             "https://myanimelist.net/anime/33154",
             "https://notify.moe/anime/1yU6pFimR"
@@ -9123,15 +9107,6 @@
             "https://anime-planet.com/anime/overlord-ple-ple-pleiades-theatrical-version",
             "https://anime-planet.com/anime/overlord-the-dark-hero",
             "https://anime-planet.com/anime/overlord-the-undead-king",
-            "https://anisearch.com/anime/10637",
-            "https://anisearch.com/anime/11637",
-            "https://anisearch.com/anime/12083",
-            "https://anisearch.com/anime/12300",
-            "https://anisearch.com/anime/13285",
-            "https://anisearch.com/anime/13539",
-            "https://anisearch.com/anime/13752",
-            "https://anisearch.com/anime/14553",
-            "https://anisearch.com/anime/16275",
             "https://kitsu.io/anime/11166",
             "https://kitsu.io/anime/12239",
             "https://kitsu.io/anime/12584",
@@ -9226,6 +9201,7 @@
             "twins",
             "vampire",
             "vampires",
+            "video game",
             "villainess",
             "violence",
             "virtual reality",
@@ -9334,6 +9310,40 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/pao-fu-xiaojie-6th-season",
+            "https://myanimelist.net/anime/44539"
+        ],
+        "title": "Pao Fu Xiaojie: Gan Ai Ji",
+        "type": "ona",
+        "episodes": 13,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1558/122942.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1558/122942t.jpg",
+        "synonyms": [
+            "Miss Puff 6th Season",
+            "Miss Puff Season 6",
+            "Pao Fu Xiaojie 6th Season",
+            "泡芙小姐第六季：感爱季"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/pao-fu-xiaojie-5th-season",
+            "https://anime-planet.com/anime/pao-fu-xiaojie-7th-season",
+            "https://myanimelist.net/anime/44538",
+            "https://myanimelist.net/anime/44540"
+        ],
+        "tags": [
+            "adult cast",
+            "chinese animation",
+            "short episodes",
+            "slice of life"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/peeping-life-x-kaijuu-sakaba-kaijuu-tachi-ga-iru-tokoro",
             "https://kitsu.io/anime/11629",
             "https://myanimelist.net/anime/32143",
@@ -9430,11 +9440,6 @@
             "プラネタリウム　ちびまる子ちゃん　星にねがいを"
         ],
         "relations": [
-            "https://anisearch.com/anime/10859",
-            "https://anisearch.com/anime/158",
-            "https://anisearch.com/anime/16276",
-            "https://anisearch.com/anime/2680",
-            "https://anisearch.com/anime/4552",
             "https://kitsu.io/anime/4445",
             "https://kitsu.io/anime/843",
             "https://myanimelist.net/anime/6149",
@@ -9854,7 +9859,7 @@
             "https://anisearch.com/anime/12746",
             "https://myanimelist.net/anime/44883"
         ],
-        "title": "Qiche Ren Zongdongyuan",
+        "title": "Qiche Ren Zong Dong Yuan",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
@@ -9862,6 +9867,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
             "Qi Che Ren Zong Dong Yuan",
+            "Qiche Ren Zongdongyuan",
             "The Autobots",
             "汽车人总动员"
         ],
@@ -10075,7 +10081,6 @@
         "relations": [
             "https://anilist.co/anime/106895",
             "https://anime-planet.com/anime/rokka-braves-of-the-six-flowers-picture-drama",
-            "https://anisearch.com/anime/11385",
             "https://kitsu.io/anime/11603",
             "https://myanimelist.net/anime/31593",
             "https://notify.moe/anime/jKuCpFiiR"
@@ -10355,11 +10360,7 @@
         "synonyms": [
             "咲日和OAD"
         ],
-        "relations": [
-            "https://anisearch.com/anime/4918",
-            "https://anisearch.com/anime/8147",
-            "https://anisearch.com/anime/8594"
-        ],
+        "relations": [],
         "tags": [
             "comedy",
             "episodic",
@@ -10547,6 +10548,7 @@
             "guns",
             "henshin",
             "idol",
+            "idols (female)",
             "japan",
             "kuudere",
             "lgbtq+ themes",
@@ -10638,6 +10640,7 @@
             "high school",
             "japan",
             "kuudere",
+            "male protagonist",
             "nonsense-comedy",
             "novel",
             "nudity",
@@ -11053,7 +11056,7 @@
             "Sore ga Seiyū!",
             "That Is a Voice Actor!",
             "That is a Voice Actor!",
-            "This is a Voice Actor",
+            "This Is a Voice Actor",
             "soresei",
             "それがせいゆう",
             "それが声優!",
@@ -11066,7 +11069,6 @@
         "relations": [
             "https://anilist.co/anime/21737",
             "https://anime-planet.com/anime/seiyuus-life-a-small-after-party",
-            "https://anisearch.com/anime/11277",
             "https://kitsu.io/anime/11963",
             "https://livechart.me/anime/2145",
             "https://myanimelist.net/anime/32993",
@@ -11094,7 +11096,8 @@
             "voice acting",
             "work",
             "work life",
-            "working life"
+            "working life",
+            "workplace"
         ],
         "date": {
             "season": "summer",
@@ -11568,7 +11571,9 @@
             "たましち！",
             "たまやのお仕事篇"
         ],
-        "relations": [],
+        "relations": [
+            "https://myanimelist.net/anime/44063"
+        ],
         "tags": [
             "commercials",
             "present",
@@ -12009,9 +12014,6 @@
             "https://anime-planet.com/anime/the-idolmaster-movie-kagayaki-no-mukougawa-e",
             "https://anime-planet.com/anime/the-idolmaster-onegai-cinderella",
             "https://anime-planet.com/anime/the-idolmaster-shiny-festa",
-            "https://anisearch.com/anime/10271",
-            "https://anisearch.com/anime/11490",
-            "https://anisearch.com/anime/9590",
             "https://kitsu.io/anime/11749",
             "https://kitsu.io/anime/8777",
             "https://livechart.me/anime/1935",
@@ -12049,6 +12051,7 @@
             "gyaru",
             "idol",
             "idols",
+            "idols (female)",
             "japan",
             "moe",
             "music",
@@ -12097,6 +12100,7 @@
         ],
         "tags": [
             "idols",
+            "idols (female)",
             "music"
         ],
         "date": {
@@ -12213,12 +12217,6 @@
             "https://anime-planet.com/anime/to-love-ru-darkness-ova",
             "https://anime-planet.com/anime/to-love-ru-multiplication-mae-kara-ushiro-kara",
             "https://anime-planet.com/anime/to-love-ru-ova",
-            "https://anisearch.com/anime/11071",
-            "https://anisearch.com/anime/4655",
-            "https://anisearch.com/anime/5201",
-            "https://anisearch.com/anime/6357",
-            "https://anisearch.com/anime/7781",
-            "https://anisearch.com/anime/7788",
             "https://kitsu.io/anime/11418",
             "https://kitsu.io/anime/41505",
             "https://kitsu.io/anime/7007",
@@ -12311,13 +12309,13 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1739/123152.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1739/123152t.jpg",
         "synonyms": [
-            "Tokyo Ghoul: JACK",
             "Tokyo Ghoul: Jack",
+            "Tokyo Ghoul: [JACK]",
             "Tokyo Kushu: Jack",
             "東京喰種 【JACK】",
             "東京喰種 トーキョーグール【JACK】",
-            "東京喰種トーキョーグール【JACK】",
-            "東京喰種トーキョーグール【ＪＡＣＫ】"
+            "東京喰種トーキョーグール [JACK]",
+            "東京喰種トーキョーグール【JACK】"
         ],
         "relations": [
             "https://anilist.co/anime/20605",
@@ -12540,7 +12538,6 @@
         "relations": [
             "https://anilist.co/anime/20591",
             "https://anime-planet.com/anime/in-search-of-the-lost-future",
-            "https://anisearch.com/anime/9327",
             "https://kitsu.io/anime/8199",
             "https://livechart.me/anime/389",
             "https://myanimelist.net/anime/21845",
@@ -12740,6 +12737,7 @@
             "asia",
             "based on a 4-koma manga",
             "based on a manga",
+            "cgdct",
             "comedy",
             "cute girls doing cute things",
             "daily life",
@@ -13155,6 +13153,7 @@
             "episodic",
             "food",
             "food preparation",
+            "heterosexual",
             "japan",
             "male protagonist",
             "manga",
@@ -13303,10 +13302,7 @@
             "Flower Angel 2",
             "小花仙 第二季"
         ],
-        "relations": [
-            "https://anisearch.com/anime/13198",
-            "https://anisearch.com/anime/13219"
-        ],
+        "relations": [],
         "tags": [
             "magic",
             "magical girl"
@@ -13397,7 +13393,6 @@
             "https://anisearch.com/anime/15253",
             "https://anisearch.com/anime/15610",
             "https://anisearch.com/anime/15621",
-            "https://anisearch.com/anime/15625",
             "https://anisearch.com/anime/9507"
         ],
         "tags": [
@@ -13785,7 +13780,6 @@
             "https://anidb.net/anime/10188",
             "https://anilist.co/anime/102384",
             "https://anime-planet.com/anime/a-jewish-girl-in-shanghai",
-            "https://anisearch.com/anime/9266",
             "https://kitsu.io/anime/8516",
             "https://myanimelist.net/anime/21129"
         ],
@@ -13934,11 +13928,6 @@
             "https://anime-planet.com/anime/yuru-yuri-nachu-yachumi",
             "https://anime-planet.com/anime/yuru-yuri-ova",
             "https://anime-planet.com/anime/yuru-yuri-san-hai",
-            "https://anisearch.com/anime/10282",
-            "https://anisearch.com/anime/6969",
-            "https://anisearch.com/anime/7464",
-            "https://anisearch.com/anime/8467",
-            "https://anisearch.com/anime/9545",
             "https://kitsu.io/anime/10742",
             "https://kitsu.io/anime/8492",
             "https://livechart.me/anime/1041",
@@ -14210,8 +14199,7 @@
             "https://anisearch.com/anime/13666",
             "https://anisearch.com/anime/14214",
             "https://anisearch.com/anime/14259",
-            "https://myanimelist.net/anime/38136",
-            "https://myanimelist.net/anime/44352"
+            "https://myanimelist.net/anime/38136"
         ],
         "tags": [
             "action",

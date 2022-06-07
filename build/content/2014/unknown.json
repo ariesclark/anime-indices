@@ -299,21 +299,27 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/baozou-donghua-3rd-season"
+            "https://anime-planet.com/anime/baozou-donghua-3rd-season",
+            "https://myanimelist.net/anime/44548"
         ],
         "title": "Baozou Donghua 3rd Season",
         "type": "ona",
         "episodes": 10,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/baozou-donghua-3rd-season-1.webp?t=1653499498",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/baozou-donghua-3rd-season-1-212x297.webp?t=1653499498",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1995/123982.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1995/123982t.jpg",
+        "synonyms": [
+            "Baozou Manhwa 3rd Season",
+            "暴走动画第三季"
+        ],
         "relations": [
-            "https://anime-planet.com/anime/baozou-donghua-2nd-season"
+            "https://anime-planet.com/anime/baozou-donghua-2nd-season",
+            "https://myanimelist.net/anime/44547"
         ],
         "tags": [
             "chinese animation",
             "comedy",
+            "gag humor",
             "short episodes"
         ],
         "date": {
@@ -391,6 +397,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/small-island",
             "https://myanimelist.net/anime/50245"
         ],
         "title": "Beolineun Seom",
@@ -404,7 +411,12 @@
             "버리는 섬"
         ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "korean animation",
+            "pets",
+            "shorts",
+            "slice of life"
+        ],
         "date": {
             "season": "unknown",
             "year": 2014
@@ -633,12 +645,12 @@
         "sources": [
             "https://myanimelist.net/anime/44033"
         ],
-        "title": "Chao Xian Lie Bing-kai Neng Season 2",
+        "title": "Chao Xian Lie Bing-kai Neng 2nd Season",
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1575/122963.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1575/122963t.jpg",
         "synonyms": [
             "超限獵兵-凱能 第二季"
         ],
@@ -646,8 +658,9 @@
             "https://myanimelist.net/anime/44032"
         ],
         "tags": [
+            "action",
             "adventure",
-            "kids",
+            "mecha",
             "military"
         ],
         "date": {
@@ -1342,36 +1355,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/gui-tu-zai-pao",
-            "https://myanimelist.net/anime/44872"
-        ],
-        "title": "Gui Tu Zai Pao",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "Tale of the Rally",
-            "龟兔再跑"
-        ],
-        "relations": [],
-        "tags": [
-            "animal protagonists",
-            "anthropomorphic",
-            "chinese animation",
-            "family friendly",
-            "fantasy",
-            "kids",
-            "non-human protagonists"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/13275"
         ],
         "title": "Guo Bao Te Gong 3",
@@ -1428,8 +1411,7 @@
     {
         "sources": [
             "https://anime-planet.com/anime/guo-guo-qi-xia-chuan",
-            "https://myanimelist.net/anime/44901",
-            "https://myanimelist.net/anime/46894"
+            "https://myanimelist.net/anime/44901"
         ],
         "title": "Guo Guo Qi Xia Chuan",
         "type": "tv",
@@ -1438,7 +1420,6 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1315/123139.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1315/123139t.jpg",
         "synonyms": [
-            "果果骑侠传",
             "果果骑侠传 (巴希酷超人)"
         ],
         "relations": [
@@ -2207,6 +2188,27 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/juicy-wars"
+        ],
+        "title": "Juicy Wars",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/juicy-wars-1.webp?t=1654318615",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/juicy-wars-1-285x400.webp?t=1654318615",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/110214",
             "https://anime-planet.com/anime/junk-head-1"
         ],
@@ -2239,31 +2241,7 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44112"
-        ],
-        "title": "Kaixin Baobei Zhi Qihuan Zhi Lu",
-        "type": "tv",
-        "episodes": 40,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "开心宝贝之奇幻之旅"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44114"
-        ],
-        "tags": [
-            "adventure",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
+            "https://anime-planet.com/anime/kaixin-baobei-kaixin-lianmeng-zhengba-zhan",
             "https://myanimelist.net/anime/44111"
         ],
         "title": "Kaixin Baobei: Kaixin Lianmeng Zhengba Zhan",
@@ -2276,13 +2254,22 @@
             "开心宝贝之开心联盟争霸战"
         ],
         "relations": [
+            "https://anime-planet.com/anime/kaixin-baobei-gu-ling-xing-lixian-ji",
+            "https://anime-planet.com/anime/kaixin-baobei-qihuan-zhi-lu",
             "https://myanimelist.net/anime/44110",
             "https://myanimelist.net/anime/44112"
         ],
         "tags": [
+            "androids",
+            "chinese animation",
             "comedy",
+            "family friendly",
             "kids",
-            "sci-fi"
+            "robots",
+            "sci fi",
+            "sci-fi",
+            "short episodes",
+            "superheroes"
         ],
         "date": {
             "season": "unknown",
@@ -2291,10 +2278,70 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/43979",
-            "https://myanimelist.net/anime/44125"
+            "https://anime-planet.com/anime/kaixin-baobei-qihuan-zhi-lu",
+            "https://myanimelist.net/anime/44112"
         ],
-        "title": "Kaixin Chaoren 2 Qi Yuan Xingzhi Zhan",
+        "title": "Kaixin Baobei: Qihuan Zhi Lu",
+        "type": "tv",
+        "episodes": 40,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1787/122965.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1787/122965t.jpg",
+        "synonyms": [
+            "Happy Friends Season 8",
+            "开心宝贝之奇幻之旅"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/kaixin-baobei-kaixin-lianmeng-zhengba-zhan",
+            "https://anime-planet.com/anime/kaixin-chaoren-lianmeng-chao-shikong-baowei-zhan",
+            "https://myanimelist.net/anime/44111",
+            "https://myanimelist.net/anime/44114"
+        ],
+        "tags": [
+            "androids",
+            "chinese animation",
+            "comedy",
+            "family friendly",
+            "kids",
+            "robots",
+            "sci fi",
+            "sci-fi",
+            "short episodes",
+            "superheroes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/kaixin-chaoren-2-qi-yuan-xing-zhi-zhan"
+        ],
+        "title": "Kaixin Chaoren 2: Qi Yuan Xing Zhi Zhan",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/kaixin-chaoren-2-qi-yuan-xing-zhi-zhan-1.webp?t=1654138581",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kaixin-chaoren-2-qi-yuan-xing-zhi-zhan-1-269x377.webp?t=1654138581",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/kaixin-chaoren"
+        ],
+        "tags": [
+            "chinese animation",
+            "family friendly"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/43979"
+        ],
+        "title": "Kaixin Chaoren 2: Qi Yuan Xingzhi Zhan",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
@@ -2302,13 +2349,9 @@
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
             "Happy Heroes 2 Qiyuan Planet Wars",
-            "Kaixin Chaoren 2: Qi Yuan Xingzhi Zhan",
-            "开心超人2启源星之战",
             "開心超人2：啟源星之戰"
         ],
-        "relations": [
-            "https://myanimelist.net/anime/44103"
-        ],
+        "relations": [],
         "tags": [
             "adventure",
             "fantasy",
@@ -3374,6 +3417,34 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/ming-ji-4-chenfeng-zhuiyi",
+            "https://myanimelist.net/anime/44509"
+        ],
+        "title": "Ming Ji 4: Chenfeng Zhuiyi",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "茗记4：尘封追忆"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/ming-ji-3-qushe",
+            "https://myanimelist.net/anime/44508"
+        ],
+        "tags": [
+            "chinese animation",
+            "romance",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/minion-apocalypsis"
         ],
         "title": "Minion[Apocalypsis]",
@@ -3580,6 +3651,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/nami-shen-bing",
             "https://myanimelist.net/anime/46850"
         ],
         "title": "Nami Shen Bing",
@@ -3593,6 +3665,8 @@
         ],
         "relations": [],
         "tags": [
+            "chinese animation",
+            "family friendly",
             "kids",
             "sci-fi"
         ],
@@ -3981,6 +4055,28 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/ookami-tachi"
+        ],
+        "title": "Ookami-tachi",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "synonyms": [
+            "Wolves"
+        ],
+        "relations": [],
+        "tags": [
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/41972"
         ],
         "title": "Otogibanashi feat. Hatsune Miku",
@@ -4030,15 +4126,44 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/persona-q-shadow-of-the-labyrinth-op"
+        ],
+        "title": "Persona Q: Shadow of the Labyrinth OP",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/persona-q-shadow-of-the-labyrinth-op-1.webp?t=1654276743",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/persona-q-shadow-of-the-labyrinth-op-1-285x399.webp?t=1654276743",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/persona-3-the-movie-1-spring-of-birth",
+            "https://anime-planet.com/anime/persona-4-the-animation",
+            "https://anime-planet.com/anime/persona-q2-new-cinema-labyrinth-op"
+        ],
+        "tags": [
+            "based on a video game",
+            "chibi",
+            "opening animation",
+            "promotional"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/44465"
         ],
-        "title": "Pili Yongshi Zhi Yuanqi Yongzhe",
+        "title": "Pili Yongshi: Yuanqi Yongzhe",
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1172/122288.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1172/122288t.jpg",
         "synonyms": [
+            "Robovalor",
+            "Variety Machine Beasts 3",
             "霹雳勇士之元气勇者"
         ],
         "relations": [
@@ -4046,9 +4171,9 @@
             "https://myanimelist.net/anime/44466"
         ],
         "tags": [
-            "adventure",
             "kids",
-            "mecha"
+            "mecha",
+            "sci-fi"
         ],
         "date": {
             "season": "unknown",
@@ -4343,18 +4468,24 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/qiao-qiao-ban"
+            "https://anime-planet.com/anime/qiao-qiao-ban",
+            "https://myanimelist.net/anime/45986"
         ],
         "title": "Qiao Qiao Ban",
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/qiao-qiao-ban-1.webp?t=1651690700",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/qiao-qiao-ban-1-285x400.webp?t=1651690700",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1336/123488.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1336/123488t.jpg",
+        "synonyms": [
+            "Qiaoqiaoban",
+            "跷跷板"
+        ],
         "relations": [],
         "tags": [
             "chinese animation",
+            "historical",
+            "kids",
             "short episodes"
         ],
         "date": {
@@ -4449,21 +4580,28 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/rexue-sanguo-san-gu-maolu"
+            "https://anime-planet.com/anime/rexue-sanguo-san-gu-maolu",
+            "https://myanimelist.net/anime/46859"
         ],
         "title": "Rexue Sanguo: San Gu Maolu",
         "type": "tv",
         "episodes": 38,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/rexue-sanguo-san-gu-maolu-1.webp?t=1652502730",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/rexue-sanguo-san-gu-maolu-1-259x364.webp?t=1652502730",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1697/122350.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1697/122350t.jpg",
+        "synonyms": [
+            "热血三国之三顾茅庐"
+        ],
         "relations": [
-            "https://anime-planet.com/anime/rexue-sanguo-luanshi-tianxia"
+            "https://anime-planet.com/anime/rexue-sanguo-luanshi-tianxia",
+            "https://myanimelist.net/anime/46857",
+            "https://myanimelist.net/anime/46860"
         ],
         "tags": [
             "chinese animation",
-            "comedy"
+            "comedy",
+            "historical",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -4797,33 +4935,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44416"
-        ],
-        "title": "Shaonian Shiye Zhi Ren Shanxing Tianxia",
-        "type": "tv",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "少年师爷之仁善行天下"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44415",
-            "https://myanimelist.net/anime/44417"
-        ],
-        "tags": [
-            "adventure",
-            "historical",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/44489"
         ],
         "title": "Shen Ji Bao Meili",
@@ -4964,31 +5075,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/shijiu-guo",
-            "https://myanimelist.net/anime/44597"
-        ],
-        "title": "Shijiu Guo",
-        "type": "ona",
-        "episodes": 109,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "十九國"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "chinese animation",
-            "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/shokubai-phantom-girl-natsuzo-rider"
         ],
         "title": "Shokubai Phantom Girl: Natsuzo Rider",
@@ -5023,30 +5109,6 @@
         "relations": [],
         "tags": [
             "fantasy",
-            "shorts"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/small-island"
-        ],
-        "title": "Small Island",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/small-island-1.webp?t=1652748556",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/small-island-1-285x399.webp?t=1652748556",
-        "synonyms": [
-            "Beolineun Seom"
-        ],
-        "relations": [],
-        "tags": [
-            "korean animation",
-            "pets",
             "shorts"
         ],
         "date": {
@@ -5791,6 +5853,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/xin-datou-er-zi-he-xiao-tou-baba-2nd-season",
             "https://myanimelist.net/anime/43923"
         ],
         "title": "Xin Datou Er Zi He Xiao Tou Baba 2nd Season",
@@ -5804,10 +5867,14 @@
             "新大头儿子和小头爸爸 第二季"
         ],
         "relations": [
+            "https://anime-planet.com/anime/xin-datou-er-zi-he-xiao-tou-baba",
+            "https://anime-planet.com/anime/xin-datou-er-zi-he-xiao-tou-baba-3rd-season",
             "https://myanimelist.net/anime/43922",
             "https://myanimelist.net/anime/43924"
         ],
         "tags": [
+            "chinese animation",
+            "family friendly",
             "kids",
             "slice of life"
         ],
@@ -5860,36 +5927,6 @@
         ],
         "tags": [
             "comedy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/xiongmao-shou-zha",
-            "https://myanimelist.net/anime/44596"
-        ],
-        "title": "Xiongmao Shou Zha",
-        "type": "ona",
-        "episodes": 10,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "熊貓手扎"
-        ],
-        "relations": [],
-        "tags": [
-            "animal protagonists",
-            "anthropomorphic",
-            "bears",
-            "chinese animation",
-            "comedy",
-            "family friendly",
-            "pandas",
-            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -6093,15 +6130,14 @@
     {
         "sources": [
             "https://anime-planet.com/anime/zhui-meng-shaonian",
-            "https://myanimelist.net/anime/47020",
             "https://myanimelist.net/anime/48111"
         ],
         "title": "Zhui Meng Shaonian",
         "type": "ona",
         "episodes": 12,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1039/118364.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1039/118364t.jpg",
         "synonyms": [
             "追梦少年"
         ],

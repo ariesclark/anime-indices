@@ -55,39 +55,18 @@
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1606/123634.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1606/123634t.jpg",
         "synonyms": [
             "百变宝贝"
         ],
         "relations": [],
         "tags": [
+            "adventure",
             "chinese animation",
             "comedy",
-            "fantasy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2007
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44738"
-        ],
-        "title": "Bao Hulu De Mimi",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "宝葫芦的秘密"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "fantasy"
+            "kids",
+            "sci-fi"
         ],
         "date": {
             "season": "unknown",
@@ -156,20 +135,49 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/49624"
+            "https://anime-planet.com/anime/bu-bu-xiong",
+            "https://myanimelist.net/anime/45979"
         ],
-        "title": "CYO-MATEYO",
-        "type": "special",
-        "episodes": 1,
+        "title": "Bu Bu Xiong",
+        "type": "tv",
+        "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1256/117258.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1256/117258t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
-            "tyoma",
-            "ちょまてよ"
+            "布布熊"
         ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/chiisana-tokage"
+        ],
+        "title": "Chiisana Tokage",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/chiisana-tokage-1.webp?t=1654317786",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/chiisana-tokage-1-227x318.webp?t=1654317786",
+        "synonyms": [
+            "Topy and Little Creature"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "black and white",
+            "shorts"
+        ],
         "date": {
             "season": "unknown",
             "year": 2007
@@ -238,31 +246,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/45375"
-        ],
-        "title": "Congming Xiao Tianyan",
-        "type": "tv",
-        "episodes": 104,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "聪明小天眼"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/45374",
-            "https://myanimelist.net/anime/45376"
-        ],
-        "tags": [
-            "fantasy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2007
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/da-tang-fengyun",
             "https://myanimelist.net/anime/44665"
         ],
@@ -270,8 +253,8 @@
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1986/123654.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1986/123654t.jpg",
         "synonyms": [
             "大唐风云"
         ],
@@ -283,7 +266,6 @@
             "adventure",
             "chinese animation",
             "fantasy",
-            "historical",
             "kids"
         ],
         "date": {
@@ -339,10 +321,8 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44377",
             "https://myanimelist.net/anime/44378",
-            "https://myanimelist.net/anime/44379",
-            "https://myanimelist.net/anime/44380"
+            "https://myanimelist.net/anime/44379"
         ],
         "title": "Fuwa: Chao Shikong Renwu",
         "type": "tv",
@@ -356,6 +336,38 @@
         "relations": [],
         "tags": [
             "adventure",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/guodong-baobei",
+            "https://myanimelist.net/anime/44278"
+        ],
+        "title": "Guodong Baobei",
+        "type": "tv",
+        "episodes": 20,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "Jelly Babies",
+            "果凍寶貝"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/guodong-san-jianke",
+            "https://myanimelist.net/anime/44279"
+        ],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "comedy",
+            "family friendly",
+            "fantasy",
             "kids"
         ],
         "date": {
@@ -860,6 +872,30 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/ming-ji"
+        ],
+        "title": "Ming Ji",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/ming-ji-1.webp?t=1654113684",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/ming-ji-1-285x400.webp?t=1654113684",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/ming-ji-2-chu-zhi-lian"
+        ],
+        "tags": [
+            "chinese animation",
+            "romance",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/45197",
             "https://myanimelist.net/anime/45798"
         ],
@@ -1080,18 +1116,17 @@
         "type": "tv",
         "episodes": 132,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1048/123083.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1048/123083t.jpg",
         "synonyms": [
             "Magic Boy Kitchener",
             "神厨小福贵"
         ],
         "relations": [],
         "tags": [
-            "adventure",
             "chinese animation",
             "family friendly",
-            "historical",
+            "gourmet",
             "kids"
         ],
         "date": {
@@ -1101,6 +1136,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/shen-gong-chuanqi",
             "https://myanimelist.net/anime/43893"
         ],
         "title": "Shen Gong Chuanqi",
@@ -1114,9 +1150,11 @@
             "神弓传奇"
         ],
         "relations": [
+            "https://anime-planet.com/anime/sui-tang-yingxiong-chuan",
             "https://myanimelist.net/anime/44178"
         ],
         "tags": [
+            "chinese animation",
             "fantasy"
         ],
         "date": {
@@ -1617,6 +1655,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/yunduan-di-rizi",
             "https://myanimelist.net/anime/44505"
         ],
         "title": "Yunduan Di Rizi",
@@ -1630,7 +1669,9 @@
         ],
         "relations": [],
         "tags": [
-            "romance"
+            "chinese animation",
+            "romance",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",

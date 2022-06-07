@@ -469,25 +469,25 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/11509"
+            "https://anime-planet.com/anime/riyuetan",
+            "https://myanimelist.net/anime/43837"
         ],
-        "title": "Saru Kani Gassen (1996)",
-        "type": "ova",
+        "title": "Riyuetan",
+        "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/176324.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/176324.jpg-thumb.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1527/122468.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1527/122468t.jpg",
         "synonyms": [
-            "さるかにがっせん (1996)"
+            "日月潭"
         ],
-        "relations": [
-            "https://anidb.net/anime/10173",
-            "https://anidb.net/anime/11507",
-            "https://anidb.net/anime/11508",
-            "https://anidb.net/anime/5384",
-            "https://anidb.net/anime/6945"
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "fantasy",
+            "kids",
+            "shorts"
         ],
-        "tags": [],
         "date": {
             "season": "unknown",
             "year": 1996
@@ -495,6 +495,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/shenma-yu-yaodao",
             "https://myanimelist.net/anime/43838"
         ],
         "title": "Shenma Yu Yaodao",
@@ -508,8 +509,10 @@
         ],
         "relations": [],
         "tags": [
+            "chinese animation",
             "fantasy",
-            "kids"
+            "kids",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -620,8 +623,8 @@
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1815/122809.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1815/122809t.jpg",
         "synonyms": [
             "Jin Jin and the Panda Patrol",
             "Panda Jing Jing",
@@ -633,7 +636,6 @@
             "anthropomorphic",
             "chinese animation",
             "family friendly",
-            "fantasy",
             "kids",
             "pandas"
         ],

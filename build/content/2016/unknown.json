@@ -129,6 +129,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/au-tu-zhi-lai-le",
             "https://anisearch.com/anime/15649",
             "https://myanimelist.net/anime/45391"
         ],
@@ -144,19 +145,17 @@
             "阿U之兔智来了"
         ],
         "relations": [
-            "https://anisearch.com/anime/15548",
-            "https://anisearch.com/anime/15563",
-            "https://anisearch.com/anime/15591",
-            "https://anisearch.com/anime/15592",
-            "https://anisearch.com/anime/15593",
-            "https://anisearch.com/anime/15647",
-            "https://anisearch.com/anime/15648",
+            "https://anime-planet.com/anime/au-shenqi-luobo-3rd-season",
+            "https://anime-planet.com/anime/au-tu-zhi-lai-le-2nd-season",
             "https://myanimelist.net/anime/45390",
             "https://myanimelist.net/anime/45392"
         ],
         "tags": [
+            "chinese animation",
             "comedy",
-            "kids"
+            "family friendly",
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -165,6 +164,39 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/au-tu-zhi-lai-le-2nd-season",
+            "https://myanimelist.net/anime/45392"
+        ],
+        "title": "AU: Tu Zhi Lai Le 2nd Season",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1405/122387.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1405/122387t.jpg",
+        "synonyms": [
+            "阿U之兔智来了 第二部"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/au-shen-qihuan-jing",
+            "https://anime-planet.com/anime/au-tu-zhi-lai-le",
+            "https://myanimelist.net/anime/45391",
+            "https://myanimelist.net/anime/45393"
+        ],
+        "tags": [
+            "chinese animation",
+            "comedy",
+            "family friendly",
+            "kids",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/au-xue-kexue",
             "https://myanimelist.net/anime/45397"
         ],
         "title": "AU: Xue Kexue",
@@ -177,12 +209,16 @@
             "阿优学科学"
         ],
         "relations": [
+            "https://anime-planet.com/anime/au",
             "https://myanimelist.net/anime/45384",
             "https://myanimelist.net/anime/45398"
         ],
         "tags": [
+            "chinese animation",
             "comedy",
-            "kids"
+            "family friendly",
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -670,17 +706,21 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/baozou-lol-3rd-season"
+            "https://anime-planet.com/anime/baozou-lol-3rd-season",
+            "https://myanimelist.net/anime/44559"
         ],
         "title": "Baozou LOL 3rd Season",
         "type": "ona",
         "episodes": 13,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/baozou-lol-3rd-season-1.webp?t=1653408139",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/baozou-lol-3rd-season-1-257x360.webp?t=1653408139",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1072/123998.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1072/123998t.jpg",
+        "synonyms": [
+            "暴走撸啊撸 第三季"
+        ],
         "relations": [
-            "https://anime-planet.com/anime/baozou-lol-2nd-season"
+            "https://anime-planet.com/anime/baozou-lol-2nd-season",
+            "https://myanimelist.net/anime/44558"
         ],
         "tags": [
             "chibi",
@@ -1152,33 +1192,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/dong-zhiwu-dazhan",
-            "https://myanimelist.net/anime/44972"
-        ],
-        "title": "Dong Zhiwu Dazhan",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "动植物大战"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "chinese animation",
-            "family friendly",
-            "fantasy",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/dongwu-hechang-tuan",
             "https://myanimelist.net/anime/47703"
         ],
@@ -1186,19 +1199,19 @@
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1196/123432.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1196/123432t.jpg",
         "synonyms": [
             "Animal Chorus",
             "动物合唱团"
         ],
         "relations": [],
         "tags": [
-            "adventure",
             "animal protagonists",
             "anthropomorphic",
             "chinese animation",
             "family friendly",
+            "kids",
             "non-human protagonists",
             "short episodes"
         ],
@@ -1240,6 +1253,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/dou-long-zhanshi-waizhuan",
             "https://myanimelist.net/anime/44448"
         ],
         "title": "Dou Long Zhanshi Waizhuan",
@@ -1252,12 +1266,16 @@
             "斗龙战士外传"
         ],
         "relations": [
+            "https://anime-planet.com/anime/dou-long-zhanshi",
             "https://myanimelist.net/anime/44444"
         ],
         "tags": [
             "adventure",
+            "cg animation",
+            "chinese animation",
             "fantasy",
-            "kids"
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -1321,14 +1339,15 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/115269"
+            "https://anilist.co/anime/115269",
+            "https://myanimelist.net/anime/52003"
         ],
         "title": "Eto Sanbun no ichi",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115269-QRSx2OKO4ntd.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115269-QRSx2OKO4ntd.png",
+        "picture": "https://cdn.myanimelist.net/images/anime/1226/124265.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1226/124265t.jpg",
         "synonyms": [
             "Zodiac One Third",
             "干支1/3"
@@ -2085,66 +2104,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44286"
-        ],
-        "title": "Guo Bao Tegong Zhi Shuiguo Da Taowang",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "果宝特攻之水果大逃亡"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44280"
-        ],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/129492",
-            "https://anime-planet.com/anime/guobao-te-gong-shuigou-da-taowang"
-        ],
-        "title": "Guobao Te Gong: Shuigou Da Taowang",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/guobao-te-gong-shuigou-da-taowang-1.jpg?t=1625908972",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/guobao-te-gong-shuigou-da-taowang-1-190x266.jpg?t=1625908972",
-        "synonyms": [
-            "Fruity Robo: The Great Escape",
-            "果宝特攻之水果大逃亡"
-        ],
-        "relations": [
-            "https://anilist.co/anime/129491",
-            "https://anime-planet.com/anime/guobao-te-gong-4th-season"
-        ],
-        "tags": [
-            "cg animation",
-            "chinese animation",
-            "comedy",
-            "family friendly",
-            "full cgi",
-            "non-human protagonists",
-            "robots",
-            "sci fi"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/49028"
         ],
         "title": "HHH Triple Ecchi Bonus",
@@ -2205,41 +2164,6 @@
         "tags": [
             "cg animation",
             "vocaloid"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/haha-da-maoxian",
-            "https://myanimelist.net/anime/47508",
-            "https://myanimelist.net/anime/47558"
-        ],
-        "title": "Haha Da Maoxian",
-        "type": "tv",
-        "episodes": 104,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "The Adventure of Ha Ha",
-            "哈哈大冒险"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/haha-da-maoxian-2nd-season"
-        ],
-        "tags": [
-            "aliens",
-            "chinese animation",
-            "comedy",
-            "dinosaurs",
-            "family friendly",
-            "fantasy",
-            "kids",
-            "non-human protagonists",
-            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -3024,6 +2948,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kaixin-chaoren-lianmeng-yingxiong-guilai",
             "https://myanimelist.net/anime/44115"
         ],
         "title": "Kaixin Chaoren Lianmeng: Yingxiong Guilai",
@@ -3036,13 +2961,22 @@
             "开心超人联盟之英雄归来"
         ],
         "relations": [
+            "https://anime-planet.com/anime/kaixin-chaoren-lianmeng-chao-shikong-baowei-zhan",
+            "https://anime-planet.com/anime/kaixin-chaoren-lianmeng-xingji-weiji",
             "https://myanimelist.net/anime/44114",
             "https://myanimelist.net/anime/44116"
         ],
         "tags": [
+            "androids",
+            "chinese animation",
             "comedy",
+            "family friendly",
             "kids",
-            "sci-fi"
+            "robots",
+            "sci fi",
+            "sci-fi",
+            "short episodes",
+            "superheroes"
         ],
         "date": {
             "season": "unknown",
@@ -3051,23 +2985,33 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kaixin-chaoren-baoxiao-xing-xingqiu",
             "https://myanimelist.net/anime/44121"
         ],
-        "title": "Kaixin Chaoren Zhi Baoxiao Xing Xingqiu",
+        "title": "Kaixin Chaoren: Baoxiao Xing Xingqiu",
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1650/122973.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1650/122973t.jpg",
         "synonyms": [
             "开心超人之爆笑星星球"
         ],
         "relations": [
+            "https://anime-planet.com/anime/kaixin-baobei",
             "https://myanimelist.net/anime/44103"
         ],
         "tags": [
+            "androids",
+            "chinese animation",
             "comedy",
-            "kids"
+            "family friendly",
+            "kids",
+            "robots",
+            "sci fi",
+            "sci-fi",
+            "short episodes",
+            "superheroes"
         ],
         "date": {
             "season": "unknown",
@@ -3560,6 +3504,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/ling-su-zhengba",
             "https://myanimelist.net/anime/44035"
         ],
         "title": "Ling Su Zhengba",
@@ -3574,6 +3519,8 @@
         "relations": [],
         "tags": [
             "adventure",
+            "chinese animation",
+            "family friendly",
             "kids",
             "racing",
             "sci-fi"
@@ -3913,28 +3860,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/45777"
-        ],
-        "title": "Mai Jieke Xiao Zhen",
-        "type": "tv",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "麦杰克小镇"
-        ],
-        "relations": [],
-        "tags": [
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/maiasa-taihen-nandesu"
         ],
         "title": "Maiasa Taihen Nandesu",
@@ -4146,59 +4071,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44303"
-        ],
-        "title": "Menghuan Xiyou Zhi Lei Nu Weiji",
-        "type": "ona",
-        "episodes": 13,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1917/115827.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1917/115827t.jpg",
-        "synonyms": [
-            "梦幻西游之雷怒危机"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/33601"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "fantasy",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/menghuan-xiyou-lei-nu-weiji"
-        ],
-        "title": "Menghuan Xiyou: Lei Nu Weiji",
-        "type": "ona",
-        "episodes": 13,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/menghuan-xiyou-lei-nu-weiji-1.webp?t=1653087617",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/menghuan-xiyou-lei-nu-weiji-1-285x400.webp?t=1653087617",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/menghuan-xiyou-2",
-            "https://anime-planet.com/anime/menghuan-xiyou-tianming-zhi-zhan"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "chinese animation",
-            "fantasy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/47258"
         ],
         "title": "Mengxiang Zhaohuan Wang",
@@ -4287,24 +4159,33 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/mianhua-tang-he-yunduo-mama",
             "https://myanimelist.net/anime/44182"
         ],
         "title": "Mianhua Tang He Yunduo Mama",
         "type": "tv",
-        "episodes": 120,
+        "episodes": 240,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1421/123007.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1421/123007t.jpg",
         "synonyms": [
             "棉花糖和云朵妈妈"
         ],
         "relations": [
+            "https://anime-planet.com/anime/mianhua-tang-he-yunduo-mama-chaoji-xiao-mihua",
+            "https://anime-planet.com/anime/mianhua-tang-he-yunduo-mama-fu-shu-song-ji",
+            "https://anime-planet.com/anime/mianhua-tang-he-yunduo-mama-meimeng-cheng-zhen",
             "https://myanimelist.net/anime/43931",
-            "https://myanimelist.net/anime/44183"
+            "https://myanimelist.net/anime/44184",
+            "https://myanimelist.net/anime/44185",
+            "https://myanimelist.net/anime/44187"
         ],
         "tags": [
+            "chinese animation",
             "comedy",
-            "kids"
+            "family friendly",
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -4382,6 +4263,35 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/mohuan-tuoluo-ii",
+            "https://myanimelist.net/anime/46854"
+        ],
+        "title": "Mohuan Tuoluo II",
+        "type": "tv",
+        "episodes": 30,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1629/122345.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1629/122345t.jpg",
+        "synonyms": [
+            "魔幻陀螺II"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/mohuan-tuoluo-ji-jia-zhan-che",
+            "https://myanimelist.net/anime/46855"
+        ],
+        "tags": [
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "sports"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/114341"
         ],
         "title": "Mr. Complex Man",
@@ -4449,33 +4359,6 @@
             "comedy",
             "picture drama",
             "shounen"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44612"
-        ],
-        "title": "Na Nian Na Tu Naxie Shi season3",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "那年那兔那些事 第三季"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44610",
-            "https://myanimelist.net/anime/44613"
-        ],
-        "tags": [
-            "fantasy",
-            "historical",
-            "military"
         ],
         "date": {
             "season": "unknown",
@@ -4839,6 +4722,31 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/pao-fu-xiaojie-7th-season"
+        ],
+        "title": "Pao Fu Xiaojie 7th Season",
+        "type": "ona",
+        "episodes": 12,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/pao-fu-xiaojie-7th-season-1.webp?t=1653969135",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/pao-fu-xiaojie-7th-season-1-269x377.webp?t=1653969135",
+        "synonyms": [
+            "Miss Puff 7th Season"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/pao-fu-xiaojie-6th-season"
+        ],
+        "tags": [
+            "chinese animation",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/44540"
         ],
         "title": "Pao Fu Xiaojie season7",
@@ -5095,6 +5003,28 @@
             "chinese animation",
             "family friendly",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/qin-shi-ming-yue-2016-chunjie-tebie-pian"
+        ],
+        "title": "Qin Shi Ming Yue: 2016 Chunjie Tebie Pian",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/qin-shi-ming-yue-2016-chunjie-tebie-pian-1.webp?t=1654100926",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/qin-shi-ming-yue-2016-chunjie-tebie-pian-1-267x375.webp?t=1654100926",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/qin-shi-mingyue-junlin-tianxia"
+        ],
+        "tags": [
+            "chinese animation"
         ],
         "date": {
             "season": "unknown",
@@ -5844,33 +5774,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44420"
-        ],
-        "title": "Shaonian Shiye Zhi Zhongyi Man Qiankun",
-        "type": "tv",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "少年师爷之忠义满乾坤"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44419",
-            "https://myanimelist.net/anime/44421"
-        ],
-        "tags": [
-            "adventure",
-            "historical",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/shaonian-shiye-da-yu-baozang"
         ],
         "title": "Shaonian Shiye: Da Yu Baozang",
@@ -5949,49 +5852,29 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/shaonian-shiye-zhongyi-man-qiankun"
+            "https://anime-planet.com/anime/shaonian-shiye-zhongyi-man-qiankun",
+            "https://myanimelist.net/anime/44420"
         ],
         "title": "Shaonian Shiye: Zhongyi Man Qiankun",
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/shaonian-shiye-zhongyi-man-qiankun-1.webp?t=1652917782",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/shaonian-shiye-zhongyi-man-qiankun-1-285x400.webp?t=1652917782",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1108/123106.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1108/123106t.jpg",
+        "synonyms": [
+            "少年师爷之忠义满乾坤"
+        ],
         "relations": [
             "https://anime-planet.com/anime/shaonian-shiye-gongji-da-yu",
-            "https://anime-planet.com/anime/shaonian-shiye-yongzhe-chuang-jiangnan"
+            "https://anime-planet.com/anime/shaonian-shiye-yongzhe-chuang-jiangnan",
+            "https://myanimelist.net/anime/44419",
+            "https://myanimelist.net/anime/44421"
         ],
         "tags": [
-            "chinese animation",
-            "family friendly"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/shen-shou-jin-gang-qinglong-zaixian"
-        ],
-        "title": "Shen Shou Jin Gang: Qinglong Zaixian",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/shen-shou-jin-gang-qinglong-zaixian-1.webp?t=1653071635",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/shen-shou-jin-gang-qinglong-zaixian-1-285x400.webp?t=1653071635",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/shen-shou-jin-gang"
-        ],
-        "tags": [
-            "action",
             "chinese animation",
             "family friendly",
-            "mecha",
-            "sci fi",
-            "sentai"
+            "historical",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -6053,25 +5936,23 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44397"
+            "https://myanimelist.net/anime/44478"
         ],
-        "title": "Shenshou Jingang Zhi Qinglong Zaixian",
-        "type": "movie",
-        "episodes": 1,
+        "title": "Shenqi A You: Zui Qiang Liuxing Ren",
+        "type": "tv",
+        "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1462/122314.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1462/122314t.jpg",
         "synonyms": [
-            "神兽金刚之青龙再现"
+            "The most amazing, yo stars",
+            "神奇阿呦之最强流星人"
         ],
         "relations": [
-            "https://myanimelist.net/anime/44392"
+            "https://myanimelist.net/anime/44477"
         ],
         "tags": [
-            "action",
-            "adventure",
-            "kids",
-            "mecha"
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -6121,57 +6002,6 @@
             "promotional",
             "shounen",
             "sports"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44959"
-        ],
-        "title": "Shuiguo Baobei Zhi Shuiguo Zongdongyuan",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "水果宝贝之水果总动员"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44958"
-        ],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/shuiguo-baobei-shuiguo-zong-dong-yuan"
-        ],
-        "title": "Shuiguo Baobei: Shuiguo Zong Dong Yuan",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/shuiguo-baobei-shuiguo-zong-dong-yuan-1.webp?t=1652916015",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/shuiguo-baobei-shuiguo-zong-dong-yuan-1-269x377.webp?t=1652916015",
-        "synonyms": [
-            "Fruit Story"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/shuiguo-baobei"
-        ],
-        "tags": [
-            "chinese animation",
-            "family friendly"
         ],
         "date": {
             "season": "unknown",
@@ -6536,42 +6366,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/the-god-of-high-school-pv",
-            "https://myanimelist.net/anime/42893"
-        ],
-        "title": "The God of Highschool",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1630/109645.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1630/109645t.jpg",
-        "synonyms": [
-            "The God of High School PV",
-            "갓오브하이스쿨 PV"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/the-god-of-high-school",
-            "https://myanimelist.net/anime/41353"
-        ],
-        "tags": [
-            "action",
-            "based on a webtoon",
-            "fantasy",
-            "hand to hand combat",
-            "korean animation",
-            "martial arts",
-            "promotional",
-            "sci-fi",
-            "supernatural",
-            "superpowers"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/the-great-passage-yokoku"
         ],
         "title": "The Great Passage: Yokoku",
@@ -6618,8 +6412,12 @@
         "relations": [],
         "tags": [
             "abstract",
+            "aliens",
             "avant garde",
+            "aviation",
+            "gore",
             "no dialogue",
+            "nudity",
             "shorts"
         ],
         "date": {
@@ -7038,6 +6836,27 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/vita-lakamaya"
+        ],
+        "title": "Vita Lakamaya",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/vita-lakamaya-1.webp?t=1654319205",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/vita-lakamaya-1-285x399.webp?t=1654319205",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "forest",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/viva-sherry-xmas-song"
         ],
         "title": "Viva Sherry: Xmas Song",
@@ -7389,6 +7208,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/xiao-jigong",
             "https://myanimelist.net/anime/44181"
         ],
         "title": "Xiao Jigong",
@@ -7403,6 +7223,7 @@
         "relations": [],
         "tags": [
             "adventure",
+            "chinese animation",
             "fantasy",
             "kids"
         ],
@@ -7439,6 +7260,36 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/xiao-po-hai-you-neihan",
+            "https://myanimelist.net/anime/44504"
+        ],
+        "title": "Xiao Po Hai: You Neihan",
+        "type": "tv",
+        "episodes": 30,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1130/122919.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1130/122919t.jpg",
+        "synonyms": [
+            "小破孩有内涵"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/xiao-po-hai",
+            "https://myanimelist.net/anime/44503"
+        ],
+        "tags": [
+            "chinese animation",
+            "comedy",
+            "family friendly",
+            "kids",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/45224"
         ],
         "title": "Xiaoxiong Ni Ao Zhi Mengjing Xiao Zhen",
@@ -7464,20 +7315,21 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/43936"
+            "https://anime-planet.com/anime/xin-dongfang-shenwa"
         ],
-        "title": "Xin Datou Er Zi He Xiao Tou Baba Zhi Chao Neng Baba",
-        "type": "special",
+        "title": "Xin Dongfang Shenwa",
+        "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "新大头儿子和小头爸爸之超能爸爸"
+        "picture": "https://cdn.anime-planet.com/anime/primary/xin-dongfang-shenwa-1.webp?t=1654055706",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/xin-dongfang-shenwa-1-266x373.webp?t=1654055706",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/dongfang-shenwa"
         ],
-        "relations": [],
         "tags": [
-            "kids"
+            "chinese animation",
+            "family friendly"
         ],
         "date": {
             "season": "unknown",
@@ -7627,52 +7479,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/yingxiong-jangar-xunbao-ji"
-        ],
-        "title": "Yingxiong Jangar: Xunbao Ji",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/yingxiong-jangar-xunbao-ji-1.webp?t=1652916323",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/yingxiong-jangar-xunbao-ji-1-285x400.webp?t=1652916323",
-        "synonyms": [
-            "The Legend of Jangar"
-        ],
-        "relations": [],
-        "tags": [
-            "chinese animation",
-            "family friendly"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44978"
-        ],
-        "title": "Yingxiong Jiang Ge Er Zhi Xunbao Ji",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "英雄江格尔之寻宝记"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/yokomin-snow-bullet"
         ],
         "title": "Yokomin: Snow Bullet",
@@ -7728,6 +7534,30 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/you-shen-me-2nd-season"
+        ],
+        "title": "You Shen Me 2nd Season",
+        "type": "ona",
+        "episodes": 10,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/you-shen-me-2nd-season-1.webp?t=1653966906",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/you-shen-me-2nd-season-1-269x377.webp?t=1653966906",
+        "synonyms": [
+            "Is There a God? 2nd Season"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "fantasy",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/44970"
         ],
         "title": "Yuan Chuang Shijie Zhi Xiong Hai Zi Buluo",
@@ -7744,32 +7574,6 @@
             "adventure",
             "historical",
             "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44466"
-        ],
-        "title": "Yuanqi Zhengjiu Dui",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "元气拯救队"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44465"
-        ],
-        "tags": [
-            "adventure",
-            "kids",
-            "mecha"
         ],
         "date": {
             "season": "unknown",
@@ -7807,16 +7611,15 @@
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1386/122331.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1386/122331t.jpg",
         "synonyms": [
-            "戰鬥吧靈獸"
+            "战斗吧灵兽"
         ],
         "relations": [],
         "tags": [
-            "adventure",
-            "fantasy",
-            "kids"
+            "kids",
+            "mecha"
         ],
         "date": {
             "season": "unknown",
@@ -7966,13 +7769,15 @@
         "type": "tv",
         "episodes": 14,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1553/123633.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1553/123633t.jpg",
         "synonyms": [
             "Zui ke Ai De Ren",
             "最可爱的人"
         ],
-        "relations": [],
+        "relations": [
+            "https://myanimelist.net/anime/51640"
+        ],
         "tags": [
             "chinese animation",
             "historical",

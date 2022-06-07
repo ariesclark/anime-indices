@@ -80,6 +80,7 @@
         "relations": [],
         "tags": [
             "alcohol",
+            "cocktails",
             "food and beverage",
             "vocaloid"
         ],
@@ -168,6 +169,41 @@
             "chinese animation",
             "comedy",
             "school life",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/au-de-fannao-2nd-season",
+            "https://anisearch.com/anime/16309",
+            "https://myanimelist.net/anime/45400"
+        ],
+        "title": "AU: De Fannao 2nd Season",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1491/122397.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1491/122397t.jpg",
+        "synonyms": [
+            "A U De Fan Nao 2",
+            "A U De Fannao 2",
+            "阿U的烦恼 第二季",
+            "阿U的烦恼2",
+            "阿优的烦恼第二季"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/au-de-fannao",
+            "https://myanimelist.net/anime/45394"
+        ],
+        "tags": [
+            "chinese animation",
+            "comedy",
+            "family friendly",
+            "kids",
             "short episodes"
         ],
         "date": {
@@ -675,19 +711,23 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/bai-yue-lixian-ji-zhuang-jin-mima"
+            "https://anime-planet.com/anime/bai-yue-lixian-ji-zhuang-jin-mima",
+            "https://myanimelist.net/anime/47577"
         ],
         "title": "Bai Yue Lixian Ji: Zhuang Jin Mima",
         "type": "tv",
         "episodes": 13,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/bai-yue-lixian-ji-zhuang-jin-mima-1.webp?t=1652743426",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/bai-yue-lixian-ji-zhuang-jin-mima-1-285x400.webp?t=1652743426",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1502/123205.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1502/123205t.jpg",
+        "synonyms": [
+            "百越历险记之壮锦密码"
+        ],
         "relations": [],
         "tags": [
             "chinese animation",
             "fantasy",
+            "kids",
             "short episodes"
         ],
         "date": {
@@ -760,17 +800,20 @@
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1450/123216.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1450/123216t.jpg",
         "synonyms": [
             "笨笨与机灵"
         ],
-        "relations": [],
+        "relations": [
+            "https://myanimelist.net/anime/47567"
+        ],
         "tags": [
             "anthropomorphic",
             "chinese animation",
             "family friendly",
-            "fantasy"
+            "fantasy",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -803,39 +846,6 @@
             "fantasy",
             "kids",
             "non-human protagonists"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/bie-re-liumang-tu-ma-xiu-2"
-        ],
-        "title": "Bie Re Liumang Tu Ma Xiu 2",
-        "type": "ona",
-        "episodes": 70,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/bie-re-liumang-tu-ma-xiu-2-1.webp?t=1652745111",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/bie-re-liumang-tu-ma-xiu-2-1-185x260.webp?t=1652745111",
-        "synonyms": [
-            "Mashimaro 2"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/bie-re-liumang-tu-ma-xiu",
-            "https://anime-planet.com/anime/bie-re-liumang-tu-ma-xiu-3"
-        ],
-        "tags": [
-            "animal protagonists",
-            "anthropomorphic",
-            "cg animation",
-            "chinese animation",
-            "comedy",
-            "non-human protagonists",
-            "rabbits",
-            "sanrio characters",
-            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -1107,37 +1117,6 @@
         "tags": [
             "adventure",
             "fantasy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/chidori-rsc-nationals-are-right-before-us"
-        ],
-        "title": "Chidori RSC: Nationals Are Right Before Us",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/chidori-rsc-nationals-are-right-before-us-1.jpg?t=1625907952",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/chidori-rsc-nationals-are-right-before-us-1-190x266.jpg?t=1625907952",
-        "synonyms": [
-            "Rifle Is Beautiful: Zenkokutaikai Is Mokuzen"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/chidori-rsc"
-        ],
-        "tags": [
-            "based on a 4-koma manga",
-            "based on a manga",
-            "comedy",
-            "guns",
-            "recap",
-            "school life",
-            "seinen",
-            "sports"
         ],
         "date": {
             "season": "unknown",
@@ -1927,7 +1906,9 @@
             "沌愛"
         ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "stop motion"
+        ],
         "date": {
             "season": "unknown",
             "year": 2019
@@ -3084,6 +3065,30 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/hanhwa-eagles-we"
+        ],
+        "title": "Hanhwa Eagles: We",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/hanhwa-eagles-we-1.webp?t=1654281981",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/hanhwa-eagles-we-1-285x400.webp?t=1654281981",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "baseball",
+            "korean animation",
+            "original work",
+            "shorts",
+            "sports"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/harumaki-gohan-pokapoka-no-hoshi"
         ],
         "title": "Harumaki Gohan: Pokapoka no Hoshi",
@@ -3357,35 +3362,6 @@
         ],
         "tags": [
             "idols"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/49871"
-        ],
-        "title": "Hensuki▽",
-        "type": "special",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1564/117823.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1564/117823t.jpg",
-        "synonyms": [
-            "変好き▽"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/39326"
-        ],
-        "tags": [
-            "comedy",
-            "harem",
-            "romance",
-            "school",
-            "shounen",
-            "slice of life"
         ],
         "date": {
             "season": "unknown",
@@ -5097,35 +5073,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/jojos-bizarre-adventure-golden-wind-recaps"
-        ],
-        "title": "JoJo's Bizarre Adventure: Golden Wind Recaps",
-        "type": "special",
-        "episodes": 3,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/jojos-bizarre-adventure-golden-wind-recaps-1.jpg?t=1625899052",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/jojos-bizarre-adventure-golden-wind-recaps-1-190x271.jpg?t=1625899052",
-        "synonyms": [
-            "JoJo no Kimyou na Bouken: Ougon no Kaze Recap"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/jojos-bizarre-adventure-golden-wind"
-        ],
-        "tags": [
-            "action",
-            "based on a manga",
-            "europe",
-            "italy",
-            "recap",
-            "shounen"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/joahae-neoreul"
         ],
         "title": "Joahae Neoreul",
@@ -5243,6 +5190,36 @@
         "tags": [
             "adventure",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/kaixin-chaoren-lianmeng-xingji-lianmeng"
+        ],
+        "title": "Kaixin Chaoren Lianmeng: Xingji Lianmeng",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/kaixin-chaoren-lianmeng-xingji-lianmeng-1.webp?t=1654107308",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kaixin-chaoren-lianmeng-xingji-lianmeng-1-285x399.webp?t=1654107308",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/kaixin-chaoren-lianmeng-nengyuan-he-shouhu-zhe",
+            "https://anime-planet.com/anime/kaixin-chaoren-lianmeng-xingji-weiji"
+        ],
+        "tags": [
+            "androids",
+            "chinese animation",
+            "comedy",
+            "family friendly",
+            "robots",
+            "sci fi",
+            "short episodes",
+            "superheroes"
         ],
         "date": {
             "season": "unknown",
@@ -5383,33 +5360,6 @@
         "relations": [],
         "tags": [
             "abstract"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/king-of-prism-shiny-seven-stars-ii-kakeru-x-george-x-minato"
-        ],
-        "title": "King of Prism: Shiny Seven Stars II - Kakeru x George x Minato",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/king-of-prism-shiny-seven-stars-ii-kakeru-x-george-x-minato-1.jpg?t=1625899059",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/king-of-prism-shiny-seven-stars-ii-kakeru-x-george-x-minato-1-190x275.jpg?t=1625899059",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/king-of-prism-shiny-seven-stars",
-            "https://anime-planet.com/anime/king-of-prism-shiny-seven-stars-i-prologue-x-yukinojou-x-taiga",
-            "https://anime-planet.com/anime/king-of-prism-shiny-seven-stars-iii-leo-x-yuu-x-alexander",
-            "https://anime-planet.com/anime/king-of-prism-shiny-seven-stars-iv-louis-x-shin-x-unknown"
-        ],
-        "tags": [
-            "idols",
-            "music",
-            "showbiz"
         ],
         "date": {
             "season": "unknown",
@@ -6621,6 +6571,35 @@
         "tags": [
             "fantasy",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/mohuan-tuoluo-ju-neng-yinqing",
+            "https://myanimelist.net/anime/46856"
+        ],
+        "title": "Mohuan Tuoluo: Ju Neng Yinqing",
+        "type": "tv",
+        "episodes": 30,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1259/122347.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1259/122347t.jpg",
+        "synonyms": [
+            "魔幻陀螺之聚能引擎"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/mohuan-tuoluo-ji-jia-zhan-che",
+            "https://myanimelist.net/anime/46855"
+        ],
+        "tags": [
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "sports"
         ],
         "date": {
             "season": "unknown",
@@ -8693,22 +8672,29 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/shaonian-shiye-zhihui-si-lu"
+            "https://anime-planet.com/anime/shaonian-shiye-zhihui-si-lu",
+            "https://myanimelist.net/anime/44425"
         ],
         "title": "Shaonian Shiye: Zhihui Si Lu",
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/shaonian-shiye-zhihui-si-lu-1.webp?t=1652918565",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/shaonian-shiye-zhihui-si-lu-1-285x400.webp?t=1652918565",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1326/123111.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1326/123111t.jpg",
+        "synonyms": [
+            "少年师爷之智慧丝路"
+        ],
         "relations": [
             "https://anime-planet.com/anime/shaonian-shiye-duanan-chuanqi",
-            "https://anime-planet.com/anime/shaonian-shiye-jishan-yang-ming"
+            "https://anime-planet.com/anime/shaonian-shiye-jishan-yang-ming",
+            "https://myanimelist.net/anime/44424",
+            "https://myanimelist.net/anime/44426"
         ],
         "tags": [
             "chinese animation",
-            "family friendly"
+            "family friendly",
+            "historical",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -8945,35 +8931,6 @@
             "korean animation",
             "music",
             "showbiz"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/49151"
-        ],
-        "title": "Shinkai Shōjo wo Utattemita",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1291/115630.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1291/115630t.jpg",
-        "synonyms": [
-            "BanG Dream! x Hatsune Miku",
-            "深海少女を歌ってみた"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/33573",
-            "https://myanimelist.net/anime/40291",
-            "https://myanimelist.net/anime/40292",
-            "https://myanimelist.net/anime/40293",
-            "https://myanimelist.net/anime/40294"
-        ],
-        "tags": [
-            "music"
         ],
         "date": {
             "season": "unknown",
@@ -9565,6 +9522,31 @@
         "relations": [],
         "tags": [
             "psychological"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/tales-of-the-unusual"
+        ],
+        "title": "Tales of the Unusual",
+        "type": "ona",
+        "episodes": 20,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/tales-of-the-unusual-1.webp?t=1654177229",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/tales-of-the-unusual-1-285x399.webp?t=1654177229",
+        "synonyms": [
+            "Gigigoegoe"
+        ],
+        "relations": [],
+        "tags": [
+            "based on a webtoon",
+            "horror",
+            "korean animation",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -10669,19 +10651,25 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/xiaolong-wan-di-huanle-xiaoyuan"
+            "https://anime-planet.com/anime/xiaolong-wan-di-huanle-xiaoyuan",
+            "https://myanimelist.net/anime/47732"
         ],
         "title": "Xiaolong Wan Di: Huanle Xiaoyuan",
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/xiaolong-wan-di-huanle-xiaoyuan-1.webp?t=1652742001",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/xiaolong-wan-di-huanle-xiaoyuan-1-285x400.webp?t=1652742001",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1418/123451.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1418/123451t.jpg",
+        "synonyms": [
+            "小龙万迪之欢乐校园"
+        ],
         "relations": [],
         "tags": [
+            "anthropomorphic",
             "chinese animation",
             "family friendly",
+            "fantasy",
+            "kids",
             "short episodes"
         ],
         "date": {
@@ -10691,21 +10679,29 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/43934"
+            "https://anime-planet.com/anime/xin-datou-er-zi-he-xiao-tou-baba-6th-season",
+            "https://myanimelist.net/anime/43927"
         ],
-        "title": "Xin Datou Er Zi He Xiao Tou Baba Chuxi·Baiye Cheng",
-        "type": "special",
-        "episodes": 1,
+        "title": "Xin Datou Er Zi He Xiao Tou Baba 6th Season",
+        "type": "tv",
+        "episodes": 100,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1051/122600.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1051/122600t.jpg",
         "synonyms": [
-            "新大头儿子和小头爸爸 除夕·白夜城"
+            "New Big Head Son and Little Head Dad 6th Season",
+            "新大头儿子和小头爸爸第六季"
         ],
-        "relations": [],
+        "relations": [
+            "https://anime-planet.com/anime/xin-datou-er-zi-he-xiao-tou-baba-5th-season",
+            "https://myanimelist.net/anime/43926"
+        ],
         "tags": [
-            "comedy",
-            "kids"
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "short episodes",
+            "slice of life"
         ],
         "date": {
             "season": "unknown",
@@ -10837,24 +10833,31 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/xiong-chumo-xiongxiong-huanle-song",
             "https://myanimelist.net/anime/44140"
         ],
-        "title": "Xiong Chumo Zhi Xiongxiong Huanle Song",
+        "title": "Xiong Chumo: Xiongxiong Huanle Song",
         "type": "tv",
         "episodes": 13,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1650/122986.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1650/122986t.jpg",
         "synonyms": [
+            "Boonie Cub Tune Club",
             "熊出没之熊熊欢乐颂"
         ],
         "relations": [
             "https://myanimelist.net/anime/32807"
         ],
         "tags": [
-            "fantasy",
+            "animal protagonists",
+            "bears",
+            "chinese animation",
+            "family friendly",
             "kids",
-            "music"
+            "music",
+            "non-human protagonists",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -11399,24 +11402,21 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44356"
+            "https://myanimelist.net/anime/51967"
         ],
-        "title": "Zhu Zhu Xiabukesiyi De Shijie",
-        "type": "movie",
+        "title": "Zhui Meng Zhe",
+        "type": "ona",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1262/124148.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1262/124148t.jpg",
         "synonyms": [
-            "猪猪侠·不可思议的世界"
+            "追梦者"
         ],
-        "relations": [
-            "https://myanimelist.net/anime/38126"
-        ],
+        "relations": [],
         "tags": [
-            "adventure",
-            "fantasy",
-            "kids"
+            "drama",
+            "historical"
         ],
         "date": {
             "season": "unknown",

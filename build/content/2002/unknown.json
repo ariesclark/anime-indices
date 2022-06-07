@@ -30,6 +30,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/baiyu-tang",
             "https://myanimelist.net/anime/43868"
         ],
         "title": "Baiyu Tang",
@@ -44,10 +45,12 @@
         "relations": [],
         "tags": [
             "action",
+            "chinese animation",
             "drama",
             "historical",
             "kids",
-            "martial arts"
+            "martial arts",
+            "stop motion animation"
         ],
         "date": {
             "season": "unknown",
@@ -121,11 +124,7 @@
             "The Restaurant of Many Orders (2002)",
             "注文の多い料理店 （2002）"
         ],
-        "relations": [
-            "https://anisearch.com/anime/11271",
-            "https://anisearch.com/anime/168",
-            "https://anisearch.com/anime/5976"
-        ],
+        "relations": [],
         "tags": [
             "horror"
         ],
@@ -309,6 +308,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/guai-cheng",
             "https://myanimelist.net/anime/43854"
         ],
         "title": "Guai Cheng",
@@ -323,7 +323,10 @@
         "relations": [],
         "tags": [
             "adventure",
-            "kids"
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -464,19 +467,24 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/mimi-jihua"
+            "https://anime-planet.com/anime/mimi-jihua",
+            "https://myanimelist.net/anime/44679"
         ],
         "title": "Mimi Jihua",
         "type": "tv",
         "episodes": 104,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/mimi-jihua-1.webp?t=1653367718",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/mimi-jihua-1-255x358.webp?t=1653367718",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1047/124011.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1047/124011t.jpg",
+        "synonyms": [
+            "蜜蜜计划"
+        ],
         "relations": [],
         "tags": [
             "chinese animation",
+            "comedy",
             "family friendly",
+            "fantasy",
             "short episodes"
         ],
         "date": {
@@ -506,6 +514,33 @@
             "family friendly",
             "music",
             "non-human protagonists"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2002
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/mogui-xinpian",
+            "https://myanimelist.net/anime/43871"
+        ],
+        "title": "Mogui Xinpian",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1136/122509.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1136/122509t.jpg",
+        "synonyms": [
+            "魔鬼芯片"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "fantasy",
+            "kids",
+            "sci-fi"
         ],
         "date": {
             "season": "unknown",
@@ -727,17 +762,17 @@
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1351/122505.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1351/122505t.jpg",
         "synonyms": [
             "Whose husband is the furthest away",
-            "誰的丈夫離得最遠"
+            "谁的丈夫离得最远"
         ],
         "relations": [],
         "tags": [
+            "adult cast",
             "chinese animation",
             "comedy",
-            "kids",
             "shorts"
         ],
         "date": {
@@ -842,6 +877,36 @@
             "dinosaurs",
             "family friendly",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2002
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/xiao-po-hai",
+            "https://myanimelist.net/anime/44503"
+        ],
+        "title": "Xiao Po Hai",
+        "type": "tv",
+        "episodes": 130,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1965/122917.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1965/122917t.jpg",
+        "synonyms": [
+            "小破孩"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/xiao-po-hai-you-neihan",
+            "https://myanimelist.net/anime/44504"
+        ],
+        "tags": [
+            "chinese animation",
+            "comedy",
+            "family friendly",
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",

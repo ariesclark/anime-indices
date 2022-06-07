@@ -259,9 +259,6 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/86-eighty-six",
-            "https://anisearch.com/anime/15075",
-            "https://anisearch.com/anime/16205",
-            "https://anisearch.com/anime/16844",
             "https://kitsu.io/anime/43066",
             "https://myanimelist.net/anime/41457",
             "https://notify.moe/anime/jr9QQBXWg"
@@ -782,7 +779,6 @@
             "https://anidb.net/anime/16401",
             "https://anilist.co/anime/136064",
             "https://anime-planet.com/anime/backflip-movie",
-            "https://anisearch.com/anime/16695",
             "https://kitsu.io/anime/44811",
             "https://livechart.me/anime/10658",
             "https://myanimelist.net/anime/49283",
@@ -1218,7 +1214,6 @@
             "agender",
             "astronomy",
             "based on a light novel",
-            "boys' love",
             "chibi",
             "comedy",
             "coming of age",
@@ -1461,6 +1456,7 @@
             "My Hero Academia Temporada 5",
             "bnha5",
             "heroaca5",
+            "Моя геройская академия 5 сезон",
             "أكاديميتي للأبطال",
             "มายฮีโร่ อคาเดเมีย ภาค 5",
             "僕のヒーローアカデミア",
@@ -1690,9 +1686,6 @@
             "https://anime-planet.com/anime/cardfight-vanguard-overdress-2nd-season",
             "https://anime-planet.com/anime/cardfight-vanguard-overdress-3rd-season",
             "https://anime-planet.com/anime/cardfight-vanguard-overdress-4th-season",
-            "https://anisearch.com/anime/15952",
-            "https://anisearch.com/anime/16722",
-            "https://anisearch.com/anime/16723",
             "https://kitsu.io/anime/44521",
             "https://kitsu.io/anime/5781",
             "https://livechart.me/anime/10356",
@@ -1811,6 +1804,7 @@
             "comedy",
             "fantasy",
             "isekai",
+            "reincarnation",
             "short episodes",
             "slice of life",
             "teacher"
@@ -1876,6 +1870,30 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/131647"
+        ],
+        "title": "Chao Shikong Kuaidi",
+        "type": "ona",
+        "episodes": 12,
+        "status": "unknown",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131647-t7XvwvT5OjVH.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131647-t7XvwvT5OjVH.png",
+        "synonyms": [
+            "Happierspace Express",
+            "超时空快递"
+        ],
+        "relations": [],
+        "tags": [
+            "comedy",
+            "sci-fi"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/132467",
             "https://anime-planet.com/anime/chibireve",
             "https://anisearch.com/anime/16333",
@@ -1892,8 +1910,10 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1975/114442t.jpg",
         "synonyms": [
             "Chiberibe",
+            "Chibi Ribe",
             "Chibi-Revengers",
             "ChibiReve",
+            "Chibiribe",
             "Tokyo Revengers Mini Anime",
             "Tokyo Revengers Mini Anime Chiberibe",
             "Tokyo Revengers: Chibi Reve",
@@ -3906,8 +3926,6 @@
             "https://anilist.co/anime/138565",
             "https://anime-planet.com/anime/to-your-eternity-2nd-season",
             "https://anime-planet.com/anime/to-your-eternity-recap",
-            "https://anisearch.com/anime/16424",
-            "https://anisearch.com/anime/16611",
             "https://kitsu.io/anime/44824",
             "https://kitsu.io/anime/45045",
             "https://livechart.me/anime/10767",
@@ -4055,6 +4073,7 @@
     {
         "sources": [
             "https://anilist.co/anime/136019",
+            "https://anime-planet.com/anime/nayutan-seijin-ginga-dentou",
             "https://kitsu.io/anime/44807",
             "https://myanimelist.net/anime/51061"
         ],
@@ -4066,15 +4085,19 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1141/121001t.jpg",
         "synonyms": [
             "Galaxy Lightway",
+            "Nayutan Seijin: Galaxy Lightway",
+            "Nayutan Seijin: Ginga Dentou",
             "銀河電燈"
         ],
         "relations": [],
         "tags": [
             "aliens",
             "music",
+            "romance",
             "space",
             "the arts",
-            "trains"
+            "trains",
+            "vocaloid"
         ],
         "date": {
             "season": "spring",
@@ -4194,6 +4217,7 @@
             "The Way of the Househusband",
             "The Way of the Househusband Part 1",
             "Viața unui casnic",
+            "Yakuza Goes Hausmann",
             "Yakuza goes Hausmann",
             "Yakuza goes Houseman",
             "Yakuza w fartuszku. Kodeks perfekcyjnego pana domu",
@@ -4212,7 +4236,6 @@
             "https://anidb.net/anime/16200",
             "https://anilist.co/anime/132193",
             "https://anime-planet.com/anime/the-way-of-the-househusband-2",
-            "https://anisearch.com/anime/16625",
             "https://kitsu.io/anime/44336",
             "https://livechart.me/anime/10519",
             "https://myanimelist.net/anime/48707",
@@ -4393,6 +4416,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1157/118379.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1157/118379t.jpg",
         "synonyms": [
+            "Heroes of the Ancient Olympic Games",
             "Heroes of the ancient Olympic Games"
         ],
         "relations": [],
@@ -4469,18 +4493,6 @@
             "https://anime-planet.com/anime/hetalia-the-world-twinkle",
             "https://anime-planet.com/anime/hetalia-world-series",
             "https://anime-planet.com/anime/hetalia-world-stars-specials",
-            "https://anisearch.com/anime/10081",
-            "https://anisearch.com/anime/10595",
-            "https://anisearch.com/anime/14199",
-            "https://anisearch.com/anime/14201",
-            "https://anisearch.com/anime/16324",
-            "https://anisearch.com/anime/5006",
-            "https://anisearch.com/anime/5754",
-            "https://anisearch.com/anime/6280",
-            "https://anisearch.com/anime/7876",
-            "https://anisearch.com/anime/7997",
-            "https://anisearch.com/anime/8997",
-            "https://anisearch.com/anime/9004",
             "https://kitsu.io/anime/3910",
             "https://kitsu.io/anime/44998",
             "https://livechart.me/anime/10504",
@@ -4510,6 +4522,7 @@
             "educational",
             "ensemble cast",
             "gag",
+            "gag humor",
             "historical",
             "manga",
             "non-human protagonists",
@@ -4552,6 +4565,7 @@
             "I Shaved My Beard Then Picked Up a High School Girl.",
             "I Shaved. Then I Brought a High School Girl Home.",
             "What Happened When I Shaved My Beard",
+            "Я побрился. И приютил школьницу",
             "Я поголився. А потім привів додому старшокласницю.",
             "โกนหนวดไปทำงาน แล้วกลับบ้านมาพบเธอ",
             "ひげを剃る. そして女子高生を拾う.",
@@ -4664,10 +4678,10 @@
             "https://kitsu.io/anime/44972",
             "https://kitsu.io/anime/45202",
             "https://kitsu.io/anime/45265",
-            "https://kitsu.io/anime/45899",
             "https://kitsu.io/anime/46082",
             "https://kitsu.io/anime/46122",
             "https://kitsu.io/anime/46140",
+            "https://kitsu.io/anime/46152",
             "https://livechart.me/anime/10320",
             "https://livechart.me/anime/10351",
             "https://livechart.me/anime/11082",
@@ -4978,7 +4992,8 @@
         "relations": [
             "https://anidb.net/anime/17357",
             "https://anime-planet.com/anime/iii-icecrin-2",
-            "https://livechart.me/anime/11211"
+            "https://livechart.me/anime/11211",
+            "https://myanimelist.net/anime/51839"
         ],
         "tags": [
             "animal protagonists",
@@ -5068,6 +5083,7 @@
             "primarily teen cast",
             "romance",
             "romantic comedy",
+            "romantic subtext",
             "school",
             "school club",
             "school life",
@@ -5079,29 +5095,6 @@
             "tomboy",
             "tsundere",
             "yandere"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/10481"
-        ],
-        "title": "Ikinuke! Bakusou! Kusohamu-chan!",
-        "type": "ona",
-        "episodes": 24,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/10481/poster_image/e3389e28976f73d780a86fa785b69d40.webp?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/10481/poster_image/e3389e28976f73d780a86fa785b69d40.webp?style=small&format=jpg",
-        "synonyms": [
-            "生き抜け！爆走！クソハムちゃん"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "slice of life"
         ],
         "date": {
             "season": "spring",
@@ -5309,6 +5302,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1892/114853t.jpg",
         "synonyms": [
             "Bottom-Tier Character Tomozaki OVA",
+            "Bottom-Tier Character Tomozaki Specials",
             "Bottom-tier Character Tomozaki OVA",
             "Jaku-Chara Tomozaki-kun OVA",
             "The Low Tier Character \"Tomozaki-kun\" OVA",
@@ -5320,7 +5314,6 @@
         "relations": [
             "https://anilist.co/anime/112443",
             "https://anime-planet.com/anime/bottom-tier-character-tomozaki",
-            "https://anisearch.com/anime/14684",
             "https://kitsu.io/anime/42621",
             "https://livechart.me/anime/11034",
             "https://livechart.me/anime/9638",
@@ -5430,6 +5423,7 @@
             "Alrihla (الرحلة)",
             "Journey: Taiko Arabia Hantō de no Kiseki to Tatakai no Monogatari",
             "The Journey",
+            "The Journey: Die Legende vom guten Dieb",
             "الرحلة",
             "فيلم الرحلة",
             "ジャーニー",
@@ -5439,6 +5433,7 @@
         "tags": [
             "action",
             "adventure",
+            "fantasy",
             "foreign",
             "gore",
             "historical",
@@ -6395,7 +6390,8 @@
             "food preparation",
             "gourmet",
             "original work",
-            "slice of life"
+            "slice of life",
+            "workplace"
         ],
         "date": {
             "season": "spring",
@@ -6583,14 +6579,19 @@
             "chinese animation",
             "demon",
             "drama",
+            "female protagonist",
             "full cgi",
             "horror",
             "original work",
+            "post-apocalyptic",
             "sci fi",
             "sci-fi",
             "science fiction",
+            "survival",
             "suspense",
-            "thriller"
+            "swordplay",
+            "thriller",
+            "tragedy"
         ],
         "date": {
             "season": "spring",
@@ -6722,15 +6723,15 @@
         ],
         "tags": [
             "action",
-            "anime influenced",
             "comedy",
-            "cops",
             "cyberpunk",
+            "dystopia",
             "fantasy",
+            "horror",
             "other planet",
             "robot",
-            "robot helper",
-            "science fiction"
+            "science fiction",
+            "violence"
         ],
         "date": {
             "season": "spring",
@@ -7806,6 +7807,7 @@
             "https://livechart.me/anime/10858",
             "https://livechart.me/anime/9500",
             "https://myanimelist.net/anime/40045",
+            "https://myanimelist.net/anime/50193",
             "https://notify.moe/anime/DfT6Qj3ZR",
             "https://notify.moe/anime/l4-pXNFnR"
         ],
@@ -7873,6 +7875,7 @@
             "https://myanimelist.net/anime/4081"
         ],
         "tags": [
+            "iyashikei",
             "slice of life"
         ],
         "date": {
@@ -7963,8 +7966,12 @@
         ],
         "tags": [
             "big boobs",
+            "boobjob",
+            "cruel",
             "hentai",
-            "present"
+            "oral",
+            "present",
+            "school girl"
         ],
         "date": {
             "season": "spring",
@@ -8113,6 +8120,7 @@
         "tags": [
             "action",
             "boxing",
+            "combat sports",
             "coming of age",
             "cyberpunk",
             "disability",
@@ -8361,9 +8369,12 @@
             "primarily adult cast",
             "psychological",
             "revenge",
+            "slice of life",
+            "slice of life drama",
             "social media",
             "suicide",
             "supernatural drama",
+            "thriller",
             "tragedy",
             "twins",
             "urban",
@@ -8500,14 +8511,6 @@
             "https://anilist.co/anime/132696",
             "https://anime-planet.com/anime/oshiri-tantei-4th-season",
             "https://anime-planet.com/anime/oshiri-tantei-6th-season",
-            "https://anisearch.com/anime/12517",
-            "https://anisearch.com/anime/15033",
-            "https://anisearch.com/anime/15158",
-            "https://anisearch.com/anime/15170",
-            "https://anisearch.com/anime/16185",
-            "https://anisearch.com/anime/16243",
-            "https://anisearch.com/anime/16703",
-            "https://anisearch.com/anime/16909",
             "https://livechart.me/anime/10522",
             "https://livechart.me/anime/10543",
             "https://livechart.me/anime/10849",
@@ -8782,22 +8785,36 @@
     {
         "sources": [
             "https://anilist.co/anime/136165",
-            "https://kitsu.io/anime/45560"
+            "https://anime-planet.com/anime/qian-wu-gu-ren",
+            "https://kitsu.io/anime/45560",
+            "https://myanimelist.net/anime/51996"
         ],
         "title": "Qian Wu Guren",
         "type": "ona",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45560/poster_image/small-04c8d0b60f01233904722bad3e909da6.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45560/poster_image/tiny-4655b10903b9dec9fe97fc29106310ca.jpeg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1692/124258.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1692/124258t.jpg",
         "synonyms": [
+            "Qian Wu Gu Ren",
             "Without Parallel",
             "前无古人"
         ],
         "relations": [],
         "tags": [
+            "action",
+            "adventure",
+            "bl",
+            "boys love",
             "boys' love",
-            "romance"
+            "chinese animation",
+            "fantasy",
+            "martial arts",
+            "mystery",
+            "romance",
+            "short episodes",
+            "shounen-ai",
+            "supernatural"
         ],
         "date": {
             "season": "spring",
@@ -9353,7 +9370,8 @@
             "school club",
             "shounen",
             "soccer",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "spring",
@@ -9415,7 +9433,8 @@
             "school life",
             "shounen",
             "soccer",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "spring",
@@ -9805,6 +9824,7 @@
             "Sámánkirály (2021)",
             "ŠAMANSKI KRALJ (2021)",
             "Βασιλιάς Σαμάνος (2021)",
+            "Король шаманов",
             "Король шаманов (2021)",
             "Кралят на шаманите",
             "שאמן קינג",
@@ -10083,7 +10103,9 @@
             "https://myanimelist.net/anime/49200",
             "https://myanimelist.net/anime/49413",
             "https://myanimelist.net/anime/49652",
-            "https://myanimelist.net/anime/50105"
+            "https://myanimelist.net/anime/50105",
+            "https://myanimelist.net/anime/50202",
+            "https://myanimelist.net/anime/51665"
         ],
         "tags": [
             "action",
@@ -10150,8 +10172,6 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/link-click",
-            "https://anisearch.com/anime/16254",
-            "https://anisearch.com/anime/16584",
             "https://myanimelist.net/anime/44074"
         ],
         "tags": [
@@ -10459,7 +10479,6 @@
             "https://anilist.co/anime/138106",
             "https://anime-planet.com/anime/record-of-ragnarok-2",
             "https://anime-planet.com/anime/record-of-ragnarok-mini-anime",
-            "https://anisearch.com/anime/16535",
             "https://kitsu.io/anime/44988",
             "https://livechart.me/anime/10720",
             "https://livechart.me/anime/10754",
@@ -10568,6 +10587,7 @@
             "military",
             "monster girl",
             "outer space",
+            "post apocalypse",
             "post-apocalyptic",
             "real robot",
             "real robots",
@@ -10996,7 +11016,7 @@
             "https://myanimelist.net/anime/48873",
             "https://notify.moe/anime/M5-Bo2jGR"
         ],
-        "title": "Tai Yi Xian Mo Lu Zhi Ling Fei Ji IV",
+        "title": "Tai Yi Xian Mo Lu: Ling Fei Ji IV",
         "type": "ona",
         "episodes": 12,
         "status": "finished",
@@ -11009,8 +11029,8 @@
             "Magical Legend: Rise to Immortality IV",
             "Rise to Immortality IV",
             "Tai Yi Xian Mo Lu Zhi Ling Fei Ji 4th Season",
+            "Tai Yi Xian Mo Lu Zhi Ling Fei Ji IV",
             "Tai Yi Xian Mo Lu: Ling Fei Ji 4",
-            "Tai Yi Xian Mo Lu: Ling Fei Ji IV",
             "Taiyi Xianmo Lu Zhi Ling Fei Ji 4th Season",
             "太乙仙魔录之灵飞纪 第4季",
             "太乙仙魔录之灵飞纪 第四季",
@@ -11229,8 +11249,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1466/116175.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1466/116175t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1879/121719.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1879/121719t.jpg",
         "synonyms": [
             "Tensei Shitara Slime Datta Ken 2nd Season Recap",
             "Tensei Shitara Slime Datta Ken 2nd Season: Kanwa - Veldora Nikki 2",
@@ -11239,6 +11259,7 @@
             "Tensei shitara Slime Datta Ken 2nd Season Recap",
             "Tensei shitara Slime Datta Ken Episode 36.5",
             "That Time I Got Reincarnated as a Slime Season 2 Episode 36.5 – Tales: Veldora's Journal 2",
+            "That Time I Got Reincarnated as a Slime Season 2: Tales - Veldora's Journal 2",
             "転生したらスライムだった件 閑話: ヴェルドラ日記2"
         ],
         "relations": [
@@ -11256,7 +11277,8 @@
             "demons",
             "fantasy",
             "isekai",
-            "magic"
+            "magic",
+            "mythology"
         ],
         "date": {
             "season": "spring",
@@ -12841,7 +12863,6 @@
             "https://anidb.net/anime/16390",
             "https://anilist.co/anime/135939",
             "https://anime-planet.com/anime/lets-make-a-mug-too-2nd-season",
-            "https://anisearch.com/anime/16408",
             "https://kitsu.io/anime/44787",
             "https://livechart.me/anime/10654",
             "https://myanimelist.net/anime/49263",
@@ -13207,7 +13228,7 @@
         ],
         "title": "Youkai Watch ♪",
         "type": "tv",
-        "episodes": 57,
+        "episodes": 58,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1682/118273.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1682/118273t.jpg",
@@ -13749,7 +13770,6 @@
             "https://anilist.co/anime/140337",
             "https://anime-planet.com/anime/zombie-land-saga",
             "https://anime-planet.com/anime/zombie-land-saga-movie",
-            "https://anisearch.com/anime/13731",
             "https://kitsu.io/anime/41459",
             "https://kitsu.io/anime/45333",
             "https://livechart.me/anime/10839",

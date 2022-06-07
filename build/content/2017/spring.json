@@ -30,7 +30,6 @@
         "relations": [
             "https://anime-planet.com/anime/100-pascal-sensei",
             "https://anime-planet.com/anime/40-shuunen-da-yo-coro-coro-all-star-shougakkou",
-            "https://anisearch.com/anime/12221",
             "https://kitsu.io/anime/13412",
             "https://myanimelist.net/anime/35447",
             "https://myanimelist.net/anime/35745",
@@ -91,7 +90,6 @@
         "relations": [
             "https://anilist.co/anime/21823",
             "https://anime-planet.com/anime/acca-13-territory-inspection-dept",
-            "https://anisearch.com/anime/11482",
             "https://kitsu.io/anime/12202",
             "https://livechart.me/anime/2195",
             "https://livechart.me/anime/9393",
@@ -414,9 +412,7 @@
             "爱丽丝与藏六",
             "앨리스와 조로쿠"
         ],
-        "relations": [
-            "https://anisearch.com/anime/12590"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "action comedy",
@@ -769,6 +765,7 @@
         ],
         "relations": [],
         "tags": [
+            "idols (female)",
             "music"
         ],
         "date": {
@@ -907,10 +904,6 @@
             "https://anime-planet.com/anime/astro-boy-2003",
             "https://anime-planet.com/anime/astro-boy-the-brave-in-space",
             "https://anime-planet.com/anime/astro-boy-volume-of-the-blue-knight",
-            "https://anisearch.com/anime/1095",
-            "https://anisearch.com/anime/1624",
-            "https://anisearch.com/anime/3497",
-            "https://anisearch.com/anime/5374",
             "https://kitsu.io/anime/2507",
             "https://kitsu.io/anime/2748",
             "https://kitsu.io/anime/861",
@@ -977,11 +970,6 @@
             "https://anidb.net/anime/14761",
             "https://anime-planet.com/anime/aware-meisaku-kun",
             "https://anime-planet.com/anime/aware-meisaku-kun-3",
-            "https://anisearch.com/anime/11255",
-            "https://anisearch.com/anime/15460",
-            "https://anisearch.com/anime/15614",
-            "https://anisearch.com/anime/15615",
-            "https://anisearch.com/anime/16351",
             "https://livechart.me/anime/10622",
             "https://livechart.me/anime/2088",
             "https://livechart.me/anime/9402",
@@ -1139,7 +1127,8 @@
             "https://anime-planet.com/anime/ba-la-la-xiao-mo-xian-zhi-meng-huan-xuan-lu",
             "https://anime-planet.com/anime/ba-la-la-xiao-mo-xian-zhi-mofa-hai-ying-bao",
             "https://anime-planet.com/anime/ba-la-la-xiao-mo-xian-zhi-qiji-wubu",
-            "https://myanimelist.net/anime/34410"
+            "https://myanimelist.net/anime/34410",
+            "https://myanimelist.net/anime/40249"
         ],
         "tags": [
             "chinese animation",
@@ -1308,11 +1297,6 @@
             "https://anime-planet.com/anime/berserk-golden-age-arc-i-the-egg-of-the-king",
             "https://anime-planet.com/anime/berserk-golden-age-arc-ii-the-battle-for-doldrey",
             "https://anime-planet.com/anime/berserk-golden-age-arc-iii-the-advent",
-            "https://anisearch.com/anime/11039",
-            "https://anisearch.com/anime/12249",
-            "https://anisearch.com/anime/12514",
-            "https://anisearch.com/anime/6574",
-            "https://anisearch.com/anime/927",
             "https://kitsu.io/anime/11655",
             "https://kitsu.io/anime/13540",
             "https://livechart.me/anime/1975",
@@ -1353,6 +1337,7 @@
             "medieval",
             "mercenaries",
             "military",
+            "mythology",
             "rape",
             "revenge",
             "romance",
@@ -1751,16 +1736,6 @@
             "https://anime-planet.com/anime/my-hero-academia-3",
             "https://anime-planet.com/anime/my-hero-academia-training-of-the-dead",
             "https://anime-planet.com/anime/peace-sign",
-            "https://anisearch.com/anime/10978",
-            "https://anisearch.com/anime/11696",
-            "https://anisearch.com/anime/12341",
-            "https://anisearch.com/anime/12846",
-            "https://anisearch.com/anime/13088",
-            "https://anisearch.com/anime/13258",
-            "https://anisearch.com/anime/13910",
-            "https://anisearch.com/anime/15141",
-            "https://anisearch.com/anime/15480",
-            "https://anisearch.com/anime/16609",
             "https://kitsu.io/anime/11469",
             "https://kitsu.io/anime/13313",
             "https://kitsu.io/anime/13881",
@@ -1869,16 +1844,6 @@
         "relations": [
             "https://anilist.co/anime/21459",
             "https://anime-planet.com/anime/my-hero-academia",
-            "https://anisearch.com/anime/10978",
-            "https://anisearch.com/anime/11549",
-            "https://anisearch.com/anime/12341",
-            "https://anisearch.com/anime/12846",
-            "https://anisearch.com/anime/13088",
-            "https://anisearch.com/anime/13258",
-            "https://anisearch.com/anime/13910",
-            "https://anisearch.com/anime/15141",
-            "https://anisearch.com/anime/15480",
-            "https://anisearch.com/anime/16609",
             "https://kitsu.io/anime/11469",
             "https://myanimelist.net/anime/31964",
             "https://notify.moe/anime/9iIjtFiig",
@@ -2055,7 +2020,7 @@
         ],
         "title": "Boruto: Naruto Next Generations",
         "type": "tv",
-        "episodes": 251,
+        "episodes": 252,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/9/84460.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/9/84460t.jpg",
@@ -2239,7 +2204,6 @@
             "https://anidb.net/anime/13056",
             "https://anilist.co/anime/98856",
             "https://anime-planet.com/anime/armed-girls-machiavellism-badump-a-pleasure-trip-with-all-the-five-swords",
-            "https://anisearch.com/anime/12468",
             "https://kitsu.io/anime/14261",
             "https://livechart.me/anime/2646",
             "https://myanimelist.net/anime/35314",
@@ -2306,7 +2270,6 @@
             "https://anidb.net/anime/13999",
             "https://anime-planet.com/anime/caribadix-2nd-season",
             "https://anime-planet.com/anime/caribadix-renai-revolution-21-cover-mv",
-            "https://anisearch.com/anime/13562",
             "https://myanimelist.net/anime/37653"
         ],
         "tags": [
@@ -2588,9 +2551,6 @@
             "https://anilist.co/anime/21126",
             "https://anime-planet.com/anime/chaos-child",
             "https://anime-planet.com/anime/chaos-child-chaos-head",
-            "https://anisearch.com/anime/10334",
-            "https://anisearch.com/anime/12420",
-            "https://anisearch.com/anime/5009",
             "https://kitsu.io/anime/10786",
             "https://livechart.me/anime/1490",
             "https://myanimelist.net/anime/30485",
@@ -2740,6 +2700,7 @@
             "game",
             "idol",
             "idols",
+            "idols (female)",
             "music",
             "present",
             "primarily female cast",
@@ -3903,8 +3864,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/7/85467.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/7/85467t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1181/123312.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1181/123312t.jpg",
         "synonyms": [
             "DanMachi Gaiden: Sword Oratoria",
             "DanMachi: Sword Oratoria",
@@ -4049,63 +4010,6 @@
         "tags": [
             "alternative world",
             "monster",
-            "slice of life"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/12456",
-            "https://anisearch.com/anime/12327"
-        ],
-        "title": "Eiga Kamisama Minarai: Himitsu no Cocotama - Kiseki o Okose Teppuru to Dokidoki Cocotama Kai",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/12/12327.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/12/12327.webp",
-        "synonyms": [
-            "Eiga Kamisama Minarai: Himitsu no Cocotama - Kiseki wo Okose Teppuru to Dokidoki Cocotama Kai",
-            "映画かみさまみならい ヒミツのここたま 奇跡をおこせ♪テップルとドキドキここたま界"
-        ],
-        "relations": [
-            "https://anidb.net/anime/11293",
-            "https://anisearch.com/anime/10719",
-            "https://anisearch.com/anime/13676"
-        ],
-        "tags": [
-            "fantasy",
-            "magic",
-            "slice of life"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/110643"
-        ],
-        "title": "Eiga Kamisama Minarai: Himitsu no Cocotama: Kiseki o Okose ♪ Tepple to Dokidoki Cocotama Kai",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110643-o9rbgbpZPLRV.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110643-o9rbgbpZPLRV.jpg",
-        "synonyms": [
-            "映画 かみさまみならい ヒミツのここたま 奇跡をおこせ♪テップルとドキドキここたま界"
-        ],
-        "relations": [
-            "https://anilist.co/anime/21237"
-        ],
-        "tags": [
-            "adventure",
-            "drama",
-            "mahou shoujo",
             "slice of life"
         ],
         "date": {
@@ -4261,20 +4165,6 @@
             "https://anime-planet.com/anime/fairy-tail-movie-1-phoenix-priestess",
             "https://anime-planet.com/anime/fairy-tail-movie-1-phoenix-priestess-the-first-morning",
             "https://anime-planet.com/anime/fairy-tail-ova",
-            "https://anisearch.com/anime/11479",
-            "https://anisearch.com/anime/11551",
-            "https://anisearch.com/anime/11552",
-            "https://anisearch.com/anime/12640",
-            "https://anisearch.com/anime/16579",
-            "https://anisearch.com/anime/5476",
-            "https://anisearch.com/anime/6666",
-            "https://anisearch.com/anime/7079",
-            "https://anisearch.com/anime/7424",
-            "https://anisearch.com/anime/7695",
-            "https://anisearch.com/anime/8291",
-            "https://anisearch.com/anime/8421",
-            "https://anisearch.com/anime/8793",
-            "https://anisearch.com/anime/8811",
             "https://kitsu.io/anime/4676",
             "https://kitsu.io/anime/6652",
             "https://kitsu.io/anime/8203",
@@ -4719,12 +4609,6 @@
             "https://anime-planet.com/anime/future-card-buddyfight-all-star-fight",
             "https://anime-planet.com/anime/future-card-buddyfight-recap",
             "https://anime-planet.com/anime/future-card-buddyfight-triple-d",
-            "https://anisearch.com/anime/10228",
-            "https://anisearch.com/anime/11289",
-            "https://anisearch.com/anime/13535",
-            "https://anisearch.com/anime/13620",
-            "https://anisearch.com/anime/8708",
-            "https://anisearch.com/anime/9719",
             "https://kitsu.io/anime/12021",
             "https://kitsu.io/anime/41031",
             "https://livechart.me/anime/1407",
@@ -4846,18 +4730,7 @@
         "relations": [
             "https://anidb.net/anime/10415",
             "https://anidb.net/anime/11155",
-            "https://anidb.net/anime/9858",
-            "https://anisearch.com/anime/10312",
-            "https://anisearch.com/anime/10370",
-            "https://anisearch.com/anime/12592",
-            "https://anisearch.com/anime/12947",
-            "https://anisearch.com/anime/13918",
-            "https://anisearch.com/anime/14107",
-            "https://anisearch.com/anime/14208",
-            "https://anisearch.com/anime/14209",
-            "https://anisearch.com/anime/8639",
-            "https://anisearch.com/anime/9005",
-            "https://anisearch.com/anime/9421"
+            "https://anidb.net/anime/9858"
         ],
         "tags": [
             "club",
@@ -5833,6 +5706,7 @@
         "synonyms": [
             "Idol Time Pripara",
             "Idol Time 美妙天堂",
+            "pripara2",
             "あいどるたいむぷりぱら",
             "アイドルタイムプリパラ",
             "아이돌 타임 프리파라"
@@ -6497,6 +6371,7 @@
         "tags": [
             "action",
             "ancient china",
+            "based on a manga",
             "chinese animation",
             "comedy",
             "fantasy",
@@ -6506,6 +6381,7 @@
             "politics",
             "primarily male cast",
             "reincarnation",
+            "short episodes",
             "slapstick",
             "wuxia"
         ],
@@ -6612,67 +6488,14 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/12456",
+            "https://anilist.co/anime/110643",
             "https://anime-planet.com/anime/kamisama-minarai-himitsu-no-cocotama-movie",
-            "https://notify.moe/anime/zf7Z2Kiig"
-        ],
-        "title": "Kamisama Minarai: Himitsu no Cocotama Movie",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/kamisama-minarai-himitsu-no-cocotama-movie-1.jpg?t=1625897567",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kamisama-minarai-himitsu-no-cocotama-movie-1-190x267.jpg?t=1625897567",
-        "synonyms": [
-            "Kamisama Minarai: Himitsu no Cocotama Eiga",
-            "映画かみさまみならい ヒミツのここたま"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/kamisama-minarai-himitsu-no-cocotama",
-            "https://anime-planet.com/anime/kamisama-minarai-himitsu-no-cocotama-specials",
-            "https://anime-planet.com/anime/kira-kira-happy-hirake-cocotama",
-            "https://anime-planet.com/anime/mono-no-kami-sama-cocotama",
-            "https://notify.moe/anime/SjNZhKmmR",
-            "https://notify.moe/anime/qF2upKiiR"
-        ],
-        "tags": [
-            "family friendly",
-            "fantasy",
-            "kids",
-            "magic"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/2399"
-        ],
-        "title": "Kamisama Minarai: Himitsu no Cocotama Movie - Kiseki o Okose Teppuru to Dokidoki Cocotama Kai",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/2399/poster_image/420ff380386acdf971c19ec42ef4b668.webp?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/2399/poster_image/420ff380386acdf971c19ec42ef4b668.webp?style=small&format=jpg",
-        "synonyms": [
-            "映画かみさまみならい ヒミツのここたま 奇跡をおこせ♪テップルとドキドキここたま界"
-        ],
-        "relations": [
-            "https://livechart.me/anime/1667"
-        ],
-        "tags": [
-            "kids",
-            "magic"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
+            "https://anisearch.com/anime/12327",
             "https://kitsu.io/anime/12820",
-            "https://myanimelist.net/anime/34198"
+            "https://livechart.me/anime/2399",
+            "https://myanimelist.net/anime/34198",
+            "https://notify.moe/anime/zf7Z2Kiig"
         ],
         "title": "Kamisama Minarai: Himitsu no Cocotama Movie - Kiseki wo Okose♪ Tepple to Dokidoki Cocotama-kai",
         "type": "movie",
@@ -6681,19 +6504,42 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1682/95908.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1682/95908t.jpg",
         "synonyms": [
+            "Eiga Kamisama Minarai: Himitsu no Cocotama - Kiseki o Okose Teppuru to Dokidoki Cocotama Kai",
+            "Eiga Kamisama Minarai: Himitsu no Cocotama - Kiseki wo Okose Teppuru to Dokidoki Cocotama Kai",
+            "Eiga Kamisama Minarai: Himitsu no Cocotama: Kiseki o Okose ♪ Tepple to Dokidoki Cocotama Kai",
             "Kamisama Minarai: Himitsu no Cocotama Eiga",
-            "映画 かみさまみならい ヒミツのここたま 奇跡をおこせ♪テップルとドキドキここたま界"
+            "Kamisama Minarai: Himitsu no Cocotama Movie",
+            "Kamisama Minarai: Himitsu no Cocotama Movie - Kiseki o Okose Teppuru to Dokidoki Cocotama Kai",
+            "映画 かみさまみならい ヒミツのここたま 奇跡をおこせ♪テップルとドキドキここたま界",
+            "映画かみさまみならい ヒミツのここたま",
+            "映画かみさまみならい ヒミツのここたま 奇跡をおこせ♪テップルとドキドキここたま界"
         ],
         "relations": [
+            "https://anidb.net/anime/11293",
+            "https://anilist.co/anime/21237",
+            "https://anime-planet.com/anime/kamisama-minarai-himitsu-no-cocotama",
+            "https://anime-planet.com/anime/kamisama-minarai-himitsu-no-cocotama-specials",
+            "https://anime-planet.com/anime/kira-kira-happy-hirake-cocotama",
+            "https://anime-planet.com/anime/mono-no-kami-sama-cocotama",
+            "https://anisearch.com/anime/10719",
+            "https://anisearch.com/anime/13676",
             "https://kitsu.io/anime/11112",
             "https://kitsu.io/anime/12845",
+            "https://livechart.me/anime/1667",
             "https://myanimelist.net/anime/31044",
-            "https://myanimelist.net/anime/34310"
+            "https://myanimelist.net/anime/34310",
+            "https://notify.moe/anime/SjNZhKmmR",
+            "https://notify.moe/anime/qF2upKiiR"
         ],
         "tags": [
+            "adventure",
+            "drama",
+            "family friendly",
             "fantasy",
             "kids",
-            "magic"
+            "magic",
+            "mahou shoujo",
+            "slice of life"
         ],
         "date": {
             "season": "spring",
@@ -6726,7 +6572,8 @@
             "dementia",
             "psychological",
             "shorts",
-            "surreal comedy"
+            "surreal comedy",
+            "tragedy"
         ],
         "date": {
             "season": "spring",
@@ -7073,7 +6920,6 @@
             "https://anime-planet.com/anime/king-of-prism-by-pretty-rhythm",
             "https://anime-planet.com/anime/king-of-prism-shiny-seven-stars",
             "https://anime-planet.com/anime/king-of-prism-shiny-seven-stars-i-prologue-x-yukinojou-x-taiga",
-            "https://anisearch.com/anime/10826",
             "https://kitsu.io/anime/11562",
             "https://livechart.me/anime/1126",
             "https://livechart.me/anime/1542",
@@ -7272,6 +7118,7 @@
             "https://anime-planet.com/anime/rin-ne-3",
             "https://anisearch.com/anime/11801",
             "https://kitsu.io/anime/12561",
+            "https://livechart.me/anime/2342",
             "https://myanimelist.net/anime/34106",
             "https://notify.moe/anime/dMmmhKmmg"
         ],
@@ -7284,6 +7131,7 @@
         "synonyms": [
             "Kyoukai no Rinne (2017)",
             "Kyoukai no Rinne 3",
+            "Kyoukai no Rinne 3rd Season",
             "Kyoukai no Rinne S3",
             "Kyoukai no Rinne Third Season",
             "Kyōkai no Rinne (2017)",
@@ -7296,9 +7144,11 @@
             "Rin-ne Temporada 3",
             "Rin-ne: Season 3",
             "Rinne Saison 3",
+            "Rinne of the Boundary 3rd Season",
             "境界のRINNE",
             "境界のRINNE (2017)",
             "境界のRINNE 第3シリーズ",
+            "境界のRINNE 第３シリーズ",
             "境界のRINNE （2017）",
             "境界のRinne 3",
             "境界的轮回 第三季",
@@ -7309,10 +7159,9 @@
             "https://anilist.co/anime/21357",
             "https://anime-planet.com/anime/rin-ne",
             "https://anime-planet.com/anime/rin-ne-2",
-            "https://anisearch.com/anime/10750",
-            "https://anisearch.com/anime/8807",
-            "https://anisearch.com/anime/9968",
             "https://kitsu.io/anime/11366",
+            "https://livechart.me/anime/1295",
+            "https://livechart.me/anime/1821",
             "https://myanimelist.net/anime/31610",
             "https://notify.moe/anime/yv-9pFmiR"
         ],
@@ -7336,36 +7185,6 @@
             "shounen",
             "supernatural",
             "youkai"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/2342"
-        ],
-        "title": "Kyoukai no Rinne 3rd Season",
-        "type": "tv",
-        "episodes": 25,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/2342/poster_image/9394a0a59d3a33e558fc43c53346340b.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/2342/poster_image/9394a0a59d3a33e558fc43c53346340b.jpg?style=small&format=jpg",
-        "synonyms": [
-            "Rinne of the Boundary 3rd Season",
-            "境界のRINNE 第３シリーズ"
-        ],
-        "relations": [
-            "https://livechart.me/anime/1295",
-            "https://livechart.me/anime/1821"
-        ],
-        "tags": [
-            "comedy",
-            "romance",
-            "school",
-            "shounen",
-            "supernatural"
         ],
         "date": {
             "season": "spring",
@@ -7589,11 +7408,6 @@
             "https://anime-planet.com/anime/the-irregular-at-magic-high-school-new",
             "https://anime-planet.com/anime/the-irregular-at-magic-high-school-reminiscence-arc",
             "https://anime-planet.com/anime/the-irregular-at-magic-high-school-visitor-arc",
-            "https://anisearch.com/anime/14657",
-            "https://anisearch.com/anime/15859",
-            "https://anisearch.com/anime/16019",
-            "https://anisearch.com/anime/17002",
-            "https://anisearch.com/anime/9057",
             "https://kitsu.io/anime/13662",
             "https://kitsu.io/anime/42608",
             "https://kitsu.io/anime/45700",
@@ -8213,13 +8027,6 @@
             "https://anime-planet.com/anime/monster-strike-the-fading-cosmos",
             "https://anime-planet.com/anime/monster-strike-the-long-awaited-utopia",
             "https://anime-planet.com/anime/monster-strike-the-movie",
-            "https://anisearch.com/anime/10568",
-            "https://anisearch.com/anime/11708",
-            "https://anisearch.com/anime/12157",
-            "https://anisearch.com/anime/12158",
-            "https://anisearch.com/anime/12340",
-            "https://anisearch.com/anime/12457",
-            "https://anisearch.com/anime/12757",
             "https://livechart.me/anime/10164",
             "https://livechart.me/anime/1594",
             "https://livechart.me/anime/2261",
@@ -8258,8 +8065,13 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/98791",
+            "https://anime-planet.com/anime/monster-strike-a-rhapsody-called-lucy-the-very-first-song",
+            "https://anisearch.com/anime/12457",
             "https://kitsu.io/anime/40765",
-            "https://myanimelist.net/anime/35465"
+            "https://livechart.me/anime/2695",
+            "https://myanimelist.net/anime/35465",
+            "https://notify.moe/anime/ObRdhFimR"
         ],
         "title": "Mon-Soni!: Senritsu no Lucifer, Tada Hitotsu no Hajimari no Uta",
         "type": "ona",
@@ -8270,86 +8082,47 @@
         "synonyms": [
             "A Rhapsody Called Lucy -The Very First Song-",
             "MSonic! 00",
+            "MSonic! A Rhapsody Called Lucy - The Very First Song",
+            "MSonic! Episode 0",
             "MSonic! Episodio 0: Lucy de la Melodía - La canción del comienzo",
-            "Monster Sonic! D'Artagnan no Idol Sengen 00",
-            "Monster Strike Golden Week Special",
-            "Monster Strike – Eine Rhapsodie namens Lucy – Der allererste Song",
-            "Monster Strike: Lucy et la mélodie",
-            "モンストアニメ GWスペシャル番外編「センリツのルシファー ただひとつの始まりの歌」"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/42689",
-            "https://myanimelist.net/anime/34670",
-            "https://myanimelist.net/anime/35635",
-            "https://myanimelist.net/anime/39464"
-        ],
-        "tags": [
-            "fantasy",
-            "game",
-            "music"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/98791",
-            "https://notify.moe/anime/ObRdhFimR"
-        ],
-        "title": "Monster Strike 2: Senritsu no Lucifer, Tada Hitotsu no Hajimari no Uta",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98791-HgGmvmcJdIRR.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98791-HgGmvmcJdIRR.jpg",
-        "synonyms": [
-            "A Rhapsody Called Lucy -The Very First Song-",
-            "MSonic! 00",
-            "Mon-Soni!: Senritsu no Lucifer, Tada Hitotsu no Hajimari no Uta",
+            "MSonic! Lucy de la Melodía - La canción del comienzo",
+            "MSonic! Lucy et la mélodie",
+            "MSonic! Una rapsodia di nome Lucy: La prima canzone",
             "Monster Sonic! D'Artagnan no Idol Sengen 00",
             "Monster Strike 2: A Rhapsody Called Lucy -The Very First Song-",
+            "Monster Strike 2: Golden Week Special",
+            "Monster Strike 2: Senritsu no Lucifer, Tada Hitotsu no Hajimari no Uta",
+            "Monster Strike 2nd Season: A Rhapsody Called Lucy -The Very First Song",
+            "Monster Strike 2nd Season: Zenritsu no Lucifer - Tada Hitotsu no Hajimari no Uta",
+            "Monster Strike Anime GW Special: Senritsu no Lucifer - Tada Hitotsu no Hajimari no Uta",
             "Monster Strike Golden Week Special",
+            "Monster Strike – Eine Rhapsodie namens Lucy – Der allererste Song",
+            "Monster Strike: A Rhapsody Called Lucy -The Very First Song-",
+            "Monster Strike: Lucy et la mélodie",
+            "Monster Strike: Senritsu no Lucifer, Tada Hitotsu no Hajimari no Uta",
             "Zenritsu no Lucifer: Tada Hitotsu no Hajimari no Uta",
+            "モンスターストライク セカンドシーズン 「センリツのルシファー ただひとつの始まりの歌」",
+            "モンストアニメ GWスペシャル センリツのルシファー ただひとつの始まりの歌",
             "モンストアニメ GWスペシャル番外編「センリツのルシファー ただひとつの始まりの歌」"
         ],
         "relations": [
             "https://anilist.co/anime/98069",
             "https://anilist.co/anime/98846",
-            "https://notify.moe/anime/8Hv72Kiig",
-            "https://notify.moe/anime/KzBN2Fmig"
-        ],
-        "tags": [
-            "action",
-            "band",
-            "fantasy",
-            "female protagonist",
-            "game",
-            "idol",
-            "music",
-            "video games"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/2695"
-        ],
-        "title": "Monster Strike 2nd Season: Zenritsu no Lucifer - Tada Hitotsu no Hajimari no Uta",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/2695/poster_image/dd0bb527be4d671f92d3ba2425454855.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/2695/poster_image/dd0bb527be4d671f92d3ba2425454855.png?style=small&format=jpg",
-        "synonyms": [
-            "Monster Strike 2nd Season: A Rhapsody Called Lucy -The Very First Song",
-            "モンスターストライク セカンドシーズン 「センリツのルシファー ただひとつの始まりの歌」"
-        ],
-        "relations": [
+            "https://anime-planet.com/anime/haitoku-pistols-no-kinkyuu-kaigi",
+            "https://anime-planet.com/anime/haitoku-pistols-wishing",
+            "https://anime-planet.com/anime/monster-strike",
+            "https://anime-planet.com/anime/monster-strike-2nd-season",
+            "https://anime-planet.com/anime/monster-strike-an-encore-and-continuance-pandoras-box",
+            "https://anime-planet.com/anime/monster-strike-mermaid-rhapsody",
+            "https://anime-planet.com/anime/monster-strike-rain-of-memories",
+            "https://anime-planet.com/anime/monster-strike-the-animation",
+            "https://anime-planet.com/anime/monster-strike-the-animation-trouble-in-monster-strike",
+            "https://anime-planet.com/anime/monster-strike-the-fading-cosmos",
+            "https://anime-planet.com/anime/monster-strike-the-long-awaited-utopia",
+            "https://anime-planet.com/anime/monster-strike-the-movie",
+            "https://anime-planet.com/anime/monster-strike-the-movie-3-lucifer-dawn-of-despair",
+            "https://anime-planet.com/anime/msonic-dartagnyans-rise-to-fame",
+            "https://kitsu.io/anime/42689",
             "https://livechart.me/anime/10164",
             "https://livechart.me/anime/1594",
             "https://livechart.me/anime/2261",
@@ -8358,12 +8131,27 @@
             "https://livechart.me/anime/2900",
             "https://livechart.me/anime/3312",
             "https://livechart.me/anime/3358",
-            "https://livechart.me/anime/9859"
+            "https://livechart.me/anime/9859",
+            "https://myanimelist.net/anime/34670",
+            "https://myanimelist.net/anime/35635",
+            "https://myanimelist.net/anime/39464",
+            "https://notify.moe/anime/8Hv72Kiig",
+            "https://notify.moe/anime/KzBN2Fmig"
         ],
         "tags": [
             "action",
+            "band",
+            "based on a mobile game",
             "fantasy",
-            "game"
+            "female protagonist",
+            "game",
+            "idol",
+            "monsters",
+            "music",
+            "non-human protagonists",
+            "present",
+            "strategy game",
+            "video games"
         ],
         "date": {
             "season": "spring",
@@ -8424,13 +8212,6 @@
             "https://anime-planet.com/anime/monster-strike-the-movie",
             "https://anime-planet.com/anime/monster-strike-the-movie-3-lucifer-dawn-of-despair",
             "https://anime-planet.com/anime/msonic-dartagnyans-rise-to-fame",
-            "https://anisearch.com/anime/10568",
-            "https://anisearch.com/anime/11708",
-            "https://anisearch.com/anime/12158",
-            "https://anisearch.com/anime/12340",
-            "https://anisearch.com/anime/12457",
-            "https://anisearch.com/anime/12549",
-            "https://anisearch.com/anime/12757",
             "https://kitsu.io/anime/12983",
             "https://kitsu.io/anime/13343",
             "https://kitsu.io/anime/13970",
@@ -8468,86 +8249,6 @@
             "video games",
             "virtual reality",
             "witch"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/12457"
-        ],
-        "title": "Monster Strike Anime GW Special: Senritsu no Lucifer - Tada Hitotsu no Hajimari no Uta",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/12/12457.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/12/12457.webp",
-        "synonyms": [
-            "MSonic! A Rhapsody Called Lucy - The Very First Song",
-            "MSonic! Episode 0",
-            "MSonic! Lucy de la Melodía - La canción del comienzo",
-            "MSonic! Lucy et la mélodie",
-            "MSonic! Una rapsodia di nome Lucy: La prima canzone",
-            "Monster Strike 2: Golden Week Special",
-            "モンストアニメ GWスペシャル センリツのルシファー ただひとつの始まりの歌"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/10568",
-            "https://anisearch.com/anime/11708",
-            "https://anisearch.com/anime/12157",
-            "https://anisearch.com/anime/12158",
-            "https://anisearch.com/anime/12340",
-            "https://anisearch.com/anime/12549",
-            "https://anisearch.com/anime/12757"
-        ],
-        "tags": [
-            "band",
-            "fantasy",
-            "music",
-            "present"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/monster-strike-a-rhapsody-called-lucy-the-very-first-song"
-        ],
-        "title": "Monster Strike: A Rhapsody Called Lucy -The Very First Song-",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/monster-strike-a-rhapsody-called-lucy-the-very-first-song-1.jpg?t=1625897755",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/monster-strike-a-rhapsody-called-lucy-the-very-first-song-1-190x270.jpg?t=1625897755",
-        "synonyms": [
-            "Monster Strike: Senritsu no Lucifer, Tada Hitotsu no Hajimari no Uta"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/haitoku-pistols-no-kinkyuu-kaigi",
-            "https://anime-planet.com/anime/haitoku-pistols-wishing",
-            "https://anime-planet.com/anime/monster-strike",
-            "https://anime-planet.com/anime/monster-strike-2nd-season",
-            "https://anime-planet.com/anime/monster-strike-an-encore-and-continuance-pandoras-box",
-            "https://anime-planet.com/anime/monster-strike-mermaid-rhapsody",
-            "https://anime-planet.com/anime/monster-strike-rain-of-memories",
-            "https://anime-planet.com/anime/monster-strike-the-animation",
-            "https://anime-planet.com/anime/monster-strike-the-animation-trouble-in-monster-strike",
-            "https://anime-planet.com/anime/monster-strike-the-fading-cosmos",
-            "https://anime-planet.com/anime/monster-strike-the-long-awaited-utopia",
-            "https://anime-planet.com/anime/monster-strike-the-movie",
-            "https://anime-planet.com/anime/monster-strike-the-movie-3-lucifer-dawn-of-despair",
-            "https://anime-planet.com/anime/msonic-dartagnyans-rise-to-fame"
-        ],
-        "tags": [
-            "based on a mobile game",
-            "fantasy",
-            "monsters",
-            "music",
-            "non-human protagonists"
         ],
         "date": {
             "season": "spring",
@@ -8664,8 +8365,6 @@
             "https://anime-planet.com/anime/mu-wang-zhi-wang-qilin-jue",
             "https://anime-planet.com/anime/mu-wang-zhi-wang-xuan-guan-si",
             "https://anime-planet.com/anime/mu-wang-zhi-wang-you-du-zhan",
-            "https://anisearch.com/anime/13147",
-            "https://anisearch.com/anime/13234",
             "https://kitsu.io/anime/41214",
             "https://kitsu.io/anime/43085",
             "https://myanimelist.net/anime/37737",
@@ -8769,8 +8468,6 @@
             "https://anilist.co/anime/21051",
             "https://anime-planet.com/anime/nanbaka",
             "https://anime-planet.com/anime/nanbaka-2nd-season",
-            "https://anisearch.com/anime/10224",
-            "https://anisearch.com/anime/12037",
             "https://kitsu.io/anime/10467",
             "https://kitsu.io/anime/12768",
             "https://livechart.me/anime/1403",
@@ -8995,10 +8692,6 @@
             "https://anime-planet.com/anime/meow-meow-japanese-history-4th-season",
             "https://anime-planet.com/anime/meow-meow-japanese-history-5th-season",
             "https://anime-planet.com/anime/meow-meow-japanese-history-movie-ryouma-no-hachamecha-time-travel-ze-yo",
-            "https://anisearch.com/anime/11312",
-            "https://anisearch.com/anime/13381",
-            "https://anisearch.com/anime/14320",
-            "https://anisearch.com/anime/15066",
             "https://kitsu.io/anime/41137",
             "https://livechart.me/anime/2001",
             "https://livechart.me/anime/3128",
@@ -9219,6 +8912,7 @@
         "tags": [
             "based on a 4-koma manga",
             "based on a manga",
+            "cgdct",
             "comedy",
             "coworkers",
             "cute girls doing cute things",
@@ -9297,6 +8991,7 @@
             "crime",
             "idol",
             "idols",
+            "idols (male)",
             "music",
             "primarily male cast"
         ],
@@ -9345,9 +9040,6 @@
             "https://anime-planet.com/anime/ninja-girl-and-samurai-master",
             "https://anime-planet.com/anime/ninja-girl-samurai-master-3rd-season",
             "https://anime-planet.com/anime/ninja-girl-samurai-master-episode-0",
-            "https://anisearch.com/anime/11288",
-            "https://anisearch.com/anime/11880",
-            "https://anisearch.com/anime/13247",
             "https://kitsu.io/anime/11871",
             "https://kitsu.io/anime/14207",
             "https://livechart.me/anime/2050",
@@ -9607,14 +9299,6 @@
             "https://anime-planet.com/anime/osomatsu-san-mutsugo-to-ouma-no-monogatari",
             "https://anime-planet.com/anime/osomatsu-san-ouma-de-kobanashi",
             "https://anime-planet.com/anime/osomatsu-san-short-film-series",
-            "https://anisearch.com/anime/10744",
-            "https://anisearch.com/anime/11388",
-            "https://anisearch.com/anime/11389",
-            "https://anisearch.com/anime/12074",
-            "https://anisearch.com/anime/12394",
-            "https://anisearch.com/anime/15381",
-            "https://anisearch.com/anime/15921",
-            "https://anisearch.com/anime/15922",
             "https://kitsu.io/anime/13326",
             "https://myanimelist.net/anime/31174",
             "https://myanimelist.net/anime/35067",
@@ -9795,7 +9479,8 @@
         "relations": [],
         "tags": [
             "comedy",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "spring",
@@ -9987,6 +9672,7 @@
             "kids",
             "korean animation",
             "proxy battles",
+            "racing",
             "sci fi"
         ],
         "date": {
@@ -10009,10 +9695,7 @@
             "Power Battle Watch Car: The Counterattack of Watch Mask",
             "파워배틀 와치카 와치가면의 역습"
         ],
-        "relations": [
-            "https://anisearch.com/anime/12566",
-            "https://anisearch.com/anime/12567"
-        ],
+        "relations": [],
         "tags": [
             "cg-anime",
             "comedy",
@@ -10774,10 +10457,6 @@
             "https://anime-planet.com/anime/saekano-how-to-raise-a-boring-girlfriend-fan-service-of-love-and-youth",
             "https://anime-planet.com/anime/saekano-how-to-raise-a-boring-girlfriend-fine",
             "https://anime-planet.com/anime/saekano-how-to-raise-a-boring-girlfriend-flat-fan-service-of-love-and-pure-heart",
-            "https://anisearch.com/anime/11387",
-            "https://anisearch.com/anime/12390",
-            "https://anisearch.com/anime/13083",
-            "https://anisearch.com/anime/9551",
             "https://kitsu.io/anime/13322",
             "https://kitsu.io/anime/14050",
             "https://kitsu.io/anime/8406",
@@ -10967,6 +10646,7 @@
         "relations": [],
         "tags": [
             "acting",
+            "adult cast",
             "comedy",
             "coming of age",
             "countryside",
@@ -11184,11 +10864,7 @@
             "Seikaisuru Kado Episode 0",
             "正解するカド ニノヴォ"
         ],
-        "relations": [
-            "https://anisearch.com/anime/10914",
-            "https://anisearch.com/anime/12500",
-            "https://anisearch.com/anime/13639"
-        ],
+        "relations": [],
         "tags": [
             "drama",
             "genius",
@@ -11317,6 +10993,7 @@
             "https://notify.moe/anime/OPOjtKiig"
         ],
         "tags": [
+            "adult cast",
             "cg animation",
             "drama",
             "original work",
@@ -11521,9 +11198,6 @@
             "https://anime-planet.com/anime/rage-of-bahamut-genesis",
             "https://anime-planet.com/anime/rage-of-bahamut-genesis-roundup",
             "https://anime-planet.com/anime/rage-of-bahamut-genesis-short-stories",
-            "https://anisearch.com/anime/12538",
-            "https://anisearch.com/anime/9317",
-            "https://anisearch.com/anime/9991",
             "https://kitsu.io/anime/11354",
             "https://kitsu.io/anime/13013",
             "https://kitsu.io/anime/45665",
@@ -11941,14 +11615,6 @@
         "relations": [
             "https://anilist.co/anime/21518",
             "https://anilist.co/anime/99255",
-            "https://anisearch.com/anime/10898",
-            "https://anisearch.com/anime/10982",
-            "https://anisearch.com/anime/12563",
-            "https://anisearch.com/anime/13111",
-            "https://anisearch.com/anime/13120",
-            "https://anisearch.com/anime/14440",
-            "https://anisearch.com/anime/15006",
-            "https://anisearch.com/anime/9937",
             "https://kitsu.io/anime/11612",
             "https://livechart.me/anime/1275",
             "https://livechart.me/anime/1735",
@@ -12332,7 +11998,8 @@
             "https://anime-planet.com/anime/seven-mortal-sins-this-is-indeed-the-work-of-demons",
             "https://anisearch.com/anime/12476",
             "https://kitsu.io/anime/13514",
-            "https://myanimelist.net/anime/35559"
+            "https://myanimelist.net/anime/35559",
+            "https://notify.moe/anime/U8i4hKimR"
         ],
         "title": "Sin: Nanatsu no Taizai - Masani Akuma no Shogyou...",
         "type": "special",
@@ -12350,10 +12017,12 @@
             "Sin Nanatsu no Taizai: Un monde démoniaque",
             "Sin: Nanatsu no Taizai 4.5",
             "Sin: Nanatsu no Taizai Episode 4.5",
+            "Sin: Nanatsu no Taizai Recap",
             "Sin: Nanatsu no Taizai: Masani Akuma no Shogyou...",
             "Sin: Nanatsu no Taizai: Masani Akuma no Shogyō...",
             "sin 七つの大罪 まさに悪魔の所業...",
-            "sin 七つの大罪 第4.5話「まさに悪魔の所業…」"
+            "sin 七つの大罪 第4.5話「まさに悪魔の所業…」",
+            "sin 七つの大罪 第4.5話「まさに悪魔の所業・・・」"
         ],
         "relations": [
             "https://anime-planet.com/anime/seven-mortal-sins",
@@ -12363,7 +12032,8 @@
             "https://anisearch.com/anime/12508",
             "https://anisearch.com/anime/8145",
             "https://kitsu.io/anime/12540",
-            "https://myanimelist.net/anime/33834"
+            "https://myanimelist.net/anime/33834",
+            "https://notify.moe/anime/2p3z2KmiR"
         ],
         "tags": [
             "action",
@@ -12380,32 +12050,6 @@
             "revenge",
             "supernatural",
             "swords & co"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
-            "https://notify.moe/anime/U8i4hKimR"
-        ],
-        "title": "Sin: Nanatsu no Taizai Recap",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.notify.moe/images/anime/large/U8i4hKimR.webp",
-        "thumbnail": "https://media.notify.moe/images/anime/small/U8i4hKimR.webp",
-        "synonyms": [
-            "Seven Mortal Sins Recap",
-            "sin 七つの大罪 第4.5話「まさに悪魔の所業・・・」"
-        ],
-        "relations": [
-            "https://notify.moe/anime/2p3z2KmiR"
-        ],
-        "tags": [
-            "ecchi",
-            "fantasy"
         ],
         "date": {
             "season": "spring",
@@ -12944,8 +12588,6 @@
             "https://anime-planet.com/anime/starmyu-3",
             "https://anime-planet.com/anime/starmyu-in-halloween",
             "https://anime-planet.com/anime/starmyu-ova",
-            "https://anisearch.com/anime/10300",
-            "https://anisearch.com/anime/12899",
             "https://kitsu.io/anime/12201",
             "https://kitsu.io/anime/40964",
             "https://kitsu.io/anime/40965",
@@ -12966,12 +12608,14 @@
             "cute boys doing cute things",
             "ganbatte",
             "idol",
+            "idols (male)",
             "music",
             "music school",
             "musical",
             "new",
             "original work",
             "performance",
+            "performing arts",
             "present",
             "primarily male cast",
             "school",
@@ -13058,23 +12702,21 @@
     {
         "sources": [
             "https://kitsu.io/anime/40572",
-            "https://myanimelist.net/anime/36656",
             "https://notify.moe/anime/YuHDhFmiR"
         ],
         "title": "Stone Age Episode 0",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/11/88594.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/11/88594t.jpg",
+        "picture": "https://media.kitsu.io/anime/poster_images/40572/small.jpg",
+        "thumbnail": "https://media.kitsu.io/anime/poster_images/40572/tiny.jpg",
         "synonyms": [
             "Stone Age",
             "Stone Age: Jeonseol-ui Pes-eul Chaj-aseo",
             "스톤에이지: 전설의 펫을 찾아서"
         ],
         "relations": [
-            "https://kitsu.io/anime/40571",
-            "https://myanimelist.net/anime/36657"
+            "https://kitsu.io/anime/40571"
         ],
         "tags": [
             "fantasy",
@@ -13242,6 +12884,7 @@
         ],
         "tags": [
             "based on a mobile game",
+            "idols (female)",
             "music",
             "school"
         ],
@@ -13260,7 +12903,7 @@
             "https://myanimelist.net/anime/44634",
             "https://notify.moe/anime/DEPxF9aMg"
         ],
-        "title": "Tai Yi Xian Mo Lu Zhi Ling Fei Ji II",
+        "title": "Tai Yi Xian Mo Lu: Ling Fei Ji II",
         "type": "ona",
         "episodes": 26,
         "status": "finished",
@@ -13273,8 +12916,8 @@
             "Magical Legend: Rise to Immortality II",
             "Rise to Immortality II",
             "Tai Yi Xian Mo Lu Zhi Ling Fei Ji 2nd Season",
+            "Tai Yi Xian Mo Lu Zhi Ling Fei Ji II",
             "Tai Yi Xian Mo Lu: Ling Fei Ji 2",
-            "Tai Yi Xian Mo Lu: Ling Fei Ji II",
             "Taiyi Xianmo Lu Zhi Ling Fei Ji 2nd Season",
             "太乙仙魔录之灵飞纪 第2季",
             "太乙仙魔录之灵飞纪II",
@@ -13287,8 +12930,6 @@
             "https://anilist.co/anime/129221",
             "https://anime-planet.com/anime/taiyi-xianmo-lu-zhi-ling-fei-ji",
             "https://anime-planet.com/anime/taiyi-xianmo-lu-zhi-ling-fei-ji-3rd-season",
-            "https://anisearch.com/anime/16123",
-            "https://anisearch.com/anime/16148",
             "https://kitsu.io/anime/44867",
             "https://kitsu.io/anime/45285",
             "https://myanimelist.net/anime/44615",
@@ -13404,7 +13045,8 @@
             "cars",
             "family friendly",
             "fantasy",
-            "kids"
+            "kids",
+            "racing"
         ],
         "date": {
             "season": "spring",
@@ -14178,7 +13820,6 @@
             "https://anidb.net/anime/9782",
             "https://anilist.co/anime/17909",
             "https://anime-planet.com/anime/the-eccentric-family",
-            "https://anisearch.com/anime/8644",
             "https://kitsu.io/anime/7675",
             "https://livechart.me/anime/22",
             "https://myanimelist.net/anime/17909",
@@ -14648,7 +14289,8 @@
             "short episodes",
             "slice of life",
             "work",
-            "work life"
+            "work life",
+            "workplace"
         ],
         "date": {
             "season": "spring",
@@ -14819,10 +14461,7 @@
             "Xiao Hua Xian Di San Ji: Shō Hu Tian Shi",
             "小花仙第三季：守护天使"
         ],
-        "relations": [
-            "https://anisearch.com/anime/13198",
-            "https://anisearch.com/anime/13201"
-        ],
+        "relations": [],
         "tags": [
             "magic",
             "magical girl"
@@ -15663,6 +15302,7 @@
             "science fiction",
             "shounen",
             "slapstick",
+            "strategy game",
             "virtual reality",
             "virtual world"
         ],
@@ -15750,7 +15390,9 @@
             "https://anidb.net/anime/16280",
             "https://anilist.co/anime/133175",
             "https://anime-planet.com/anime/the-dawn-of-the-witch",
-            "https://kitsu.io/anime/44511"
+            "https://kitsu.io/anime/44511",
+            "https://myanimelist.net/anime/48842",
+            "https://notify.moe/anime/VbAKVtrGR"
         ],
         "tags": [
             "action",
@@ -15763,6 +15405,7 @@
             "comedy",
             "drama",
             "fantasy",
+            "female protagonist",
             "hero of strong character",
             "heroine of strong character",
             "kemonomimi",
@@ -15878,23 +15521,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/13460",
-            "https://anidb.net/anime/14081",
-            "https://anisearch.com/anime/13029",
-            "https://anisearch.com/anime/13044",
-            "https://anisearch.com/anime/13077",
-            "https://anisearch.com/anime/13093",
-            "https://anisearch.com/anime/13115",
-            "https://anisearch.com/anime/13142",
-            "https://anisearch.com/anime/13171",
-            "https://anisearch.com/anime/13238",
-            "https://anisearch.com/anime/13244",
-            "https://anisearch.com/anime/13252",
-            "https://anisearch.com/anime/13299",
-            "https://anisearch.com/anime/13300",
-            "https://anisearch.com/anime/13426",
-            "https://anisearch.com/anime/13567",
-            "https://anisearch.com/anime/13666",
-            "https://anisearch.com/anime/14214"
+            "https://anidb.net/anime/14081"
         ],
         "tags": [
             "action",

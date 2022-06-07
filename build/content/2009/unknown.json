@@ -664,34 +664,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/fei-ba-pili",
-            "https://myanimelist.net/anime/44680"
-        ],
-        "title": "Fei Ba, Pili",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "Fly, Pili",
-            "飞吧，霹雳"
-        ],
-        "relations": [],
-        "tags": [
-            "chinese animation",
-            "family friendly",
-            "fantasy",
-            "kids",
-            "non-human protagonists"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/45178"
         ],
         "title": "Fu Wu Shu Zhi Sunzi Bingfa",
@@ -1314,6 +1286,32 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kaixin-sishu",
+            "https://myanimelist.net/anime/45974"
+        ],
+        "title": "Kaixin Sishu",
+        "type": "tv",
+        "episodes": 64,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "开心私塾"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/45730"
         ],
         "title": "Kaixin Xiao Zhen",
@@ -1622,15 +1620,18 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/kuang-kuang-riji"
+            "https://anime-planet.com/anime/kuang-kuang-riji",
+            "https://myanimelist.net/anime/44678"
         ],
         "title": "Kuang Kuang Riji",
         "type": "ona",
         "episodes": 20,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/kuang-kuang-riji-1.webp?t=1653360065",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kuang-kuang-riji-1-285x400.webp?t=1653360065",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1677/124010.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1677/124010t.jpg",
+        "synonyms": [
+            "哐哐日记 (哐哐哐)"
+        ],
         "relations": [],
         "tags": [
             "chinese animation",
@@ -1811,14 +1812,13 @@
             "https://anime-planet.com/anime/ludou-wa-gongyi-xilie",
             "https://myanimelist.net/anime/44619"
         ],
-        "title": "Ludou Wa Gongyi Xilie",
+        "title": "Ludou Wa: Gongyi Xilie",
         "type": "ona",
         "episodes": 46,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1807/123044.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1807/123044t.jpg",
         "synonyms": [
-            "Ludou Wa: Gongyi Xilie",
             "绿豆蛙公益系列"
         ],
         "relations": [
@@ -2458,32 +2458,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44369"
-        ],
-        "title": "Qi Qi Ke Ke Shuo Konglong",
-        "type": "tv",
-        "episodes": 60,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "奇奇颗颗说恐龙"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44368"
-        ],
-        "tags": [
-            "adventure",
-            "historical",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/qi-tian-da-sheng-qianchuan",
             "https://myanimelist.net/anime/44739"
         ],
@@ -2515,25 +2489,32 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/qiqi-keke-shuo-konglong"
+            "https://anime-planet.com/anime/qiqi-keke-shuo-konglong",
+            "https://myanimelist.net/anime/44369"
         ],
         "title": "QiQi KeKe Shuo Konglong",
         "type": "tv",
         "episodes": 365,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/qiqi-keke-shuo-konglong-1.webp?t=1653502673",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/qiqi-keke-shuo-konglong-1-285x399.webp?t=1653502673",
+        "picture": "https://cdn.myanimelist.net/images/anime/1698/123971.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1698/123971t.jpg",
         "synonyms": [
-            "The Adventures of QiQi and KeKe"
+            "The Adventures of QiQi and KeKe",
+            "奇奇颗颗说恐龙"
         ],
         "relations": [
             "https://anime-planet.com/anime/qiqi-keke-lixian-ji",
-            "https://anime-planet.com/anime/xi-mu-ba-long-jiazu"
+            "https://anime-planet.com/anime/xi-mu-ba-long-jiazu",
+            "https://myanimelist.net/anime/44366",
+            "https://myanimelist.net/anime/44368"
         ],
         "tags": [
+            "adventure",
             "chinese animation",
             "dinosaurs",
             "family friendly",
+            "historical",
+            "kids",
             "non-human protagonists",
             "prehistoric",
             "short episodes"
@@ -3214,8 +3195,8 @@
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1550/123489.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1550/123489t.jpg",
         "synonyms": [
             "小虫三宝"
         ],
@@ -3227,6 +3208,7 @@
             "family friendly",
             "fantasy",
             "insects",
+            "kids",
             "non-human protagonists"
         ],
         "date": {
@@ -3257,22 +3239,28 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/xiao-yingtao-3rd-season"
+            "https://anime-planet.com/anime/xiao-yingtao-3rd-season",
+            "https://myanimelist.net/anime/44719"
         ],
         "title": "Xiao Yingtao 3rd Season",
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/xiao-yingtao-3rd-season-1.webp?t=1653367143",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/xiao-yingtao-3rd-season-1-285x400.webp?t=1653367143",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1992/124035.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1992/124035t.jpg",
+        "synonyms": [
+            "小樱桃 第三季"
+        ],
         "relations": [
             "https://anime-planet.com/anime/xiao-yingtao-2nd-season",
-            "https://anime-planet.com/anime/xiao-yingtao-youmo-baodian"
+            "https://anime-planet.com/anime/xiao-yingtao-youmo-baodian",
+            "https://myanimelist.net/anime/44718",
+            "https://myanimelist.net/anime/44720"
         ],
         "tags": [
             "chinese animation",
-            "family friendly"
+            "family friendly",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -3368,16 +3356,16 @@
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1934/123089.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1934/123089t.jpg",
         "synonyms": [
-            "心靈之窗"
+            "心灵之窗"
         ],
         "relations": [],
         "tags": [
             "chinese animation",
-            "family friendly",
-            "kids"
+            "drama",
+            "family friendly"
         ],
         "date": {
             "season": "unknown",

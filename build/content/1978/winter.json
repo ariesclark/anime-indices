@@ -32,9 +32,6 @@
             "https://anime-planet.com/anime/candy-candy",
             "https://anime-planet.com/anime/candy-candy-candy-no-natsuyasumi",
             "https://anime-planet.com/anime/candy-candy-movie",
-            "https://anisearch.com/anime/1631",
-            "https://anisearch.com/anime/1706",
-            "https://anisearch.com/anime/2903",
             "https://kitsu.io/anime/2556",
             "https://kitsu.io/anime/2558",
             "https://kitsu.io/anime/652",
@@ -87,6 +84,7 @@
         ],
         "relations": [],
         "tags": [
+            "animals",
             "family friendly",
             "kids",
             "minna no uta",
@@ -475,15 +473,14 @@
         "sources": [
             "https://anime-planet.com/anime/manga-hajimete-monogatari-ova",
             "https://kitsu.io/anime/10655",
-            "https://myanimelist.net/anime/30107",
             "https://notify.moe/anime/lzTQpFmmR"
         ],
         "title": "Manga Hajimete Monogatari OVA",
         "type": "ova",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/6/72118.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/6/72118t.jpg",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [
             "まんがはじめて物語"
         ],
@@ -498,7 +495,6 @@
             "https://anime-planet.com/anime/manga-naruhodo-monogatari-ova",
             "https://anime-planet.com/anime/shin-manga-naruhodo-monogatari",
             "https://kitsu.io/anime/6049",
-            "https://myanimelist.net/anime/10135",
             "https://notify.moe/anime/pKhnpKmiR"
         ],
         "tags": [
@@ -769,36 +765,10 @@
     },
     {
         "sources": [
-            "https://notify.moe/anime/ran5pFimR"
-        ],
-        "title": "Son Gokuu War and the Stars",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.notify.moe/images/anime/large/ran5pFimR.webp",
-        "thumbnail": "https://media.notify.moe/images/anime/small/ran5pFimR.webp",
-        "synonyms": [
-            "손오공과 별들의 전쟁"
-        ],
-        "relations": [
-            "https://notify.moe/anime/9vRktFiiR",
-            "https://notify.moe/anime/VJPbpFmmg",
-            "https://notify.moe/anime/vMlLtKmmR"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "space"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 1978
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/16814",
             "https://kitsu.io/anime/7530",
-            "https://myanimelist.net/anime/16814"
+            "https://myanimelist.net/anime/16814",
+            "https://notify.moe/anime/ran5pFimR"
         ],
         "title": "Son O-gong gwa Byeoldeul-ui Jeonjaeng",
         "type": "movie",
@@ -807,6 +777,9 @@
         "picture": "https://cdn.myanimelist.net/images/anime/5/45154.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/5/45154t.jpg",
         "synonyms": [
+            "Son Goku War and the Stars",
+            "Son Gokuu War and the Stars",
+            "Son Okong-gwa Byeoldeul-ui Jeonjaeng",
             "손오공과 별들의 전쟁"
         ],
         "relations": [
@@ -815,7 +788,10 @@
             "https://kitsu.io/anime/9767",
             "https://myanimelist.net/anime/20189",
             "https://myanimelist.net/anime/24669",
-            "https://myanimelist.net/anime/7496"
+            "https://myanimelist.net/anime/7496",
+            "https://notify.moe/anime/9vRktFiiR",
+            "https://notify.moe/anime/VJPbpFmmg",
+            "https://notify.moe/anime/vMlLtKmmR"
         ],
         "tags": [
             "action",
@@ -969,7 +945,6 @@
         "relations": [
             "https://anidb.net/anime/7663",
             "https://anilist.co/anime/10563",
-            "https://anisearch.com/anime/6324",
             "https://kitsu.io/anime/6242",
             "https://myanimelist.net/anime/10563",
             "https://notify.moe/anime/LJv4pFmmg"
@@ -1056,8 +1031,11 @@
             "https://myanimelist.net/anime/754"
         ],
         "tags": [
+            "fairy tale",
             "fantasy",
+            "puppetry",
             "shorts",
+            "stop motion",
             "stop motion animation"
         ],
         "date": {

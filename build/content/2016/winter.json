@@ -877,10 +877,6 @@
             "https://anime-planet.com/anime/assassination-classroom-the-movie-365-days-time",
             "https://anime-planet.com/anime/koro-sensei-q",
             "https://anime-planet.com/anime/koro-sensei-quest",
-            "https://anisearch.com/anime/10020",
-            "https://anisearch.com/anime/10438",
-            "https://anisearch.com/anime/11738",
-            "https://anisearch.com/anime/9701",
             "https://kitsu.io/anime/10877",
             "https://myanimelist.net/anime/30654",
             "https://notify.moe/anime/YFh_tKmiR"
@@ -1028,8 +1024,6 @@
             "https://anilist.co/anime/21197",
             "https://anime-planet.com/anime/bakuon",
             "https://anime-planet.com/anime/bakuon-no-kobeya",
-            "https://anisearch.com/anime/10440",
-            "https://anisearch.com/anime/13492",
             "https://kitsu.io/anime/10939",
             "https://livechart.me/anime/1604",
             "https://myanimelist.net/anime/30795",
@@ -1206,7 +1200,6 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/erased-recaps",
-            "https://anisearch.com/anime/13221",
             "https://kitsu.io/anime/41416",
             "https://myanimelist.net/anime/35815",
             "https://notify.moe/anime/wkIa4Avig"
@@ -1323,9 +1316,7 @@
             "Erased Compendio",
             "僕だけがいない街 第一話～第六話ダイジェスト"
         ],
-        "relations": [
-            "https://anisearch.com/anime/10494"
-        ],
+        "relations": [],
         "tags": [
             "crime fiction",
             "drama",
@@ -1388,7 +1379,8 @@
         "synonyms": [
             "BROTHERHOOD FINAL FANTASY XV",
             "Brotherhood Final Fantasy XV",
-            "Brotherhood ファイナルファンタジーXV"
+            "Brotherhood ファイナルファンタジーXV",
+            "ブラザーフッド ファイナルファンタジーXV"
         ],
         "relations": [
             "https://anidb.net/anime/12054",
@@ -1767,8 +1759,6 @@
             "https://anime-planet.com/anime/chou-futsuu-ken-chiba-densetsu",
             "https://anime-planet.com/anime/chou-futsuu-toshi-kashiwa-densetsu-r",
             "https://anime-planet.com/anime/chou-futsuu-toshi-kashiwa-densetsu-z",
-            "https://anisearch.com/anime/14536",
-            "https://anisearch.com/anime/15569",
             "https://kitsu.io/anime/43575",
             "https://livechart.me/anime/9551",
             "https://livechart.me/anime/9993",
@@ -2019,7 +2009,6 @@
         "relations": [
             "https://anilist.co/anime/21275",
             "https://anime-planet.com/anime/comet-lucifer",
-            "https://anisearch.com/anime/10594",
             "https://kitsu.io/anime/11234",
             "https://myanimelist.net/anime/31318",
             "https://notify.moe/anime/lGR9pKimg"
@@ -2149,6 +2138,7 @@
             "present",
             "primarily female cast",
             "romance",
+            "romantic subtext",
             "rural",
             "shounen",
             "slapstick",
@@ -2319,8 +2309,6 @@
             "https://anilist.co/anime/98814",
             "https://anime-planet.com/anime/dimension-w-do-robots-dream-of-bathhouses",
             "https://anime-planet.com/anime/dimension-w-w-gate-online-roses-counseling-room",
-            "https://anisearch.com/anime/11095",
-            "https://anisearch.com/anime/11578",
             "https://kitsu.io/anime/11665",
             "https://kitsu.io/anime/12079",
             "https://livechart.me/anime/1982",
@@ -2335,6 +2323,7 @@
             "amnesia",
             "android",
             "artificial intelligence",
+            "asia",
             "based on a manga",
             "bounty hunter",
             "crime",
@@ -2391,8 +2380,6 @@
             "https://anilist.co/anime/21256",
             "https://anime-planet.com/anime/dimension-w",
             "https://anime-planet.com/anime/dimension-w-do-robots-dream-of-bathhouses",
-            "https://anisearch.com/anime/10527",
-            "https://anisearch.com/anime/11578",
             "https://kitsu.io/anime/11170",
             "https://kitsu.io/anime/12079",
             "https://livechart.me/anime/1704",
@@ -3107,6 +3094,7 @@
             "original work",
             "present",
             "primarily child cast",
+            "primarily female cast",
             "romance",
             "school",
             "school club",
@@ -3165,7 +3153,6 @@
             "https://anilist.co/anime/21284",
             "https://anime-planet.com/anime/flying-witch",
             "https://anime-planet.com/anime/flying-witch-petit-special",
-            "https://anisearch.com/anime/10604",
             "https://kitsu.io/anime/11317",
             "https://kitsu.io/anime/13109",
             "https://myanimelist.net/anime/31376",
@@ -3598,6 +3585,46 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/129492",
+            "https://anime-planet.com/anime/guobao-te-gong-shuigou-da-taowang",
+            "https://myanimelist.net/anime/44286"
+        ],
+        "title": "Guo Bao Tegong: Shuiguo Da Taowang",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1562/123018.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1562/123018t.jpg",
+        "synonyms": [
+            "Fruity Robo: The Great Escape",
+            "Guobao Te Gong: Shuigou Da Taowang",
+            "果宝特攻之水果大逃亡"
+        ],
+        "relations": [
+            "https://anilist.co/anime/129491",
+            "https://anime-planet.com/anime/guobao-te-gong-4th-season",
+            "https://myanimelist.net/anime/44280"
+        ],
+        "tags": [
+            "adventure",
+            "cg animation",
+            "chinese animation",
+            "comedy",
+            "family friendly",
+            "fantasy",
+            "full cgi",
+            "kids",
+            "non-human protagonists",
+            "robots",
+            "sci fi"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/13396",
             "https://anilist.co/anime/97966",
             "https://anime-planet.com/anime/phoenix-wright-ace-attorney-spirit-of-justice-prologue",
@@ -3822,7 +3849,6 @@
         "relations": [
             "https://anilist.co/anime/21428",
             "https://anime-planet.com/anime/grimgar-of-fantasy-and-ash",
-            "https://anisearch.com/anime/10838",
             "https://kitsu.io/anime/11447",
             "https://livechart.me/anime/1876",
             "https://myanimelist.net/anime/31859",
@@ -3872,6 +3898,7 @@
             "HaruChika: Haruta to Chika wa Seishun Suru",
             "Haruchika",
             "Haruchika - Haruta & Chika",
+            "Haruchika : Haruta & Chika",
             "Haruchika: Haruta & Chika",
             "Haruchika: Haruta to Chika wa Seishun Suru",
             "ハルチカ ~ハルタとチカは青春する~",
@@ -4063,6 +4090,7 @@
             "https://anilist.co/anime/102599",
             "https://anime-planet.com/anime/fox-spirit-matchmaker-season-2",
             "https://kitsu.io/anime/12276",
+            "https://livechart.me/anime/4596",
             "https://myanimelist.net/anime/33209",
             "https://notify.moe/anime/mn_g2Kimg"
         ],
@@ -4078,9 +4106,11 @@
             "Fox Spirit Matchmaker 2nd Season",
             "Fox Spirit Matchmaker Season 2",
             "Fox Spirit Matchmaker Season 2, Little Fox Spirit Matchmaker Di Er Ji",
+            "Huyao Xiao Hongniang: Wangquan Pian",
             "Little Fox Spirit Matchmaker Di Er Ji",
             "Little Foxspirit Matchmaker Season 2",
             "狐妖小红娘 王权富贵",
+            "狐妖小红娘 王权篇",
             "狐妖小红娘 第2季"
         ],
         "relations": [
@@ -4099,6 +4129,14 @@
             "https://anime-planet.com/anime/fox-spirit-matchmaker-season-9",
             "https://kitsu.io/anime/12084",
             "https://kitsu.io/anime/12277",
+            "https://livechart.me/anime/10012",
+            "https://livechart.me/anime/10013",
+            "https://livechart.me/anime/10529",
+            "https://livechart.me/anime/2711",
+            "https://livechart.me/anime/4704",
+            "https://livechart.me/anime/5048",
+            "https://livechart.me/anime/5339",
+            "https://livechart.me/anime/7984",
             "https://myanimelist.net/anime/31499",
             "https://myanimelist.net/anime/33446",
             "https://notify.moe/anime/_zq6tFmiR",
@@ -4122,40 +4160,6 @@
             "romance",
             "supernatural",
             "youkai"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/4596"
-        ],
-        "title": "Huyao Xiao Hongniang: Wangquan Pian",
-        "type": "ona",
-        "episodes": 14,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/4596/poster_image/5700948e351428d7d3b0da0935c995a4.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/4596/poster_image/5700948e351428d7d3b0da0935c995a4.jpg?style=small&format=jpg",
-        "synonyms": [
-            "Fox Spirit Matchmaker 2nd Season",
-            "狐妖小红娘 王权篇"
-        ],
-        "relations": [
-            "https://livechart.me/anime/10012",
-            "https://livechart.me/anime/10013",
-            "https://livechart.me/anime/10529",
-            "https://livechart.me/anime/2711",
-            "https://livechart.me/anime/4704",
-            "https://livechart.me/anime/5048",
-            "https://livechart.me/anime/5339",
-            "https://livechart.me/anime/7984"
-        ],
-        "tags": [
-            "comedy",
-            "romance",
-            "supernatural"
         ],
         "date": {
             "season": "winter",
@@ -4464,6 +4468,7 @@
             "the arts",
             "time travel",
             "tokyo",
+            "visual arts",
             "wakate animator ikusei project"
         ],
         "date": {
@@ -4807,7 +4812,6 @@
             "Anime Tamago",
             "Anime Tamago 2016",
             "Animetamago 2016",
-            "Kaze no Matasaburou",
             "Kaze no Matasaburou (2016)",
             "Kaze no Matasaburō (2016)",
             "MATASABURO of the Wind",
@@ -4816,6 +4820,7 @@
             "Wakate Animator Ikusei Project",
             "風の又三郎",
             "風の又三郎 (2016)",
+            "風の又三郎 (Movie)",
             "風の又三郎 （2016）"
         ],
         "relations": [
@@ -4825,7 +4830,6 @@
             "https://anilist.co/anime/21396",
             "https://anilist.co/anime/21397",
             "https://anime-planet.com/anime/kaze-no-matasaburou",
-            "https://anisearch.com/anime/149",
             "https://kitsu.io/anime/11249",
             "https://kitsu.io/anime/11250",
             "https://kitsu.io/anime/11252",
@@ -4899,9 +4903,6 @@
             "https://anime-planet.com/anime/ketsuekigata-kun",
             "https://anime-planet.com/anime/ketsuekigata-kun-2",
             "https://anime-planet.com/anime/ketsuekigata-kun-3",
-            "https://anisearch.com/anime/10801",
-            "https://anisearch.com/anime/8151",
-            "https://anisearch.com/anime/9966",
             "https://kitsu.io/anime/11389",
             "https://livechart.me/anime/1276",
             "https://livechart.me/anime/1811",
@@ -5118,6 +5119,32 @@
     },
     {
         "sources": [
+            "https://livechart.me/anime/8759",
+            "https://myanimelist.net/anime/38179"
+        ],
+        "title": "Kino no Tabi: The Beautiful World - The Animated Series - Haikyo no Kuni - On Your Way",
+        "type": "special",
+        "episodes": 27,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1052/93465.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1052/93465t.jpg",
+        "synonyms": [
+            "Kino no Tabi: The Beautiful World - The Animated Series Picture Drama",
+            "多数決ドラマ『キノの旅 the Beautiful World 「廃墟の国」-On Your Way- 』"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/35079"
+        ],
+        "tags": [
+            "adventure"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/138949",
             "https://anime-planet.com/anime/kinyoubi-no-yakusoku",
             "https://kitsu.io/anime/40981",
@@ -5325,6 +5352,7 @@
             "family friendly",
             "kids",
             "korean animation",
+            "non-human protagonists",
             "racing"
         ],
         "date": {
@@ -5567,11 +5595,13 @@
             "KonoSuba: Un Mundo Maravilloso",
             "Konosuba",
             "Konosuba - As Bençãos de Deus Neste Mundo Maravilhoso",
+            "Konosuba! Un mundo maravilloso",
             "Konosuba: God`s Blessing on This Wonderful World!",
             "Konosuba: God’s Blessing on This Wonderful World!",
             "konosuba",
             "konosuba 1",
             "Богиня благословляет этот прекрасный мир",
+            "Да благословят боги сей расчудесный мир!",
             "Этот замечательный мир!",
             "ขอให้โชคดีมีชัยในโลกแฟนตาซี!",
             "このすばらしいせかいにしゅくふくを",
@@ -5586,6 +5616,7 @@
             "https://anidb.net/anime/11992",
             "https://anidb.net/anime/14435",
             "https://anidb.net/anime/14964",
+            "https://anidb.net/anime/16446",
             "https://anilist.co/anime/104454",
             "https://anilist.co/anime/110178",
             "https://anilist.co/anime/117074",
@@ -5597,10 +5628,6 @@
             "https://anime-planet.com/anime/konosuba-gods-blessing-on-this-wonderful-world-2-ova",
             "https://anime-planet.com/anime/konosuba-gods-blessing-on-this-wonderful-world-movie-legend-of-crimson",
             "https://anime-planet.com/anime/konosuba-gods-blessing-on-this-wonderful-world-ova",
-            "https://anisearch.com/anime/11053",
-            "https://anisearch.com/anime/11210",
-            "https://anisearch.com/anime/12616",
-            "https://anisearch.com/anime/12655",
             "https://kitsu.io/anime/11752",
             "https://kitsu.io/anime/11937",
             "https://kitsu.io/anime/42032",
@@ -5619,6 +5646,7 @@
             "https://myanimelist.net/anime/38472",
             "https://myanimelist.net/anime/39988",
             "https://myanimelist.net/anime/41567",
+            "https://myanimelist.net/anime/51958",
             "https://notify.moe/anime/3wnwtzsig",
             "https://notify.moe/anime/Su23pFmig",
             "https://notify.moe/anime/vVO6tFmig"
@@ -5664,6 +5692,7 @@
             "parody",
             "person in a strange world",
             "primarily female cast",
+            "reincarnation",
             "robots",
             "rpg",
             "sadism",
@@ -5983,47 +6012,6 @@
             "slice of life",
             "supernatural",
             "tragedy"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/1669"
-        ],
-        "title": "Kuroko no Basket: Saikou no Present Desu",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/1669/poster_image/f68619a1d2473a409b1cbc846e603cee.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/1669/poster_image/f68619a1d2473a409b1cbc846e603cee.png?style=small&format=jpg",
-        "synonyms": [
-            "Kuroko's Basketball: It's the Best Present",
-            "黒子のバスケ ~最高のプレゼントです~"
-        ],
-        "relations": [
-            "https://livechart.me/anime/1118",
-            "https://livechart.me/anime/169",
-            "https://livechart.me/anime/2057",
-            "https://livechart.me/anime/2063",
-            "https://livechart.me/anime/2064",
-            "https://livechart.me/anime/408",
-            "https://livechart.me/anime/4427",
-            "https://livechart.me/anime/4780",
-            "https://livechart.me/anime/4808",
-            "https://livechart.me/anime/5468",
-            "https://livechart.me/anime/5596",
-            "https://livechart.me/anime/5761",
-            "https://livechart.me/anime/597",
-            "https://livechart.me/anime/62",
-            "https://livechart.me/anime/918"
-        ],
-        "tags": [
-            "school",
-            "shounen",
-            "sports"
         ],
         "date": {
             "season": "winter",
@@ -6449,6 +6437,7 @@
         "tags": [
             "comedy",
             "idol",
+            "idols (female)",
             "music",
             "primarily female cast",
             "slice of life"
@@ -8237,12 +8226,14 @@
             "fantasy",
             "female harem",
             "harem",
+            "henshin",
             "henshin heroes",
             "high school",
             "kuudere",
             "magic",
             "magical girl",
             "mahou shoujo",
+            "male protagonist",
             "manga",
             "parody",
             "present",
@@ -8291,8 +8282,6 @@
             "https://anilist.co/anime/99528",
             "https://anime-planet.com/anime/noblesse",
             "https://anime-planet.com/anime/noblesse-pamyeol-ui-sijak",
-            "https://anisearch.com/anime/11101",
-            "https://anisearch.com/anime/15478",
             "https://kitsu.io/anime/11763",
             "https://livechart.me/anime/4429",
             "https://livechart.me/anime/9809",
@@ -8359,6 +8348,7 @@
         "synonyms": [
             "Ninja Girl & Samurai Master (Episode 0)",
             "Ninja Girl & Samurai Master (Episodio 0)",
+            "Ninja Girl & Samurai Master (Épisode 0)",
             "Ninja Girl & Samurai Master Episode 0",
             "Ninja Girl & Samurai Master Folge 0: Ninja Girl & Samurai Master",
             "Ninja Girl & Samurai Master: Episode 0",
@@ -8375,9 +8365,6 @@
             "https://anime-planet.com/anime/ninja-girl-and-samurai-master",
             "https://anime-planet.com/anime/ninja-girl-samurai-master-2nd-season",
             "https://anime-planet.com/anime/ninja-girl-samurai-master-3rd-season",
-            "https://anisearch.com/anime/11288",
-            "https://anisearch.com/anime/12252",
-            "https://anisearch.com/anime/13247",
             "https://kitsu.io/anime/11871",
             "https://livechart.me/anime/2050",
             "https://livechart.me/anime/2568",
@@ -8561,8 +8548,10 @@
         "synonyms": [],
         "relations": [],
         "tags": [
+            "nudity",
             "psychological",
-            "stop motion"
+            "stop motion",
+            "tragedy"
         ],
         "date": {
             "season": "winter",
@@ -8635,8 +8624,7 @@
             "nonsense-comedy",
             "parody",
             "present",
-            "primarily female cast",
-            "slice of life"
+            "primarily female cast"
         ],
         "date": {
             "season": "winter",
@@ -8806,12 +8794,14 @@
             "primarily adult cast",
             "romance",
             "romantic comedy",
+            "romantic subtext",
             "seinen",
             "short episodes",
             "slapstick",
             "slice of life",
             "verbal comedy",
-            "work life"
+            "work life",
+            "workplace"
         ],
         "date": {
             "season": "winter",
@@ -8898,8 +8888,6 @@
             "https://anime-planet.com/anime/my-wife-is-the-student-council-president-okusama-gekijou",
             "https://anime-planet.com/anime/my-wife-is-the-student-council-president-ova-okusama-gekijou",
             "https://anime-planet.com/anime/my-wife-is-the-student-council-president-plus",
-            "https://anisearch.com/anime/10038",
-            "https://anisearch.com/anime/11171",
             "https://kitsu.io/anime/10069",
             "https://kitsu.io/anime/12086",
             "https://livechart.me/anime/1322",
@@ -8914,6 +8902,7 @@
             "comedy",
             "ecchi",
             "female protagonist",
+            "heterosexual",
             "large breasts",
             "male protagonist",
             "nudity",
@@ -9033,8 +9022,6 @@
             "https://anilist.co/anime/119794",
             "https://anime-planet.com/anime/oniku-daisuki-zeushi-kun",
             "https://anime-planet.com/anime/oniku-daisuki-zeushi-kun-2nd-season",
-            "https://anisearch.com/anime/9434",
-            "https://anisearch.com/anime/9957",
             "https://kitsu.io/anime/9999",
             "https://myanimelist.net/anime/28185",
             "https://notify.moe/anime/tJEEpFimg"
@@ -9450,10 +9437,7 @@
         "synonyms": [
             "파파독"
         ],
-        "relations": [
-            "https://anisearch.com/anime/15420",
-            "https://anisearch.com/anime/15526"
-        ],
+        "relations": [],
         "tags": [
             "comedy"
         ],
@@ -9639,6 +9623,7 @@
             "stoic hero",
             "swords & co",
             "urban fantasy",
+            "video game",
             "video games",
             "virtual reality",
             "virtual world"
@@ -9663,12 +9648,7 @@
             "Ponkotsu Quest: Season 3",
             "ポンコツクエスト～魔王と派遣の魔物たち～ （2016）"
         ],
-        "relations": [
-            "https://anisearch.com/anime/10850",
-            "https://anisearch.com/anime/12324",
-            "https://anisearch.com/anime/14593",
-            "https://anisearch.com/anime/14614"
-        ],
+        "relations": [],
         "tags": [],
         "date": {
             "season": "winter",
@@ -9763,16 +9743,6 @@
             "https://anime-planet.com/anime/suite-pretty-cure",
             "https://anime-planet.com/anime/yes-pretty-cure-5",
             "https://anime-planet.com/anime/yes-pretty-cure-5-gogo",
-            "https://anisearch.com/anime/10019",
-            "https://anisearch.com/anime/11888",
-            "https://anisearch.com/anime/13189",
-            "https://anisearch.com/anime/4948",
-            "https://anisearch.com/anime/5952",
-            "https://anisearch.com/anime/6603",
-            "https://anisearch.com/anime/7492",
-            "https://anisearch.com/anime/8212",
-            "https://anisearch.com/anime/9247",
-            "https://anisearch.com/anime/9252",
             "https://kitsu.io/anime/11688",
             "https://kitsu.io/anime/13664",
             "https://livechart.me/anime/5176",
@@ -9984,6 +9954,7 @@
             "heroine of strong character",
             "idol",
             "idols",
+            "idols (female)",
             "kids",
             "magic",
             "music",
@@ -10090,7 +10061,6 @@
             "https://anidb.net/anime/10768",
             "https://anilist.co/anime/20807",
             "https://anime-planet.com/anime/prison-school",
-            "https://anisearch.com/anime/9842",
             "https://kitsu.io/anime/10734",
             "https://livechart.me/anime/752",
             "https://myanimelist.net/anime/30240",
@@ -10176,9 +10146,7 @@
             "Frog Kingdom 2: Sub-zero Mission",
             "青蛙王国之冰冻大冒险"
         ],
-        "relations": [
-            "https://anisearch.com/anime/11493"
-        ],
+        "relations": [],
         "tags": [
             "adventure",
             "beastmen",
@@ -10432,6 +10400,7 @@
             "Lingjianshan",
             "Mt. Reizan: Stardust's Banquet",
             "Spirit Blade Mountain",
+            "Spirit Blade Mountain: Feast of the Stardust",
             "There was a Spirit Blade Mountain",
             "Tung tiền hữu tọa linh kiếm sơn",
             "れいけんざんほしくずたちのうたげ",
@@ -10875,26 +10844,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/41709"
-        ],
-        "title": "Season's Greetings 2017 from Dwarf",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/41709/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/41709/tiny.jpg",
-        "synonyms": [
-            "SEASON'S GREETINGS 2017 FROM DWARF"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "winter",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/10916",
             "https://myanimelist.net/anime/32016"
         ],
@@ -11117,10 +11066,12 @@
             "female protagonist",
             "game",
             "heterosexual",
+            "high stakes game",
             "primarily female cast",
             "psychological",
             "recap",
             "revenge",
+            "strategy game",
             "supernatural",
             "virtual reality"
         ],
@@ -11153,6 +11104,7 @@
             "cars",
             "drama",
             "motorsport",
+            "racing",
             "seinen"
         ],
         "date": {
@@ -11550,7 +11502,6 @@
             "https://anidb.net/anime/11725",
             "https://anilist.co/anime/21444",
             "https://anime-planet.com/anime/girls-beyond-the-wasteland",
-            "https://anisearch.com/anime/10905",
             "https://kitsu.io/anime/11457",
             "https://livechart.me/anime/1885",
             "https://myanimelist.net/anime/31914",
@@ -11599,6 +11550,7 @@
             "Shouwa Genroku Rakugo Shinjuu (2016)",
             "Showa Genroku Rakugo Shinju",
             "Showa and Genroku Era Lover's Suicide Through Rakugo",
+            "Showa and Genroku Era Lover’s Suicide Through Rakugo",
             "Shōwa Genroku Rakugo Shinjū",
             "Сквозь эпохи: узы ракуго (2016)",
             "Смърт в стил ракуго",
@@ -11614,7 +11566,6 @@
             "https://anilist.co/anime/21733",
             "https://anime-planet.com/anime/descending-stories-shouwa-genroku-rakugo-shinjuu",
             "https://anime-planet.com/anime/shouwa-genroku-rakugo-shinjuu-ova",
-            "https://anisearch.com/anime/11346",
             "https://kitsu.io/anime/12022",
             "https://kitsu.io/anime/9149",
             "https://livechart.me/anime/2143",
@@ -11639,12 +11590,14 @@
             "historical",
             "japan",
             "josei",
+            "love polygon",
             "love triangle",
             "male protagonist",
             "manga",
             "meta",
             "past",
             "performance",
+            "performing arts",
             "primarily adult cast",
             "rakugo",
             "romance",
@@ -11779,7 +11732,6 @@
         "relations": [
             "https://anilist.co/anime/21009",
             "https://anime-planet.com/anime/seiyuus-life",
-            "https://anisearch.com/anime/10112",
             "https://kitsu.io/anime/10153",
             "https://livechart.me/anime/1357",
             "https://myanimelist.net/anime/29163",
@@ -11819,9 +11771,7 @@
             "Sore wa Chīsana Hikari no Yō na",
             "それは小さな光のような"
         ],
-        "relations": [
-            "https://anisearch.com/anime/11823"
-        ],
+        "relations": [],
         "tags": [],
         "date": {
             "season": "winter",
@@ -11980,6 +11930,7 @@
             "comedy",
             "cooking",
             "cops",
+            "detective",
             "food",
             "food and beverage",
             "food preparation",
@@ -12183,10 +12134,10 @@
         "tags": [
             "action",
             "big boobs",
-            "demons",
             "hardcore",
             "hentai",
             "martial arts",
+            "mythology",
             "sado maso",
             "slave",
             "supernatural",
@@ -12629,9 +12580,6 @@
             "https://anime-planet.com/anime/the-idolmaster-movie-kagayaki-no-mukougawa-e",
             "https://anime-planet.com/anime/the-idolmaster-onegai-cinderella",
             "https://anime-planet.com/anime/the-idolmaster-shiny-festa",
-            "https://anisearch.com/anime/10271",
-            "https://anisearch.com/anime/10276",
-            "https://anisearch.com/anime/9590",
             "https://kitsu.io/anime/10760",
             "https://kitsu.io/anime/42882",
             "https://livechart.me/anime/1443",
@@ -13200,7 +13148,11 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/34453"
+            "https://anime-planet.com/anime/uma-musume-pretty-derby-pv",
+            "https://anisearch.com/anime/12525",
+            "https://kitsu.io/anime/12853",
+            "https://myanimelist.net/anime/34453",
+            "https://notify.moe/anime/rUDW2KmiR"
         ],
         "title": "Uma Musume: Pretty Derby",
         "type": "ona",
@@ -13209,63 +13161,33 @@
         "picture": "https://cdn.myanimelist.net/images/anime/10/83024.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/10/83024t.jpg",
         "synonyms": [
+            "Uma Musume: Pretty Derby (ONA)",
+            "Uma Musume: Pretty Derby PV",
+            "Uma Musume: Pretty Derby Promotion Movie",
             "Umamusume: Pretty Derby",
-            "ウマ娘 プリティーダービー"
+            "ウマ娘 プリティーダービー",
+            "ウマ娘 プリティーダービー プロモーションムービー"
         ],
         "relations": [
-            "https://myanimelist.net/anime/35249"
-        ],
-        "tags": [
-            "music",
-            "sports"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://notify.moe/anime/rUDW2KmiR"
-        ],
-        "title": "Uma Musume: Pretty Derby (ONA)",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.notify.moe/images/anime/large/rUDW2KmiR.webp",
-        "thumbnail": "https://media.notify.moe/images/anime/small/rUDW2KmiR.webp",
-        "synonyms": [
-            "ウマ娘 プリティーダービー"
-        ],
-        "relations": [
+            "https://anime-planet.com/anime/uma-musume-pretty-derby",
+            "https://kitsu.io/anime/13485",
+            "https://myanimelist.net/anime/35249",
             "https://notify.moe/anime/PKq72KmmR"
         ],
         "tags": [
-            "action"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/12525"
-        ],
-        "title": "Uma Musume: Pretty Derby Promotion Movie",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/12/12525.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/12/12525.webp",
-        "synonyms": [
-            "ウマ娘 プリティーダービー プロモーションムービー"
-        ],
-        "relations": [],
-        "tags": [
+            "action",
+            "all-girls school",
+            "animal characteristics",
+            "anthropomorphic",
+            "based on a mobile game",
+            "boarding school",
+            "comedy",
             "fantasy",
             "ganbatte",
+            "horse racing",
             "kemonomimi",
+            "music",
+            "non-human protagonists",
             "racing",
             "slice of life",
             "sports"
@@ -13329,7 +13251,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/11755",
             "https://anilist.co/anime/21488",
             "https://anisearch.com/anime/11172",
             "https://kitsu.io/anime/11495",
@@ -13480,6 +13401,7 @@
         "picture": "https://media.kitsu.io/anime/poster_images/41753/small.jpg",
         "thumbnail": "https://media.kitsu.io/anime/poster_images/41753/tiny.jpg",
         "synonyms": [
+            "Een",
             "えーん"
         ],
         "relations": [],
@@ -13734,7 +13656,6 @@
             "https://anime-planet.com/anime/hina-logi-from-luck-and-logic",
             "https://anime-planet.com/anime/luck-and-logic",
             "https://anime-planet.com/anime/watashitachi-luck-logic-bu-2",
-            "https://anisearch.com/anime/11740",
             "https://kitsu.io/anime/11536",
             "https://kitsu.io/anime/12670",
             "https://myanimelist.net/anime/32083",
@@ -13863,7 +13784,8 @@
             "verbal comedy",
             "work",
             "work life",
-            "working life"
+            "working life",
+            "workplace"
         ],
         "date": {
             "season": "winter",
@@ -13972,6 +13894,34 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/xin-datou-er-zi-he-xiao-tou-baba-chao-neng-baba",
+            "https://myanimelist.net/anime/43936"
+        ],
+        "title": "Xin Datou Er Zi He Xiao Tou Baba: Chao Neng Baba",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1405/122957.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1405/122957t.jpg",
+        "synonyms": [
+            "新大头儿子和小头爸爸之超能爸爸"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/xin-datou-er-zi-he-xiao-tou-baba",
+            "https://myanimelist.net/anime/43922"
+        ],
+        "tags": [
+            "chinese animation",
+            "family friendly",
+            "kids"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/14079",
             "https://anilist.co/anime/148978",
             "https://anime-planet.com/anime/xiong-chu-mo-season-6-xiari-lian-lian-kan",
@@ -14020,7 +13970,6 @@
             "https://anisearch.com/anime/15253",
             "https://anisearch.com/anime/15610",
             "https://anisearch.com/anime/15621",
-            "https://anisearch.com/anime/15625",
             "https://anisearch.com/anime/9507",
             "https://kitsu.io/anime/11865",
             "https://kitsu.io/anime/13073",

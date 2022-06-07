@@ -1,6 +1,37 @@
 [
     {
         "sources": [
+            "https://anime-planet.com/anime/26-ge-mimi",
+            "https://myanimelist.net/anime/43888"
+        ],
+        "title": "26 Ge Mimi",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1412/122538.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1412/122538t.jpg",
+        "synonyms": [
+            "26个秘密",
+            "The Mysteries of Providence"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "mystery",
+            "non-human protagonists"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2005
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/38869"
         ],
         "title": "4.Eyes Re-Mix 2005",
@@ -193,8 +224,8 @@
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1872/122987.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1872/122987t.jpg",
         "synonyms": [
             "東方神娃"
         ],
@@ -203,9 +234,9 @@
             "https://myanimelist.net/anime/44170"
         ],
         "tags": [
-            "action",
             "adventure",
-            "kids"
+            "kids",
+            "mythology"
         ],
         "date": {
             "season": "unknown",
@@ -424,37 +455,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/hong-mao-lan-tu-nao-xinchun",
-            "https://myanimelist.net/anime/44358"
-        ],
-        "title": "Hong Mao Lan Tu Nao Xinchun",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "Hong Mao Lan Tu: Nao Xinchun",
-            "虹猫蓝兔闹新春"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/39121"
-        ],
-        "tags": [
-            "animal protagonists",
-            "anthropomorphic",
-            "chinese animation",
-            "family friendly",
-            "kids",
-            "non-human protagonists"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2005
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/14137",
             "https://anilist.co/anime/121859",
             "https://anime-planet.com/anime/hong-mao-lan-tu-chuang-taikong",
@@ -499,8 +499,7 @@
             "https://anime-planet.com/anime/hong-mao-lan-tu-xiao-youmo",
             "https://anime-planet.com/anime/hong-mao-lan-tu-yongzhe-guilai",
             "https://anime-planet.com/anime/hong-mao-lan-tu-zhang-jian-zou-tianya",
-            "https://myanimelist.net/anime/39122",
-            "https://myanimelist.net/anime/44361"
+            "https://myanimelist.net/anime/39122"
         ],
         "tags": [
             "adventure",
@@ -585,7 +584,7 @@
         ],
         "title": "Hong Mao Lan Tu: Konglong Shijie",
         "type": "tv",
-        "episodes": 88,
+        "episodes": 90,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1506/98695.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1506/98695t.jpg",
@@ -625,11 +624,13 @@
         ],
         "tags": [
             "adventure",
+            "anthropomorphic",
             "cgi",
             "chinese animation",
             "comedy",
             "dinosaurs",
             "family friendly",
+            "fantasy",
             "kids",
             "short episodes"
         ],
@@ -1428,6 +1429,28 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/selnef"
+        ],
+        "title": "Selnef",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/selnef-1.webp?t=1654317519",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/selnef-1-285x399.webp?t=1654317519",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "forest",
+            "music",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2005
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/shaolin-tu-yu-wudang-gou",
             "https://myanimelist.net/anime/44580"
         ],
@@ -1617,6 +1640,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tianyan-xiao-shentong",
             "https://myanimelist.net/anime/45371"
         ],
         "title": "Tianyan Xiao Shentong",
@@ -1630,12 +1654,15 @@
             "天眼小神童"
         ],
         "relations": [
+            "https://anime-planet.com/anime/tianyan-you-qi-zhao",
             "https://myanimelist.net/anime/45374"
         ],
         "tags": [
+            "chinese animation",
             "fantasy",
             "kids",
-            "school"
+            "school",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -1644,6 +1671,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tianyan-you-qi-zhao",
             "https://myanimelist.net/anime/45374"
         ],
         "title": "Tianyan You Qi Zhao",
@@ -1656,11 +1684,13 @@
             "天眼有奇招"
         ],
         "relations": [
+            "https://anime-planet.com/anime/tianyan-xiao-shentong",
             "https://myanimelist.net/anime/45371",
             "https://myanimelist.net/anime/45376"
         ],
         "tags": [
-            "adventure"
+            "adventure",
+            "chinese animation"
         ],
         "date": {
             "season": "unknown",
@@ -1676,8 +1706,8 @@
         "type": "tv",
         "episodes": 72,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1585/123497.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1585/123497t.jpg",
         "synonyms": [
             "童话动物园"
         ],

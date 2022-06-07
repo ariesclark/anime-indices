@@ -82,10 +82,10 @@
         "type": "tv",
         "episodes": 4,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1363/122430.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1363/122430t.jpg",
         "synonyms": [
-            "警犬救護隊"
+            "警犬救护队"
         ],
         "relations": [],
         "tags": [
@@ -94,7 +94,6 @@
             "chinese animation",
             "dogs",
             "family friendly",
-            "fantasy",
             "kids"
         ],
         "date": {
@@ -104,6 +103,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kaixin-guo",
             "https://myanimelist.net/anime/43826"
         ],
         "title": "Kaixin Guo",
@@ -117,10 +117,12 @@
             "开心果"
         ],
         "relations": [
+            "https://anime-planet.com/anime/jia-you-kaixin-guo",
             "https://myanimelist.net/anime/43861"
         ],
         "tags": [
             "anthropomorphic",
+            "chinese animation",
             "kids"
         ],
         "date": {
@@ -272,6 +274,7 @@
             "https://myanimelist.net/anime/4086"
         ],
         "tags": [
+            "educational",
             "kids"
         ],
         "date": {
@@ -377,6 +380,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/san-zhi-xiao-huli-zhai-putao",
             "https://myanimelist.net/anime/43918"
         ],
         "title": "San Zhi Xiao Huli Zhai Putao",
@@ -390,8 +394,12 @@
         ],
         "relations": [],
         "tags": [
+            "animal protagonists",
             "anthropomorphic",
-            "kids"
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "non-human protagonists"
         ],
         "date": {
             "season": "unknown",
@@ -603,10 +611,7 @@
             "The Adventures of Willy Fog: Journey to Center of the Earth",
             "Willy Fog En Viaje al Centro de la Tierra"
         ],
-        "relations": [
-            "https://anisearch.com/anime/2039",
-            "https://anisearch.com/anime/4821"
-        ],
+        "relations": [],
         "tags": [
             "adventure",
             "beastmen",

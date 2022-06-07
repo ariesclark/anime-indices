@@ -36,11 +36,6 @@
             "https://anilist.co/anime/17090",
             "https://anime-planet.com/anime/agigongryong-doolie-1988",
             "https://anime-planet.com/anime/agigongryong-dooly-aeouleumbyuldaemohum",
-            "https://anisearch.com/anime/12008",
-            "https://anisearch.com/anime/1240",
-            "https://anisearch.com/anime/6187",
-            "https://anisearch.com/anime/8774",
-            "https://anisearch.com/anime/8835",
             "https://kitsu.io/anime/7463",
             "https://kitsu.io/anime/7577",
             "https://kitsu.io/anime/7579",
@@ -123,8 +118,6 @@
             "https://anilist.co/anime/8214",
             "https://anime-planet.com/anime/tekkamen-wo-oe-dartagnan-monogatari-yori",
             "https://anime-planet.com/anime/the-three-musketeers-adventure-of-aramis",
-            "https://anisearch.com/anime/3109",
-            "https://anisearch.com/anime/520",
             "https://kitsu.io/anime/2114",
             "https://kitsu.io/anime/5246",
             "https://myanimelist.net/anime/2334",
@@ -200,6 +193,7 @@
             "martial arts",
             "monster",
             "mythology",
+            "present",
             "psi-powers",
             "school",
             "sci fi",
@@ -383,6 +377,7 @@
             "episodic",
             "fantasy",
             "idol",
+            "idols (female)",
             "indefinite",
             "music",
             "nudity",
@@ -608,6 +603,14 @@
             "https://kitsu.io/anime/1615",
             "https://kitsu.io/anime/1616",
             "https://kitsu.io/anime/1622",
+            "https://livechart.me/anime/11240",
+            "https://livechart.me/anime/5865",
+            "https://livechart.me/anime/7004",
+            "https://livechart.me/anime/7244",
+            "https://livechart.me/anime/7262",
+            "https://livechart.me/anime/7825",
+            "https://livechart.me/anime/8388",
+            "https://livechart.me/anime/8390",
             "https://myanimelist.net/anime/1795",
             "https://myanimelist.net/anime/1796",
             "https://myanimelist.net/anime/1803",
@@ -620,7 +623,6 @@
             "adventure",
             "based on a light novel",
             "comedy",
-            "crime",
             "cult",
             "cyberpunk",
             "detective",
@@ -629,6 +631,7 @@
             "episodic",
             "excessive violence",
             "female protagonist",
+            "future",
             "gunfights",
             "guns",
             "law and order",
@@ -645,7 +648,7 @@
             "shipboard",
             "shounen",
             "space",
-            "special squads",
+            "stereotypes",
             "tomboy",
             "violence"
         ],
@@ -715,8 +718,7 @@
         "relations": [
             "https://anidb.net/anime/2723",
             "https://anilist.co/anime/6509",
-            "https://anime-planet.com/anime/kiteretsu-daihyakka",
-            "https://anisearch.com/anime/2361"
+            "https://anime-planet.com/anime/kiteretsu-daihyakka"
         ],
         "tags": [
             "based on a manga",
@@ -1004,7 +1006,6 @@
         "relations": [
             "https://anidb.net/anime/1751",
             "https://anilist.co/anime/4061",
-            "https://anisearch.com/anime/2599",
             "https://kitsu.io/anime/3439",
             "https://myanimelist.net/anime/4061",
             "https://notify.moe/anime/I-WXcFiiR"
@@ -1124,8 +1125,6 @@
             "https://anime-planet.com/anime/hi-no-tori-yamato-hen",
             "https://anime-planet.com/anime/phoenix",
             "https://anime-planet.com/anime/phoenix-2772",
-            "https://anisearch.com/anime/2913",
-            "https://anisearch.com/anime/442",
             "https://kitsu.io/anime/1225",
             "https://kitsu.io/anime/2710",
             "https://myanimelist.net/anime/1371",
@@ -1193,7 +1192,6 @@
         ],
         "relations": [
             "https://anidb.net/anime/2367",
-            "https://anisearch.com/anime/441",
             "https://kitsu.io/anime/3880",
             "https://myanimelist.net/anime/5013",
             "https://notify.moe/anime/_6-9cKmmg"
@@ -1346,17 +1344,20 @@
         "picture": "https://cdn.myanimelist.net/images/anime/11/27218.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/11/27218t.jpg",
         "synonyms": [
+            "Whatever, White Bear",
             "かってにシロクマ"
         ],
         "relations": [],
         "tags": [
             "animal protagonists",
             "animals",
+            "anthropomorphic",
             "anthropomorphism",
             "based on a manga",
             "comedy",
             "manga",
             "non-human protagonists",
+            "post-apocalyptic",
             "seinen",
             "slapstick"
         ],
@@ -1597,6 +1598,7 @@
             "https://anime-planet.com/anime/lady-lady",
             "https://anisearch.com/anime/3175",
             "https://kitsu.io/anime/2018",
+            "https://livechart.me/anime/11242",
             "https://myanimelist.net/anime/2227",
             "https://notify.moe/anime/YlnE5Fmig"
         ],
@@ -1632,6 +1634,8 @@
             "https://anime-planet.com/anime/lady-lady-movie",
             "https://kitsu.io/anime/2181",
             "https://kitsu.io/anime/5859",
+            "https://livechart.me/anime/11243",
+            "https://livechart.me/anime/8843",
             "https://myanimelist.net/anime/2405",
             "https://myanimelist.net/anime/9773",
             "https://notify.moe/anime/r1EPcKmig",
@@ -2832,6 +2836,7 @@
         "tags": [
             "comedy",
             "fantasy",
+            "gag humor",
             "manga",
             "school"
         ],

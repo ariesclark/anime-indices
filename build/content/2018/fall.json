@@ -82,6 +82,7 @@
             "ganbatte",
             "idol",
             "idols",
+            "idols (female)",
             "music",
             "present",
             "recap",
@@ -332,8 +333,7 @@
             "school life",
             "sci fi",
             "sci-fi",
-            "science fiction",
-            "yuri"
+            "science fiction"
         ],
         "date": {
             "season": "fall",
@@ -429,7 +429,6 @@
         "relations": [
             "https://anilist.co/anime/99629",
             "https://anime-planet.com/anime/angels-of-death",
-            "https://anisearch.com/anime/12660",
             "https://kitsu.io/anime/13715",
             "https://livechart.me/anime/2805",
             "https://notify.moe/anime/I-3V2Kimg"
@@ -497,6 +496,7 @@
             "4-koma manga",
             "based on a 4-koma manga",
             "based on a manga",
+            "cgdct",
             "cheerleading",
             "club",
             "comedy",
@@ -618,7 +618,8 @@
             "promotional",
             "shorts",
             "soccer",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "fall",
@@ -659,6 +660,7 @@
             "comedy",
             "cute girls doing cute things",
             "female protagonist",
+            "gag humor",
             "present",
             "primarily female cast",
             "school club",
@@ -928,7 +930,6 @@
             "https://anidb.net/anime/14548",
             "https://anilist.co/anime/106568",
             "https://anime-planet.com/anime/bakumatsu-crisis",
-            "https://anisearch.com/anime/14047",
             "https://kitsu.io/anime/42161",
             "https://livechart.me/anime/8679",
             "https://myanimelist.net/anime/38860",
@@ -1151,6 +1152,7 @@
             "cg animation",
             "dancing",
             "idols",
+            "idols (male)",
             "music"
         ],
         "date": {
@@ -1868,6 +1870,36 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/da-tang-fengyun-2",
+            "https://myanimelist.net/anime/44666"
+        ],
+        "title": "Da Tang Fengyun 2",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1972/123655.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1972/123655t.jpg",
+        "synonyms": [
+            "Legend Second of Tang Dynasty",
+            "大唐风云2"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/da-tang-fengyun",
+            "https://myanimelist.net/anime/44665"
+        ],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "fantasy",
+            "kids"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/14419",
             "https://anime-planet.com/anime/daifuku-kun-kin-tele",
             "https://anisearch.com/anime/13927",
@@ -1952,7 +1984,6 @@
             "DAKAICHI! -I'm being harassed by the sexiest man of the year-",
             "DAKAICHI: I'm being harassed by the sexiest man of the year",
             "Dakaichi - I'm being harassed by the Sexiest Man of the Year.",
-            "Dakaichi: I'm Being Harassed by the Sexiest Man of the Year",
             "Dakaichi: I`m Being Harassed by the Sexiest Man of the Year",
             "Dakaichi: I’m Being Harassed by the Sexiest Man of the Year",
             "Dakaichi: My Number 1",
@@ -1969,7 +2000,6 @@
             "https://anidb.net/anime/16271",
             "https://anilist.co/anime/132545",
             "https://anime-planet.com/anime/dakaichi-im-being-harassed-by-the-sexiest-man-of-the-year-spain-arc",
-            "https://anisearch.com/anime/16395",
             "https://kitsu.io/anime/44422",
             "https://livechart.me/anime/10542",
             "https://myanimelist.net/anime/48780",
@@ -2037,9 +2067,7 @@
             "Densō kaiteki Cabin Concept",
             "デンソー快適キャビンコンセプト"
         ],
-        "relations": [
-            "https://anisearch.com/anime/16208"
-        ],
+        "relations": [],
         "tags": [],
         "date": {
             "season": "fall",
@@ -2190,6 +2218,37 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/doby-and-disy-dreamy-town",
+            "https://myanimelist.net/anime/44459"
+        ],
+        "title": "Doby Disy: Meimeng Nian Nian",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1582/122909.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1582/122909t.jpg",
+        "synonyms": [
+            "Doby & Disy: Dreamy Town",
+            "逗逗迪迪美梦年年"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/doby-and-disy-exploring-journey",
+            "https://myanimelist.net/anime/44454"
+        ],
+        "tags": [
+            "chinese animation",
+            "dream world",
+            "family friendly",
+            "kids",
+            "siblings"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/140369"
         ],
         "title": "Doggie Corgi",
@@ -2207,7 +2266,9 @@
             "https://anilist.co/anime/140370"
         ],
         "tags": [
+            "animals",
             "iyashikei",
+            "no dialogue",
             "slice of life"
         ],
         "date": {
@@ -2526,42 +2587,6 @@
             "https://anime-planet.com/anime/dragon-ball-super",
             "https://anime-planet.com/anime/dragon-ball-super-broly-skytree-super",
             "https://anime-planet.com/anime/dragon-ball-super-super-hero",
-            "https://anisearch.com/anime/10022",
-            "https://anisearch.com/anime/1011",
-            "https://anisearch.com/anime/10383",
-            "https://anisearch.com/anime/1054",
-            "https://anisearch.com/anime/11462",
-            "https://anisearch.com/anime/1269",
-            "https://anisearch.com/anime/1441",
-            "https://anisearch.com/anime/1568",
-            "https://anisearch.com/anime/16372",
-            "https://anisearch.com/anime/1825",
-            "https://anisearch.com/anime/1841",
-            "https://anisearch.com/anime/1947",
-            "https://anisearch.com/anime/245",
-            "https://anisearch.com/anime/2466",
-            "https://anisearch.com/anime/2504",
-            "https://anisearch.com/anime/2748",
-            "https://anisearch.com/anime/2849",
-            "https://anisearch.com/anime/286",
-            "https://anisearch.com/anime/2938",
-            "https://anisearch.com/anime/2957",
-            "https://anisearch.com/anime/3163",
-            "https://anisearch.com/anime/3449",
-            "https://anisearch.com/anime/360",
-            "https://anisearch.com/anime/427",
-            "https://anisearch.com/anime/4281",
-            "https://anisearch.com/anime/468",
-            "https://anisearch.com/anime/5088",
-            "https://anisearch.com/anime/5286",
-            "https://anisearch.com/anime/5508",
-            "https://anisearch.com/anime/68",
-            "https://anisearch.com/anime/6962",
-            "https://anisearch.com/anime/763",
-            "https://anisearch.com/anime/7952",
-            "https://anisearch.com/anime/831",
-            "https://anisearch.com/anime/9483",
-            "https://anisearch.com/anime/9753",
             "https://kitsu.io/anime/10879",
             "https://kitsu.io/anime/42256",
             "https://kitsu.io/anime/44544",
@@ -2813,6 +2838,7 @@
             "Fairy Tail: Final Season",
             "Fairy Tail: Saison Finale",
             "ft3",
+            "Сказка о хвосте феи III",
             "フェアリーテイル",
             "フェアリーテイル (2018)",
             "フェアリーテイル （2018）",
@@ -2833,20 +2859,6 @@
             "https://anime-planet.com/anime/fairy-tail-movie-1-phoenix-priestess-the-first-morning",
             "https://anime-planet.com/anime/fairy-tail-movie-2-dragon-cry",
             "https://anime-planet.com/anime/fairy-tail-ova",
-            "https://anisearch.com/anime/10618",
-            "https://anisearch.com/anime/11479",
-            "https://anisearch.com/anime/11551",
-            "https://anisearch.com/anime/11552",
-            "https://anisearch.com/anime/16579",
-            "https://anisearch.com/anime/5476",
-            "https://anisearch.com/anime/6666",
-            "https://anisearch.com/anime/7079",
-            "https://anisearch.com/anime/7424",
-            "https://anisearch.com/anime/7695",
-            "https://anisearch.com/anime/8291",
-            "https://anisearch.com/anime/8421",
-            "https://anisearch.com/anime/8793",
-            "https://anisearch.com/anime/8811",
             "https://kitsu.io/anime/45159",
             "https://kitsu.io/anime/8203",
             "https://livechart.me/anime/1053",
@@ -3210,9 +3222,9 @@
             "adventure",
             "cg-anime",
             "family friendly",
-            "game",
             "kids",
             "korean animation",
+            "strategy game",
             "youkai"
         ],
         "date": {
@@ -3436,7 +3448,8 @@
         "tags": [
             "action",
             "game",
-            "music"
+            "music",
+            "video game"
         ],
         "date": {
             "season": "fall",
@@ -3728,6 +3741,7 @@
             "Guomin Laogong Dai Huijia Di Si Ji",
             "How to Steal 55 Kisses 4",
             "How to Steal 55 Kisses 4th Season",
+            "National Husband Bring Home SS4",
             "Taking Everybody’s Husband Home 4th Season",
             "laogongdai4",
             "国民老公带回家",
@@ -3799,7 +3813,6 @@
             "https://anidb.net/anime/12995",
             "https://anilist.co/anime/98479",
             "https://anime-planet.com/anime/gurazeni-money-pitch",
-            "https://anisearch.com/anime/12370",
             "https://kitsu.io/anime/13981",
             "https://livechart.me/anime/2593",
             "https://myanimelist.net/anime/35183",
@@ -4275,6 +4288,7 @@
             "male protagonist",
             "new",
             "original work",
+            "otaku culture",
             "present",
             "school",
             "slice of life",
@@ -4603,6 +4617,7 @@
             "cars",
             "conspiracy",
             "cops",
+            "detective",
             "drama",
             "guns",
             "law and order",
@@ -4769,6 +4784,7 @@
         "tags": [
             "action",
             "based on a manga",
+            "combat sport",
             "combat sports",
             "comedy",
             "delinquents",
@@ -4977,9 +4993,6 @@
             "https://anilist.co/anime/123375",
             "https://anime-planet.com/anime/hua-jianghu-zhi-buliang-ren-ii",
             "https://anime-planet.com/anime/hua-jianghu-zhi-buliang-ren-iv",
-            "https://anisearch.com/anime/13371",
-            "https://anisearch.com/anime/13423",
-            "https://anisearch.com/anime/13485",
             "https://kitsu.io/anime/13139",
             "https://livechart.me/anime/10608",
             "https://livechart.me/anime/10610",
@@ -5039,6 +5052,7 @@
             "Hug tto! Precure♡Futari wa Precure Movie",
             "Hugtto! Precure ♡ Futari wa Precure Movie: All Stars Memories",
             "Hugtto! Pretty Cure x Futari wa Pretty Cure Movie: All Stars Memories",
+            "precure15 movie",
             "映画 HUGっと！プリキュア♡ふたりはプリキュア オールスターズメモリーズ",
             "映画HUGっと! プリキュア♡ふたりはプリキュア",
             "映画HUGっと! プリキュア♡ふたりはプリキュア オールスターズメモリーズ",
@@ -5276,7 +5290,8 @@
             "ganbatte",
             "soccer",
             "sports",
-            "super power"
+            "super power",
+            "team sports"
         ],
         "date": {
             "season": "fall",
@@ -5329,6 +5344,7 @@
             "sci-fi",
             "science fiction",
             "science-fiction",
+            "strategy game",
             "super power",
             "supernatural drama",
             "violence"
@@ -5543,6 +5559,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/jra-x-gudetama",
             "https://myanimelist.net/anime/38626"
         ],
         "title": "JRA x Gudetama",
@@ -5555,10 +5572,21 @@
             "JRA×ぐでたま"
         ],
         "relations": [
+            "https://anime-planet.com/anime/gudetama",
             "https://myanimelist.net/anime/23539"
         ],
         "tags": [
-            "racing"
+            "anthropomorphic",
+            "comedy",
+            "commercials",
+            "crossover",
+            "food protagonists",
+            "horse racing",
+            "non-human protagonists",
+            "promotional",
+            "racing",
+            "short episodes",
+            "sports"
         ],
         "date": {
             "season": "fall",
@@ -5609,10 +5637,6 @@
             "https://anime-planet.com/anime/dropkick-on-my-devil",
             "https://anime-planet.com/anime/dropkick-on-my-devil-dash",
             "https://anime-planet.com/anime/dropkick-on-my-devil-dash-chapter-chitose",
-            "https://anisearch.com/anime/13089",
-            "https://anisearch.com/anime/14110",
-            "https://anisearch.com/anime/15223",
-            "https://anisearch.com/anime/15589",
             "https://kitsu.io/anime/41165",
             "https://kitsu.io/anime/42126",
             "https://livechart.me/anime/10174",
@@ -5934,6 +5958,7 @@
             "male protagonist",
             "manga",
             "mystery",
+            "organized crime",
             "police",
             "present",
             "primarily male cast",
@@ -6023,116 +6048,10 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/2915"
-        ],
-        "title": "K: Seven Stories Episode 3 - SIDE:GREEN ~Uwagaki Sekai~",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/2915/poster_image/2132583a54ec1a638f3bf749fa939ec6.jpeg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/2915/poster_image/2132583a54ec1a638f3bf749fa939ec6.jpeg?style=small&format=jpg",
-        "synonyms": [
-            "K SEVEN STORIES Episode 3　「SIDE:GREEN ～上書き世界～」",
-            "K: Seven Stories Episode 3 - SIDE:GREEN ~The Overwritten World~"
-        ],
-        "relations": [
-            "https://livechart.me/anime/116",
-            "https://livechart.me/anime/1268",
-            "https://livechart.me/anime/2177",
-            "https://livechart.me/anime/2914",
-            "https://livechart.me/anime/2916",
-            "https://livechart.me/anime/2917",
-            "https://livechart.me/anime/2918",
-            "https://livechart.me/anime/2919",
-            "https://livechart.me/anime/948"
-        ],
-        "tags": [
-            "action",
-            "mystery",
-            "supernatural",
-            "superpower"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/2916"
-        ],
-        "title": "K: Seven Stories Episode 4 - Lost Small World ~Ori no Mukou ni~",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/2916/poster_image/de121692ef2b85467b6cb76fd34ac7f4.jpeg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/2916/poster_image/de121692ef2b85467b6cb76fd34ac7f4.jpeg?style=small&format=jpg",
-        "synonyms": [
-            "K SEVEN STORIES Episode 4　「Lost Small World ～檻の向こうに～」",
-            "K: Seven Stories Episode 4 - Lost Small World ~To the Other Side of the Cage~"
-        ],
-        "relations": [
-            "https://livechart.me/anime/116",
-            "https://livechart.me/anime/1268",
-            "https://livechart.me/anime/2177",
-            "https://livechart.me/anime/2914",
-            "https://livechart.me/anime/2915",
-            "https://livechart.me/anime/2917",
-            "https://livechart.me/anime/2918",
-            "https://livechart.me/anime/2919",
-            "https://livechart.me/anime/948"
-        ],
-        "tags": [
-            "action",
-            "mystery",
-            "supernatural",
-            "superpower"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/2917"
-        ],
-        "title": "K: Seven Stories Episode 5 - Memory of Red ~BURN~",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/2917/poster_image/b701ddd86431f73d472d2201c8ddb0da.jpeg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/2917/poster_image/b701ddd86431f73d472d2201c8ddb0da.jpeg?style=small&format=jpg",
-        "synonyms": [
-            "K SEVEN STORIES Episode 5　「メモリー・オブ・レッド ～BURN～」"
-        ],
-        "relations": [
-            "https://livechart.me/anime/116",
-            "https://livechart.me/anime/1268",
-            "https://livechart.me/anime/2177",
-            "https://livechart.me/anime/2914",
-            "https://livechart.me/anime/2915",
-            "https://livechart.me/anime/2916",
-            "https://livechart.me/anime/2918",
-            "https://livechart.me/anime/2919",
-            "https://livechart.me/anime/948"
-        ],
-        "tags": [
-            "action",
-            "mystery",
-            "supernatural",
-            "superpower"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/102348",
             "https://anime-planet.com/anime/k-seven-stories-movie-4-lost-small-world-outside-the-cage",
             "https://kitsu.io/anime/41767",
+            "https://livechart.me/anime/2916",
             "https://myanimelist.net/anime/37305",
             "https://notify.moe/anime/h77IeLoiR"
         ],
@@ -6144,11 +6063,14 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1211/91852t.jpg",
         "synonyms": [
             "K SEVEN STORIES Episode 4",
+            "K SEVEN STORIES Episode 4　「Lost Small World ～檻の向こうに～」",
             "K SEVEN STORIES: Lost Small World ~Ori no Mukou ni~",
             "K SEVEN STORIES「Lost Small World ～檻の向こうに～」",
             "K Seven Stories Lost Small World ~檻の向こうに~",
             "K: SEVEN STORIES \"Lost Small World - Outside the Cage - \"",
             "K: Seven Stories - Lost Small World - To the Other Side of the Cage",
+            "K: Seven Stories Episode 4 - Lost Small World ~Ori no Mukou ni~",
+            "K: Seven Stories Episode 4 - Lost Small World ~To the Other Side of the Cage~",
             "K: Seven Stories Movie 4 - Lost Small World ~Ori no Mukou ni",
             "K: Seven Stories Movie 4 - Lost Small World ~Outside the Cage~",
             "Lost Small World: To the Other Side of the Cage"
@@ -6168,6 +6090,15 @@
             "https://anime-planet.com/anime/k-seven-stories-the-idol-k",
             "https://kitsu.io/anime/41768",
             "https://kitsu.io/anime/41772",
+            "https://livechart.me/anime/116",
+            "https://livechart.me/anime/1268",
+            "https://livechart.me/anime/2177",
+            "https://livechart.me/anime/2914",
+            "https://livechart.me/anime/2915",
+            "https://livechart.me/anime/2917",
+            "https://livechart.me/anime/2918",
+            "https://livechart.me/anime/2919",
+            "https://livechart.me/anime/948",
             "https://myanimelist.net/anime/37304",
             "https://myanimelist.net/anime/37306",
             "https://myanimelist.net/anime/37308"
@@ -6182,11 +6113,13 @@
             "fantasy",
             "gangs",
             "male protagonist",
+            "mystery",
             "original work",
             "school",
             "school life",
             "super power",
             "supernatural",
+            "superpower",
             "superpowers",
             "time skip",
             "tsundere",
@@ -6203,6 +6136,7 @@
             "https://anilist.co/anime/102349",
             "https://anime-planet.com/anime/k-seven-stories-movie-5-memory-of-red-burn",
             "https://kitsu.io/anime/41768",
+            "https://livechart.me/anime/2917",
             "https://myanimelist.net/anime/37306",
             "https://notify.moe/anime/qj7D6LoiR"
         ],
@@ -6214,10 +6148,12 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1790/91851t.jpg",
         "synonyms": [
             "K SEVEN STORIES Episode 5",
+            "K SEVEN STORIES Episode 5　「メモリー・オブ・レッド ～BURN～」",
             "K SEVEN STORIES: Memory of Red ~BURN~",
             "K SEVEN STORIES「メモリー・オブ・レッド ～BURN～」",
             "K Seven Stories メモリー・オブ・レッド ~BURN~",
             "K: SEVEN STORIES \"Memory of RED - BURN -\"",
+            "K: Seven Stories Episode 5 - Memory of Red ~BURN~",
             "K: Seven Stories Movie 5 - Memory of Red ~BURN~"
         ],
         "relations": [
@@ -6235,6 +6171,15 @@
             "https://anime-planet.com/anime/k-seven-stories-the-idol-k",
             "https://kitsu.io/anime/41767",
             "https://kitsu.io/anime/41771",
+            "https://livechart.me/anime/116",
+            "https://livechart.me/anime/1268",
+            "https://livechart.me/anime/2177",
+            "https://livechart.me/anime/2914",
+            "https://livechart.me/anime/2915",
+            "https://livechart.me/anime/2916",
+            "https://livechart.me/anime/2918",
+            "https://livechart.me/anime/2919",
+            "https://livechart.me/anime/948",
             "https://myanimelist.net/anime/37305",
             "https://myanimelist.net/anime/37307",
             "https://myanimelist.net/anime/37308"
@@ -6247,10 +6192,12 @@
             "fantasy",
             "gangs",
             "kuudere",
+            "mystery",
             "original work",
             "primarily male cast",
             "super power",
             "supernatural",
+            "superpower",
             "superpowers",
             "tragedy"
         ],
@@ -6264,6 +6211,7 @@
             "https://anilist.co/anime/102350",
             "https://anime-planet.com/anime/k-seven-stories-movie-6-circle-vision-nameless-song",
             "https://kitsu.io/anime/41771",
+            "https://livechart.me/anime/2918",
             "https://myanimelist.net/anime/37307",
             "https://notify.moe/anime/Hl1OeLomg"
         ],
@@ -6275,10 +6223,12 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1491/92832t.jpg",
         "synonyms": [
             "K SEVEN STORIES Episode 6",
+            "K SEVEN STORIES Episode 6　「Circle Vision ～Nameless Song～」",
             "K SEVEN STORIES: Circle Vision ~Nameless Song~",
             "K SEVEN STORIES「Circle Vision ～Nameless Song～」",
             "K Seven Stories Circle Vision ~Nameless Song~",
             "K: SEVEN STORIES \"Circle Vision - Nameless Song - \"",
+            "K: Seven Stories Episode 6 - Circle Vision ~Nameless Song~",
             "K: Seven Stories Movie 6 - Circle Vision ~Nameless Song~"
         ],
         "relations": [
@@ -6294,6 +6244,15 @@
             "https://anime-planet.com/anime/k-seven-stories-movie-5-memory-of-red-burn",
             "https://anime-planet.com/anime/k-seven-stories-the-idol-k",
             "https://kitsu.io/anime/41768",
+            "https://livechart.me/anime/116",
+            "https://livechart.me/anime/1268",
+            "https://livechart.me/anime/2177",
+            "https://livechart.me/anime/2914",
+            "https://livechart.me/anime/2915",
+            "https://livechart.me/anime/2916",
+            "https://livechart.me/anime/2917",
+            "https://livechart.me/anime/2919",
+            "https://livechart.me/anime/948",
             "https://myanimelist.net/anime/37306",
             "https://myanimelist.net/anime/37308"
         ],
@@ -6308,9 +6267,11 @@
             "gangs",
             "kuudere",
             "memory manipulation",
+            "mystery",
             "original work",
             "super power",
             "supernatural",
+            "superpower",
             "superpowers",
             "tragedy"
         ],
@@ -6526,7 +6487,6 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/karakuri-circus-recap",
-            "https://anisearch.com/anime/15248",
             "https://kitsu.io/anime/42591",
             "https://myanimelist.net/anime/39066",
             "https://myanimelist.net/anime/40340"
@@ -6843,6 +6803,7 @@
         ],
         "tags": [
             "cg-anime",
+            "idols (male)",
             "music"
         ],
         "date": {
@@ -7124,6 +7085,7 @@
             "Koi to Uso OVA",
             "Koi to Uso: Isshou no Koi / Koi no Kimochi",
             "Koi to Uso: Isshō no Koi / Koi no Kimochi",
+            "LOVE and LIES OVA",
             "LOVE and Lies OVA",
             "Love & Lies",
             "Love and Lies",
@@ -7212,7 +7174,7 @@
         ],
         "tags": [
             "action",
-            "police",
+            "detective",
             "sci-fi",
             "seinen"
         ],
@@ -7554,7 +7516,6 @@
             "Lord El-Melloi II Case Files",
             "Lord El-Melloi II Sei no Jikenbo -Rail Zeppelin Grace Note- Hakamori to Neko to Majutsushi",
             "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note - A Grave Keeper, a Cat, and a Mage",
-            "Lord El-Melloi II's Case Files: Rail Zeppelin - Grace Note Episodio 0",
             "Lord El-Melloi II's Case Files: Rail Zeppelin - Grace Note Épisode 0",
             "Lord El-Melloi II's Case Files: Rail Zeppelin Grace Note - A Grave Keeper, a Cat, and a Mage",
             "Lord El-Melloi II's Case Files: Rail Zeppelin Grace Note - Episode 0",
@@ -7564,6 +7525,7 @@
             "Lord El-Melloi II`s Case Files: Rail Zeppelin Grace Note - A Grave Keeper, a Cat, and a Mage",
             "Lord El-Melloi II’s Case Files: Rail Zeppelin - Grace Note Episode 0",
             "Lord El-Melloi II’s Case Files: Rail Zeppelin - Grace Note: A Grave Keeper, a Cat, and a Mage",
+            "Lord El-Melloi II’s Case Files: Rail Zeppelin - Grace Note: Un enterrador, un gato y un mago",
             "ملف قضايا اللورد إل-ميلوي الثاني - نغمة إضافية ريل زيبيلين - حارس قبر وقط وساحر",
             "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note- 墓守と猫と魔術師",
             "ロード・エルメロイⅡ世の事件簿 {魔眼蒐集列車[レール・ツェッペリン]} Grace note 墓守と猫と魔術師",
@@ -7792,6 +7754,7 @@
             "hardcore",
             "hentai",
             "martial arts",
+            "mythology",
             "oral",
             "slave"
         ],
@@ -8066,7 +8029,6 @@
             "https://anilist.co/anime/139348",
             "https://anime-planet.com/anime/meng-qi-shi-shen-2nd-season",
             "https://anime-planet.com/anime/meng-qi-shi-shen-3rd-season",
-            "https://anisearch.com/anime/16651",
             "https://kitsu.io/anime/45232",
             "https://livechart.me/anime/10903",
             "https://myanimelist.net/anime/49847",
@@ -8335,44 +8297,6 @@
             "https://anime-planet.com/anime/mobile-suit-gundam-zz",
             "https://anime-planet.com/anime/mobile-suit-victory-gundam",
             "https://anime-planet.com/anime/mobile-suit-zeta-gundam",
-            "https://anisearch.com/anime/10546",
-            "https://anisearch.com/anime/10601",
-            "https://anisearch.com/anime/10932",
-            "https://anisearch.com/anime/11228",
-            "https://anisearch.com/anime/11417",
-            "https://anisearch.com/anime/12025",
-            "https://anisearch.com/anime/12177",
-            "https://anisearch.com/anime/12405",
-            "https://anisearch.com/anime/12661",
-            "https://anisearch.com/anime/12834",
-            "https://anisearch.com/anime/13996",
-            "https://anisearch.com/anime/1424",
-            "https://anisearch.com/anime/1581",
-            "https://anisearch.com/anime/1602",
-            "https://anisearch.com/anime/174",
-            "https://anisearch.com/anime/1959",
-            "https://anisearch.com/anime/1978",
-            "https://anisearch.com/anime/2662",
-            "https://anisearch.com/anime/2688",
-            "https://anisearch.com/anime/2690",
-            "https://anisearch.com/anime/2737",
-            "https://anisearch.com/anime/3125",
-            "https://anisearch.com/anime/3234",
-            "https://anisearch.com/anime/3329",
-            "https://anisearch.com/anime/3426",
-            "https://anisearch.com/anime/394",
-            "https://anisearch.com/anime/4810",
-            "https://anisearch.com/anime/5404",
-            "https://anisearch.com/anime/581",
-            "https://anisearch.com/anime/5932",
-            "https://anisearch.com/anime/602",
-            "https://anisearch.com/anime/647",
-            "https://anisearch.com/anime/7192",
-            "https://anisearch.com/anime/8338",
-            "https://anisearch.com/anime/8466",
-            "https://anisearch.com/anime/8522",
-            "https://anisearch.com/anime/8926",
-            "https://anisearch.com/anime/9",
             "https://livechart.me/anime/3938",
             "https://livechart.me/anime/4607",
             "https://livechart.me/anime/4659",
@@ -9395,6 +9319,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1874/96290t.jpg",
         "synonyms": [
             "Overlord: Ple Ple Pleiades - Clementine Tōbō-hen",
+            "Overlord: Ple Ple Pleiades - Fugitive Clementine",
             "Ple Ple Pleiades: Clementine Toubou Hen",
             "Ple Ple Pleiades: Clementine the Fugitive",
             "ぷれぷれぷれあです ~クレマンティーヌ逃亡編~",
@@ -9698,7 +9623,6 @@
             "https://anidb.net/anime/13421",
             "https://anilist.co/anime/99994",
             "https://anime-planet.com/anime/pingu-in-the-city",
-            "https://anisearch.com/anime/12793",
             "https://kitsu.io/anime/13783",
             "https://livechart.me/anime/2847",
             "https://myanimelist.net/anime/36259"
@@ -10012,7 +9936,6 @@
             "https://anidb.net/anime/14701",
             "https://anilist.co/anime/108040",
             "https://anime-planet.com/anime/radiant-2nd-season",
-            "https://anisearch.com/anime/14207",
             "https://kitsu.io/anime/42521",
             "https://livechart.me/anime/9242",
             "https://myanimelist.net/anime/39355",
@@ -10192,6 +10115,7 @@
             "isekai",
             "kuudere",
             "parody",
+            "reincarnation",
             "shorts"
         ],
         "date": {
@@ -10473,10 +10397,7 @@
             "Running Man: Counterattack at Pulululu",
             "런닝맨: 풀룰루의 역습"
         ],
-        "relations": [
-            "https://anisearch.com/anime/14860",
-            "https://anisearch.com/anime/15486"
-        ],
+        "relations": [],
         "tags": [],
         "date": {
             "season": "fall",
@@ -10577,10 +10498,8 @@
             "gore",
             "henshin",
             "hikikomori",
-            "isekai",
             "kaiju",
             "kaijuu",
-            "lgbtq+ themes",
             "love triangle",
             "male protagonist",
             "mecha",
@@ -10746,23 +10665,6 @@
             "https://anidb.net/anime/826",
             "https://anilist.co/anime/1254",
             "https://anime-planet.com/anime/saint-seiya-knights-of-the-zodiac",
-            "https://anisearch.com/anime/10149",
-            "https://anisearch.com/anime/10186",
-            "https://anisearch.com/anime/10239",
-            "https://anisearch.com/anime/12698",
-            "https://anisearch.com/anime/1454",
-            "https://anisearch.com/anime/1487",
-            "https://anisearch.com/anime/1923",
-            "https://anisearch.com/anime/2041",
-            "https://anisearch.com/anime/2108",
-            "https://anisearch.com/anime/2657",
-            "https://anisearch.com/anime/3026",
-            "https://anisearch.com/anime/318",
-            "https://anisearch.com/anime/4632",
-            "https://anisearch.com/anime/5190",
-            "https://anisearch.com/anime/6673",
-            "https://anisearch.com/anime/6906",
-            "https://anisearch.com/anime/7598",
             "https://kitsu.io/anime/1129",
             "https://livechart.me/anime/1279",
             "https://livechart.me/anime/287",
@@ -11124,8 +11026,6 @@
             "https://anime-planet.com/anime/senran-kagura",
             "https://anime-planet.com/anime/senran-kagura-estival-versus-shoujo-tachi-no-sentaku",
             "https://anime-planet.com/anime/senran-kagura-specials",
-            "https://anisearch.com/anime/7795",
-            "https://anisearch.com/anime/8814",
             "https://kitsu.io/anime/7216",
             "https://livechart.me/anime/1263",
             "https://livechart.me/anime/3435",
@@ -11136,6 +11036,7 @@
         "tags": [
             "action",
             "action comedy",
+            "adoption",
             "based on a video game",
             "comedy",
             "ecchi",
@@ -11565,7 +11466,8 @@
             "present",
             "romance",
             "short episodes",
-            "smut"
+            "smut",
+            "softcore"
         ],
         "date": {
             "season": "fall",
@@ -11877,6 +11779,7 @@
             "https://myanimelist.net/anime/38922"
         ],
         "tags": [
+            "idols (male)",
             "music"
         ],
         "date": {
@@ -12559,10 +12462,7 @@
             "T-Buster Season 2",
             "타오르지마 버스터 시즌 2"
         ],
-        "relations": [
-            "https://anisearch.com/anime/16699",
-            "https://anisearch.com/anime/16701"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "cg-anime",
@@ -12649,6 +12549,7 @@
             "关于我转生变成史莱姆这档事",
             "転スラ",
             "転生したらスライムだった件",
+            "關於我轉生變成史萊姆這檔事",
             "전생했더니 슬라임이었던 건"
         ],
         "relations": [
@@ -12663,6 +12564,7 @@
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-digression-hinata-sakaguchi",
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-movie",
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-ova",
+            "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-ramiris-saved",
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-season-2",
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-season-2-part-ii",
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-season-2-veldoras-journal",
@@ -12740,7 +12642,8 @@
             "slimes",
             "super power",
             "swordplay",
-            "swords & co"
+            "swords & co",
+            "travel"
         ],
         "date": {
             "season": "fall",
@@ -13227,6 +13130,7 @@
             "cute girls doing cute things",
             "idol",
             "idols",
+            "idols (female)",
             "music",
             "present",
             "primarily female cast",
@@ -13359,9 +13263,8 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1851/96154.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1851/96154t.jpg",
         "synonyms": [
-            "Miss Vampire who Lives in my Neighborhood",
+            "Miss Vampire Who Lives in My Neighborhood",
             "Ms. Vampire Who Lives in My Neighborhood.",
-            "Ms. Vampire who Lives in my Neighborhood.",
             "Ms. Vampire who lives in my neighborhood.",
             "Ms. vampire who lives in my neighborhood.",
             "Tonari no Kyūketsuki-san",
@@ -13574,7 +13477,6 @@
             "https://anilist.co/anime/125261",
             "https://anime-planet.com/anime/tsurune-dangerous-shoot",
             "https://anime-planet.com/anime/tsurune-movie-hajimari-no-hitosa",
-            "https://anisearch.com/anime/14220",
             "https://kitsu.io/anime/42355",
             "https://kitsu.io/anime/45942",
             "https://livechart.me/anime/10188",
@@ -13868,8 +13770,15 @@
             "https://livechart.me/anime/10552",
             "https://livechart.me/anime/10553",
             "https://livechart.me/anime/1617",
+            "https://myanimelist.net/anime/13439",
+            "https://myanimelist.net/anime/13441",
             "https://myanimelist.net/anime/30850",
+            "https://myanimelist.net/anime/3496",
             "https://myanimelist.net/anime/48951",
+            "https://myanimelist.net/anime/6937",
+            "https://myanimelist.net/anime/6939",
+            "https://myanimelist.net/anime/6985",
+            "https://myanimelist.net/anime/7985",
             "https://notify.moe/anime/FLwqn-M7g",
             "https://notify.moe/anime/YdRXtFimR"
         ],
@@ -14341,8 +14250,6 @@
             "https://anilist.co/anime/101550",
             "https://anime-planet.com/anime/wo-shi-jiang-xiaobai",
             "https://anime-planet.com/anime/wo-shi-jiang-xiaobai-ova",
-            "https://anisearch.com/anime/13241",
-            "https://anisearch.com/anime/13873",
             "https://myanimelist.net/anime/37886"
         ],
         "tags": [
@@ -14582,6 +14489,7 @@
             "demons",
             "family friendly",
             "kids",
+            "mythology",
             "shorts",
             "supernatural"
         ],
@@ -14872,8 +14780,8 @@
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1908/123389.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1908/123389t.jpg",
         "synonyms": [
             "Cosmic Guard",
             "Cosmicrew",
@@ -14881,7 +14789,7 @@
             "宇宙护卫队"
         ],
         "relations": [
-            "https://anisearch.com/anime/15228"
+            "https://myanimelist.net/anime/47642"
         ],
         "tags": [
             "adventure",
@@ -14891,7 +14799,9 @@
             "chinese animation",
             "comedy",
             "family friendly",
+            "kids",
             "non-human protagonists",
+            "sci-fi",
             "short episodes"
         ],
         "date": {
@@ -15184,18 +15094,6 @@
             "https://anime-planet.com/anime/owarimonogatari",
             "https://anime-planet.com/anime/owarimonogatari-ii",
             "https://anime-planet.com/anime/tsukimonogatari",
-            "https://anisearch.com/anime/10536",
-            "https://anisearch.com/anime/11060",
-            "https://anisearch.com/anime/12343",
-            "https://anisearch.com/anime/14932",
-            "https://anisearch.com/anime/5027",
-            "https://anisearch.com/anime/6334",
-            "https://anisearch.com/anime/7306",
-            "https://anisearch.com/anime/7527",
-            "https://anisearch.com/anime/7796",
-            "https://anisearch.com/anime/8117",
-            "https://anisearch.com/anime/9095",
-            "https://anisearch.com/anime/9932",
             "https://kitsu.io/anime/8032",
             "https://livechart.me/anime/1156",
             "https://livechart.me/anime/117",
@@ -15236,6 +15134,7 @@
             "mystery",
             "nekomimi",
             "novel",
+            "nudity",
             "philosophy",
             "present",
             "primarily female cast",
@@ -15378,6 +15277,7 @@
             "coming of age",
             "daily life",
             "drama",
+            "drawing",
             "foreign",
             "love triangle",
             "manhua",

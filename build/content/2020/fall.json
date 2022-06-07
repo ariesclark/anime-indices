@@ -65,7 +65,6 @@
             "https://anidb.net/anime/15930",
             "https://anilist.co/anime/127366",
             "https://anime-planet.com/anime/im-standing-on-a-million-lives-2nd-season",
-            "https://anisearch.com/anime/15821",
             "https://kitsu.io/anime/43883",
             "https://livechart.me/anime/10277",
             "https://myanimelist.net/anime/44881",
@@ -305,6 +304,7 @@
             "AdaShima",
             "Adachi and Shimamura",
             "Adashima",
+            "Адати и Симамура",
             "Адачи и Шимамура",
             "安达与岛村",
             "安達としまむら",
@@ -934,6 +934,7 @@
             "Aya and the Witch",
             "Aya et la Sorcière",
             "Aya et la sorcière",
+            "Aya og heksen",
             "Aya und die Hexe",
             "Earwig and the Witch",
             "Earwig e la Strega",
@@ -1463,6 +1464,7 @@
             "school life",
             "shounen",
             "sports",
+            "team sports",
             "university"
         ],
         "date": {
@@ -1563,6 +1565,7 @@
             "https://anidb.net/anime/17232",
             "https://anilist.co/anime/145968",
             "https://anime-planet.com/anime/cap-kakumei-bottleman-dx",
+            "https://kitsu.io/anime/46046",
             "https://livechart.me/anime/11110",
             "https://myanimelist.net/anime/51155",
             "https://notify.moe/anime/9bGZp-LnR"
@@ -1804,6 +1807,35 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/143315",
+            "https://anisearch.com/anime/16280",
+            "https://myanimelist.net/anime/51957"
+        ],
+        "title": "Climbing",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1953/124132.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1953/124132t.jpg",
+        "synonyms": [
+            "Keullaiming",
+            "클라이밍"
+        ],
+        "relations": [],
+        "tags": [
+            "athletics",
+            "horror",
+            "psychological",
+            "sports",
+            "suspense"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/16724"
         ],
         "title": "Comiwa Bebe",
@@ -1964,6 +1996,7 @@
             "https://anime-planet.com/anime/d4dj-double-mix",
             "https://anime-planet.com/anime/d4dj-petit-mix",
             "https://kitsu.io/anime/44008",
+            "https://kitsu.io/anime/45974",
             "https://livechart.me/anime/10325",
             "https://livechart.me/anime/11128",
             "https://livechart.me/anime/11180",
@@ -2026,6 +2059,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1002/108424t.jpg",
         "synonyms": [
             "Date A Live Fragment: Date A Bullet",
+            "Рандеву с пулей: Кошмар или королева",
             "พิชิตรัก พิทักษ์โลก เดอะมูฟวี่ Date A Bullet",
             "デート・ア・バレット ナイトメア・オア・クイーン",
             "デート・ア・バレット　ナイトメア・オア・クイーン"
@@ -2126,6 +2160,7 @@
         "tags": [
             "dancing",
             "idol",
+            "idols (male)",
             "music",
             "primarily male cast"
         ],
@@ -2190,6 +2225,7 @@
             "manga",
             "meta",
             "nudity",
+            "pantsu",
             "philosophy",
             "pov",
             "present",
@@ -2580,7 +2616,7 @@
         ],
         "title": "Dragon Quest: Dai no Daibouken (2020)",
         "type": "tv",
-        "episodes": 79,
+        "episodes": 80,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1499/109126.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1499/109126t.jpg",
@@ -3140,10 +3176,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/15425",
-            "https://anidb.net/anime/16039",
-            "https://anisearch.com/anime/14801",
-            "https://anisearch.com/anime/16255",
-            "https://anisearch.com/anime/16922"
+            "https://anidb.net/anime/16039"
         ],
         "tags": [
             "action",
@@ -3505,7 +3538,9 @@
         "synonyms": [
             "GAME OF DICE"
         ],
-        "relations": [],
+        "relations": [
+            "https://myanimelist.net/anime/49902"
+        ],
         "tags": [],
         "date": {
             "season": "fall",
@@ -3772,10 +3807,6 @@
             "https://anime-planet.com/anime/is-the-order-a-rabbit-dear-my-sister",
             "https://anime-planet.com/anime/is-the-order-a-rabbit-season-2",
             "https://anime-planet.com/anime/is-the-order-a-rabbit-sing-for-you",
-            "https://anisearch.com/anime/10175",
-            "https://anisearch.com/anime/11475",
-            "https://anisearch.com/anime/13898",
-            "https://anisearch.com/anime/9234",
             "https://kitsu.io/anime/42364",
             "https://livechart.me/anime/1383",
             "https://livechart.me/anime/2185",
@@ -3953,6 +3984,7 @@
             "https://anime-planet.com/anime/grisaia-phantom-trigger",
             "https://anime-planet.com/anime/grisaia-phantom-trigger-the-animation",
             "https://kitsu.io/anime/13685",
+            "https://kitsu.io/anime/46011",
             "https://livechart.me/anime/11101",
             "https://livechart.me/anime/2783",
             "https://myanimelist.net/anime/35868",
@@ -4241,16 +4273,6 @@
             "https://anime-planet.com/anime/haikyuu-second-season",
             "https://anime-planet.com/anime/haikyuu-to-the-top",
             "https://anime-planet.com/anime/haikyuu-vs-akaten",
-            "https://anisearch.com/anime/10097",
-            "https://anisearch.com/anime/10146",
-            "https://anisearch.com/anime/11165",
-            "https://anisearch.com/anime/11209",
-            "https://anisearch.com/anime/12328",
-            "https://anisearch.com/anime/12676",
-            "https://anisearch.com/anime/14041",
-            "https://anisearch.com/anime/14682",
-            "https://anisearch.com/anime/9011",
-            "https://anisearch.com/anime/9909",
             "https://kitsu.io/anime/42059",
             "https://livechart.me/anime/1330",
             "https://livechart.me/anime/1377",
@@ -4549,6 +4571,7 @@
             "Yashahime : Princess Half-Demon",
             "Yashahime: Princess Half-Demon",
             "Принцесса-полудемон",
+            "Принцессы-полудемоны",
             "ยาฉะฮิเมะ: เจ้าหญิงครึ่งอสูร",
             "半妖の夜叉姫",
             "半妖の夜叉姫 -戦国御伽草子-",
@@ -4596,6 +4619,7 @@
             "kemonomimi",
             "magic",
             "memory manipulation",
+            "mythology",
             "new",
             "old asia",
             "primarily female cast",
@@ -4722,7 +4746,7 @@
         "relations": [
             "https://anime-planet.com/anime/kaguya-sama-love-is-war-2",
             "https://kitsu.io/anime/41373",
-            "https://myanimelist.net/anime/37999"
+            "https://myanimelist.net/anime/40591"
         ],
         "tags": [
             "chinese animation",
@@ -5689,7 +5713,6 @@
         "relations": [
             "https://anilist.co/anime/110464",
             "https://anime-planet.com/anime/ne-zha",
-            "https://anisearch.com/anime/14121",
             "https://kitsu.io/anime/42851",
             "https://myanimelist.net/anime/40111",
             "https://myanimelist.net/anime/44212",
@@ -5699,6 +5722,7 @@
             "action",
             "adventure",
             "amnesia",
+            "based on a fairy tale",
             "cg animation",
             "cg-anime",
             "chinese animation",
@@ -6371,6 +6395,7 @@
             "action",
             "adventure",
             "alternative world",
+            "anthropomorphism",
             "based on a light novel",
             "celestial beings",
             "comedy",
@@ -6393,6 +6418,7 @@
             "slimes",
             "slow life",
             "swords & co",
+            "violence",
             "work"
         ],
         "date": {
@@ -6832,6 +6858,7 @@
             "swordplay",
             "tragedy",
             "trains",
+            "travel",
             "violence"
         ],
         "date": {
@@ -7021,7 +7048,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/127508",
             "https://kitsu.io/anime/44549"
         ],
         "title": "Kimi to Tsunaga Renai Jinsei Nante",
@@ -7039,8 +7065,7 @@
             "drama",
             "music",
             "romance",
-            "shoujo ai",
-            "yuri"
+            "shoujo ai"
         ],
         "date": {
             "season": "fall",
@@ -7469,7 +7494,8 @@
             "Ми-ми-ми-мишка",
             "くま クマ 熊 ベアー",
             "くまクマ熊ベアー",
-            "熊熊勇闖異世界"
+            "熊熊勇闖異世界",
+            "熊熊勇闯异世界"
         ],
         "relations": [
             "https://anidb.net/anime/15945",
@@ -7730,7 +7756,6 @@
             "https://anidb.net/anime/15698",
             "https://anidb.net/anime/16310",
             "https://anidb.net/anime/9271",
-            "https://anilist.co/anime/106923",
             "https://anilist.co/anime/114979",
             "https://anilist.co/anime/122979",
             "https://anilist.co/anime/123155",
@@ -7766,13 +7791,13 @@
             "diva",
             "ensemble cast",
             "episodic",
-            "female harem",
             "female protagonist",
             "friendship",
             "ganbatte",
             "high school",
             "idol",
             "idols",
+            "idols (female)",
             "moe",
             "music",
             "musical",
@@ -7875,6 +7900,7 @@
         ],
         "relations": [],
         "tags": [
+            "cgdct",
             "comedy",
             "cute girls doing cute things",
             "drama",
@@ -7937,6 +7963,7 @@
             "drama",
             "excessive violence",
             "fantasy",
+            "foreign",
             "fugitive",
             "guns",
             "magic",
@@ -8097,6 +8124,7 @@
             "Buscanda a la Mágica Doremi",
             "Buscando a la Mágica Doremi",
             "Buscant la màgica DoReMi",
+            "Buscant la màgica Doremi",
             "Looking for Magical DoReMi",
             "Looking for Magical Doremi",
             "Looking for Witch Apprentices",
@@ -8460,14 +8488,19 @@
             "boys' love",
             "comedy",
             "ecchi",
+            "high school",
             "male harem",
             "male protagonist",
             "nudity",
+            "present",
             "primarily male cast",
+            "romance",
+            "romantic comedy",
             "school",
             "shorts",
             "shounen ai",
             "slapstick",
+            "slice of life",
             "yaoi"
         ],
         "date": {
@@ -8840,6 +8873,7 @@
             "https://anilist.co/anime/124114",
             "https://anime-planet.com/anime/mulan-princess-warrior",
             "https://anisearch.com/anime/15738",
+            "https://kitsu.io/anime/46151",
             "https://myanimelist.net/anime/42641",
             "https://notify.moe/anime/6zkcqMKGg"
         ],
@@ -8866,7 +8900,8 @@
             "drama",
             "full cgi",
             "historical",
-            "martial arts"
+            "martial arts",
+            "swordplay"
         ],
         "date": {
             "season": "fall",
@@ -8893,6 +8928,7 @@
         "synonyms": [
             "Munō na Nana",
             "Nana sin Talento",
+            "Nana sin talento",
             "Talentless Nana",
             "Бездарная Нана",
             "عديمة القدرة نانا",
@@ -9271,7 +9307,6 @@
         "relations": [
             "https://anidb.net/anime/15108",
             "https://anilist.co/anime/111964",
-            "https://anisearch.com/anime/14776",
             "https://livechart.me/anime/9610"
         ],
         "tags": [
@@ -9325,6 +9360,7 @@
             "female protagonist",
             "idol",
             "idols",
+            "idols (female)",
             "manga",
             "meta",
             "moe",
@@ -9583,7 +9619,6 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/spice-and-wolf-vr",
-            "https://anisearch.com/anime/13762",
             "https://livechart.me/anime/11104",
             "https://livechart.me/anime/3481",
             "https://livechart.me/anime/3487",
@@ -9690,6 +9725,7 @@
             "episodic",
             "family life",
             "gag",
+            "gag humor",
             "josei",
             "meta",
             "neet",
@@ -10053,19 +10089,7 @@
             "뽀롱뽀롱 뽀로로 7",
             "뽀롱뽀롱 뽀로로 시즌 7"
         ],
-        "relations": [
-            "https://anisearch.com/anime/11362",
-            "https://anisearch.com/anime/11363",
-            "https://anisearch.com/anime/11364",
-            "https://anisearch.com/anime/11365",
-            "https://anisearch.com/anime/11366",
-            "https://anisearch.com/anime/11367",
-            "https://anisearch.com/anime/11368",
-            "https://anisearch.com/anime/11369",
-            "https://anisearch.com/anime/11372",
-            "https://anisearch.com/anime/11373",
-            "https://anisearch.com/anime/9643"
-        ],
+        "relations": [],
         "tags": [
             "beastmen",
             "cg-anime"
@@ -10728,7 +10752,6 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/warlords-of-sigrdrifa-battle-records-of-the-909th-valkyrie-wing",
-            "https://anisearch.com/anime/16628",
             "https://myanimelist.net/anime/44236",
             "https://notify.moe/anime/_qdthE1Gg"
         ],
@@ -10823,6 +10846,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1440/119005t.jpg",
         "synonyms": [
             "The Vortex of the Moment",
+            "Whirlpool Of The Moment",
             "刹那の渦"
         ],
         "relations": [],
@@ -11319,7 +11343,8 @@
             "primarily adult cast",
             "short episodes",
             "work",
-            "working life"
+            "working life",
+            "workplace"
         ],
         "date": {
             "season": "fall",
@@ -11726,31 +11751,13 @@
         ],
         "relations": [
             "https://myanimelist.net/anime/32212",
-            "https://myanimelist.net/anime/40690",
-            "https://myanimelist.net/anime/40691",
-            "https://myanimelist.net/anime/42673",
-            "https://myanimelist.net/anime/48519",
-            "https://myanimelist.net/anime/48524",
-            "https://myanimelist.net/anime/48525",
-            "https://myanimelist.net/anime/48529",
-            "https://myanimelist.net/anime/48530",
-            "https://myanimelist.net/anime/48531",
-            "https://myanimelist.net/anime/48538",
-            "https://myanimelist.net/anime/48540",
-            "https://myanimelist.net/anime/48541",
-            "https://myanimelist.net/anime/48552",
             "https://myanimelist.net/anime/48557",
-            "https://myanimelist.net/anime/48558",
-            "https://myanimelist.net/anime/48560",
-            "https://myanimelist.net/anime/48562",
-            "https://myanimelist.net/anime/48565",
-            "https://myanimelist.net/anime/49122",
-            "https://myanimelist.net/anime/49126",
-            "https://myanimelist.net/anime/49147"
+            "https://myanimelist.net/anime/48565"
         ],
         "tags": [
             "cg-anime",
             "idol",
+            "idols (male)",
             "monster",
             "music"
         ],
@@ -12541,6 +12548,8 @@
             "supernatural",
             "swordplay",
             "tragedy",
+            "travel",
+            "war",
             "wuxia",
             "xianxia",
             "youkai"
@@ -12635,7 +12644,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1767/108306.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1767/108306t.jpg",
         "synonyms": [
-            "Katana Maidens - Tomoshibi",
+            "Katana Maidens -Tomoshibi",
             "Katana Maidens : Tomoshibi",
             "Katana Maidens ~ Toji No Miko OVA",
             "Katana Maidens ~ Tomoshibi",
@@ -12817,6 +12826,7 @@
             "https://myanimelist.net/anime/44931",
             "https://myanimelist.net/anime/45598",
             "https://myanimelist.net/anime/50307",
+            "https://myanimelist.net/anime/51533",
             "https://notify.moe/anime/451H2jFnR",
             "https://notify.moe/anime/WMGpGR-Gg",
             "https://notify.moe/anime/shO-4qJGg"
@@ -12890,19 +12900,20 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/tonikawa-over-the-moon-for-you",
-            "https://anisearch.com/anime/15046",
-            "https://anisearch.com/anime/16756",
             "https://kitsu.io/anime/43034",
             "https://myanimelist.net/anime/41389",
             "https://notify.moe/anime/QeNoAWuZg"
         ],
         "tags": [
             "comedy",
+            "hero of strong character",
             "present",
             "recap",
             "romance",
             "romantic comedy",
-            "shounen"
+            "shounen",
+            "slapstick",
+            "slice of life"
         ],
         "date": {
             "season": "fall",
@@ -13161,9 +13172,6 @@
             "https://anilist.co/anime/20950",
             "https://anime-planet.com/anime/tsukiuta-rabbits-kingdom-the-movie",
             "https://anime-planet.com/anime/tsukiuta-the-animation",
-            "https://anisearch.com/anime/11477",
-            "https://anisearch.com/anime/12332",
-            "https://anisearch.com/anime/13208",
             "https://kitsu.io/anime/11998",
             "https://livechart.me/anime/11172",
             "https://livechart.me/anime/1291",
@@ -13184,6 +13192,7 @@
             "fantasy",
             "idol",
             "idols",
+            "idols (male)",
             "music",
             "musical",
             "primarily male cast",
@@ -13455,7 +13464,8 @@
         "tags": [
             "ocean",
             "slice of life",
-            "sports"
+            "sports",
+            "surfing"
         ],
         "date": {
             "season": "fall",
@@ -13722,7 +13732,6 @@
             "Our Big Brother's Mind Has A Problem 2",
             "There's a Pit in My Senior Martial Brother's Brain 2",
             "What's Wrong with My Big Brother",
-            "What's Wrong with My Big Brother 2",
             "What`s Wrong with My Big Brother",
             "Wo Jia Da Shixiong Naozi You Keng 2",
             "Wo Jia Da Shixiong Naozi You Keng 2nd Season",
@@ -13808,6 +13817,7 @@
             "fantasy world",
             "full cgi",
             "isekai",
+            "male protagonist",
             "manga",
             "martial arts",
             "shounen",
@@ -13913,8 +13923,6 @@
             "https://anilist.co/anime/134081",
             "https://anime-planet.com/anime/xie-wang-zhui-qi",
             "https://anime-planet.com/anime/xie-wang-zhui-qi-3-shennu-guilai",
-            "https://anisearch.com/anime/14359",
-            "https://anisearch.com/anime/17018",
             "https://kitsu.io/anime/42157",
             "https://kitsu.io/anime/44592",
             "https://livechart.me/anime/9975",
@@ -14419,7 +14427,6 @@
             "https://anilist.co/anime/124858",
             "https://anime-planet.com/anime/moriarty-the-patriot-2nd-season",
             "https://anime-planet.com/anime/moriarty-the-patriot-ova",
-            "https://anisearch.com/anime/15620",
             "https://kitsu.io/anime/43708",
             "https://livechart.me/anime/10179",
             "https://livechart.me/anime/10772",

@@ -88,13 +88,10 @@
         "synonyms": [
             "ARGONAVIS from BanG Dream! Movie",
             "Argonavis AXIA",
-            "Argonavis from BanG Dream! Movie",
             "Argonavis from Bang Dream! Movie",
             "Arvonavis Movie AXIA",
-            "Gekijouban Argonavis from Bang Dream!",
             "Gekijouban Argonavis: Axia",
             "Gekijōban Argonavis: Axia",
-            "劇場版 ARGONAVIS from BanG Dream!",
             "劇場版「アルゴナビス from BanG Dream!」（仮題）",
             "劇場版アルゴナビス AXIA",
             "劇場版アルゴナビス AXIA（アクシア）",
@@ -115,12 +112,11 @@
         "tags": [
             "band",
             "drama",
+            "male protagonist",
             "music",
-            "musical",
             "primarily adult cast",
             "primarily male cast",
-            "showbiz",
-            "video games"
+            "showbiz"
         ],
         "date": {
             "season": "fall",
@@ -283,6 +279,7 @@
             "Boku ga Ai Shita Subete no Kimi e",
             "Nhắn gửi tất cả các em, những người tôi đã yêu",
             "To All of You That I Loved",
+            "To Every You I’ve Loved Before",
             "僕が愛したすべての君へ"
         ],
         "relations": [
@@ -1114,6 +1111,7 @@
             "Kimi wo Ai Shita Hitori no Boku e",
             "Nhắn gửi một tôi, người đã yêu em",
             "To the Only Me Who Loved You",
+            "To the Solitary Me That Loved You",
             "君を愛したひとりの僕へ"
         ],
         "relations": [
@@ -1122,7 +1120,8 @@
             "https://anime-planet.com/anime/boku-ga-ai-shita-subete-no-kimi-e",
             "https://kitsu.io/anime/45220",
             "https://livechart.me/anime/10791",
-            "https://myanimelist.net/anime/49834"
+            "https://myanimelist.net/anime/49834",
+            "https://notify.moe/anime/IF6CMCS7R"
         ],
         "tags": [
             "alternate universe",
@@ -1679,6 +1678,52 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17157",
+            "https://anilist.co/anime/144533",
+            "https://anime-planet.com/anime/bibliophile-princess",
+            "https://anisearch.com/anime/17050",
+            "https://kitsu.io/anime/45814",
+            "https://livechart.me/anime/11051",
+            "https://myanimelist.net/anime/50923",
+            "https://notify.moe/anime/HbOTEm-7R"
+        ],
+        "title": "Mushikaburi-hime",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1129/120735.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1129/120735t.jpg",
+        "synonyms": [
+            "Bibliophile Princess",
+            "Eliana: Prinzessin der Bücher",
+            "Mushikaburi Hime",
+            "Princess of the Bibliophile",
+            "Princess of the Bibliophile.",
+            "虫かぶり姫"
+        ],
+        "relations": [],
+        "tags": [
+            "based on a light novel",
+            "drama",
+            "female protagonist",
+            "foreign",
+            "heroine of strong character",
+            "heterosexual",
+            "historical",
+            "josei",
+            "nobility",
+            "ojou-sama",
+            "romance",
+            "royalty",
+            "shoujo"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/17073",
             "https://anilist.co/anime/142985",
             "https://anime-planet.com/anime/muv-luv-alternative-2nd-season",
@@ -1849,6 +1894,76 @@
             "seinen",
             "slapstick",
             "super deformed"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/17433",
+            "https://anilist.co/anime/150188",
+            "https://kitsu.io/anime/46156",
+            "https://livechart.me/anime/11237",
+            "https://myanimelist.net/anime/51986",
+            "https://myanimelist.net/anime/51998"
+        ],
+        "title": "Pui Pui Molcar (2022)",
+        "type": "tv",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1661/124226.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1661/124226t.jpg",
+        "synonyms": [
+            "PUI PUI Molcar Shin Series",
+            "PUI PUI モルカー",
+            "PUI PUI モルカー (2022)",
+            "PUI PUI モルカー 新シリーズ",
+            "Pui Pui Molcar (New Series)"
+        ],
+        "relations": [
+            "https://anidb.net/anime/16007",
+            "https://anilist.co/anime/127690",
+            "https://kitsu.io/anime/43850",
+            "https://livechart.me/anime/10244",
+            "https://myanimelist.net/anime/44235"
+        ],
+        "tags": [
+            "animals",
+            "anthropomorphic",
+            "anthropomorphism",
+            "cars",
+            "comedy",
+            "kids",
+            "parody",
+            "stop motion"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/pui-pui-molcar-new"
+        ],
+        "title": "Pui Pui Molcar (New)",
+        "type": "tv",
+        "episodes": 0,
+        "status": "unknown",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/pui-pui-molcar"
+        ],
+        "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "cars",
+            "family friendly",
+            "non-human protagonists"
         ],
         "date": {
             "season": "fall",
@@ -2509,7 +2624,8 @@
             "https://anisearch.com/anime/16977",
             "https://kitsu.io/anime/45694",
             "https://livechart.me/anime/11005",
-            "https://myanimelist.net/anime/50710"
+            "https://myanimelist.net/anime/50710",
+            "https://notify.moe/anime/dh95MC-nR"
         ],
         "title": "Urusei Yatsura (2022)",
         "type": "tv",
@@ -2542,7 +2658,8 @@
             "https://livechart.me/anime/8727",
             "https://livechart.me/anime/8753",
             "https://livechart.me/anime/9091",
-            "https://myanimelist.net/anime/1293"
+            "https://myanimelist.net/anime/1293",
+            "https://notify.moe/anime/fqYbcKmmR"
         ],
         "tags": [
             "action",
@@ -2680,9 +2797,12 @@
             "https://notify.moe/anime/sE06pKimR"
         ],
         "tags": [
+            "idol",
             "idols",
             "idols (male)",
             "music",
+            "primarily adult cast",
+            "primarily male cast",
             "showbiz"
         ],
         "date": {

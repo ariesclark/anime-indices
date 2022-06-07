@@ -46,6 +46,7 @@
     {
         "sources": [
             "https://anilist.co/anime/116907",
+            "https://anime-planet.com/anime/aru-kokoro-no-tabi",
             "https://myanimelist.net/anime/51014"
         ],
         "title": "Aru Kokoro no Tabi",
@@ -61,8 +62,10 @@
         ],
         "relations": [],
         "tags": [
+            "abstract",
             "avant garde",
-            "psychological"
+            "psychological",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -252,6 +255,28 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/chuunken-senshi-mr-chun"
+        ],
+        "title": "Chuunken Senshi Mr. Chun",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/chuunken-senshi-mr-chun-1.webp?t=1653613637",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/chuunken-senshi-mr-chun-1-255x358.webp?t=1653613637",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "comedy",
+            "parody",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/51328"
         ],
         "title": "City",
@@ -388,6 +413,36 @@
         ],
         "tags": [
             "comedy",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/the-dibidogs",
+            "https://myanimelist.net/anime/44289"
+        ],
+        "title": "Dibi Gou",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1196/123022.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1196/123022t.jpg",
+        "synonyms": [
+            "The Dibidogs",
+            "迪比狗"
+        ],
+        "relations": [],
+        "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "cg animation",
+            "chinese animation",
+            "dogs",
+            "family friendly",
             "kids"
         ],
         "date": {
@@ -1285,23 +1340,36 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kaixin-baobei",
             "https://myanimelist.net/anime/44103"
         ],
         "title": "Kaixin Baobei",
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1216/122273.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1216/122273t.jpg",
         "synonyms": [
-            "開心寶貝"
+            "Happy Friends",
+            "Happy Heroes",
+            "开心宝贝"
         ],
         "relations": [
-            "https://myanimelist.net/anime/44104"
+            "https://anime-planet.com/anime/kaixin-baobei-kaixin-chaoren",
+            "https://anime-planet.com/anime/kaixin-chaoren-baoxiao-xing-xingqiu",
+            "https://myanimelist.net/anime/44104",
+            "https://myanimelist.net/anime/44121"
         ],
         "tags": [
-            "adventure",
-            "kids"
+            "androids",
+            "chinese animation",
+            "comedy",
+            "family friendly",
+            "kids",
+            "robots",
+            "sci fi",
+            "sci-fi",
+            "superheroes"
         ],
         "date": {
             "season": "unknown",
@@ -1652,19 +1720,26 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/lei-feng-de-gushi"
+            "https://anime-planet.com/anime/lei-feng-de-gushi",
+            "https://myanimelist.net/anime/44385"
         ],
         "title": "Lei Feng De Gushi",
         "type": "tv",
         "episodes": 30,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/lei-feng-de-gushi-1.webp?t=1653060984",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/lei-feng-de-gushi-1-269x377.webp?t=1653060984",
-        "synonyms": [],
-        "relations": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1963/123091.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1963/123091t.jpg",
+        "synonyms": [
+            "雷锋的故事"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/47025"
+        ],
         "tags": [
             "chinese animation",
-            "historical"
+            "historical",
+            "kids",
+            "military"
         ],
         "date": {
             "season": "unknown",
@@ -1673,22 +1748,27 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44385"
+            "https://anime-planet.com/anime/luo-baobei-aixin-xiao-juchang",
+            "https://myanimelist.net/anime/45826"
         ],
-        "title": "Leifeng De Gushi",
+        "title": "Luo Baobei Aixin Xiao Juchang",
         "type": "tv",
-        "episodes": 30,
+        "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1182/123002.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1182/123002t.jpg",
         "synonyms": [
-            "雷鋒的故事"
+            "Luo Baobei Xilie: Qi Qu Baobei Aixin Xiao Juchang",
+            "洛宝贝爱心小剧场"
         ],
-        "relations": [],
+        "relations": [
+            "https://myanimelist.net/anime/45821"
+        ],
         "tags": [
-            "adventure",
-            "historical",
-            "kids"
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -1861,22 +1941,26 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/mei-hou-wang",
             "https://myanimelist.net/anime/44176"
         ],
         "title": "Mei Hou Wang",
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1093/123006.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1093/123006t.jpg",
         "synonyms": [
+            "Monkey King",
             "美猴王"
         ],
         "relations": [],
         "tags": [
             "adventure",
+            "chinese animation",
+            "family friendly",
             "fantasy",
-            "historical"
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -1885,6 +1969,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/menghuan-zhen",
             "https://myanimelist.net/anime/44434"
         ],
         "title": "Menghuan Zhen",
@@ -1894,15 +1979,19 @@
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "The Dream Town",
             "梦幻镇"
         ],
-        "relations": [
-            "https://myanimelist.net/anime/44435"
-        ],
+        "relations": [],
         "tags": [
             "adventure",
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
             "fantasy",
-            "kids"
+            "kids",
+            "non-human protagonists",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -2019,34 +2108,6 @@
             "family friendly",
             "kids",
             "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/49955"
-        ],
-        "title": "NO MORE HEROES 1.5",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "NO MORE HEROES OVA",
-            "NO MORE HEROES Special"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "comedy",
-            "game",
-            "parody",
-            "seinen",
-            "super power"
         ],
         "date": {
             "season": "unknown",
@@ -2172,6 +2233,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/pao-fu-xiaojie-de-jin-yugang",
             "https://myanimelist.net/anime/44532"
         ],
         "title": "Pao Fu Xiaojie De Jin Yugang",
@@ -2181,11 +2243,16 @@
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "Miss Puff's Goldfish Bowl",
             "泡芙小姐的金魚缸"
         ],
-        "relations": [],
+        "relations": [
+            "https://anime-planet.com/anime/pao-fu-xiaojie"
+        ],
         "tags": [
-            "adventure"
+            "adventure",
+            "chinese animation",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -2367,6 +2434,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/rexue-sanguo-sanguo-dingli",
             "https://myanimelist.net/anime/46857"
         ],
         "title": "Rexue Sanguo: Sanguo Dingli",
@@ -2382,9 +2450,11 @@
             "https://myanimelist.net/anime/46859"
         ],
         "tags": [
+            "chinese animation",
             "comedy",
             "historical",
-            "kids"
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -2473,6 +2543,8 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/rubi-yoyo-2",
+            "https://anime-planet.com/anime/rubi-yoyo-jiaoyu-xilie-kuaile-chengzhang",
+            "https://myanimelist.net/anime/44349",
             "https://myanimelist.net/anime/45661"
         ],
         "tags": [
@@ -2511,6 +2583,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/shaolin-hai-bao",
             "https://myanimelist.net/anime/44175"
         ],
         "title": "Shaolin Hai Bao",
@@ -2524,6 +2597,8 @@
         ],
         "relations": [],
         "tags": [
+            "chinese animation",
+            "family friendly",
             "kids",
             "martial arts"
         ],
@@ -2941,33 +3016,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/the-dibidogs"
-        ],
-        "title": "The Dibidogs",
-        "type": "tv",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/the-dibidogs-1.webp?t=1653840599",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-dibidogs-1-285x400.webp?t=1653840599",
-        "synonyms": [
-            "Dibi Gou"
-        ],
-        "relations": [],
-        "tags": [
-            "animal protagonists",
-            "anthropomorphic",
-            "cg animation",
-            "chinese animation",
-            "dogs",
-            "family friendly"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/the-lighthouse"
         ],
         "title": "The Lighthouse",
@@ -3128,19 +3176,18 @@
         "type": "tv",
         "episodes": 164,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1827/123084.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1827/123084t.jpg",
         "synonyms": [
             "兔宝宝和三件神奇宝贝"
         ],
         "relations": [],
         "tags": [
-            "adventure",
             "animal protagonists",
             "anthropomorphic",
             "chinese animation",
+            "comedy",
             "family friendly",
-            "fantasy",
             "kids",
             "non-human protagonists"
         ],
@@ -3322,31 +3369,6 @@
         "tags": [
             "chinese animation",
             "family friendly"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44384"
-        ],
-        "title": "Xingyuan Zhanji",
-        "type": "tv",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "星原戰記"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "mecha",
-            "military",
-            "sci-fi"
         ],
         "date": {
             "season": "unknown",

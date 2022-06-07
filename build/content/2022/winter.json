@@ -228,7 +228,7 @@
         ],
         "title": "Aharen-san wa Hakarenai Mini",
         "type": "ona",
-        "episodes": 15,
+        "episodes": 16,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1422/122213.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1422/122213t.jpg",
@@ -353,6 +353,55 @@
             "working life",
             "workplace"
         ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51997"
+        ],
+        "title": "Akachan Honbuchou 3rd Season",
+        "type": "tv",
+        "episodes": 10,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1035/124259.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1035/124259t.jpg",
+        "synonyms": [
+            "General Manager of Baby 3rd Season",
+            "赤ちゃん本部長(第3シリーズ)"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/51132"
+        ],
+        "tags": [
+            "comedy",
+            "seinen",
+            "workplace"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anisearch.com/anime/17433"
+        ],
+        "title": "Akachan Honbuchou 3rd Series",
+        "type": "tv",
+        "episodes": 8,
+        "status": "finished",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17433.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17433.webp",
+        "synonyms": [
+            "Akachan Honbuchō 3rd Series",
+            "General Manager of Baby 3rd Series",
+            "赤ちゃん本部長 (第3シリーズ)"
+        ],
+        "relations": [],
+        "tags": [],
         "date": {
             "season": "winter",
             "year": 2022
@@ -793,75 +842,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/146921",
-            "https://anime-planet.com/anime/arifureta-from-commonplace-to-worlds-strongest-2nd-season-ova",
-            "https://anisearch.com/anime/17119",
-            "https://kitsu.io/anime/46048",
-            "https://myanimelist.net/anime/51473",
-            "https://notify.moe/anime/yIY7_a8nR"
-        ],
-        "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season OVA",
-        "type": "ova",
-        "episodes": 1,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1723/122201.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1723/122201t.jpg",
-        "synonyms": [
-            "Arifureta : From Commonplace to World’s Strongest - Saison 2 OVA",
-            "Arifureta Shokugyou de Sekai Saikyou 2nd Season (2022)",
-            "Arifureta Shokugyou de Sekai Saikyou 2nd Season Special",
-            "Arifureta Shokugyou de Sekai Saikyou 2nd season OVA",
-            "Arifureta Shokugyō de Sekai Saikyō 2nd Season (2022)",
-            "Arifureta: From Commonplace to World's Strongest 2nd Season OVA",
-            "Arifureta: From Commonplace to World's Strongest Season 2 OVA",
-            "Arifureta: From Commonplace to World's Strongest Season OVA",
-            "Arifureta: From Commonplace to World’s Strongest - De um desvio ao mais forte do mundo",
-            "Arifureta: From Commonplace to World’s Strongest - From a Detour to the World’s Strongest",
-            "Arifureta: From Commonplace to World’s Strongest - Season 2, Episode 13",
-            "From Common Job Class to the Strongest in the World 2nd Season Special",
-            "ありふれた職業で世界最強 2nd season OVA",
-            "ありふれた職業で世界最強 2nd season （2022）",
-            "ありふれた職業で世界最強 OV",
-            "ありふれた職業で世界最強 OVA"
-        ],
-        "relations": [
-            "https://anilist.co/anime/112323",
-            "https://anime-planet.com/anime/arifureta-from-commonplace-to-worlds-strongest",
-            "https://anime-planet.com/anime/arifureta-from-commonplace-to-worlds-strongest-2nd-season",
-            "https://kitsu.io/anime/42611",
-            "https://myanimelist.net/anime/40507",
-            "https://notify.moe/anime/5b5EXzQWR"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "alternative world",
-            "based on a light novel",
-            "comedy",
-            "conspiracy",
-            "dark fantasy",
-            "fantasy",
-            "guns",
-            "harem",
-            "isekai",
-            "loli",
-            "magic",
-            "overpowered main characters",
-            "person in a strange world",
-            "psychological",
-            "romance",
-            "rpg",
-            "seinen",
-            "summoned into another world",
-            "vampire"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/51340"
         ],
         "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season Picture Drama",
@@ -948,6 +928,7 @@
             "psychological",
             "rpg",
             "seinen",
+            "slapstick",
             "summoned into another world",
             "vampire"
         ],
@@ -1748,6 +1729,7 @@
             "https://livechart.me/anime/10100",
             "https://livechart.me/anime/10236",
             "https://livechart.me/anime/10814",
+            "https://livechart.me/anime/11210",
             "https://livechart.me/anime/1895",
             "https://livechart.me/anime/2225",
             "https://livechart.me/anime/2292",
@@ -2130,6 +2112,7 @@
             "assassins",
             "based on a manga",
             "body horror",
+            "cars",
             "cgi",
             "comedy",
             "cosmic horror",
@@ -2698,7 +2681,7 @@
         ],
         "title": "Delicious Party♡Precure",
         "type": "tv",
-        "episodes": 12,
+        "episodes": 13,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1332/120430.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1332/120430t.jpg",
@@ -3045,6 +3028,7 @@
     {
         "sources": [
             "https://anilist.co/anime/145210",
+            "https://kitsu.io/anime/46149",
             "https://myanimelist.net/anime/51083"
         ],
         "title": "Douluo Dalu: Feng Qi Tang Men",
@@ -3063,6 +3047,8 @@
         "relations": [
             "https://anilist.co/anime/141802",
             "https://anilist.co/anime/149799",
+            "https://kitsu.io/anime/45661",
+            "https://kitsu.io/anime/46150",
             "https://myanimelist.net/anime/50364",
             "https://myanimelist.net/anime/51892"
         ],
@@ -3491,7 +3477,8 @@
             "https://anisearch.com/anime/16390",
             "https://kitsu.io/anime/44690",
             "https://livechart.me/anime/10637",
-            "https://myanimelist.net/anime/49163"
+            "https://myanimelist.net/anime/49163",
+            "https://notify.moe/anime/NOUirM57R"
         ],
         "title": "Exception",
         "type": "ona",
@@ -3864,6 +3851,7 @@
             "Fruits Basket Movie",
             "Fruits Basket: prelude",
             "Kyouko to Katsuya no Monogatari",
+            "Kyouko to Katsuya no Monogatari (今日子と勝也の物語)",
             "The Story of Kyoko and Katsuya",
             "fruba movie",
             "フルーツバスケット -prelude-",
@@ -4975,7 +4963,7 @@
         ],
         "title": "HololiveERROR",
         "type": "ona",
-        "episodes": 16,
+        "episodes": 17,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1224/121225.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1224/121225t.jpg",
@@ -5165,6 +5153,7 @@
     {
         "sources": [
             "https://anilist.co/anime/141874",
+            "https://anime-planet.com/anime/hua-kaizhang-meili",
             "https://anisearch.com/anime/17006",
             "https://myanimelist.net/anime/50572"
         ],
@@ -5181,9 +5170,12 @@
         ],
         "relations": [],
         "tags": [
+            "based on a manga",
+            "chinese animation",
             "comedy",
             "romance",
-            "sci-fi"
+            "sci-fi",
+            "short episodes"
         ],
         "date": {
             "season": "winter",
@@ -6074,7 +6066,8 @@
             "https://anisearch.com/anime/16555",
             "https://kitsu.io/anime/45022",
             "https://livechart.me/anime/10764",
-            "https://myanimelist.net/anime/49721"
+            "https://myanimelist.net/anime/49721",
+            "https://notify.moe/anime/ixOGZj47g"
         ],
         "title": "Karakai Jouzu no Takagi-san 3",
         "type": "tv",
@@ -6083,11 +6076,13 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1861/120361.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1861/120361t.jpg",
         "synonyms": [
+            "Karakai Jouzu no Takagi-san 3rd Season",
             "Karakai Jouzu no Takagi-san Third Season",
             "Karakai Jōzu no Takagi-san 3",
             "Nicht schon wieder, Takagi-san: Staffel 3",
             "Skilled Teaser Takagi-san 3rd Season",
             "Teasing Master Takagi-san 3",
+            "Teasing Master Takagi-san 3rd Season",
             "Teasing Master Takagi-san Season 3",
             "Teasing Master Takagi-san: Season 3",
             "แกล้งนัก รักนะรู้ยัง ภาค 3",
@@ -6114,7 +6109,9 @@
             "https://livechart.me/anime/3196",
             "https://livechart.me/anime/9187",
             "https://myanimelist.net/anime/38993",
-            "https://myanimelist.net/anime/49722"
+            "https://myanimelist.net/anime/49722",
+            "https://notify.moe/anime/OsYMovB7g",
+            "https://notify.moe/anime/XEdSKY_mR"
         ],
         "tags": [
             "aliens",
@@ -6141,38 +6138,6 @@
             "slice of life",
             "time skip",
             "verbal comedy"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://notify.moe/anime/ixOGZj47g"
-        ],
-        "title": "Karakai Jouzu no Takagi-san 3rd Season",
-        "type": "tv",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://media.notify.moe/images/anime/large/ixOGZj47g.webp",
-        "thumbnail": "https://media.notify.moe/images/anime/small/ixOGZj47g.webp",
-        "synonyms": [
-            "Karakai Jouzu no Takagi-san Third Season",
-            "Skilled Teaser Takagi-san 3rd Season",
-            "Teasing Master Takagi-san 3rd Season",
-            "からかい上手の高木さん3"
-        ],
-        "relations": [
-            "https://notify.moe/anime/OsYMovB7g",
-            "https://notify.moe/anime/XEdSKY_mR"
-        ],
-        "tags": [
-            "comedy",
-            "romance",
-            "school",
-            "shounen",
-            "slice of life"
         ],
         "date": {
             "season": "winter",
@@ -6397,6 +6362,7 @@
             "adventure",
             "based on a manga",
             "body horror",
+            "brothel",
             "cgi",
             "crossdressing",
             "dark fantasy",
@@ -6445,6 +6411,7 @@
             "https://anime-planet.com/anime/our-last-crusade-or-the-rise-of-a-new-world-2nd-season",
             "https://anisearch.com/anime/16636",
             "https://kitsu.io/anime/45272",
+            "https://livechart.me/anime/10824",
             "https://myanimelist.net/anime/49981",
             "https://notify.moe/anime/cOLi07v7g"
         ],
@@ -6457,6 +6424,7 @@
         "synonyms": [
             "Kimi to Boku no Saigo no Senjou, Arui wa Sekai ga Hajimaru Seisen 2",
             "Kimi to Boku no Saigo no Senjou, Arui wa Sekai ga Hajimaru Seisen 2nd Season",
+            "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen (Sequel)",
             "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season 2",
             "Kimi to Boku no Saigo no Senjō, Aruiwa Sekai ga Hajimaru Seisen (Zoku-hen)",
             "KimiSen 2",
@@ -6479,6 +6447,7 @@
             "https://anilist.co/anime/112667",
             "https://anime-planet.com/anime/our-last-crusade-or-the-rise-of-a-new-world",
             "https://kitsu.io/anime/42638",
+            "https://livechart.me/anime/9651",
             "https://myanimelist.net/anime/40595",
             "https://notify.moe/anime/bTOCCkwZg"
         ],
@@ -6606,14 +6575,15 @@
             "Kobayashi-san Chi no Maid Dragon S: Nippon no Omotenashi - Attend wa Dragon desu",
             "Kobayashi-san Chi no Maidragon S: Nippon no Omotenashi (Attend wa Dragon Desu)",
             "Kobayashi-san Chi no Maidragon S: Nippon no Omotenashi - Attend wa Dragon Desu",
+            "Miss Kobayashi's Dragon Maid S Episode 13",
             "Miss Kobayashi's Dragon Maid S Special",
             "Miss Kobayashi's Dragon Maid S: Japanese Hospitality (My Attendant Is a Dragon)",
-            "Miss Kobayashi's Dragon Maid S: Japanese Hospitality (My Attendant is a Dragon)",
             "Miss Kobayashi's Dragon Maid S: Japanese Hospitality (The Attendant Is a Dragon)",
             "Miss Kobayashi's Dragon Maid S: Japanese Hospitality - Attendance is a Dragon",
             "Miss Kobayashi’s Dragon Maid S : L’hospitalité à la japonaise - offerte par des dragons",
             "Miss Kobayashi’s Dragon Maid S Special",
             "Miss Kobayashi’s Dragon Maid S: Hospitalidad japonesa - La asistente es un dragón",
+            "Miss Kobayashi’s Dragon Maid S: Japanese Hospitality (The Attendant Is a Dragon)",
             "Miss Kobayashi’s Dragon Maid S: Japanese Hospitality - Attendance Is a Dragon",
             "Miss Kobayashi’s Dragon Maid S: Japanische Gastfreundschaft - Der Reiseführer ist ein Drache",
             "小林さんちのメイドラゴンS ニッポンのおもてなし（アテンドはドラゴンです）",
@@ -7297,7 +7267,7 @@
         ],
         "title": "Machikado Mazoku: 2-choume Mini",
         "type": "ona",
-        "episodes": 15,
+        "episodes": 16,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1862/122418.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1862/122418t.jpg",
@@ -7369,6 +7339,7 @@
             "https://anime-planet.com/anime/puella-magi-madoka-magica-the-movie-part-4-walpurgisnacht-rising",
             "https://anisearch.com/anime/16217",
             "https://kitsu.io/anime/44451",
+            "https://livechart.me/anime/1947",
             "https://myanimelist.net/anime/48820",
             "https://notify.moe/anime/pCETTd9MR"
         ],
@@ -7385,12 +7356,14 @@
             "Magical Girl Madoka Magica Movie 4: Rotation of Walpurgis",
             "Mahou Shoujo Madoka Magica Movie 4: Walpurgis no Kaiten",
             "Mahou Shoujo Madoka Magika Movie 4",
+            "Mahou Shoujo Madoka☆Magica Movie: Walpurgis no Kaiten",
             "Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten",
             "Puella Magi Madoka Magica Movie 4",
             "Puella Magi Madoka Magica the Movie - Walpurgisnacht: Rising",
             "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising",
             "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
             "Puella Magi Madoka Magica the Movie Part 4: Walpurgisnacht - Rising",
+            "劇場版 魔法少女まどか☆マギカ 〈ワルプルギスの廻天〉",
             "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
             "劇場版 魔法少女まどか☆マギカワルプルギスの廻天",
             "魔法少女まどか☆マギカ 〈ワルプルギスの廻天〉"
@@ -7403,6 +7376,14 @@
             "https://anime-planet.com/anime/puella-magi-madoka-magica-the-movie-part-2-eternal",
             "https://anime-planet.com/anime/puella-magi-madoka-magica-the-movie-part-3-rebellion",
             "https://kitsu.io/anime/6638",
+            "https://livechart.me/anime/10663",
+            "https://livechart.me/anime/3246",
+            "https://livechart.me/anime/3495",
+            "https://livechart.me/anime/4910",
+            "https://livechart.me/anime/74",
+            "https://livechart.me/anime/972",
+            "https://livechart.me/anime/973",
+            "https://livechart.me/anime/9862",
             "https://myanimelist.net/anime/11981",
             "https://notify.moe/anime/GBmHtKimR"
         ],
@@ -8074,51 +8055,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/17157",
-            "https://anilist.co/anime/144533",
-            "https://anime-planet.com/anime/bibliophile-princess",
-            "https://anisearch.com/anime/17050",
-            "https://kitsu.io/anime/45814",
-            "https://livechart.me/anime/11051",
-            "https://myanimelist.net/anime/50923",
-            "https://notify.moe/anime/HbOTEm-7R"
-        ],
-        "title": "Mushikaburi-hime",
-        "type": "tv",
-        "episodes": 12,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1129/120735.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1129/120735t.jpg",
-        "synonyms": [
-            "Bibliophile Princess",
-            "Mushikaburi Hime",
-            "Princess of the Bibliophile",
-            "Princess of the Bibliophile.",
-            "虫かぶり姫"
-        ],
-        "relations": [],
-        "tags": [
-            "based on a light novel",
-            "drama",
-            "female protagonist",
-            "foreign",
-            "heroine of strong character",
-            "heterosexual",
-            "historical",
-            "josei",
-            "nobility",
-            "ojou-sama",
-            "romance",
-            "royalty",
-            "shoujo"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/141534",
             "https://anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-eris-the-goblin-slayer",
             "https://anisearch.com/anime/16785",
@@ -8405,7 +8341,7 @@
         ],
         "title": "Ninjala (TV)",
         "type": "tv",
-        "episodes": 21,
+        "episodes": 22,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1552/119871.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1552/119871t.jpg",
@@ -8672,7 +8608,8 @@
             "https://anisearch.com/anime/17323",
             "https://kitsu.io/anime/46077",
             "https://livechart.me/anime/11190",
-            "https://myanimelist.net/anime/51678"
+            "https://myanimelist.net/anime/51678",
+            "https://notify.moe/anime/ZU8gr-w7g"
         ],
         "title": "Oniichan wa Oshimai!",
         "type": "tv",
@@ -9464,7 +9401,6 @@
             "https://anidb.net/anime/14690",
             "https://anilist.co/anime/107871",
             "https://anime-planet.com/anime/princess-connect-re-dive",
-            "https://anisearch.com/anime/14176",
             "https://kitsu.io/anime/42892",
             "https://livechart.me/anime/9236",
             "https://myanimelist.net/anime/39292",
@@ -9816,6 +9752,7 @@
             "リラックマと遊園地"
         ],
         "relations": [
+            "https://anidb.net/anime/13528",
             "https://anilist.co/anime/99230",
             "https://anime-planet.com/anime/rilakkuma-and-kaoru",
             "https://kitsu.io/anime/13698",
@@ -10313,6 +10250,26 @@
             "supernatural",
             "tragedy",
             "youkai"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/42846"
+        ],
+        "title": "Sakura Melody",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1157/115141.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1157/115141t.jpg",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "music"
         ],
         "date": {
             "season": "winter",
@@ -10935,6 +10892,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1263/119932.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1263/119932t.jpg",
         "synonyms": [
+            "Le Roi Cerf",
             "Shika no Ou",
             "Shika no Ou: Yuna to Yakusoku no Taboi",
             "The Deer King",
@@ -11045,7 +11003,8 @@
             "https://anisearch.com/anime/17270",
             "https://kitsu.io/anime/46033",
             "https://livechart.me/anime/11168",
-            "https://myanimelist.net/anime/51495"
+            "https://myanimelist.net/anime/51495",
+            "https://notify.moe/anime/6eCb_-U7R"
         ],
         "title": "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
         "type": "tv",
@@ -11059,6 +11018,7 @@
             "Shinka no Mi 2nd Season",
             "The Fruit of Evolution: Before I Knew It, My Life Had It Made",
             "The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2",
+            "The Fruit of Evolution: Before I Knew It, My Life Had It Made, Shinka no Mi 2nd Season",
             "True The Fruit of Evolution: Before I Knew It",
             "真・進化の実 〜知らないうちに勝ち組人生〜",
             "真・進化の実~知らないうちに勝ち組人生~",
@@ -11069,7 +11029,8 @@
             "https://anilist.co/anime/129068",
             "https://kitsu.io/anime/44024",
             "https://livechart.me/anime/10377",
-            "https://myanimelist.net/anime/46985"
+            "https://myanimelist.net/anime/46985",
+            "https://notify.moe/anime/i-Kf9VYGg"
         ],
         "tags": [
             "action",
@@ -11526,7 +11487,6 @@
             "ecchi",
             "educational",
             "fashion",
-            "feet",
             "female protagonist",
             "gyaru",
             "heroine of strong character",
@@ -11652,7 +11612,7 @@
         ],
         "title": "Stars*Collection!",
         "type": "ona",
-        "episodes": 18,
+        "episodes": 19,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1699/120749.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1699/120749t.jpg",
@@ -12035,6 +11995,7 @@
         "relations": [],
         "tags": [
             "age regression",
+            "alternate universe",
             "based on a visual novel",
             "coming of age",
             "drama",
@@ -12288,7 +12249,7 @@
         ],
         "title": "Teiko Penguin",
         "type": "tv",
-        "episodes": 22,
+        "episodes": 23,
         "status": "ongoing",
         "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143413-yA49X4tYfoQP.jpg",
         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143413-yA49X4tYfoQP.jpg",
@@ -12836,7 +12797,6 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/tokyo-24th-ward",
-            "https://anisearch.com/anime/16675",
             "https://kitsu.io/anime/45372",
             "https://myanimelist.net/anime/50204",
             "https://notify.moe/anime/JAZGrqdnR"
@@ -13789,7 +13749,7 @@
         "title": "Wo De Yi Jie Zhi Lu",
         "type": "ona",
         "episodes": 40,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1468/119592.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1468/119592t.jpg",
         "synonyms": [
@@ -14626,6 +14586,50 @@
             "fantasy",
             "martial arts",
             "old asia"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/134090",
+            "https://anime-planet.com/anime/you-yao-2nd-season",
+            "https://kitsu.io/anime/44594",
+            "https://myanimelist.net/anime/48964"
+        ],
+        "title": "You Yao 2nd Season",
+        "type": "ona",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1195/119379.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1195/119379t.jpg",
+        "synonyms": [
+            "Are You Ok",
+            "Are you OK 2",
+            "You Yao 2",
+            "有药 第2季",
+            "有药 第二季",
+            "有药2"
+        ],
+        "relations": [
+            "https://anilist.co/anime/115901",
+            "https://anime-planet.com/anime/you-yao",
+            "https://kitsu.io/anime/43277",
+            "https://myanimelist.net/anime/41916"
+        ],
+        "tags": [
+            "adventure",
+            "based on a web novel",
+            "boys' love",
+            "cg animation",
+            "chinese animation",
+            "comedy",
+            "full cgi",
+            "historical",
+            "swordplay",
+            "wuxia"
         ],
         "date": {
             "season": "winter",

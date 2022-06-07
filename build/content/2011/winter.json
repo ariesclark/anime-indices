@@ -97,6 +97,7 @@
             "super power",
             "swords & co",
             "tragedy",
+            "video game",
             "video games",
             "virtual reality",
             "virtual world"
@@ -169,6 +170,7 @@
             "alternative world",
             "comedy",
             "game",
+            "video game",
             "virtual reality"
         ],
         "date": {
@@ -281,14 +283,6 @@
             "https://anime-planet.com/anime/ah-my-goddess-tv",
             "https://anime-planet.com/anime/ah-my-goddess-tv-specials",
             "https://anime-planet.com/anime/oh-my-goddess-the-adventures-of-mini-goddess",
-            "https://anisearch.com/anime/1278",
-            "https://anisearch.com/anime/2085",
-            "https://anisearch.com/anime/2497",
-            "https://anisearch.com/anime/4487",
-            "https://anisearch.com/anime/590",
-            "https://anisearch.com/anime/9448",
-            "https://anisearch.com/anime/9476",
-            "https://anisearch.com/anime/9910",
             "https://kitsu.io/anime/2786",
             "https://kitsu.io/anime/7780",
             "https://livechart.me/anime/3892",
@@ -405,6 +399,7 @@
         "relations": [],
         "tags": [
             "drama",
+            "educational",
             "fantasy",
             "kids"
         ],
@@ -542,7 +537,6 @@
         "relations": [
             "https://anilist.co/anime/6721",
             "https://anime-planet.com/anime/dark-side-cat",
-            "https://anisearch.com/anime/6071",
             "https://myanimelist.net/anime/6721"
         ],
         "tags": [
@@ -690,10 +684,6 @@
             "https://anime-planet.com/anime/baka-and-test-summon-the-beasts-ova-sentakushi-ikou-nomi",
             "https://anime-planet.com/anime/baka-and-test-summon-the-beasts-specials",
             "https://anime-planet.com/anime/baka-to-test-to-shoukanjuu-spinout-sore-ga-bokura-no-nichijou",
-            "https://anisearch.com/anime/16274",
-            "https://anisearch.com/anime/5383",
-            "https://anisearch.com/anime/6299",
-            "https://anisearch.com/anime/7043",
             "https://kitsu.io/anime/11218",
             "https://kitsu.io/anime/4528",
             "https://kitsu.io/anime/5367",
@@ -953,10 +943,6 @@
             "https://anilist.co/anime/9120",
             "https://anime-planet.com/anime/beelzebub-jump-super-anime-tour-special",
             "https://anime-planet.com/anime/beelzebub-specials",
-            "https://anisearch.com/anime/6611",
-            "https://anisearch.com/anime/7221",
-            "https://anisearch.com/anime/8377",
-            "https://anisearch.com/anime/8539",
             "https://kitsu.io/anime/5608",
             "https://kitsu.io/anime/6199",
             "https://livechart.me/anime/5915",
@@ -1277,67 +1263,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/10092",
-            "https://anime-planet.com/anime/broken-blade-movie-6-fortress-of-lamentation",
-            "https://kitsu.io/anime/6031",
-            "https://livechart.me/anime/4053",
-            "https://myanimelist.net/anime/10092",
-            "https://notify.moe/anime/t_FntKmig"
-        ],
-        "title": "Break Blade 6: Doukoku no Toride",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/4/68089.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/4/68089t.jpg",
-        "synonyms": [
-            "Break Blade 6: Enclave of Lamentations",
-            "Break Blade Movie 6: Doukoku no Toride",
-            "Breaker Blade 6",
-            "Broken Blade",
-            "Broken Blade 6",
-            "Broken Blade Movie 6: Fortress of Lamentation",
-            "ブレイク ブレイド 第六章 慟哭ノ砦"
-        ],
-        "relations": [
-            "https://anilist.co/anime/20618",
-            "https://anilist.co/anime/9724",
-            "https://anime-planet.com/anime/broken-blade-movie-1-the-time-of-awakening",
-            "https://anime-planet.com/anime/broken-blade-movie-2-the-path-of-separation",
-            "https://anime-planet.com/anime/broken-blade-movie-3-scars-from-an-assassins-blade",
-            "https://anime-planet.com/anime/broken-blade-movie-4-the-land-of-calamity",
-            "https://anime-planet.com/anime/broken-blade-movie-5-the-gap-between-life-and-death",
-            "https://anime-planet.com/anime/broken-blade-picture-drama",
-            "https://anime-planet.com/anime/broken-blade-tv",
-            "https://anime-planet.com/anime/broken-blade-tv-virgins-war",
-            "https://kitsu.io/anime/5837",
-            "https://kitsu.io/anime/8281",
-            "https://myanimelist.net/anime/22433",
-            "https://myanimelist.net/anime/9724",
-            "https://notify.moe/anime/BUYTtKmiR",
-            "https://notify.moe/anime/FATGtKiiR"
-        ],
-        "tags": [
-            "action",
-            "fantasy",
-            "guns",
-            "magic",
-            "male protagonist",
-            "mecha",
-            "military",
-            "primarily adult cast",
-            "real robot",
-            "shounen",
-            "swordplay",
-            "war"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/9724",
             "https://anime-planet.com/anime/broken-blade-movie-5-the-gap-between-life-and-death",
             "https://kitsu.io/anime/5837",
@@ -1387,6 +1312,68 @@
             "fantasy",
             "guns",
             "lost civilization",
+            "magic",
+            "male protagonist",
+            "mecha",
+            "military",
+            "primarily adult cast",
+            "real robot",
+            "shounen",
+            "swordplay",
+            "war"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/10092",
+            "https://anime-planet.com/anime/broken-blade-movie-6-fortress-of-lamentation",
+            "https://kitsu.io/anime/6031",
+            "https://livechart.me/anime/4053",
+            "https://myanimelist.net/anime/10092",
+            "https://notify.moe/anime/t_FntKmig"
+        ],
+        "title": "Break Blade Movie 6: Doukoku no Toride",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/4/68089.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/4/68089t.jpg",
+        "synonyms": [
+            "Break Blade 6: Doukoku no Toride",
+            "Break Blade 6: Enclave of Lamentations",
+            "Breaker Blade 6",
+            "Broken Blade",
+            "Broken Blade 6",
+            "Broken Blade Movie 6: Fortress of Lamentation",
+            "ブレイク ブレイド 第六章 慟哭ノ砦"
+        ],
+        "relations": [
+            "https://anilist.co/anime/20618",
+            "https://anilist.co/anime/9724",
+            "https://anime-planet.com/anime/broken-blade-movie-1-the-time-of-awakening",
+            "https://anime-planet.com/anime/broken-blade-movie-2-the-path-of-separation",
+            "https://anime-planet.com/anime/broken-blade-movie-3-scars-from-an-assassins-blade",
+            "https://anime-planet.com/anime/broken-blade-movie-4-the-land-of-calamity",
+            "https://anime-planet.com/anime/broken-blade-movie-5-the-gap-between-life-and-death",
+            "https://anime-planet.com/anime/broken-blade-picture-drama",
+            "https://anime-planet.com/anime/broken-blade-tv",
+            "https://anime-planet.com/anime/broken-blade-tv-virgins-war",
+            "https://kitsu.io/anime/5837",
+            "https://kitsu.io/anime/8281",
+            "https://myanimelist.net/anime/22433",
+            "https://myanimelist.net/anime/9724",
+            "https://notify.moe/anime/BUYTtKmiR",
+            "https://notify.moe/anime/FATGtKiiR"
+        ],
+        "tags": [
+            "action",
+            "adult cast",
+            "fantasy",
+            "guns",
             "magic",
             "male protagonist",
             "mecha",
@@ -1523,11 +1510,13 @@
             "game",
             "ganbatte",
             "male protagonist",
+            "mythology",
             "present",
             "proxy battles",
             "school",
             "shounen",
             "sports",
+            "strategy game",
             "super power",
             "tournaments"
         ],
@@ -1898,6 +1887,28 @@
             "music",
             "unrequited love",
             "vocaloid"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
+            "https://kitsu.io/anime/46157"
+        ],
+        "title": "DROP",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://media.kitsu.io/anime/46157/poster_image/small-151c92c802d0041fe5455f9aa4decc49.jpeg",
+        "thumbnail": "https://media.kitsu.io/anime/46157/poster_image/tiny-a8b3de088220cc7420c243062397f403.jpeg",
+        "synonyms": [
+            "Drop"
+        ],
+        "relations": [],
+        "tags": [
+            "psychological"
         ],
         "date": {
             "season": "winter",
@@ -2286,7 +2297,6 @@
             "https://anidb.net/anime/7890",
             "https://anilist.co/anime/8536",
             "https://anime-planet.com/anime/fortune-arterial",
-            "https://anisearch.com/anime/6448",
             "https://kitsu.io/anime/5378",
             "https://myanimelist.net/anime/8536",
             "https://notify.moe/anime/1p-mpKiig"
@@ -2585,8 +2595,6 @@
             "学園3 華麗なる悦辱"
         ],
         "relations": [
-            "https://anisearch.com/anime/3392",
-            "https://anisearch.com/anime/4311",
             "https://myanimelist.net/anime/4816"
         ],
         "tags": [
@@ -2787,7 +2795,6 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/gosick-recap",
-            "https://anisearch.com/anime/15613",
             "https://kitsu.io/anime/6211",
             "https://myanimelist.net/anime/10504",
             "https://notify.moe/anime/XT74tFimR"
@@ -3824,6 +3831,7 @@
             "IS: 인피니트 스트라토스",
             "IS<インフィニット・ストラトス>",
             "IS〈インフィニット・ストラトス〉",
+            "IS〈无限斯特拉托斯〉",
             "Infinite Stratos",
             "Infinite Stratos IS",
             "Необъятные небеса",
@@ -3865,6 +3873,7 @@
             "earth",
             "ecchi",
             "female harem",
+            "future",
             "harem",
             "henshin",
             "heterosexual",
@@ -3889,6 +3898,7 @@
             "science fiction",
             "science-fiction",
             "seinen",
+            "stereotypes",
             "tsundere"
         ],
         "date": {
@@ -4099,11 +4109,6 @@
             "淫妖蟲 悦～怪楽変化退魔録～"
         ],
         "relations": [
-            "https://anisearch.com/anime/11440",
-            "https://anisearch.com/anime/12585",
-            "https://anisearch.com/anime/3868",
-            "https://anisearch.com/anime/4775",
-            "https://anisearch.com/anime/9703",
             "https://myanimelist.net/anime/31424",
             "https://myanimelist.net/anime/4057"
         ],
@@ -4235,7 +4240,6 @@
         ],
         "relations": [
             "https://anidb.net/anime/11240",
-            "https://anisearch.com/anime/10640",
             "https://kitsu.io/anime/10993",
             "https://myanimelist.net/anime/30763",
             "https://notify.moe/anime/hO3_tKmiR"
@@ -4289,13 +4293,6 @@
             "https://anime-planet.com/anime/k-on-movie",
             "https://anime-planet.com/anime/k-on-ura-on",
             "https://anime-planet.com/anime/k-on-ura-on-2",
-            "https://anisearch.com/anime/5184",
-            "https://anisearch.com/anime/5955",
-            "https://anisearch.com/anime/6907",
-            "https://anisearch.com/anime/7051",
-            "https://anisearch.com/anime/7052",
-            "https://anisearch.com/anime/7069",
-            "https://anisearch.com/anime/7070",
             "https://kitsu.io/anime/5124",
             "https://livechart.me/anime/1042",
             "https://livechart.me/anime/3301",
@@ -4323,6 +4320,7 @@
             "school life",
             "seinen",
             "slice of life",
+            "slice of life comedy",
             "tomboy"
         ],
         "date": {
@@ -4587,7 +4585,7 @@
             "https://myanimelist.net/anime/6954",
             "https://notify.moe/anime/ulVRpFmmR"
         ],
-        "title": "Kara no Kyoukai 8: Shuushou",
+        "title": "Kara no Kyoukai Movie 8: Shuushou",
         "type": "special",
         "episodes": 1,
         "status": "finished",
@@ -4597,6 +4595,7 @@
             "Boundary of Emptiness: Epilogue",
             "Gekijouban Kara no Kyoukai: Shuushou / Kara no Kyoukai",
             "Gekijōban Kara no Kyōkai: Shūshō / Kara no Kyōkai",
+            "Kara no Kyoukai 8: Shuushou",
             "Kara no Kyoukai: Epilogue",
             "Kara no Kyoukai: Final Chapter",
             "Kara no Kyoukai: Shuushou",
@@ -4862,39 +4861,6 @@
         "relations": [],
         "tags": [
             "music"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://notify.moe/anime/RigXpKmig"
-        ],
-        "title": "Kidou Senshi SD Gundam: SD Hyakka",
-        "type": "special",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://media.notify.moe/images/anime/large/RigXpKmig.webp",
-        "thumbnail": "https://media.notify.moe/images/anime/small/RigXpKmig.webp",
-        "synonyms": [
-            "Many Things SD Gundam",
-            "SD Encyclopedia",
-            "SD Hyakka",
-            "機動戦士SDガンダム SD百科"
-        ],
-        "relations": [
-            "https://notify.moe/anime/F-l6cKmiR",
-            "https://notify.moe/anime/Iw2P5FmmR",
-            "https://notify.moe/anime/Mp2PcKimg",
-            "https://notify.moe/anime/b1hPcFiig",
-            "https://notify.moe/anime/pYhE5KiiR"
-        ],
-        "tags": [
-            "comedy",
-            "mecha",
-            "parody"
         ],
         "date": {
             "season": "winter",
@@ -5522,14 +5488,7 @@
             "Black Butler II: Making of Black Butler II",
             "黒執事II Making of Kuroshitsuji II"
         ],
-        "relations": [
-            "https://anisearch.com/anime/4979",
-            "https://anisearch.com/anime/5697",
-            "https://anisearch.com/anime/6831",
-            "https://anisearch.com/anime/6991",
-            "https://anisearch.com/anime/6994",
-            "https://anisearch.com/anime/9670"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "anime & movie",
@@ -5649,8 +5608,6 @@
             "https://anilist.co/anime/6205",
             "https://anime-planet.com/anime/kampfer",
             "https://anime-planet.com/anime/kampfer-picture-drama",
-            "https://anisearch.com/anime/5307",
-            "https://anisearch.com/anime/8438",
             "https://kitsu.io/anime/4474",
             "https://livechart.me/anime/3361",
             "https://livechart.me/anime/3362",
@@ -5900,6 +5857,7 @@
             "based on a manga",
             "comedy",
             "episodic",
+            "gag humor",
             "manga",
             "meta",
             "non-human protagonists",
@@ -5995,7 +5953,8 @@
             "family friendly",
             "kids",
             "korean animation",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "winter",
@@ -6076,7 +6035,6 @@
         "sources": [
             "https://anidb.net/anime/7959",
             "https://anilist.co/anime/7222",
-            "https://anime-planet.com/anime/macross-frontier-movie-2-sayonara-no-tsubasa",
             "https://anime-planet.com/anime/macross-frontier-movie-2-the-wings-of-farewell",
             "https://anisearch.com/anime/6513",
             "https://kitsu.io/anime/4903",
@@ -6096,7 +6054,6 @@
             "Macross F the Movie 2",
             "Macross Frontier Movie 2: Sayonara no Tsubasa",
             "Macross Frontier Movie 2: The Wings of Farewell",
-            "Macross Frontier Movie 2: The Wings of Goodbye",
             "Macross Frontier the Movie 2",
             "Macross Frontier: Sayonara no Tsubasa",
             "Macross Frontier: The Wings of Farewell",
@@ -6460,7 +6417,6 @@
         "sources": [
             "https://anidb.net/anime/14828",
             "https://anime-planet.com/anime/malasong-wangzi",
-            "https://myanimelist.net/anime/44453",
             "https://myanimelist.net/anime/46324"
         ],
         "title": "Malasong Wangzi",
@@ -6490,7 +6446,9 @@
     {
         "sources": [
             "https://kitsu.io/anime/11008",
-            "https://myanimelist.net/anime/30840"
+            "https://livechart.me/anime/6660",
+            "https://myanimelist.net/anime/30840",
+            "https://notify.moe/anime/RigXpKmig"
         ],
         "title": "Many Things SD Gundam",
         "type": "special",
@@ -6499,9 +6457,11 @@
         "picture": "https://cdn.myanimelist.net/images/anime/10/74217.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/10/74217t.jpg",
         "synonyms": [
+            "Kidou Senshi SD Gundam: SD Hyakka",
             "SD Encyclopedia",
             "SD Hyakka",
-            "SD百科"
+            "SD百科",
+            "機動戦士SDガンダム SD百科"
         ],
         "relations": [
             "https://kitsu.io/anime/2084",
@@ -6509,11 +6469,31 @@
             "https://kitsu.io/anime/2086",
             "https://kitsu.io/anime/2087",
             "https://kitsu.io/anime/4716",
+            "https://livechart.me/anime/10218",
+            "https://livechart.me/anime/10793",
+            "https://livechart.me/anime/11041",
+            "https://livechart.me/anime/11042",
+            "https://livechart.me/anime/6906",
+            "https://livechart.me/anime/6987",
+            "https://livechart.me/anime/7007",
+            "https://livechart.me/anime/7316",
+            "https://livechart.me/anime/7423",
+            "https://livechart.me/anime/7514",
+            "https://livechart.me/anime/7582",
+            "https://livechart.me/anime/7662",
+            "https://livechart.me/anime/7717",
+            "https://livechart.me/anime/7848",
+            "https://livechart.me/anime/8362",
             "https://myanimelist.net/anime/2302",
             "https://myanimelist.net/anime/2303",
             "https://myanimelist.net/anime/2304",
             "https://myanimelist.net/anime/2305",
-            "https://myanimelist.net/anime/6792"
+            "https://myanimelist.net/anime/6792",
+            "https://notify.moe/anime/F-l6cKmiR",
+            "https://notify.moe/anime/Iw2P5FmmR",
+            "https://notify.moe/anime/Mp2PcKimg",
+            "https://notify.moe/anime/b1hPcFiig",
+            "https://notify.moe/anime/pYhE5KiiR"
         ],
         "tags": [
             "comedy",
@@ -6597,6 +6577,7 @@
             "ecchi",
             "elementary school",
             "episodic",
+            "gag humor",
             "japan",
             "kuudere",
             "manga",
@@ -6963,8 +6944,8 @@
         "type": "ova",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/5/27379.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/5/27379t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1165/117691.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1165/117691t.jpg",
         "synonyms": [
             "Nana and Kaoru",
             "ナナとカオル",
@@ -7036,27 +7017,6 @@
             "https://anime-planet.com/anime/naruto-shippuden-movie-6-road-to-ninja",
             "https://anime-planet.com/anime/naruto-shippuden-sunny-side-battle",
             "https://anime-planet.com/anime/the-last-naruto-the-movie",
-            "https://anisearch.com/anime/10223",
-            "https://anisearch.com/anime/12103",
-            "https://anisearch.com/anime/12678",
-            "https://anisearch.com/anime/2788",
-            "https://anisearch.com/anime/2988",
-            "https://anisearch.com/anime/3574",
-            "https://anisearch.com/anime/3647",
-            "https://anisearch.com/anime/3972",
-            "https://anisearch.com/anime/4096",
-            "https://anisearch.com/anime/4097",
-            "https://anisearch.com/anime/4098",
-            "https://anisearch.com/anime/4272",
-            "https://anisearch.com/anime/4816",
-            "https://anisearch.com/anime/5279",
-            "https://anisearch.com/anime/5853",
-            "https://anisearch.com/anime/604",
-            "https://anisearch.com/anime/6206",
-            "https://anisearch.com/anime/7002",
-            "https://anisearch.com/anime/7479",
-            "https://anisearch.com/anime/7646",
-            "https://anisearch.com/anime/9794",
             "https://kitsu.io/anime/1555",
             "https://livechart.me/anime/316",
             "https://livechart.me/anime/3585",
@@ -7214,6 +7174,7 @@
             "earth",
             "ensemble cast",
             "gag",
+            "gag humor",
             "japan",
             "manga",
             "moe",
@@ -7674,6 +7635,7 @@
         "synonyms": [
             "Because I Don't Like My Big Brother At All!!",
             "Because I Don't Like My Big Brother at All!",
+            "Because I Don't Like My Big Brother at All!!",
             "Because I Don`t Like My Big Brother at All!",
             "I Don`t Like My Big Brother At All!",
             "I Don’t Like My Big Brother at All!!",
@@ -8838,23 +8800,6 @@
             "https://anime-planet.com/anime/saint-seiya-the-hades-chapter-inferno",
             "https://anime-planet.com/anime/saint-seiya-the-hades-chapter-sanctuary",
             "https://anime-planet.com/anime/saint-seiya-the-lost-canvas-meiou-shinwa",
-            "https://anisearch.com/anime/10149",
-            "https://anisearch.com/anime/10186",
-            "https://anisearch.com/anime/10239",
-            "https://anisearch.com/anime/12143",
-            "https://anisearch.com/anime/12698",
-            "https://anisearch.com/anime/1454",
-            "https://anisearch.com/anime/1487",
-            "https://anisearch.com/anime/1923",
-            "https://anisearch.com/anime/2041",
-            "https://anisearch.com/anime/2108",
-            "https://anisearch.com/anime/2657",
-            "https://anisearch.com/anime/3026",
-            "https://anisearch.com/anime/318",
-            "https://anisearch.com/anime/4632",
-            "https://anisearch.com/anime/5190",
-            "https://anisearch.com/anime/6906",
-            "https://anisearch.com/anime/7598",
             "https://kitsu.io/anime/1129",
             "https://kitsu.io/anime/4458",
             "https://livechart.me/anime/5236",
@@ -8953,8 +8898,6 @@
             "埼玉県在住、フジヤマオサム、33歳、無職(ニート)。～フジログ入門編～"
         ],
         "relations": [
-            "https://anisearch.com/anime/12368",
-            "https://anisearch.com/anime/6721",
             "https://kitsu.io/anime/12632",
             "https://myanimelist.net/anime/33856",
             "https://notify.moe/anime/zg5mhKimR"
@@ -9125,6 +9068,7 @@
             "https://myanimelist.net/anime/35162"
         ],
         "tags": [
+            "educational",
             "kids"
         ],
         "date": {
@@ -9356,11 +9300,6 @@
             "https://anime-planet.com/anime/shin-koihime-musou-otome-tairan-ova-omake",
             "https://anime-planet.com/anime/shin-koihime-musou-ova-omake",
             "https://anime-planet.com/anime/shin-koihime-musou-rival-warlords-vacation-on-a-tropical-island-there-will-also-be-tentacles",
-            "https://anisearch.com/anime/4826",
-            "https://anisearch.com/anime/5181",
-            "https://anisearch.com/anime/5275",
-            "https://anisearch.com/anime/5959",
-            "https://anisearch.com/anime/6124",
             "https://kitsu.io/anime/5181",
             "https://kitsu.io/anime/7197",
             "https://livechart.me/anime/4525",
@@ -10047,7 +9986,6 @@
             "https://anime-planet.com/anime/tropical-rouge-pretty-cure",
             "https://anime-planet.com/anime/yes-pretty-cure-5",
             "https://anime-planet.com/anime/yes-pretty-cure-5-gogo",
-            "https://anisearch.com/anime/7163",
             "https://kitsu.io/anime/10034",
             "https://kitsu.io/anime/11688",
             "https://kitsu.io/anime/12927",
@@ -10392,7 +10330,6 @@
             "Anime Mirai 2010",
             "Anime Mirai Project 2011",
             "Des Esprits pas Commodes",
-            "Drawer Hobbs",
             "Drawer Hobs",
             "PROJECT A",
             "Project A",
@@ -10740,7 +10677,6 @@
             "https://anime-planet.com/anime/a-certain-magical-index-movie-the-miracle-of-endymion-special",
             "https://anime-planet.com/anime/a-certain-magical-index-tan",
             "https://anime-planet.com/anime/a-certain-magical-index-tan-iii",
-            "https://anisearch.com/anime/8568",
             "https://kitsu.io/anime/43131",
             "https://kitsu.io/anime/4360",
             "https://kitsu.io/anime/5541",
@@ -11495,31 +11431,9 @@
     },
     {
         "sources": [
-            "https://notify.moe/anime/ippytFmig"
-        ],
-        "title": "Yamete! Writer Asobi: Doubutsu Mura no Shoubou-tai Shutsu Dou",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.notify.moe/images/anime/large/ippytFmig.webp",
-        "thumbnail": "https://media.notify.moe/images/anime/small/ippytFmig.webp",
-        "synonyms": [
-            "やめて！ライターあそび どうぶつ村の消ぼう隊 出どう"
-        ],
-        "relations": [],
-        "tags": [
-            "drama",
-            "kids"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
             "https://kitsu.io/anime/10139",
-            "https://myanimelist.net/anime/28557"
+            "https://myanimelist.net/anime/28557",
+            "https://notify.moe/anime/ippytFmig"
         ],
         "title": "Yamete! Writer Asobi: Doubutsu Mura no Shouboutai Shutsu Dou",
         "type": "ova",
@@ -11528,6 +11442,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/2/68937.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/2/68937t.jpg",
         "synonyms": [
+            "Yamete! Writer Asobi: Doubutsu Mura no Shoubou-tai Shutsu Dou",
             "やめて！ライターあそび どうぶつ村の消ぼう隊 出どう"
         ],
         "relations": [],
@@ -11677,7 +11592,6 @@
         ],
         "relations": [
             "https://anidb.net/anime/11241",
-            "https://anisearch.com/anime/10641",
             "https://kitsu.io/anime/10994",
             "https://myanimelist.net/anime/30764",
             "https://notify.moe/anime/02qlpFmmR"
@@ -11846,13 +11760,7 @@
             "xxxHOLiC Rō Adayume",
             "xxxHOLiC・籠 あだゆめ"
         ],
-        "relations": [
-            "https://anisearch.com/anime/1944",
-            "https://anisearch.com/anime/38",
-            "https://anisearch.com/anime/4440",
-            "https://anisearch.com/anime/5122",
-            "https://anisearch.com/anime/5573"
-        ],
+        "relations": [],
         "tags": [
             "drama",
             "ghost stories",

@@ -620,31 +620,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/49611"
-        ],
-        "title": "Meitantei Conan: Necchuushou no Nazo o Toke!",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1761/117190.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1761/117190t.jpg",
-        "synonyms": [
-            "Detective Conan: Solve the Mystery of Heatstroke!",
-            "名探偵コナン 熱中症の謎を解け！"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/235"
-        ],
-        "tags": [
-            "mystery"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2003
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/mizu-no-enkan-2nd-ver"
         ],
         "title": "Mizu no Enkan (2nd ver)",
@@ -968,21 +943,25 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/shuai-gou-hei-pi",
             "https://myanimelist.net/anime/43892"
         ],
         "title": "Shuai Gou Hei Pi",
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1341/122541.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1341/122541t.jpg",
         "synonyms": [
-            "帥狗黑皮"
+            "帅狗黑皮"
         ],
         "relations": [],
         "tags": [
             "adventure",
-            "kids"
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "sci-fi"
         ],
         "date": {
             "season": "unknown",
@@ -1033,22 +1012,27 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tiancai-faming-jia",
             "https://myanimelist.net/anime/43889"
         ],
         "title": "Tiancai Faming Jia",
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1485/122539.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1485/122539t.jpg",
         "synonyms": [
-            "Genius inventor",
+            "Genius Inventor",
             "天才发明家"
         ],
         "relations": [],
         "tags": [
+            "adventure",
+            "chinese animation",
+            "comedy",
+            "family friendly",
             "kids",
-            "sci-fi"
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -1102,6 +1086,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tu-hongse-de-luotuo",
             "https://myanimelist.net/anime/43872"
         ],
         "title": "Tu Hongse De Luotuo",
@@ -1117,7 +1102,9 @@
         "tags": [
             "adventure",
             "anthropomorphic",
-            "kids"
+            "chinese animation",
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",

@@ -1206,9 +1206,7 @@
             "下級生 （1999） ～はじめまして ティナ！～",
             "下級生はじめまして ティナ!"
         ],
-        "relations": [
-            "https://anisearch.com/anime/230"
-        ],
+        "relations": [],
         "tags": [
             "aliens",
             "comedy",
@@ -1328,7 +1326,8 @@
             "stoic hero",
             "supernatural",
             "swordplay",
-            "swords & co"
+            "swords & co",
+            "violence"
         ],
         "date": {
             "season": "winter",
@@ -1463,8 +1462,6 @@
             "https://anidb.net/anime/10734",
             "https://anidb.net/anime/11389",
             "https://anilist.co/anime/109364",
-            "https://anisearch.com/anime/10843",
-            "https://anisearch.com/anime/9828",
             "https://kitsu.io/anime/10408",
             "https://kitsu.io/anime/13218",
             "https://kitsu.io/anime/4900",
@@ -1502,8 +1499,6 @@
             "脅迫～終わらない明日～"
         ],
         "relations": [
-            "https://anisearch.com/anime/2276",
-            "https://anisearch.com/anime/4076",
             "https://myanimelist.net/anime/10409",
             "https://myanimelist.net/anime/2328"
         ],
@@ -1578,6 +1573,7 @@
             "alternative world",
             "cyberpunk",
             "defloration",
+            "detective",
             "drama",
             "excessive violence",
             "guns",
@@ -1587,7 +1583,6 @@
             "horror",
             "mystery",
             "oral",
-            "police",
             "policeman",
             "robots & androids",
             "romance",
@@ -1633,7 +1628,6 @@
             "https://anidb.net/anime/263",
             "https://anilist.co/anime/887",
             "https://anime-planet.com/anime/candidate-for-goddess-ova",
-            "https://anisearch.com/anime/2830",
             "https://kitsu.io/anime/787",
             "https://myanimelist.net/anime/887",
             "https://notify.moe/anime/JdqAcKimg"
@@ -1939,12 +1933,10 @@
             "Natural Another",
             "Teacher's Pet",
             "Teacher's Pet (2)",
-            "Teacher's Pet (Body and Soul)",
+            "Teacher’s Pet (Body and Soul)",
             "ナチュラル Another"
         ],
         "relations": [
-            "https://anisearch.com/anime/1639",
-            "https://anisearch.com/anime/189",
             "https://myanimelist.net/anime/3056",
             "https://myanimelist.net/anime/4729"
         ],
@@ -2111,7 +2103,6 @@
             "https://anilist.co/anime/1743",
             "https://anilist.co/anime/18815",
             "https://anime-planet.com/anime/super-milk-chan",
-            "https://anisearch.com/anime/1131",
             "https://kitsu.io/anime/1563",
             "https://kitsu.io/anime/9123",
             "https://myanimelist.net/anime/1743",
@@ -2359,7 +2350,7 @@
             "https://myanimelist.net/anime/459",
             "https://notify.moe/anime/bu4TcFmiR"
         ],
-        "title": "One Piece Movie 1",
+        "title": "One Piece Movie 01",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
@@ -2374,6 +2365,7 @@
             "One Piece (2000)",
             "One Piece : Le film",
             "One Piece Movie",
+            "One Piece Movie 1",
             "One Piece Movie: The Great Gold Pirate",
             "One Piece: 1. Film - Der Film",
             "One Piece: Der Film",
@@ -2981,33 +2973,10 @@
     },
     {
         "sources": [
-            "https://notify.moe/anime/164YpFmmg"
-        ],
-        "title": "Sore Ike! Anpanman: Kieta Jam Oji-san",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.notify.moe/images/anime/large/164YpFmmg.webp",
-        "thumbnail": "https://media.notify.moe/images/anime/small/164YpFmmg.webp",
-        "synonyms": [
-            "それいけ! アンパンマン 消えたジャムおじさん"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "kids"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2000
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/sore-ike-anpanman-kieta-jam-ojisan",
             "https://kitsu.io/anime/9618",
-            "https://myanimelist.net/anime/27497"
+            "https://myanimelist.net/anime/27497",
+            "https://notify.moe/anime/164YpFmmg"
         ],
         "title": "Sore Ike! Anpanman: Kieta Jam Ojisan",
         "type": "special",
@@ -3016,6 +2985,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/4/66667.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/4/66667t.jpg",
         "synonyms": [
+            "Sore Ike! Anpanman: Kieta Jam Oji-san",
             "それいけ! アンパンマン 消えたジャムおじさん"
         ],
         "relations": [
@@ -3586,6 +3556,7 @@
             "adventure",
             "alien",
             "aliens",
+            "alternative present",
             "android",
             "combining mecha",
             "cyborg",
@@ -3596,8 +3567,8 @@
             "kuudere",
             "mecha",
             "original work",
-            "other planet",
             "piloted robot",
+            "present",
             "robot helper",
             "sci fi",
             "sci-fi",

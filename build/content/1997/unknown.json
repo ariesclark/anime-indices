@@ -113,20 +113,20 @@
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1952/122470.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1952/122470t.jpg",
         "synonyms": [
-            "蝶双飞",
-            "蝶雙飛"
+            "蝶双飞"
         ],
         "relations": [],
         "tags": [
-            "adventure",
             "animal protagonists",
             "chinese animation",
             "insects",
+            "kids",
             "non-human protagonists",
-            "shorts"
+            "shorts",
+            "slice of life"
         ],
         "date": {
             "season": "unknown",
@@ -188,6 +188,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/huan-you-diqiu-bashi-tian",
             "https://myanimelist.net/anime/43840"
         ],
         "title": "Huan You Diqiu Bashi Tian",
@@ -202,7 +203,10 @@
         "relations": [],
         "tags": [
             "adventure",
-            "kids"
+            "based on a novel",
+            "chinese animation",
+            "kids",
+            "stop motion animation"
         ],
         "date": {
             "season": "unknown",
@@ -271,24 +275,7 @@
             "Mahō Shōjo Pretty Sammy Omake Gekijō",
             "魔法少女プリティサミー おまけ劇場"
         ],
-        "relations": [
-            "https://anisearch.com/anime/1156",
-            "https://anisearch.com/anime/11750",
-            "https://anisearch.com/anime/14681",
-            "https://anisearch.com/anime/1700",
-            "https://anisearch.com/anime/1994",
-            "https://anisearch.com/anime/2340",
-            "https://anisearch.com/anime/263",
-            "https://anisearch.com/anime/2715",
-            "https://anisearch.com/anime/2720",
-            "https://anisearch.com/anime/2754",
-            "https://anisearch.com/anime/2842",
-            "https://anisearch.com/anime/2970",
-            "https://anisearch.com/anime/3117",
-            "https://anisearch.com/anime/3742",
-            "https://anisearch.com/anime/782",
-            "https://anisearch.com/anime/990"
-        ],
+        "relations": [],
         "tags": [
             "comedy",
             "magical girl",
@@ -302,6 +289,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/matouqin-de-gushi",
             "https://myanimelist.net/anime/43841"
         ],
         "title": "Matouqin De Gushi",
@@ -315,8 +303,10 @@
         ],
         "relations": [],
         "tags": [
+            "chinese animation",
             "fantasy",
-            "kids"
+            "kids",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -401,6 +391,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/renshen-wangguo",
             "https://myanimelist.net/anime/43843"
         ],
         "title": "Renshen Wangguo",
@@ -415,8 +406,11 @@
         ],
         "relations": [],
         "tags": [
+            "chinese animation",
+            "family friendly",
             "fantasy",
-            "kids"
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -438,6 +432,59 @@
         "tags": [
             "educational",
             "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1997
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/shen-di",
+            "https://myanimelist.net/anime/43844"
+        ],
+        "title": "Shen Di",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1571/122477.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1571/122477t.jpg",
+        "synonyms": [
+            "神笛"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "fantasy",
+            "kids",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1997
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/shen-nao-cong-zi",
+            "https://myanimelist.net/anime/43954"
+        ],
+        "title": "Shen Nao Cong Zi",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "神脑聪仔"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -499,6 +546,32 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/yao-shu-yu-songshu",
+            "https://myanimelist.net/anime/43845"
+        ],
+        "title": "Yao Shu Yu Songshu",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1879/122478.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1879/122478t.jpg",
+        "synonyms": [
+            "妖树与松鼠"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "fantasy",
+            "kids",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1997
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/9739",
             "https://myanimelist.net/anime/7343"
         ],
@@ -530,6 +603,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/zhonghua-chuanshuo-meide-gushi",
             "https://myanimelist.net/anime/43952"
         ],
         "title": "Zhonghua Chuanshuo Meide Gushi",
@@ -543,7 +617,10 @@
         ],
         "relations": [],
         "tags": [
-            "kids"
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",

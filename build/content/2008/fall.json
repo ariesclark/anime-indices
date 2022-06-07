@@ -311,6 +311,7 @@
             "shounen",
             "slice of life",
             "sports",
+            "strategy game",
             "super robots"
         ],
         "date": {
@@ -549,6 +550,7 @@
             "comedy",
             "contemporary fantasy",
             "drama",
+            "fantasy",
             "fighting-shounen",
             "friendship",
             "ghosts",
@@ -654,8 +656,6 @@
             "https://anilist.co/anime/4810",
             "https://anime-planet.com/anime/casshan",
             "https://anime-planet.com/anime/casshan-robot-hunter",
-            "https://anisearch.com/anime/2617",
-            "https://anisearch.com/anime/902",
             "https://kitsu.io/anime/1438",
             "https://kitsu.io/anime/3799",
             "https://myanimelist.net/anime/1598",
@@ -1050,6 +1050,7 @@
             "female harem",
             "game",
             "harem",
+            "heterosexual",
             "japan",
             "magic",
             "present",
@@ -1058,6 +1059,33 @@
             "seinen",
             "sentimental drama",
             "visual novel"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2008
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/see-through",
+            "https://myanimelist.net/anime/44517"
+        ],
+        "title": "Da, Da Ge Da Xigua",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1557/122933.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1557/122933t.jpg",
+        "synonyms": [
+            "See Through",
+            "打，打个大西瓜"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "chinese animation",
+            "military",
+            "shorts"
         ],
         "date": {
             "season": "fall",
@@ -1139,7 +1167,6 @@
             "https://anime-planet.com/anime/tamagotchi-movie-3-himitsu-no-otodake-daisakusen",
             "https://anime-planet.com/anime/tamagotchi-tamatomo-daishuu-go",
             "https://anime-planet.com/anime/tamagotchi-yume-kira-dream",
-            "https://anisearch.com/anime/4708",
             "https://livechart.me/anime/1427",
             "https://livechart.me/anime/213",
             "https://livechart.me/anime/2398",
@@ -1324,20 +1351,6 @@
             "https://anime-planet.com/anime/gegege-no-kitarou-youkai-japan-rally-3d",
             "https://anime-planet.com/anime/gegege-no-kitarou-youkai-tokkyuu-maboroshi-no-kisha",
             "https://anime-planet.com/anime/hakaba-kitarou",
-            "https://anisearch.com/anime/10667",
-            "https://anisearch.com/anime/1673",
-            "https://anisearch.com/anime/1752",
-            "https://anisearch.com/anime/2683",
-            "https://anisearch.com/anime/2724",
-            "https://anisearch.com/anime/3014",
-            "https://anisearch.com/anime/3022",
-            "https://anisearch.com/anime/3099",
-            "https://anisearch.com/anime/3184",
-            "https://anisearch.com/anime/4138",
-            "https://anisearch.com/anime/49",
-            "https://anisearch.com/anime/5598",
-            "https://anisearch.com/anime/5652",
-            "https://anisearch.com/anime/5659",
             "https://kitsu.io/anime/1960",
             "https://myanimelist.net/anime/2165",
             "https://notify.moe/anime/3G6YcFimR"
@@ -1611,8 +1624,6 @@
             "https://anilist.co/anime/3231",
             "https://anime-planet.com/anime/gunslinger-girl",
             "https://anime-planet.com/anime/gunslinger-girl-il-teatrino",
-            "https://anisearch.com/anime/1835",
-            "https://anisearch.com/anime/4460",
             "https://kitsu.io/anime/2874",
             "https://livechart.me/anime/3780",
             "https://livechart.me/anime/4865",
@@ -2372,14 +2383,6 @@
             "https://anime-planet.com/anime/inazuma-eleven-reloaded-soccer-no-henkaku",
             "https://anime-planet.com/anime/inazuma-eleven-saikyou-gundan-ogre-shuurai",
             "https://anime-planet.com/anime/inazuma-eleven-x-despicable-me",
-            "https://anisearch.com/anime/11977",
-            "https://anisearch.com/anime/13857",
-            "https://anisearch.com/anime/13948",
-            "https://anisearch.com/anime/4373",
-            "https://anisearch.com/anime/6356",
-            "https://anisearch.com/anime/7041",
-            "https://anisearch.com/anime/7194",
-            "https://anisearch.com/anime/7679",
             "https://kitsu.io/anime/12496",
             "https://kitsu.io/anime/41364",
             "https://kitsu.io/anime/5580",
@@ -2698,9 +2701,6 @@
             "https://anime-planet.com/anime/junjou-romantica-ova",
             "https://anime-planet.com/anime/junjou-romantica-ova-2",
             "https://anime-planet.com/anime/junjou-romantica-special",
-            "https://anisearch.com/anime/10400",
-            "https://anisearch.com/anime/4555",
-            "https://anisearch.com/anime/7869",
             "https://kitsu.io/anime/2788",
             "https://kitsu.io/anime/8728",
             "https://livechart.me/anime/1703",
@@ -3258,7 +3258,6 @@
             "https://anidb.net/anime/7215",
             "https://anilist.co/anime/7593",
             "https://anime-planet.com/anime/kiss-x-sis-tv",
-            "https://anisearch.com/anime/5917",
             "https://kitsu.io/anime/5045",
             "https://livechart.me/anime/3614",
             "https://myanimelist.net/anime/7593",
@@ -3482,6 +3481,7 @@
             "school",
             "sci fi",
             "sci-fi",
+            "science fiction",
             "science-fiction",
             "shounen",
             "slapstick",
@@ -3792,6 +3792,7 @@
         "tags": [
             "asia",
             "based on a manga",
+            "child protagonists",
             "comedy",
             "earth",
             "ecchi",
@@ -4120,7 +4121,8 @@
             "manga",
             "present",
             "shounen",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "fall",
@@ -4961,12 +4963,6 @@
             "https://anime-planet.com/anime/nodame-cantabile-ova-2",
             "https://anime-planet.com/anime/nodame-cantabile-special-lesson",
             "https://anime-planet.com/anime/puri-gorota-uchuu-no-yuujou-daiboukan",
-            "https://anisearch.com/anime/3783",
-            "https://anisearch.com/anime/5347",
-            "https://anisearch.com/anime/5471",
-            "https://anisearch.com/anime/6840",
-            "https://anisearch.com/anime/6844",
-            "https://anisearch.com/anime/6856",
             "https://kitsu.io/anime/1525",
             "https://kitsu.io/anime/4226",
             "https://kitsu.io/anime/4465",
@@ -4981,6 +4977,7 @@
             "https://notify.moe/anime/bwnB5Kiig"
         ],
         "tags": [
+            "adult cast",
             "adult couples",
             "band",
             "based on a manga",
@@ -5041,7 +5038,6 @@
             "https://anidb.net/anime/5624",
             "https://anilist.co/anime/3514",
             "https://anime-planet.com/anime/noramimi",
-            "https://anisearch.com/anime/4591",
             "https://kitsu.io/anime/3065",
             "https://livechart.me/anime/10075",
             "https://myanimelist.net/anime/3514",
@@ -5049,6 +5045,7 @@
         ],
         "tags": [
             "based on a manga",
+            "childcare",
             "comedy",
             "seinen"
         ],
@@ -5141,6 +5138,7 @@
         ],
         "relations": [],
         "tags": [
+            "adult cast",
             "anti-hero",
             "asia",
             "baseball",
@@ -5166,6 +5164,7 @@
             "seinen",
             "slice of life",
             "sports",
+            "team sports",
             "thriller"
         ],
         "date": {
@@ -5819,6 +5818,7 @@
             "nudity",
             "pantsu",
             "panty shots",
+            "present",
             "primarily female cast",
             "psi-powers",
             "romance",
@@ -6003,7 +6003,6 @@
             "https://anilist.co/anime/7041",
             "https://anime-planet.com/anime/my-bride-is-a-mermaid",
             "https://anime-planet.com/anime/my-bride-is-a-mermaid-ova-special",
-            "https://anisearch.com/anime/3944",
             "https://kitsu.io/anime/1903",
             "https://kitsu.io/anime/4846",
             "https://myanimelist.net/anime/2104",
@@ -6330,6 +6329,7 @@
             "short movie",
             "shorts",
             "sports",
+            "strategy game",
             "super power"
         ],
         "date": {
@@ -6374,8 +6374,6 @@
             "https://anilist.co/anime/7082",
             "https://anime-planet.com/anime/shugo-chara",
             "https://anime-planet.com/anime/shugo-chara-party",
-            "https://anisearch.com/anime/4427",
-            "https://anisearch.com/anime/5599",
             "https://kitsu.io/anime/2648",
             "https://kitsu.io/anime/4861",
             "https://livechart.me/anime/3415",
@@ -6459,6 +6457,7 @@
             "heterosexual",
             "idols",
             "japan",
+            "love polygon",
             "manga",
             "performance",
             "plot continuity",
@@ -7132,6 +7131,7 @@
             "cooking",
             "daily life",
             "gag",
+            "gag humor",
             "half-length episodes",
             "japan",
             "magic",
@@ -7674,6 +7674,8 @@
         "relations": [
             "https://anidb.net/anime/377",
             "https://anilist.co/anime/1293",
+            "https://anilist.co/anime/210",
+            "https://anilist.co/anime/249",
             "https://anime-planet.com/anime/urusei-yatsura",
             "https://anime-planet.com/anime/urusei-yatsura-movie-1-only-you",
             "https://anime-planet.com/anime/urusei-yatsura-movie-2-beautiful-dreamer",
@@ -8074,9 +8076,6 @@
             "https://anilist.co/anime/10549",
             "https://anilist.co/anime/3692",
             "https://anime-planet.com/anime/yes-pretty-cure-5-gogo",
-            "https://anisearch.com/anime/4007",
-            "https://anisearch.com/anime/4536",
-            "https://anisearch.com/anime/5834",
             "https://kitsu.io/anime/3199",
             "https://kitsu.io/anime/6237",
             "https://livechart.me/anime/5176",
@@ -8158,9 +8157,6 @@
             "https://anilist.co/anime/18497",
             "https://anilist.co/anime/8457",
             "https://anime-planet.com/anime/yozakura-quartet-hana-no-uta",
-            "https://anisearch.com/anime/4595",
-            "https://anisearch.com/anime/4780",
-            "https://anisearch.com/anime/6166",
             "https://kitsu.io/anime/5343",
             "https://kitsu.io/anime/7843",
             "https://livechart.me/anime/283",
@@ -8312,7 +8308,6 @@
         "relations": [
             "https://anilist.co/anime/119835",
             "https://anime-planet.com/anime/master-of-martial-hearts-picture-drama",
-            "https://anisearch.com/anime/9905",
             "https://kitsu.io/anime/8470",
             "https://myanimelist.net/anime/21215",
             "https://notify.moe/anime/Beh0tFimg"

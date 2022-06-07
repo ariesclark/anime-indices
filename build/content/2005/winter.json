@@ -88,14 +88,6 @@
             "https://anime-planet.com/anime/ah-my-goddess-the-movie",
             "https://anime-planet.com/anime/ah-my-goddess-tv-specials",
             "https://anime-planet.com/anime/oh-my-goddess-the-adventures-of-mini-goddess",
-            "https://anisearch.com/anime/1278",
-            "https://anisearch.com/anime/2085",
-            "https://anisearch.com/anime/2497",
-            "https://anisearch.com/anime/4487",
-            "https://anisearch.com/anime/6520",
-            "https://anisearch.com/anime/9448",
-            "https://anisearch.com/anime/9476",
-            "https://anisearch.com/anime/9910",
             "https://kitsu.io/anime/277",
             "https://kitsu.io/anime/7775",
             "https://kitsu.io/anime/7780",
@@ -200,7 +192,6 @@
             "https://anilist.co/anime/713",
             "https://anime-planet.com/anime/air-in-summer",
             "https://anime-planet.com/anime/air-movie",
-            "https://anime-planet.com/anime/kagi-nado",
             "https://anisearch.com/anime/13250",
             "https://anisearch.com/anime/1644",
             "https://anisearch.com/anime/3552",
@@ -1266,6 +1257,7 @@
             "adventure",
             "comedy",
             "cops",
+            "detective",
             "mystery",
             "police",
             "shounen"
@@ -1498,9 +1490,6 @@
             "https://anime-planet.com/anime/angel-tales",
             "https://anime-planet.com/anime/angel-tales-2",
             "https://anime-planet.com/anime/angel-tales-specials",
-            "https://anisearch.com/anime/15833",
-            "https://anisearch.com/anime/1595",
-            "https://anisearch.com/anime/2483",
             "https://kitsu.io/anime/623",
             "https://myanimelist.net/anime/682",
             "https://notify.moe/anime/ZV4A5KmiR"
@@ -1833,11 +1822,6 @@
         "relations": [
             "https://anilist.co/anime/121",
             "https://anime-planet.com/anime/fullmetal-alchemist",
-            "https://anisearch.com/anime/2519",
-            "https://anisearch.com/anime/2974",
-            "https://anisearch.com/anime/5048",
-            "https://anisearch.com/anime/6624",
-            "https://anisearch.com/anime/6973",
             "https://kitsu.io/anime/100",
             "https://myanimelist.net/anime/121",
             "https://notify.moe/anime/iMat5FmmR"
@@ -1870,6 +1854,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/furui-oshiro-no-monogatari",
             "https://myanimelist.net/anime/51807"
         ],
         "title": "Furui Oshiro no Monogatari",
@@ -1884,8 +1869,12 @@
         ],
         "relations": [],
         "tags": [
+            "family friendly",
+            "fantasy",
             "kids",
-            "music"
+            "minna no uta",
+            "music",
+            "stop motion animation"
         ],
         "date": {
             "season": "winter",
@@ -2174,7 +2163,6 @@
         ],
         "tags": [
             "alternative world",
-            "asia",
             "based on a manga",
             "bionic powers",
             "comedy",
@@ -2185,6 +2173,7 @@
             "gynophobia",
             "harem",
             "high school",
+            "isekai",
             "japan",
             "large breasts",
             "love polygon",
@@ -2193,11 +2182,15 @@
             "nudity",
             "pantsu",
             "person in a strange world",
+            "plot continuity",
+            "present",
             "psi-powers",
             "romance",
             "school",
             "school life",
             "shounen",
+            "slapstick",
+            "stereotypes",
             "sudden girlfriend appearance",
             "violent retribution for accidental infringement"
         ],
@@ -2641,6 +2634,37 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/hong-mao-lan-tu-nao-xinchun",
+            "https://myanimelist.net/anime/44358"
+        ],
+        "title": "Hong Mao Lan Tu: Nao Xinchun",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1081/123080.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1081/123080t.jpg",
+        "synonyms": [
+            "虹猫蓝兔闹新春"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/39121"
+        ],
+        "tags": [
+            "adventure",
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "non-human protagonists"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2005
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/1030",
             "https://myanimelist.net/anime/2896"
         ],
@@ -2856,6 +2880,7 @@
             "school",
             "sci fi",
             "sci-fi",
+            "science fiction",
             "science-fiction",
             "seinen",
             "sentimental drama",
@@ -2959,7 +2984,6 @@
         "relations": [
             "https://anilist.co/anime/848",
             "https://anime-planet.com/anime/jinki-extend-and-then",
-            "https://anisearch.com/anime/8382",
             "https://kitsu.io/anime/119",
             "https://myanimelist.net/anime/848",
             "https://notify.moe/anime/ccEt5Fimg"
@@ -3067,6 +3091,7 @@
             "earth",
             "excessive violence",
             "fantasy",
+            "gore",
             "gunfights",
             "henshin",
             "horror",
@@ -3420,7 +3445,8 @@
             "family friendly",
             "kids",
             "slice of life",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "winter",
@@ -3959,16 +3985,6 @@
             "https://anime-planet.com/anime/negima-haru-special",
             "https://anime-planet.com/anime/negima-natsu-special",
             "https://anime-planet.com/anime/uq-holder",
-            "https://anisearch.com/anime/11548",
-            "https://anisearch.com/anime/12427",
-            "https://anisearch.com/anime/3668",
-            "https://anisearch.com/anime/3706",
-            "https://anisearch.com/anime/3946",
-            "https://anisearch.com/anime/4864",
-            "https://anisearch.com/anime/5408",
-            "https://anisearch.com/anime/6901",
-            "https://anisearch.com/anime/7075",
-            "https://anisearch.com/anime/8621",
             "https://kitsu.io/anime/12273",
             "https://kitsu.io/anime/1387",
             "https://kitsu.io/anime/3371",
@@ -4073,9 +4089,6 @@
             "https://anime-planet.com/anime/my-otome-0-s-ifr",
             "https://anime-planet.com/anime/my-otome-special-otome-no-inori",
             "https://anime-planet.com/anime/my-otome-specials",
-            "https://anisearch.com/anime/2162",
-            "https://anisearch.com/anime/6832",
-            "https://anisearch.com/anime/6833",
             "https://kitsu.io/anime/77",
             "https://livechart.me/anime/4010",
             "https://livechart.me/anime/4685",
@@ -4861,7 +4874,6 @@
             "https://anidb.net/anime/2859",
             "https://anilist.co/anime/607",
             "https://anime-planet.com/anime/fairy-musketeers",
-            "https://anisearch.com/anime/3666",
             "https://kitsu.io/anime/562",
             "https://myanimelist.net/anime/607",
             "https://notify.moe/anime/zxCTcKmig"
@@ -5327,9 +5339,6 @@
             "https://anime-planet.com/anime/school-days",
             "https://anime-planet.com/anime/school-days-magical-heart-kokoro-chan",
             "https://anime-planet.com/anime/school-days-valentine-days",
-            "https://anisearch.com/anime/4220",
-            "https://anisearch.com/anime/4554",
-            "https://anisearch.com/anime/4673",
             "https://kitsu.io/anime/2249",
             "https://livechart.me/anime/3625",
             "https://livechart.me/anime/4534",
@@ -5382,6 +5391,7 @@
         ],
         "tags": [
             "adventure",
+            "educational",
             "family friendly",
             "kids",
             "kodomo",
@@ -5919,10 +5929,6 @@
             "https://anime-planet.com/anime/stratos-4-logbook",
             "https://anime-planet.com/anime/stratos-4-ova",
             "https://anime-planet.com/anime/stratos-4-ova-stratos-41-dutch-roll",
-            "https://anisearch.com/anime/1472",
-            "https://anisearch.com/anime/1623",
-            "https://anisearch.com/anime/3925",
-            "https://anisearch.com/anime/7236",
             "https://kitsu.io/anime/1424",
             "https://kitsu.io/anime/386",
             "https://myanimelist.net/anime/1584",
@@ -6199,8 +6205,6 @@
             "https://anilist.co/anime/174",
             "https://anime-planet.com/anime/tenjho-tenge",
             "https://anime-planet.com/anime/tenjho-tenge-the-past-chapter",
-            "https://anisearch.com/anime/3310",
-            "https://anisearch.com/anime/580",
             "https://kitsu.io/anime/151",
             "https://livechart.me/anime/3812",
             "https://livechart.me/anime/5752",
@@ -6213,6 +6217,7 @@
             "asia",
             "based on a manga",
             "bionic powers",
+            "combat sport",
             "comedy",
             "drama",
             "earth",
@@ -6743,15 +6748,6 @@
             "https://anime-planet.com/anime/transformers-war-for-cybertron-earthrise",
             "https://anime-planet.com/anime/transformers-war-for-cybertron-siege",
             "https://anime-planet.com/anime/transformers-zone",
-            "https://anisearch.com/anime/112",
-            "https://anisearch.com/anime/1263",
-            "https://anisearch.com/anime/1428",
-            "https://anisearch.com/anime/1539",
-            "https://anisearch.com/anime/2587",
-            "https://anisearch.com/anime/2763",
-            "https://anisearch.com/anime/2801",
-            "https://anisearch.com/anime/3120",
-            "https://anisearch.com/anime/3360",
             "https://kitsu.io/anime/825",
             "https://myanimelist.net/anime/927",
             "https://notify.moe/anime/CsM15Kiig"

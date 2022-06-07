@@ -16,7 +16,6 @@
             "Pink Riders"
         ],
         "relations": [
-            "https://anisearch.com/anime/5038",
             "https://myanimelist.net/anime/5773"
         ],
         "tags": [
@@ -145,8 +144,10 @@
             "asia",
             "based on a manga",
             "bionic powers",
+            "body horror",
             "celestial beings",
             "contemporary fantasy",
+            "cosmic horror",
             "demon",
             "demons",
             "drama",
@@ -164,13 +165,17 @@
             "mythology",
             "parallel universe",
             "parallel world",
+            "post-apocalyptic",
             "present",
             "psi-powers",
             "psychological",
             "seinen",
+            "shapeshifting",
             "splatter",
             "super power",
             "supernatural",
+            "tragedy",
+            "urban",
             "violence"
         ],
         "date": {
@@ -728,7 +733,6 @@
             "https://anidb.net/anime/922",
             "https://anilist.co/anime/626",
             "https://anime-planet.com/anime/mamotte-shugogetten",
-            "https://anisearch.com/anime/91",
             "https://kitsu.io/anime/581",
             "https://livechart.me/anime/9087",
             "https://myanimelist.net/anime/626",
@@ -749,10 +753,10 @@
             "magic",
             "magical girl",
             "manga",
-            "parental abandonment",
             "present",
             "romance",
-            "shounen"
+            "shounen",
+            "slow when it comes to love"
         ],
         "date": {
             "season": "spring",
@@ -1180,7 +1184,8 @@
             "demon",
             "demons",
             "horror",
-            "kids"
+            "kids",
+            "mythology"
         ],
         "date": {
             "season": "spring",
@@ -1666,6 +1671,7 @@
             "male harem",
             "manga",
             "martial arts",
+            "mythology",
             "primarily male cast",
             "psychological drama",
             "shoujo",
@@ -1812,6 +1818,7 @@
             "horror",
             "monster",
             "mystery",
+            "mythology",
             "present",
             "short episodes",
             "supernatural",
@@ -1882,6 +1889,7 @@
             "manga",
             "school life",
             "shounen",
+            "strategy game",
             "virtual reality"
         ],
         "date": {
@@ -2563,7 +2571,8 @@
             "family friendly",
             "kids",
             "minna no uta",
-            "music"
+            "music",
+            "pets"
         ],
         "date": {
             "season": "spring",
@@ -2612,6 +2621,7 @@
             "earth",
             "female protagonist",
             "humanoid alien",
+            "iyashikei",
             "japan",
             "manga",
             "mina",
@@ -3129,13 +3139,13 @@
             "based on a movie",
             "dystopia",
             "earth",
+            "future",
             "mecha",
             "mercenaries",
             "military",
             "movie",
             "outer space",
             "pirate",
-            "post apocalypse",
             "post-apocalyptic",
             "sci fi",
             "sci-fi",
@@ -3143,7 +3153,7 @@
             "science-fiction",
             "shipboard",
             "space",
-            "space opera"
+            "stereotypes"
         ],
         "date": {
             "season": "spring",
@@ -3372,15 +3382,6 @@
             "https://anime-planet.com/anime/transformers-war-for-cybertron-earthrise",
             "https://anime-planet.com/anime/transformers-war-for-cybertron-siege",
             "https://anime-planet.com/anime/transformers-zone",
-            "https://anisearch.com/anime/112",
-            "https://anisearch.com/anime/1263",
-            "https://anisearch.com/anime/1539",
-            "https://anisearch.com/anime/217",
-            "https://anisearch.com/anime/2587",
-            "https://anisearch.com/anime/2763",
-            "https://anisearch.com/anime/2801",
-            "https://anisearch.com/anime/3120",
-            "https://anisearch.com/anime/3360",
             "https://kitsu.io/anime/2056",
             "https://myanimelist.net/anime/925",
             "https://notify.moe/anime/4jOE5KmmR"
@@ -3693,21 +3694,6 @@
             "https://anime-planet.com/anime/yu-gi-oh-the-dark-side-of-dimensions-special-eien-no-rival-yugi-to-kaiba",
             "https://anime-planet.com/anime/yu-gi-oh-vrains",
             "https://anime-planet.com/anime/yu-gi-oh-zexal",
-            "https://anisearch.com/anime/10086",
-            "https://anisearch.com/anime/10482",
-            "https://anisearch.com/anime/12209",
-            "https://anisearch.com/anime/1310",
-            "https://anisearch.com/anime/14866",
-            "https://anisearch.com/anime/1590",
-            "https://anisearch.com/anime/2618",
-            "https://anisearch.com/anime/4740",
-            "https://anisearch.com/anime/482",
-            "https://anisearch.com/anime/5576",
-            "https://anisearch.com/anime/6825",
-            "https://anisearch.com/anime/8038",
-            "https://anisearch.com/anime/9402",
-            "https://anisearch.com/anime/9616",
-            "https://anisearch.com/anime/9659",
             "https://kitsu.io/anime/10092",
             "https://kitsu.io/anime/1704",
             "https://kitsu.io/anime/4106",
@@ -3761,7 +3747,6 @@
             "brain games and gambling",
             "card battle",
             "card battles",
-            "card games",
             "comedy",
             "death game",
             "dissociative identities",
@@ -3770,6 +3755,7 @@
             "fantasy",
             "fantasy world",
             "game",
+            "gaming – card games",
             "ganbatte",
             "high stakes games",
             "historical",
@@ -3783,12 +3769,15 @@
             "present",
             "proxy battles",
             "reincarnation",
+            "science fiction",
             "shounen",
             "slapstick",
             "sports",
+            "strategy game",
             "supernatural",
             "tournaments",
             "urban fantasy",
+            "virtual reality",
             "virtual world"
         ],
         "date": {

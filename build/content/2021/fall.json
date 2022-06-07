@@ -1720,6 +1720,8 @@
     {
         "sources": [
             "https://anidb.net/anime/17018",
+            "https://anilist.co/anime/145898",
+            "https://anime-planet.com/anime/chinzei-hachirou-tametomo-2021",
             "https://anisearch.com/anime/16876",
             "https://myanimelist.net/anime/50510"
         ],
@@ -1730,45 +1732,25 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1065/122953.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1065/122953t.jpg",
         "synonyms": [
+            "Chinzei Hachirou Tametomo (ONA)",
             "Chinzei Hachirō Tametomo (2021)",
             "鎮西八郎為朝 (2021)",
+            "鎮西八郎為朝 (ONA)",
             "鎮西八郎為朝 （2021）"
         ],
         "relations": [
             "https://anidb.net/anime/15919",
+            "https://anilist.co/anime/133353",
+            "https://anime-planet.com/anime/chinzei-hachirou-tametomo",
             "https://myanimelist.net/anime/44752"
         ],
         "tags": [
             "action",
             "adventure",
             "comedy",
-            "historical"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/145898"
-        ],
-        "title": "Chinzei Hachirou Tametomo (ONA)",
-        "type": "ona",
-        "episodes": 13,
-        "status": "ongoing",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145898-F9iuN49z2wuR.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145898-F9iuN49z2wuR.png",
-        "synonyms": [
-            "鎮西八郎為朝 (ONA)"
-        ],
-        "relations": [
-            "https://anilist.co/anime/133353"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "comedy"
+            "historical",
+            "original work",
+            "short episodes"
         ],
         "date": {
             "season": "fall",
@@ -2188,7 +2170,7 @@
         ],
         "title": "Digimon Ghost Game",
         "type": "tv",
-        "episodes": 27,
+        "episodes": 28,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1907/118797.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1907/118797t.jpg",
@@ -2421,6 +2403,7 @@
             "https://anilist.co/anime/137761",
             "https://anilist.co/anime/145210",
             "https://kitsu.io/anime/45032",
+            "https://kitsu.io/anime/46149",
             "https://myanimelist.net/anime/49638",
             "https://myanimelist.net/anime/51083"
         ],
@@ -4050,6 +4033,7 @@
     {
         "sources": [
             "https://anilist.co/anime/140601",
+            "https://anime-planet.com/anime/a-bite-of-bone",
             "https://myanimelist.net/anime/50872"
         ],
         "title": "Honekami",
@@ -4066,7 +4050,10 @@
         ],
         "relations": [],
         "tags": [
+            "abstract",
             "adventure",
+            "drama",
+            "shorts",
             "slice of life"
         ],
         "date": {
@@ -4361,6 +4348,8 @@
         "tags": [
             "abstract",
             "adventure",
+            "denpa",
+            "dystopian",
             "fantasy",
             "psychological"
         ],
@@ -4653,6 +4642,31 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52006"
+        ],
+        "title": "Jashin-chan Mame Anime",
+        "type": "ona",
+        "episodes": 0,
+        "status": "ongoing",
+        "picture": "https://cdn.myanimelist.net/images/anime/1460/124273.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1460/124273t.jpg",
+        "synonyms": [
+            "邪神ちゃんまめアニメ",
+            "邪神ちゃんドロップキックX まめアニメ"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/42994"
+        ],
+        "tags": [
+            "comedy"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/142178",
             "https://anime-planet.com/anime/jian-yu-chuanqi",
             "https://kitsu.io/anime/45582",
@@ -4800,6 +4814,7 @@
             "Jojo no Kimyō na Bōken: Stone Ocean",
             "Jojo part 6",
             "Le bizzarre avventure di JoJo: Stone Ocean",
+            "Невероятные приключения ДжоДжо: Каменный океан",
             "ההרפתקה המוזרה של ג'וג'ו: אוקיינוס האבן",
             "مغامرات جوجو العجيبة: محيط الأحجار",
             "โจโจ้ ล่าข้ามศตวรรษ ภาค 6",
@@ -4955,6 +4970,7 @@
             "ghost stories",
             "heterosexual",
             "high school",
+            "lgbtq+ themes",
             "magic",
             "male protagonist",
             "martial arts",
@@ -4970,6 +4986,7 @@
             "time skip",
             "tragedy",
             "tsundere",
+            "urban fantasy",
             "yandere"
         ],
         "date": {
@@ -5029,7 +5046,6 @@
         "sources": [
             "https://anidb.net/anime/16264",
             "https://anilist.co/anime/132528",
-            "https://anime-planet.com/anime/kagi-nado",
             "https://anime-planet.com/anime/kaginado",
             "https://anisearch.com/anime/16232",
             "https://kitsu.io/anime/44420",
@@ -5312,6 +5328,7 @@
         "tags": [
             "adventure",
             "animals",
+            "child protagonists",
             "coming of age",
             "contemporary fantasy",
             "death of a loved one",
@@ -6090,11 +6107,13 @@
             "Ghost in the Shell : SAC_2045 - Sustainable War",
             "Ghost in the Shell: SAC_2045",
             "Ghost in the Shell: SAC_2045 (2021)",
+            "Ghost in the Shell: SAC_2045 - Guerra Sostenible",
             "Ghost in the Shell: SAC_2045 - Guerra sostenibile",
             "Ghost in the Shell: SAC_2045 - Jizoku Kanou Sensou",
             "Ghost in the Shell: SAC_2045 - Sustainable War",
             "Ghost in the Shell: SAC_2045 - Sustainable Warfare",
             "Ghost in the Shell: SAC_2045 Movie",
+            "Ghost in the Shell: SAC_2045 Sustainable War",
             "Ghost in the Shell: SAC_2045: Guerra sostenible",
             "Ghost in the Shell: Stand Alone Complex 2045",
             "Koukaku Kidoutai: SAC_2045 Movie",
@@ -6139,6 +6158,7 @@
             "cg animation",
             "cg-anime",
             "cyberpunk",
+            "cyborg",
             "cyborgs",
             "detective",
             "drama",
@@ -6148,13 +6168,17 @@
             "full cgi",
             "heroine of strong character",
             "human enhancement",
+            "kuudere",
             "mecha",
             "military",
             "police",
+            "politics",
+            "primarily adult cast",
             "psi-powers",
             "psychological",
             "psychological drama",
             "recap",
+            "robots",
             "robots & androids",
             "sci fi",
             "sci-fi",
@@ -6163,6 +6187,7 @@
             "seinen",
             "special squads",
             "stoic heroine",
+            "tragedy",
             "twisted story",
             "war"
         ],
@@ -6261,6 +6286,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kumo-no-ue-wa-itsumo-hare",
             "https://anisearch.com/anime/17173",
             "https://myanimelist.net/anime/50845"
         ],
@@ -6275,10 +6301,14 @@
         ],
         "relations": [],
         "tags": [
+            "death of a loved one",
             "drama",
             "independent anime",
+            "original work",
             "present",
+            "shorts",
             "slice of life",
+            "soccer",
             "sports",
             "tragedy"
         ],
@@ -6968,36 +6998,6 @@
             "science fiction",
             "science-fiction",
             "space"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/10458"
-        ],
-        "title": "Mahou Tsukai no Yome: Nishi no Shonen to Seiran no Kishi",
-        "type": "ova",
-        "episodes": 3,
-        "status": "ongoing",
-        "picture": "https://u.livechart.me/anime/10458/poster_image/81974cbf8c48600ed083794e032d6987.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/10458/poster_image/81974cbf8c48600ed083794e032d6987.jpg?style=small&format=jpg",
-        "synonyms": [
-            "The Ancient Magus' Bride -The Boy from the West and the Knight of the Blue Storm",
-            "魔法使いの嫁 西の少年と青嵐の騎士"
-        ],
-        "relations": [
-            "https://livechart.me/anime/2070",
-            "https://livechart.me/anime/2572",
-            "https://livechart.me/anime/2863"
-        ],
-        "tags": [
-            "fantasy",
-            "magic",
-            "shounen",
-            "slice of life"
         ],
         "date": {
             "season": "fall",
@@ -7847,40 +7847,12 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/10297"
-        ],
-        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Cour",
-        "type": "tv",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/10297/poster_image/85ba7e3a92fd25d640904248daf4e514.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/10297/poster_image/85ba7e3a92fd25d640904248daf4e514.jpg?style=small&format=jpg",
-        "synonyms": [
-            "Mushoku Tensei: Jobless Reincarnation Part 2",
-            "無職転生~異世界行ったら本気だす~ 第2クール"
-        ],
-        "relations": [
-            "https://livechart.me/anime/10886",
-            "https://livechart.me/anime/11115",
-            "https://livechart.me/anime/9357"
-        ],
-        "tags": [
-            "drama",
-            "fantasy",
-            "magic"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/15954",
             "https://anilist.co/anime/127720",
             "https://anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-part-ii",
             "https://anisearch.com/anime/15862",
             "https://kitsu.io/anime/43907",
+            "https://livechart.me/anime/10297",
             "https://myanimelist.net/anime/45576",
             "https://notify.moe/anime/Gc77aDUGR"
         ],
@@ -7894,6 +7866,7 @@
             "Mushoku Tensei : Jobless Reincarnation Cour 2",
             "Mushoku Tensei: Isekai Ittara Honki Dasu (2021)",
             "Mushoku Tensei: Isekai Ittara Honki Dasu - Part II",
+            "Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Cour",
             "Mushoku Tensei: Jobless Reincarnation (2021)",
             "Mushoku Tensei: Jobless Reincarnation (Part 2)",
             "Mushoku Tensei: Jobless Reincarnation - Part II",
@@ -7904,6 +7877,7 @@
             "無職転生 ～異世界行ったら本気だす～",
             "無職転生 ～異世界行ったら本気だす～ 第2クール",
             "無職転生~異世界行ったら本気だす~ (2021)",
+            "無職転生~異世界行ったら本気だす~ 第2クール",
             "無職転生～異世界行ったら本気だす～ （2021）",
             "無職転生～異世界行ったら本気だす～(第2クール)",
             "無職轉生～到了異世界就拿出真本事～ (2021)",
@@ -7921,6 +7895,9 @@
             "https://kitsu.io/anime/42323",
             "https://kitsu.io/anime/45492",
             "https://kitsu.io/anime/45950",
+            "https://livechart.me/anime/10886",
+            "https://livechart.me/anime/11115",
+            "https://livechart.me/anime/9357",
             "https://myanimelist.net/anime/39535",
             "https://myanimelist.net/anime/50360",
             "https://myanimelist.net/anime/51179",
@@ -8387,12 +8364,12 @@
             "One Piece Special Episodes: Barto's Secret Room",
             "One Piece ¡Episodio especial! ¡El cuarto secreto de Barto!",
             "One Piece: Bartos geheimes Kämmerchen!",
+            "One Piece: Luffy Senpai Ouen Kikaku! (ワンピース ルフィ先輩応援企画！)",
             "One Piece: Luffy Senpai Ouen Kikaku! Barto no Himitsu no Heya!",
-            "One Piece: Luffy Senpai Ōen Kikaku! Barto no Himitsu no Heya!",
             "One Piece: Special Episode - Barto’s Secret Room",
             "バルトの秘密の部屋!",
             "ルフィ先輩応援企画! バルトの秘密の部屋!",
-            "ワンピース ルフィ先輩応援企画！ バルトの秘密の部屋！"
+            "ワンピース バルトの秘密の部屋！"
         ],
         "relations": [
             "https://anime-planet.com/anime/one-piece",
@@ -8693,7 +8670,8 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1992/116576t.jpg",
         "synonyms": [
             "Платиновый исход",
-            "プラチナエンド"
+            "プラチナエンド",
+            "白金终局"
         ],
         "relations": [
             "https://anilist.co/anime/140687",
@@ -9058,6 +9036,7 @@
             "https://anilist.co/anime/131649",
             "https://anilist.co/anime/146729",
             "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao-6",
+            "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao-8",
             "https://myanimelist.net/anime/50293",
             "https://myanimelist.net/anime/51496"
         ],
@@ -9556,6 +9535,7 @@
         "synonyms": [
             "My Senpai Is Annoying",
             "My Senpai is Annoying",
+            "Seniorku yang Menyebalkan",
             "Senpai ga Uzai Kōhai no Hanashi",
             "ลุ้นรักรุ่นน้องตัวจิ๋วกับรุ่นพี่ตัวป่วน",
             "先輩がうざい後輩の話",
@@ -9568,6 +9548,7 @@
             "adult couples",
             "age gap",
             "based on a manga",
+            "basketball",
             "comedy",
             "coming of age",
             "coworkers",
@@ -9605,6 +9586,7 @@
     {
         "sources": [
             "https://anilist.co/anime/142808",
+            "https://anime-planet.com/anime/god-of-mountains-and-jujube",
             "https://myanimelist.net/anime/50603"
         ],
         "title": "Shanshen Yu Xiaozao",
@@ -9620,9 +9602,14 @@
         ],
         "relations": [],
         "tags": [
+            "based on a webtoon",
+            "chinese animation",
             "drama",
             "fantasy",
+            "god-human relationship",
             "gods",
+            "interspecies relationship",
+            "non-human protagonists",
             "romance",
             "slice of life",
             "supernatural",
@@ -10591,7 +10578,6 @@
             "https://anidb.net/anime/14683",
             "https://anilist.co/anime/111905",
             "https://anime-planet.com/anime/sumikko-gurashi-movie-tobidasu-ehon-to-himitsu-no-ko",
-            "https://anisearch.com/anime/14650",
             "https://kitsu.io/anime/43121",
             "https://livechart.me/anime/9513",
             "https://myanimelist.net/anime/39250",
@@ -10781,6 +10767,7 @@
             "Sword Art Online the Movie -Progressive- Aria of the Starless Night",
             "Sword Art Online the Movie: Progressive - Aria of a Starless Night",
             "Sword Art Online: Progressive",
+            "Sword Art Online: Progressive - Aria de una noche sin estrellas",
             "Sword Art Online: Progressive - Hoshinaki Yoru no Aria",
             "Sword Art Online: Progressive - อาเรียแห่งคืนที่ไร้ดาว",
             "Sword Art Online: Progressive Movie - Hoshinaki Yoru no Aria",
@@ -11772,6 +11759,76 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/112019",
+            "https://anime-planet.com/anime/uchuu-senkan-yamato-2205-aratanaru-tabidachi-zenshou-take-off",
+            "https://kitsu.io/anime/44694",
+            "https://livechart.me/anime/9397",
+            "https://myanimelist.net/anime/40389",
+            "https://notify.moe/anime/f-hWCdKMR"
+        ],
+        "title": "Uchuu Senkan Yamato 2205: Aratanaru Tabidachi",
+        "type": "ova",
+        "episodes": 8,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1888/117889.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1888/117889t.jpg",
+        "synonyms": [
+            "Aratanaru Tabidachi - Zenshou -TAKE OFF-",
+            "Space Battleship Yamato 2205: A New Journey",
+            "Space Battleship Yamato 2205: A New Journey - Prior Chapter: Take Off",
+            "Space Battleship Yamato 2205: A New Journey Part I: Take Off",
+            "Space Battleship Yamato 2205: Aratanaru Tabidachi - Zenshou: TAKE OFF",
+            "Star Blazers",
+            "Uchuu Senkan Yamato 2205: Aratanaru Tabidachi - Koushou - Stasha",
+            "Uchuu Senkan Yamato 2205: Aratanaru Tabidachi - Zenshou - Take Off",
+            "Uchuu Senkan Yamato 2205: Aratanaru Tabidachi - Zenshou -TAKE OFF-",
+            "Uchuu Senkan Yamato 2205: Aratanaru Tabidachi - Zenshou: TAKE OFF",
+            "Uchuu Senkan Yamato 2205: Aratanaru Tabidachi - Zenshou: Take Off",
+            "宇宙戦艦ヤマト2205 新たなる旅立ち",
+            "宇宙戦艦ヤマト2205 新たなる旅立ち 前章 -TAKE OFF-",
+            "宇宙戦艦ヤマト2205　新たなる旅立ち 前章 -TAKE OFF-"
+        ],
+        "relations": [
+            "https://anilist.co/anime/126275",
+            "https://anilist.co/anime/140376",
+            "https://anilist.co/anime/21730",
+            "https://anime-planet.com/anime/star-blazers-space-battleship-yamato-2199",
+            "https://anime-planet.com/anime/star-blazers-space-battleship-yamato-2202",
+            "https://anime-planet.com/anime/uchuu-senkan-yamato-2205-aratanaru-tabidachi-part-ii",
+            "https://kitsu.io/anime/43641",
+            "https://kitsu.io/anime/44693",
+            "https://kitsu.io/anime/45328",
+            "https://livechart.me/anime/10640",
+            "https://myanimelist.net/anime/3071",
+            "https://myanimelist.net/anime/33064",
+            "https://myanimelist.net/anime/40554",
+            "https://myanimelist.net/anime/50855",
+            "https://notify.moe/anime/UBsE9dKGg",
+            "https://notify.moe/anime/ae-6pKmig",
+            "https://notify.moe/anime/i2u8cFimR"
+        ],
+        "tags": [
+            "action",
+            "adult cast",
+            "adventure",
+            "drama",
+            "leijiverse",
+            "military",
+            "outer space",
+            "sci fi",
+            "sci-fi",
+            "science fiction",
+            "space",
+            "space battles",
+            "space opera"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/14804",
             "https://anisearch.com/anime/14656"
         ],
@@ -11804,72 +11861,6 @@
             "space",
             "space opera",
             "war"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/112019",
-            "https://anime-planet.com/anime/uchuu-senkan-yamato-2205-aratanaru-tabidachi-zenshou-take-off",
-            "https://kitsu.io/anime/44694",
-            "https://livechart.me/anime/9397",
-            "https://myanimelist.net/anime/40389",
-            "https://notify.moe/anime/f-hWCdKMR"
-        ],
-        "title": "Uchuu Senkan Yamato 2205: Aratanaru Tabidachi - Zenshou - Take Off",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1888/117889.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1888/117889t.jpg",
-        "synonyms": [
-            "Aratanaru Tabidachi - Zenshou -TAKE OFF-",
-            "Space Battleship Yamato 2205: A New Journey",
-            "Space Battleship Yamato 2205: A New Journey - Prior Chapter: Take Off",
-            "Space Battleship Yamato 2205: A New Journey Part I: Take Off",
-            "Space Battleship Yamato 2205: Aratanaru Tabidachi - Zenshou: TAKE OFF",
-            "Star Blazers",
-            "Uchuu Senkan Yamato 2205: Aratanaru Tabidachi - Zenshou -TAKE OFF-",
-            "Uchuu Senkan Yamato 2205: Aratanaru Tabidachi - Zenshou: TAKE OFF",
-            "Uchuu Senkan Yamato 2205: Aratanaru Tabidachi - Zenshou: Take Off",
-            "宇宙戦艦ヤマト2205 新たなる旅立ち 前章 -TAKE OFF-",
-            "宇宙戦艦ヤマト2205　新たなる旅立ち 前章 -TAKE OFF-"
-        ],
-        "relations": [
-            "https://anilist.co/anime/126275",
-            "https://anilist.co/anime/140376",
-            "https://anilist.co/anime/21730",
-            "https://anime-planet.com/anime/star-blazers-space-battleship-yamato-2199",
-            "https://anime-planet.com/anime/star-blazers-space-battleship-yamato-2202",
-            "https://anime-planet.com/anime/uchuu-senkan-yamato-2205-aratanaru-tabidachi-part-ii",
-            "https://kitsu.io/anime/43641",
-            "https://kitsu.io/anime/44693",
-            "https://kitsu.io/anime/45328",
-            "https://livechart.me/anime/10640",
-            "https://myanimelist.net/anime/3071",
-            "https://myanimelist.net/anime/33064",
-            "https://myanimelist.net/anime/40554",
-            "https://notify.moe/anime/UBsE9dKGg",
-            "https://notify.moe/anime/ae-6pKmig",
-            "https://notify.moe/anime/i2u8cFimR"
-        ],
-        "tags": [
-            "action",
-            "adult cast",
-            "adventure",
-            "drama",
-            "leijiverse",
-            "military",
-            "outer space",
-            "sci fi",
-            "sci-fi",
-            "science fiction",
-            "space",
-            "space battles",
-            "space opera"
         ],
         "date": {
             "season": "fall",
@@ -12228,7 +12219,7 @@
         ],
         "title": "Waccha PriMagi!",
         "type": "tv",
-        "episodes": 32,
+        "episodes": 33,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1522/117595.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1522/117595t.jpg",
@@ -12361,6 +12352,7 @@
     {
         "sources": [
             "https://anilist.co/anime/139564",
+            "https://anime-planet.com/anime/wo-jiao-mt-guilai",
             "https://myanimelist.net/anime/50703"
         ],
         "title": "Wo Jiao MT: Guilai",
@@ -12378,6 +12370,8 @@
         "relations": [],
         "tags": [
             "adventure",
+            "cg animation",
+            "chinese animation",
             "comedy",
             "fantasy",
             "full cgi",
@@ -13150,6 +13144,7 @@
         "sources": [
             "https://anidb.net/anime/16941",
             "https://anilist.co/anime/141309",
+            "https://anime-planet.com/anime/zhu-dike-lanhai-gi-yuan",
             "https://myanimelist.net/anime/50321"
         ],
         "title": "Zhu Dike: Lanhai Gi Yuan",
@@ -13172,6 +13167,8 @@
         ],
         "tags": [
             "adventure",
+            "chinese animation",
+            "family friendly",
             "kids"
         ],
         "date": {

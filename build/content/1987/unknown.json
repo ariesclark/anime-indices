@@ -71,6 +71,7 @@
             "https://myanimelist.net/anime/39226"
         ],
         "tags": [
+            "educational",
             "kids",
             "sports"
         ],
@@ -181,10 +182,32 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/kaminari-boy-pikatta-kun-no-koutsu-anzen",
-            "https://myanimelist.net/anime/39501"
+            "https://anime-planet.com/anime/kaminari-boy-pikatta-kun-no-koutsu-anzen"
         ],
         "title": "Kaminari Boy Pikatta-kun no Koutsu Anzen",
+        "type": "ova",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/kaminari-boy-pikkaribee"
+        ],
+        "tags": [
+            "educational",
+            "family friendly"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1987
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/39501"
+        ],
+        "title": "Kaminari Boy Pikatta-kun no Koutsuu Anzen",
         "type": "ova",
         "episodes": 1,
         "status": "finished",
@@ -194,12 +217,10 @@
             "カミナリ坊やピカッ太君の交通安全"
         ],
         "relations": [
-            "https://anime-planet.com/anime/kaminari-boy-pikkaribee",
             "https://myanimelist.net/anime/19993"
         ],
         "tags": [
             "educational",
-            "family friendly",
             "kids"
         ],
         "date": {
@@ -319,29 +340,8 @@
             "https://myanimelist.net/anime/39157"
         ],
         "tags": [
+            "educational",
             "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 1987
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/50253"
-        ],
-        "title": "Marionette",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1362/119038.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1362/119038t.jpg",
-        "synonyms": [
-            "マリオネット"
-        ],
-        "relations": [],
-        "tags": [
-            "music"
         ],
         "date": {
             "season": "unknown",

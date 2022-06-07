@@ -47,6 +47,31 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kaibutsu-kun-movie"
+        ],
+        "title": "Kaibutsu-kun Movie",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "synonyms": [
+            "Kaibutsu-kun: Suna Majin wo Yattsukero no Maki / Kaibutsu-kun to Haniwa Kaishin no Maki"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/kaibutsu-kun"
+        ],
+        "tags": [
+            "black and white",
+            "comedy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1969
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/48850"
         ],
         "title": "Kyojin no hoshi tai tetsuwan atomu",

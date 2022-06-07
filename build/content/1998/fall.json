@@ -207,9 +207,6 @@
             "https://anime-planet.com/anime/transformers-the-movie",
             "https://anime-planet.com/anime/transformers-victory",
             "https://anime-planet.com/anime/transformers-zone",
-            "https://anisearch.com/anime/1001",
-            "https://anisearch.com/anime/1442",
-            "https://anisearch.com/anime/5903",
             "https://kitsu.io/anime/3912",
             "https://myanimelist.net/anime/5070",
             "https://notify.moe/anime/bpU9cFiig"
@@ -340,11 +337,6 @@
             "https://anime-planet.com/anime/bubblegum-crash",
             "https://anime-planet.com/anime/bubblegum-crisis",
             "https://anime-planet.com/anime/parasite-dolls",
-            "https://anisearch.com/anime/1413",
-            "https://anisearch.com/anime/15322",
-            "https://anisearch.com/anime/2246",
-            "https://anisearch.com/anime/260",
-            "https://anisearch.com/anime/8636",
             "https://kitsu.io/anime/1202",
             "https://livechart.me/anime/5561",
             "https://livechart.me/anime/8400",
@@ -490,12 +482,13 @@
             "coming of age",
             "conspiracy",
             "cyberpunk",
+            "disaster",
             "drama",
             "dystopia",
             "earth",
+            "future",
             "japan",
             "leijiverse",
-            "post apocalypse",
             "post-apocalyptic",
             "sci fi",
             "sci-fi",
@@ -662,8 +655,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/13051",
-            "https://anime-planet.com/anime/dinozaurs-the-series",
-            "https://anisearch.com/anime/2451"
+            "https://anime-planet.com/anime/dinozaurs-the-series"
         ],
         "tags": [
             "action",
@@ -819,6 +811,7 @@
             "EAT-MAN `98",
             "EAT-MAN'98",
             "Eat-Man `98",
+            "Eat-Man ’98",
             "Eat-man 98",
             "Eatman 98",
             "`איטמן 98",
@@ -829,7 +822,6 @@
             "https://anidb.net/anime/1773",
             "https://anilist.co/anime/1704",
             "https://anime-planet.com/anime/eat-man",
-            "https://anisearch.com/anime/1699",
             "https://kitsu.io/anime/1530",
             "https://livechart.me/anime/6113",
             "https://myanimelist.net/anime/1704",
@@ -965,7 +957,6 @@
         "relations": [
             "https://anidb.net/anime/2423",
             "https://anilist.co/anime/2885",
-            "https://anisearch.com/anime/2281",
             "https://kitsu.io/anime/2622",
             "https://myanimelist.net/anime/2885",
             "https://notify.moe/anime/L0OU5Fmmg"
@@ -1016,6 +1007,7 @@
             "kuudere",
             "mecha",
             "military",
+            "mythology",
             "new",
             "original work",
             "piloted robot",
@@ -1029,9 +1021,11 @@
             "sci fi",
             "science fiction",
             "science-fiction",
+            "seinen",
             "shounen",
             "supernatural",
-            "swords & co"
+            "swords & co",
+            "war"
         ],
         "date": {
             "season": "fall",
@@ -1133,11 +1127,6 @@
             "https://anime-planet.com/anime/glass-mask",
             "https://anime-planet.com/anime/glass-mask-2005",
             "https://anime-planet.com/anime/the-glass-mask-year-3-class-d",
-            "https://anisearch.com/anime/16012",
-            "https://anisearch.com/anime/16016",
-            "https://anisearch.com/anime/3001",
-            "https://anisearch.com/anime/3019",
-            "https://anisearch.com/anime/8401",
             "https://kitsu.io/anime/465",
             "https://myanimelist.net/anime/506",
             "https://notify.moe/anime/awtocKmig"
@@ -1888,6 +1877,7 @@
             "ecchi",
             "elementary school",
             "episodic",
+            "gag humor",
             "henshin",
             "japan",
             "manga",
@@ -2092,7 +2082,6 @@
         "relations": [
             "https://anilist.co/anime/1910",
             "https://anime-planet.com/anime/master-keaton-ova",
-            "https://anisearch.com/anime/1979",
             "https://kitsu.io/anime/1720",
             "https://myanimelist.net/anime/1910",
             "https://notify.moe/anime/cGeB5Fiig"
@@ -2165,9 +2154,6 @@
             "https://anime-planet.com/anime/maze",
             "https://anime-planet.com/anime/maze-bakunetsu-jikuu-tenpen-kyoui-no-giant",
             "https://anime-planet.com/anime/maze-ova",
-            "https://anisearch.com/anime/2164",
-            "https://anisearch.com/anime/3075",
-            "https://anisearch.com/anime/67",
             "https://kitsu.io/anime/1042",
             "https://myanimelist.net/anime/1161",
             "https://notify.moe/anime/F0MbcFiig"
@@ -2629,9 +2615,6 @@
             "https://anime-planet.com/anime/saber-marionette-j",
             "https://anime-planet.com/anime/saber-marionette-j-again",
             "https://anime-planet.com/anime/saber-marionette-r",
-            "https://anisearch.com/anime/1111",
-            "https://anisearch.com/anime/2154",
-            "https://anisearch.com/anime/504",
             "https://kitsu.io/anime/1071",
             "https://kitsu.io/anime/1108",
             "https://kitsu.io/anime/12041",
@@ -3194,7 +3177,9 @@
         "tags": [
             "adventure",
             "based on a manga",
-            "fantasy"
+            "elf",
+            "fantasy",
+            "male protagonist"
         ],
         "date": {
             "season": "fall",
@@ -3311,6 +3296,7 @@
             "school life",
             "shounen",
             "sports",
+            "team sports",
             "time skip",
             "university"
         ],
@@ -3581,6 +3567,7 @@
             "meta",
             "nudity",
             "present",
+            "primarily child cast",
             "school",
             "school life",
             "seinen",

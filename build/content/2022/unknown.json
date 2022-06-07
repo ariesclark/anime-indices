@@ -464,32 +464,6 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/17315"
-        ],
-        "title": "Arifureta Shokugyou de Sekai Saikyou OVA",
-        "type": "ova",
-        "episodes": 1,
-        "status": "upcoming",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17315.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17315.webp",
-        "synonyms": [
-            "Arifureta Shokugyō de Sekai Saikyō OVA",
-            "ありふれた職業で世界最強 OVA"
-        ],
-        "relations": [],
-        "tags": [
-            "alternative world",
-            "fantasy",
-            "isekai",
-            "magic"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/148833"
         ],
         "title": "Aru Kasenshiki Nite",
@@ -1120,6 +1094,35 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/134097",
+            "https://anime-planet.com/anime/chi-yan-jinyiwei",
+            "https://myanimelist.net/anime/49432",
+            "https://notify.moe/anime/eAWz8jHng"
+        ],
+        "title": "Chi Yan Jinyiwei",
+        "type": "ona",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1976/116550.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1976/116550t.jpg",
+        "synonyms": [
+            "The Flame Imperial Guards",
+            "赤焰锦衣卫"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "chinese animation",
+            "fantasy",
+            "full cgi"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/134286",
             "https://anime-planet.com/anime/chuan-shu-zijiu-zhinan-xian-meng-pian",
             "https://kitsu.io/anime/43745",
@@ -1287,6 +1290,26 @@
             "romance",
             "slice of life"
         ],
+        "date": {
+            "season": "unknown",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/150512"
+        ],
+        "title": "Criticism",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150512-Oi6OWT7T1c3s.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150512-Oi6OWT7T1c3s.png",
+        "synonyms": [
+            "クリティシズム"
+        ],
+        "relations": [],
+        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2022
@@ -1772,6 +1795,28 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/eve-and-riria-bubble"
+        ],
+        "title": "Eve & Riria: Bubble",
+        "type": "special",
+        "episodes": 1,
+        "status": "unknown",
+        "picture": "https://cdn.anime-planet.com/anime/primary/eve-and-riria-bubble-1.webp?t=1654221910",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/eve-and-riria-bubble-1-285x399.webp?t=1654221910",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/bubble"
+        ],
+        "tags": [
+            "sci fi"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/eve-dont-replay-the-boredom"
         ],
         "title": "Eve: Don’t replay the boredom.",
@@ -1809,28 +1854,6 @@
         "tags": [
             "action",
             "drama"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://notify.moe/anime/NOUirM57R"
-        ],
-        "title": "Exception",
-        "type": "ona",
-        "episodes": 0,
-        "status": "unknown",
-        "picture": "https://media.notify.moe/images/anime/large/NOUirM57R.webp",
-        "thumbnail": "https://media.notify.moe/images/anime/small/NOUirM57R.webp",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "horror",
-            "sci-fi",
-            "space"
         ],
         "date": {
             "season": "unknown",
@@ -2078,6 +2101,29 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/150202"
+        ],
+        "title": "Gekkou",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150202-SYJNABXQtRLA.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150202-SYJNABXQtRLA.png",
+        "synonyms": [
+            "Moonlight",
+            "月光"
+        ],
+        "relations": [],
+        "tags": [
+            "psychological"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/51768"
         ],
         "title": "Girigiri warukunai Watame",
@@ -2245,6 +2291,29 @@
         "tags": [
             "ocean",
             "stop motion animation"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/haru-kaida-toumei-na-shinzou-ga-naiteita"
+        ],
+        "title": "Haru Kaida: Toumei na Shinzou ga Naiteita",
+        "type": "special",
+        "episodes": 1,
+        "status": "unknown",
+        "picture": "https://cdn.anime-planet.com/anime/primary/haru-kaida-toumei-na-shinzou-ga-naiteita-1.webp?t=1654274303",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/haru-kaida-toumei-na-shinzou-ga-naiteita-1-285x399.webp?t=1654274303",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "drama",
+            "fantasy",
+            "trains",
+            "vtubers"
         ],
         "date": {
             "season": "unknown",
@@ -2553,6 +2622,31 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51984"
+        ],
+        "title": "Isekai Trip-saki de Tasukete Kureta no wa, Hitogoroshi no Shounen deshita. PV",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1974/124215.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1974/124215t.jpg",
+        "synonyms": [
+            "異世界トリップ先で助けてくれたのは、 人殺しの少年でした。"
+        ],
+        "relations": [],
+        "tags": [
+            "erotica",
+            "fantasy",
+            "isekai",
+            "josei"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/146336"
         ],
         "title": "Isekaiwhere",
@@ -2634,6 +2728,7 @@
             "martial arts",
             "monster girl",
             "ninja",
+            "novel",
             "overpowered main characters",
             "present",
             "primarily female cast",
@@ -2782,7 +2877,7 @@
         ],
         "title": "Jian Xian Zaici",
         "type": "ona",
-        "episodes": 5,
+        "episodes": 7,
         "status": "finished",
         "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149701-RgZQilPDuUHw.jpg",
         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149701-RgZQilPDuUHw.jpg",
@@ -3091,6 +3186,33 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51970"
+        ],
+        "title": "Kawaii dake ja Nai Shikimori-san: Mei Scene Furikaeri",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1800/124161.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1800/124161t.jpg",
+        "synonyms": [
+            "Kawaii dake ja Nai Shikimori-san Recap, Kawaii dake ja Nai Shikimori-san 6.5",
+            "可愛いだけじゃない式守さん 名シーン振り返りSP"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/45613"
+        ],
+        "tags": [
+            "comedy",
+            "romance",
+            "school"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/148363"
         ],
         "title": "Ki no Uta",
@@ -3217,6 +3339,7 @@
             "https://anidb.net/anime/16450",
             "https://anime-planet.com/anime/kirakira-kirari",
             "https://anisearch.com/anime/16784",
+            "https://livechart.me/anime/11056",
             "https://myanimelist.net/anime/49844"
         ],
         "title": "Kirakira Kirari",
@@ -3234,6 +3357,9 @@
             "https://anime-planet.com/anime/rockn-oyone",
             "https://anime-planet.com/anime/tenjin",
             "https://anime-planet.com/anime/uchuu-camper-chicchi",
+            "https://livechart.me/anime/11053",
+            "https://livechart.me/anime/11054",
+            "https://livechart.me/anime/11055",
             "https://myanimelist.net/anime/51412",
             "https://myanimelist.net/anime/51413",
             "https://myanimelist.net/anime/51414"
@@ -3243,32 +3369,6 @@
             "fantasy",
             "shorts",
             "wakate animator ikusei project"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/11056"
-        ],
-        "title": "Kirakira Kirari☆",
-        "type": "ova",
-        "episodes": 1,
-        "status": "upcoming",
-        "picture": "https://u.livechart.me/anime/11056/poster_image/454d6c7822074147f53a0d145b5036ec.webp?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/11056/poster_image/454d6c7822074147f53a0d145b5036ec.webp?style=small&format=jpg",
-        "synonyms": [
-            "キラキラきらり☆"
-        ],
-        "relations": [
-            "https://livechart.me/anime/11053",
-            "https://livechart.me/anime/11054",
-            "https://livechart.me/anime/11055"
-        ],
-        "tags": [
-            "fantasy"
         ],
         "date": {
             "season": "unknown",
@@ -3559,6 +3659,7 @@
         "relations": [],
         "tags": [
             "fantasy",
+            "magic",
             "mahou shoujo",
             "romance"
         ],
@@ -4007,6 +4108,34 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/150506"
+        ],
+        "title": "Ni Tian Jian Shen 5",
+        "type": "ona",
+        "episodes": 26,
+        "status": "ongoing",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150506-iF2QirE6xmsf.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150506-iF2QirE6xmsf.png",
+        "synonyms": [
+            "The Fabulous Sword God 5",
+            "逆天剑神 第五季",
+            "逆天邪神 第5季"
+        ],
+        "relations": [
+            "https://anilist.co/anime/150505"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "fantasy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/50507"
         ],
         "title": "Nintama Rantarou (2022)",
@@ -4189,15 +4318,14 @@
     {
         "sources": [
             "https://anilist.co/anime/148816",
-            "https://myanimelist.net/anime/51647",
             "https://myanimelist.net/anime/51741"
         ],
         "title": "Period Color",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1865/123470.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1865/123470t.jpg",
         "synonyms": [],
         "relations": [
             "https://anilist.co/anime/87495",
@@ -4206,8 +4334,6 @@
             "https://myanimelist.net/anime/45577"
         ],
         "tags": [
-            "idols (male)",
-            "music",
             "video game"
         ],
         "date": {
@@ -4247,7 +4373,7 @@
         ],
         "title": "Qing Chi Hong Xiao Dou Ba! 0.5",
         "type": "ona",
-        "episodes": 5,
+        "episodes": 6,
         "status": "ongoing",
         "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147887-IU1DeeV8ZKhA.jpg",
         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147887-IU1DeeV8ZKhA.jpg",
@@ -4599,6 +4725,37 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/134101",
+            "https://anime-planet.com/anime/shen-lan-qi-yu-wushuang-zhu",
+            "https://myanimelist.net/anime/48965"
+        ],
+        "title": "Shen Lan Qi Yu Wushuang Zhu",
+        "type": "ona",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1717/114930.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1717/114930t.jpg",
+        "synonyms": [
+            "The Land of Miracles",
+            "神澜奇域无双珠"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "based on a web novel",
+            "cg animation",
+            "chinese animation",
+            "fantasy",
+            "full cgi",
+            "wuxia"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/126289",
             "https://anime-planet.com/anime/deep-sea",
             "https://kitsu.io/anime/44755",
@@ -4772,7 +4929,7 @@
         ],
         "title": "Shijian Qiutu 2",
         "type": "ona",
-        "episodes": 3,
+        "episodes": 6,
         "status": "ongoing",
         "picture": "https://cdn.anime-planet.com/anime/primary/shijian-qiutu-2-1.webp?t=1651218404",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/shijian-qiutu-2-1-285x399.webp?t=1651218404",
@@ -4884,7 +5041,7 @@
         "title": "Shishang Zui Qiang Nan Zhujue",
         "type": "ona",
         "episodes": 48,
-        "status": "upcoming",
+        "status": "ongoing",
         "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149810-i3HgdkPeU0em.jpg",
         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx149810-i3HgdkPeU0em.jpg",
         "synonyms": [
@@ -5041,6 +5198,26 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/150430"
+        ],
+        "title": "Tarinai",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150430-JinKcWKBeBWa.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150430-JinKcWKBeBWa.png",
+        "synonyms": [
+            "足りない"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/51347",
             "https://myanimelist.net/anime/51630"
         ],
@@ -5166,7 +5343,7 @@
         "picture": "https://cdn.anime-planet.com/anime/primary/the-man-who-saved-me-on-my-isekai-trip-was-a-killer-pv-1.webp?t=1653841685",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-man-who-saved-me-on-my-isekai-trip-was-a-killer-pv-1-285x399.webp?t=1653841685",
         "synonyms": [
-            "Isekai Torippu-saki de Tasukete Kureta no wa Hitogoroshi no Shounendeshita PV"
+            "Isekai Trip Saki de Tatsukete Kureta no wa Hito〇shi no Shounen deshita. PV"
         ],
         "relations": [],
         "tags": [
@@ -5487,6 +5664,29 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/unison-square-garden-kaleido-proud-fiesta"
+        ],
+        "title": "UNISON SQUARE GARDEN: kaleido proud fiesta",
+        "type": "special",
+        "episodes": 1,
+        "status": "unknown",
+        "picture": "https://cdn.anime-planet.com/anime/primary/unison-square-garden-kaleido-proud-fiesta-1.webp?t=1654222147",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/unison-square-garden-kaleido-proud-fiesta-1-285x399.webp?t=1654222147",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/tiger-and-bunny-2"
+        ],
+        "tags": [
+            "sci fi",
+            "superheroes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/usao-x-camellia-mobius"
         ],
         "title": "USAO x Camellia: Möbius",
@@ -5565,33 +5765,6 @@
             "shorts",
             "space",
             "wakate animator ikusei project"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://notify.moe/anime/dh95MC-nR"
-        ],
-        "title": "Urusei Yatsura (2022)",
-        "type": "tv",
-        "episodes": 0,
-        "status": "unknown",
-        "picture": "https://media.notify.moe/images/anime/large/dh95MC-nR.webp",
-        "thumbnail": "https://media.notify.moe/images/anime/small/dh95MC-nR.webp",
-        "synonyms": [
-            "うる星やつら"
-        ],
-        "relations": [
-            "https://notify.moe/anime/fqYbcKmmR"
-        ],
-        "tags": [
-            "comedy",
-            "romance",
-            "sci-fi",
-            "shounen"
         ],
         "date": {
             "season": "unknown",
@@ -5788,30 +5961,6 @@
             "cg animation",
             "chinese animation",
             "fantasy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/148334",
-            "https://myanimelist.net/anime/51492"
-        ],
-        "title": "Xian mu",
-        "type": "ona",
-        "episodes": 60,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1317/122191.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1317/122191t.jpg",
-        "synonyms": [
-            "Xian Mu",
-            "仙墓"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure"
         ],
         "date": {
             "season": "unknown",
@@ -6069,7 +6218,7 @@
         "title": "Xixing Ji 4",
         "type": "ona",
         "episodes": 12,
-        "status": "upcoming",
+        "status": "ongoing",
         "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137736-2GnwIsUn4y3e.jpg",
         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137736-2GnwIsUn4y3e.jpg",
         "synonyms": [

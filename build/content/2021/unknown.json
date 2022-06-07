@@ -1242,30 +1242,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/131647"
-        ],
-        "title": "Chao Shikong Kuaidi",
-        "type": "ona",
-        "episodes": 12,
-        "status": "unknown",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131647-t7XvwvT5OjVH.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131647-t7XvwvT5OjVH.png",
-        "synonyms": [
-            "Happierspace Express",
-            "超时空快递"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "sci-fi"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/chenmo-zhi-lan"
         ],
         "title": "Chenmo Zhi Lan",
@@ -1280,35 +1256,6 @@
             "action",
             "chinese animation",
             "sci fi"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/134097",
-            "https://anime-planet.com/anime/chi-yan-jinyiwei",
-            "https://myanimelist.net/anime/49432",
-            "https://notify.moe/anime/eAWz8jHng"
-        ],
-        "title": "Chi Yan Jinyiwei",
-        "type": "ona",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1976/116550.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1976/116550t.jpg",
-        "synonyms": [
-            "The Flame Imperial Guards",
-            "赤焰锦衣卫"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "chinese animation",
-            "fantasy",
-            "full cgi"
         ],
         "date": {
             "season": "unknown",
@@ -2046,8 +1993,8 @@
         "type": "special",
         "episodes": 0,
         "status": "ongoing",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1654/116701.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1654/116701t.jpg",
         "synonyms": [],
         "relations": [],
         "tags": [
@@ -2546,14 +2493,15 @@
         "sources": [
             "https://myanimelist.net/anime/49464"
         ],
-        "title": "Fire Emblem Heroes - Fjorm Ga Utau: Koori no Hana",
+        "title": "Fire Emblem Heroes: Fjorm Ga Utau - Koori no Hana",
         "type": "ona",
         "episodes": 1,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1107/116633.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1107/116633t.jpg",
         "synonyms": [
-            "Fire Emblem Heroes - Fjorm Sings \"Flower of Ice\"",
+            "Fire Emblem Heroes: Fjorm Sings \"Flower of Ice\"",
+            "Fire Emblem Heroes: Flower of Ice",
             "ファイアーエムブレム ヒーローズ フィヨルムが歌う「氷の華」"
         ],
         "relations": [],
@@ -2700,6 +2648,7 @@
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/gyaru-talk-1-285x399.webp?t=1649022849",
         "synonyms": [],
         "relations": [
+            "https://anime-planet.com/anime/ko-yo-chojeonbaksal-uiri-gal",
             "https://anime-planet.com/anime/pink-bxxch-club",
             "https://anime-planet.com/anime/psychodelic"
         ],
@@ -2801,6 +2750,7 @@
     {
         "sources": [
             "https://anilist.co/anime/138414",
+            "https://anime-planet.com/anime/division-all-stars-glory-or-dust",
             "https://myanimelist.net/anime/48800",
             "https://myanimelist.net/anime/48827"
         ],
@@ -2811,14 +2761,17 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1214/114562.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1214/114562t.jpg",
         "synonyms": [
+            "Division All Stars: Glory or Dust",
             "Hypnosis Mic -Glory or Dust-",
             "ヒプノシスマイク -Glory or Dust-"
         ],
         "relations": [
             "https://anilist.co/anime/113652",
+            "https://anime-planet.com/anime/hypnosis-mic-division-rap-battle-rhyme-anima",
             "https://myanimelist.net/anime/40803"
         ],
         "tags": [
+            "cg animation",
             "full cgi",
             "music",
             "primarily male cast"
@@ -3302,6 +3255,51 @@
         "relations": [],
         "tags": [
             "vocaloid"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51968"
+        ],
+        "title": "Hong Ying Yi Mai",
+        "type": "ona",
+        "episodes": 5,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1908/124149.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1908/124149t.jpg",
+        "synonyms": [
+            "Hong Ying Yi Mai Zhi Yi Da Wenwu Beihou De Gushi",
+            "红影一脉之一大文物背后的故事"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51964"
+        ],
+        "title": "Hua Guo Shan Chuan",
+        "type": "ona",
+        "episodes": 2,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1255/124145.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1255/124145t.jpg",
+        "synonyms": [
+            "The Legend of Huaguoshan",
+            "花果山传"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "fantasy"
         ],
         "date": {
             "season": "unknown",
@@ -3916,6 +3914,27 @@
         "relations": [],
         "tags": [
             "horror"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/kitchen-wars"
+        ],
+        "title": "KITCHEN WARS",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/kitchen-wars-1.webp?t=1654416530",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kitchen-wars-1-285x400.webp?t=1654416530",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "action",
+            "comedy"
         ],
         "date": {
             "season": "unknown",
@@ -4778,6 +4797,33 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/maeumui-sori-3rd-season"
+        ],
+        "title": "Maeumui Sori 3rd Season",
+        "type": "tv",
+        "episodes": 22,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/maeumui-sori-3rd-season-1.webp?t=1654281329",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/maeumui-sori-3rd-season-1-285x399.webp?t=1654281329",
+        "synonyms": [
+            "The Sound of Your Heart 3rd Season"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/maeumui-sori-2nd-season"
+        ],
+        "tags": [
+            "based on a webtoon",
+            "comedy",
+            "korean animation",
+            "slice of life"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/mafumafu-and-soraru-more"
         ],
         "title": "Mafumafu & Soraru: More",
@@ -5628,6 +5674,31 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/muteki-no-zone-kyoukai-in-the-zone-cm"
+        ],
+        "title": "Muteki no Zone. KYOUKAI in the ZONe CM",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/muteki-no-zone-kyoukai-in-the-zone-cm-1.webp?t=1653945261",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/muteki-no-zone-kyoukai-in-the-zone-cm-1-285x400.webp?t=1653945261",
+        "synonyms": [
+            "Kingdom x ZONE CM"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/kingdom"
+        ],
+        "tags": [
+            "commercials",
+            "promotional"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/nilfruits-x-kankan-babirusa"
         ],
         "title": "NILFRUITS x KANKAN: babirusa",
@@ -5896,6 +5967,93 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/150502"
+        ],
+        "title": "Ni Tian Jian Shen 2",
+        "type": "ona",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150502-Z9ERfRndHRrQ.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150502-Z9ERfRndHRrQ.jpg",
+        "synonyms": [
+            "The Fabulous Sword God 2",
+            "逆天剑神 第二季",
+            "逆天邪神 第2季"
+        ],
+        "relations": [
+            "https://anilist.co/anime/150491",
+            "https://anilist.co/anime/150504"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "fantasy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/150504"
+        ],
+        "title": "Ni Tian Jian Shen 3",
+        "type": "ona",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150504-YbVSd6GN5J7j.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150504-YbVSd6GN5J7j.jpg",
+        "synonyms": [
+            "The Fabulous Sword God 3",
+            "逆天剑神 第三季",
+            "逆天邪神 第3季"
+        ],
+        "relations": [
+            "https://anilist.co/anime/150502",
+            "https://anilist.co/anime/150505"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "fantasy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/150505"
+        ],
+        "title": "Ni Tian Jian Shen 4",
+        "type": "ona",
+        "episodes": 0,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150505-F7aygY06b4XA.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150505-F7aygY06b4XA.jpg",
+        "synonyms": [
+            "The Fabulous Sword God 4",
+            "逆天剑神 第四季",
+            "逆天邪神 第4季"
+        ],
+        "relations": [
+            "https://anilist.co/anime/150504",
+            "https://anilist.co/anime/150506"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "fantasy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/148536"
         ],
         "title": "Nigella",
@@ -5994,7 +6152,7 @@
         ],
         "title": "Nitian Xie Shen 2nd Season",
         "type": "ona",
-        "episodes": 70,
+        "episodes": 71,
         "status": "ongoing",
         "picture": "https://cdn.anime-planet.com/anime/primary/nitian-xie-shen-2nd-season-1.jpg?t=1644183439",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/nitian-xie-shen-2nd-season-1-190x269.jpg?t=1644183439",
@@ -6035,8 +6193,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/nogizaka46-boku-wa-boku-wo-suki-ni-naru-1.jpg?t=1625908800",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/nogizaka46-boku-wa-boku-wo-suki-ni-naru-1-190x266.jpg?t=1625908800",
+        "picture": "https://cdn.anime-planet.com/anime/primary/nogizaka46-boku-wa-boku-wo-suki-ni-naru-1.webp?t=1653756185",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/nogizaka46-boku-wa-boku-wo-suki-ni-naru-1-241x338.webp?t=1653756185",
         "synonyms": [],
         "relations": [],
         "tags": [
@@ -6697,33 +6855,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/qian-wu-gu-ren"
-        ],
-        "title": "Qian Wu Gu Ren",
-        "type": "ona",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/qian-wu-gu-ren-1.jpg?t=1631768280",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/qian-wu-gu-ren-1-285x399.jpg?t=1631768280",
-        "synonyms": [
-            "Without Parallel"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "bl",
-            "chinese animation",
-            "fantasy",
-            "short episodes",
-            "shounen-ai"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/132471",
             "https://anime-planet.com/anime/qiang-huo-tian-ling"
         ],
@@ -7125,23 +7256,30 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/san-zhi-songshu-zhongguo-xing"
+            "https://anime-planet.com/anime/san-zhi-songshu-zhongguo-xing",
+            "https://myanimelist.net/anime/47649"
         ],
         "title": "San Zhi Songshu: Zhongguo Xing",
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/san-zhi-songshu-zhongguo-xing-1.webp?t=1652764122",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/san-zhi-songshu-zhongguo-xing-1-285x400.webp?t=1652764122",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1249/123400.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1249/123400t.jpg",
+        "synonyms": [
+            "三只松鼠之中国行"
+        ],
         "relations": [
-            "https://anime-planet.com/anime/san-zhi-songshu-songshu-xiao-zhen-2"
+            "https://anime-planet.com/anime/san-zhi-songshu-songshu-xiao-zhen-2",
+            "https://myanimelist.net/anime/47648"
         ],
         "tags": [
+            "adventure",
             "animal protagonists",
             "anthropomorphic",
             "chinese animation",
             "family friendly",
+            "fantasy",
+            "kids",
             "non-human protagonists"
         ],
         "date": {
@@ -7385,37 +7523,6 @@
             "cg animation",
             "chinese animation",
             "fantasy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/134101",
-            "https://anime-planet.com/anime/shen-lan-qi-yu-wushuang-zhu",
-            "https://myanimelist.net/anime/48965"
-        ],
-        "title": "Shen Lan Qi Yu Wushuang Zhu",
-        "type": "ona",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1717/114930.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1717/114930t.jpg",
-        "synonyms": [
-            "The Land of Miracles",
-            "神澜奇域无双珠"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "based on a web novel",
-            "cg animation",
-            "chinese animation",
-            "fantasy",
-            "full cgi",
-            "wuxia"
         ],
         "date": {
             "season": "unknown",
@@ -7739,35 +7846,6 @@
         "synonyms": [],
         "relations": [],
         "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/49148"
-        ],
-        "title": "Stippling",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1705/115626.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1705/115626t.jpg",
-        "synonyms": [
-            "Double Face「Stippling」 あんさんぶるスターズ！！ Music ゲームサイズMV",
-            "Ensemble Stars!! idol song season1 Double Face"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/32212",
-            "https://myanimelist.net/anime/40690",
-            "https://myanimelist.net/anime/48524",
-            "https://myanimelist.net/anime/48529",
-            "https://myanimelist.net/anime/49126"
-        ],
-        "tags": [
-            "music"
-        ],
         "date": {
             "season": "unknown",
             "year": 2021
@@ -8889,6 +8967,29 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51963"
+        ],
+        "title": "Xinghuo Chuancheng",
+        "type": "ona",
+        "episodes": 4,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1922/124144.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1922/124144t.jpg",
+        "synonyms": [
+            "星火传承"
+        ],
+        "relations": [],
+        "tags": [
+            "drama",
+            "historical"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/45860"
         ],
         "title": "Xingji Jiazu Zhi Anquan Shaonian Tuan",
@@ -8960,6 +9061,30 @@
             "fantasy",
             "full cgi",
             "romance"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51965"
+        ],
+        "title": "Xue Yu Huo: Xin Zhongguo Shi Zheyang Lian Cheng De",
+        "type": "ona",
+        "episodes": 30,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1405/124146.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1405/124146t.jpg",
+        "synonyms": [
+            "血与火：新中国是这样炼成的"
+        ],
+        "relations": [],
+        "tags": [
+            "drama",
+            "historical",
+            "military"
         ],
         "date": {
             "season": "unknown",

@@ -32,6 +32,7 @@
             "asia",
             "based on a manga",
             "combat",
+            "combat sport",
             "comedy",
             "earth",
             "ecchi",
@@ -401,8 +402,6 @@
             "https://anilist.co/anime/59",
             "https://anime-planet.com/anime/chobits",
             "https://anime-planet.com/anime/chobits-hibiya-and-kotoko-chat",
-            "https://anisearch.com/anime/1526",
-            "https://anisearch.com/anime/4916",
             "https://kitsu.io/anime/40",
             "https://myanimelist.net/anime/59",
             "https://notify.moe/anime/HRvt5FiiR"
@@ -558,9 +557,7 @@
             "Croquette!",
             "コロッケ！"
         ],
-        "relations": [
-            "https://anisearch.com/anime/2063"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "adventure",
@@ -765,7 +762,8 @@
             "school clubs",
             "school life",
             "shounen",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "spring",
@@ -943,6 +941,34 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/49611"
+        ],
+        "title": "Detective Conan: Solve the Mystery of Heatstroke!",
+        "type": "ova",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1761/117190.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1761/117190t.jpg",
+        "synonyms": [
+            "Meitantei Conan: Necchuushou no Nazo wo Toke!",
+            "名探偵コナン 熱中症の謎を解け！"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/235"
+        ],
+        "tags": [
+            "comedy",
+            "detective",
+            "mystery",
+            "shounen"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2003
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/930",
             "https://anilist.co/anime/1683",
             "https://anime-planet.com/anime/di-gi-charat-nyo",
@@ -982,13 +1008,6 @@
             "https://anime-planet.com/anime/di-gi-charat-winter-garden",
             "https://anime-planet.com/anime/leave-it-to-piyoko",
             "https://anime-planet.com/anime/panyo-panyo-di-gi-charat",
-            "https://anisearch.com/anime/1381",
-            "https://anisearch.com/anime/3197",
-            "https://anisearch.com/anime/3272",
-            "https://anisearch.com/anime/3653",
-            "https://anisearch.com/anime/3654",
-            "https://anisearch.com/anime/3655",
-            "https://anisearch.com/anime/3657",
             "https://kitsu.io/anime/268",
             "https://livechart.me/anime/10641",
             "https://livechart.me/anime/6074",
@@ -1954,7 +1973,6 @@
             "https://anilist.co/anime/617",
             "https://anime-planet.com/anime/ninja-scroll",
             "https://anime-planet.com/anime/ninja-scroll-burst",
-            "https://anisearch.com/anime/2096",
             "https://kitsu.io/anime/572",
             "https://myanimelist.net/anime/617",
             "https://notify.moe/anime/rC3o5KiiR"
@@ -2076,8 +2094,6 @@
             "https://anime-planet.com/anime/kaleido-star-its-good-goood",
             "https://anime-planet.com/anime/kaleido-star-legend-of-phoenix-layla-hamilton-story",
             "https://anime-planet.com/anime/kaleido-star-new-wings-extra-stage",
-            "https://anisearch.com/anime/3011",
-            "https://anisearch.com/anime/371",
             "https://kitsu.io/anime/1347",
             "https://kitsu.io/anime/392",
             "https://livechart.me/anime/7400",
@@ -2113,6 +2129,7 @@
             "new",
             "original work",
             "performance",
+            "performing arts",
             "plot continuity",
             "present",
             "shoujo",
@@ -2153,8 +2170,6 @@
             "https://anilist.co/anime/144",
             "https://anime-planet.com/anime/kanon",
             "https://anime-planet.com/anime/kanon-2006",
-            "https://anisearch.com/anime/1043",
-            "https://anisearch.com/anime/1478",
             "https://kitsu.io/anime/7659",
             "https://livechart.me/anime/10537",
             "https://livechart.me/anime/10976",
@@ -2415,7 +2430,8 @@
             "stoic heroine",
             "tanks",
             "the arts",
-            "tragedy"
+            "tragedy",
+            "travel"
         ],
         "date": {
             "season": "spring",
@@ -2494,10 +2510,6 @@
             "https://anime-planet.com/anime/shounen-sunday-cm-zatch-bell",
             "https://anime-planet.com/anime/zatch-bell-movie-1-101st-devil",
             "https://anime-planet.com/anime/zatch-bell-movie-2-attack-of-mechavulcan",
-            "https://anisearch.com/anime/1252",
-            "https://anisearch.com/anime/2818",
-            "https://anisearch.com/anime/8822",
-            "https://anisearch.com/anime/8823",
             "https://kitsu.io/anime/4969",
             "https://kitsu.io/anime/6322",
             "https://kitsu.io/anime/748",
@@ -2527,12 +2539,14 @@
             "fantasy",
             "fighting-shounen",
             "foreign",
+            "friendship",
             "japan",
             "kaiju",
             "magic",
             "male protagonist",
             "manga",
             "memory manipulation",
+            "mythology",
             "non-human protagonists",
             "nun",
             "person in a strange world",
@@ -2608,9 +2622,7 @@
             "L/R: Licensed by Royalty – Sweet Enemies in the Same Desert",
             "Licensed by Royalty Special"
         ],
-        "relations": [
-            "https://anisearch.com/anime/3463"
-        ],
+        "relations": [],
         "tags": [],
         "date": {
             "season": "spring",
@@ -2738,7 +2750,6 @@
         "tags": [
             "action",
             "action comedy",
-            "asia",
             "comedy",
             "contemporary fantasy",
             "crude",
@@ -2752,6 +2763,7 @@
             "large breasts",
             "magic",
             "magical girl",
+            "mahou shoujo",
             "new",
             "nudity",
             "original work",
@@ -2760,7 +2772,8 @@
             "sci-fi",
             "science-fiction",
             "seinen",
-            "slice of life"
+            "slapstick",
+            "stereotypes"
         ],
         "date": {
             "season": "spring",
@@ -3166,7 +3179,6 @@
         ],
         "relations": [
             "https://anidb.net/anime/7417",
-            "https://anisearch.com/anime/6788",
             "https://myanimelist.net/anime/50972"
         ],
         "tags": [
@@ -3211,7 +3223,8 @@
         "synonyms": [
             "House of 100 Tongues",
             "The Offering of the Shrike",
-            "百舌鳥の贄"
+            "百舌鳥の贄",
+            "百舌鳥ノ贄"
         ],
         "relations": [],
         "tags": [
@@ -3413,27 +3426,6 @@
         ],
         "relations": [
             "https://anilist.co/anime/20",
-            "https://anisearch.com/anime/10223",
-            "https://anisearch.com/anime/12103",
-            "https://anisearch.com/anime/12678",
-            "https://anisearch.com/anime/2788",
-            "https://anisearch.com/anime/2988",
-            "https://anisearch.com/anime/3574",
-            "https://anisearch.com/anime/3647",
-            "https://anisearch.com/anime/3972",
-            "https://anisearch.com/anime/4096",
-            "https://anisearch.com/anime/4098",
-            "https://anisearch.com/anime/4272",
-            "https://anisearch.com/anime/4816",
-            "https://anisearch.com/anime/5279",
-            "https://anisearch.com/anime/5853",
-            "https://anisearch.com/anime/604",
-            "https://anisearch.com/anime/6206",
-            "https://anisearch.com/anime/6730",
-            "https://anisearch.com/anime/7002",
-            "https://anisearch.com/anime/7479",
-            "https://anisearch.com/anime/7646",
-            "https://anisearch.com/anime/9794",
             "https://kitsu.io/anime/11",
             "https://livechart.me/anime/316",
             "https://livechart.me/anime/3585",
@@ -3746,6 +3738,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1396/103207t.jpg",
         "synonyms": [
             "PARASITE DOLLS [パラサイトドールズ]",
+            "Parasite Dolls: La serie",
             "Ляльки-паразити",
             "Хищные куклы",
             "パラサイトドールズ"
@@ -3798,7 +3791,6 @@
             "science fiction",
             "science-fiction",
             "sex",
-            "special squads",
             "tokyo",
             "tragedy",
             "violence"
@@ -4579,9 +4571,6 @@
             "https://anime-planet.com/anime/angel-tales",
             "https://anime-planet.com/anime/angel-tales-omake",
             "https://anime-planet.com/anime/angel-tales-specials",
-            "https://anisearch.com/anime/10693",
-            "https://anisearch.com/anime/15833",
-            "https://anisearch.com/anime/1595",
             "https://kitsu.io/anime/623",
             "https://kitsu.io/anime/8810",
             "https://livechart.me/anime/6058",
@@ -4936,7 +4925,6 @@
             "特別授業２"
         ],
         "relations": [
-            "https://anisearch.com/anime/3027",
             "https://myanimelist.net/anime/21363",
             "https://myanimelist.net/anime/2379"
         ],

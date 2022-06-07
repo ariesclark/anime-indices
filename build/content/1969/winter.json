@@ -145,10 +145,6 @@
             "https://anime-planet.com/anime/himitsu-no-akko-chan-3",
             "https://anime-planet.com/anime/himitsu-no-akko-chan-movie",
             "https://anime-planet.com/anime/himitsu-no-akko-chan-umi-da-obake-da-natsu-matsuri",
-            "https://anisearch.com/anime/1031",
-            "https://anisearch.com/anime/2749",
-            "https://anisearch.com/anime/2910",
-            "https://anisearch.com/anime/294",
             "https://kitsu.io/anime/3290",
             "https://kitsu.io/anime/3291",
             "https://myanimelist.net/anime/3838",
@@ -212,35 +208,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/kaibutsu-kun-movie",
-            "https://myanimelist.net/anime/33234"
-        ],
-        "title": "Kaibutsu-kun: Suna Majin wo Yattsukero no Maki / Kaibutsu-kun to Haniwa Kaishin no Maki",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/2/79851.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/2/79851t.jpg",
-        "synonyms": [
-            "Kaibutsu-kun Movie",
-            "怪物くん 「砂魔人をやっつけろの巻／怪物くんとハニワ怪神の巻」"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/kaibutsu-kun",
-            "https://myanimelist.net/anime/3129"
-        ],
-        "tags": [
-            "black and white",
-            "comedy",
-            "horror"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 1969
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/5481",
             "https://anilist.co/anime/8899",
             "https://anime-planet.com/anime/kaitei-shounen-marine",
@@ -268,8 +235,6 @@
             "https://anilist.co/anime/8897",
             "https://anime-planet.com/anime/dolphin-ouji",
             "https://anime-planet.com/anime/ganbare-marine-kid",
-            "https://anisearch.com/anime/1493",
-            "https://anisearch.com/anime/4261",
             "https://kitsu.io/anime/5524",
             "https://myanimelist.net/anime/8897",
             "https://notify.moe/anime/dZSWpKmmg"
@@ -304,7 +269,7 @@
             "https://notify.moe/anime/S4SftFimg"
         ],
         "title": "Kaitei Toshi no Dekiru made",
-        "type": "movie",
+        "type": "special",
         "episodes": 1,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/3/56793.jpg",
@@ -487,6 +452,7 @@
         "tags": [
             "action",
             "action comedy",
+            "adult cast",
             "based on a manga",
             "comedy",
             "crime",

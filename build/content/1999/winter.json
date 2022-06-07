@@ -313,7 +313,6 @@
             "https://anidb.net/anime/12143",
             "https://anidb.net/anime/4087",
             "https://anilist.co/anime/130560",
-            "https://anisearch.com/anime/12012",
             "https://kitsu.io/anime/11646",
             "https://kitsu.io/anime/11647",
             "https://myanimelist.net/anime/32269",
@@ -520,7 +519,6 @@
         "relations": [
             "https://anidb.net/anime/8562",
             "https://anime-planet.com/anime/chiisana-kyojin-microman-daigekisen-microman-vs-saikyou-senshi-gorgon",
-            "https://anisearch.com/anime/7245",
             "https://kitsu.io/anime/9228",
             "https://myanimelist.net/anime/24269",
             "https://notify.moe/anime/cZs-pFmmR"
@@ -577,7 +575,6 @@
             "https://anidb.net/anime/4667",
             "https://anilist.co/anime/3689",
             "https://anime-planet.com/anime/hatsumei-boy-kanipan",
-            "https://anisearch.com/anime/7068",
             "https://kitsu.io/anime/3196",
             "https://myanimelist.net/anime/3689",
             "https://notify.moe/anime/HKvlcKmmg"
@@ -1325,6 +1322,7 @@
         "tags": [
             "alternative world",
             "comedy",
+            "gag humor",
             "manga",
             "robots & androids",
             "sci-fi",
@@ -1978,6 +1976,7 @@
             "nudity",
             "pantsu",
             "panty shots",
+            "plot continuity",
             "present",
             "romance",
             "school",
@@ -2341,7 +2340,6 @@
             "school",
             "shoujo",
             "supernatural",
-            "thievery",
             "thieves",
             "time manipulation",
             "urban fantasy"
@@ -2709,9 +2707,7 @@
             "The Soul of the Best Guy in Japan",
             "日本一の男の魂"
         ],
-        "relations": [
-            "https://anisearch.com/anime/3759"
-        ],
+        "relations": [],
         "tags": [
             "comedy",
             "ecchi",
@@ -2865,12 +2861,6 @@
             "https://anime-planet.com/anime/ojamajo-doremi-owarai-gekijou",
             "https://anime-planet.com/anime/ojamajo-doremi-sharp",
             "https://anime-planet.com/anime/ojamajo-doremi-sharp-movie",
-            "https://anisearch.com/anime/1106",
-            "https://anisearch.com/anime/1302",
-            "https://anisearch.com/anime/2790",
-            "https://anisearch.com/anime/3340",
-            "https://anisearch.com/anime/3496",
-            "https://anisearch.com/anime/892",
             "https://kitsu.io/anime/318",
             "https://kitsu.io/anime/42537",
             "https://livechart.me/anime/5450",
@@ -2921,6 +2911,35 @@
             "stereotypes",
             "witch",
             "witches"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 1999
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/41612"
+        ],
+        "title": "Oshougatsuda yo! Pokemon Special!",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1045/106871.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1045/106871t.jpg",
+        "synonyms": [
+            "It's the New Year! Pocket Monsters Special!",
+            "お正月だよ！ポケットモンスタースペシャル！"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/527"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "comedy",
+            "fantasy",
+            "kids"
         ],
         "date": {
             "season": "winter",
@@ -3036,6 +3055,7 @@
             "action",
             "adventure",
             "cops",
+            "detective",
             "korean animation",
             "mecha",
             "original work",
@@ -3090,8 +3110,8 @@
         "type": "ova",
         "episodes": 4,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1899/94562.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1899/94562t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1391/120839.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1391/120839t.jpg",
         "synonyms": [
             "Kenshin Le Vagabond: Le Chapitre de la Mémoire",
             "Kenshin OAV",
@@ -3108,6 +3128,7 @@
             "RuroKen OVA 1",
             "Rurouni Kenshin - Tsuiokuhen OVA",
             "Rurouni Kenshin Trust and Betrayal",
+            "Rurouni Kenshin Tsuiokuhen",
             "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku Hen",
             "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuiokuhen",
             "Rurouni Kenshin: Recollection Arc",
@@ -3131,6 +3152,7 @@
             "ซามูไรพเนจร ภาคกำเนิดเคนชิน",
             "るろうに剣心 -明治剣客浪漫譚- 追憶編",
             "るろうに剣心―明治剣客浪漫譚―追憶編",
+            "浪客剑心 追忆篇",
             "바람의 검심 추억편"
         ],
         "relations": [
@@ -3451,8 +3473,6 @@
             "臭作"
         ],
         "relations": [
-            "https://anisearch.com/anime/556",
-            "https://anisearch.com/anime/804",
             "https://myanimelist.net/anime/2375",
             "https://myanimelist.net/anime/2377",
             "https://myanimelist.net/anime/2378",
@@ -4185,6 +4205,7 @@
     {
         "sources": [
             "https://anidb.net/anime/14896",
+            "https://anime-planet.com/anime/xiao-bei-liulang-ji",
             "https://myanimelist.net/anime/43961"
         ],
         "title": "Xiao Bei Liulang Ji",
@@ -4200,6 +4221,8 @@
         "relations": [],
         "tags": [
             "adventure",
+            "chinese animation",
+            "family friendly",
             "kids"
         ],
         "date": {
@@ -4321,21 +4344,6 @@
             "https://anidb.net/anime/593",
             "https://anilist.co/anime/550",
             "https://anime-planet.com/anime/yu-gi-oh",
-            "https://anisearch.com/anime/10086",
-            "https://anisearch.com/anime/10482",
-            "https://anisearch.com/anime/12209",
-            "https://anisearch.com/anime/1310",
-            "https://anisearch.com/anime/14866",
-            "https://anisearch.com/anime/220",
-            "https://anisearch.com/anime/2618",
-            "https://anisearch.com/anime/4740",
-            "https://anisearch.com/anime/482",
-            "https://anisearch.com/anime/5576",
-            "https://anisearch.com/anime/6825",
-            "https://anisearch.com/anime/8038",
-            "https://anisearch.com/anime/9402",
-            "https://anisearch.com/anime/9616",
-            "https://anisearch.com/anime/9659",
             "https://kitsu.io/anime/507",
             "https://kitsu.io/anime/7921",
             "https://livechart.me/anime/1009",
@@ -4381,7 +4389,8 @@
             "proxy battles",
             "school",
             "science fiction",
-            "shounen"
+            "shounen",
+            "strategy game"
         ],
         "date": {
             "season": "winter",
