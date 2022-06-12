@@ -177,32 +177,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/a-sisters-all-you-need-specials"
-        ],
-        "title": "A Sister's All You Need Specials",
-        "type": "special",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/a-sisters-all-you-need-specials-1.jpg?t=1625898092",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/a-sisters-all-you-need-specials-1-190x266.jpg?t=1625898092",
-        "synonyms": [
-            "Imouto sae Ireba Ii. Specials"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/a-sisters-all-you-need",
-            "https://anime-planet.com/anime/a-sisters-all-you-need-web"
-        ],
-        "tags": [
-            "chibi",
-            "comedy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/a4-microcosm"
         ],
         "title": "A4 Microcosm",
@@ -471,26 +445,6 @@
             "chinese animation",
             "shorts"
         ],
-        "date": {
-            "season": "unknown",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/116567"
-        ],
-        "title": "Alphabed In",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116567-J8yCa51OaXNt.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116567-J8yCa51OaXNt.jpg",
-        "synonyms": [
-            "アルファベッド イン"
-        ],
-        "relations": [],
-        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2018
@@ -3655,30 +3609,6 @@
             "chinese animation",
             "drama",
             "shorts"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/jujutsu-kaisen-2018"
-        ],
-        "title": "Jujutsu Kaisen (2018)",
-        "type": "ona",
-        "episodes": 3,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/jujutsu-kaisen-2018-1.webp?t=1639348198",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/jujutsu-kaisen-2018-1-285x399.webp?t=1639348198",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/jujutsu-kaisen"
-        ],
-        "tags": [
-            "based on a manga",
-            "promotional",
-            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -8467,26 +8397,7 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/14671"
-        ],
-        "title": "Xiagu Zhong An Zu 3rd Season",
-        "type": "ona",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "峡谷重案组 第三季"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
+            "https://anidb.net/anime/14671",
             "https://anilist.co/anime/116995"
         ],
         "title": "Xiagu Zhong An Zu 3rd Season",
@@ -8497,7 +8408,8 @@
         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116995-kZxFTPYxkLXh.jpg",
         "synonyms": [
             "Canyon Squad 3",
-            "峡谷重案组 第3季"
+            "峡谷重案组 第3季",
+            "峡谷重案组 第三季"
         ],
         "relations": [
             "https://anilist.co/anime/109152",
@@ -9054,29 +8966,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/yorushika-kumo-to-yuurei"
-        ],
-        "title": "Yorushika: Kumo to Yuurei",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/yorushika-kumo-to-yuurei-1.jpg?t=1625908128",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/yorushika-kumo-to-yuurei-1-190x266.jpg?t=1625908128",
-        "synonyms": [
-            "Yorushika: The Clouds and the Ghost"
-        ],
-        "relations": [],
-        "tags": [
-            "ghosts",
-            "supernatural"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/youko-takahashi-the-cruel-angels-thesis"
         ],
         "title": "Youko Takahashi: The Cruel Angel's Thesis",
@@ -9321,6 +9210,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/116567",
             "https://anime-planet.com/anime/flue-alphabed-in"
         ],
         "title": "flue: Alphabed in",
@@ -9329,7 +9219,10 @@
         "status": "finished",
         "picture": "https://cdn.anime-planet.com/anime/primary/flue-alphabed-in-1.jpg?t=1625909007",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/flue-alphabed-in-1-190x266.jpg?t=1625909007",
-        "synonyms": [],
+        "synonyms": [
+            "Alphabed In",
+            "アルファベッド イン"
+        ],
         "relations": [],
         "tags": [
             "romance"

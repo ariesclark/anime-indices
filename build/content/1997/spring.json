@@ -1392,45 +1392,12 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/10471",
             "https://anime-planet.com/anime/ie-naki-ko-remi-specials",
-            "https://notify.moe/anime/00WVpKmiR"
-        ],
-        "title": "Ie Naki Ko Remi Specials",
-        "type": "special",
-        "episodes": 3,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/ie-naki-ko-remi-specials-1.jpg?t=1625896956",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/ie-naki-ko-remi-specials-1-190x266.jpg?t=1625896956",
-        "synonyms": [
-            "Homeless Child Remi",
-            "Ie Naki Ko Rémi Specials",
-            "Ienaki Ko Remy Specials",
-            "Nobody's Girl",
-            "Remi",
-            "いえなきこれみ",
-            "家なき子レミ"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/ie-naki-ko-remi",
-            "https://anime-planet.com/anime/ie-naki-ko-remi-2001",
-            "https://notify.moe/anime/A_IU5FimR"
-        ],
-        "tags": [
-            "19th century",
-            "adventure",
-            "drama",
-            "historical"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 1997
-        }
-    },
-    {
-        "sources": [
             "https://kitsu.io/anime/6198",
             "https://livechart.me/anime/8051",
-            "https://myanimelist.net/anime/10471"
+            "https://myanimelist.net/anime/10471",
+            "https://notify.moe/anime/00WVpKmiR"
         ],
         "title": "Ie Naki Ko Remy Specials",
         "type": "special",
@@ -1440,20 +1407,32 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/12/28750t.jpg",
         "synonyms": [
             "Homeless Child Remi",
+            "Ie Naki Ko Remi (OVA)",
+            "Ie Naki Ko Remi Specials",
             "Ie Naki Ko Rémi Specials",
             "Ienaki Ko Remy Specials",
             "Nobody's Girl",
             "Remi",
-            "家なき子レミ"
+            "いえなきこれみ",
+            "家なき子レミ",
+            "家なき子レミ (OVA)"
         ],
         "relations": [
+            "https://anilist.co/anime/2829",
+            "https://anime-planet.com/anime/ie-naki-ko-remi",
+            "https://anime-planet.com/anime/ie-naki-ko-remi-2001",
             "https://kitsu.io/anime/2583",
             "https://livechart.me/anime/6005",
-            "https://myanimelist.net/anime/2829"
+            "https://myanimelist.net/anime/2829",
+            "https://notify.moe/anime/A_IU5FimR"
         ],
         "tags": [
+            "19th century",
             "adventure",
-            "drama"
+            "animals",
+            "drama",
+            "female protagonist",
+            "historical"
         ],
         "date": {
             "season": "spring",

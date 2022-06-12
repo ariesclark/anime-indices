@@ -113,32 +113,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/19945"
-        ],
-        "title": "3D Nyanko-sensei Gekijou",
-        "type": "special",
-        "episodes": 5,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19945-KYItt7B6iAPz.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19945-KYItt7B6iAPz.jpg",
-        "synonyms": [
-            "3Ｄニャンコ先生劇場"
-        ],
-        "relations": [
-            "https://anilist.co/anime/5300"
-        ],
-        "tags": [
-            "comedy",
-            "full cgi",
-            "youkai"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/8036",
             "https://anisearch.com/anime/6561"
         ],
@@ -9473,6 +9447,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/19945",
             "https://anime-planet.com/anime/zoku-natsume-yuujinchou-3d-nyanko-sensei-gekijou",
             "https://anisearch.com/anime/13123",
             "https://kitsu.io/anime/8228",
@@ -9487,12 +9462,15 @@
         "picture": "https://cdn.myanimelist.net/images/anime/9/53183.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/9/53183t.jpg",
         "synonyms": [
+            "3D Nyanko-sensei Gekijou",
+            "3Ｄニャンコ先生劇場",
             "Natsume's Book of Friends Season 2: 3D Nyanko-sensei Gekijou",
             "Zoku Natsume Yūjinchō: 3D Nyanko-sensei Gekijō",
             "続 夏目友人帳 3Dニャンコ先生劇場",
             "続 夏目友人帳 3Ｄニャンコ先生劇場"
         ],
         "relations": [
+            "https://anilist.co/anime/5300",
             "https://anime-planet.com/anime/natsume-yuujinchou-itsuka-yuki-no-hi-ni",
             "https://anime-planet.com/anime/natsumes-book-of-friends",
             "https://anime-planet.com/anime/natsumes-book-of-friends-movie-ephemeral-bond",
@@ -9512,6 +9490,7 @@
             "cg-anime",
             "comedy",
             "countryside",
+            "full cgi",
             "japanese mythology",
             "shoujo",
             "slapstick",

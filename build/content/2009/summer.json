@@ -403,33 +403,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/42179"
-        ],
-        "title": "Akujiki Musume Conchita",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42179/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42179/tiny.jpg",
-        "synonyms": [
-            "Evil Food Eater Conchita",
-            "mothy: Akujiki Musume Conchita",
-            "mothy: Evil Food Eater Conchita"
-        ],
-        "relations": [],
-        "tags": [
-            "horror",
-            "music",
-            "psychological",
-            "the arts"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/13076",
             "https://anilist.co/anime/104097",
             "https://anime-planet.com/anime/ame-no-bus-stop-hen",
@@ -8311,6 +8284,37 @@
             "teacher",
             "teaching",
             "verbal comedy"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/mothy-akujiki-musume-conchita",
+            "https://kitsu.io/anime/42179"
+        ],
+        "title": "mothy: Akujiki Musume Conchita",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/mothy-akujiki-musume-conchita-1.jpg?t=1625898917",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/mothy-akujiki-musume-conchita-1-190x266.jpg?t=1625898917",
+        "synonyms": [
+            "Akujiki Musume Conchita",
+            "Evil Food Eater Conchita",
+            "mothy: Evil Food Eater Conchita"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/mothy-nanatsu-no-tsumi-to-batsu"
+        ],
+        "tags": [
+            "horror",
+            "music",
+            "psychological",
+            "the arts",
+            "vocaloid"
         ],
         "date": {
             "season": "summer",

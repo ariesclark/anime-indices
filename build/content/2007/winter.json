@@ -3789,9 +3789,12 @@
     {
         "sources": [
             "https://anime-planet.com/anime/kimi-to-no-tadashii-yakusoku",
+            "https://kitsu.io/anime/12987",
             "https://kitsu.io/anime/12995",
             "https://myanimelist.net/anime/34694",
-            "https://notify.moe/anime/_AQZhFmiR"
+            "https://myanimelist.net/anime/34695",
+            "https://notify.moe/anime/_AQZhFmiR",
+            "https://notify.moe/anime/sBUWhFiig"
         ],
         "title": "Kimi to no Tadashii Yakusoku",
         "type": "special",
@@ -3800,46 +3803,15 @@
         "picture": "https://cdn.myanimelist.net/images/anime/7/83670.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/7/83670t.jpg",
         "synonyms": [
-            "キミとの正しい約束"
+            "Kimi to no Tadashii Yakusoku (2007)",
+            "キミとの正しい約束",
+            "君との正しい約束"
         ],
-        "relations": [
-            "https://kitsu.io/anime/12987",
-            "https://myanimelist.net/anime/34695",
-            "https://notify.moe/anime/sBUWhFiig"
-        ],
+        "relations": [],
         "tags": [
             "baseball",
             "flash animation",
             "school life",
-            "sports",
-            "team sports"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2007
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/12987",
-            "https://myanimelist.net/anime/34695",
-            "https://notify.moe/anime/sBUWhFiig"
-        ],
-        "title": "Kimi to no Tadashii Yakusoku (2007)",
-        "type": "special",
-        "episodes": 3,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/11/83671.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/11/83671t.jpg",
-        "synonyms": [
-            "君との正しい約束"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/12995",
-            "https://myanimelist.net/anime/34694",
-            "https://notify.moe/anime/_AQZhFmiR"
-        ],
-        "tags": [
             "sports",
             "team sports"
         ],

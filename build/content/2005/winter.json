@@ -3546,8 +3546,12 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/5842",
+            "https://anime-planet.com/anime/kotatsu-neko-web",
             "https://anisearch.com/anime/5934",
-            "https://myanimelist.net/anime/5842"
+            "https://kitsu.io/anime/4300",
+            "https://myanimelist.net/anime/5842",
+            "https://notify.moe/anime/plRq5Kiig"
         ],
         "title": "Kotatsu Neko",
         "type": "ona",
@@ -3557,43 +3561,25 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/3/12255t.jpg",
         "synonyms": [
             "Kotatsu Cat",
+            "Kotatsu Neko (ONA)",
+            "Kotatsu Neko (Web)",
             "Kotatsuneko",
             "コタツネコ"
         ],
         "relations": [],
         "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "cats",
             "comedy",
             "independent anime",
-            "nonsense-comedy",
-            "slapstick"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2005
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/5842",
-            "https://kitsu.io/anime/4300",
-            "https://notify.moe/anime/plRq5Kiig"
-        ],
-        "title": "Kotatsu Neko (ONA)",
-        "type": "ona",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/4300/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/4300/tiny.jpg",
-        "synonyms": [
-            "Kotatsu Cat",
-            "Kotatsuneko",
-            "コタツネコ"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
             "no dialogue",
+            "non-human protagonists",
+            "nonsense-comedy",
             "puppetry",
+            "short episodes",
+            "slapstick",
+            "slice of life",
             "stop motion"
         ],
         "date": {

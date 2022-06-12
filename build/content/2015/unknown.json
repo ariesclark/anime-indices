@@ -30,24 +30,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/111942"
-        ],
-        "title": "1year",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111942-7558eq51lZUl.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111942-7558eq51lZUl.jpg",
-        "synonyms": [],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/3-little-pigs-and-the-magic-lamp"
         ],
         "title": "3 Little Pigs and the Magic Lamp",
@@ -179,51 +161,6 @@
             "family friendly",
             "kids",
             "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/aimer-kimi-wo-matsu"
-        ],
-        "title": "Aimer: Kimi wo Matsu",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/aimer-kimi-wo-matsu-1.jpg?t=1625908487",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/aimer-kimi-wo-matsu-1-190x266.jpg?t=1625908487",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "drama"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/136614"
-        ],
-        "title": "Aishite, Aishite, Aishite",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136614-CJl6EjKrPHwo.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136614-CJl6EjKrPHwo.png",
-        "synonyms": [
-            "AISITE AISITE AISITE",
-            "Love Me, Love Me, Love Me",
-            "愛して愛して愛して"
-        ],
-        "relations": [],
-        "tags": [
-            "psychological",
-            "yandere"
         ],
         "date": {
             "season": "unknown",
@@ -2693,36 +2630,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/112468",
-            "https://anime-planet.com/anime/kotowaza-gundam-san"
-        ],
-        "title": "Kotowaza Gundam-san",
-        "type": "special",
-        "episodes": 17,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "synonyms": [
-            "ことわざガンダムさん"
-        ],
-        "relations": [
-            "https://anilist.co/anime/20756",
-            "https://anime-planet.com/anime/mobile-suit-gundam-san"
-        ],
-        "tags": [
-            "chibi",
-            "comedy",
-            "mecha",
-            "parody",
-            "sci fi"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/kuaile-tuo-mo-ta-chengyu-da-cidian",
             "https://myanimelist.net/anime/45521"
         ],
@@ -4633,6 +4540,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/111942",
             "https://anime-planet.com/anime/pinocchio-p-1year"
         ],
         "title": "Pinocchio-P: 1year",
@@ -4641,7 +4549,9 @@
         "status": "finished",
         "picture": "https://cdn.anime-planet.com/anime/primary/pinocchio-p-1year-1.jpg?t=1625898668",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/pinocchio-p-1year-1-190x267.jpg?t=1625898668",
-        "synonyms": [],
+        "synonyms": [
+            "1year"
+        ],
         "relations": [],
         "tags": [
             "vocaloid"
@@ -6292,30 +6202,6 @@
         "tags": [
             "chinese animation",
             "stop motion animation"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/the-color-eater"
-        ],
-        "title": "The Color Eater",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/the-color-eater-1.jpg?t=1625908179",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-color-eater-1-190x266.jpg?t=1625908179",
-        "synonyms": [
-            "Iro wo Kuu Akuma"
-        ],
-        "relations": [],
-        "tags": [
-            "abstract",
-            "commercials",
-            "promotional"
         ],
         "date": {
             "season": "unknown",

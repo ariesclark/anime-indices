@@ -287,24 +287,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/139024"
-        ],
-        "title": "Afraid To Be Cool",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139024-JuTyGVHPhnim.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139024-JuTyGVHPhnim.jpg",
-        "synonyms": [],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/akari-nanawo-and-neru-happy-ni-naritai"
         ],
         "title": "Akari Nanawo & Neru: Happy ni Naritai",
@@ -455,37 +437,6 @@
             "action comedy",
             "beastmen",
             "comedy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/117569",
-            "https://anime-planet.com/anime/ankeeto"
-        ],
-        "title": "Ankeeto",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/ankeeto-1.jpg?t=1625909021",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/ankeeto-1-190x266.jpg?t=1625909021",
-        "synonyms": [
-            "Anketo",
-            "Enquête",
-            "Questionnaire",
-            "The Question",
-            "アンケート"
-        ],
-        "relations": [],
-        "tags": [
-            "psychological",
-            "shorts",
-            "slice of life",
-            "stop motion",
-            "stop motion animation"
         ],
         "date": {
             "season": "unknown",
@@ -3069,28 +3020,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/kawaijuku-manavis-cm-boku-ni-wa-boku-no-michi-ga-aru"
-        ],
-        "title": "Kawaijuku Manavis CM: Boku ni wa Boku no Michi ga Aru",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/kawaijuku-manavis-cm-boku-ni-wa-boku-no-michi-ga-aru-1.jpg?t=1625908342",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kawaijuku-manavis-cm-boku-ni-wa-boku-no-michi-ga-aru-1-190x266.jpg?t=1625908342",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "bears",
-            "family friendly",
-            "promotional"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/kazuyoshi-saito-muddy-water"
         ],
         "title": "Kazuyoshi Saito: Muddy Water",
@@ -3639,6 +3568,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/139024",
             "https://anime-planet.com/anime/miyavi-afraid-to-be-cool"
         ],
         "title": "MIYAVI: Afraid To Be Cool",
@@ -3647,7 +3577,9 @@
         "status": "finished",
         "picture": "https://cdn.anime-planet.com/anime/primary/miyavi-afraid-to-be-cool-1.jpg?t=1625908204",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/miyavi-afraid-to-be-cool-1-190x266.jpg?t=1625908204",
-        "synonyms": [],
+        "synonyms": [
+            "Afraid To Be Cool"
+        ],
         "relations": [
             "https://anime-planet.com/anime/miyavi-raise-me-up-teaser-video"
         ],

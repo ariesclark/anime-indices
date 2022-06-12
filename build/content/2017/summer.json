@@ -6451,7 +6451,10 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/98851",
+            "https://anime-planet.com/anime/kabukibu-special",
             "https://kitsu.io/anime/40756",
+            "https://livechart.me/anime/2670",
             "https://myanimelist.net/anime/35416",
             "https://notify.moe/anime/HoevhFimR"
         ],
@@ -6463,45 +6466,21 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/9/85493t.jpg",
         "synonyms": [
             "Kabuki-bu!: Oogiri Chiyokoreito Kassen",
-            "カブキブ！ 大喜利「ちよこれいと合戦」"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/33840"
-        ],
-        "tags": [
-            "performing arts",
-            "school"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/98851",
-            "https://anime-planet.com/anime/kabukibu-special",
-            "https://livechart.me/anime/2670"
-        ],
-        "title": "Kabukibu! Special",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/kabukibu-special-1.jpg?t=1625897711",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kabukibu-special-1-190x268.jpg?t=1625897711",
-        "synonyms": [
+            "Kabukibu! Special",
             "Kabukibu!: Oogiri - Chiyokoreito Kassen",
             "カブキブ！ 大喜利「ちよこれいと合戦」"
         ],
         "relations": [
             "https://anilist.co/anime/87500",
             "https://anime-planet.com/anime/kabukibu",
-            "https://livechart.me/anime/2282"
+            "https://livechart.me/anime/2282",
+            "https://myanimelist.net/anime/33840"
         ],
         "tags": [
             "acting",
             "based on a light novel",
             "comedy",
+            "performing arts",
             "school",
             "school club",
             "valentine's day"
@@ -7013,6 +6992,7 @@
     {
         "sources": [
             "https://anilist.co/anime/104930",
+            "https://anime-planet.com/anime/kimi-no-iru-basho",
             "https://kitsu.io/anime/41810",
             "https://myanimelist.net/anime/37541"
         ],
@@ -7029,7 +7009,9 @@
         ],
         "relations": [],
         "tags": [
+            "illness",
             "music",
+            "sci fi",
             "sci-fi"
         ],
         "date": {

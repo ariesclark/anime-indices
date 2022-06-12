@@ -861,7 +861,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/129838",
             "https://anisearch.com/anime/11761"
         ],
         "title": "Asagimadara no Yume",
@@ -872,18 +871,13 @@
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11761.webp",
         "synonyms": [
             "A Butterfly’s Dream",
-            "Kyoto Gakuen Daigaku",
             "Kyoto Gakuen Daigaku 2015 TV CM",
             "Kyoto Gakuen University 2015 TV CM",
             "アサギマダラの夢",
-            "京都学園大学",
             "京都学園大学 2015年度テレビCM"
         ],
         "relations": [],
-        "tags": [
-            "full cgi",
-            "slice of life"
-        ],
+        "tags": [],
         "date": {
             "season": "fall",
             "year": 2015
@@ -6362,33 +6356,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/21589"
-        ],
-        "title": "Kindaichi Shounen no Jikenbo R: Akechi Keibu no Jikenbo",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21589-7NuBuwFGu1A9.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21589-7NuBuwFGu1A9.jpg",
-        "synonyms": [
-            "Kindaichi Shounen no Jikenbo Returns: Akechi Keibu no Jikenbo",
-            "The File of Young Kindaichi Returns: Akechi Keibu no Jikenbo",
-            "金田一少年の事件簿Ｒ: 明智警部の事件簿"
-        ],
-        "relations": [
-            "https://anilist.co/anime/21286"
-        ],
-        "tags": [
-            "mystery",
-            "shounen"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/11367",
             "https://anilist.co/anime/21286",
             "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-returns-2015",
@@ -6468,6 +6435,9 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/21589",
+            "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-returns-akechi--keibu-no-jikenbo",
+            "https://anisearch.com/anime/11117",
             "https://kitsu.io/anime/11680",
             "https://myanimelist.net/anime/32376",
             "https://notify.moe/anime/NR4qtFimR"
@@ -6480,50 +6450,31 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/9/77703t.jpg",
         "synonyms": [
             "Kindaichi Case Files Returns: The File of Inspector Akechi",
+            "Kindaichi Shounen no Jikenbo R: Akechi Keibu no Jikenbo",
             "Kindaichi Shounen no Jikenbo Returns 2: Akechi Keibu no Jikenbo",
-            "金田一少年の事件簿R 明智警部の事件簿"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/11211",
-            "https://myanimelist.net/anime/31227",
-            "https://notify.moe/anime/mjrXtFmmR"
-        ],
-        "tags": [
-            "mystery",
-            "shounen"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-returns-akechi--keibu-no-jikenbo",
-            "https://anisearch.com/anime/11117"
-        ],
-        "title": "Kindaichi Shounen no Jikenbo Returns: Akechi Keibu no Jikenbo",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/kindaichi-shounen-no-jikenbo-returns-akechi--keibu-no-jikenbo-1.jpg?t=1625897310",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kindaichi-shounen-no-jikenbo-returns-akechi--keibu-no-jikenbo-1-190x268.jpg?t=1625897310",
-        "synonyms": [
             "Kindaichi Shounen no Jikenbo Returns Especial: Los casos de Akechi",
+            "Kindaichi Shounen no Jikenbo Returns: Akechi Keibu no Jikenbo",
             "Kindaichi Shounen no Jikenbo Returns: Akechi-keibu no Jikenbo",
             "Kindaichi Shōnen no Jikenbo Returns: Akechi-keibu no Jikenbo",
             "The File of Young Kindaichi Returns Special: The File of Inspector Akechi",
+            "The File of Young Kindaichi Returns: Akechi Keibu no Jikenbo",
             "The File of Young Kindaichi Returns: The File of Inspector Akechi",
-            "金田一少年の事件簿R[リターンズ] 明智警部の事件簿"
+            "金田一少年の事件簿R 明智警部の事件簿",
+            "金田一少年の事件簿R[リターンズ] 明智警部の事件簿",
+            "金田一少年の事件簿Ｒ: 明智警部の事件簿"
         ],
         "relations": [
+            "https://anilist.co/anime/21286",
             "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo",
             "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-2007",
             "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-kuromajutsu-satsujin-jiken-hen",
             "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-movie-1-operazakan-aratanaru-satsujin",
             "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-movie-2-satsuriku-no-deep-blue",
             "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-returns",
-            "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-returns-2015"
+            "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-returns-2015",
+            "https://kitsu.io/anime/11211",
+            "https://myanimelist.net/anime/31227",
+            "https://notify.moe/anime/mjrXtFmmR"
         ],
         "tags": [
             "based on a manga",
@@ -6825,6 +6776,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kuusou-suizokukan",
             "https://kitsu.io/anime/40870",
             "https://myanimelist.net/anime/36233",
             "https://notify.moe/anime/HFtdhFmmR"
@@ -6840,7 +6792,9 @@
         ],
         "relations": [],
         "tags": [
-            "kids"
+            "family friendly",
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "fall",
@@ -11765,6 +11719,8 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/14313",
+            "https://anime-planet.com/anime/shi-wan-ge-leng-xiaohua-3rd-season",
             "https://kitsu.io/anime/12414",
             "https://myanimelist.net/anime/33196",
             "https://notify.moe/anime/IjFz2Kiig"
@@ -11777,40 +11733,27 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/13/79767t.jpg",
         "synonyms": [
             "One Hundred Thousand Bad Jokes 3",
+            "One Hundred Thousand Bad Jokes 3rd Season",
+            "One Hundred Thousand Bad Jokes Season 3",
+            "Shi Wan Ge Leng Xiaohua 3rd Season",
+            "Shi Wan Ge Leng Xiaohua Di San Ji",
+            "十万个冷笑话 第三季",
             "十万个冷笑话第3季"
         ],
         "relations": [
+            "https://anidb.net/anime/14312",
+            "https://anime-planet.com/anime/shi-wan-ge-leng-xiaohua-2nd-season",
             "https://kitsu.io/anime/12413",
             "https://myanimelist.net/anime/33194",
             "https://notify.moe/anime/bwKz2Fmig"
         ],
         "tags": [
+            "based on a manga",
+            "chinese animation",
             "comedy",
-            "parody"
+            "parody",
+            "short episodes"
         ],
-        "date": {
-            "season": "fall",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/14313"
-        ],
-        "title": "Shi Wan Ge Leng Xiaohua Di San Ji",
-        "type": "ona",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/222707.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/222707.jpg-thumb.jpg",
-        "synonyms": [
-            "One Hundred Thousand Bad Jokes Season 3",
-            "十万个冷笑话 第三季"
-        ],
-        "relations": [
-            "https://anidb.net/anime/14312"
-        ],
-        "tags": [],
         "date": {
             "season": "fall",
             "year": 2015

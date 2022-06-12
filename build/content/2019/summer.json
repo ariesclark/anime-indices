@@ -4836,6 +4836,7 @@
     {
         "sources": [
             "https://anilist.co/anime/118037",
+            "https://anime-planet.com/anime/ruann-i-am-standing",
             "https://kitsu.io/anime/44873",
             "https://myanimelist.net/anime/49259"
         ],
@@ -4845,9 +4846,12 @@
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1744/115956.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1744/115956t.jpg",
-        "synonyms": [],
+        "synonyms": [
+            "RUANN: I AM STANDING"
+        ],
         "relations": [
             "https://anilist.co/anime/98478",
+            "https://anime-planet.com/anime/march-comes-in-like-a-lion-2nd-season",
             "https://kitsu.io/anime/13401",
             "https://myanimelist.net/anime/35180"
         ],
@@ -5036,6 +5040,7 @@
     {
         "sources": [
             "https://anilist.co/anime/138993",
+            "https://anime-planet.com/anime/japan-media-arts-festival-2019-introduction-animation",
             "https://kitsu.io/anime/45502",
             "https://myanimelist.net/anime/42845"
         ],
@@ -5046,12 +5051,16 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1010/115142.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1010/115142t.jpg",
         "synonyms": [
+            "Japan Media Arts Festival 2019 Introduction Animation",
             "Japan Media Arts Festival: JMAF23th Movie"
         ],
         "relations": [],
         "tags": [
+            "abstract",
             "full cgi",
-            "music"
+            "music",
+            "no dialogue",
+            "promotional"
         ],
         "date": {
             "season": "summer",
@@ -8128,6 +8137,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/15211",
             "https://anilist.co/anime/110787",
             "https://anime-planet.com/anime/22-7-nani-mo-shite-agerarenai",
             "https://anisearch.com/anime/14807",
@@ -8146,9 +8156,11 @@
             "22/7: Nani mo Shite Agerarenai",
             "I Can Not Do Anything For You",
             "Nanabun no Nijuuni",
+            "Nanimo Shite Agerarenai",
             "何もしてあげられない"
         ],
         "relations": [
+            "https://anidb.net/anime/13299",
             "https://anilist.co/anime/104611",
             "https://anilist.co/anime/121888",
             "https://anilist.co/anime/99807",
@@ -8170,28 +8182,6 @@
             "music",
             "present"
         ],
-        "date": {
-            "season": "summer",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/15211"
-        ],
-        "title": "Nanimo Shite Agerarenai",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/239938.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/239938.jpg-thumb.jpg",
-        "synonyms": [
-            "何もしてあげられない"
-        ],
-        "relations": [
-            "https://anidb.net/anime/13299"
-        ],
-        "tags": [],
         "date": {
             "season": "summer",
             "year": 2019

@@ -677,22 +677,30 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/117569",
+            "https://anime-planet.com/anime/ankeeto",
             "https://kitsu.io/anime/45257"
         ],
-        "title": "Anketo",
+        "title": "Ankeeto",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45257/poster_image/small-dcbc3f77ec4b24f5f43b3560be80fd7d.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45257/poster_image/tiny-beed7441962358f55471b2ef44ab73f3.jpeg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/ankeeto-1.jpg?t=1625909021",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/ankeeto-1-190x266.jpg?t=1625909021",
         "synonyms": [
+            "Anketo",
+            "Enquête",
+            "Questionnaire",
             "The Question",
             "アンケート"
         ],
         "relations": [],
         "tags": [
             "psychological",
-            "slice of life"
+            "shorts",
+            "slice of life",
+            "stop motion",
+            "stop motion animation"
         ],
         "date": {
             "season": "winter",

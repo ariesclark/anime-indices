@@ -5663,6 +5663,7 @@
     {
         "sources": [
             "https://anilist.co/anime/136854",
+            "https://anime-planet.com/anime/people-in-the-box-kaitai-shita-inu-no-blues",
             "https://kitsu.io/anime/43668",
             "https://myanimelist.net/anime/43293"
         ],
@@ -5673,10 +5674,12 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1444/109662.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1444/109662t.jpg",
         "synonyms": [
+            "People In The Box: Kaitai Shita Inu no Blues",
             "懐胎した犬のブルース"
         ],
         "relations": [],
         "tags": [
+            "abstract",
             "avant garde",
             "dementia",
             "music"
@@ -6140,6 +6143,7 @@
     {
         "sources": [
             "https://anilist.co/anime/113308",
+            "https://anime-planet.com/anime/hungry-days-x-bump-of-chicken-kinen-satsuei",
             "https://anisearch.com/anime/15205",
             "https://myanimelist.net/anime/41539"
         ],
@@ -6156,6 +6160,7 @@
             "HUNGRY DAYS × BUMP OF CHICKEN 「記念撮影」MV",
             "Hungry Day x Bump of Chicken - Kinen Satsuei",
             "Hungry Day × Bump of Chicken - Kinen Satsuei",
+            "Hungry Days x Bump of Chicken: Kinen Satsuei",
             "Hungry Days: One Piece",
             "Kinen Satsuei",
             "One Piece x BUMP OF CHICKEN",
@@ -6163,17 +6168,25 @@
         ],
         "relations": [
             "https://anilist.co/anime/101099",
-            "https://anilist.co/anime/21"
+            "https://anilist.co/anime/21",
+            "https://anime-planet.com/anime/hungry-days-x-one-piece",
+            "https://anime-planet.com/anime/one-piece"
         ],
         "tags": [
             "advertisement",
+            "based on a manga",
             "coming of age",
+            "commercials",
             "drama",
             "ensemble cast",
+            "food and beverage",
             "music",
             "no dialogue",
+            "parody",
             "photography",
-            "school"
+            "promotional",
+            "school",
+            "school life"
         ],
         "date": {
             "season": "fall",
@@ -6347,7 +6360,9 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16153",
             "https://anilist.co/anime/131763",
+            "https://anime-planet.com/anime/zutomayo-konna-koto-soudou",
             "https://myanimelist.net/anime/41628",
             "https://myanimelist.net/anime/50038"
         ],
@@ -6359,12 +6374,16 @@
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
             "Konnakoto Soudou",
-            "こんなこと騒動"
+            "Zutomayo: Konna koto Soudou",
+            "Zutto Mayonaka de Iinoni.: Konnakoto Soudou",
+            "こんなこと騒動",
+            "ずっと真夜中でいいのに。『こんなこと騒動』"
         ],
         "relations": [
             "https://anilist.co/anime/131755"
         ],
         "tags": [
+            "fantasy",
             "music",
             "psychological",
             "supernatural"
@@ -6932,6 +6951,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/126832",
             "https://anime-planet.com/anime/ling-long-incarnation-zhong-zhang",
             "https://kitsu.io/anime/43616",
             "https://myanimelist.net/anime/42985"
@@ -6944,12 +6964,17 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1422/109518t.jpg",
         "synonyms": [
             "Ling Cage",
+            "Ling Cage: Middle Chapter",
             "Ling Long Episode 6.5",
+            "Ling Long Middle Chapter",
             "Ling Long: Incarnation Zhong Zhang",
             "Spirit Cage: Incarnation Middle Chapter",
-            "灵笼:INCARNATION 中章"
+            "灵笼:INCARNATION 中章",
+            "灵笼·中章"
         ],
         "relations": [
+            "https://anilist.co/anime/110459",
+            "https://anilist.co/anime/120300",
             "https://anime-planet.com/anime/ling-long-incarnation",
             "https://anime-planet.com/anime/ling-long-incarnation-part-ii",
             "https://kitsu.io/anime/42431",
@@ -6963,9 +6988,18 @@
             "chinese animation",
             "demon",
             "drama",
+            "dystopian",
+            "full cgi",
+            "guns",
             "horror",
+            "lost civilization",
+            "male protagonist",
+            "mecha",
+            "mystery",
             "mythology",
             "original work",
+            "politics",
+            "post-apocalyptic",
             "sci fi",
             "sci-fi",
             "science fiction",
@@ -14148,28 +14182,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16372"
-        ],
-        "title": "Zhen Hun Jie: Bei Luo Shi Men Pian 2021",
-        "type": "ona",
-        "episodes": 10,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/255000.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/255000.jpg-thumb.jpg",
-        "synonyms": [
-            "镇魂街 北落师门篇 2021"
-        ],
-        "relations": [
-            "https://anidb.net/anime/15940"
-        ],
-        "tags": [],
-        "date": {
-            "season": "fall",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/15940",
             "https://anilist.co/anime/114561",
             "https://anime-planet.com/anime/rakshasa-street-2nd-season",
@@ -14370,26 +14382,6 @@
         "thumbnail": "https://cdn.anidb.net/images/main/258629.jpg-thumb.jpg",
         "synonyms": [
             "ずっと真夜中でいいのに。『Dear. Mr「F」』"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "fall",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16153"
-        ],
-        "title": "Zutto Mayonaka de Iinoni.: Konnakoto Soudou",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/258628.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/258628.jpg-thumb.jpg",
-        "synonyms": [
-            "ずっと真夜中でいいのに。『こんなこと騒動』"
         ],
         "relations": [],
         "tags": [],

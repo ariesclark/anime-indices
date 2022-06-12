@@ -6391,6 +6391,9 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/115925",
+            "https://anime-planet.com/anime/kakushigoto-pv",
+            "https://anisearch.com/anime/11712",
             "https://kitsu.io/anime/12978",
             "https://myanimelist.net/anime/33455",
             "https://notify.moe/anime/ubyWhFmiR"
@@ -6402,40 +6405,17 @@
         "picture": "https://cdn.myanimelist.net/images/anime/2/83525.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/2/83525t.jpg",
         "synonyms": [
-            "かくしごと"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/42722",
-            "https://myanimelist.net/anime/40716",
-            "https://notify.moe/anime/EuV32AUWg"
-        ],
-        "tags": [
-            "comedy"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/115925",
-            "https://anime-planet.com/anime/kakushigoto-pv",
-            "https://anisearch.com/anime/11712"
-        ],
-        "title": "Kakushigoto PV",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/kakushigoto-pv-1.jpg?t=1625908693",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kakushigoto-pv-1-190x266.jpg?t=1625908693",
-        "synonyms": [
+            "Kakushigoto PV",
+            "かくしごと",
             "かくしごと PV",
             "かくしごとPV"
         ],
         "relations": [
             "https://anilist.co/anime/113311",
-            "https://anime-planet.com/anime/kakushigoto"
+            "https://anime-planet.com/anime/kakushigoto",
+            "https://kitsu.io/anime/42722",
+            "https://myanimelist.net/anime/40716",
+            "https://notify.moe/anime/EuV32AUWg"
         ],
         "tags": [
             "advertisement",
@@ -6492,6 +6472,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kawaijuku-manavis-cm-boku-ni-wa-boku-no-michi-ga-aru",
             "https://kitsu.io/anime/13019",
             "https://myanimelist.net/anime/34708",
             "https://notify.moe/anime/rArWhFmmg"
@@ -6503,10 +6484,14 @@
         "picture": "https://cdn.myanimelist.net/images/anime/7/83684.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/7/83684t.jpg",
         "synonyms": [
+            "Kawaijuku Manavis CM: Boku ni wa Boku no Michi ga Aru",
             "河合塾マナビスCM"
         ],
         "relations": [],
         "tags": [
+            "bears",
+            "family friendly",
+            "promotional",
             "slice of life"
         ],
         "date": {

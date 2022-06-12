@@ -5225,6 +5225,7 @@
     {
         "sources": [
             "https://anime-planet.com/anime/idol-fantasy",
+            "https://anisearch.com/anime/15263",
             "https://kitsu.io/anime/42690",
             "https://myanimelist.net/anime/38471"
         ],
@@ -5236,39 +5237,18 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1026/95307t.jpg",
         "synonyms": [
             "I-Fan",
-            "IDOL FANTASY"
+            "IDOL FANTASY",
+            "アイドル ファンタジー"
         ],
         "relations": [],
         "tags": [
             "based on a video game",
+            "idol",
             "idols",
             "idols (male)",
             "music",
             "promotional",
             "strategy game"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/15263"
-        ],
-        "title": "Idol Fantasy",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15263.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15263.webp",
-        "synonyms": [
-            "アイドル ファンタジー"
-        ],
-        "relations": [],
-        "tags": [
-            "idol",
-            "music"
         ],
         "date": {
             "season": "summer",
@@ -7073,6 +7053,7 @@
     {
         "sources": [
             "https://anilist.co/anime/116325",
+            "https://anime-planet.com/anime/yorushika-kumo-to-yuurei",
             "https://kitsu.io/anime/43452",
             "https://myanimelist.net/anime/41179"
         ],
@@ -7084,12 +7065,16 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1021/105707t.jpg",
         "synonyms": [
             "The Clouds and the Ghost",
+            "Yorushika: Kumo to Yuurei",
+            "Yorushika: The Clouds and the Ghost",
             "雲と幽霊"
         ],
         "relations": [],
         "tags": [
+            "ghosts",
             "music",
             "slice of life",
+            "supernatural",
             "tragedy"
         ],
         "date": {

@@ -14151,39 +14151,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16581"
-        ],
-        "title": "Xing Chen Bian (2022)",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/264553.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/264553.jpg-thumb.jpg",
-        "synonyms": [
-            "Stellar Transformation Season 4",
-            "Xing Chen Bian Season 4",
-            "星辰变 (2022)",
-            "星辰变 第四季"
-        ],
-        "relations": [
-            "https://anidb.net/anime/16578"
-        ],
-        "tags": [
-            "action",
-            "anthropomorphism",
-            "demon",
-            "fantasy",
-            "martial arts",
-            "novel",
-            "romance"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/137745",
             "https://anime-planet.com/anime/xing-hai-qishi-part-iii",
             "https://kitsu.io/anime/45735"
@@ -14250,6 +14217,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16581",
             "https://anilist.co/anime/137738",
             "https://anime-planet.com/anime/xingchen-bian-4th-season",
             "https://anisearch.com/anime/17105",
@@ -14268,15 +14236,21 @@
             "Legend of Immortals 4th Season",
             "Stellar Transformation 4nd Season",
             "Stellar Transformation 4th Season",
+            "Stellar Transformation Season 4",
             "Stellar Transformations 4",
+            "Xing Chen Bian (2022)",
             "Xing Chen Bian 4nd Season",
+            "Xing Chen Bian Season 4",
             "Xing Chen Bian: Po Tian Mi Ju",
             "Xingchen Bian 4",
             "Xingchen Bian 4th Season",
+            "星辰变 (2022)",
             "星辰变 破天迷局",
-            "星辰变 第4季"
+            "星辰变 第4季",
+            "星辰变 第四季"
         ],
         "relations": [
+            "https://anidb.net/anime/16578",
             "https://anilist.co/anime/122652",
             "https://anime-planet.com/anime/xingchen-bian-3rd-season",
             "https://myanimelist.net/anime/49386",
@@ -14285,11 +14259,13 @@
         "tags": [
             "action",
             "adventure",
+            "anthropomorphism",
             "based on a web novel",
             "cg animation",
             "cg-anime",
             "chinese animation",
             "cultivation",
+            "demon",
             "demons",
             "dragons",
             "fantasy",
@@ -14298,6 +14274,7 @@
             "male protagonist",
             "martial arts",
             "monster",
+            "novel",
             "revenge",
             "romance",
             "swordplay",

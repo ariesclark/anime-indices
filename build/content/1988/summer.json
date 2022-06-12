@@ -1230,6 +1230,10 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/3955",
+            "https://anilist.co/anime/8896",
+            "https://anime-planet.com/anime/natsufuku-no-shoujotachi",
+            "https://anisearch.com/anime/1187",
             "https://kitsu.io/anime/5523",
             "https://myanimelist.net/anime/8896",
             "https://notify.moe/anime/MeVWtFimR"
@@ -1241,14 +1245,26 @@
         "picture": "https://cdn.myanimelist.net/images/anime/3/24680.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/3/24680t.jpg",
         "synonyms": [
+            "Dziewczęta w letnich sukienkach",
+            "Dívky v letních šatech",
+            "Girls in Summer Clothes",
             "Girls in Summer Dresses",
+            "Natsufuku No Shoujotachi",
             "Natsufuku no Shoujo-tachi: Hiroshima",
             "Natsufuku no Shoujo-tachi: Hiroshima, Shouwa 20-nen 8-gatsu 6-ka",
+            "Natsufuku no Shoujo-tachi: Hiroshima, Shouwa 20-nen 8-gatsu Muika",
+            "Natsufuku no Shoujotachi",
+            "Natsufuku no Shōjotachi",
             "Shouwa 20-nen 8-gatsu 6-ka",
-            "夏服の少女たち"
+            "Shouwa Nijuunen Hachigatsu Muika",
+            "夏服の少女たち",
+            "夏服の少女たち ~ヒロシマ・昭和20年8月6日~"
         ],
-        "relations": [],
+        "relations": [
+            "https://anilist.co/anime/7967"
+        ],
         "tags": [
+            "all-girls school",
             "angst",
             "anti war",
             "disaster",
@@ -1256,77 +1272,12 @@
             "historical",
             "horror",
             "japan",
-            "past",
-            "war",
-            "world war ii"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 1988
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/3955"
-        ],
-        "title": "Natsufuku no Shoujo-tachi: Hiroshima, Shouwa 20-nen 8-gatsu Muika",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/5490.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/5490.jpg-thumb.jpg",
-        "synonyms": [
-            "Dziewczęta w letnich sukienkach",
-            "Dívky v letních šatech",
-            "Girls in Summer Clothes",
-            "Natsufuku no Shoujo-tachi: Hiroshima",
-            "Natsufuku no Shoujotachi",
-            "Shouwa Nijuunen Hachigatsu Muika",
-            "夏服の少女たち ~ヒロシマ・昭和20年8月6日~"
-        ],
-        "relations": [],
-        "tags": [
-            "angst",
-            "historical",
-            "horror",
             "mina",
+            "past",
             "tragedy",
-            "world war ii"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 1988
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/8896",
-            "https://anime-planet.com/anime/natsufuku-no-shoujotachi",
-            "https://anisearch.com/anime/1187"
-        ],
-        "title": "Natsufuku no Shoujotachi",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/natsufuku-no-shoujotachi-1.jpg?t=1625897225",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/natsufuku-no-shoujotachi-1-190x274.jpg?t=1625897225",
-        "synonyms": [
-            "Girls in Summer Clothes",
-            "Girls in Summer Dresses",
-            "Natsufuku No Shoujotachi",
-            "Natsufuku no Shoujo-tachi",
-            "Natsufuku no Shōjotachi",
-            "夏服の少女たち"
-        ],
-        "relations": [
-            "https://anilist.co/anime/7967"
-        ],
-        "tags": [
-            "all-girls school",
-            "drama",
-            "historical",
             "war",
             "world war 2",
+            "world war ii",
             "world wars"
         ],
         "date": {

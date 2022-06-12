@@ -469,78 +469,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/45781"
-        ],
-        "title": "Akareta Asobi, Wasureru Manako",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45781/poster_image/small-83967c6706e890c8e4e3f74f7293f510.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45781/poster_image/tiny-5d125cfb8831dec76fe21ee5c4c4f1df.jpeg",
-        "synonyms": [
-            "Open Play, Forgetting Eye",
-            "開かれた遊び、忘れる眼"
-        ],
-        "relations": [],
-        "tags": [
-            "psychological"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/42299"
-        ],
-        "title": "Akatsuki Arrival",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42299/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42299/tiny.jpg",
-        "synonyms": [
-            "Last Note: Akatsuki Arrival",
-            "アカツキアライヴァル"
-        ],
-        "relations": [],
-        "tags": [
-            "music",
-            "the arts"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/42261"
-        ],
-        "title": "Akutoku no Judgment",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42261/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42261/tiny.jpg",
-        "synonyms": [
-            "Judgment of Corruption",
-            "mothy: Akutoku no Judgment",
-            "mothy: Judgment of Corruption",
-            "悪徳のジャッジメント"
-        ],
-        "relations": [],
-        "tags": [
-            "music"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
             "https://kitsu.io/anime/45646"
         ],
         "title": "Alone",
@@ -5475,6 +5403,32 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/last-note-akatsuki-arrival",
+            "https://kitsu.io/anime/42299"
+        ],
+        "title": "Last Note: Akatsuki Arrival",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/last-note-akatsuki-arrival-1.jpg?t=1625898800",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/last-note-akatsuki-arrival-1-190x266.jpg?t=1625898800",
+        "synonyms": [
+            "Akatsuki Arrival",
+            "アカツキアライヴァル"
+        ],
+        "relations": [],
+        "tags": [
+            "music",
+            "the arts",
+            "vocaloid"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/113261",
             "https://kitsu.io/anime/45294"
         ],
@@ -7724,6 +7678,35 @@
             "slice of life",
             "slice of life drama",
             "the arts"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/118047",
+            "https://anime-planet.com/anime/open-play-forgetting-eye",
+            "https://kitsu.io/anime/45781"
+        ],
+        "title": "Open Play, Forgetting Eye",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/open-play-forgetting-eye-1.jpg?t=1625908725",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/open-play-forgetting-eye-1-190x266.jpg?t=1625908725",
+        "synonyms": [
+            "Akareta Asobi, Wasureru Manako",
+            "Hirakareta Asobi, Wasureru Me",
+            "開かれた遊び、忘れる眼"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "no dialogue",
+            "psychological",
+            "shorts"
         ],
         "date": {
             "season": "winter",
@@ -12411,6 +12394,35 @@
         "relations": [],
         "tags": [
             "psychological"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/mothy-akutoku-no-judgment",
+            "https://kitsu.io/anime/42261"
+        ],
+        "title": "mothy: Akutoku no Judgment",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/mothy-akutoku-no-judgment-1.jpg?t=1625898919",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/mothy-akutoku-no-judgment-1-190x266.jpg?t=1625898919",
+        "synonyms": [
+            "Akutoku no Judgment",
+            "Judgment of Corruption",
+            "mothy: Judgment of Corruption",
+            "悪徳のジャッジメント"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/mothy-nanatsu-no-tsumi-to-batsu"
+        ],
+        "tags": [
+            "music",
+            "vocaloid"
         ],
         "date": {
             "season": "winter",

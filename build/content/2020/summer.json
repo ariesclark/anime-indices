@@ -4249,6 +4249,7 @@
     {
         "sources": [
             "https://anilist.co/anime/125330",
+            "https://anime-planet.com/anime/people-1-jouyatou",
             "https://kitsu.io/anime/45527",
             "https://myanimelist.net/anime/50040"
         ],
@@ -4261,10 +4262,12 @@
         "synonyms": [
             "Joyato",
             "Night Light",
+            "PEOPLE 1: Jouyatou",
             "常夜燈"
         ],
         "relations": [],
         "tags": [
+            "dancing",
             "music",
             "rotoscoping"
         ],
@@ -6820,68 +6823,10 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/15698"
-        ],
-        "title": "Muteki-kyuu Believer",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/251559.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/251559.jpg-thumb.jpg",
-        "synonyms": [
-            "Muteki-kyuu Believer & Mirai Harmony",
-            "無敵級*ビリーバー",
-            "無敵級*ビリーバー & 未来ハーモニー"
-        ],
-        "relations": [
-            "https://anidb.net/anime/15313"
-        ],
-        "tags": [
-            "idol",
-            "music",
-            "the arts"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
+            "https://anidb.net/anime/15698",
             "https://anilist.co/anime/122979",
-            "https://anisearch.com/anime/15333"
-        ],
-        "title": "Muteki-kyuu*Believer",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15333.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15333.webp",
-        "synonyms": [
-            "Invincible Believer",
-            "Invincible*Believer",
-            "Muteki-kyū*Believer",
-            "無敵級*ビリーバー"
-        ],
-        "relations": [
-            "https://anilist.co/anime/113970",
-            "https://anilist.co/anime/123155"
-        ],
-        "tags": [
-            "band",
-            "idol",
-            "music",
-            "present",
-            "slice of life"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/muteki-kyuubeliever-mirai-harmony",
+            "https://anisearch.com/anime/15333",
             "https://myanimelist.net/anime/42889"
         ],
         "title": "Muteki-kyuu*Believer / Mirai Harmony",
@@ -6891,17 +6836,33 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1325/110517.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1325/110517t.jpg",
         "synonyms": [
+            "Invincible Believer",
+            "Invincible*Believer",
+            "Muteki-kyuu Believer",
+            "Muteki-kyuu Believer & Mirai Harmony",
+            "Muteki-kyuu*Believer",
+            "Muteki-kyū*Believer",
+            "無敵級*ビリーバー",
+            "無敵級*ビリーバー & 未来ハーモニー",
             "無敵級*ビリーバー / 未来ハーモニー"
         ],
         "relations": [
+            "https://anidb.net/anime/15313",
+            "https://anilist.co/anime/113970",
+            "https://anilist.co/anime/123155",
             "https://anime-planet.com/anime/love-live-nijigasaki-high-school-idol-club",
             "https://myanimelist.net/anime/40879"
         ],
         "tags": [
+            "band",
             "dancing",
+            "idol",
             "idols",
             "idols (female)",
-            "music"
+            "music",
+            "present",
+            "slice of life",
+            "the arts"
         ],
         "date": {
             "season": "summer",

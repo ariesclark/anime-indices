@@ -5200,6 +5200,8 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16144",
+            "https://anilist.co/anime/126706",
             "https://anime-planet.com/anime/zutomayo-kangurei",
             "https://anisearch.com/anime/17398",
             "https://myanimelist.net/anime/44084"
@@ -5211,14 +5213,20 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1946/113743.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1946/113743t.jpg",
         "synonyms": [
+            "Kangurei",
             "Zutomayo - Hunch Gray",
             "Zutomayo: Hunch Gray",
             "Zutomayo: Kangurei",
             "Zutto Mayonaka de Ii no ni. - Hunch Gray",
+            "Zutto Mayonaka de Iinoni.: Hunch Gray",
+            "Zutto Mayonaka de Iinoni.: Kangure i",
             "ずっと真夜中でいいのに。- 勘ぐれい",
+            "ずっと真夜中でいいのに。『勘ぐれい』",
             "勘ぐれい"
         ],
-        "relations": [],
+        "relations": [
+            "https://anilist.co/anime/131755"
+        ],
         "tags": [
             "action",
             "childhood friends",
@@ -5499,6 +5507,7 @@
     {
         "sources": [
             "https://anilist.co/anime/126641",
+            "https://anime-planet.com/anime/snails-house-imaginary-express",
             "https://kitsu.io/anime/45484",
             "https://myanimelist.net/anime/51005"
         ],
@@ -5509,6 +5518,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1638/120906.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1638/120906t.jpg",
         "synonyms": [
+            "Snail's House: Imaginary Express",
             "Snail’s House: Imaginary Express"
         ],
         "relations": [
@@ -14684,27 +14694,6 @@
             "present",
             "war"
         ],
-        "date": {
-            "season": "fall",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16144"
-        ],
-        "title": "Zutto Mayonaka de Iinoni.: Kangure i",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/258616.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/258616.jpg-thumb.jpg",
-        "synonyms": [
-            "Zutto Mayonaka de Iinoni.: Hunch Gray",
-            "ずっと真夜中でいいのに。『勘ぐれい』"
-        ],
-        "relations": [],
-        "tags": [],
         "date": {
             "season": "fall",
             "year": 2020

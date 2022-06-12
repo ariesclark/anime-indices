@@ -3995,68 +3995,7 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/8180"
-        ],
-        "title": "Koi Suru Tenshi Angelique: Chibi Character Adventure 2",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8180.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8180.jpg",
-        "synonyms": [
-            "Angelique Chibi Omake 2",
-            "Loving Angel Angelique Chibi Adventure Special 2",
-            "恋する天使アンジェリーク ちびキャラAdventure 2"
-        ],
-        "relations": [
-            "https://anilist.co/anime/1864"
-        ],
-        "tags": [
-            "adventure",
-            "chibi",
-            "comedy",
-            "shoujo"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2007
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/7333",
-            "https://anime-planet.com/anime/koi-suru-tenshi-angelique-kagayaki-no-ashita-special"
-        ],
-        "title": "Koi Suru Tenshi Angelique: Kagayaki no Ashita Special",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "synonyms": [
-            "Koi Suru Tenshi Angelique: Kagayaki no Ashita OVA",
-            "Loving Angel Angelique: Radiant Tomorrow Special",
-            "恋する天使アンジェリーク ～かがやきの明日～ OVA"
-        ],
-        "relations": [
-            "https://anilist.co/anime/1864",
-            "https://anime-planet.com/anime/koi-suru-tenshi-angelique-kagayaki-no-ashita"
-        ],
-        "tags": [
-            "based on a visual novel",
-            "based on an otome game",
-            "fantasy",
-            "male harem",
-            "romance",
-            "shoujo"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2007
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/8180",
             "https://kitsu.io/anime/5229",
             "https://myanimelist.net/anime/8180",
             "https://notify.moe/anime/CG6kpKimg"
@@ -4070,17 +4009,21 @@
         "synonyms": [
             "Angelique Chibi Omake 2",
             "Koi Suru Tenshi Angelique",
+            "Koi Suru Tenshi Angelique: Chibi Character Adventure 2",
             "Loving Angel Angelique Chibi Adventure Special 2",
             "恋する天使アンジェリーク ちびキャラAdventure 2"
         ],
         "relations": [
+            "https://anilist.co/anime/1864",
             "https://kitsu.io/anime/1681",
             "https://myanimelist.net/anime/1864",
             "https://notify.moe/anime/9uQBcKimg"
         ],
         "tags": [
             "adventure",
-            "comedy"
+            "chibi",
+            "comedy",
+            "shoujo"
         ],
         "date": {
             "season": "spring",
@@ -4114,6 +4057,8 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/7333",
+            "https://anime-planet.com/anime/koi-suru-tenshi-angelique-kagayaki-no-ashita-special",
             "https://kitsu.io/anime/4943",
             "https://myanimelist.net/anime/7333",
             "https://notify.moe/anime/lZQgtFimg"
@@ -4127,17 +4072,24 @@
         "synonyms": [
             "Koi Suru Tenshi Angelique",
             "Koi Suru Tenshi Angelique: Kagayaki no Ashita OVA",
+            "Koi Suru Tenshi Angelique: Kagayaki no Ashita Special",
             "Loving Angel Angelique: Radiant Tomorrow Special",
             "恋する天使アンジェリーク ～かがやきの明日～ OVA"
         ],
         "relations": [
+            "https://anilist.co/anime/1864",
+            "https://anime-planet.com/anime/koi-suru-tenshi-angelique-kagayaki-no-ashita",
             "https://kitsu.io/anime/1681",
             "https://myanimelist.net/anime/1864",
             "https://notify.moe/anime/9uQBcKimg"
         ],
         "tags": [
+            "based on a visual novel",
+            "based on an otome game",
             "fantasy",
-            "romance"
+            "male harem",
+            "romance",
+            "shoujo"
         ],
         "date": {
             "season": "spring",
