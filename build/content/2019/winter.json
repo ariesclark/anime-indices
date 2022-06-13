@@ -7392,6 +7392,7 @@
     {
         "sources": [
             "https://anidb.net/anime/16150",
+            "https://anilist.co/anime/139326",
             "https://anisearch.com/anime/14161",
             "https://myanimelist.net/anime/41625"
         ],
@@ -7403,6 +7404,8 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1778/106915t.jpg",
         "synonyms": [
             "Mabushī DNA dake",
+            "Mubashii DNA dake",
+            "Only Radiant DNA",
             "Zutomayo - Mabushii DNA dake",
             "Zutto Mayonaka de Iinoni. - Mabushii DNA dake",
             "Zutto Mayonaka de Iinoni.: Mabushii DNA dake",
@@ -7410,7 +7413,9 @@
             "ずっと真夜中でいいのに。『眩しいDNAだけ』",
             "眩しいDNAだけ"
         ],
-        "relations": [],
+        "relations": [
+            "https://anilist.co/anime/131755"
+        ],
         "tags": [
             "indefinite",
             "independent anime",
@@ -8562,7 +8567,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/139326",
             "https://myanimelist.net/anime/50006"
         ],
         "title": "Mubashii DNA dake",
@@ -8575,9 +8579,7 @@
             "Only Radiant DNA",
             "眩しいDNAだけ"
         ],
-        "relations": [
-            "https://anilist.co/anime/131755"
-        ],
+        "relations": [],
         "tags": [
             "music"
         ],

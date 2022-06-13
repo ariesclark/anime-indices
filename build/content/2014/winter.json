@@ -5343,6 +5343,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/mameshiba-x-gaist-crusher",
             "https://kitsu.io/anime/12527",
             "https://myanimelist.net/anime/33547",
             "https://notify.moe/anime/DPukhFiiR"
@@ -5356,9 +5357,12 @@
         "synonyms": [
             "Gaist Shiba",
             "Mameshiba Crusher",
+            "Mameshiba x Gaist Crusher",
             "豆しば× ガイストクラッシャーコラボCM"
         ],
         "relations": [
+            "https://anime-planet.com/anime/gaist-crusher",
+            "https://anime-planet.com/anime/mameshiba",
             "https://kitsu.io/anime/4918",
             "https://kitsu.io/anime/7974",
             "https://myanimelist.net/anime/19871",
@@ -5368,8 +5372,13 @@
         ],
         "tags": [
             "comedy",
+            "commercials",
+            "crossover",
             "fantasy",
-            "parody"
+            "food protagonists",
+            "non-human protagonists",
+            "parody",
+            "promotional"
         ],
         "date": {
             "season": "winter",
@@ -5984,6 +5993,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/momons-sand-witch-episode-zero",
             "https://kitsu.io/anime/8858",
             "https://myanimelist.net/anime/23885",
             "https://notify.moe/anime/ayHxtFmig"
@@ -5995,10 +6005,15 @@
         "picture": "https://cdn.myanimelist.net/images/anime/5/61801.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/5/61801t.jpg",
         "synonyms": [
+            "Momon's Sand Witch Episode Zero",
             "Momon's Sandwitch Episode 0",
             "ももんずさんどうぃっち エピソードZERO"
         ],
         "relations": [
+            "https://anime-planet.com/anime/ikeike-momon-chan",
+            "https://anime-planet.com/anime/momons-sand-witch",
+            "https://anime-planet.com/anime/momons-sand-witch-bangai-hen-tanu-no-kyuujitsu",
+            "https://anime-planet.com/anime/tanu-no-magical-holiday",
             "https://kitsu.io/anime/8586",
             "https://kitsu.io/anime/8857",
             "https://myanimelist.net/anime/18133",
@@ -6008,7 +6023,8 @@
         ],
         "tags": [
             "comedy",
-            "kids"
+            "kids",
+            "shorts"
         ],
         "date": {
             "season": "winter",

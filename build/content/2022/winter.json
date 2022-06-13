@@ -7507,6 +7507,7 @@
     {
         "sources": [
             "https://anilist.co/anime/149099",
+            "https://anime-planet.com/anime/the-dawn-of-the-witch-mini-anime",
             "https://livechart.me/anime/11158",
             "https://myanimelist.net/anime/51349"
         ],
@@ -7523,13 +7524,18 @@
         "relations": [
             "https://anilist.co/anime/133175",
             "https://anilist.co/anime/149098",
+            "https://anime-planet.com/anime/the-dawn-of-the-witch",
             "https://livechart.me/anime/10558",
             "https://myanimelist.net/anime/48842"
         ],
         "tags": [
+            "based on a light novel",
             "chibi",
             "comedy",
             "fantasy",
+            "magic",
+            "magic school",
+            "short episodes",
             "slice of life"
         ],
         "date": {
@@ -12472,36 +12478,6 @@
             "https://anilist.co/anime/145840"
         ],
         "tags": [],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/the-dawn-of-the-witch-mini-anime"
-        ],
-        "title": "The Dawn of the Witch Mini Anime",
-        "type": "ona",
-        "episodes": 21,
-        "status": "unknown",
-        "picture": "https://cdn.anime-planet.com/anime/primary/the-dawn-of-the-witch-mini-anime-1.webp?t=1652497197",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-dawn-of-the-witch-mini-anime-1-251x352.webp?t=1652497197",
-        "synonyms": [
-            "Mahoutsukai Reimeiki Mini Anime"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/the-dawn-of-the-witch"
-        ],
-        "tags": [
-            "based on a light novel",
-            "chibi",
-            "comedy",
-            "fantasy",
-            "magic",
-            "magic school",
-            "short episodes"
-        ],
         "date": {
             "season": "winter",
             "year": 2022

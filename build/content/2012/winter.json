@@ -6116,6 +6116,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/mameshiba-x-kyary-pamyu-pamyu",
             "https://kitsu.io/anime/12523",
             "https://myanimelist.net/anime/33551",
             "https://notify.moe/anime/-dukhFmig"
@@ -6132,13 +6133,18 @@
             "豆しぱみゅぱみゅ"
         ],
         "relations": [
+            "https://anime-planet.com/anime/mameshiba",
             "https://kitsu.io/anime/4918",
             "https://myanimelist.net/anime/7261",
             "https://notify.moe/anime/JpERpKiiR"
         ],
         "tags": [
             "comedy",
-            "parody"
+            "commercials",
+            "family friendly",
+            "parody",
+            "promotional",
+            "short episodes"
         ],
         "date": {
             "season": "winter",
@@ -6590,51 +6596,10 @@
         "sources": [
             "https://anidb.net/anime/8874",
             "https://anilist.co/anime/12637",
-            "https://notify.moe/anime/APPHtFimg"
-        ],
-        "title": "Mo Gyutto Love de Sekkinchuu!",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12637-H7qJTEC5wHDa.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12637-H7qJTEC5wHDa.png",
-        "synonyms": [
-            "Love Live! MV 4",
-            "Love Live! School Idol Project: Mo Gyutto Love de Sekkinchuu!",
-            "Mo Gyutto \"Love\" de Sekkinchuu!",
-            "もぎゅっと\"love\"で接近中!"
-        ],
-        "relations": [
-            "https://anidb.net/anime/9271",
-            "https://anilist.co/anime/15051",
-            "https://notify.moe/anime/-x7SpKmmg",
-            "https://notify.moe/anime/9e1dtKiiR",
-            "https://notify.moe/anime/RerGpKmmR",
-            "https://notify.moe/anime/V83GpKmmR",
-            "https://notify.moe/anime/Xtm1tKiiR",
-            "https://notify.moe/anime/izBdpKimR"
-        ],
-        "tags": [
-            "cute girls doing cute things",
-            "idol",
-            "music",
-            "new",
-            "performance",
-            "primarily female cast",
-            "primarily teen cast",
-            "school",
-            "the arts"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/love-live-school-idol-project-mo-gyutto-love-de-sekkinchuu",
             "https://kitsu.io/anime/6777",
-            "https://myanimelist.net/anime/12637"
+            "https://myanimelist.net/anime/12637",
+            "https://notify.moe/anime/APPHtFimg"
         ],
         "title": "Mogyutto \"Love\" de Sekkinchuu!",
         "type": "special",
@@ -6643,11 +6608,17 @@
         "picture": "https://cdn.myanimelist.net/images/anime/6/40821.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/6/40821t.jpg",
         "synonyms": [
+            "Love Live! MV 4",
             "Love Live! School Idol Project: Mo Gyutto Love de Sekkinchuu!",
             "Love Live! School Idol Project: Mogyutto Love de Sekkinchuu!",
+            "Mo Gyutto \"Love\" de Sekkinchuu!",
+            "Mo Gyutto Love de Sekkinchuu!",
+            "もぎゅっと\"love\"で接近中!",
             "もぎゅっと\"love\"で接近中！"
         ],
         "relations": [
+            "https://anidb.net/anime/9271",
+            "https://anilist.co/anime/15051",
             "https://kitsu.io/anime/5935",
             "https://kitsu.io/anime/5945",
             "https://kitsu.io/anime/6444",
@@ -6659,14 +6630,25 @@
             "https://myanimelist.net/anime/15051",
             "https://myanimelist.net/anime/20877",
             "https://myanimelist.net/anime/9907",
-            "https://myanimelist.net/anime/9930"
+            "https://myanimelist.net/anime/9930",
+            "https://notify.moe/anime/-x7SpKmmg",
+            "https://notify.moe/anime/9e1dtKiiR",
+            "https://notify.moe/anime/RerGpKmmR",
+            "https://notify.moe/anime/V83GpKmmR",
+            "https://notify.moe/anime/Xtm1tKiiR",
+            "https://notify.moe/anime/izBdpKimR"
         ],
         "tags": [
+            "cute girls doing cute things",
             "idol",
             "idols",
             "idols (female)",
             "music",
+            "new",
             "performance",
+            "primarily female cast",
+            "primarily teen cast",
+            "school",
             "the arts"
         ],
         "date": {

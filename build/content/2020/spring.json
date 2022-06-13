@@ -114,6 +114,7 @@
     {
         "sources": [
             "https://anilist.co/anime/137126",
+            "https://anime-planet.com/anime/keina-suda-alba",
             "https://myanimelist.net/anime/43201"
         ],
         "title": "Alba",
@@ -122,9 +123,12 @@
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1027/109644.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1027/109644t.jpg",
-        "synonyms": [],
+        "synonyms": [
+            "Keina Suda: Alba"
+        ],
         "relations": [],
         "tags": [
+            "abstract",
             "music"
         ],
         "date": {

@@ -10821,6 +10821,8 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/98096",
+            "https://anisearch.com/anime/12158",
             "https://kitsu.io/anime/12983",
             "https://livechart.me/anime/8074",
             "https://myanimelist.net/anime/34661"
@@ -10833,10 +10835,21 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/2/84742t.jpg",
         "synonyms": [
             "An Encore and Continuance: Pandora's Box",
+            "Monster Strike the Animation: An Encore and Continuance - Pandora's Box",
             "Monster Strike: An Encore and Continuance",
+            "Monster Strike: An Encore and Continuance - Pandoras Box",
+            "Monster Strike: Eine Zugabe und Fortsetzung - Die Büchse der Pandora",
+            "Monster Strike: Rappel et Prolongation - La Boîte de Pandore",
+            "Monster Strike: Un bis y una continuación - La caja de Pandora",
+            "Monster Strike: Zoku Saishuu-banashi Pandoranohako",
+            "Monster Strike: Zoku Saishuu-wa Pandora no Hako",
+            "Monster Strike: Zoku Saishū-banashi Pandoranohako",
             "モンスターストライク 続・最終話「パンドラの箱」"
         ],
         "relations": [
+            "https://anilist.co/anime/107908",
+            "https://anilist.co/anime/21288",
+            "https://anilist.co/anime/98069",
             "https://kitsu.io/anime/10988",
             "https://myanimelist.net/anime/30757",
             "https://myanimelist.net/anime/35265"
@@ -10845,63 +10858,10 @@
             "action",
             "fantasy",
             "game",
-            "video game",
-            "virtual reality"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/12158"
-        ],
-        "title": "Monster Strike: Zoku Saishuu-banashi Pandoranohako",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/12/12158.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/12/12158.webp",
-        "synonyms": [
-            "Monster Strike: An Encore and Continuance - Pandoras Box",
-            "Monster Strike: Eine Zugabe und Fortsetzung - Die Büchse der Pandora",
-            "Monster Strike: Rappel et Prolongation - La Boîte de Pandore",
-            "Monster Strike: Un bis y una continuación - La caja de Pandora",
-            "Monster Strike: Zoku Saishū-banashi Pandoranohako",
-            "モンスターストライク 続・最終話「パンドラの箱」"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "fall",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/98096"
-        ],
-        "title": "Monster Strike: Zoku Saishuu-wa Pandora no Hako",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98096-diiWMQPGcnii.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98096-diiWMQPGcnii.jpg",
-        "synonyms": [
-            "Monster Strike the Animation: An Encore and Continuance - Pandora's Box",
-            "モンスターストライク 続・最終話「パンドラの箱」"
-        ],
-        "relations": [
-            "https://anilist.co/anime/107908",
-            "https://anilist.co/anime/21288",
-            "https://anilist.co/anime/98069"
-        ],
-        "tags": [
-            "action",
-            "fantasy",
             "monster girl",
-            "video games"
+            "video game",
+            "video games",
+            "virtual reality"
         ],
         "date": {
             "season": "fall",
@@ -10969,6 +10929,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/irodorimidori-moushin-soloist-life",
             "https://kitsu.io/anime/14069",
             "https://myanimelist.net/anime/36601",
             "https://notify.moe/anime/pHhN2Fiig"
@@ -10981,9 +10942,46 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/6/88451t.jpg",
         "synonyms": [
             "Irodorimidori",
+            "Irodorimidori: Moushin Soloist Life!",
             "猛進ソリストライフ！"
         ],
         "relations": [
+            "https://anime-planet.com/anime/irodorimidori-agitation",
+            "https://anime-planet.com/anime/irodorimidori-bang-babang-bang",
+            "https://anime-planet.com/anime/irodorimidori-blackn-white-jammin-cats",
+            "https://anime-planet.com/anime/irodorimidori-brilliant-better",
+            "https://anime-planet.com/anime/irodorimidori-change-our-mirai",
+            "https://anime-planet.com/anime/irodorimidori-change-our-mirai-our-7-lights",
+            "https://anime-planet.com/anime/irodorimidori-crescendo-story",
+            "https://anime-planet.com/anime/irodorimidori-detarame-rock-and-roll-theory",
+            "https://anime-planet.com/anime/irodorimidori-dokidoki-dream",
+            "https://anime-planet.com/anime/irodorimidori-ever-green-never-end",
+            "https://anime-planet.com/anime/irodorimidori-fire-me-up",
+            "https://anime-planet.com/anime/irodorimidori-fortissimo-bell",
+            "https://anime-planet.com/anime/irodorimidori-heart-beat",
+            "https://anime-planet.com/anime/irodorimidori-irotoridori-no-melody",
+            "https://anime-planet.com/anime/irodorimidori-issei-kiyuukyoku-divertimento",
+            "https://anime-planet.com/anime/irodorimidori-light-speed-days",
+            "https://anime-planet.com/anime/irodorimidori-minna-e-wo-check",
+            "https://anime-planet.com/anime/irodorimidori-muteki-we-are-one",
+            "https://anime-planet.com/anime/irodorimidori-my-dearest-song",
+            "https://anime-planet.com/anime/irodorimidori-neko-matsuri",
+            "https://anime-planet.com/anime/irodorimidori-ok-alright",
+            "https://anime-planet.com/anime/irodorimidori-outsider-requiem",
+            "https://anime-planet.com/anime/irodorimidori-polka-dot",
+            "https://anime-planet.com/anime/irodorimidori-prism",
+            "https://anime-planet.com/anime/irodorimidori-sayonara-freeway",
+            "https://anime-planet.com/anime/irodorimidori-session-high",
+            "https://anime-planet.com/anime/irodorimidori-shout-our-evidence",
+            "https://anime-planet.com/anime/irodorimidori-sousha-wa-tada-senaka-to-teikin-de-kataru-nomi",
+            "https://anime-planet.com/anime/irodorimidori-spicy-swingy-style",
+            "https://anime-planet.com/anime/irodorimidori-star-t",
+            "https://anime-planet.com/anime/irodorimidori-still",
+            "https://anime-planet.com/anime/irodorimidori-tanitsu-shikousei-overbloom",
+            "https://anime-planet.com/anime/irodorimidori-tic-tac-dreamin",
+            "https://anime-planet.com/anime/irodorimidori-trust",
+            "https://anime-planet.com/anime/irodorimidori-very-merry-session",
+            "https://anime-planet.com/anime/irodorimidori-watashi-no-naka-no-gensou-teki-sekaikan-oyobi-sono-kengen-wo-souki-saseta-aru-genjitsu-de-no-dekigot",
             "https://kitsu.io/anime/14070",
             "https://kitsu.io/anime/14100",
             "https://myanimelist.net/anime/36600",
@@ -11011,6 +11009,7 @@
             "https://notify.moe/anime/yMhN2Fmig"
         ],
         "tags": [
+            "idols",
             "music"
         ],
         "date": {
@@ -11069,79 +11068,13 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/11686",
-            "https://livechart.me/anime/2136",
-            "https://notify.moe/anime/6kI3tKmmg"
-        ],
-        "title": "Musaigen no Phantom World Special",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/11686/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/11686/tiny.jpg",
-        "synonyms": [
-            "Myriad Colors Phantom World Special",
-            "無彩限のファントム・ワールド OVA"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/11333",
-            "https://livechart.me/anime/1778",
-            "https://livechart.me/anime/4250",
-            "https://notify.moe/anime/aLcrpFmiR"
-        ],
-        "tags": [
-            "action",
-            "comedy",
-            "fantasy",
-            "supernatural"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/11331"
-        ],
-        "title": "Musaigen no Phantom World: Bangai-hen - Mizutama no Kiseki",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/11/11331.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/11/11331.webp",
-        "synonyms": [
-            "Musaigen no Phantom World Special",
-            "Musaigen no Phantom World: Unaired Episode",
-            "Myriad Colors Phantom World: The Polka Dot Miracle",
-            "無彩限のファントム・ワールド 番外編 水玉の奇跡"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "action comedy",
-            "comedy",
-            "contemporary fantasy",
-            "ecchi",
-            "fantasy",
-            "harem",
-            "hero of strong character",
-            "magic",
-            "monster",
-            "present",
-            "school",
-            "slapstick"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/21777",
             "https://anime-planet.com/anime/myriad-colors-phantom-world-the-polka-dot-miracle",
-            "https://myanimelist.net/anime/33075"
+            "https://anisearch.com/anime/11331",
+            "https://kitsu.io/anime/11686",
+            "https://livechart.me/anime/2136",
+            "https://myanimelist.net/anime/33075",
+            "https://notify.moe/anime/6kI3tKmmg"
         ],
         "title": "Musaigen no Phantom World: Mizutama no Kiseki",
         "type": "special",
@@ -11150,25 +11083,41 @@
         "picture": "https://cdn.myanimelist.net/images/anime/7/82387.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/7/82387t.jpg",
         "synonyms": [
+            "Musaigen no Phantom World Special",
+            "Musaigen no Phantom World: Bangai-hen - Mizutama no Kiseki",
+            "Musaigen no Phantom World: Unaired Episode",
             "Myriad Colors Phantom World Special",
             "Myriad Colors Phantom World: The Polka Dot Miracle",
-            "無彩限のファントム・ワールド 水玉の奇跡"
+            "無彩限のファントム・ワールド OVA",
+            "無彩限のファントム・ワールド 水玉の奇跡",
+            "無彩限のファントム・ワールド 番外編 水玉の奇跡"
         ],
         "relations": [
             "https://anilist.co/anime/21306",
             "https://anime-planet.com/anime/myriad-colors-phantom-world",
             "https://anime-planet.com/anime/myriad-colors-phantom-world-limitless-phantom-world",
-            "https://myanimelist.net/anime/31442"
+            "https://kitsu.io/anime/11333",
+            "https://livechart.me/anime/1778",
+            "https://livechart.me/anime/4250",
+            "https://myanimelist.net/anime/31442",
+            "https://notify.moe/anime/aLcrpFmiR"
         ],
         "tags": [
             "action",
+            "action comedy",
             "based on a light novel",
             "comedy",
+            "contemporary fantasy",
             "ecchi",
             "fantasy",
+            "harem",
+            "hero of strong character",
             "kuudere",
             "magic",
+            "monster",
+            "present",
             "school",
+            "slapstick",
             "slice of life",
             "super power",
             "supernatural"
