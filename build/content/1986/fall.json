@@ -517,6 +517,34 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/gaksital",
+            "https://myanimelist.net/anime/52032"
+        ],
+        "title": "Gaksital",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1222/124343.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1222/124343t.jpg",
+        "synonyms": [
+            "각시탈"
+        ],
+        "relations": [],
+        "tags": [
+            "combat sports",
+            "drama",
+            "historical",
+            "korean animation",
+            "martial arts",
+            "military"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 1986
+        }
+    },
+    {
+        "sources": [
             "https://kitsu.io/anime/11808",
             "https://notify.moe/anime/PFy3tKimg"
         ],
@@ -1849,7 +1877,8 @@
             "romance",
             "school",
             "shounen",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "fall",

@@ -1616,6 +1616,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/1428",
             "https://kitsu.io/anime/1281",
             "https://notify.moe/anime/DAZ-5FmiR"
         ],
@@ -1635,6 +1636,8 @@
             "ルパン三世 シークレットファイル"
         ],
         "relations": [
+            "https://anilist.co/anime/1412",
+            "https://anilist.co/anime/5225",
             "https://kitsu.io/anime/1265",
             "https://kitsu.io/anime/3997",
             "https://notify.moe/anime/3niC5Kimg",
@@ -1644,6 +1647,10 @@
             "adventure",
             "comedy",
             "crime",
+            "fugitive",
+            "guns",
+            "male protagonist",
+            "primarily adult cast",
             "shounen"
         ],
         "date": {
@@ -2454,6 +2461,7 @@
             "policeman",
             "present",
             "primarily adult cast",
+            "racing",
             "seinen",
             "shounen",
             "united states",

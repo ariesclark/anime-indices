@@ -1852,6 +1852,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/cue-short-anime",
             "https://myanimelist.net/anime/51684"
         ],
         "title": "Cue! Short Anime",
@@ -1864,10 +1865,12 @@
             "CUE! ショートアニメ"
         ],
         "relations": [
+            "https://anime-planet.com/anime/cue",
             "https://myanimelist.net/anime/43735"
         ],
         "tags": [
-            "comedy"
+            "comedy",
+            "short episodes"
         ],
         "date": {
             "season": "summer",
@@ -2319,6 +2322,7 @@
             "slapstick",
             "survival",
             "time skip",
+            "time travel",
             "tomboy"
         ],
         "date": {
@@ -3686,11 +3690,13 @@
             "cgi",
             "drama",
             "ensemble cast",
+            "male protagonist",
             "military",
             "philosophy",
             "political",
             "politics",
             "primarily adult cast",
+            "primarily male cast",
             "sci fi",
             "sci-fi",
             "science fiction",

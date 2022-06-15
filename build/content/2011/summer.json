@@ -5331,6 +5331,7 @@
             "Naruto Shippuuden Movie 5",
             "Naruto Shippūden la película: Prisión de sangre",
             "Naruto il film: La prigione insanguinata",
+            "Naruto the Movie: Blood Prison",
             "Наруто: Ураганные хроники 5 - Кровавая тюрьма",
             "劇場版 NARUTO -ナルト- ブラッド・プリズン",
             "劇場版 NARUTO ブラッド・プリズン",
@@ -5375,6 +5376,7 @@
             "comedy",
             "crime",
             "drama",
+            "fantasy",
             "fantasy world",
             "island",
             "manga",
@@ -6522,6 +6524,9 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/10053",
+            "https://anime-planet.com/anime/pocket-monsters-best-wishes-hikari-to-kage-no-tenkyuugi",
+            "https://anisearch.com/anime/9184",
             "https://myanimelist.net/anime/42138"
         ],
         "title": "Pokemon Best Wishes! Hikari to Kage no Tenkyuugi",
@@ -6531,18 +6536,34 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1215/107850.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1215/107850t.jpg",
         "synonyms": [
+            "Pocket Monsters Best Wishes! The Armillary Sphere of Light and Shadow",
+            "Pocket Monsters: Best Wishes! Hikari to Kage no Tenkyuugi",
+            "Pocket Monsters: Best Wishes! Hikari to Kage no Tenkyūgi",
+            "Pokemon Best Wishes! Celestial Globe of Light and Shadow",
             "Pokemon Best Wishes!: Celestial Globe of Light and Shadow",
-            "ポケットモンスター ベストウイッシュ 光と影のテンキュウギ"
+            "Pokemon Best Wishes: Celestial Globe of Light and Shadow",
+            "Pokemon Planetarium Special 4",
+            "Pokemon: Best Wishes! Celestial Globe of Light and Shadow",
+            "ポケットモンスター ベストウイッシュ 光と影のテンキュウギ",
+            "ポケットモンスター ベストウイッシュ~光と影のテンキュウギ~",
+            "ポケットモンスター ベストウイッシュ～光と影のテンキュウギ～"
         ],
         "relations": [
+            "https://anidb.net/anime/7891",
+            "https://anime-planet.com/anime/pokemon-black-and-white",
             "https://myanimelist.net/anime/9107"
         ],
         "tags": [
             "action",
             "adventure",
+            "alternative world",
+            "cg-anime",
             "comedy",
+            "family friendly",
             "fantasy",
-            "kids"
+            "kids",
+            "monster",
+            "monsters"
         ],
         "date": {
             "season": "summer",
@@ -9628,6 +9649,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/yu-qi-lin-xian-ling-qi-yu",
             "https://myanimelist.net/anime/44492"
         ],
         "title": "Yu Qi Lin: Xian Ling Qi Yu",
@@ -9641,8 +9663,13 @@
         ],
         "relations": [],
         "tags": [
+            "animal protagonists",
             "anthropomorphic",
-            "kids"
+            "chinese animation",
+            "family friendly",
+            "kids",
+            "non-human protagonists",
+            "short episodes"
         ],
         "date": {
             "season": "summer",
@@ -9766,6 +9793,7 @@
             "primarily child cast",
             "primarily female cast",
             "primarily teen cast",
+            "rape",
             "romance",
             "school",
             "school club",

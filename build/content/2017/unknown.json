@@ -1,6 +1,7 @@
 [
     {
         "sources": [
+            "https://anime-planet.com/anime/oo",
             "https://myanimelist.net/anime/51268"
         ],
         "title": "(OO)",
@@ -12,7 +13,10 @@
         "synonyms": [],
         "relations": [],
         "tags": [
-            "avant garde"
+            "abstract",
+            "avant garde",
+            "korean animation",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -768,8 +772,8 @@
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b150466-zhdOpf4PBtzr.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b150466-zhdOpf4PBtzr.jpg",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150466-e6y6W4UQnP3w.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150466-e6y6W4UQnP3w.jpg",
         "synonyms": [
             "The Starry Night",
             "별이 빛나는 밤에"
@@ -2416,6 +2420,29 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/haru-ni-sumu-shounen"
+        ],
+        "title": "Haru ni Sumu Shounen,",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/haru-ni-sumu-shounen-1.webp?t=1654660530",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/haru-ni-sumu-shounen-1-285x399.webp?t=1654660530",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "classical music",
+            "drama",
+            "music",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/harumaki-gohan-cobalt-memories"
         ],
         "title": "Harumaki Gohan: Cobalt Memories",
@@ -3977,6 +4004,28 @@
         "synonyms": [],
         "relations": [],
         "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/matter"
+        ],
+        "title": "MATTER",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/matter-1.webp?t=1654900351",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/matter-1-285x400.webp?t=1654900351",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "korean animation",
+            "shorts"
+        ],
         "date": {
             "season": "unknown",
             "year": 2017
@@ -7299,6 +7348,26 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tezuka-chara-ugokashite-mimashita"
+        ],
+        "title": "Tezuka Chara Ugokashite Mimashita",
+        "type": "ova",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/tezuka-chara-ugokashite-mimashita-1.webp?t=1655005302",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/tezuka-chara-ugokashite-mimashita-1-285x399.webp?t=1655005302",
+        "synonyms": [
+            "Tezuka Character Ugokashite Mimashita"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/the-affairs-first-time"
         ],
         "title": "The Affairs: First Time",
@@ -7315,6 +7384,33 @@
             "commercials",
             "promotional",
             "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/the-dino-king-journey-to-fire-mountain"
+        ],
+        "title": "The Dino King: Journey to Fire Mountain",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/the-dino-king-journey-to-fire-mountain-1.webp?t=1654543083",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-dino-king-journey-to-fire-mountain-1-285x399.webp?t=1654543083",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/the-dino-king"
+        ],
+        "tags": [
+            "animal protagonists",
+            "cg animation",
+            "dinosaurs",
+            "korean animation",
+            "non-human protagonists",
+            "prehistoric"
         ],
         "date": {
             "season": "unknown",
@@ -7682,6 +7778,27 @@
         "relations": [],
         "tags": [
             "christmas"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/unmee-destiny"
+        ],
+        "title": "Unmee: Destiny",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/unmee-destiny-1.webp?t=1654660820",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/unmee-destiny-1-285x399.webp?t=1654660820",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "comedy",
+            "shorts"
         ],
         "date": {
             "season": "unknown",

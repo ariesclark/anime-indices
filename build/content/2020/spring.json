@@ -510,6 +510,7 @@
             "slice of life",
             "slice of life drama",
             "the arts",
+            "visual arts",
             "work"
         ],
         "date": {
@@ -2348,7 +2349,9 @@
             "Takayan: Just disappear",
             "どうせ無くなるだけ"
         ],
-        "relations": [],
+        "relations": [
+            "https://anime-planet.com/anime/takayan-cheating-is-a-crime"
+        ],
         "tags": [
             "death of a loved one",
             "drama",
@@ -2733,6 +2736,7 @@
             "Fruba",
             "Fruits Basket (2019) 2nd Season",
             "Fruits Basket (2020)",
+            "Fruits Basket (Kouhen)",
             "Fruits Basket (Zenpen)",
             "Fruits Basket Saison 2",
             "Fruits Basket Sasion 2",
@@ -4993,10 +4997,12 @@
             "monster",
             "mystery",
             "play or die",
+            "primarily male cast",
             "psi-powers",
             "pve",
             "pvp",
             "reluctant hero",
+            "revenge",
             "shounen",
             "struggle to survive",
             "suicide",
@@ -5004,7 +5010,8 @@
             "supernatural drama",
             "swordplay",
             "swords & co",
-            "tragedy"
+            "tragedy",
+            "travel"
         ],
         "date": {
             "season": "spring",
@@ -5913,6 +5920,7 @@
         "sources": [
             "https://anilist.co/anime/128862",
             "https://anime-planet.com/anime/milgram",
+            "https://anisearch.com/anime/17446",
             "https://kitsu.io/anime/45306",
             "https://myanimelist.net/anime/47794"
         ],
@@ -5929,9 +5937,12 @@
         "relations": [],
         "tags": [
             "bullying",
+            "contract killer / assassin",
             "crime",
+            "crime fiction",
             "criminals",
             "cult",
+            "delinquent",
             "music",
             "philosophy",
             "psychological",
@@ -6079,7 +6090,8 @@
             "school club",
             "shounen",
             "slice of life",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "spring",
@@ -6951,6 +6963,7 @@
             "romantic drama",
             "rural",
             "school",
+            "sentimental drama",
             "shapeshifting",
             "slice of life",
             "stoic hero",
@@ -9347,11 +9360,6 @@
             "https://anime-planet.com/anime/strike-the-blood-iii",
             "https://anime-planet.com/anime/strike-the-blood-kieta-seisou-hen",
             "https://anime-planet.com/anime/strike-the-blood-kingdom-of-the-valkyria",
-            "https://anisearch.com/anime/10682",
-            "https://anisearch.com/anime/11464",
-            "https://anisearch.com/anime/13455",
-            "https://anisearch.com/anime/16433",
-            "https://anisearch.com/anime/8480",
             "https://kitsu.io/anime/41055",
             "https://kitsu.io/anime/44834",
             "https://livechart.me/anime/10668",
@@ -9702,6 +9710,7 @@
             "seinen",
             "slice of life",
             "sports",
+            "team sports",
             "twins"
         ],
         "date": {
@@ -10955,10 +10964,6 @@
             "https://anilist.co/anime/139986",
             "https://anime-planet.com/anime/yaoshenji-3rd-season",
             "https://anime-planet.com/anime/yaoshenji-5th-season",
-            "https://anisearch.com/anime/12748",
-            "https://anisearch.com/anime/14057",
-            "https://anisearch.com/anime/14137",
-            "https://anisearch.com/anime/16944",
             "https://kitsu.io/anime/42048",
             "https://kitsu.io/anime/45518",
             "https://livechart.me/anime/10919",
@@ -11634,6 +11639,28 @@
             "school",
             "school life",
             "sports"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51312"
+        ],
+        "title": "p.h.",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1150/121612.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1150/121612t.jpg",
+        "synonyms": [
+            "PH"
+        ],
+        "relations": [],
+        "tags": [
+            "music"
         ],
         "date": {
             "season": "spring",

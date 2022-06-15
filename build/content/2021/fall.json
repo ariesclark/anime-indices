@@ -251,6 +251,7 @@
             "Aggressive Retsuko 4",
             "Aggressive Retsuko 4th Season",
             "Aggressive Retsuko Season 4",
+            "Aggretsuko (ONA) 4th Season",
             "Aggretsuko 4",
             "Aggretsuko 4th Season",
             "Aggretsuko : Saison 4",
@@ -310,7 +311,8 @@
             "urban",
             "work",
             "work life",
-            "working life"
+            "working life",
+            "workplace"
         ],
         "date": {
             "season": "fall",
@@ -563,8 +565,6 @@
             "https://anime-planet.com/anime/argonavis-from-bang-dream-animation",
             "https://anime-planet.com/anime/arvonavis-movie-axia",
             "https://anime-planet.com/anime/gyroaxia-hibana-chiru",
-            "https://anisearch.com/anime/14869",
-            "https://anisearch.com/anime/16992",
             "https://livechart.me/anime/10322",
             "https://livechart.me/anime/9667",
             "https://myanimelist.net/anime/40677",
@@ -2175,7 +2175,7 @@
         ],
         "title": "Digimon Ghost Game",
         "type": "tv",
-        "episodes": 28,
+        "episodes": 29,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1907/118797.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1907/118797t.jpg",
@@ -3521,7 +3521,8 @@
             "sci-fi",
             "science fiction",
             "short episodes",
-            "super robot"
+            "super robot",
+            "virtual world"
         ],
         "date": {
             "season": "fall",
@@ -3550,6 +3551,7 @@
             "ぐんまちゃん"
         ],
         "relations": [
+            "https://anidb.net/anime/17319",
             "https://livechart.me/anime/11184"
         ],
         "tags": [
@@ -4069,6 +4071,7 @@
     {
         "sources": [
             "https://anilist.co/anime/140252",
+            "https://anime-planet.com/anime/hongse-jiangshan-zhi-huangma-fenghuo",
             "https://myanimelist.net/anime/50232"
         ],
         "title": "Hongse Jiangshan: Huangma Fenghuo",
@@ -4083,6 +4086,7 @@
         ],
         "relations": [],
         "tags": [
+            "chinese animation",
             "drama",
             "historical",
             "military",
@@ -4986,7 +4990,6 @@
             "ghost stories",
             "heterosexual",
             "high school",
-            "lgbtq+ themes",
             "magic",
             "male protagonist",
             "martial arts",
@@ -5689,6 +5692,7 @@
             "swords & co",
             "tragedy",
             "trains",
+            "travel",
             "violence"
         ],
         "date": {
@@ -6001,12 +6005,10 @@
             "episodic",
             "female protagonist",
             "gangs",
-            "gender bending",
             "heterosexual",
             "high school",
             "iyashikei",
             "kuudere",
-            "lgbtq+ themes",
             "love triangle",
             "maids",
             "male protagonist",
@@ -7507,6 +7509,7 @@
             "https://kitsu.io/anime/45580",
             "https://livechart.me/anime/10930",
             "https://myanimelist.net/anime/33736",
+            "https://myanimelist.net/anime/50526",
             "https://myanimelist.net/anime/50559",
             "https://notify.moe/anime/LWsCAl27R"
         ],
@@ -9487,7 +9490,9 @@
             "selepro",
             "セレクション・プロジェクト"
         ],
-        "relations": [],
+        "relations": [
+            "https://myanimelist.net/anime/50882"
+        ],
         "tags": [
             "cgi",
             "cute girls doing cute things",
@@ -9497,6 +9502,7 @@
             "female protagonist",
             "idol",
             "idols",
+            "idols (female)",
             "music",
             "musical",
             "ojou-sama",
@@ -9570,6 +9576,7 @@
             "Senpai ga Uzai Kōhai no Hanashi",
             "ลุ้นรักรุ่นน้องตัวจิ๋วกับรุ่นพี่ตัวป่วน",
             "先輩がうざい後輩の話",
+            "前輩有夠煩",
             "前辈有够烦",
             "선배가 짜증나는 후배이야기"
         ],
@@ -9598,7 +9605,6 @@
             "romantic comedy",
             "romantic subtext",
             "salaryman",
-            "seinen",
             "slice of life",
             "tanned skin",
             "tomboy",
@@ -9728,7 +9734,7 @@
         "title": "Shenyi Jiu Xiaojie",
         "type": "ona",
         "episodes": 60,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1001/119906.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1001/119906t.jpg",
         "synonyms": [
@@ -10444,6 +10450,30 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/sore-sunawachi-sketch"
+        ],
+        "title": "Sore, Sunawachi Sketch.",
+        "type": "ona",
+        "episodes": 12,
+        "status": "ongoing",
+        "picture": "https://cdn.anime-planet.com/anime/primary/sore-sunawachi-sketch-1.webp?t=1654976841",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/sore-sunawachi-sketch-1-285x399.webp?t=1654976841",
+        "synonyms": [
+            "In other words, Sketch."
+        ],
+        "relations": [],
+        "tags": [
+            "banter",
+            "comedy",
+            "island"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/17000",
             "https://anilist.co/anime/141779",
             "https://anisearch.com/anime/16797",
@@ -10616,8 +10646,12 @@
         ],
         "tags": [
             "animal protagonists",
+            "animals",
             "comedy",
             "family friendly",
+            "isekai",
+            "kids",
+            "magic",
             "non-human protagonists",
             "san-x characters"
         ],
@@ -10846,6 +10880,7 @@
             "fantasy",
             "female protagonist",
             "game",
+            "gaming – video games",
             "hero of strong character",
             "heterosexual",
             "high stakes games",
@@ -12162,6 +12197,7 @@
             "bishounen",
             "boys' love",
             "cgi",
+            "dissociative identities",
             "idol",
             "incest",
             "lgbtq+ themes",
@@ -12250,7 +12286,7 @@
         ],
         "title": "Waccha PriMagi!",
         "type": "tv",
-        "episodes": 33,
+        "episodes": 34,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1522/117595.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1522/117595t.jpg",
@@ -12260,7 +12296,9 @@
             "ワッチャプリマジ！"
         ],
         "relations": [
+            "https://anime-planet.com/anime/maji-de-wakaru-waccha-primagi-gakuen",
             "https://anime-planet.com/anime/pripara",
+            "https://anime-planet.com/anime/shin-gakki-da-yo-waccha-primagi-gakuen",
             "https://livechart.me/anime/1126",
             "https://livechart.me/anime/1542",
             "https://livechart.me/anime/1670",
@@ -12351,7 +12389,7 @@
         ],
         "title": "Wangu Jian Shen",
         "type": "ona",
-        "episodes": 31,
+        "episodes": 35,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1499/119518.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1499/119518t.jpg",
@@ -12678,7 +12716,7 @@
         "title": "Xue Ying Ling Zhu 3rd Season",
         "type": "ona",
         "episodes": 26,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1490/120175.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1490/120175t.jpg",
         "synonyms": [
@@ -13304,7 +13342,6 @@
             "続・王女＆女騎士Wド下品露出 ～恥辱の見世物奴隷～"
         ],
         "relations": [
-            "https://anisearch.com/anime/15332",
             "https://myanimelist.net/anime/42223"
         ],
         "tags": [

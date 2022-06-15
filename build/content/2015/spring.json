@@ -1016,15 +1016,6 @@
             "https://anime-planet.com/anime/battle-spirits-shounen-toppa-version",
             "https://anime-planet.com/anime/battle-spirits-sword-eyes",
             "https://anime-planet.com/anime/battle-spirits-sword-eyes-gekitouden",
-            "https://anisearch.com/anime/11166",
-            "https://anisearch.com/anime/14543",
-            "https://anisearch.com/anime/4994",
-            "https://anisearch.com/anime/5556",
-            "https://anisearch.com/anime/6335",
-            "https://anisearch.com/anime/7269",
-            "https://anisearch.com/anime/7964",
-            "https://anisearch.com/anime/8589",
-            "https://anisearch.com/anime/8909",
             "https://kitsu.io/anime/11820",
             "https://kitsu.io/anime/12332",
             "https://kitsu.io/anime/7977",
@@ -3538,50 +3529,12 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/1290"
-        ],
-        "title": "Gintama OVA",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/1290/poster_image/8b3251952f666e5f0d47fd69c32df9d4.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/1290/poster_image/8b3251952f666e5f0d47fd69c32df9d4.jpg?style=small&format=jpg",
-        "synonyms": [
-            "銀魂 OAD"
-        ],
-        "relations": [
-            "https://livechart.me/anime/1523",
-            "https://livechart.me/anime/1929",
-            "https://livechart.me/anime/1968",
-            "https://livechart.me/anime/2336",
-            "https://livechart.me/anime/2776",
-            "https://livechart.me/anime/3591",
-            "https://livechart.me/anime/3815",
-            "https://livechart.me/anime/3989",
-            "https://livechart.me/anime/3999",
-            "https://livechart.me/anime/4296",
-            "https://livechart.me/anime/43",
-            "https://livechart.me/anime/4331",
-            "https://livechart.me/anime/4557",
-            "https://livechart.me/anime/696",
-            "https://livechart.me/anime/937"
-        ],
-        "tags": [
-            "comedy",
-            "parody"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/10917",
             "https://anilist.co/anime/20882",
             "https://anime-planet.com/anime/gintama-jump-festa-2014",
             "https://anisearch.com/anime/9902",
             "https://kitsu.io/anime/8627",
+            "https://livechart.me/anime/1290",
             "https://livechart.me/anime/696",
             "https://myanimelist.net/anime/25313",
             "https://notify.moe/anime/IV7JtKmmg"
@@ -3601,6 +3554,7 @@
             "Gintama: Jump Festa 2014 Special",
             "Gintama: Jump Festa Anime Tour 2014",
             "Gintama` (2014)",
+            "銀魂 OAD",
             "銀魂 〜布団に入ってから拭き残しに気付いて寝るに寝れない時もある〜",
             "銀魂´ (2014)",
             "銀魂ジャンプフェスタアニメツアー’ 2014"
@@ -3609,7 +3563,6 @@
             "https://anidb.net/anime/9427",
             "https://anilist.co/anime/15417",
             "https://anime-planet.com/anime/gintama-enchousen",
-            "https://livechart.me/anime/1290",
             "https://livechart.me/anime/1523",
             "https://livechart.me/anime/1929",
             "https://livechart.me/anime/1968",
@@ -6435,6 +6388,7 @@
             "Blood Blockade Battlefront Special",
             "Blood Blockade Battlefront: Anche questi sono i giorni peggiori e migliori",
             "Blood Blockade Battlefront: Even These Are the Worst and the Best Days Ever",
+            "Blood Blockade Battlefront: Incluso estos son los mejores y peores días de la vida",
             "Blood Blockade Battlefront: Nos plus belles et nos plus sales journées",
             "Blood Blockade Battlefront: Trotz allem - Die besten und schlechtesten Zeiten",
             "Kekkai Sensen Episode 10.5",
@@ -13210,6 +13164,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/space-battleship-yamato-2199-odyssey-of-the-celestial-ark-picture-drama",
             "https://myanimelist.net/anime/49311"
         ],
         "title": "Uchuu Senkan Yamato 2199: Hoshimeguru Hakobune Picture Drama",
@@ -13224,9 +13179,11 @@
             "宇宙戦艦ヤマト2199 星巡る方舟"
         ],
         "relations": [
+            "https://anime-planet.com/anime/space-battleship-yamato-2199-odyssey-of-the-celestial-ark",
             "https://myanimelist.net/anime/23249"
         ],
         "tags": [
+            "picture drama",
             "sci-fi",
             "space"
         ],

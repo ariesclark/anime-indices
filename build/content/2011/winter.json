@@ -2153,11 +2153,11 @@
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/6/6986.webp",
         "synonyms": [
             "Durarara!! Episode 25",
-            "Durarara!!: Frieden im ganzen Land",
+            "Durarara!! Frieden im ganzen Land",
+            "Durarara!! World at Peace",
             "Durarara!!: La paz mundial",
             "Durarara!!: Peace Reigns Over the Land",
             "Durarara!!: Vollkommen friedlich",
-            "Durarara!!: World at Peace",
             "デュラララ！！ 天下泰平"
         ],
         "relations": [],
@@ -3219,13 +3219,7 @@
             "Hakuōki Zuisōroku",
             "薄桜鬼 随想録"
         ],
-        "relations": [
-            "https://anisearch.com/anime/16900",
-            "https://anisearch.com/anime/6066",
-            "https://anisearch.com/anime/6493",
-            "https://anisearch.com/anime/6896",
-            "https://anisearch.com/anime/7633"
-        ],
+        "relations": [],
         "tags": [
             "comedy",
             "drama",
@@ -5486,6 +5480,7 @@
             "Black Butler 2: Making of Black Butler",
             "Black Butler 2: Making of Kuroshitsuji II",
             "Black Butler II: Making of Black Butler II",
+            "Black Butler: La realización de El mayordomo negro 2",
             "黒執事II Making of Kuroshitsuji II"
         ],
         "relations": [],
@@ -11679,6 +11674,33 @@
             "psychological",
             "shorts",
             "stop motion animation"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/140580",
+            "https://kitsu.io/anime/46164"
+        ],
+        "title": "ichirin hana",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://media.kitsu.io/anime/46164/poster_image/small-9e22f9ccb689431dd1f85cc7de218746.jpeg",
+        "thumbnail": "https://media.kitsu.io/anime/46164/poster_image/tiny-96d5db5ed75e91bceb0570a80f85353d.jpeg",
+        "synonyms": [
+            "Single Flower",
+            "monocyclic flower",
+            "single flower",
+            "一輪花"
+        ],
+        "relations": [],
+        "tags": [
+            "drama",
+            "romance"
         ],
         "date": {
             "season": "winter",

@@ -4828,8 +4828,8 @@
         "type": "tv",
         "episodes": 500,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/5/17407.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/5/17407t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1565/111305t.jpg",
         "synonyms": [
             "NARUTO -ナルト- 疾風伝",
             "NARUTO Shippuuden TV",
@@ -6224,6 +6224,7 @@
         "sources": [
             "https://anidb.net/anime/13369",
             "https://anilist.co/anime/103452",
+            "https://anime-planet.com/anime/souiu-megane",
             "https://anisearch.com/anime/11022",
             "https://kitsu.io/anime/10721",
             "https://myanimelist.net/anime/30210",
@@ -6244,9 +6245,11 @@
         ],
         "relations": [],
         "tags": [
+            "abstract",
             "avant garde",
             "dementia",
-            "independent anime"
+            "independent anime",
+            "shorts"
         ],
         "date": {
             "season": "winter",

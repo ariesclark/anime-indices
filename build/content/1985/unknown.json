@@ -1,6 +1,7 @@
 [
     {
         "sources": [
+            "https://anilist.co/anime/150609",
             "https://anime-planet.com/anime/cao-ren",
             "https://myanimelist.net/anime/43579"
         ],
@@ -72,6 +73,27 @@
         "tags": [
             "chinese animation",
             "kids",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1985
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/growth-ill-origin"
+        ],
+        "title": "Growth Ill: Origin",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/growth-ill-origin-1.webp?t=1654909900",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/growth-ill-origin-1-285x399.webp?t=1654909900",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "abstract",
             "shorts"
         ],
         "date": {

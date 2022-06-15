@@ -4974,8 +4974,8 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1112/117401.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1112/117401t.jpg",
         "synonyms": [
-            "Hikari Be My Light",
             "Hikari: Be My Light",
+            "Hikari~be my light",
             "自主制作アニメ予告編"
         ],
         "relations": [],
@@ -5563,8 +5563,8 @@
         "type": "special",
         "episodes": 3,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1558/122706.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1558/122706t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1398/122100.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1398/122100t.jpg",
         "synonyms": [
             "JoJo no Kimyou na Bouken Episode 13.5",
             "JoJo no Kimyou na Bouken Episode 21.5",
@@ -8340,6 +8340,7 @@
             "Моб Психо 100 II",
             "ม็อบไซโค 100 คนพลังจิต ภาค 2",
             "モブサイコ100 II",
+            "モブサイコ１００ Ⅱ",
             "灵能百分百 第二季",
             "路人超能100 II",
             "모브 사이코 100 II"
@@ -8621,8 +8622,8 @@
         ],
         "title": "Mukashibanashi Dokkiri Anime",
         "type": "ona",
-        "episodes": 0,
-        "status": "ongoing",
+        "episodes": 4,
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1948/99820.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1948/99820t.jpg",
         "synonyms": [
@@ -9235,10 +9236,6 @@
             "https://kitsu.io/anime/13326",
             "https://kitsu.io/anime/43164",
             "https://livechart.me/anime/10058",
-            "https://livechart.me/anime/10372",
-            "https://livechart.me/anime/10373",
-            "https://livechart.me/anime/10629",
-            "https://livechart.me/anime/10630",
             "https://livechart.me/anime/1707",
             "https://livechart.me/anime/1917",
             "https://livechart.me/anime/1980",
@@ -9246,6 +9243,12 @@
             "https://livechart.me/anime/2369",
             "https://livechart.me/anime/2663",
             "https://livechart.me/anime/3044",
+            "https://livechart.me/anime/8730",
+            "https://livechart.me/anime/8736",
+            "https://livechart.me/anime/8775",
+            "https://livechart.me/anime/8800",
+            "https://livechart.me/anime/9002",
+            "https://livechart.me/anime/9019",
             "https://livechart.me/anime/9241",
             "https://myanimelist.net/anime/35067",
             "https://myanimelist.net/anime/41052",
@@ -9691,6 +9694,7 @@
             "El bosque del piano Temporada 2",
             "Forest of Piano 2nd Season",
             "Forest of Piano Season 2",
+            "Forest of Piano Second Season",
             "Forest of Piano Staffel 2",
             "Forest of Piano: Season 2",
             "Il piano nella foresta (Stagione 2)",
@@ -14187,21 +14191,25 @@
     {
         "sources": [
             "https://anilist.co/anime/121431",
+            "https://anime-planet.com/anime/yurayura-ki",
             "https://kitsu.io/anime/45505"
         ],
-        "title": "Yurayura Ki",
+        "title": "Yurayura-ki",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45505/poster_image/small-0e311a9e265076e24d00e607825caf72.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45505/poster_image/tiny-3be8a8af04e99ffc35ac71a2f6ec84bb.jpeg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/yurayura-ki-1.webp?t=1654556567",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/yurayura-ki-1-285x399.webp?t=1654556567",
         "synonyms": [
+            "Yurayura Ki",
             "yurayura ki",
             "ゆらゆら記"
         ],
         "relations": [],
         "tags": [
-            "psychological"
+            "abstract",
+            "psychological",
+            "shorts"
         ],
         "date": {
             "season": "winter",

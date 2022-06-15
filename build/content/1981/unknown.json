@@ -81,6 +81,7 @@
     {
         "sources": [
             "https://anidb.net/anime/12556",
+            "https://anilist.co/anime/150584",
             "https://anime-planet.com/anime/houzi-lao-yue",
             "https://anisearch.com/anime/13404",
             "https://myanimelist.net/anime/43503"
@@ -96,6 +97,7 @@
             "Hou Zi Lao Yue",
             "Hō Zi Lao Yue",
             "Monkeys Fish the Moon",
+            "The Monkeys And The Moon",
             "猴子捞月",
             "猴子撈月"
         ],
@@ -113,6 +115,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/koutsuu-anzen-da-yo-doraemon",
             "https://myanimelist.net/anime/39369"
         ],
         "title": "Koutsuu Anzen Da yo Doraemon",
@@ -126,11 +129,15 @@
             "交通安全だよ ドラえもん"
         ],
         "relations": [
+            "https://anime-planet.com/anime/doraemon-1979",
             "https://myanimelist.net/anime/2471"
         ],
         "tags": [
+            "cats",
             "educational",
             "kids",
+            "robots",
+            "sci fi",
             "sci-fi"
         ],
         "date": {

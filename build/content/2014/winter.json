@@ -3081,6 +3081,7 @@
     {
         "sources": [
             "https://anilist.co/anime/146669",
+            "https://anime-planet.com/anime/hazamatsuri",
             "https://kitsu.io/anime/45691",
             "https://myanimelist.net/anime/50697",
             "https://myanimelist.net/anime/50712"
@@ -3101,7 +3102,10 @@
             "comedy",
             "demon",
             "fantasy",
-            "supernatural"
+            "japanese mythology",
+            "shorts",
+            "supernatural",
+            "youkai"
         ],
         "date": {
             "season": "winter",
@@ -10379,7 +10383,8 @@
             "space",
             "space travel",
             "surfing",
-            "surreal comedy"
+            "surreal comedy",
+            "zombie"
         ],
         "date": {
             "season": "winter",
@@ -12394,14 +12399,6 @@
             "https://anime-planet.com/anime/washimo-7",
             "https://anime-planet.com/anime/washimo-8",
             "https://anime-planet.com/anime/washimo-9",
-            "https://anisearch.com/anime/10102",
-            "https://anisearch.com/anime/10577",
-            "https://anisearch.com/anime/11347",
-            "https://anisearch.com/anime/12777",
-            "https://anisearch.com/anime/13547",
-            "https://anisearch.com/anime/15035",
-            "https://anisearch.com/anime/15736",
-            "https://anisearch.com/anime/16858",
             "https://kitsu.io/anime/10473",
             "https://livechart.me/anime/10479",
             "https://livechart.me/anime/11120",
@@ -14019,7 +14016,9 @@
             "Zhong Guo Jing Qi Xian Sheng",
             "中国惊奇先生"
         ],
-        "relations": [],
+        "relations": [
+            "https://anime-planet.com/anime/zhongguo-jingqi-xiansheng-movie"
+        ],
         "tags": [
             "based on a manga",
             "chinese animation",

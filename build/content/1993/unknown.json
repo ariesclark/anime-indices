@@ -211,6 +211,26 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/150587"
+        ],
+        "title": "Lu Nü",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150587-WeonNlGvb8b5.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150587-WeonNlGvb8b5.png",
+        "synonyms": [
+            "鹿女"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 1993
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/30057"
         ],
         "title": "Mabeobsa-ui Adeul Cory",
@@ -660,6 +680,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/world-heroes",
             "https://myanimelist.net/anime/51677"
         ],
         "title": "World Heroes",
@@ -674,8 +695,10 @@
         "relations": [],
         "tags": [
             "action",
+            "based on a video game",
             "fantasy",
             "sci-fi",
+            "shorts",
             "super power",
             "supernatural",
             "time travel"

@@ -311,7 +311,9 @@
         "synonyms": [
             "花と風のファンタジー"
         ],
-        "relations": [],
+        "relations": [
+            "https://myanimelist.net/anime/51789"
+        ],
         "tags": [
             "kids",
             "music"
@@ -977,6 +979,29 @@
         "tags": [
             "amnesia",
             "fantasy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2004
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/the-garden-of-delights"
+        ],
+        "title": "The Garden of Delights",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/the-garden-of-delights-1.webp?t=1654969768",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-garden-of-delights-1-285x399.webp?t=1654969768",
+        "synonyms": [
+            "Xiangle Huayuan"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "shorts"
         ],
         "date": {
             "season": "unknown",

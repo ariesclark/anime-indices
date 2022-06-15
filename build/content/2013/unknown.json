@@ -1227,6 +1227,28 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/hajimete-no-otsukai"
+        ],
+        "title": "Hajimete no Otsukai",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/hajimete-no-otsukai-1.webp?t=1654663051",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/hajimete-no-otsukai-1-285x399.webp?t=1654663051",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "family friendly",
+            "shorts",
+            "slice of life"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2013
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/handsome-kenya-tenuto"
         ],
         "title": "Handsome Kenya: Tenuto",
@@ -2631,28 +2653,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/115148"
-        ],
-        "title": "Mirai Delivery",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115148-kU9Ex4nJIwJ0.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115148-kU9Ex4nJIwJ0.png",
-        "synonyms": [
-            "Future Delivery",
-            "Mirai Deribarii",
-            "未来デリバリー"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/mitchie-m-viva-happy"
         ],
         "title": "Mitchie M: Viva Happy",
@@ -2932,6 +2932,7 @@
         "synonyms": [],
         "relations": [],
         "tags": [
+            "brothel",
             "gl",
             "historical",
             "mature romance",
@@ -4270,6 +4271,31 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/sushi-samurai"
+        ],
+        "title": "Sushi Samurai",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/sushi-samurai-1.webp?t=1654665978",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/sushi-samurai-1-285x399.webp?t=1654665978",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "non-human protagonists",
+            "rabbits",
+            "samurai",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2013
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/swirl-fighter-3"
         ],
         "title": "Swirl Fighter 3",
@@ -4389,6 +4415,31 @@
         "relations": [],
         "tags": [
             "music"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2013
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/the-present"
+        ],
+        "title": "The Present",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "synonyms": [
+            "Liwu"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "horror",
+            "revenge",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -4618,6 +4669,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/wu-long-xiao-zi-yong-chuang-le-huo-dao",
             "https://myanimelist.net/anime/44468"
         ],
         "title": "Wu Long Xiao Zi: Yong Chuang Le Huo Dao",
@@ -4630,11 +4682,15 @@
             "乌龙小子之勇闯乐活岛"
         ],
         "relations": [
+            "https://anime-planet.com/anime/wu-long-xiao-zi",
             "https://myanimelist.net/anime/44467"
         ],
         "tags": [
+            "chinese animation",
+            "family friendly",
             "fantasy",
-            "kids"
+            "kids",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -5383,6 +5439,26 @@
         "relations": [],
         "tags": [
             "vocaloid"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2013
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/take-it-easy"
+        ],
+        "title": "take it easy",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/take-it-easy-1.webp?t=1654662517",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/take-it-easy-1-285x399.webp?t=1654662517",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "shorts"
         ],
         "date": {
             "season": "unknown",

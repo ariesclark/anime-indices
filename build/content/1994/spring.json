@@ -151,6 +151,8 @@
             "https://anilist.co/anime/740",
             "https://anilist.co/anime/8756",
             "https://anilist.co/anime/997",
+            "https://anime-planet.com/anime/bishoujo-senshi-sailor-moon-cosmos-movie-1",
+            "https://anime-planet.com/anime/bishoujo-senshi-sailor-moon-cosmos-movie-2",
             "https://anime-planet.com/anime/momoiro-clover-z-moon-pride",
             "https://anime-planet.com/anime/pretty-guardian-sailor-moon-crystal",
             "https://anime-planet.com/anime/pretty-guardian-sailor-moon-crystal-2016",
@@ -458,39 +460,6 @@
             "https://anime-planet.com/anime/crayon-shin-chan-movie-7-bakuhatsu-onsen-wakuwaku-daikessen",
             "https://anime-planet.com/anime/crayon-shin-chan-movie-8-arashi-wo-yobu-jungle",
             "https://anime-planet.com/anime/crayon-shin-chan-movie-9-the-adult-empire-strikes-back",
-            "https://anisearch.com/anime/10894",
-            "https://anisearch.com/anime/11594",
-            "https://anisearch.com/anime/118",
-            "https://anisearch.com/anime/11964",
-            "https://anisearch.com/anime/12259",
-            "https://anisearch.com/anime/12333",
-            "https://anisearch.com/anime/12938",
-            "https://anisearch.com/anime/13971",
-            "https://anisearch.com/anime/1433",
-            "https://anisearch.com/anime/14678",
-            "https://anisearch.com/anime/15820",
-            "https://anisearch.com/anime/16903",
-            "https://anisearch.com/anime/178",
-            "https://anisearch.com/anime/1843",
-            "https://anisearch.com/anime/2571",
-            "https://anisearch.com/anime/3743",
-            "https://anisearch.com/anime/3744",
-            "https://anisearch.com/anime/3747",
-            "https://anisearch.com/anime/3748",
-            "https://anisearch.com/anime/3838",
-            "https://anisearch.com/anime/3839",
-            "https://anisearch.com/anime/3840",
-            "https://anisearch.com/anime/3841",
-            "https://anisearch.com/anime/3853",
-            "https://anisearch.com/anime/4011",
-            "https://anisearch.com/anime/4634",
-            "https://anisearch.com/anime/5191",
-            "https://anisearch.com/anime/6595",
-            "https://anisearch.com/anime/6656",
-            "https://anisearch.com/anime/7782",
-            "https://anisearch.com/anime/8214",
-            "https://anisearch.com/anime/9271",
-            "https://anisearch.com/anime/9894",
             "https://kitsu.io/anime/4480",
             "https://kitsu.io/anime/5307",
             "https://kitsu.io/anime/856",
@@ -1894,35 +1863,8 @@
     {
         "sources": [
             "https://anidb.net/anime/10930",
-            "https://anisearch.com/anime/10220"
-        ],
-        "title": "My Melody no Ookami-san ni Ki o Tsukete",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/10/10220.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/10/10220.webp",
-        "synonyms": [
-            "My Melody no Ookami-san ni Ki wo Tsukete",
-            "My Melody no Ōkami-san ni Ki o Tsukete",
-            "マイメロディのオオカミさんにきをつけて"
-        ],
-        "relations": [
-            "https://anidb.net/anime/2966",
-            "https://anidb.net/anime/5796",
-            "https://anidb.net/anime/9195"
-        ],
-        "tags": [
-            "kodomo"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 1994
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/my-melody-no-ookami-san-ni-ki-wo-tsukete",
+            "https://anisearch.com/anime/10220",
             "https://kitsu.io/anime/45547",
             "https://myanimelist.net/anime/50377"
         ],
@@ -1933,10 +1875,15 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1700/119464.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1700/119464t.jpg",
         "synonyms": [
+            "My Melody no Ookami-san ni Ki o Tsukete",
+            "My Melody no Ōkami-san ni Ki o Tsukete",
             "My Melody's \"Beware of Mr. Wolf!\"",
             "マイメロディのオオカミさんにきをつけて"
         ],
         "relations": [
+            "https://anidb.net/anime/2966",
+            "https://anidb.net/anime/5796",
+            "https://anidb.net/anime/9195",
             "https://anime-planet.com/anime/my-melody-no-akazukin",
             "https://kitsu.io/anime/9889",
             "https://myanimelist.net/anime/17979"
@@ -1944,6 +1891,7 @@
         "tags": [
             "family friendly",
             "kids",
+            "kodomo",
             "sanrio characters"
         ],
         "date": {

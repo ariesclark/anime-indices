@@ -13,9 +13,7 @@
             "1% Lover",
             "1%の恋人"
         ],
-        "relations": [
-            "https://anilist.co/anime/122370"
-        ],
+        "relations": [],
         "tags": [
             "romance"
         ],
@@ -693,7 +691,9 @@
             "Little Bell and Ami's Love Story",
             "阿巳与小铃铛"
         ],
-        "relations": [],
+        "relations": [
+            "https://anilist.co/anime/150580"
+        ],
         "tags": [
             "comedy",
             "full cgi",
@@ -3545,6 +3545,26 @@
         ],
         "relations": [],
         "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/hand"
+        ],
+        "title": "Hand",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/hand-1.webp?t=1655082258",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/hand-1-285x399.webp?t=1655082258",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "shorts"
+        ],
         "date": {
             "season": "unknown",
             "year": 2020
@@ -7368,26 +7388,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/51312"
-        ],
-        "title": "PH",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1150/121612.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1150/121612t.jpg",
-        "synonyms": [
-            "p.h."
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/48813"
         ],
         "title": "Pachislot Eureka Seven 3",
@@ -8878,6 +8878,8 @@
         "synonyms": [],
         "relations": [],
         "tags": [
+            "coming of age",
+            "lgbtq+ themes",
             "psychological"
         ],
         "date": {
@@ -9368,6 +9370,59 @@
             "non-human protagonists",
             "shorts",
             "slapstick"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/tamaya-shichiten-cm-takusareta-omoi-hen"
+        ],
+        "title": "Tamaya Shichiten CM: Takusareta Omoi-hen",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/tamaya-shichiten-cm-takusareta-omoi-hen-1.webp?t=1654555341",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/tamaya-shichiten-cm-takusareta-omoi-hen-1-277x389.webp?t=1654555341",
+        "synonyms": [
+            "Tamaya Pawn Shop CM: Takusareta Omoi-hen"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/tamaya-shichiten-cm-shichiyatte-donna-toko",
+            "https://anime-planet.com/anime/tamaya-shichiten-cm-tanjoubi-hen"
+        ],
+        "tags": [
+            "commercials",
+            "fantasy",
+            "promotional"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/tamaya-shichiten-cm-tanjoubi-hen"
+        ],
+        "title": "Tamaya Shichiten CM: Tanjoubi-hen",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/tamaya-shichiten-cm-tanjoubi-hen-1.webp?t=1654555143",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/tamaya-shichiten-cm-tanjoubi-hen-1-285x400.webp?t=1654555143",
+        "synonyms": [
+            "Tamaya Pawn Shop CM: Tanjoubi-hen"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/tamaya-shichiten-cm-shichiyatte-donna-toko",
+            "https://anime-planet.com/anime/tamaya-shichiten-cm-takusareta-omoi-hen"
+        ],
+        "tags": [
+            "commercials",
+            "promotional"
         ],
         "date": {
             "season": "unknown",

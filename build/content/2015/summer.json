@@ -3832,8 +3832,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/5/76109.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/5/76109t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1492/122102.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1492/122102t.jpg",
         "synonyms": [
             "GANGSTA.",
             "GANGSTA. ギャングスタ",
@@ -11529,6 +11529,33 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tamaya-shichiten-cm-shichiyatte-donna-toko"
+        ],
+        "title": "Tamaya Shichiten CM: Shichiyatte Donna Toko",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/tamaya-shichiten-cm-shichiyatte-donna-toko-1.webp?t=1654554516",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/tamaya-shichiten-cm-shichiyatte-donna-toko-1-262x367.webp?t=1654554516",
+        "synonyms": [
+            "Tamaya Pawn Shop CM: Shichiyatte Donna Toko"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/tamaya-shichiten-cm-takusareta-omoi-hen",
+            "https://anime-planet.com/anime/tamaya-shichiten-cm-tanjoubi-hen"
+        ],
+        "tags": [
+            "commercials",
+            "promotional",
+            "work life"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/21135",
             "https://anime-planet.com/anime/tamayura-sotsugyou-shashin-movie-2",
             "https://kitsu.io/anime/10439",
@@ -12911,6 +12938,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/wo-shi-da-xiong-mao-zhi-xiong-mao-da-xia",
             "https://myanimelist.net/anime/51357"
         ],
         "title": "Wo Shi Da Xiongmao: Xiongmao Da Xia",
@@ -12921,12 +12949,17 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1681/121698t.jpg",
         "synonyms": [
             "Happy Panda 2: Panda Hero Legend",
+            "Wo Shi Da Xiong Mao Zhi Xiong Mao Da Xia",
             "我是大熊猫之熊猫大侠"
         ],
         "relations": [
+            "https://anime-planet.com/anime/wo-shi-da-xiongmao",
             "https://myanimelist.net/anime/51356"
         ],
         "tags": [
+            "adventure",
+            "animal protagonists",
+            "chinese animation",
             "fantasy",
             "kids"
         ],
