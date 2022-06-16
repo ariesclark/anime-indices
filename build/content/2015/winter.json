@@ -6967,6 +6967,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/102778",
             "https://kitsu.io/anime/13137",
             "https://myanimelist.net/anime/34500",
             "https://notify.moe/anime/6DpGhKiig"
@@ -6978,10 +6979,12 @@
         "picture": "https://cdn.myanimelist.net/images/anime/3/83186.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/3/83186t.jpg",
         "synonyms": [
+            "Nami Hexin SP: Lianxi Pian 2015 Xinnian Tebie Ban",
             "Nanocore: 2015 New Year Special",
             "纳米核心 SP 练习篇 2015新年特别版"
         ],
         "relations": [
+            "https://anilist.co/anime/102775",
             "https://kitsu.io/anime/12162",
             "https://kitsu.io/anime/12287",
             "https://kitsu.io/anime/12379",
@@ -6994,6 +6997,7 @@
         ],
         "tags": [
             "comedy",
+            "full cgi",
             "music"
         ],
         "date": {
@@ -7003,6 +7007,8 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/102779",
+            "https://anime-planet.com/anime/nanocore-nanos-daily-life",
             "https://kitsu.io/anime/12380",
             "https://myanimelist.net/anime/33279",
             "https://notify.moe/anime/Z_SzhFmmg"
@@ -7014,17 +7020,28 @@
         "picture": "https://cdn.myanimelist.net/images/anime/2/79966.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/2/79966t.jpg",
         "synonyms": [
+            "Nami Hexin - NG Scenes - Nano's Daily Life",
+            "Nami Hexin: NG Scenes - Nano's Daily Life",
+            "Nanocore: Nano's Daily Life",
             "纳米核心 - NG镜头 - 纳米的日"
         ],
         "relations": [
+            "https://anilist.co/anime/102775",
+            "https://anime-planet.com/anime/nanocore",
+            "https://anime-planet.com/anime/nanocore-2016-xinnian-tebie-ban",
             "https://kitsu.io/anime/12379",
             "https://myanimelist.net/anime/33266",
             "https://notify.moe/anime/0ESk2KmmR"
         ],
         "tags": [
+            "cg animation",
+            "chinese animation",
             "comedy",
+            "full cgi",
+            "sci fi",
             "sci-fi",
-            "science fiction"
+            "science fiction",
+            "short episodes"
         ],
         "date": {
             "season": "winter",
@@ -8143,6 +8160,9 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/13576",
+            "https://anilist.co/anime/121299",
+            "https://anime-planet.com/anime/qin-shi-mingyue-tebie-pian-dizi-jiang-xi",
             "https://kitsu.io/anime/12403",
             "https://myanimelist.net/anime/33278",
             "https://notify.moe/anime/txdkhKimR"
@@ -8155,47 +8175,12 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/10/79965t.jpg",
         "synonyms": [
             "Qin Shi Ming Yue Tebie Pian: Di Zi Jiang Xi",
+            "Qin Shi Mingyue Tebie Pian: Dizi Jiang Xi",
             "Qin Shiming Yue Tebie Pian: Di Zi Jiang Xi",
             "Qin's Moon: Lady Xiang Descends",
-            "秦时明月特别篇《帝子降兮》"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/7337",
-            "https://myanimelist.net/anime/11835",
-            "https://myanimelist.net/anime/11841",
-            "https://myanimelist.net/anime/15905",
-            "https://myanimelist.net/anime/29910",
-            "https://myanimelist.net/anime/29936",
-            "https://myanimelist.net/anime/9806",
-            "https://notify.moe/anime/cnHFtKimR"
-        ],
-        "tags": [
-            "action",
-            "fantasy",
-            "historical",
-            "martial arts"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/13576",
-            "https://anilist.co/anime/121299",
-            "https://anime-planet.com/anime/qin-shi-mingyue-tebie-pian-dizi-jiang-xi"
-        ],
-        "title": "Qin Shi Mingyue Tebie Pian: Dizi Jiang Xi",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/qin-shi-mingyue-tebie-pian-dizi-jiang-xi-1.jpg?t=1625898352",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/qin-shi-mingyue-tebie-pian-dizi-jiang-xi-1-190x296.jpg?t=1625898352",
-        "synonyms": [
-            "Qin's Moon: Lady Xiang Descends",
             "秦时明月 特别篇: 帝子降兮",
-            "秦时明月之帝子降兮"
+            "秦时明月之帝子降兮",
+            "秦时明月特别篇《帝子降兮》"
         ],
         "relations": [
             "https://anidb.net/anime/12479",
@@ -8209,7 +8194,15 @@
             "https://anime-planet.com/anime/qin-shi-mingyue-ye-jin-tianming",
             "https://anime-planet.com/anime/qin-shi-mingyue-yi-zhe-ru-shi",
             "https://anime-planet.com/anime/qin-shi-mingyue-zhu-zi-bai-jia",
-            "https://anime-planet.com/anime/the-legend-of-qin"
+            "https://anime-planet.com/anime/the-legend-of-qin",
+            "https://kitsu.io/anime/7337",
+            "https://myanimelist.net/anime/11835",
+            "https://myanimelist.net/anime/11841",
+            "https://myanimelist.net/anime/15905",
+            "https://myanimelist.net/anime/29910",
+            "https://myanimelist.net/anime/29936",
+            "https://myanimelist.net/anime/9806",
+            "https://notify.moe/anime/cnHFtKimR"
         ],
         "tags": [
             "action",

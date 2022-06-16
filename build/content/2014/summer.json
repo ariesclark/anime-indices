@@ -9736,16 +9736,23 @@
         "sources": [
             "https://anidb.net/anime/13575",
             "https://anilist.co/anime/121300",
-            "https://anime-planet.com/anime/qin-shi-mingyue-luo-shengtang-xia"
+            "https://anime-planet.com/anime/qin-shi-mingyue-luo-shengtang-xia",
+            "https://kitsu.io/anime/10557",
+            "https://myanimelist.net/anime/29937",
+            "https://notify.moe/anime/ZzmQpKmiR"
         ],
-        "title": "Qin Shi Mingyue: Luo Shengtang Xia",
+        "title": "Qin Shi Mingyue: Luosheng Tangxia",
         "type": "ona",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/qin-shi-mingyue-luo-shengtang-xia-1.jpg?t=1625898350",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/qin-shi-mingyue-luo-shengtang-xia-1-190x276.jpg?t=1625898350",
+        "picture": "https://cdn.myanimelist.net/images/anime/10/71825.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/10/71825t.jpg",
         "synonyms": [
+            "Qin Shi Ming Yue Zhi: Luosheng Tangxia",
+            "Qin Shi Mingyue: Luo Shengtang Xia",
+            "Qin Shiming Yue Zhi: Luosheng Tangxia",
             "Qin's Moon: Under Luosheng Tang",
+            "Under Luosheng Tang",
             "秦时明月之特别篇罗生堂下",
             "秦时明月之罗生堂下"
         ],
@@ -9762,43 +9769,7 @@
             "https://anime-planet.com/anime/qin-shi-mingyue-ye-jin-tianming",
             "https://anime-planet.com/anime/qin-shi-mingyue-yi-zhe-ru-shi",
             "https://anime-planet.com/anime/qin-shi-mingyue-zhu-zi-bai-jia",
-            "https://anime-planet.com/anime/the-legend-of-qin"
-        ],
-        "tags": [
-            "action",
-            "ancient china",
-            "cg animation",
-            "chinese animation",
-            "fantasy",
-            "full cgi",
-            "historical",
-            "new",
-            "wuxia"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/10557",
-            "https://myanimelist.net/anime/29937",
-            "https://notify.moe/anime/ZzmQpKmiR"
-        ],
-        "title": "Qin Shi Mingyue: Luosheng Tangxia",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/10/71825.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/10/71825t.jpg",
-        "synonyms": [
-            "Qin Shi Ming Yue Zhi: Luosheng Tangxia",
-            "Qin Shiming Yue Zhi: Luosheng Tangxia",
-            "Under Luosheng Tang",
-            "秦时明月之罗生堂下"
-        ],
-        "relations": [
+            "https://anime-planet.com/anime/the-legend-of-qin",
             "https://kitsu.io/anime/7337",
             "https://myanimelist.net/anime/11835",
             "https://myanimelist.net/anime/11841",
@@ -9810,9 +9781,15 @@
         ],
         "tags": [
             "action",
+            "ancient china",
+            "cg animation",
+            "chinese animation",
             "fantasy",
+            "full cgi",
             "historical",
-            "martial arts"
+            "martial arts",
+            "new",
+            "wuxia"
         ],
         "date": {
             "season": "summer",
@@ -11685,7 +11662,10 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/31113"
+            "https://kitsu.io/anime/11183",
+            "https://livechart.me/anime/6652",
+            "https://myanimelist.net/anime/31113",
+            "https://notify.moe/anime/RdUXpKmmR"
         ],
         "title": "Suisei no Gargantia: Puchitto Furikaerintia",
         "type": "special",
@@ -11696,19 +11676,25 @@
         "synonyms": [
             "Gargantia on the Verdurous Planet Recap",
             "Petit Recap",
+            "Puchitto Furikaerintia",
             "Suisei no Gargantia Recap",
             "Suisei no Gargantia: Li'l Recapantia",
             "ぷちっとふりかえりんてぃあ"
         ],
         "relations": [
+            "https://kitsu.io/anime/7449",
+            "https://kitsu.io/anime/8419",
             "https://myanimelist.net/anime/16524",
-            "https://myanimelist.net/anime/23319"
+            "https://myanimelist.net/anime/23319",
+            "https://notify.moe/anime/Svv0pKmmg",
+            "https://notify.moe/anime/f2QKtKiiR"
         ],
         "tags": [
             "action",
             "adventure",
             "mecha",
-            "sci-fi"
+            "sci-fi",
+            "science fiction"
         ],
         "date": {
             "season": "summer",

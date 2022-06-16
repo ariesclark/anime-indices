@@ -7342,6 +7342,7 @@
     {
         "sources": [
             "https://anilist.co/anime/115105",
+            "https://anime-planet.com/anime/tacica-newsong",
             "https://kitsu.io/anime/43882",
             "https://myanimelist.net/anime/40971"
         ],
@@ -7351,13 +7352,17 @@
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1604/105144.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1604/105144t.jpg",
-        "synonyms": [],
+        "synonyms": [
+            "Tacica: Newsong"
+        ],
         "relations": [
             "https://anilist.co/anime/1735",
+            "https://anime-planet.com/anime/naruto-shippuden",
             "https://myanimelist.net/anime/1735"
         ],
         "tags": [
             "achromatic",
+            "black and white",
             "music",
             "post-apocalyptic",
             "sci-fi",
@@ -7434,6 +7439,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/ninja-hattori-returns-special",
             "https://kitsu.io/anime/10703",
             "https://myanimelist.net/anime/30177",
             "https://notify.moe/anime/4eBwtFmiR"
@@ -7445,16 +7451,25 @@
         "picture": "https://cdn.myanimelist.net/images/anime/2/72216.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/2/72216t.jpg",
         "synonyms": [
+            "Ninja Hattori Returns Special",
+            "Ninja Hattori-kun Returns Special",
             "忍者ハットリくん (2012)"
         ],
         "relations": [
+            "https://anime-planet.com/anime/ninja-hattori-kun",
+            "https://anime-planet.com/anime/ninja-hattori-kun-nin-nin-furusato-daisakusen-no-maki",
+            "https://anime-planet.com/anime/ninja-hattori-kun-nin-nin-ninpo-enikki-no-maki",
+            "https://anime-planet.com/anime/ninja-hattori-returns",
             "https://kitsu.io/anime/9064",
             "https://myanimelist.net/anime/18845",
             "https://notify.moe/anime/pCmapFmiR"
         ],
         "tags": [
+            "based on a manga",
             "comedy",
-            "kids"
+            "kids",
+            "ninja",
+            "shounen"
         ],
         "date": {
             "season": "winter",
@@ -8544,31 +8559,9 @@
     {
         "sources": [
             "https://anidb.net/anime/11658",
+            "https://anilist.co/anime/103367",
             "https://anime-planet.com/anime/requiem-2012",
-            "https://anisearch.com/anime/11207"
-        ],
-        "title": "Requiem (2012)",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/requiem-2012-1.jpg?t=1625898725",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/requiem-2012-1-190x266.jpg?t=1625898725",
-        "synonyms": [
-            "レクイエム",
-            "レクイエム （2012）"
-        ],
-        "relations": [],
-        "tags": [
-            "abstract",
-            "shorts"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
+            "https://anisearch.com/anime/11207",
             "https://kitsu.io/anime/11425",
             "https://myanimelist.net/anime/31689",
             "https://notify.moe/anime/Af39tFimg"
@@ -8580,12 +8573,22 @@
         "picture": "https://cdn.myanimelist.net/images/anime/10/76374.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/10/76374t.jpg",
         "synonyms": [
-            "レクイエム"
+            "Chinkonka",
+            "Requiem",
+            "Requiem (2012)",
+            "レクイエム",
+            "レクイエム （2012）",
+            "鎮魂歌"
         ],
         "relations": [],
         "tags": [
+            "abstract",
+            "achromatic",
             "avant garde",
-            "dementia"
+            "dementia",
+            "no dialogue",
+            "nudity",
+            "shorts"
         ],
         "date": {
             "season": "winter",

@@ -9308,6 +9308,7 @@
     {
         "sources": [
             "https://anilist.co/anime/109080",
+            "https://anime-planet.com/anime/group-inou-orientation",
             "https://kitsu.io/anime/44796",
             "https://myanimelist.net/anime/50080"
         ],
@@ -9318,10 +9319,12 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1679/118710.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1679/118710t.jpg",
         "synonyms": [
-            "ORIENTATION"
+            "ORIENTATION",
+            "group_inou: ORIENTATION"
         ],
         "relations": [],
         "tags": [
+            "comedy",
             "delinquents",
             "music",
             "satire"

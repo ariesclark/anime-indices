@@ -4662,34 +4662,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/kuma-no-keimusho",
-            "https://anisearch.com/anime/8380"
-        ],
-        "title": "Kuma no Keimusho",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/kuma-no-keimusho-1.jpg?t=1625908058",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kuma-no-keimusho-1-190x266.jpg?t=1625908058",
-        "synonyms": [
-            "くまのけいむしょ"
-        ],
-        "relations": [],
-        "tags": [
-            "animal protagonists",
-            "bears",
-            "comedy",
-            "non-human protagonists",
-            "prison",
-            "shorts"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/10741",
             "https://anilist.co/anime/12433",
             "https://anime-planet.com/anime/extreme-escape-adventure-good-people-die",
@@ -7176,6 +7148,8 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kuma-no-keimusho",
+            "https://anisearch.com/anime/8380",
             "https://kitsu.io/anime/9553",
             "https://myanimelist.net/anime/24811",
             "https://notify.moe/anime/gW6fpFimR"
@@ -7187,6 +7161,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/6/63759.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/6/63759t.jpg",
         "synonyms": [
+            "Kuma no Keimusho",
             "くまのけいむしょ"
         ],
         "relations": [
@@ -7195,7 +7170,12 @@
             "https://notify.moe/anime/VP-atKmiR"
         ],
         "tags": [
-            "comedy"
+            "animal protagonists",
+            "bears",
+            "comedy",
+            "non-human protagonists",
+            "prison",
+            "shorts"
         ],
         "date": {
             "season": "fall",

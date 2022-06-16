@@ -9643,31 +9643,7 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/145985"
-        ],
-        "title": "Osomatsu-san 2 Short Film Series",
-        "type": "special",
-        "episodes": 4,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145985-yIeSw33Stvnx.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145985-yIeSw33Stvnx.jpg",
-        "synonyms": [
-            "おそ松さん 第2期ショートフィルムシリーズ"
-        ],
-        "relations": [
-            "https://anilist.co/anime/98565"
-        ],
-        "tags": [
-            "comedy",
-            "parody"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/145985",
             "https://kitsu.io/anime/41662",
             "https://livechart.me/anime/8800",
             "https://myanimelist.net/anime/36761"
@@ -9680,9 +9656,12 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/7/88890t.jpg",
         "synonyms": [
             "Mr. Osomatsu Short Film Series 2nd Season",
-            "おそ松さん ショートフィルムシリーズ 第2期"
+            "Osomatsu-san 2 Short Film Series",
+            "おそ松さん ショートフィルムシリーズ 第2期",
+            "おそ松さん 第2期ショートフィルムシリーズ"
         ],
         "relations": [
+            "https://anilist.co/anime/98565",
             "https://myanimelist.net/anime/32383",
             "https://myanimelist.net/anime/35018",
             "https://myanimelist.net/anime/35067"
@@ -10650,6 +10629,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/promedicus-cm",
             "https://kitsu.io/anime/41301",
             "https://myanimelist.net/anime/37877",
             "https://notify.moe/anime/kFROjmDiR"
@@ -10661,12 +10641,16 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1313/92900.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1313/92900t.jpg",
         "synonyms": [
+            "Promedicus CM",
             "プロメディカス"
         ],
         "relations": [],
         "tags": [
+            "promotional",
             "school",
-            "school life"
+            "school life",
+            "short episodes",
+            "shorts"
         ],
         "date": {
             "season": "winter",
@@ -10996,7 +10980,10 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/108939",
             "https://anime-planet.com/anime/relife-kanketsu-hen-specials",
+            "https://anisearch.com/anime/14742",
+            "https://kitsu.io/anime/41861",
             "https://livechart.me/anime/8704",
             "https://myanimelist.net/anime/37921"
         ],
@@ -11009,16 +10996,29 @@
         "synonyms": [
             "Confidential Relife Institute Support Department",
             "ReLIFE Kanketsu-hen Special Smartphone Anime",
+            "ReLIFE 完結編 社外秘 リライフ研究所 サポート課",
+            "ReLIFE: Confidential Relife Institute Support Department",
+            "ReLIFE: Final Arc - Internal Secret Files",
+            "Relife: Kanketsu-hen - Shagaihi Relife Kenkyuusho Support-ka",
+            "Relife: Kanketsu-hen - Shagaihi Relife Kenkyūsho Support-ka",
+            "Shagahai ReLIFE Kenkyuujo Support-ka",
+            "Shagaihi ReLIFE Kenkyujo Support-ka",
             "Shagaihi ReLIFE Kenkyuusho Support-ka",
             "社外秘 リライフ研究所 サポート課"
         ],
         "relations": [
+            "https://anilist.co/anime/98635",
             "https://anime-planet.com/anime/relife",
             "https://anime-planet.com/anime/relife-kanketsu-hen",
             "https://myanimelist.net/anime/35466"
         ],
         "tags": [
+            "age regression",
             "based on a webtoon",
+            "comedy",
+            "kuudere",
+            "present",
+            "school",
             "slice of life"
         ],
         "date": {
@@ -11060,34 +11060,6 @@
             "present",
             "school girl",
             "threesome"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/14742"
-        ],
-        "title": "Relife: Kanketsu-hen - Shagaihi Relife Kenkyuusho Support-ka",
-        "type": "special",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14742.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14742.webp",
-        "synonyms": [
-            "ReLIFE Kanketsu-hen Special Smartphone Anime",
-            "ReLIFE 完結編 社外秘 リライフ研究所 サポート課",
-            "ReLIFE: Confidential Relife Institute Support Department",
-            "ReLIFE: Final Arc - Internal Secret Files",
-            "Relife: Kanketsu-hen - Shagaihi Relife Kenkyūsho Support-ka"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "present",
-            "slice of life"
         ],
         "date": {
             "season": "winter",
@@ -11785,34 +11757,6 @@
             "superheroes",
             "tokusatsu",
             "tourism"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/108939"
-        ],
-        "title": "Shagahai ReLIFE Kenkyuujo Support-ka",
-        "type": "ona",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108939-t99SwYtxtBuR.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108939-t99SwYtxtBuR.jpg",
-        "synonyms": [
-            "ReLIFE: Kanketsu-hen Specials",
-            "社外秘 リライフ研究所 サポート課"
-        ],
-        "relations": [
-            "https://anilist.co/anime/98635"
-        ],
-        "tags": [
-            "age regression",
-            "kuudere",
-            "school",
-            "slice of life"
         ],
         "date": {
             "season": "winter",
