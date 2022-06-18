@@ -8968,6 +8968,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/136779",
             "https://anime-planet.com/anime/rhythmens",
             "https://kitsu.io/anime/45980",
             "https://myanimelist.net/anime/50289"
@@ -8987,8 +8988,12 @@
             "https://myanimelist.net/anime/51151"
         ],
         "tags": [
+            "animals",
+            "episodic",
             "korean animation",
             "no dialogue",
+            "outdoor",
+            "rural",
             "short episodes",
             "slice of life"
         ],
@@ -10053,37 +10058,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/44789"
-        ],
-        "title": "Shiguang Daili Ren Fan Wai Pian: Biwu Zhaoqin",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44789/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44789/tiny.jpg",
-        "synonyms": [
-            "LINK CLICK Episode 5.5",
-            "LINK CLICK Special",
-            "时光代理人 番外篇 比武招亲"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/44503"
-        ],
-        "tags": [
-            "action",
-            "drama",
-            "fantasy",
-            "psychological",
-            "super power",
-            "supernatural"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/16290",
             "https://anilist.co/anime/126403",
             "https://anime-planet.com/anime/link-click",
@@ -10180,6 +10154,7 @@
         "sources": [
             "https://anime-planet.com/anime/link-click-marrying-by-contesting",
             "https://anisearch.com/anime/16489",
+            "https://kitsu.io/anime/44789",
             "https://myanimelist.net/anime/49200"
         ],
         "title": "Shiguang Dailiren Fan Wai Pian: Biwu Zhaoqin",
@@ -10189,26 +10164,33 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1008/118860.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1008/118860t.jpg",
         "synonyms": [
+            "LINK CLICK Episode 5.5",
+            "LINK CLICK Special",
             "Link Click Episode 5.5",
             "Link Click Episode Special",
             "Link Click Special",
             "Link Click: Marrying by Contesting",
             "Link Click: Spezialfolge",
             "Shi Guang Dai Li Ren Fan Wai Pian: Bi Wu Zhao Qin",
+            "Shiguang Daili Ren Fan Wai Pian: Biwu Zhaoqin",
             "Shiguang Dailiren Episode 5.5",
             "Shiguang Dailiren: Biwu Zhaoqin",
             "时光代理人 番外篇 比武招亲"
         ],
         "relations": [
             "https://anime-planet.com/anime/link-click",
+            "https://kitsu.io/anime/44503",
             "https://myanimelist.net/anime/44074"
         ],
         "tags": [
+            "action",
             "chinese animation",
             "contemporary fantasy",
             "drama",
             "fantasy",
+            "psychological",
             "super power",
+            "supernatural",
             "time travel",
             "urban fantasy"
         ],

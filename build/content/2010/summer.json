@@ -1209,33 +1209,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/15095"
-        ],
-        "title": "Chibi Chibi Enki Shin Koihime Flash: Mukuwarenai Kumi, Mukuwaren to Suru no Koto",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15095.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15095.jpg",
-        "synonyms": [
-            "Shin Koihime†Musou OVA Omake",
-            "ちびちび演義 真・恋姫ふらっしゅ～報われない組、報われんとするのこと～"
-        ],
-        "relations": [
-            "https://anilist.co/anime/7774"
-        ],
-        "tags": [
-            "adventure",
-            "comedy",
-            "fantasy"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/7409",
             "https://anilist.co/anime/8142",
             "https://anime-planet.com/anime/colorful-2010",
@@ -6137,51 +6110,13 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/9355",
+            "https://anime-planet.com/anime/sekirei-pure-engagement-special",
             "https://anisearch.com/anime/7219",
-            "https://notify.moe/anime/_zqZpFmig"
-        ],
-        "title": "Sekirei: Pure Engagement - Kanwa Ni Dai",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/7/7219.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/7/7219.webp",
-        "synonyms": [
-            "Kanwanidai (Sekirei Shindan/Sekirei Yoka)",
-            "Sekirei 2 Special",
-            "Sekirei: Pure Engagement - Episode 0",
-            "Sekirei: Pure Engagement - Kanwa ni Dai",
-            "Sekirei: Pure Engagement - Two Topic Gossip",
-            "Sekirei: Pure Engagement - Zwei Plaudereien",
-            "Sekirei: Pure Engagement Episode 0",
-            "Sekirei: Pure Engagement OVA",
-            "セキレイ～Pure Engagement～ 閑話弐題",
-            "セキレイ～Pure Engagement～第零羽 閑話弐題(鶺鴒診断/鶺鴒余暇)"
-        ],
-        "relations": [
-            "https://notify.moe/anime/s5VC5Fmmg"
-        ],
-        "tags": [
-            "action",
-            "action comedy",
-            "comedy",
-            "contemporary fantasy",
-            "ecchi",
-            "harem",
-            "magic",
-            "present",
-            "slapstick"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
             "https://kitsu.io/anime/5700",
             "https://livechart.me/anime/4113",
-            "https://myanimelist.net/anime/9355"
+            "https://myanimelist.net/anime/9355",
+            "https://notify.moe/anime/_zqZpFmig"
         ],
         "title": "Sekirei: Pure Engagement Episode 0",
         "type": "special",
@@ -6192,53 +6127,41 @@
         "synonyms": [
             "Kanwanidai (Sekirei Shindan/Sekirei Yoka)",
             "Sekirei 2 Special",
-            "セキレイ～Pure Engagement～第零羽"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/4029",
-            "https://myanimelist.net/anime/5277"
-        ],
-        "tags": [
-            "comedy",
-            "ecchi",
-            "harem"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/9355",
-            "https://anime-planet.com/anime/sekirei-pure-engagement-special"
-        ],
-        "title": "Sekirei: Pure Engagement Special",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/sekirei-pure-engagement-special-1.jpg?t=1625895776",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/sekirei-pure-engagement-special-1-190x267.jpg?t=1625895776",
-        "synonyms": [
-            "Kanwanidai (Sekirei Shindan/Sekirei Yoka)",
-            "Sekirei 2 Special",
-            "Sekirei: Pure Engagement Episode 0",
+            "Sekirei: Pure Engagement - Episode 0",
+            "Sekirei: Pure Engagement - Kanwa Ni Dai",
+            "Sekirei: Pure Engagement - Kanwa ni Dai",
+            "Sekirei: Pure Engagement - Two Topic Gossip",
+            "Sekirei: Pure Engagement - Zwei Plaudereien",
+            "Sekirei: Pure Engagement OVA",
+            "Sekirei: Pure Engagement Special",
+            "セキレイ～Pure Engagement～ 閑話弐題",
+            "セキレイ～Pure Engagement～第零羽",
             "セキレイ～Pure Engagement～第零羽 閑話弐題(鶺鴒診断/鶺鴒余暇)"
         ],
         "relations": [
             "https://anilist.co/anime/5277",
             "https://anime-planet.com/anime/sekirei",
             "https://anime-planet.com/anime/sekirei-my-first-errand",
-            "https://anime-planet.com/anime/sekirei-pure-engagement"
+            "https://anime-planet.com/anime/sekirei-pure-engagement",
+            "https://kitsu.io/anime/4029",
+            "https://myanimelist.net/anime/5277",
+            "https://notify.moe/anime/s5VC5Fmmg"
         ],
         "tags": [
+            "action",
+            "action comedy",
             "based on a manga",
             "comedy",
+            "contemporary fantasy",
             "ecchi",
             "female harem",
+            "harem",
+            "magic",
             "nudity",
+            "present",
             "primarily female cast",
-            "seinen"
+            "seinen",
+            "slapstick"
         ],
         "date": {
             "season": "summer",
@@ -6526,6 +6449,8 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/15095",
+            "https://anime-planet.com/anime/shin-koihime-musou-ova-omake",
             "https://kitsu.io/anime/7211",
             "https://myanimelist.net/anime/15095",
             "https://notify.moe/anime/ccYOpFimR"
@@ -6537,9 +6462,21 @@
         "picture": "https://cdn.myanimelist.net/images/anime/3/40929.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/3/40929t.jpg",
         "synonyms": [
+            "Chibi Chibi Enki Shin Koihime Flash: Mukuwarenai Kumi, Mukuwaren to Suru no Koto",
+            "Shin Koihime Musou OVA Omake",
             "ちびちび演義 真・恋姫ふらっしゅ～報われない組、報われんとするのこと～"
         ],
         "relations": [
+            "https://anilist.co/anime/7774",
+            "https://anime-planet.com/anime/koihime-musou",
+            "https://anime-planet.com/anime/koihime-musou-koihime-flash",
+            "https://anime-planet.com/anime/koihime-musou-ova",
+            "https://anime-planet.com/anime/shin-koihime-musou",
+            "https://anime-planet.com/anime/shin-koihime-musou-live-revolution",
+            "https://anime-planet.com/anime/shin-koihime-musou-otome-tairan",
+            "https://anime-planet.com/anime/shin-koihime-musou-otome-tairan-ova",
+            "https://anime-planet.com/anime/shin-koihime-musou-otome-tairan-ova-omake",
+            "https://anime-planet.com/anime/shin-koihime-musou-rival-warlords-vacation-on-a-tropical-island-there-will-also-be-tentacles",
             "https://kitsu.io/anime/5117",
             "https://myanimelist.net/anime/7774",
             "https://notify.moe/anime/QR0ztFimR"

@@ -786,7 +786,10 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/113668",
+            "https://anime-planet.com/anime/attakai-tte-gohoubi-da",
             "https://anisearch.com/anime/14981",
+            "https://kitsu.io/anime/42839",
             "https://myanimelist.net/anime/40799"
         ],
         "title": "Attakai tte, Gohoubi da.",
@@ -798,16 +801,30 @@
         "synonyms": [
             "Atatai tte, Gohoubi da.",
             "Attakai tte, Gohōbi da.",
+            "Attakai tte, go Houbi da.",
+            "Attakaitte, Gohoubi da.",
+            "Burger",
+            "Gracolo TVCM \"Attakai tte, go Houbi da\".",
             "Gracoro Burger",
             "McDonald's",
+            "McDonald's Commercial",
+            "McDonald's Japan \"Gracoro\" Animation CM",
             "McDonald’s Japan Gurakoro CM",
-            "あったかいって、ごほうびだ。"
+            "あったかいって、ごほうびだ。",
+            "日本マクドナルド株式会社 「グラコロ」アニメCM"
         ],
         "relations": [
+            "https://anime-planet.com/anime/mirai-no-watashi",
             "https://myanimelist.net/anime/32959"
         ],
         "tags": [
+            "advertisement",
+            "commercials",
+            "food",
+            "music",
             "present",
+            "promotional",
+            "shorts",
             "slice of life"
         ],
         "date": {
@@ -10352,6 +10369,9 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/121035",
+            "https://anime-planet.com/anime/zombieland-saga-saga-jihen",
+            "https://anisearch.com/anime/14793",
             "https://kitsu.io/anime/43283",
             "https://myanimelist.net/anime/40630",
             "https://notify.moe/anime/ZqZmlod7R"
@@ -10364,50 +10384,35 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1399/111523t.jpg",
         "synonyms": [
             "Saga Incident MV",
+            "Saga Jihen",
             "Zombieland Saga Best Album: Saga Incident Animation MV",
-            "「佐賀事変」アニメーションMV"
+            "Zombieland Saga: Saga Incident",
+            "Zombieland Saga: Saga Jihen",
+            "「佐賀事変」アニメーションMV",
+            "佐賀事変"
         ],
         "relations": [
+            "https://anilist.co/anime/103871",
+            "https://anime-planet.com/anime/zombie-land-saga",
             "https://kitsu.io/anime/41459",
             "https://myanimelist.net/anime/37976",
             "https://notify.moe/anime/oSc6Amdig"
         ],
         "tags": [
-            "idol",
-            "idols (female)",
-            "music"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/121035",
-            "https://anisearch.com/anime/14793"
-        ],
-        "title": "Saga Jihen",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14793.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14793.webp",
-        "synonyms": [
-            "Saga Incident",
-            "Zombieland Saga: Saga Jihen",
-            "佐賀事変"
-        ],
-        "relations": [
-            "https://anilist.co/anime/103871"
-        ],
-        "tags": [
+            "cg animation",
             "cg-anime",
             "full cgi",
+            "idol",
+            "idols",
+            "idols (female)",
             "music",
             "primarily female cast",
+            "promotional",
+            "showbiz",
+            "supernatural",
             "transgender",
-            "zombie"
+            "zombie",
+            "zombies"
         ],
         "date": {
             "season": "fall",
@@ -10963,39 +10968,6 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/14863"
-        ],
-        "title": "Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru Soushuuhen",
-        "type": "tv",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14863.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14863.webp",
-        "synonyms": [
-            "Cautious Hero: The Hero Is Overpowered but Overly Cautious Episode 9.5",
-            "Cautious Hero: The Hero Is Overpowered but Overly Cautious Recap",
-            "Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru Recap",
-            "Shinchō Yūsha: Kono Yūsha ga Ore TUEEE Kuse ni Shinchō Sugiru Sōshūhen",
-            "慎重勇者～この勇者が俺TUEEEくせに慎重すぎる～ 総集編"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "adventure",
-            "alternative world",
-            "comedy",
-            "fantasy",
-            "knight",
-            "magic",
-            "swords & co"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/14477",
             "https://anilist.co/anime/105156",
             "https://anime-planet.com/anime/cautious-hero-the-hero-is-overpowered-but-overly-cautious",
@@ -11101,6 +11073,7 @@
     {
         "sources": [
             "https://anime-planet.com/anime/cautious-hero-the-hero-is-overpowered-but-overly-cautious-recap",
+            "https://anisearch.com/anime/14863",
             "https://kitsu.io/anime/42889",
             "https://myanimelist.net/anime/40849"
         ],
@@ -11111,9 +11084,14 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1384/111966.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1384/111966t.jpg",
         "synonyms": [
+            "Cautious Hero: The Hero Is Overpowered but Overly Cautious Episode 9.5",
             "Cautious Hero: The Hero Is Overpowered but Overly Cautious Recap",
+            "Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru Recap",
+            "Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru Soushuuhen",
+            "Shinchō Yūsha: Kono Yūsha ga Ore TUEEE Kuse ni Shinchō Sugiru Sōshūhen",
             "Sinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru Episode 9.5",
-            "慎重勇者~この勇者が俺TUEEEくせに慎重すぎる~ 総集編"
+            "慎重勇者~この勇者が俺TUEEEくせに慎重すぎる~ 総集編",
+            "慎重勇者～この勇者が俺TUEEEくせに慎重すぎる～ 総集編"
         ],
         "relations": [
             "https://anime-planet.com/anime/cautious-hero-the-hero-is-overpowered-but-overly-cautious",
@@ -11123,6 +11101,7 @@
         "tags": [
             "action",
             "adventure",
+            "alternative world",
             "based on a light novel",
             "comedy",
             "demon",
@@ -11130,12 +11109,14 @@
             "fantasy",
             "gods",
             "isekai",
+            "knight",
             "magic",
             "overpowered main characters",
             "person in a strange world",
             "recap",
             "rpg",
-            "summoned into another world"
+            "summoned into another world",
+            "swords & co"
         ],
         "date": {
             "season": "fall",
@@ -11442,6 +11423,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/114559",
             "https://anime-planet.com/anime/si-hai-jing-qi-2nd-season",
             "https://myanimelist.net/anime/44213",
             "https://notify.moe/anime/2ntrKSYMR"
@@ -11455,9 +11437,12 @@
         "synonyms": [
             "Beyond the Ocean 2",
             "Beyond the Ocean Temporada 2",
-            "四海鲸骑 第2季"
+            "Si Hai Jing Qi 2",
+            "四海鲸骑 第2季",
+            "四海鲸骑 第二季"
         ],
         "relations": [
+            "https://anilist.co/anime/107909",
             "https://anime-planet.com/anime/si-hai-jing-qi",
             "https://myanimelist.net/anime/38690",
             "https://notify.moe/anime/vrMEFSYMR"
@@ -11469,6 +11454,7 @@
             "cg animation",
             "chinese animation",
             "fantasy",
+            "full cgi",
             "historical",
             "martial arts",
             "military",
@@ -12321,60 +12307,8 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/14663"
-        ],
-        "title": "Sword Art Online: Alicization - War of Underworld - Zenhansen Soushuuhen Tokuban “Reflection”",
-        "type": "tv",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14663.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14663.webp",
-        "synonyms": [
-            "Sword Art Online: Alicization - Reflection",
-            "Sword Art Online: Alicization - War of Underworld - Zenhansen Sōshūhen Tokuban “Reflection”",
-            "Sword Art Online: Alicization - War of Underworld Episode 0",
-            "Sword Art Online: Alicization - War of Underworld Reflection",
-            "Sword Art Online: Alicization Episode 24.5",
-            "Sword Art Online: Alicization Recap",
-            "ソードアート・オンライン アリシゼーション War of Underworld 前半戦総集編特番「リフレクション」"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/10913",
-            "https://anisearch.com/anime/12852",
-            "https://anisearch.com/anime/14175",
-            "https://anisearch.com/anime/14323",
-            "https://anisearch.com/anime/14847",
-            "https://anisearch.com/anime/15501",
-            "https://anisearch.com/anime/15547",
-            "https://anisearch.com/anime/16727",
-            "https://anisearch.com/anime/7335",
-            "https://anisearch.com/anime/9077",
-            "https://anisearch.com/anime/9323",
-            "https://anisearch.com/anime/9918"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "alternative world",
-            "amnesia",
-            "contemporary fantasy",
-            "drama",
-            "fantasy",
-            "hero of strong character",
-            "magic",
-            "present",
-            "science-fiction",
-            "swords & co",
-            "tragedy",
-            "virtual world"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
+            "https://anime-planet.com/anime/sword-art-online-alicization-reflection",
+            "https://anisearch.com/anime/14663",
             "https://kitsu.io/anime/42610",
             "https://myanimelist.net/anime/40489",
             "https://notify.moe/anime/EjO_THeWg"
@@ -12386,11 +12320,29 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1072/103398.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1072/103398t.jpg",
         "synonyms": [
+            "Sword Art Online: Alicization - Reflection",
+            "Sword Art Online: Alicization - War of Underworld - Zenhansen Soushuuhen Tokuban “Reflection”",
+            "Sword Art Online: Alicization - War of Underworld - Zenhansen Sōshūhen Tokuban “Reflection”",
             "Sword Art Online: Alicization - War of Underworld Episode 0",
+            "Sword Art Online: Alicization Episode 24.5",
             "Sword Art Online: Alicization Recap",
             "ソードアート・オンライン アリシゼーション War of Underworld 前半戦総集編特番「リフレクション」"
         ],
         "relations": [
+            "https://anime-planet.com/anime/sword-art-online-alicization",
+            "https://anime-planet.com/anime/sword-art-online-alicization-war-of-underworld",
+            "https://anisearch.com/anime/10913",
+            "https://anisearch.com/anime/12852",
+            "https://anisearch.com/anime/14175",
+            "https://anisearch.com/anime/14323",
+            "https://anisearch.com/anime/14847",
+            "https://anisearch.com/anime/15501",
+            "https://anisearch.com/anime/15547",
+            "https://anisearch.com/anime/16727",
+            "https://anisearch.com/anime/7335",
+            "https://anisearch.com/anime/9077",
+            "https://anisearch.com/anime/9323",
+            "https://anisearch.com/anime/9918",
             "https://kitsu.io/anime/13893",
             "https://kitsu.io/anime/42213",
             "https://myanimelist.net/anime/36474",
@@ -12401,11 +12353,29 @@
         "tags": [
             "action",
             "adventure",
+            "alternative world",
+            "amnesia",
+            "based on a light novel",
+            "contemporary fantasy",
+            "drama",
             "fantasy",
             "game",
+            "hero of strong character",
+            "magic",
+            "overpowered main characters",
+            "person in a strange world",
+            "present",
+            "recap",
             "romance",
+            "rpg",
+            "sci fi",
+            "science-fiction",
             "swordplay",
-            "video game"
+            "swords & co",
+            "tragedy",
+            "video game",
+            "virtual reality",
+            "virtual world"
         ],
         "date": {
             "season": "fall",

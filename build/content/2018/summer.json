@@ -673,6 +673,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/aware-meisaku-kun-ito-yokado-no-randsell",
             "https://kitsu.io/anime/42863",
             "https://myanimelist.net/anime/38622"
         ],
@@ -688,13 +689,16 @@
             "あはれ！名作くん 「イトーヨーカドーのランドセル」CM"
         ],
         "relations": [
+            "https://anime-planet.com/anime/aware-meisaku-kun",
             "https://kitsu.io/anime/12168",
             "https://myanimelist.net/anime/32956"
         ],
         "tags": [
             "comedy",
+            "commercials",
             "kids",
             "parody",
+            "promotional",
             "school",
             "school life"
         ],
@@ -12142,6 +12146,7 @@
     {
         "sources": [
             "https://anilist.co/anime/106873",
+            "https://anime-planet.com/anime/sekai-no-owari-and-epik-high-sleeping-beauty",
             "https://anisearch.com/anime/14685",
             "https://myanimelist.net/anime/38267"
         ],
@@ -12154,11 +12159,13 @@
         "synonyms": [
             "End of the World x EPIK HIGH - Sleeping Beauty",
             "End of the World × EPIK HIGH - Sleeping Beauty",
+            "Sekai no Owari & EPIK HIGH: Sleeping Beauty",
             "Sekai no Owari feat epik hig - sleeping beauty"
         ],
         "relations": [],
         "tags": [
-            "music"
+            "music",
+            "romance"
         ],
         "date": {
             "season": "summer",
@@ -12333,6 +12340,7 @@
         "sources": [
             "https://anime-planet.com/anime/spice-paradise-curry-meshi-ver",
             "https://anisearch.com/anime/16039",
+            "https://kitsu.io/anime/42882",
             "https://myanimelist.net/anime/38271"
         ],
         "title": "Spice Paradise: Curry Meshi Ver.",
@@ -12346,6 +12354,7 @@
             "Nisshin Curry Meshi x Idolmaster Cinderella Girls",
             "Nisshin Curry Meshi × Idolmaster Cinderella Girls",
             "Nissin Foods x Idolmaster",
+            "Spice Paradise: Curry Meshi Ver",
             "The IDOLM@STER Cinderella Girls",
             "スパイスパラダイス～カレーメシVer.～",
             "日清カレーメシ x アイドルマスター シンデレラガールズ",
@@ -12353,12 +12362,15 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/the-idolmaster-cinderella-girls",
+            "https://kitsu.io/anime/11749",
+            "https://kitsu.io/anime/42642",
             "https://myanimelist.net/anime/32174",
             "https://myanimelist.net/anime/40477"
         ],
         "tags": [
             "commercials",
             "food and beverage",
+            "idol",
             "idols",
             "music",
             "promotional"
@@ -12422,6 +12434,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/imarine-project-sunny-days-mmd",
             "https://anisearch.com/anime/14167",
             "https://kitsu.io/anime/43685",
             "https://myanimelist.net/anime/39394"
@@ -12434,9 +12447,21 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1834/99470t.jpg",
         "synonyms": [
             "iMarine",
-            "iMarine Project"
+            "iMarine Project",
+            "iMarine Project: Sunny Days! MMD"
         ],
         "relations": [
+            "https://anime-planet.com/anime/imarine-project-deep-blue-song",
+            "https://anime-planet.com/anime/imarine-project-deep-blue-song-mmd",
+            "https://anime-planet.com/anime/imarine-project-deep-blue-town-e-oide-yo",
+            "https://anime-planet.com/anime/imarine-project-deep-blue-town-e-oide-yo-mmd",
+            "https://anime-planet.com/anime/imarine-project-dive-to-blue",
+            "https://anime-planet.com/anime/imarine-project-dive-to-blue-mmd",
+            "https://anime-planet.com/anime/imarine-project-marine-bloomin-mmd",
+            "https://anime-planet.com/anime/imarine-project-marine-dreamin-mmd",
+            "https://anime-planet.com/anime/imarine-project-marine-dreamin-mmd-2017",
+            "https://anime-planet.com/anime/imarine-project-marine-mirage-mmd",
+            "https://anime-planet.com/anime/imarine-project-sea-breeze-mmd",
             "https://myanimelist.net/anime/33689",
             "https://myanimelist.net/anime/33909",
             "https://myanimelist.net/anime/33910",
@@ -12449,6 +12474,7 @@
             "https://myanimelist.net/anime/39396"
         ],
         "tags": [
+            "cg animation",
             "cg-anime",
             "indefinite",
             "music"

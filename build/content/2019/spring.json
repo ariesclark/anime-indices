@@ -10350,6 +10350,7 @@
     {
         "sources": [
             "https://anilist.co/anime/114132",
+            "https://anime-planet.com/anime/kenmochi-hidefumi-robocop",
             "https://kitsu.io/anime/42778",
             "https://myanimelist.net/anime/40363"
         ],
@@ -10359,9 +10360,12 @@
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1693/102884.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1693/102884t.jpg",
-        "synonyms": [],
+        "synonyms": [
+            "Kenmochi Hidefumi: RoboCop"
+        ],
         "relations": [],
         "tags": [
+            "abstract",
             "avant garde",
             "dementia",
             "music"
@@ -10623,6 +10627,7 @@
     {
         "sources": [
             "https://anilist.co/anime/139511",
+            "https://anime-planet.com/anime/zutomayo-seigi",
             "https://myanimelist.net/anime/41626",
             "https://myanimelist.net/anime/50007"
         ],
@@ -10634,6 +10639,8 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1108/118524t.jpg",
         "synonyms": [
             "Justice",
+            "Zutomayo: Justice",
+            "Zutomayo: Seigi",
             "正義"
         ],
         "relations": [
@@ -11562,6 +11569,7 @@
     {
         "sources": [
             "https://anilist.co/anime/114435",
+            "https://anime-planet.com/anime/the-charm-park-stars-colliding",
             "https://kitsu.io/anime/42668",
             "https://myanimelist.net/anime/39812"
         ],
@@ -11572,6 +11580,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1934/100994.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1934/100994t.jpg",
         "synonyms": [
+            "THE CHARM PARK: Stars Colliding",
             "The Charm Park"
         ],
         "relations": [],
@@ -11711,6 +11720,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/ed-sheeran-supermarket-flowers",
             "https://anisearch.com/anime/14338",
             "https://kitsu.io/anime/42664",
             "https://myanimelist.net/anime/39658"
@@ -11723,13 +11733,15 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1379/100391t.jpg",
         "synonyms": [
             "Ed Sheeran – “Supermarket Flowers” Yoriko Hoshi Ver.",
+            "Ed Sheeran: Supermarket Flowers",
             "Supermarket Flowers Yoriko Hoshi Ver."
         ],
         "relations": [],
         "tags": [
             "drama",
             "music",
-            "present"
+            "present",
+            "slice of life"
         ],
         "date": {
             "season": "spring",

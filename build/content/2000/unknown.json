@@ -719,6 +719,8 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/13320",
+            "https://anisearch.com/anime/15260",
             "https://kitsu.io/anime/40774",
             "https://myanimelist.net/anime/35495",
             "https://notify.moe/anime/gYzO2Kimg"
@@ -730,12 +732,17 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1911/106759.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1911/106759t.jpg",
         "synonyms": [
-            "ロビンソンクルーソー　無人島の冒険"
+            "Robinson Crusoe: Mujintō no Bōken",
+            "ロビンソンクルーソー 無人島の冒険",
+            "ロビンソンクルーソー　無人島の冒険",
+            "ロビンソン・クルーソー無人島の冒険"
         ],
         "relations": [],
         "tags": [
             "adventure",
-            "drama"
+            "drama",
+            "historical",
+            "novel"
         ],
         "date": {
             "season": "unknown",

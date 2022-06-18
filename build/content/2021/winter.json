@@ -11881,6 +11881,7 @@
     {
         "sources": [
             "https://anilist.co/anime/133103",
+            "https://anime-planet.com/anime/fake-type-tandemoon-rendezvous",
             "https://kitsu.io/anime/44532",
             "https://myanimelist.net/anime/49900"
         ],
@@ -11890,10 +11891,13 @@
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1821/117914.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1821/117914t.jpg",
-        "synonyms": [],
+        "synonyms": [
+            "FAKE TYPE: Tandemoon Rendezvous"
+        ],
         "relations": [],
         "tags": [
-            "music"
+            "music",
+            "ship"
         ],
         "date": {
             "season": "winter",

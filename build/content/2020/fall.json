@@ -854,6 +854,7 @@
     {
         "sources": [
             "https://anime-planet.com/anime/attack-zero-x-evangelion",
+            "https://kitsu.io/anime/43723",
             "https://myanimelist.net/anime/43745"
         ],
         "title": "Attack Zero x Evangelion",
@@ -864,14 +865,18 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1662/110189t.jpg",
         "synonyms": [
             "Evangelion x Attack Zero",
+            "Evangelion × Attack ZERO",
+            "エヴァンゲリオン × アタックZERO",
             "花王 アタックZERO エヴァンゲリオン"
         ],
         "relations": [
             "https://anime-planet.com/anime/neon-genesis-evangelion",
+            "https://kitsu.io/anime/21",
             "https://myanimelist.net/anime/30"
         ],
         "tags": [
             "commercials",
+            "music",
             "promotional",
             "slice of life"
         ],
@@ -972,6 +977,8 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/125785",
+            "https://anime-planet.com/anime/kate-ayanami-rei-hajimete-no-kuchibeni",
             "https://kitsu.io/anime/43724",
             "https://myanimelist.net/anime/43751"
         ],
@@ -983,17 +990,29 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1576/110060t.jpg",
         "synonyms": [
             "Ayanami Rei, First Lipstick",
+            "Evangelion x KATE CM",
             "Evangelion x Kate Tokyo",
+            "KATE 「綾波レイ、はじめての口紅、その後」",
             "KATE 「綾波レイ、はじめての口紅」",
+            "KATE: Ayanami Rei, Hajimete no Kuchibeni",
             "Kate: Rei Ayanami hajimete no kuchiben",
+            "Kate: Rei Ayanami, hajimete no kuchibeni",
+            "Kate: Rei Ayanami, hajimete no kuchibeni, sonogo",
+            "Rei Ayanami, First Lipstick",
             "iRei Ayanami, First Lipstick",
+            "エヴァンゲリオン x KATE CM",
             "綾波レイ、はじめての口紅"
         ],
         "relations": [
+            "https://anilist.co/anime/30",
+            "https://anime-planet.com/anime/neon-genesis-evangelion",
             "https://kitsu.io/anime/21",
             "https://myanimelist.net/anime/30"
         ],
         "tags": [
+            "advertisement",
+            "commercials",
+            "promotional",
             "slice of life"
         ],
         "date": {
@@ -1028,6 +1047,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/bad-mood",
             "https://livechart.me/anime/10194",
             "https://myanimelist.net/anime/43696"
         ],
@@ -1043,6 +1063,8 @@
         "relations": [],
         "tags": [
             "music",
+            "non-human protagonists",
+            "original work",
             "slice of life"
         ],
         "date": {
@@ -3015,36 +3037,6 @@
             "romantic comedy",
             "short episodes",
             "softcore"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/125796",
-            "https://kitsu.io/anime/43723"
-        ],
-        "title": "Evangelion × Attack ZERO",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/43723/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/43723/tiny.jpg",
-        "synonyms": [
-            "エヴァンゲリオン × アタックZERO"
-        ],
-        "relations": [
-            "https://anilist.co/anime/30",
-            "https://kitsu.io/anime/21"
-        ],
-        "tags": [
-            "advertisement",
-            "crossover",
-            "female protagonist",
-            "music",
-            "slice of life"
         ],
         "date": {
             "season": "fall",

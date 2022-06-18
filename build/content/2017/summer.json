@@ -11336,6 +11336,7 @@
     {
         "sources": [
             "https://anilist.co/anime/126660",
+            "https://anime-planet.com/anime/special-favorite-music-royal-memories",
             "https://kitsu.io/anime/42877",
             "https://myanimelist.net/anime/39275"
         ],
@@ -11345,7 +11346,9 @@
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1648/99066.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1648/99066t.jpg",
-        "synonyms": [],
+        "synonyms": [
+            "Special Favorite Music: Royal Memories"
+        ],
         "relations": [],
         "tags": [
             "music"
@@ -12477,40 +12480,11 @@
         "sources": [
             "https://anidb.net/anime/13906",
             "https://anilist.co/anime/102452",
-            "https://notify.moe/anime/pb84hFmig"
-        ],
-        "title": "Suna no Wakusei",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102452-ug3b41zmTIkW.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102452-ug3b41zmTIkW.png",
-        "synonyms": [
-            "DUNE",
-            "DUNE feat. Hatsune Miku",
-            "Hatsune Miku Magical Mirai 2017",
-            "Sand Planet",
-            "Sand Planet feat. Hatsune Miku",
-            "Suna no Wakusei feat. Hatsune Miku",
-            "砂の惑星"
-        ],
-        "relations": [],
-        "tags": [
-            "cgi",
-            "music",
-            "otaku culture",
-            "post-apocalyptic"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
+            "https://anime-planet.com/anime/kenshi-yonezu-suna-no-wakusei",
             "https://anisearch.com/anime/12671",
             "https://kitsu.io/anime/13678",
-            "https://myanimelist.net/anime/36173"
+            "https://myanimelist.net/anime/36173",
+            "https://notify.moe/anime/pb84hFmig"
         ],
         "title": "Suna no Wakusei feat. Hatsune Miku",
         "type": "special",
@@ -12519,17 +12493,25 @@
         "picture": "https://cdn.myanimelist.net/images/anime/8/87399.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/8/87399t.jpg",
         "synonyms": [
+            "DUNE",
             "DUNE feat. Hatsune Miku",
             "Hatsune Miku Magical Mirai 2017",
+            "Kenshi Yonezu: Suna no Wakusei",
             "Sand Planet",
             "Sand Planet feat. Hatsune Miku",
+            "Suna no Wakusei",
+            "砂の惑星",
             "砂の惑星 feat. 初音ミク",
             "砂の惑星 feat.初音ミク"
         ],
         "relations": [],
         "tags": [
+            "cgi",
             "desert",
-            "music"
+            "music",
+            "otaku culture",
+            "post-apocalyptic",
+            "vocaloid"
         ],
         "date": {
             "season": "summer",

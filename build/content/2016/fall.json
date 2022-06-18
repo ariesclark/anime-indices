@@ -1433,42 +1433,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/12935",
-            "https://notify.moe/anime/UixZhFmmR"
-        ],
-        "title": "Ba La La Xiao Mo Xian Zhi: Feiyue Cai Ling Bao Di Er Ji",
-        "type": "tv",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/12935/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/12935/tiny.jpg",
-        "synonyms": [
-            "Balala",
-            "Balala the Fairies Season 4",
-            "Balala the Fairies Season 5",
-            "Balala the Fairies: Flying Over Fort Crescent",
-            "Balala the Fairies: Flying Over Fort Crescent 2nd Season",
-            "Balala the Faries: Over the Rainbow",
-            "Little Magic Fairy: Over the Rainbow",
-            "Little Magic Fairy: Over the Rainbow 2nd Season",
-            "巴啦啦小魔仙之飞越彩灵堡 第二季"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/13191",
-            "https://notify.moe/anime/rMfG2Fiig"
-        ],
-        "tags": [
-            "comedy",
-            "magic",
-            "shoujo"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/12258",
             "https://anilist.co/anime/87501",
             "https://anime-planet.com/anime/baki-ova",
@@ -13881,6 +13845,7 @@
     {
         "sources": [
             "https://anilist.co/anime/108576",
+            "https://anime-planet.com/anime/sheng-si-hui-fang",
             "https://kitsu.io/anime/43567",
             "https://myanimelist.net/anime/47231"
         ],
@@ -13893,12 +13858,14 @@
         "synonyms": [
             "Death Rewind",
             "Death Rewind / PlayBack",
+            "Sheng Si Hui Fang",
             "死亡回放",
             "生死回放"
         ],
         "relations": [],
         "tags": [
             "adventure",
+            "chinese animation",
             "conspiracy",
             "full cgi",
             "horror",
@@ -14220,6 +14187,7 @@
     {
         "sources": [
             "https://anilist.co/anime/106919",
+            "https://anime-planet.com/anime/eve-sister",
             "https://kitsu.io/anime/42482",
             "https://myanimelist.net/anime/39174"
         ],
@@ -14231,12 +14199,15 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1597/98690t.jpg",
         "synonyms": [
             "Eve",
+            "Eve: Sister",
             "sister"
         ],
         "relations": [],
         "tags": [
+            "melancholy",
             "music",
-            "psychological"
+            "psychological",
+            "siblings"
         ],
         "date": {
             "season": "fall",

@@ -11414,49 +11414,28 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/11443",
-            "https://myanimelist.net/anime/31669"
-        ],
-        "title": "Takamiya Nasuno Desu!: Teekyuu Spin-off Special",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/5/76334.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/5/76334t.jpg",
-        "synonyms": [
-            "高宮なすのです！〜てーきゅうスピンオフ〜　ＴＶ未放送オリジナルエピソードアニメ"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/10074",
-            "https://myanimelist.net/anime/28861"
-        ],
-        "tags": [
-            "comedy",
-            "shounen"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/21436",
+            "https://anime-planet.com/anime/takamiya-nasuno-desu-specials",
+            "https://kitsu.io/anime/11443",
             "https://livechart.me/anime/7657",
             "https://notify.moe/anime/zrkjpKmiR"
         ],
-        "title": "Takamiya Nasuno Desu!: Teekyuu Spin-off: TV Mi Housou Original Episode Anime",
+        "title": "Takamiya Nasuno Desu! Specials",
         "type": "special",
         "episodes": 2,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21436-3J1cjnIHuHZJ.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21436-3J1cjnIHuHZJ.jpg",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [
+            "Takamiya Nasuno Desu!: Teekyuu Spin-off Special",
             "Takamiya Nasuno Desu!: Teekyuu Spin-off Specials",
+            "Takamiya Nasuno Desu!: Teekyuu Spin-off: TV Mi Housou Original Episode Anime",
             "高宮なすのです！〜てーきゅうスピンオフ〜　ＴＶ未放送オリジナルエピソードアニメ"
         ],
         "relations": [
             "https://anilist.co/anime/21079",
+            "https://anime-planet.com/anime/takamiya-nasuno-desu",
+            "https://kitsu.io/anime/10074",
             "https://livechart.me/anime/1327",
             "https://livechart.me/anime/1505",
             "https://livechart.me/anime/1754",
@@ -11477,6 +11456,31 @@
         "tags": [
             "comedy",
             "cute girls doing cute things",
+            "shounen"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/31669"
+        ],
+        "title": "Takamiya Nasuno Desu!: Teekyuu Spin-off Special",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/5/76334.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/5/76334t.jpg",
+        "synonyms": [
+            "高宮なすのです！〜てーきゅうスピンオフ〜　ＴＶ未放送オリジナルエピソードアニメ"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/28861"
+        ],
+        "tags": [
+            "comedy",
             "shounen"
         ],
         "date": {
