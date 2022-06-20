@@ -11869,6 +11869,7 @@
     {
         "sources": [
             "https://anilist.co/anime/140033",
+            "https://anime-planet.com/anime/space-shower-tv-the-ghost-of-cartoon-id",
             "https://kitsu.io/anime/42692",
             "https://myanimelist.net/anime/40159"
         ],
@@ -11880,13 +11881,18 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1081/102219t.jpg",
         "synonyms": [
             "Space Shower TV Station ID",
+            "Space Shower TV: The Ghost of Cartoon ID",
             "The Ghost Of Cartoon"
         ],
         "relations": [],
         "tags": [
+            "abstract",
             "avant garde",
             "dementia",
-            "music"
+            "music",
+            "no dialogue",
+            "promotional",
+            "station identifications"
         ],
         "date": {
             "season": "summer",
@@ -13205,43 +13211,7 @@
         "sources": [
             "https://anidb.net/anime/13709",
             "https://anilist.co/anime/107300",
-            "https://anime-planet.com/anime/xiao-hua-xian-2"
-        ],
-        "title": "Xiao Hua Xian 2",
-        "type": "ona",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/xiao-hua-xian-2-1.jpg?t=1625908420",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/xiao-hua-xian-2-1-190x269.jpg?t=1625908420",
-        "synonyms": [
-            "Flower Fairy 2",
-            "小花仙 第二季",
-            "小花仙2"
-        ],
-        "relations": [
-            "https://anidb.net/anime/13663",
-            "https://anidb.net/anime/13710",
-            "https://anilist.co/anime/104184",
-            "https://anilist.co/anime/107301",
-            "https://anime-planet.com/anime/xiao-hua-xian",
-            "https://anime-planet.com/anime/xiao-hua-xian-3"
-        ],
-        "tags": [
-            "cgi",
-            "chinese animation",
-            "family friendly",
-            "half-length episodes",
-            "kids",
-            "magic",
-            "mahou shoujo"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
+            "https://anime-planet.com/anime/xiao-hua-xian-2",
             "https://myanimelist.net/anime/40091"
         ],
         "title": "Xiao Hua Xian 2nd Season",
@@ -13252,14 +13222,29 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1532/102005t.jpg",
         "synonyms": [
             "Flower Angel 2",
-            "小花仙 第二季"
+            "Flower Fairy 2",
+            "Xiao Hua Xian 2",
+            "小花仙 第二季",
+            "小花仙2"
         ],
         "relations": [
+            "https://anidb.net/anime/13663",
+            "https://anidb.net/anime/13710",
+            "https://anilist.co/anime/104184",
+            "https://anilist.co/anime/107301",
+            "https://anime-planet.com/anime/xiao-hua-xian",
+            "https://anime-planet.com/anime/xiao-hua-xian-3",
             "https://myanimelist.net/anime/37225",
             "https://myanimelist.net/anime/40092"
         ],
         "tags": [
-            "kids"
+            "cgi",
+            "chinese animation",
+            "family friendly",
+            "half-length episodes",
+            "kids",
+            "magic",
+            "mahou shoujo"
         ],
         "date": {
             "season": "summer",
@@ -13316,39 +13301,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/11865",
-            "https://notify.moe/anime/jpeqpFiig"
-        ],
-        "title": "Xiong Chu Mo Zhi Dongri Le Fantian",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/11865/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/11865/tiny.jpg",
-        "synonyms": [
-            "Boonie Bears: Snow Daze",
-            "Snow Daze of Boonie Bears",
-            "Xiong Chumo Zhi: Dongri Le Fantian",
-            "熊出没之冬日乐翻天"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/11864",
-            "https://kitsu.io/anime/13167",
-            "https://kitsu.io/anime/40990",
-            "https://notify.moe/anime/1D6qtKmmg",
-            "https://notify.moe/anime/WVJMhKmig"
-        ],
-        "tags": [
-            "comedy",
-            "kids"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/12769"
         ],
         "title": "Xiong Chumo: Dong Ri Le Fan Tian",
@@ -13385,7 +13337,9 @@
         "sources": [
             "https://anidb.net/anime/12536",
             "https://anilist.co/anime/148977",
-            "https://myanimelist.net/anime/32821"
+            "https://kitsu.io/anime/11865",
+            "https://myanimelist.net/anime/32821",
+            "https://notify.moe/anime/jpeqpFiig"
         ],
         "title": "Xiong Chumo: Dongri Le Fantian",
         "type": "tv",
@@ -13397,7 +13351,9 @@
             "Boonie Bears 5: Snow Daze of Boonie Bears",
             "Boonie Bears: Snow Daze",
             "Snow Daze of Boonie Bears",
+            "Xiong Chu Mo Zhi Dongri Le Fantian",
             "Xiong Chumo Zhi Dongri Le Fantian",
+            "Xiong Chumo Zhi: Dongri Le Fantian",
             "熊出没之冬日乐翻天"
         ],
         "relations": [
@@ -13405,9 +13361,14 @@
             "https://anidb.net/anime/14079",
             "https://anilist.co/anime/148975",
             "https://anilist.co/anime/148978",
+            "https://kitsu.io/anime/11864",
+            "https://kitsu.io/anime/13167",
+            "https://kitsu.io/anime/40990",
             "https://myanimelist.net/anime/32820",
             "https://myanimelist.net/anime/34676",
-            "https://myanimelist.net/anime/37099"
+            "https://myanimelist.net/anime/37099",
+            "https://notify.moe/anime/1D6qtKmmg",
+            "https://notify.moe/anime/WVJMhKmig"
         ],
         "tags": [
             "comedy",

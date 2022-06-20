@@ -12221,6 +12221,7 @@
     {
         "sources": [
             "https://anilist.co/anime/141326",
+            "https://anime-planet.com/anime/bonjour-suzuki-tululu",
             "https://kitsu.io/anime/45495",
             "https://myanimelist.net/anime/44077"
         ],
@@ -12231,6 +12232,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1001/118590.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1001/118590t.jpg",
         "synonyms": [
+            "Bonjour Suzuki: Tululu",
             "Tululu",
             "Tululu feat. TAKU INOUE",
             "Tululu feat.TAKU INOUE"
@@ -12519,6 +12521,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/wena-wrist-cm",
             "https://kitsu.io/anime/42983",
             "https://myanimelist.net/anime/41192",
             "https://notify.moe/anime/u9vfXy8Zg"
@@ -12530,12 +12533,17 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1044/105740.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1044/105740t.jpg",
         "synonyms": [
+            "Wena Wrist CM",
             "wena wrist"
         ],
         "relations": [],
         "tags": [
+            "aviation",
+            "commercials",
             "military",
             "music",
+            "no dialogue",
+            "promotional",
             "the arts"
         ],
         "date": {
@@ -12886,6 +12894,9 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/114562",
+            "https://anime-planet.com/anime/xue-ying-lingzhu-zhi-qiyu-pian",
+            "https://kitsu.io/anime/43706",
             "https://livechart.me/anime/10410",
             "https://myanimelist.net/anime/40991",
             "https://notify.moe/anime/A8NlRL8Zg"
@@ -12900,10 +12911,19 @@
             "Lord Xue Ying 2nd Season",
             "Snow Eagle Lord 2nd Season",
             "Snow Eagle Lord's Adventures",
+            "Snow Eagle Lord: Adventures",
+            "Xue Ying Lingzhu Zhi Qiyu Pian",
+            "Xue Ying Lingzhu: Qiyu Pian",
             "Xueying Lingzhu Zhi Qiyu Pian",
             "雪鹰领主之奇遇篇"
         ],
         "relations": [
+            "https://anilist.co/anime/107370",
+            "https://anilist.co/anime/122654",
+            "https://anime-planet.com/anime/xue-ying-lingzhu",
+            "https://anime-planet.com/anime/xue-ying-lingzhu-2nd-season",
+            "https://kitsu.io/anime/42929",
+            "https://kitsu.io/anime/44085",
             "https://livechart.me/anime/10409",
             "https://livechart.me/anime/10411",
             "https://myanimelist.net/anime/38741",
@@ -12914,7 +12934,13 @@
         "tags": [
             "action",
             "adventure",
+            "ancient china",
+            "based on a web novel",
+            "cg animation",
+            "chinese animation",
+            "cultivation",
             "fantasy",
+            "full cgi",
             "historical",
             "martial arts",
             "romance"
@@ -12948,40 +12974,6 @@
             "magic",
             "monster",
             "swords & co"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/114562",
-            "https://kitsu.io/anime/43706"
-        ],
-        "title": "Xue Ying Lingzhu: Qiyu Pian",
-        "type": "ona",
-        "episodes": 4,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/43706/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/43706/tiny.jpg",
-        "synonyms": [
-            "Snow Eagle Lord: Adventures",
-            "雪鹰领主之奇遇篇"
-        ],
-        "relations": [
-            "https://anilist.co/anime/107370",
-            "https://anilist.co/anime/122654",
-            "https://kitsu.io/anime/42929",
-            "https://kitsu.io/anime/44085"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "cultivation",
-            "fantasy",
-            "full cgi",
-            "romance"
         ],
         "date": {
             "season": "winter",

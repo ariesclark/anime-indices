@@ -16674,6 +16674,7 @@
     {
         "sources": [
             "https://anilist.co/anime/114297",
+            "https://anime-planet.com/anime/viva-sherry-xmas-song",
             "https://kitsu.io/anime/42752",
             "https://myanimelist.net/anime/38905"
         ],
@@ -16683,9 +16684,13 @@
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1508/97879.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1508/97879t.jpg",
-        "synonyms": [],
+        "synonyms": [
+            "Viva Sherry: Xmas Song"
+        ],
         "relations": [],
         "tags": [
+            "christmas",
+            "dancing",
             "music"
         ],
         "date": {

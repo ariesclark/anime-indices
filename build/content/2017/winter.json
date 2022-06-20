@@ -12871,6 +12871,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/110219",
             "https://anime-planet.com/anime/the-idolmaster-million-live-4th-anniversary-pv",
             "https://kitsu.io/anime/41529",
             "https://myanimelist.net/anime/35081"
@@ -12882,10 +12883,15 @@
         "picture": "https://cdn.myanimelist.net/images/anime/8/88355.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/8/88355t.jpg",
         "synonyms": [
+            "IDOLM@STER Million Live! 4th Live \"Idol Heroes\" PV",
+            "THE IDOLM@STER Million Live! 4th Anniversary PV",
+            "The Idolm@ster Million Live! 4th Shuunenkinen PV",
             "『アイドルマスター ミリオンライブ！』内で4周年アニメーションPV",
             "アイドルマスター ミリオンライブ！４周年記念ＰＶ"
         ],
         "relations": [
+            "https://anilist.co/anime/10278",
+            "https://anilist.co/anime/120755",
             "https://anime-planet.com/anime/the-idolmaster-million-live-1st-anniversary-pv",
             "https://anime-planet.com/anime/the-idolmaster-million-live-dreaming-animation-pv",
             "https://myanimelist.net/anime/10278",
@@ -12893,9 +12899,11 @@
         ],
         "tags": [
             "comedy",
+            "idol",
             "idols",
             "idols (female)",
             "music",
+            "primarily female cast",
             "promotional",
             "slice of life"
         ],

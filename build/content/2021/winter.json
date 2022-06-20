@@ -13377,7 +13377,11 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16052",
+            "https://anilist.co/anime/129872",
+            "https://anime-planet.com/anime/urvan",
             "https://anisearch.com/anime/15974",
+            "https://kitsu.io/anime/44079",
             "https://livechart.me/anime/10414",
             "https://myanimelist.net/anime/45518"
         ],
@@ -13393,43 +13397,17 @@
         ],
         "relations": [],
         "tags": [
-            "fantasy",
-            "indefinite",
-            "mystery",
-            "present",
-            "sci-fi"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16052",
-            "https://anilist.co/anime/129872",
-            "https://anime-planet.com/anime/urvan",
-            "https://kitsu.io/anime/44079"
-        ],
-        "title": "Urvan",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/urvan-1.jpg?t=1625908788",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/urvan-1-190x266.jpg?t=1625908788",
-        "synonyms": [
-            "URVAN",
-            "ウルヴァン"
-        ],
-        "relations": [],
-        "tags": [
             "abstract",
             "action",
             "cgi",
             "cyberpunk",
             "espionage",
+            "fantasy",
+            "indefinite",
+            "mystery",
             "no dialogue",
             "original work",
+            "present",
             "sci fi",
             "sci-fi",
             "science fiction",

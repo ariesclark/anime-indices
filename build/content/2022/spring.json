@@ -109,33 +109,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/a-couple-of-cuckoos-mini-anime"
-        ],
-        "title": "A Couple of Cuckoos Mini Anime",
-        "type": "ona",
-        "episodes": 7,
-        "status": "unknown",
-        "picture": "https://cdn.anime-planet.com/anime/primary/a-couple-of-cuckoos-mini-anime-1.webp?t=1651535237",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/a-couple-of-cuckoos-mini-anime-1-285x400.webp?t=1651535237",
-        "synonyms": [
-            "Kakkou no Ikagen"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/a-couple-of-cuckoos"
-        ],
-        "tags": [
-            "based on a manga",
-            "chibi",
-            "comedy",
-            "short episodes"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/16505",
             "https://anilist.co/anime/137281",
             "https://anime-planet.com/anime/aharen-san-wa-hakarenai",
@@ -3578,19 +3551,22 @@
     {
         "sources": [
             "https://anilist.co/anime/148295",
+            "https://anime-planet.com/anime/a-couple-of-cuckoos-mini-anime",
             "https://anisearch.com/anime/17435",
             "https://livechart.me/anime/11177",
             "https://myanimelist.net/anime/51738"
         ],
         "title": "Kakkou no Iikagen",
         "type": "ona",
-        "episodes": 12,
+        "episodes": 7,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1467/123465.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1467/123465t.jpg",
         "synonyms": [
+            "A Couple of Cuckoos Mini Anime",
             "Kakkou no Iikagen!",
             "Kakkou no Iinazuke Mini Anime",
+            "Kakkou no Ikagen",
             "Kakkō no Īkagen",
             "カッコウのいいかげん",
             "カッコウのいいかげん！",
@@ -3598,12 +3574,15 @@
         ],
         "relations": [
             "https://anilist.co/anime/132052",
+            "https://anime-planet.com/anime/a-couple-of-cuckoos",
             "https://livechart.me/anime/10346",
             "https://myanimelist.net/anime/48675"
         ],
         "tags": [
+            "based on a manga",
             "chibi",
             "comedy",
+            "short episodes",
             "slapstick"
         ],
         "date": {
