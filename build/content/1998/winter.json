@@ -579,6 +579,7 @@
         "sources": [
             "https://anidb.net/anime/11335",
             "https://anilist.co/anime/119824",
+            "https://anime-planet.com/anime/gauche-the-cellist-1998",
             "https://anisearch.com/anime/10846",
             "https://kitsu.io/anime/8968",
             "https://myanimelist.net/anime/26303",
@@ -593,6 +594,7 @@
         "synonyms": [
             "Cello Hiki no Gauche",
             "Cello Hiki no Gauche (1998)",
+            "Gauche the Cellist (1998)",
             "セロひきのゴーシュ",
             "セロひきのゴーシュ (1998)",
             "セロひきのゴーシュ （1998）"
@@ -610,6 +612,7 @@
         ],
         "tags": [
             "animals",
+            "based on a novel",
             "drama",
             "fantasy",
             "music",
@@ -942,13 +945,13 @@
             "https://anime-planet.com/anime/the-doraemons-strange-sweets-strange",
             "https://kitsu.io/anime/2398",
             "https://kitsu.io/anime/2427",
+            "https://livechart.me/anime/5614",
+            "https://livechart.me/anime/6575",
             "https://livechart.me/anime/6880",
             "https://livechart.me/anime/7693",
-            "https://livechart.me/anime/7728",
             "https://livechart.me/anime/8740",
             "https://livechart.me/anime/8868",
             "https://livechart.me/anime/8871",
-            "https://livechart.me/anime/8876",
             "https://livechart.me/anime/8877",
             "https://livechart.me/anime/8878",
             "https://livechart.me/anime/8884",
@@ -2370,6 +2373,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/mina-no-mura-to-kawa",
             "https://kitsu.io/anime/9453",
             "https://myanimelist.net/anime/26249",
             "https://notify.moe/anime/D0bfpKiiR"
@@ -2385,6 +2389,8 @@
             "ミナの村と川"
         ],
         "relations": [
+            "https://anime-planet.com/anime/mina-no-mura-to-mori",
+            "https://anime-planet.com/anime/mina-smiles",
             "https://kitsu.io/anime/9451",
             "https://kitsu.io/anime/9454",
             "https://myanimelist.net/anime/26247",
@@ -2395,6 +2401,7 @@
         "tags": [
             "drama",
             "educational",
+            "environmental",
             "kids"
         ],
         "date": {
@@ -2875,6 +2882,7 @@
         "relations": [
             "https://anime-planet.com/anime/sexy-commando-gaiden-sugoiyo-masaru-san-specials",
             "https://kitsu.io/anime/902",
+            "https://livechart.me/anime/11273",
             "https://myanimelist.net/anime/1012",
             "https://notify.moe/anime/7IA15Kimg"
         ],
@@ -3557,6 +3565,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/yakusoku-africa-mizu-to-midori",
             "https://kitsu.io/anime/9696",
             "https://myanimelist.net/anime/26313",
             "https://notify.moe/anime/Tx0YpKmig"
@@ -3573,7 +3582,9 @@
         ],
         "relations": [],
         "tags": [
+            "africa",
             "drama",
+            "educational",
             "kids"
         ],
         "date": {

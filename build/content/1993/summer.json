@@ -2315,6 +2315,7 @@
         "sources": [
             "https://anidb.net/anime/8187",
             "https://anilist.co/anime/19753",
+            "https://anime-planet.com/anime/naniwa-yuukyouden-kanketsu-hen",
             "https://anisearch.com/anime/11382",
             "https://kitsu.io/anime/9480",
             "https://myanimelist.net/anime/19753",
@@ -2333,6 +2334,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/8189",
+            "https://anime-planet.com/anime/naniwa-yuukyouden-kyouretsu-ana-ga-attara-iretai-hen",
             "https://anisearch.com/anime/11378",
             "https://anisearch.com/anime/11379",
             "https://anisearch.com/anime/11380",
@@ -2344,6 +2346,7 @@
             "action",
             "action comedy",
             "comedy",
+            "gangs",
             "mafia",
             "manga",
             "organized crime",
@@ -2589,6 +2592,54 @@
             "episodic",
             "game",
             "present"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 1993
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/130530"
+        ],
+        "title": "Sanrio Sekai Meisaku Eigakan",
+        "type": "ova",
+        "episodes": 11,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b130530-lgWmdiasc9q1.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b130530-lgWmdiasc9q1.jpg",
+        "synonyms": [
+            "Ahiru no Pekkle no Aladdin to Mahou no Lamp",
+            "Ahiru no Pekkle no Sinbad no Bouken",
+            "Hello Kitty no Alps no Shoujo Heidi",
+            "Hello Kitty no Alps no Shoujo Heidi Ⅱ - Clara to no deai",
+            "Hello Kitty no Fushigi no Kuni no Alice",
+            "Hello Kitty no Kaguya-hime",
+            "Hello Kitty no Shirayuki-hime",
+            "Hello Kitty no Shoukoujo",
+            "Kero Kero Keroppi no Gulliver no Bouken",
+            "Kero Kero Keroppi no Robin Hood",
+            "Kiki to Lara no Hanzel to Gretel",
+            "けろけろけろっぴのガリバーの冒険",
+            "けろけろけろっぴのロビンフッド",
+            "アヒルのペックルのアラジンと魔法のランプ",
+            "アヒルのペックルのシンドバッドの冒険",
+            "キキとララのヘンゼルとグレーテル",
+            "サンリオ世界名作映画館",
+            "ハローキティのかぐや姫",
+            "ハローキティのしらゆきひめ",
+            "ハローキティのアルプスの少女ハイジ",
+            "ハローキティのアルプスの少女ハイジⅡ -クララとの出会い-",
+            "ハローキティの不思議の国のアリス",
+            "ハローキティの小公女"
+        ],
+        "relations": [
+            "https://anilist.co/anime/4024"
+        ],
+        "tags": [
+            "adventure",
+            "anthology",
+            "fantasy"
         ],
         "date": {
             "season": "summer",

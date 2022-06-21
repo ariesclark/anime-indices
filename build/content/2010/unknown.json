@@ -74,6 +74,24 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/151085"
+        ],
+        "title": "BEACH",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151085-cQH6NXPTPI06.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151085-cQH6NXPTPI06.png",
+        "synonyms": [],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/16750"
         ],
         "title": "Bola Kampung 5",
@@ -1769,6 +1787,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/151089",
             "https://anime-planet.com/anime/mirror"
         ],
         "title": "MIRROR",
@@ -1971,6 +1990,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/eating",
             "https://myanimelist.net/anime/51749"
         ],
         "title": "Meogda",
@@ -1981,11 +2001,15 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1455/123596t.jpg",
         "synonyms": [
             "Eating",
+            "Meokda",
             "먹다"
         ],
         "relations": [],
         "tags": [
-            "avant garde"
+            "avant garde",
+            "korean animation",
+            "psychological",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -2399,6 +2423,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/qin-shi-mingyue-xiao-chuangjianghu",
             "https://myanimelist.net/anime/44132"
         ],
         "title": "Qin Shi Mingyue: Xiao Chuangjianghu",
@@ -2411,12 +2436,15 @@
             "秦时明月之笑闯江湖"
         ],
         "relations": [
+            "https://anime-planet.com/anime/qin-shi-mingyue-xiao-chuangjianghu-2nd-season",
             "https://myanimelist.net/anime/44133",
             "https://myanimelist.net/anime/9806"
         ],
         "tags": [
+            "chinese animation",
             "comedy",
-            "fantasy"
+            "fantasy",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -3284,6 +3312,33 @@
             "adventure",
             "comedy",
             "romance"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/45191",
+            "https://myanimelist.net/anime/52086"
+        ],
+        "title": "Xiao Xiao Shijie Lixian Ji",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1216/124503.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1216/124503t.jpg",
+        "synonyms": [
+            "Adventures in the small world",
+            "The Small Giant",
+            "小小世界历险记",
+            "小小世界歷險記"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "kids"
         ],
         "date": {
             "season": "unknown",

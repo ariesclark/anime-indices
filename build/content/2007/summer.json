@@ -2,6 +2,7 @@
     {
         "sources": [
             "https://anidb.net/anime/13686",
+            "https://anime-planet.com/anime/aaa-de-ikou-yuuna-akiko",
             "https://anisearch.com/anime/13684",
             "https://kitsu.io/anime/10368",
             "https://myanimelist.net/anime/29750",
@@ -14,6 +15,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/5/71512.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/5/71512t.jpg",
         "synonyms": [
+            "AAA de Ikou!! Yuuna & Akiko",
             "AAA de Ikō!!: Yūna & Akiko",
             "AAAで行こう!!~Yuuna&Akiko~",
             "Yuuna & Akiko: Let's Go AAA!"
@@ -1189,9 +1191,7 @@
             "Dennō Coil Sōshūhen",
             "電脳コイル総集編"
         ],
-        "relations": [
-            "https://anisearch.com/anime/3659"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "comedy",
@@ -3135,6 +3135,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kono-aozora-ni-yakusoku-wo-youkoso-tsugumi-ryou-e-ai-no-tsugumi-ryou-gekijou",
             "https://myanimelist.net/anime/41076"
         ],
         "title": "Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e - Ai no Tsugumi Ryou Gekijou",
@@ -3148,6 +3149,7 @@
             "この青空に約束を― ～ようこそつぐみ寮へ～ 愛のつぐみ寮劇場"
         ],
         "relations": [
+            "https://anime-planet.com/anime/kono-aozora-ni-yakusoku-wo",
             "https://myanimelist.net/anime/2155"
         ],
         "tags": [
@@ -5943,6 +5945,7 @@
             "animals",
             "archery",
             "asia",
+            "child protagonists",
             "drama",
             "drugs",
             "earth",
@@ -6581,6 +6584,50 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/104183",
+            "https://anime-planet.com/anime/xiao-li-yu-li-xian-ji",
+            "https://anisearch.com/anime/11851",
+            "https://kitsu.io/anime/41039",
+            "https://myanimelist.net/anime/37300",
+            "https://notify.moe/anime/ddiK2Fmig"
+        ],
+        "title": "Xiao Liyu Lixian Ji",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1305/90532.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1305/90532t.jpg",
+        "synonyms": [
+            "Las Aventuras de Paopao",
+            "Liyu Tiao Longmen",
+            "The Adventures Of Little Carp",
+            "The Adventures of Little Carp",
+            "The Carp Jumps Over the Dragon Gate",
+            "Xiao Li Yu Li Xian Ji",
+            "小鯉魚歷險記",
+            "小鲤鱼历险记",
+            "小鲤鱼历险记,"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "animal protagonists",
+            "based on a fairy tale",
+            "chinese animation",
+            "family friendly",
+            "fantasy",
+            "kids",
+            "magic",
+            "non-human protagonists",
+            "ocean"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/145900",
             "https://anime-planet.com/anime/yumehito-yumejin",
             "https://kitsu.io/anime/40939",
@@ -6948,8 +6995,10 @@
         "tags": [
             "comedy",
             "drama",
+            "ghost",
             "music",
             "present",
+            "primarily female cast",
             "romance",
             "sentimental drama",
             "shorts"

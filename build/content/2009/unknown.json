@@ -140,6 +140,24 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/151088"
+        ],
+        "title": "Between Showers",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151088-zAfZo2CoavC2.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151088-zAfZo2CoavC2.png",
+        "synonyms": [],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/16749"
         ],
         "title": "Bola Kampung 4",
@@ -245,6 +263,32 @@
             "family friendly",
             "fantasy",
             "historical"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/45933",
+            "https://myanimelist.net/anime/52062"
+        ],
+        "title": "Chaoji Fangchengshi",
+        "type": "tv",
+        "episodes": 38,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "Formula-X",
+            "超级方程式",
+            "超级方程式 第一季"
+        ],
+        "relations": [],
+        "tags": [
+            "kids",
+            "racing"
         ],
         "date": {
             "season": "unknown",
@@ -2623,6 +2667,35 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/ryokos-case-file-hamachou-voice-and-fiction"
+        ],
+        "title": "Ryoko's Case File: Hamachou, Voice & Fiction",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "synonyms": [
+            "Yakushiji Ryoko no Kaiki Jikenbo: Hamachou, Voice & Fiction"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/ryokos-case-file"
+        ],
+        "tags": [
+            "action",
+            "based on a light novel",
+            "detectives",
+            "police",
+            "recap",
+            "supernatural"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/seer-da-dianying-7-fengkuang-jiqi-cheng"
         ],
         "title": "Seer Da Dianying 7: Fengkuang Jiqi Cheng",
@@ -3068,10 +3141,7 @@
             "Tico Chun Ji Pian",
             "缇可 春季篇"
         ],
-        "relations": [
-            "https://anisearch.com/anime/15771",
-            "https://anisearch.com/anime/16880"
-        ],
+        "relations": [],
         "tags": [],
         "date": {
             "season": "unknown",

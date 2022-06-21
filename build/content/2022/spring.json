@@ -121,7 +121,7 @@
         "title": "Aharen-san wa Hakarenai",
         "type": "tv",
         "episodes": 12,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1612/120636.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1612/120636t.jpg",
         "synonyms": [
@@ -146,7 +146,6 @@
             "comedy",
             "crossdressing",
             "cute girls doing cute things",
-            "disability",
             "episodic",
             "fishing",
             "gag",
@@ -154,15 +153,17 @@
             "high school",
             "iyashikei",
             "kuudere",
-            "lgbtq+ themes",
             "manga",
             "meta",
+            "outdoor",
             "parody",
             "present",
+            "primarily teen cast",
             "romance",
             "romantic comedy",
             "school",
             "school life",
+            "shogi",
             "shounen",
             "slapstick",
             "slice of life",
@@ -557,7 +558,7 @@
         ],
         "title": "Birdie Wing: Golf Girls' Story",
         "type": "tv",
-        "episodes": 10,
+        "episodes": 13,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1343/120488.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1343/120488t.jpg",
@@ -585,8 +586,8 @@
             "new",
             "original work",
             "present",
-            "primarily adult cast",
             "primarily female cast",
+            "primarily teen cast",
             "school",
             "sports",
             "super power",
@@ -612,7 +613,7 @@
         "title": "Black★★Rock Shooter: Dawn Fall",
         "type": "tv",
         "episodes": 12,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1549/121866.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1549/121866t.jpg",
         "synonyms": [
@@ -680,7 +681,7 @@
         "title": "Boku no Hero Academia (ONA)",
         "type": "ona",
         "episodes": 2,
-        "status": "upcoming",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1873/123688.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1873/123688t.jpg",
         "synonyms": [
@@ -707,6 +708,7 @@
             "僕のヒーローアカデミア: HLB"
         ],
         "relations": [
+            "https://anidb.net/anime/15484",
             "https://anilist.co/anime/117193",
             "https://anime-planet.com/anime/my-hero-academia",
             "https://kitsu.io/anime/43108",
@@ -852,7 +854,9 @@
             "บับเบิ้ล",
             "バブル"
         ],
-        "relations": [],
+        "relations": [
+            "https://anime-planet.com/anime/eve-and-riria-bubble"
+        ],
         "tags": [
             "adventure",
             "aliens",
@@ -1064,7 +1068,7 @@
         ],
         "title": "Cap Kakumei Bottleman DX",
         "type": "tv",
-        "episodes": 11,
+        "episodes": 12,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1699/121192.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1699/121192t.jpg",
@@ -1103,31 +1107,9 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/chiikawa"
-        ],
-        "title": "Chiikawa",
-        "type": "tv",
-        "episodes": 11,
-        "status": "unknown",
-        "picture": "https://cdn.anime-planet.com/anime/primary/chiikawa-1.webp?t=1650757904",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/chiikawa-1-285x399.webp?t=1650757904",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "animal protagonists",
-            "comedy",
-            "non-human protagonists",
-            "short episodes"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/16943",
             "https://anilist.co/anime/140842",
+            "https://anime-planet.com/anime/chiikawa",
             "https://anisearch.com/anime/16709",
             "https://kitsu.io/anime/45405",
             "https://livechart.me/anime/10860",
@@ -1149,10 +1131,13 @@
         ],
         "relations": [],
         "tags": [
+            "animal protagonists",
             "animals",
             "comedy",
             "fantasy",
+            "non-human protagonists",
             "seinen",
+            "short episodes",
             "slice of life"
         ],
         "date": {
@@ -1226,28 +1211,6 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/17426"
-        ],
-        "title": "DEathMAtCH: Riaru ni Koishiteru",
-        "type": "tv",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17426.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17426.webp",
-        "synonyms": [
-            "DEathMAtCH～リアルに恋してる～",
-            "Geinin Anime Kantoku",
-            "芸人アニメ監督"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "spring",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/16196",
             "https://anilist.co/anime/132171",
             "https://anime-planet.com/anime/dance-dance-danseur",
@@ -1260,7 +1223,7 @@
         "title": "Dance Dance Danseur",
         "type": "tv",
         "episodes": 11,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1571/121381.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1571/121381t.jpg",
         "synonyms": [
@@ -1292,6 +1255,7 @@
             "seinen",
             "slice of life",
             "sports",
+            "suicide",
             "the arts"
         ],
         "date": {
@@ -1447,17 +1411,19 @@
     {
         "sources": [
             "https://anidb.net/anime/17453",
-            "https://livechart.me/anime/11253"
+            "https://anisearch.com/anime/17426"
         ],
         "title": "Death Match: Real ni Koi Shiteru",
-        "type": "special",
+        "type": "tv",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/273714.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/273714.jpg-thumb.jpg",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17426.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17426.webp",
         "synonyms": [
-            "DEath MAtCH ~Real ni Koi Shiteru~",
-            "DEath MAtCH ~リアルに恋してる~"
+            "DEath MAtCH ~リアルに恋してる~",
+            "DEathMAtCH～リアルに恋してる～",
+            "Geinin Anime Kantoku",
+            "芸人アニメ監督"
         ],
         "relations": [],
         "tags": [],
@@ -1576,11 +1542,14 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1376/123680.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1376/123680t.jpg",
         "synonyms": [
+            "Digimon Ghost Game : Un bien étrange monde, raconté par Naoto Takenaka",
             "Digimon Ghost Game Episode 24.5",
             "Digimon Ghost Game: A Strange World As Told By Naoto Takenaka",
             "Digimon Ghost Game: A Strange World as Told by Naoto Takenaka",
             "Digimon Ghost Game: Eine befremdliche Welt erzählt von Takenaka Naoto",
             "Digimon Ghost Game: Takenaka Naoto ga Kataru Kaiki no Sekai",
+            "Digimon Ghost Game: Un extraño mundo, narrado por Naoto Takenaka",
+            "Digimon Ghost Game: Uno strano mondo raccontato da Takenaka Naoto",
             "デジモンゴーストゲーム",
             "デジモンゴーストゲーム 竹中直人が語る怪奇の世界"
         ],
@@ -1754,7 +1723,7 @@
         ],
         "title": "Duel Masters King Max",
         "type": "tv",
-        "episodes": 10,
+        "episodes": 11,
         "status": "unknown",
         "picture": "https://cdn.anime-planet.com/anime/primary/duel-masters-king-max-1.webp?t=1650756462",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/duel-masters-king-max-1-285x399.webp?t=1650756462",
@@ -2018,6 +1987,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1417/124151t.jpg",
         "synonyms": [
             "Free! -the Final Stroke- Part 2",
+            "Free! -the Final Stroke- the Second Volume",
             "Free! Movie 5: The Final Stroke",
             "Free! Movie: The Final Stroke - Kouhen",
             "Free!: the Final Stroke - Kouhen",
@@ -2119,7 +2089,6 @@
             "elves",
             "epic fantasy",
             "fantasy",
-            "female harem",
             "hero of strong character",
             "isekai",
             "kemonomimi",
@@ -2142,6 +2111,7 @@
             "swordplay",
             "swords & co",
             "trapped in a video game",
+            "tsundere",
             "violence"
         ],
         "date": {
@@ -2563,6 +2533,7 @@
             "https://notify.moe/anime/S_HiG2UZR"
         ],
         "tags": [
+            "age transformation",
             "alternative world",
             "apprenticeship",
             "based on a light novel",
@@ -2579,6 +2550,7 @@
             "medieval",
             "middle ages",
             "modern knowledge",
+            "nobility",
             "novel",
             "past memories",
             "person in a strange world",
@@ -2737,7 +2709,7 @@
         ],
         "title": "Insect Land",
         "type": "tv",
-        "episodes": 11,
+        "episodes": 12,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1991/120109.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1991/120109t.jpg",
@@ -2927,6 +2899,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/150973",
             "https://anisearch.com/anime/17393"
         ],
         "title": "Itsuwari",
@@ -3041,8 +3014,8 @@
         ],
         "title": "Jantama Pong☆",
         "type": "tv",
-        "episodes": 10,
-        "status": "ongoing",
+        "episodes": 11,
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1903/121886.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1903/121886t.jpg",
         "synonyms": [
@@ -3058,6 +3031,7 @@
         "relations": [
             "https://anilist.co/anime/139044",
             "https://anilist.co/anime/146866",
+            "https://anilist.co/anime/151067",
             "https://anime-planet.com/anime/akagi-x-mahjong-soul-pon-collaboration-event-pv",
             "https://anime-planet.com/anime/mahjong-soul-pon-episode-0",
             "https://anime-planet.com/anime/mahjong-soul-pon-special",
@@ -3227,7 +3201,7 @@
         ],
         "title": "Jiu Tian Xuan Di Jue 2",
         "type": "ona",
-        "episodes": 14,
+        "episodes": 16,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1929/124229.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1929/124229t.jpg",
@@ -3305,7 +3279,7 @@
         ],
         "title": "Kaginado Season 2",
         "type": "tv",
-        "episodes": 9,
+        "episodes": 10,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1452/123859.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1452/123859t.jpg",
@@ -3391,7 +3365,7 @@
         ],
         "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
         "type": "tv",
-        "episodes": 13,
+        "episodes": 12,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1160/122627.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1160/122627t.jpg",
@@ -3444,6 +3418,7 @@
         ],
         "tags": [
             "based on a manga",
+            "boys' love",
             "comedy",
             "cosplay",
             "crossdressing",
@@ -3527,7 +3502,7 @@
         "title": "Kaitou Queen wa Circus ga Osuki",
         "type": "ova",
         "episodes": 1,
-        "status": "upcoming",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1387/121512.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1387/121512t.jpg",
         "synonyms": [
@@ -3558,7 +3533,7 @@
         ],
         "title": "Kakkou no Iikagen",
         "type": "ona",
-        "episodes": 7,
+        "episodes": 8,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1467/123465.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1467/123465t.jpg",
@@ -4110,7 +4085,7 @@
         ],
         "title": "Komi-san wa, Comyushou desu. 2nd Season",
         "type": "tv",
-        "episodes": 10,
+        "episodes": 12,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1108/121157.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1108/121157t.jpg",
@@ -4143,7 +4118,8 @@
             "古見さんは、 コミュ症です。 （2022）",
             "古見さんは、コミュ症です。 2",
             "古見さんは、コミュ症です。2",
-            "古見さんは、コミュ症です。第2期"
+            "古見さんは、コミュ症です。第2期",
+            "古見同學有社交障礙 第2季"
         ],
         "relations": [
             "https://anidb.net/anime/16300",
@@ -4484,7 +4460,7 @@
         ],
         "title": "Kyoukai Senki Part 2",
         "type": "tv",
-        "episodes": 9,
+        "episodes": 12,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1968/122304.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1968/122304t.jpg",
@@ -4556,7 +4532,7 @@
         "title": "Legend of the Galactic Heroes: Die Neue These Third 1",
         "type": "movie",
         "episodes": 1,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.anime-planet.com/anime/primary/legend-of-the-galactic-heroes-die-neue-these-third-1-1.jpg?t=1633763575",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/legend-of-the-galactic-heroes-die-neue-these-third-1-1-285x399.jpg?t=1633763575",
         "synonyms": [
@@ -4748,7 +4724,7 @@
         ],
         "title": "Love All Play",
         "type": "tv",
-        "episodes": 11,
+        "episodes": 12,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1346/120869.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1346/120869t.jpg",
@@ -4876,15 +4852,15 @@
         ],
         "tags": [
             "action",
-            "anime influenced",
-            "comedy",
+            "alien",
+            "cyborg",
             "fantasy",
+            "horror",
             "other planet",
-            "post apocalypse",
-            "psychological",
             "robot",
             "science fiction",
-            "violence"
+            "violence",
+            "zombie"
         ],
         "date": {
             "season": "spring",
@@ -4897,7 +4873,7 @@
         ],
         "title": "MADTOY CHATTY",
         "type": "tv",
-        "episodes": 9,
+        "episodes": 10,
         "status": "ongoing",
         "picture": "https://u.livechart.me/anime/11185/poster_image/9fa7a4c38500d5cc4b96c6cca738326a.webp?style=large&format=jpg",
         "thumbnail": "https://u.livechart.me/anime/11185/poster_image/9fa7a4c38500d5cc4b96c6cca738326a.webp?style=small&format=jpg",
@@ -4951,7 +4927,6 @@
             "https://anilist.co/anime/145994",
             "https://anime-planet.com/anime/the-demon-girl-next-door",
             "https://anime-planet.com/anime/the-demon-girl-next-door-2-mini-anime",
-            "https://anime-planet.com/anime/the-demon-girl-next-door-mini",
             "https://kitsu.io/anime/42137",
             "https://livechart.me/anime/11146",
             "https://livechart.me/anime/11147",
@@ -4989,8 +4964,7 @@
             "slice of life",
             "urban fantasy",
             "verbal comedy",
-            "youkai",
-            "yuri"
+            "youkai"
         ],
         "date": {
             "season": "spring",
@@ -5279,6 +5253,7 @@
             "Detective Conan: Zero`s Tea Time",
             "Detective Conan: Zero‘s Tea Time",
             "Detektiv Conan: Zero`s Tea Time",
+            "Detektiv Conan: Zero’s Tea Time",
             "Detektyw Conan: Herbatka u Zero",
             "Meitantei Conan: Zero no Nichijou",
             "Zero's Daily Life",
@@ -5514,17 +5489,23 @@
         "tags": [
             "action",
             "action drama",
+            "agriculture",
+            "anti-hero",
             "cgi",
             "drama",
+            "family life",
+            "foreign",
             "mecha",
             "military",
             "outer space",
             "piloted robot",
+            "politics",
             "real robot",
             "sci fi",
             "sci-fi",
             "science fiction",
             "ships",
+            "slapstick",
             "space",
             "war"
         ],
@@ -5595,7 +5576,7 @@
         ],
         "title": "Motto! Majime ni Fumajime Kaiketsu Zorori 3rd Season",
         "type": "tv",
-        "episodes": 10,
+        "episodes": 11,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1186/118941.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1186/118941t.jpg",
@@ -5712,12 +5693,14 @@
     {
         "sources": [
             "https://anidb.net/anime/17429",
+            "https://anime-planet.com/anime/nanamental",
             "https://livechart.me/anime/11234",
-            "https://myanimelist.net/anime/51953"
+            "https://myanimelist.net/anime/51953",
+            "https://myanimelist.net/anime/52000"
         ],
         "title": "Nanamental",
         "type": "ona",
-        "episodes": 0,
+        "episodes": 20,
         "status": "upcoming",
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
@@ -5726,31 +5709,11 @@
         ],
         "relations": [],
         "tags": [
+            "comedy",
             "romance",
             "school",
+            "short episodes",
             "slice of life"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/52000"
-        ],
-        "title": "Nanamental",
-        "type": "ona",
-        "episodes": 0,
-        "status": "ongoing",
-        "picture": "https://cdn.myanimelist.net/images/anime/1616/124262.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1616/124262t.jpg",
-        "synonyms": [
-            "ナナメンタル"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy"
         ],
         "date": {
             "season": "spring",
@@ -5767,7 +5730,7 @@
         ],
         "title": "Nanaraki: Seven Lucky Gods",
         "type": "ona",
-        "episodes": 4,
+        "episodes": 6,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1252/123641.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1252/123641t.jpg",
@@ -5778,6 +5741,7 @@
         ],
         "relations": [],
         "tags": [
+            "banter",
             "comedy",
             "gods",
             "non-human protagonists",
@@ -5994,7 +5958,7 @@
         ],
         "title": "Onipan!",
         "type": "tv",
-        "episodes": 9,
+        "episodes": 10,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1278/120805.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1278/120805t.jpg",
@@ -6118,7 +6082,7 @@
         "title": "Otaku ni Yasashii Gal toka, Kyonyuu no Osananajimi toka.",
         "type": "ova",
         "episodes": 2,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1210/119599.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1210/119599t.jpg",
         "synonyms": [
@@ -6156,7 +6120,7 @@
         "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
         "type": "tv",
         "episodes": 12,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1161/121462.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1161/121462t.jpg",
         "synonyms": [
@@ -6210,6 +6174,7 @@
             "parody",
             "person in a strange world",
             "political",
+            "primarily teen cast",
             "real robot",
             "reincarnation",
             "reluctant hero",
@@ -6428,7 +6393,7 @@
         "title": "Paripi Koumei",
         "type": "tv",
         "episodes": 12,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1970/122297.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1970/122297t.jpg",
         "synonyms": [
@@ -6473,6 +6438,30 @@
             "time manipulation",
             "time travel",
             "urban"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/148816",
+            "https://myanimelist.net/anime/51741"
+        ],
+        "title": "Period Color",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1865/123470.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1865/123470t.jpg",
+        "synonyms": [],
+        "relations": [
+            "https://anilist.co/anime/87495",
+            "https://myanimelist.net/anime/33899"
+        ],
+        "tags": [
+            "video game"
         ],
         "date": {
             "season": "spring",
@@ -6545,7 +6534,8 @@
             "kids",
             "male protagonist",
             "monsters",
-            "short episodes"
+            "short episodes",
+            "time skip"
         ],
         "date": {
             "season": "spring",
@@ -6614,6 +6604,7 @@
         ],
         "tags": [
             "action",
+            "female protagonist",
             "historical",
             "mystery",
             "original work"
@@ -6691,6 +6682,7 @@
             "primarily female cast",
             "seinen",
             "slice of life",
+            "tragedy",
             "work",
             "working life"
         ],
@@ -6814,7 +6806,7 @@
         "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart",
         "type": "tv",
         "episodes": 12,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1109/118948.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1109/118948t.jpg",
         "synonyms": [
@@ -6869,10 +6861,12 @@
             "genius",
             "heterosexual",
             "idol",
+            "love triangle",
             "manga",
             "meta",
             "present",
             "primarily adult cast",
+            "rape",
             "romance",
             "romantic comedy",
             "school life",
@@ -6889,6 +6883,7 @@
     {
         "sources": [
             "https://anilist.co/anime/146729",
+            "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao-8",
             "https://myanimelist.net/anime/51496"
         ],
         "title": "Ruguo Lishi Shi Yiqun Miao 8th Season",
@@ -6901,6 +6896,7 @@
             "History Cats 8th Season",
             "If History is a Group of Meows 8th Season",
             "Ruguo Lishi Shi Yi Qun Miao 8",
+            "Ruguo Lishi Shi Yiqun Miao 8",
             "When History Meows 8",
             "When History Meows 8th Season",
             "如果历史是一群喵 盛世大唐篇",
@@ -6908,13 +6904,21 @@
         ],
         "relations": [
             "https://anilist.co/anime/139434",
+            "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao-7",
             "https://myanimelist.net/anime/50294"
         ],
         "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "based on a webtoon",
+            "cats",
+            "chinese animation",
             "comedy",
             "educational",
             "historical",
-            "kids"
+            "kids",
+            "non-human protagonists",
+            "short episodes"
         ],
         "date": {
             "season": "spring",
@@ -7040,7 +7044,7 @@
         ],
         "title": "Shadowverse Flame",
         "type": "tv",
-        "episodes": 11,
+        "episodes": 12,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1877/122972.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1877/122972t.jpg",
@@ -7241,7 +7245,7 @@
         ],
         "title": "Shikong Zhi Xi",
         "type": "ona",
-        "episodes": 10,
+        "episodes": 11,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1258/119634.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1258/119634t.jpg",
@@ -7429,7 +7433,7 @@
         "title": "Shokei Shoujo no Virgin Road",
         "type": "tv",
         "episodes": 12,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1423/122029.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1423/122029t.jpg",
         "synonyms": [
@@ -7456,13 +7460,14 @@
             "anti-hero",
             "assassins",
             "based on a light novel",
+            "cgi",
             "coming of age",
             "conspiracy",
             "dark fantasy",
             "drama",
             "fantasy",
             "female protagonist",
-            "gl",
+            "gore",
             "isekai",
             "love triangle",
             "magic",
@@ -7475,7 +7480,6 @@
             "reincarnation",
             "religion",
             "shoujo ai",
-            "shoujo-ai",
             "summoned into another world",
             "swords & co",
             "time manipulation",
@@ -7626,15 +7630,17 @@
         "title": "Spriggan (ONA)",
         "type": "ona",
         "episodes": 6,
-        "status": "upcoming",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1195/123948.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1195/123948t.jpg",
         "synonyms": [
             "SPRIGGAN",
+            "SPRIGGAN (2022)",
             "SPRIGGAN (ONA)",
             "Spriggan",
             "Spriggan (2022)",
             "Striker",
+            "Спригган (2022)",
             "سبريغان: حماة الخير",
             "สปริกกัน",
             "スプリガン",
@@ -7766,6 +7772,7 @@
             "slapstick",
             "slice of life",
             "supernatural",
+            "trains",
             "tsundere",
             "urban"
         ],
@@ -7826,6 +7833,7 @@
             "island",
             "love triangle",
             "male protagonist",
+            "manga",
             "mystery",
             "mythology",
             "present",
@@ -7989,7 +7997,8 @@
             "seinen",
             "slavery",
             "summoned into another world",
-            "swords & co"
+            "swords & co",
+            "violence"
         ],
         "date": {
             "season": "spring",
@@ -8189,6 +8198,7 @@
             "https://anilist.co/anime/98520",
             "https://livechart.me/anime/10417",
             "https://livechart.me/anime/10418",
+            "https://livechart.me/anime/11221",
             "https://livechart.me/anime/2110",
             "https://livechart.me/anime/2113",
             "https://livechart.me/anime/2536",
@@ -8230,7 +8240,7 @@
         "synonyms": [
             "Tomica Heroes Jobraver: Tokusō Gattai Robo",
             "トミカヒーローズ ジョブレイバー 特装合体ロボ",
-            "トミカヒーローズ ジョブレイバー 特装合体ロボ (J"
+            "トミカヒーローズ ジョブレイバー 特装合体ロボ （J"
         ],
         "relations": [],
         "tags": [
@@ -8991,7 +9001,7 @@
         "title": "Yatogame-chan Kansatsu Nikki Yonsatsume",
         "type": "tv",
         "episodes": 10,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1549/121406.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1549/121406t.jpg",
         "synonyms": [
@@ -9020,19 +9030,29 @@
             "advertisement",
             "based on a 4-koma manga",
             "based on a manga",
+            "butler",
             "comedy",
+            "cute girls doing cute things",
             "educational",
             "food",
+            "language barrier",
+            "male protagonist",
             "manga",
+            "meta",
+            "nekomimi",
+            "parody",
             "present",
+            "primarily child cast",
             "primarily female cast",
             "primarily teen cast",
+            "satire",
             "school",
             "school club",
             "school life",
             "short episodes",
             "shounen",
             "slice of life",
+            "teacher",
             "tourism"
         ],
         "date": {
@@ -9049,7 +9069,7 @@
         ],
         "title": "Yofukashi no Uta Mini",
         "type": "ona",
-        "episodes": 2,
+        "episodes": 4,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1075/124359.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1075/124359t.jpg",
@@ -9192,6 +9212,7 @@
             "勇者辞职不干了"
         ],
         "relations": [
+            "https://anilist.co/anime/151126",
             "https://anime-planet.com/anime/im-quitting-heroing-specials",
             "https://livechart.me/anime/11176",
             "https://myanimelist.net/anime/51562"
@@ -9237,6 +9258,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/151126",
             "https://anime-planet.com/anime/im-quitting-heroing-specials",
             "https://anisearch.com/anime/17327",
             "https://livechart.me/anime/11176",
@@ -9250,6 +9272,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1369/123738t.jpg",
         "synonyms": [
             "I'm Quitting Heroing: Don't Lose Sight of Why We Took This Research Trip",
+            "I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity",
             "I’m Quitting Heroing Specials",
             "I’m Quitting Heroing: Don’t Lose Sight of Why We Took This Research Trip",
             "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki o Miushinau na",
@@ -9259,6 +9282,7 @@
             "勇者、辞めます「研修旅行は目的を見失うな」"
         ],
         "relations": [
+            "https://anilist.co/anime/140457",
             "https://anime-planet.com/anime/im-quitting-heroing",
             "https://livechart.me/anime/10842",
             "https://myanimelist.net/anime/50175"
@@ -9291,7 +9315,7 @@
         ],
         "title": "Yu☆Gi☆Oh!: Go Rush!!",
         "type": "tv",
-        "episodes": 11,
+        "episodes": 12,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1556/122518.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1556/122518t.jpg",
@@ -9412,7 +9436,7 @@
         ],
         "title": "Zanting! Rang Wo Cha Gonglüe",
         "type": "ona",
-        "episodes": 6,
+        "episodes": 7,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1984/123836.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1984/123836t.jpg",
@@ -9425,6 +9449,7 @@
         "tags": [
             "comedy",
             "fantasy",
+            "female protagonist",
             "full cgi",
             "isekai"
         ],

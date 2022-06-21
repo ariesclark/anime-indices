@@ -440,6 +440,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/ajjishin-da-tsunami-wa-jibun-no-inochi-wa-jibun-de-mamoru",
             "https://anisearch.com/anime/12729",
             "https://kitsu.io/anime/10094",
             "https://myanimelist.net/anime/28585",
@@ -460,6 +461,7 @@
             "beastmen",
             "drama",
             "educational",
+            "family friendly",
             "kids"
         ],
         "date": {
@@ -1338,6 +1340,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/boku-wa-sugu-ni-nigetanda-higashi-nihon-daishinsai-kara-mananda-koto",
             "https://kitsu.io/anime/10100",
             "https://myanimelist.net/anime/28551",
             "https://notify.moe/anime/Z7HspKimR"
@@ -1354,6 +1357,8 @@
         "relations": [],
         "tags": [
             "drama",
+            "educational",
+            "family friendly",
             "kids"
         ],
         "date": {
@@ -3004,6 +3009,8 @@
     {
         "sources": [
             "https://anidb.net/anime/11663",
+            "https://anime-planet.com/anime/gogulyeoui-jeolm-eun-musadeul",
+            "https://anisearch.com/anime/12357",
             "https://kitsu.io/anime/11847",
             "https://myanimelist.net/anime/31692",
             "https://notify.moe/anime/9kCqpKmig"
@@ -3015,12 +3022,18 @@
         "picture": "https://cdn.myanimelist.net/images/anime/8/76380.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/8/76380t.jpg",
         "synonyms": [
+            "Goguryeoui Jeolmeun Musadeul",
+            "Goguryeōi Jeolmeun Musadeul",
             "Young Warriors of Koguryo",
             "고구려의 젊은 무사들"
         ],
         "relations": [],
         "tags": [
-            "historical"
+            "action",
+            "historical",
+            "korean animation",
+            "martial arts",
+            "swords & co"
         ],
         "date": {
             "season": "winter",
@@ -4316,8 +4329,7 @@
             "점박이: 한반도의 공룡 3D"
         ],
         "relations": [
-            "https://anilist.co/anime/141167",
-            "https://anisearch.com/anime/15288"
+            "https://anilist.co/anime/141167"
         ],
         "tags": [
             "adventure",
@@ -4923,6 +4935,7 @@
     {
         "sources": [
             "https://anidb.net/anime/9072",
+            "https://anime-planet.com/anime/kappa-no-suribachi",
             "https://anisearch.com/anime/7717",
             "https://kitsu.io/anime/10278",
             "https://myanimelist.net/anime/29491",
@@ -4940,7 +4953,9 @@
         "relations": [],
         "tags": [
             "fantasy",
-            "kids"
+            "japanese mythology",
+            "kids",
+            "youkai"
         ],
         "date": {
             "season": "winter",
@@ -10349,8 +10364,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/7/36531.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/7/36531t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1805/123188.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1805/123188t.jpg",
         "synonyms": [
             "Gate Special",
             "Poriomanía del egoismo",
@@ -11348,6 +11363,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tobidashi-wa-abunaizo-mushi-mushi-mura-no-koutsuu-anzen",
             "https://kitsu.io/anime/11036",
             "https://myanimelist.net/anime/30928",
             "https://notify.moe/anime/S0GXpKimg"
@@ -11368,9 +11384,14 @@
             "https://notify.moe/anime/mrFstFmiR"
         ],
         "tags": [
+            "animal protagonists",
+            "anthropomorphic",
             "drama",
             "educational",
-            "kids"
+            "family friendly",
+            "insects",
+            "kids",
+            "non-human protagonists"
         ],
         "date": {
             "season": "winter",
@@ -12057,6 +12078,7 @@
         "sources": [
             "https://anidb.net/anime/8980",
             "https://anilist.co/anime/15657",
+            "https://anime-planet.com/anime/yuke-shouei-kun",
             "https://anisearch.com/anime/7606",
             "https://kitsu.io/anime/7290",
             "https://myanimelist.net/anime/15657",
@@ -12077,7 +12099,9 @@
         ],
         "relations": [],
         "tags": [
-            "comedy"
+            "comedy",
+            "family friendly",
+            "short episodes"
         ],
         "date": {
             "season": "winter",

@@ -1297,6 +1297,7 @@
             "https://anidb.net/anime/7508",
             "https://anidb.net/anime/8914",
             "https://anilist.co/anime/112900",
+            "https://anilist.co/anime/12685",
             "https://anilist.co/anime/132317",
             "https://anilist.co/anime/1575",
             "https://anilist.co/anime/5163",
@@ -2501,6 +2502,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/great-hunt",
             "https://kitsu.io/anime/10974",
             "https://myanimelist.net/anime/30602",
             "https://notify.moe/anime/vG9ltFimR"
@@ -2518,7 +2520,8 @@
         "relations": [],
         "tags": [
             "comedy",
-            "music"
+            "music",
+            "short episodes"
         ],
         "date": {
             "season": "spring",
@@ -2657,6 +2660,7 @@
         "sources": [
             "https://anidb.net/anime/8446",
             "https://anilist.co/anime/4417",
+            "https://anime-planet.com/anime/hennako-chan",
             "https://anisearch.com/anime/7115",
             "https://kitsu.io/anime/3601",
             "https://myanimelist.net/anime/4417",
@@ -2675,8 +2679,12 @@
         ],
         "relations": [],
         "tags": [
+            "based on a manga",
             "comedy",
-            "manga"
+            "gag",
+            "josei",
+            "manga",
+            "short episodes"
         ],
         "date": {
             "season": "spring",
@@ -7542,6 +7550,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/yurumi-to-shimeru",
             "https://kitsu.io/anime/10511",
             "https://myanimelist.net/anime/29751",
             "https://notify.moe/anime/AqrUtKmmg"

@@ -972,6 +972,7 @@
         "sources": [
             "https://anidb.net/anime/8764",
             "https://anilist.co/anime/11717",
+            "https://anime-planet.com/anime/kirby-right-back-at-ya-pilot",
             "https://anisearch.com/anime/7495",
             "https://kitsu.io/anime/6575",
             "https://livechart.me/anime/9285",
@@ -990,6 +991,7 @@
             "Hoshi no Kirby Pilot",
             "Hoshi no Kirby no Pilot",
             "Kirby of the Stars",
+            "Kirby: Right Back At Ya! Pilot",
             "星のカービィ PILOT",
             "星のカービィ パイロット版",
             "星のカービィPILOT",
@@ -1007,10 +1009,14 @@
             "action comedy",
             "adventure",
             "aliens",
+            "based on a video game",
             "comedy",
             "fantasy",
+            "no dialogue",
+            "non-human protagonists",
             "parody",
-            "short episodes"
+            "short episodes",
+            "shorts"
         ],
         "date": {
             "season": "winter",
@@ -1225,6 +1231,7 @@
     {
         "sources": [
             "https://kitsu.io/anime/40961",
+            "https://livechart.me/anime/11278",
             "https://myanimelist.net/anime/36528"
         ],
         "title": "Kakyuusei (TV): Hajimemashite Tina!",
@@ -1239,6 +1246,9 @@
             "下級生はじめまして ティナ!"
         ],
         "relations": [
+            "https://livechart.me/anime/6852",
+            "https://livechart.me/anime/7982",
+            "https://livechart.me/anime/8288",
             "https://myanimelist.net/anime/2609"
         ],
         "tags": [
@@ -1742,6 +1752,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/mina-no-mura-to-mori",
             "https://kitsu.io/anime/9454",
             "https://myanimelist.net/anime/26251",
             "https://notify.moe/anime/gBxBpKimg"
@@ -1757,6 +1768,8 @@
             "ミナの村と森"
         ],
         "relations": [
+            "https://anime-planet.com/anime/mina-no-mura-no-gomi-soudou",
+            "https://anime-planet.com/anime/mina-no-mura-to-kawa",
             "https://kitsu.io/anime/9452",
             "https://kitsu.io/anime/9453",
             "https://myanimelist.net/anime/26249",
@@ -1767,6 +1780,7 @@
         "tags": [
             "drama",
             "educational",
+            "environmental",
             "kids"
         ],
         "date": {
@@ -3075,6 +3089,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tabi-no-kisetsu",
             "https://kitsu.io/anime/9649",
             "https://myanimelist.net/anime/26261",
             "https://notify.moe/anime/JXOYpFmmR"

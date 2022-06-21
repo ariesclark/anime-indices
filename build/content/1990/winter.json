@@ -113,6 +113,7 @@
     {
         "sources": [
             "https://anidb.net/anime/13678",
+            "https://anime-planet.com/anime/anime-hachiko-monogatari",
             "https://anisearch.com/anime/16410",
             "https://kitsu.io/anime/40608",
             "https://myanimelist.net/anime/34194",
@@ -131,6 +132,9 @@
         ],
         "relations": [],
         "tags": [
+            "dogs",
+            "drama",
+            "family friendly",
             "kids",
             "movie",
             "pets"
@@ -700,6 +704,7 @@
             "science-fiction",
             "seinen",
             "shapeshifting",
+            "shounen",
             "super power",
             "supernatural",
             "supernatural drama",
@@ -1489,6 +1494,11 @@
             "https://anisearch.com/anime/760",
             "https://kitsu.io/anime/6264",
             "https://kitsu.io/anime/6485",
+            "https://livechart.me/anime/3205",
+            "https://livechart.me/anime/743",
+            "https://livechart.me/anime/9582",
+            "https://livechart.me/anime/9583",
+            "https://livechart.me/anime/9585",
             "https://myanimelist.net/anime/10607",
             "https://myanimelist.net/anime/11268",
             "https://notify.moe/anime/7Yc4tFimg",
@@ -2482,6 +2492,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/niji-no-kakehashi",
             "https://kitsu.io/anime/11088",
             "https://myanimelist.net/anime/31004",
             "https://notify.moe/anime/kmFupKmmR"
@@ -2498,7 +2509,10 @@
         "relations": [],
         "tags": [
             "drama",
-            "kids"
+            "educational",
+            "kids",
+            "soccer",
+            "sports"
         ],
         "date": {
             "season": "winter",
@@ -3100,6 +3114,7 @@
             "https://anilist.co/anime/119345",
             "https://anime-planet.com/anime/warau-salesman-specials",
             "https://kitsu.io/anime/40695",
+            "https://livechart.me/anime/11262",
             "https://myanimelist.net/anime/35116",
             "https://notify.moe/anime/QkUv2FimR"
         ],
@@ -3120,6 +3135,10 @@
             "https://anilist.co/anime/3077",
             "https://anime-planet.com/anime/warau-salesman",
             "https://anime-planet.com/anime/warau-salesman-tokubetsu-bangumi",
+            "https://livechart.me/anime/11261",
+            "https://livechart.me/anime/11263",
+            "https://livechart.me/anime/2471",
+            "https://livechart.me/anime/7495",
             "https://myanimelist.net/anime/3077"
         ],
         "tags": [
@@ -3286,6 +3305,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/yuuki-aru-hotaru-to-tobe-nai-hotaru",
             "https://kitsu.io/anime/40651",
             "https://myanimelist.net/anime/35022",
             "https://notify.moe/anime/asxDhKiiR"
@@ -3305,7 +3325,8 @@
             "https://myanimelist.net/anime/45562"
         ],
         "tags": [
-            "drama"
+            "drama",
+            "shorts"
         ],
         "date": {
             "season": "winter",

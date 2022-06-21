@@ -543,6 +543,7 @@
     {
         "sources": [
             "https://anilist.co/anime/10039",
+            "https://anime-planet.com/anime/chinpui-specials",
             "https://kitsu.io/anime/6004",
             "https://livechart.me/anime/10368",
             "https://myanimelist.net/anime/10039",
@@ -561,6 +562,7 @@
         ],
         "relations": [
             "https://anilist.co/anime/5908",
+            "https://anime-planet.com/anime/chinpui",
             "https://kitsu.io/anime/4331",
             "https://livechart.me/anime/10367",
             "https://livechart.me/anime/10369",
@@ -568,7 +570,8 @@
             "https://notify.moe/anime/pyG35Fmmg"
         ],
         "tags": [
-            "comedy"
+            "comedy",
+            "short episodes"
         ],
         "date": {
             "season": "fall",
@@ -3542,6 +3545,7 @@
         "sources": [
             "https://anime-planet.com/anime/warau-salesman-episode-0",
             "https://kitsu.io/anime/40694",
+            "https://livechart.me/anime/11261",
             "https://myanimelist.net/anime/35115",
             "https://notify.moe/anime/z3sD2FmmR"
         ],
@@ -3552,6 +3556,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/7/84708.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/7/84708t.jpg",
         "synonyms": [
+            "Laughing Salesman Episode 0",
             "The Laughing Salesman Episode 0",
             "Warau Salesman Prologue",
             "笑ゥせぇるすまん 第0話 プロローグ"
@@ -3559,6 +3564,10 @@
         "relations": [
             "https://anime-planet.com/anime/warau-salesman",
             "https://anime-planet.com/anime/warau-salesman-new",
+            "https://livechart.me/anime/11262",
+            "https://livechart.me/anime/11263",
+            "https://livechart.me/anime/2471",
+            "https://livechart.me/anime/7495",
             "https://myanimelist.net/anime/3077"
         ],
         "tags": [
@@ -3610,6 +3619,7 @@
         "sources": [
             "https://anidb.net/anime/6029",
             "https://anilist.co/anime/7419",
+            "https://anime-planet.com/anime/wrestler-gundan-seisenshi-robin-jr",
             "https://anisearch.com/anime/4999",
             "https://kitsu.io/anime/4965",
             "https://myanimelist.net/anime/7419",
@@ -3639,9 +3649,11 @@
             "action",
             "adventure",
             "comedy",
+            "family friendly",
             "fantasy",
             "kids",
             "parody",
+            "sci fi",
             "sci-fi",
             "science fiction",
             "science-fiction",

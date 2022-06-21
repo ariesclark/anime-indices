@@ -4675,6 +4675,7 @@
             "https://anime-planet.com/anime/sound-euphonium-2-specials",
             "https://anime-planet.com/anime/sound-euphonium-specials",
             "https://kitsu.io/anime/9980",
+            "https://livechart.me/anime/11239",
             "https://livechart.me/anime/1267",
             "https://livechart.me/anime/1745",
             "https://livechart.me/anime/1902",
@@ -6397,6 +6398,7 @@
             "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-returns-akechi--keibu-no-jikenbo",
             "https://kitsu.io/anime/11680",
             "https://kitsu.io/anime/8310",
+            "https://livechart.me/anime/8151",
             "https://myanimelist.net/anime/22817",
             "https://myanimelist.net/anime/32376",
             "https://notify.moe/anime/NR4qtFimR",
@@ -6605,14 +6607,20 @@
         ],
         "relations": [],
         "tags": [
+            "cosmic horror",
+            "dancing",
             "episodic",
             "ghost",
             "horror",
             "new",
+            "office lady",
             "original work",
+            "photography",
+            "pov",
             "rotoscoping",
             "short episodes",
-            "supernatural"
+            "supernatural",
+            "urban"
         ],
         "date": {
             "season": "fall",
@@ -13539,6 +13547,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tian-yan-chuanqi",
             "https://myanimelist.net/anime/50168"
         ],
         "title": "Tian Yan Chuanqi",
@@ -13555,6 +13564,7 @@
         "relations": [],
         "tags": [
             "adventure",
+            "chinese animation",
             "fantasy",
             "kids"
         ],
@@ -14835,6 +14845,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/zip-x-peeping-life-tv-cool-japan-saizensen",
             "https://kitsu.io/anime/12446",
             "https://myanimelist.net/anime/32733",
             "https://notify.moe/anime/2uok2Fmmg"
@@ -14852,6 +14863,7 @@
             "ZIP!×Peeping Life TV「クールジャパン最前線」"
         ],
         "relations": [
+            "https://anime-planet.com/anime/peeping-life",
             "https://kitsu.io/anime/11385",
             "https://kitsu.io/anime/4597",
             "https://myanimelist.net/anime/31549",
@@ -14860,7 +14872,9 @@
             "https://notify.moe/anime/YODe5KmmR"
         ],
         "tags": [
+            "banter",
             "comedy",
+            "short episodes",
             "slice of life"
         ],
         "date": {
@@ -14946,6 +14960,30 @@
             "proxy battles",
             "shounen",
             "tournaments"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/44944",
+            "https://myanimelist.net/anime/52065"
+        ],
+        "title": "Zhongguo Changshi Ban",
+        "type": "ona",
+        "episodes": 6,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1644/124416.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1644/124416t.jpg",
+        "synonyms": [
+            "Chinese Choir",
+            "中国唱诗班"
+        ],
+        "relations": [],
+        "tags": [
+            "historical"
         ],
         "date": {
             "season": "fall",

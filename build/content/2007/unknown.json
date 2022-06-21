@@ -220,6 +220,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/code-geass-lelouch-of-the-rebellion-dvd-magazine-picture-drama",
             "https://myanimelist.net/anime/41075"
         ],
         "title": "Code Geass: Hangyaku no Lelouch DVD Magazine Picture Drama",
@@ -229,16 +230,37 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1566/105441.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1566/105441t.jpg",
         "synonyms": [
+            "Code Geass: Lelouch of the Rebellion DVD Magazine Picture Drama",
             "Lelouch's Britannia History Course",
             "Sayoko's Diary",
             "コードギアス 反逆のルルーシュ DVDマガジン"
         ],
         "relations": [
+            "https://anime-planet.com/anime/code-geass-lelouch-of-the-rebellion",
             "https://myanimelist.net/anime/1575"
         ],
         "tags": [
-            "comedy"
+            "comedy",
+            "picture drama"
         ],
+        "date": {
+            "season": "unknown",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/151086"
+        ],
+        "title": "DEDARI",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151086-gfqdFsqMVuvZ.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151086-gfqdFsqMVuvZ.png",
+        "synonyms": [],
+        "relations": [],
+        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2007
@@ -655,6 +677,29 @@
         "tags": [
             "avant garde",
             "music"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/kirakira-shougakusei-celeb-chan-specials"
+        ],
+        "title": "Kirakira Shougakusei Celeb-chan Specials",
+        "type": "special",
+        "episodes": 2,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/kirakira-shougakusei-celeb-chan"
+        ],
+        "tags": [
+            "comedy",
+            "parody"
         ],
         "date": {
             "season": "unknown",
@@ -1353,6 +1398,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tube-angel",
             "https://myanimelist.net/anime/51748"
         ],
         "title": "Tube Angel",
@@ -1363,7 +1409,10 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1130/123595t.jpg",
         "synonyms": [],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "korean animation",
+            "shorts"
+        ],
         "date": {
             "season": "unknown",
             "year": 2007

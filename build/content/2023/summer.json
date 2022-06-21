@@ -65,6 +65,64 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17459",
+            "https://anilist.co/anime/150970",
+            "https://kitsu.io/anime/46186",
+            "https://livechart.me/anime/11255",
+            "https://myanimelist.net/anime/52079"
+        ],
+        "title": "Cardfight!! Vanguard: will+Dress Season 3",
+        "type": "tv",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1564/124457.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1564/124457t.jpg",
+        "synonyms": [
+            "CARDFIGHT!! VANGUARD will+Dress Season 3",
+            "Cardfight!! Vanguard: Will+Dress (2023)",
+            "Cardfight!! Vanguard: overDress",
+            "Cardfight!! Vanguard: overDress Season 5",
+            "カードファイト!! ヴァンガード will+Dress (2023)",
+            "カードファイト!! ヴァンガード will+Dress Season 3",
+            "カードファイト!! ヴァンガード will+Dress Season3"
+        ],
+        "relations": [
+            "https://anidb.net/anime/16682",
+            "https://anilist.co/anime/139213",
+            "https://kitsu.io/anime/45215",
+            "https://livechart.me/anime/1098",
+            "https://livechart.me/anime/1222",
+            "https://livechart.me/anime/1572",
+            "https://livechart.me/anime/1716",
+            "https://livechart.me/anime/1762",
+            "https://livechart.me/anime/2047",
+            "https://livechart.me/anime/2259",
+            "https://livechart.me/anime/2814",
+            "https://livechart.me/anime/3005",
+            "https://livechart.me/anime/323",
+            "https://livechart.me/anime/361",
+            "https://livechart.me/anime/719",
+            "https://livechart.me/anime/825",
+            "https://livechart.me/anime/9221",
+            "https://livechart.me/anime/9527",
+            "https://myanimelist.net/anime/49820"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "card games",
+            "comedy",
+            "game",
+            "proxy battles",
+            "strategy game"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
             "https://kitsu.io/anime/42678"
         ],
         "title": "Spider-Man: Across the Spider-Verse",

@@ -299,6 +299,27 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/ijime-14-sai-no-message"
+        ],
+        "title": "Ijime 14-sai no Message",
+        "type": "ova",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/ijime-14-sai-no-message-1.webp?t=1655506675",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/ijime-14-sai-no-message-1-285x399.webp?t=1655506675",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "drama",
+            "educational"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2000
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/infinite-ryvius-light"
         ],
         "title": "Infinite Ryvius Light",
@@ -783,16 +804,19 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/50618"
+            "https://myanimelist.net/anime/50618",
+            "https://myanimelist.net/anime/52055"
         ],
         "title": "Sakura Taisen Special",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1148/124388.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1148/124388t.jpg",
         "synonyms": [
-            "サクラ大戦"
+            "Sakura Taisen: Kuwassarii to Yobareta Shoujo",
+            "サクラ大戦",
+            "サクラ大戦 火喰い鳥と呼ばれた少女"
         ],
         "relations": [
             "https://myanimelist.net/anime/561"
@@ -800,6 +824,7 @@
         "tags": [
             "adventure",
             "mecha",
+            "performing arts",
             "sci-fi",
             "shounen"
         ],

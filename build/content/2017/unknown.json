@@ -856,6 +856,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/chao-bian-wu-shou",
             "https://myanimelist.net/anime/45206",
             "https://myanimelist.net/anime/47660"
         ],
@@ -873,7 +874,10 @@
         "tags": [
             "action",
             "adventure",
+            "chinese animation",
+            "family friendly",
             "kids",
+            "sci fi",
             "sci-fi"
         ],
         "date": {
@@ -928,6 +932,30 @@
             "food and beverage",
             "parody",
             "promotional"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/chokkan-x-algorhythm"
+        ],
+        "title": "Chokkan x Algorhythm♪",
+        "type": "ona",
+        "episodes": 8,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/chokkan-x-algorhythm-1.webp?t=1655357465",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/chokkan-x-algorhythm-1-285x399.webp?t=1655357465",
+        "synonyms": [
+            "Live Animation Heart x Algorhythm"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/chokkan-x-algorhythm-2nd-season"
+        ],
+        "tags": [
+            "idols"
         ],
         "date": {
             "season": "unknown",
@@ -1959,6 +1987,26 @@
             "kids",
             "mecha",
             "racing"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/girls-und-panzer-saishuushou-fushou-akiyama-yukari-no-sensha-kouza-shoujun-hen"
+        ],
+        "title": "Girls und Panzer: Saishuushou - Fushou Akiyama Yukari no Sensha Kouza - Shoujun-hen",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/girls-und-panzer-saishuushou-fushou-akiyama-yukari-no-sensha-kouza-shoujun-hen-1.webp?t=1655249385",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/girls-und-panzer-saishuushou-fushou-akiyama-yukari-no-sensha-kouza-shoujun-hen-1-240x337.webp?t=1655249385",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "military"
         ],
         "date": {
             "season": "unknown",
@@ -5960,39 +6008,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/shenye-yu-tang",
-            "https://myanimelist.net/anime/47559"
-        ],
-        "title": "Shenye Yu Tang",
-        "type": "ona",
-        "episodes": 24,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1934/123224.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1934/123224t.jpg",
-        "synonyms": [
-            "深夜渔堂"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/shenye-yu-tang-yu-laoban-de-richang",
-            "https://myanimelist.net/anime/47560"
-        ],
-        "tags": [
-            "animal protagonists",
-            "anthropomorphic",
-            "cg animation",
-            "chinese animation",
-            "comedy",
-            "fantasy",
-            "non-human protagonists",
-            "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/shenye-yu-tang-yu-laoban-de-richang"
         ],
         "title": "Shenye Yu Tang: Yu Laoban de Richang",
@@ -7238,6 +7253,32 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/wojia-yezhu-hui-zuo-yao"
+        ],
+        "title": "Wojia Yezhu Hui Zuo Yao",
+        "type": "ona",
+        "episodes": 6,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/wojia-yezhu-hui-zuo-yao-1.webp?t=1655227920",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/wojia-yezhu-hui-zuo-yao-1-285x400.webp?t=1655227920",
+        "synonyms": [
+            "My Handsome Fairy Manager"
+        ],
+        "relations": [],
+        "tags": [
+            "based on a webtoon",
+            "bl",
+            "chinese animation",
+            "short episodes",
+            "shounen-ai"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/xxx-liquor"
         ],
         "title": "XXX: Liquor",
@@ -8106,28 +8147,6 @@
             "adventure",
             "fantasy",
             "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44944"
-        ],
-        "title": "Zhongguo Changshi Ban",
-        "type": "ona",
-        "episodes": 5,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "中国唱诗班"
-        ],
-        "relations": [],
-        "tags": [
-            "historical"
         ],
         "date": {
             "season": "unknown",

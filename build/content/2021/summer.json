@@ -676,7 +676,6 @@
             "https://anidb.net/anime/14876",
             "https://anilist.co/anime/107371",
             "https://anime-planet.com/anime/white-snake",
-            "https://anisearch.com/anime/14147",
             "https://kitsu.io/anime/42683",
             "https://livechart.me/anime/9619",
             "https://myanimelist.net/anime/38740"
@@ -3903,6 +3902,7 @@
     {
         "sources": [
             "https://anilist.co/anime/139772",
+            "https://anime-planet.com/anime/eve-gunjou-sanka",
             "https://anisearch.com/anime/16643",
             "https://kitsu.io/anime/45266",
             "https://myanimelist.net/anime/49964"
@@ -3916,6 +3916,8 @@
         "synonyms": [
             "Eve - Gunjou Sanka",
             "Eve - 群青讃歌",
+            "Eve: Gunjou Sanka",
+            "Eve: Ultramarine Hymn",
             "Gunjo Sanka",
             "Gunjo-san?",
             "Gunjō Sanka",
@@ -3924,6 +3926,7 @@
         ],
         "relations": [],
         "tags": [
+            "based on a video game",
             "cute girls doing cute things",
             "fantasy",
             "fishing",
@@ -3933,6 +3936,7 @@
             "post-apocalyptic",
             "slice of life",
             "video games",
+            "vocaloid",
             "witch"
         ],
         "date": {
@@ -4522,6 +4526,7 @@
         "sources": [
             "https://anilist.co/anime/143380",
             "https://anime-planet.com/anime/polar-bear-bears-boredom",
+            "https://kitsu.io/anime/46181",
             "https://myanimelist.net/anime/51828"
         ],
         "title": "Hokkyokuguma Suggoku Hima",
@@ -4540,7 +4545,8 @@
             "award winning",
             "bears",
             "non-human protagonists",
-            "shorts"
+            "shorts",
+            "the arts"
         ],
         "date": {
             "season": "summer",
@@ -4567,7 +4573,9 @@
         ],
         "relations": [
             "https://kitsu.io/anime/44088",
-            "https://kitsu.io/anime/45770"
+            "https://kitsu.io/anime/45770",
+            "https://kitsu.io/anime/46155",
+            "https://kitsu.io/anime/46178"
         ],
         "tags": [
             "anime influenced",
@@ -5436,7 +5444,6 @@
             "cute girls doing cute things",
             "dancing",
             "fantasy",
-            "full cgi",
             "idol",
             "indefinite",
             "music",
@@ -6093,6 +6100,7 @@
             "non-human protagonists",
             "nudity",
             "office lady",
+            "office worker",
             "otaku culture",
             "outdoor",
             "parody",
@@ -6986,6 +6994,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1454/117626.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1454/117626t.jpg",
         "synonyms": [
+            "El chico del oeste y el caballero de la brisa",
             "Mahou Tsukai no Yome: Nishi no Shonen to Seiran no Kishi",
             "Mahou Tsukai no Yome: Nishi no Shounen to Seiran no Kishi",
             "Mahoutsuaki no Yome OAD",
@@ -7458,7 +7467,7 @@
         ],
         "title": "Metal Goddess Soldier 2nd Season",
         "type": "ona",
-        "episodes": 54,
+        "episodes": 55,
         "status": "ongoing",
         "picture": "https://cdn.anime-planet.com/anime/primary/metal-goddess-soldier-2nd-season-1.jpg?t=1631679073",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/metal-goddess-soldier-2nd-season-1-285x399.jpg?t=1631679073",
@@ -7777,8 +7786,6 @@
             "https://anilist.co/anime/104458",
             "https://anime-planet.com/anime/mo-dao-zu-shi-2",
             "https://anime-planet.com/anime/mo-dao-zu-shi-q",
-            "https://anisearch.com/anime/13751",
-            "https://anisearch.com/anime/13964",
             "https://kitsu.io/anime/42163",
             "https://livechart.me/anime/4603",
             "https://livechart.me/anime/8141",
@@ -8289,6 +8296,7 @@
             "https://anime-planet.com/anime/obey-me-celestial-ray",
             "https://anime-planet.com/anime/obey-me-devildom-family-trip",
             "https://kitsu.io/anime/45992",
+            "https://kitsu.io/anime/46177",
             "https://livechart.me/anime/10509",
             "https://myanimelist.net/anime/49755"
         ],
@@ -9290,6 +9298,7 @@
             "https://anime-planet.com/anime/princess-principal",
             "https://anime-planet.com/anime/princess-principal-crown-handler-chapter-1",
             "https://anime-planet.com/anime/princess-principal-crown-handler-chapter-2-revealing-reviews",
+            "https://anime-planet.com/anime/princess-principal-crown-handler-chapter-3",
             "https://kitsu.io/anime/41254",
             "https://kitsu.io/anime/44962",
             "https://kitsu.io/anime/45704",
@@ -10500,6 +10509,7 @@
         "relations": [
             "https://anidb.net/anime/16755",
             "https://anilist.co/anime/139435",
+            "https://anime-planet.com/anime/the-duke-of-death-and-his-maid-2nd-season",
             "https://anisearch.com/anime/16605",
             "https://kitsu.io/anime/45229",
             "https://livechart.me/anime/10799",
@@ -10831,7 +10841,6 @@
             "supernatural",
             "superpower",
             "superpowers",
-            "surreal comedy",
             "survival",
             "tragedy"
         ],
@@ -11878,6 +11887,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tobidase-narase-pui-pui-molcar",
             "https://kitsu.io/anime/44683",
             "https://myanimelist.net/anime/49146"
         ],
@@ -11892,15 +11902,22 @@
             "とびだせ！ならせ！ PUI PUI モルカー"
         ],
         "relations": [
+            "https://anime-planet.com/anime/pui-pui-molcar",
             "https://kitsu.io/anime/43850",
             "https://myanimelist.net/anime/44235"
         ],
         "tags": [
+            "animal protagonists",
+            "anthropomorphic",
             "anthropomorphism",
+            "cars",
             "comedy",
+            "family friendly",
             "kids",
+            "non-human protagonists",
             "parody",
-            "racing"
+            "racing",
+            "stop motion animation"
         ],
         "date": {
             "season": "summer",
@@ -12045,6 +12062,7 @@
             "Generally Cute OVA",
             "Over the Moon For You SNS",
             "TONIKAWA OVA",
+            "TONIKAWA: Over The Moon For You - SNS",
             "TONIKAWA: Over The Moon For You OVA",
             "TONIKAWA: Over The Moon For You ~SNS~",
             "TONIKAWA: Over the Moon for You OVA",
@@ -12872,6 +12890,7 @@
             "action",
             "adventure",
             "anachronism",
+            "anti-hero",
             "assassins",
             "based on a manga",
             "bishounen",

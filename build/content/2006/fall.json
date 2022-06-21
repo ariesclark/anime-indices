@@ -6140,6 +6140,7 @@
         "sources": [
             "https://anidb.net/anime/4820",
             "https://anilist.co/anime/3372",
+            "https://anime-planet.com/anime/rgb-adventure",
             "https://anisearch.com/anime/3943",
             "https://kitsu.io/anime/2964",
             "https://myanimelist.net/anime/3372",
@@ -6156,6 +6157,7 @@
             "RGBアドベンチャー"
         ],
         "relations": [
+            "https://anime-planet.com/anime/rgb-adventure-recaps",
             "https://myanimelist.net/anime/42191"
         ],
         "tags": [
@@ -6516,6 +6518,7 @@
             "https://anime-planet.com/anime/sasami-magical-girls-club-2",
             "https://anisearch.com/anime/3742",
             "https://kitsu.io/anime/1693",
+            "https://livechart.me/anime/11269",
             "https://myanimelist.net/anime/1882",
             "https://notify.moe/anime/uhXf5FiiR"
         ],
@@ -6576,6 +6579,7 @@
             "https://anisearch.com/anime/8787",
             "https://anisearch.com/anime/990",
             "https://kitsu.io/anime/7760",
+            "https://livechart.me/anime/7458",
             "https://myanimelist.net/anime/1881",
             "https://notify.moe/anime/f2vppFimR"
         ],
@@ -6871,6 +6875,7 @@
         "sources": [
             "https://anidb.net/anime/4560",
             "https://anilist.co/anime/1863",
+            "https://anime-planet.com/anime/silk-road-boy-yuto",
             "https://anisearch.com/anime/3621",
             "https://kitsu.io/anime/1680",
             "https://livechart.me/anime/8438",
@@ -6891,13 +6896,17 @@
             "シルクロード少年 ユート"
         ],
         "relations": [
+            "https://anime-planet.com/anime/silk-road-boy-yuto-recap",
             "https://myanimelist.net/anime/32369"
         ],
         "tags": [
             "adventure",
+            "cg animation",
             "cg-anime",
+            "educational",
             "fantasy",
-            "historical"
+            "historical",
+            "time travel"
         ],
         "date": {
             "season": "fall",

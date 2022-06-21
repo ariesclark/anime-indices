@@ -142,6 +142,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/blow-up-2",
             "https://myanimelist.net/anime/38868"
         ],
         "title": "Blow Up 2",
@@ -155,7 +156,9 @@
         ],
         "relations": [],
         "tags": [
-            "avant garde"
+            "abstract",
+            "avant garde",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -1346,7 +1349,10 @@
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1288/114241.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1288/114241t.jpg",
-        "synonyms": [],
+        "synonyms": [
+            "PokePark Introductionary Animations",
+            "Pokemon The Park 2005"
+        ],
         "relations": [
             "https://myanimelist.net/anime/11019"
         ],

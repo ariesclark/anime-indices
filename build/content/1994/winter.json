@@ -345,6 +345,14 @@
             "https://anilist.co/anime/424",
             "https://kitsu.io/anime/388",
             "https://kitsu.io/anime/6708",
+            "https://livechart.me/anime/11240",
+            "https://livechart.me/anime/5865",
+            "https://livechart.me/anime/6613",
+            "https://livechart.me/anime/7004",
+            "https://livechart.me/anime/7244",
+            "https://livechart.me/anime/7262",
+            "https://livechart.me/anime/8388",
+            "https://livechart.me/anime/8390",
             "https://myanimelist.net/anime/12343",
             "https://myanimelist.net/anime/424",
             "https://notify.moe/anime/eJ5HpFimR",
@@ -1830,6 +1838,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/nakazaki-tatsuya-super-gag-theater-i",
             "https://myanimelist.net/anime/51459"
         ],
         "title": "Nakazaki Tatsuya Super Gag Theater I",
@@ -1842,10 +1851,13 @@
             "中崎タツヤスーパー ギャグシアター I"
         ],
         "relations": [
+            "https://anime-planet.com/anime/nakazaki-tatsuya-super-gag-theater-ii",
             "https://myanimelist.net/anime/51460"
         ],
         "tags": [
             "adult cast",
+            "comedy",
+            "gag",
             "gag humor"
         ],
         "date": {
@@ -2811,6 +2823,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/yuujou-no-kickoff",
             "https://kitsu.io/anime/11082",
             "https://myanimelist.net/anime/30998",
             "https://notify.moe/anime/nKdXtFiiR"
@@ -2828,6 +2841,7 @@
         "tags": [
             "drama",
             "kids",
+            "soccer",
             "sports"
         ],
         "date": {

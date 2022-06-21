@@ -2578,13 +2578,13 @@
             "https://anisearch.com/anime/9832",
             "https://kitsu.io/anime/2429",
             "https://kitsu.io/anime/5443",
+            "https://livechart.me/anime/5614",
+            "https://livechart.me/anime/6575",
             "https://livechart.me/anime/6880",
             "https://livechart.me/anime/7693",
-            "https://livechart.me/anime/7728",
             "https://livechart.me/anime/8740",
             "https://livechart.me/anime/8868",
             "https://livechart.me/anime/8871",
-            "https://livechart.me/anime/8876",
             "https://livechart.me/anime/8877",
             "https://livechart.me/anime/8878",
             "https://livechart.me/anime/8884",
@@ -3539,6 +3539,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/gra-p-and-rodeo-band-wo-p",
             "https://kitsu.io/anime/11873",
             "https://myanimelist.net/anime/32834",
             "https://notify.moe/anime/fLRepKiiR"
@@ -3554,12 +3555,14 @@
             "ぐらＰ＆ろで夫 Blu-ray特別編 バンドをP"
         ],
         "relations": [
+            "https://anime-planet.com/anime/gra-p-and-rodeo",
             "https://kitsu.io/anime/9838",
             "https://myanimelist.net/anime/27521",
             "https://notify.moe/anime/YDzEtKmmR"
         ],
         "tags": [
             "comedy",
+            "flash animation",
             "music"
         ],
         "date": {
@@ -3879,6 +3882,31 @@
             "slapstick",
             "slice of life",
             "survival"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52100"
+        ],
+        "title": "Haru ni Nattara Koguma no Yugo Monogatari",
+        "type": "ona",
+        "episodes": 0,
+        "status": "ongoing",
+        "picture": "https://cdn.myanimelist.net/images/anime/1974/124531.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1974/124531t.jpg",
+        "synonyms": [
+            "When Spring Comes The Story of Yugo, A little Bear.",
+            "春になったら こぐまのユーゴ物語"
+        ],
+        "relations": [],
+        "tags": [
+            "iyashikei",
+            "kids",
+            "slice of life"
         ],
         "date": {
             "season": "winter",
@@ -4409,6 +4437,33 @@
             "https://anisearch.com/anime/14942"
         ],
         "tags": [],
+        "date": {
+            "season": "winter",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/151081",
+            "https://kitsu.io/anime/46190"
+        ],
+        "title": "Jungle Taxi",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://media.kitsu.io/anime/46190/poster_image/small-d83919d6fb349fd7a4d545dc35565c51.jpeg",
+        "thumbnail": "https://media.kitsu.io/anime/46190/poster_image/tiny-515d23ef7ff6645dc5bdaad6e70ab5e9.jpeg",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "achromatic",
+            "animals",
+            "anthropomorphism",
+            "body horror",
+            "guns",
+            "horror",
+            "mystery"
+        ],
         "date": {
             "season": "winter",
             "year": 2016
@@ -7079,6 +7134,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/mazinger-z-x-hello-kitty-x-chogokin",
             "https://myanimelist.net/anime/51431"
         ],
         "title": "Mazinger Z x Hello Kitty x Chogokin",
@@ -7091,11 +7147,22 @@
             "マジンガーZ×ハローキティ×超合金"
         ],
         "relations": [
+            "https://anime-planet.com/anime/hello-kitty-40th-anniversary",
             "https://myanimelist.net/anime/51432"
         ],
         "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "cats",
+            "comedy",
+            "crossover",
+            "family friendly",
             "mecha",
-            "sci-fi"
+            "non-human protagonists",
+            "sanrio characters",
+            "sci fi",
+            "sci-fi",
+            "shorts"
         ],
         "date": {
             "season": "winter",
@@ -9308,10 +9375,6 @@
             "https://anime-planet.com/anime/osomatsu-san-short-film-series",
             "https://kitsu.io/anime/11178",
             "https://livechart.me/anime/10058",
-            "https://livechart.me/anime/10372",
-            "https://livechart.me/anime/10373",
-            "https://livechart.me/anime/10629",
-            "https://livechart.me/anime/10630",
             "https://livechart.me/anime/1707",
             "https://livechart.me/anime/1980",
             "https://livechart.me/anime/2368",
@@ -9319,6 +9382,12 @@
             "https://livechart.me/anime/2663",
             "https://livechart.me/anime/3044",
             "https://livechart.me/anime/3468",
+            "https://livechart.me/anime/8730",
+            "https://livechart.me/anime/8736",
+            "https://livechart.me/anime/8775",
+            "https://livechart.me/anime/8800",
+            "https://livechart.me/anime/9002",
+            "https://livechart.me/anime/9019",
             "https://livechart.me/anime/9241",
             "https://myanimelist.net/anime/31174",
             "https://notify.moe/anime/SisupKimg"
@@ -13567,8 +13636,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/7/77128.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/7/77128t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1168/121059.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1168/121059t.jpg",
         "synonyms": [
             "Watashi-tachi, Luck Logic-bu!",
             "Watashi-tachi, Rakuroji-bu!",

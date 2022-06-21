@@ -46,6 +46,7 @@
     {
         "sources": [
             "https://anilist.co/anime/19557",
+            "https://anime-planet.com/anime/anpanman-to-hajimeyou-iro-kazu-katachi-wakaru-ka-na-iro-katachi",
             "https://anisearch.com/anime/8845",
             "https://kitsu.io/anime/9195",
             "https://myanimelist.net/anime/19557",
@@ -64,6 +65,7 @@
             "アンパンマンとはじめよう！ いろ・かず・かたち わかるかな いろ・かたち"
         ],
         "relations": [
+            "https://anime-planet.com/anime/sore-ike-anpanman",
             "https://kitsu.io/anime/1766",
             "https://myanimelist.net/anime/1960",
             "https://notify.moe/anime/Mt7Y5KmmR"
@@ -71,6 +73,7 @@
         "tags": [
             "comedy",
             "educational",
+            "family friendly",
             "kids"
         ],
         "date": {
@@ -137,6 +140,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/arigatou-kokoro-no-bara",
             "https://myanimelist.net/anime/51808"
         ],
         "title": "Arigatou: Kokoro no Bara",
@@ -147,12 +151,17 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1533/123765t.jpg",
         "synonyms": [
             "Minna no Uta",
+            "Minna no Uta: Arigatou - Kokoro no Bara",
             "ありがとう ～こころのバラ～"
         ],
         "relations": [],
         "tags": [
+            "animal protagonists",
+            "family friendly",
             "kids",
+            "minna no uta",
             "music",
+            "non-human protagonists",
             "romance"
         ],
         "date": {
@@ -6477,50 +6486,6 @@
             "historical",
             "martial arts",
             "swordplay"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2006
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/104183",
-            "https://anime-planet.com/anime/xiao-li-yu-li-xian-ji",
-            "https://anisearch.com/anime/11851",
-            "https://kitsu.io/anime/41039",
-            "https://myanimelist.net/anime/37300",
-            "https://notify.moe/anime/ddiK2Fmig"
-        ],
-        "title": "Xiao Liyu Lixian Ji",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1305/90532.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1305/90532t.jpg",
-        "synonyms": [
-            "Las Aventuras de Paopao",
-            "Liyu Tiao Longmen",
-            "The Adventures Of Little Carp",
-            "The Adventures of Little Carp",
-            "The Carp Jumps Over the Dragon Gate",
-            "Xiao Li Yu Li Xian Ji",
-            "小鯉魚歷險記",
-            "小鲤鱼历险记",
-            "小鲤鱼历险记,"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "animal protagonists",
-            "based on a fairy tale",
-            "chinese animation",
-            "family friendly",
-            "fantasy",
-            "kids",
-            "magic",
-            "non-human protagonists",
-            "ocean"
         ],
         "date": {
             "season": "summer",

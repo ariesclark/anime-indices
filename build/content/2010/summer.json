@@ -1074,6 +1074,7 @@
         "sources": [
             "https://anidb.net/anime/8785",
             "https://anilist.co/anime/9558",
+            "https://anime-planet.com/anime/changjiang-qi-hao-ai-diqiu",
             "https://kitsu.io/anime/5790",
             "https://myanimelist.net/anime/9558",
             "https://notify.moe/anime/n5DGpKiiR"
@@ -1104,7 +1105,13 @@
             "https://myanimelist.net/anime/44924"
         ],
         "tags": [
-            "kids"
+            "aliens",
+            "based on a movie",
+            "chinese animation",
+            "comedy",
+            "family friendly",
+            "kids",
+            "sci fi"
         ],
         "date": {
             "season": "summer",
@@ -3279,6 +3286,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kowarekake-no-orgel-manner-movie",
             "https://anisearch.com/anime/16931",
             "https://myanimelist.net/anime/50415"
         ],
@@ -3292,6 +3300,7 @@
             "こわれかけのオルゴール マナームービー"
         ],
         "relations": [
+            "https://anime-planet.com/anime/kowarekake-no-orgel",
             "https://myanimelist.net/anime/10918"
         ],
         "tags": [
@@ -5207,6 +5216,7 @@
             "https://anidb.net/anime/4728",
             "https://anidb.net/anime/7891",
             "https://anilist.co/anime/1565",
+            "https://anilist.co/anime/6178",
             "https://anime-planet.com/anime/pikachus-summer-festival",
             "https://anime-planet.com/anime/pokemon-black-and-white",
             "https://anime-planet.com/anime/pokemon-black-and-white-adventures-in-unova",
@@ -8329,6 +8339,7 @@
     {
         "sources": [
             "https://anidb.net/anime/8478",
+            "https://anime-planet.com/anime/young-alive-ips-saibou-ga-hiraku-mirai",
             "https://myanimelist.net/anime/42840"
         ],
         "title": "Young Alive!: iPS Saibou ga Hiraku Mirai",
@@ -8344,6 +8355,7 @@
         ],
         "relations": [],
         "tags": [
+            "countryside",
             "educational",
             "medical",
             "slice of life"

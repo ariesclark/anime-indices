@@ -769,7 +769,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/7149",
             "https://anisearch.com/anime/6128"
         ],
         "title": "Sekai Meisaku Gekijou Kanketsu Ban: Ai Shoujo Pollyanna Monogatari",
@@ -784,11 +783,37 @@
             "World Masterpiece Theater Complete Edition: Pollyanna",
             "世界名作劇場・完結版 愛少女ポリアンナ物語"
         ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2001
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/7149",
+            "https://anime-planet.com/anime/sekai-meisaku-gekijou-kanketsu-ban-ai-shoujo-pollyanna-story"
+        ],
+        "title": "Sekai Meisaku Gekijou Kanketsu Ban: Ai Shoujo Pollyanna Story",
+        "type": "special",
+        "episodes": 2,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "synonyms": [
+            "World Masterpiece Theater Complete Edition: Pollyanna",
+            "世界名作劇場・完結版 愛少女ポリアンナ物語"
+        ],
         "relations": [
-            "https://anidb.net/anime/2297"
+            "https://anidb.net/anime/2297",
+            "https://anime-planet.com/anime/ai-shoujo-pollyanna-monogatari"
         ],
         "tags": [
-            "novel"
+            "drama",
+            "historical",
+            "novel",
+            "slice of life"
         ],
         "date": {
             "season": "unknown",

@@ -105,6 +105,7 @@
         "synonyms": [
             "AbsoDuo",
             "Абсолютный дуэт",
+            "دوتا مطلق",
             "แอบโซลูท ดูโอ",
             "あぶそりゅーとでゅお",
             "アブソリュート・デュオ",
@@ -2151,7 +2152,7 @@
             "Doraemon: Nobita`s Space Heroes",
             "Eiga Doraemon 35",
             "Eiga Doraemon: Nobita no Space Heroes",
-            "ドラえもん のび太の宇宙英雄記（スペースヒーローズ）",
+            "ドラえもん のび太の宇宙英雄記",
             "映画 ドラえもん のび太の宇宙英雄記",
             "映画 ドラえもん のび太の宇宙英雄記[スペースヒーローズ]",
             "映画ドラえもん のび太の宇宙英雄記[スペースヒーローズ]"
@@ -10973,6 +10974,7 @@
     {
         "sources": [
             "https://anidb.net/anime/11084",
+            "https://anime-planet.com/anime/uwabaki-cook",
             "https://anisearch.com/anime/10233",
             "https://kitsu.io/anime/10667",
             "https://livechart.me/anime/10517",
@@ -10990,11 +10992,14 @@
             "うわばきクック"
         ],
         "relations": [
+            "https://anime-planet.com/anime/uwabaki-cook-no-tekitou-uranai",
             "https://myanimelist.net/anime/30605"
         ],
         "tags": [
+            "family friendly",
             "kids",
             "kodomo",
+            "non-human protagonists",
             "short episodes"
         ],
         "date": {
@@ -11004,6 +11009,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/uwabaki-cook-no-tekitou-uranai",
             "https://kitsu.io/anime/10916",
             "https://myanimelist.net/anime/30605",
             "https://notify.moe/anime/e0flpKmmg"
@@ -11018,10 +11024,14 @@
             "うわばきクックのテキトー占い!"
         ],
         "relations": [
+            "https://anime-planet.com/anime/uwabaki-cook",
             "https://myanimelist.net/anime/30131"
         ],
         "tags": [
-            "comedy"
+            "comedy",
+            "family friendly",
+            "non-human protagonists",
+            "short episodes"
         ],
         "date": {
             "season": "winter",

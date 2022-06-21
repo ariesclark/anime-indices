@@ -1251,13 +1251,13 @@
             "https://anime-planet.com/anime/doraemon-doraemon-comes-back-1998",
             "https://anime-planet.com/anime/the-doraemons-strange-sweets-strange",
             "https://kitsu.io/anime/5443",
+            "https://livechart.me/anime/5614",
+            "https://livechart.me/anime/6575",
             "https://livechart.me/anime/6880",
             "https://livechart.me/anime/7693",
-            "https://livechart.me/anime/7728",
             "https://livechart.me/anime/8740",
             "https://livechart.me/anime/8868",
             "https://livechart.me/anime/8871",
-            "https://livechart.me/anime/8876",
             "https://livechart.me/anime/8877",
             "https://livechart.me/anime/8878",
             "https://livechart.me/anime/8884",
@@ -4048,6 +4048,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/mina-no-bousai-murazukuri",
             "https://kitsu.io/anime/9450",
             "https://myanimelist.net/anime/26255",
             "https://notify.moe/anime/7nbfpFmiR"
@@ -4063,6 +4064,7 @@
             "ミナの防災村づくり"
         ],
         "relations": [
+            "https://anime-planet.com/anime/mina-no-mura-no-gomi-soudou",
             "https://kitsu.io/anime/9452",
             "https://myanimelist.net/anime/26253",
             "https://notify.moe/anime/B5bfpKiiR"
@@ -4070,7 +4072,8 @@
         "tags": [
             "drama",
             "educational",
-            "kids"
+            "kids",
+            "natural disaster"
         ],
         "date": {
             "season": "winter",
@@ -4892,6 +4895,7 @@
             "romance",
             "rural",
             "seinen",
+            "travel",
             "verbal comedy",
             "work"
         ],
@@ -7114,6 +7118,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tsujitsuji-sensha",
             "https://myanimelist.net/anime/48908"
         ],
         "title": "Tsujitsuji Sensha",
@@ -7127,6 +7132,7 @@
             "つじつじ戦車"
         ],
         "relations": [
+            "https://anime-planet.com/anime/yawaraka-sensha",
             "https://myanimelist.net/anime/21275"
         ],
         "tags": [
@@ -7671,6 +7677,7 @@
         "sources": [
             "https://anidb.net/anime/8077",
             "https://anilist.co/anime/3500",
+            "https://anime-planet.com/anime/yume-miru-anime-on-chan",
             "https://anisearch.com/anime/6563",
             "https://kitsu.io/anime/3054",
             "https://myanimelist.net/anime/3500",
@@ -7698,12 +7705,14 @@
             "https://anidb.net/anime/8078",
             "https://anidb.net/anime/999",
             "https://anilist.co/anime/8229",
+            "https://anime-planet.com/anime/on-chan-yume-power-daibouken",
             "https://kitsu.io/anime/5254",
             "https://myanimelist.net/anime/8229",
             "https://notify.moe/anime/shiipKiig"
         ],
         "tags": [
             "comedy",
+            "family friendly",
             "short episodes"
         ],
         "date": {
