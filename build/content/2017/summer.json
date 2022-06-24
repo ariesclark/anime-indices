@@ -523,7 +523,11 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/36127"
+            "https://anime-planet.com/anime/letters-from-hibakusha",
+            "https://anisearch.com/anime/13053",
+            "https://kitsu.io/anime/40864",
+            "https://myanimelist.net/anime/36127",
+            "https://notify.moe/anime/EBcOhFimR"
         ],
         "title": "Animation de Tsutaeru: Hibakusha kara no Tegami",
         "type": "ona",
@@ -532,32 +536,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1864/113845.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1864/113845t.jpg",
         "synonyms": [
-            "Letters from Hibakusha",
-            "アニメーションで伝える“ヒバクシャからの手紙”"
-        ],
-        "relations": [],
-        "tags": [
-            "drama",
-            "historical"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/13053",
-            "https://kitsu.io/anime/40864",
-            "https://notify.moe/anime/EBcOhFimR"
-        ],
-        "title": "Animation de Tsutaeru: Hibakusha kara no Tegami",
-        "type": "special",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/40864/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/40864/tiny.jpg",
-        "synonyms": [
+            "Hibakusha kara no Tegami",
             "Letters from Hibakusha",
             "Makoto-chan",
             "Mucchan～Letters from Hibakusha～",
@@ -567,7 +546,10 @@
         "relations": [],
         "tags": [
             "drama",
-            "historical"
+            "historical",
+            "short episodes",
+            "war",
+            "world war 2"
         ],
         "date": {
             "season": "summer",

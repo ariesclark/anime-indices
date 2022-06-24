@@ -489,9 +489,12 @@
     {
         "sources": [
             "https://anime-planet.com/anime/ganbare-kickers-specials",
+            "https://anisearch.com/anime/13694",
             "https://kitsu.io/anime/12338",
+            "https://kitsu.io/anime/12339",
             "https://myanimelist.net/anime/33498",
-            "https://notify.moe/anime/KPmkhKmmg"
+            "https://notify.moe/anime/KPmkhKmmg",
+            "https://notify.moe/anime/SlizhKiiR"
         ],
         "title": "Ganbare! Kickers Specials",
         "type": "special",
@@ -505,7 +508,12 @@
             "Ganbare! Kickers ep 24",
             "Ganbare! Kickers ep 25",
             "Ganbare! Kickers ep 26",
-            "がんばれ！キッカーズ"
+            "Ganbare! Kickers: Hitoribocchi no Ace Striker",
+            "Kickers (Harry-Episoden)",
+            "Kickers: Episodes 24 - 26",
+            "がんばれ!キッカーズスペシャル ひとりぼっちのエースストライカー",
+            "がんばれ！キッカーズ",
+            "がんばれ！キッカーズスペシャル ひとりぼっちのエースストライカー"
         ],
         "relations": [
             "https://anime-planet.com/anime/ganbare-kickers",
@@ -517,51 +525,15 @@
             "based on a manga",
             "comedy",
             "drama",
-            "kids",
-            "shounen",
-            "soccer",
-            "sports",
-            "team sports"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 1988
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/13694",
-            "https://kitsu.io/anime/12339",
-            "https://notify.moe/anime/SlizhKiiR"
-        ],
-        "title": "Ganbare! Kickers: Hitoribocchi no Ace Striker",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/12339/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/12339/tiny.jpg",
-        "synonyms": [
-            "Die Kickers",
-            "Fight! Kickers",
-            "Kickers (Harry-Episoden)",
-            "Kickers: Episodes 24 - 26",
-            "がんばれ!キッカーズスペシャル ひとりぼっちのエースストライカー",
-            "がんばれ！キッカーズスペシャル ひとりぼっちのエースストライカー"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/2753",
-            "https://notify.moe/anime/Rm_UcKiig"
-        ],
-        "tags": [
-            "comedy",
-            "drama",
             "elementary school",
             "ganbatte",
+            "kids",
             "present",
             "school",
             "shounen",
             "soccer",
-            "sports"
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "winter",

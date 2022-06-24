@@ -705,26 +705,6 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/11253"
-        ],
-        "title": "DEath MAtCH ~Real ni Koi Shiteru~",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/11253/poster_image/ca13afb851c05e2f698e11892039e8e0.webp?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/11253/poster_image/ca13afb851c05e2f698e11892039e8e0.webp?style=small&format=jpg",
-        "synonyms": [
-            "DEath MAtCH ~リアルに恋してる~"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "summer",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/17176",
             "https://anilist.co/anime/144687",
             "https://anime-planet.com/anime/delicious-party-pretty-cure-movie",
@@ -1144,6 +1124,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16863",
             "https://anisearch.com/anime/17445",
             "https://myanimelist.net/anime/51805",
             "https://notify.moe/anime/7trePLu7g"
@@ -1155,13 +1136,16 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1700/123762.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1700/123762t.jpg",
         "synonyms": [
+            "Ginga Eiyuu Densetsu: Die Neue These (Zokuhen)",
             "Ginga Eiyuu Densetsu: Die Neue These 4th Season",
             "Ginga Eiyuu Densetsu: Die Neue These Fourth Season",
             "Ginga Eiyū Densetsu: Die Neue These - Sakubō",
             "Legend of the Galactic Heroes: Die Neue These",
+            "銀河英雄伝説 Die Neue These (続編)",
             "銀河英雄伝説 Die Neue These 策謀"
         ],
         "relations": [
+            "https://anidb.net/anime/15728",
             "https://myanimelist.net/anime/42886",
             "https://myanimelist.net/anime/820",
             "https://notify.moe/anime/00Njybvng"
@@ -4836,7 +4820,9 @@
     {
         "sources": [
             "https://anilist.co/anime/149703",
-            "https://myanimelist.net/anime/51862"
+            "https://anime-planet.com/anime/xin-weiqi-shaonian",
+            "https://myanimelist.net/anime/51862",
+            "https://notify.moe/anime/XRzymOjng"
         ],
         "title": "Xin Weiqi Shaonian",
         "type": "tv",
@@ -4853,6 +4839,7 @@
             "https://myanimelist.net/anime/19839"
         ],
         "tags": [
+            "chinese animation",
             "fantasy",
             "historical",
             "strategy game"

@@ -3297,7 +3297,7 @@
     {
         "sources": [
             "https://anilist.co/anime/109995",
-            "https://anime-planet.com/anime/heart",
+            "https://anime-planet.com/anime/group-inou-heart",
             "https://myanimelist.net/anime/44046"
         ],
         "title": "Heart",
@@ -3307,7 +3307,8 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1941/118591.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1941/118591t.jpg",
         "synonyms": [
-            "HEART"
+            "HEART",
+            "group_inou: HEART"
         ],
         "relations": [
             "https://anilist.co/anime/106222"
@@ -3316,8 +3317,7 @@
             "comedy",
             "drama",
             "music",
-            "romance",
-            "shorts"
+            "romance"
         ],
         "date": {
             "season": "winter",

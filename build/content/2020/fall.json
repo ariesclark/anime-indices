@@ -377,7 +377,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/145752",
             "https://myanimelist.net/anime/51452"
         ],
         "title": "Aigatari na Itte",
@@ -400,6 +399,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/145752",
             "https://anisearch.com/anime/15865"
         ],
         "title": "Aikatari na Itte",
@@ -410,6 +410,7 @@
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15865.webp",
         "synonyms": [
             "Ai Katarina Itte",
+            "Aigatari na Itte",
             "souzoucity - Aikatari na Itte",
             "souzoucity - 愛語りな一手",
             "愛語りな一手"
@@ -2480,34 +2481,8 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/doushitemo-eto-ni-hairitai-2"
-        ],
-        "title": "Doushitemo Eto ni Hairitai 2",
-        "type": "tv",
-        "episodes": 6,
-        "status": "ongoing",
-        "picture": "https://cdn.anime-planet.com/anime/primary/doushitemo-eto-ni-hairitai-2-1.jpg?t=1625908631",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/doushitemo-eto-ni-hairitai-2-1-190x271.jpg?t=1625908631",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/doushitemo-eto-ni-hairitai"
-        ],
-        "tags": [
-            "animal protagonists",
-            "comedy",
-            "fantasy",
-            "flash animation",
-            "non-human protagonists",
-            "short episodes"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/17111",
+            "https://anime-planet.com/anime/doushitemo-eto-ni-hairitai-2",
             "https://anisearch.com/anime/17125",
             "https://myanimelist.net/anime/52030"
         ],
@@ -2523,10 +2498,15 @@
         ],
         "relations": [
             "https://anidb.net/anime/11567",
+            "https://anime-planet.com/anime/doushitemo-eto-ni-hairitai",
             "https://myanimelist.net/anime/31555"
         ],
         "tags": [
+            "animal protagonists",
             "comedy",
+            "fantasy",
+            "flash animation",
+            "non-human protagonists",
             "short episodes"
         ],
         "date": {
