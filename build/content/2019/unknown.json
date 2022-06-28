@@ -1011,18 +1011,20 @@
     {
         "sources": [
             "https://anilist.co/anime/138560",
-            "https://anime-planet.com/anime/castle"
+            "https://anime-planet.com/anime/castle",
+            "https://myanimelist.net/anime/52195"
         ],
         "title": "Castle",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/castle-1.jpg?t=1625908811",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/castle-1-190x266.jpg?t=1625908811",
+        "picture": "https://cdn.myanimelist.net/images/anime/1174/124759.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1174/124759t.jpg",
         "synonyms": [],
         "relations": [],
         "tags": [
             "abstract",
+            "avant garde",
             "black and white",
             "fantasy",
             "no dialogue",
@@ -1563,6 +1565,28 @@
         "relations": [],
         "tags": [
             "vocaloid"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/djmax-respect-v-op"
+        ],
+        "title": "DJMAX RESPECT V OP",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/djmax-respect-v-op-1.webp?t=1656208822",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/djmax-respect-v-op-1-285x399.webp?t=1656208822",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "based on a video game",
+            "opening animation",
+            "promotional"
         ],
         "date": {
             "season": "unknown",
@@ -2660,6 +2684,28 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52208"
+        ],
+        "title": "Ghost Dance",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "ゴーストダンス"
+        ],
+        "relations": [],
+        "tags": [
+            "music"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/gigi-leung-pingan-ye"
         ],
         "title": "Gigi Leung: Ping'an Ye",
@@ -3250,29 +3296,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/hear-the-snow-melt"
-        ],
-        "title": "Hear the Snow Melt",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/hear-the-snow-melt-1.webp?t=1634348438",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/hear-the-snow-melt-1-285x399.webp?t=1634348438",
-        "synonyms": [
-            "Yukidoke wo Kiite"
-        ],
-        "relations": [],
-        "tags": [
-            "shorts",
-            "stop motion animation"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/51573"
         ],
         "title": "Heartbeat",
@@ -3850,6 +3873,34 @@
             "kids",
             "prehistoric",
             "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52139"
+        ],
+        "title": "Hungry Days x Bump of Chicken: Kinen Satsuei",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1762/124614.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1762/124614t.jpg",
+        "synonyms": [
+            "Commemorative Photo",
+            "HUNGRY DAYS × BUMP OF CHICKEN「記念撮影」",
+            "Hungry Days × One Piece × Bump of Chicken"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/21",
+            "https://myanimelist.net/anime/35770"
+        ],
+        "tags": [
+            "school",
+            "slice of life"
         ],
         "date": {
             "season": "unknown",
@@ -5050,6 +5101,28 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kun-no-exception"
+        ],
+        "title": "KUN: No Exception",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/kun-no-exception-1.webp?t=1656263662",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kun-no-exception-1-285x399.webp?t=1656263662",
+        "synonyms": [
+            "KUN: Mei You Yi Wai"
+        ],
+        "relations": [],
+        "tags": [
+            "korean animation"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/138412"
         ],
         "title": "Kagome",
@@ -5250,6 +5323,28 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52206"
+        ],
+        "title": "Kilmer / I tried to sing",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "キルマー/歌ってみた"
+        ],
+        "relations": [],
+        "tags": [
+            "music"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/kinako-nishinakajima-danbou-to-reibou"
         ],
         "title": "Kinako Nishinakajima: Danbou to Reibou",
@@ -5428,6 +5523,28 @@
         "tags": [
             "adventure",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/kookmin-bank-cm"
+        ],
+        "title": "Kookmin Bank CM",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/kookmin-bank-cm-1.webp?t=1656206456",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kookmin-bank-cm-1-285x400.webp?t=1656206456",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "commercials",
+            "korean animation",
+            "promotional"
         ],
         "date": {
             "season": "unknown",
@@ -6902,6 +7019,28 @@
         ],
         "tags": [
             "chibi"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52209"
+        ],
+        "title": "Nocturnal Highs",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "夜行性ハイズ"
+        ],
+        "relations": [],
+        "tags": [
+            "music"
         ],
         "date": {
             "season": "unknown",

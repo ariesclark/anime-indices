@@ -102,6 +102,61 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52142"
+        ],
+        "title": "Hello Kitty-tachi to Utaou! Kodomo no Uta Mary-san no Hitsuji",
+        "type": "special",
+        "episodes": 10,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1436/124618.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1436/124618t.jpg",
+        "synonyms": [
+            "ハローキティたちとうたおう！こどものうた　メリーさんのひつじ"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/52138",
+            "https://myanimelist.net/anime/52140",
+            "https://myanimelist.net/anime/52141"
+        ],
+        "tags": [
+            "kids",
+            "music"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1994
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52144"
+        ],
+        "title": "Hello Kitty-tachi to Utaou! Kodomo no Uta Rock'n Omelette",
+        "type": "special",
+        "episodes": 7,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1912/124620.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1912/124620t.jpg",
+        "synonyms": [
+            "ハローキティたちとうたおう！こどものうた ロックン・オムレツ"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/52138",
+            "https://myanimelist.net/anime/52140",
+            "https://myanimelist.net/anime/52141",
+            "https://myanimelist.net/anime/52142"
+        ],
+        "tags": [
+            "kids",
+            "music"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1994
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/5293"
         ],
         "title": "Il était une fois... les Découvreurs",
@@ -309,6 +364,33 @@
         "relations": [],
         "tags": [
             "abstract"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1994
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52159"
+        ],
+        "title": "Slam Dunk: Ketsui no Shouhoku Basket-bu",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1208/124649.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1208/124649t.jpg",
+        "synonyms": [
+            "The Determined Shohoku Basketball Team",
+            "スラムダンク 決意の湘北バスケ部"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/170"
+        ],
+        "tags": [
+            "school",
+            "shounen",
+            "sports"
         ],
         "date": {
             "season": "unknown",

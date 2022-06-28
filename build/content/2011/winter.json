@@ -539,6 +539,7 @@
         "relations": [
             "https://anilist.co/anime/6721",
             "https://anime-planet.com/anime/dark-side-cat",
+            "https://anisearch.com/anime/6071",
             "https://myanimelist.net/anime/6721"
         ],
         "tags": [
@@ -947,6 +948,9 @@
             "https://anilist.co/anime/9120",
             "https://anime-planet.com/anime/beelzebub-jump-super-anime-tour-special",
             "https://anime-planet.com/anime/beelzebub-specials",
+            "https://anisearch.com/anime/6611",
+            "https://anisearch.com/anime/7221",
+            "https://anisearch.com/anime/8377",
             "https://kitsu.io/anime/5608",
             "https://kitsu.io/anime/6199",
             "https://livechart.me/anime/5915",
@@ -2302,6 +2306,7 @@
             "https://anidb.net/anime/7890",
             "https://anilist.co/anime/8536",
             "https://anime-planet.com/anime/fortune-arterial",
+            "https://anisearch.com/anime/6448",
             "https://kitsu.io/anime/5378",
             "https://myanimelist.net/anime/8536",
             "https://notify.moe/anime/1p-mpKiig"
@@ -4108,6 +4113,8 @@
             "淫妖蟲 悦～怪楽変化退魔録～"
         ],
         "relations": [
+            "https://anisearch.com/anime/11440",
+            "https://anisearch.com/anime/4775",
             "https://myanimelist.net/anime/31424",
             "https://myanimelist.net/anime/4057"
         ],
@@ -5043,6 +5050,31 @@
     },
     {
         "sources": [
+            "https://kitsu.io/anime/41340",
+            "https://myanimelist.net/anime/52192"
+        ],
+        "title": "Kirin no Koushin",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1659/124724.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1659/124724t.jpg",
+        "synonyms": [
+            "Marching Giraffes",
+            "キリンの行進"
+        ],
+        "relations": [],
+        "tags": [
+            "comedy",
+            "slice of life"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/13128",
             "https://anilist.co/anime/119920",
             "https://anime-planet.com/anime/kiyakiya",
@@ -5608,6 +5640,7 @@
             "https://anilist.co/anime/6205",
             "https://anime-planet.com/anime/kampfer",
             "https://anime-planet.com/anime/kampfer-picture-drama",
+            "https://anisearch.com/anime/5307",
             "https://kitsu.io/anime/4474",
             "https://livechart.me/anime/3361",
             "https://livechart.me/anime/3362",
@@ -6335,6 +6368,7 @@
             "monster",
             "new",
             "original work",
+            "parody",
             "philosophy",
             "present",
             "primarily child cast",
@@ -7017,6 +7051,7 @@
             "https://anime-planet.com/anime/naruto-shippuden-movie-6-road-to-ninja",
             "https://anime-planet.com/anime/naruto-shippuden-sunny-side-battle",
             "https://anime-planet.com/anime/the-last-naruto-the-movie",
+            "https://anisearch.com/anime/3972",
             "https://kitsu.io/anime/1555",
             "https://livechart.me/anime/316",
             "https://livechart.me/anime/3585",
@@ -8803,6 +8838,8 @@
             "https://anime-planet.com/anime/saint-seiya-the-hades-chapter-inferno",
             "https://anime-planet.com/anime/saint-seiya-the-hades-chapter-sanctuary",
             "https://anime-planet.com/anime/saint-seiya-the-lost-canvas-meiou-shinwa",
+            "https://anisearch.com/anime/318",
+            "https://anisearch.com/anime/5190",
             "https://kitsu.io/anime/1129",
             "https://kitsu.io/anime/4458",
             "https://livechart.me/anime/5236",
@@ -9994,6 +10031,10 @@
             "https://anime-planet.com/anime/tropical-rouge-pretty-cure",
             "https://anime-planet.com/anime/yes-pretty-cure-5",
             "https://anime-planet.com/anime/yes-pretty-cure-5-gogo",
+            "https://anisearch.com/anime/2594",
+            "https://anisearch.com/anime/6603",
+            "https://anisearch.com/anime/7163",
+            "https://anisearch.com/anime/7387",
             "https://kitsu.io/anime/10034",
             "https://kitsu.io/anime/11688",
             "https://kitsu.io/anime/12927",
@@ -10098,38 +10139,6 @@
             "superheroes",
             "the arts",
             "tokusatsu"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/115842",
-            "https://kitsu.io/anime/45008",
-            "https://myanimelist.net/anime/50751"
-        ],
-        "title": "Sumikko no Ko",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1256/120378.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1256/120378t.jpg",
-        "synonyms": [
-            "My Secret School Days",
-            "My secret school days",
-            "すみっこのこ"
-        ],
-        "relations": [],
-        "tags": [
-            "female protagonist",
-            "primarily child cast",
-            "psychological",
-            "school",
-            "slice of life",
-            "stop motion",
-            "teacher"
         ],
         "date": {
             "season": "winter",
@@ -10879,7 +10888,11 @@
             "https://anime-planet.com/anime/anime-tenchou-x-touhou-project",
             "https://anime-planet.com/anime/hifuu-katsudou-kiroku-the-sealed-esoteric-history",
             "https://anime-planet.com/anime/touhou-niji-sousaku-doujin-anime-musou-kakyou",
-            "https://anime-planet.com/anime/touhou-niji-sousaku-doujin-anime-musou-kakyou-special"
+            "https://anime-planet.com/anime/touhou-niji-sousaku-doujin-anime-musou-kakyou-special",
+            "https://anisearch.com/anime/12968",
+            "https://anisearch.com/anime/5218",
+            "https://anisearch.com/anime/8335",
+            "https://anisearch.com/anime/8336"
         ],
         "tags": [
             "action",

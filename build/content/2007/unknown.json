@@ -185,6 +185,58 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52109"
+        ],
+        "title": "Code Geass Best Phrase Award",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1195/124560.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1195/124560t.jpg",
+        "synonyms": [
+            "コードギアス Best Phrase Award"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/1575"
+        ],
+        "tags": [
+            "comedy",
+            "mecha",
+            "sci-fi"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52108"
+        ],
+        "title": "Code Geass: Baba Gekijou",
+        "type": "special",
+        "episodes": 2,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1509/124559.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1509/124559t.jpg",
+        "synonyms": [
+            "BABA劇場",
+            "Code Geass Omake Flash Back Baba Theater"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/1575",
+            "https://myanimelist.net/anime/9591"
+        ],
+        "tags": [
+            "comedy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/126169"
         ],
         "title": "Code Geass: Hangyaku no Lelouch DVD Magazine",
@@ -677,29 +729,6 @@
         "tags": [
             "avant garde",
             "music"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2007
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/kirakira-shougakusei-celeb-chan-specials"
-        ],
-        "title": "Kirakira Shougakusei Celeb-chan Specials",
-        "type": "special",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/kirakira-shougakusei-celeb-chan"
-        ],
-        "tags": [
-            "comedy",
-            "parody"
         ],
         "date": {
             "season": "unknown",

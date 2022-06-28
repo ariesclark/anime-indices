@@ -177,6 +177,8 @@
             "https://anidb.net/anime/2709",
             "https://anidb.net/anime/3641",
             "https://anilist.co/anime/145358",
+            "https://anisearch.com/anime/1986",
+            "https://anisearch.com/anime/815",
             "https://myanimelist.net/anime/51144"
         ],
         "tags": [
@@ -261,6 +263,30 @@
             "minna no uta",
             "music",
             "pets"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 1972
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52161"
+        ],
+        "title": "La Golondrina",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1409/124651.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1409/124651t.jpg",
+        "synonyms": [
+            "Minna no Uta",
+            "ラ・ゴロンドリーナ"
+        ],
+        "relations": [],
+        "tags": [
+            "kids",
+            "music"
         ],
         "date": {
             "season": "winter",
@@ -682,6 +708,7 @@
             "https://anidb.net/anime/6976",
             "https://anilist.co/anime/111954",
             "https://anime-planet.com/anime/panda-go-panda-rainy-day-circus",
+            "https://anisearch.com/anime/4525",
             "https://kitsu.io/anime/9780",
             "https://notify.moe/anime/ScXYtKmiR"
         ],

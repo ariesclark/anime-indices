@@ -300,6 +300,7 @@
         "sources": [
             "https://anidb.net/anime/4399",
             "https://anilist.co/anime/4097",
+            "https://anime-planet.com/anime/nanmu-ichibyousokusai",
             "https://kitsu.io/anime/3464",
             "https://myanimelist.net/anime/4097",
             "https://notify.moe/anime/onIXcKiiR"
@@ -320,7 +321,9 @@
         "relations": [],
         "tags": [
             "historical",
-            "music"
+            "music",
+            "shorts",
+            "stop motion animation"
         ],
         "date": {
             "season": "winter",
@@ -405,7 +408,9 @@
             "Panda! Go, Panda!: Rainy Day Circus",
             "パンダ・コパンダ 雨ふりサーカスの巻"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/1392"
+        ],
         "tags": [
             "adventure",
             "comedy"

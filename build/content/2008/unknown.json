@@ -1518,17 +1518,46 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/113721"
+            "https://anilist.co/anime/113721",
+            "https://anime-planet.com/anime/run-ra-run"
         ],
-        "title": "Run Ra Run",
+        "title": "RUN RA RUN",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113721-lfT589F30qnb.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113721-lfT589F30qnb.jpg",
-        "synonyms": [],
+        "picture": "https://cdn.anime-planet.com/anime/primary/run-ra-run-1.webp?t=1655839312",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/run-ra-run-1-229x321.webp?t=1655839312",
+        "synonyms": [
+            "Run Ra Run"
+        ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "abstract",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2008
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52145"
+        ],
+        "title": "Sanrio Poko Apoko Cinnamon no Genki ni Odekake",
+        "type": "ova",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1960/124621.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1960/124621t.jpg",
+        "synonyms": [
+            "サンリオぽこあぽこ シナモンの げんきにおでかけ"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "kids"
+        ],
         "date": {
             "season": "unknown",
             "year": 2008

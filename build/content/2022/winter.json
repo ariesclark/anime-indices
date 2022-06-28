@@ -146,6 +146,7 @@
         "relations": [
             "https://anilist.co/anime/527",
             "https://anime-planet.com/anime/pokemon",
+            "https://anisearch.com/anime/3139",
             "https://myanimelist.net/anime/527"
         ],
         "tags": [
@@ -229,7 +230,7 @@
         "title": "Aharen-san wa Hakarenai Mini",
         "type": "ona",
         "episodes": 18,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1422/122213.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1422/122213t.jpg",
         "synonyms": [
@@ -512,6 +513,34 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/akikan-no-tuna",
+            "https://myanimelist.net/anime/52076"
+        ],
+        "title": "Akikan no Tuna",
+        "type": "tv",
+        "episodes": 1,
+        "status": "ongoing",
+        "picture": "https://cdn.myanimelist.net/images/anime/1012/124452.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1012/124452t.jpg",
+        "synonyms": [
+            "空き缶のツナ"
+        ],
+        "relations": [],
+        "tags": [
+            "anthropomorphic",
+            "comedy",
+            "family friendly",
+            "kids",
+            "non-human protagonists",
+            "stop motion animation"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/17147",
             "https://anilist.co/anime/144188",
             "https://anime-planet.com/anime/alice-gear-aegis",
@@ -535,6 +564,7 @@
             "https://anidb.net/anime/15794",
             "https://anilist.co/anime/126186",
             "https://anime-planet.com/anime/alice-gear-aegis-ova",
+            "https://anisearch.com/anime/15732",
             "https://livechart.me/anime/10186",
             "https://myanimelist.net/anime/43506",
             "https://notify.moe/anime/LP_pPrBGR"
@@ -701,32 +731,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/arceus-the-one-called-god"
-        ],
-        "title": "Arceus, the One Called God",
-        "type": "ona",
-        "episodes": 4,
-        "status": "unknown",
-        "picture": "https://cdn.anime-planet.com/anime/primary/arceus-the-one-called-god-1.webp?t=1649857329",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/arceus-the-one-called-god-1-285x399.webp?t=1649857329",
-        "synonyms": [
-            "Pocket Monsters: Arceus, the One Called God"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/pokemon-journeys"
-        ],
-        "tags": [
-            "based on a video game",
-            "monsters",
-            "proxy battles"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/15135",
             "https://anilist.co/anime/112323",
             "https://anime-planet.com/anime/arifureta-from-commonplace-to-worlds-strongest-2nd-season",
@@ -779,6 +783,9 @@
             "https://anime-planet.com/anime/arifureta-from-commonplace-to-worlds-strongest",
             "https://anime-planet.com/anime/arifureta-from-commonplace-to-worlds-strongest-2nd-season-ova",
             "https://anime-planet.com/anime/fantasticyouth-gedousanka",
+            "https://anisearch.com/anime/13079",
+            "https://anisearch.com/anime/17119",
+            "https://anisearch.com/anime/17315",
             "https://kitsu.io/anime/14043",
             "https://kitsu.io/anime/46047",
             "https://kitsu.io/anime/46048",
@@ -1171,6 +1178,7 @@
             "https://anidb.net/anime/16167",
             "https://anilist.co/anime/131096",
             "https://anime-planet.com/anime/bakugan-geogan-rising",
+            "https://anisearch.com/anime/16230",
             "https://kitsu.io/anime/46019",
             "https://livechart.me/anime/10470",
             "https://livechart.me/anime/10523",
@@ -1369,7 +1377,7 @@
         "title": "Baraou no Souretsu",
         "type": "tv",
         "episodes": 24,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1046/118527.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1046/118527t.jpg",
         "synonyms": [
@@ -1383,6 +1391,7 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/requiem-of-the-rose-king-recap",
+            "https://anisearch.com/anime/17378",
             "https://kitsu.io/anime/46045",
             "https://myanimelist.net/anime/51534"
         ],
@@ -1420,6 +1429,7 @@
             "revenge",
             "romance",
             "shoujo",
+            "star-crossed lovers",
             "supernatural",
             "swordplay",
             "swords & co",
@@ -1545,6 +1555,7 @@
             "https://anidb.net/anime/17162",
             "https://anilist.co/anime/141890",
             "https://anime-planet.com/anime/bing-zhu-qi-hun",
+            "https://anime-planet.com/anime/the-soul-of-soldier-master",
             "https://anisearch.com/anime/17042",
             "https://kitsu.io/anime/45840",
             "https://myanimelist.net/anime/50565"
@@ -1816,7 +1827,9 @@
             "My Hero Academia: World Heroes’ Mission - Take-off",
             "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション 旅立ち"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/15890"
+        ],
         "tags": [
             "comedy",
             "present"
@@ -1912,6 +1925,7 @@
         ],
         "relations": [
             "https://anilist.co/anime/101633",
+            "https://anisearch.com/anime/11563",
             "https://myanimelist.net/anime/33573"
         ],
         "tags": [
@@ -2277,7 +2291,9 @@
         "synonyms": [
             "출동! 슈퍼윙스6"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/16744"
+        ],
         "tags": [
             "cg-anime"
         ],
@@ -2351,7 +2367,7 @@
         "title": "Cue!",
         "type": "tv",
         "episodes": 24,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1039/120173.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1039/120173t.jpg",
         "synonyms": [
@@ -2362,6 +2378,7 @@
         "relations": [
             "https://anilist.co/anime/148821",
             "https://anime-planet.com/anime/cue-short-anime",
+            "https://anisearch.com/anime/15015",
             "https://myanimelist.net/anime/51684"
         ],
         "tags": [
@@ -2603,7 +2620,7 @@
         ],
         "title": "Delicious Party♡Precure",
         "type": "tv",
-        "episodes": 15,
+        "episodes": 16,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1332/120430.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1332/120430t.jpg",
@@ -2652,6 +2669,8 @@
             "https://anime-planet.com/anime/suite-pretty-cure",
             "https://anime-planet.com/anime/tropical-rouge-pretty-cure",
             "https://anime-planet.com/anime/yes-pretty-cure-5",
+            "https://anisearch.com/anime/17110",
+            "https://anisearch.com/anime/2594",
             "https://kitsu.io/anime/558",
             "https://livechart.me/anime/5176",
             "https://livechart.me/anime/5317",
@@ -2909,6 +2928,8 @@
             "https://anilist.co/anime/8687",
             "https://anime-planet.com/anime/doraemon-2005",
             "https://anime-planet.com/anime/doraemon-movie-6-nobitas-little-star-wars",
+            "https://anisearch.com/anime/3754",
+            "https://anisearch.com/anime/5119",
             "https://livechart.me/anime/6880",
             "https://livechart.me/anime/7693",
             "https://livechart.me/anime/7728",
@@ -3078,6 +3099,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1035/121128t.jpg",
         "synonyms": [
             "Eternal 831",
+            "The Eternal 831",
             "永遠の831",
             "永遠の８３１"
         ],
@@ -3267,6 +3289,7 @@
             "https://anilist.co/anime/144916",
             "https://anilist.co/anime/21512",
             "https://anime-planet.com/anime/ensemble-stars",
+            "https://anisearch.com/anime/11295",
             "https://kitsu.io/anime/11595",
             "https://livechart.me/anime/1942",
             "https://myanimelist.net/anime/32212",
@@ -3280,11 +3303,13 @@
             "idols",
             "idols (male)",
             "music",
+            "parkour",
             "present",
             "primarily male cast",
             "reverse harem",
             "school",
             "school life",
+            "skateboarding",
             "slice of life",
             "transfer students"
         ],
@@ -3371,49 +3396,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/17144",
-            "https://anilist.co/anime/144770",
-            "https://anime-planet.com/anime/estab-life-revengers-road",
-            "https://anisearch.com/anime/17060",
-            "https://kitsu.io/anime/45838",
-            "https://livechart.me/anime/11038",
-            "https://myanimelist.net/anime/50863"
-        ],
-        "title": "Estab-Life: Revengers Road",
-        "type": "movie",
-        "episodes": 1,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1714/120590.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1714/120590t.jpg",
-        "synonyms": [
-            "ESTAB LIFE: Revengers' Road",
-            "Estab Life: Revengers` Road",
-            "Estab-Life: Revengers' Road",
-            "Estab-Life: Revengers’ Road",
-            "Establishment in Life",
-            "エスタブライフ リベンジャーズロード",
-            "エスタブライフ　リベンジャーズロード",
-            "映画 エスタブライフ"
-        ],
-        "relations": [
-            "https://anilist.co/anime/143289",
-            "https://anime-planet.com/anime/estab-life-great-escape",
-            "https://kitsu.io/anime/45837",
-            "https://livechart.me/anime/10807",
-            "https://myanimelist.net/anime/50862"
-        ],
-        "tags": [
-            "cg animation",
-            "original work",
-            "sci-fi"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/16377",
             "https://anilist.co/anime/135660",
             "https://anime-planet.com/anime/exception",
@@ -3485,6 +3467,7 @@
             "https://anime-planet.com/anime/fairy-tail",
             "https://anime-planet.com/anime/fairy-tail-2",
             "https://anime-planet.com/anime/fairy-tail-final-season",
+            "https://anisearch.com/anime/12640",
             "https://kitsu.io/anime/13658",
             "https://livechart.me/anime/1053",
             "https://livechart.me/anime/1566",
@@ -3685,6 +3668,7 @@
             "https://anime-planet.com/anime/fate-kaleid-liner-prisma-illya-3rei",
             "https://anime-planet.com/anime/fate-kaleid-liner-prisma-illya-movie-2-licht-nameless-girl",
             "https://anime-planet.com/anime/fate-kaleid-liner-prisma-illya-movie-vow-in-the-snow",
+            "https://anisearch.com/anime/15552",
             "https://kitsu.io/anime/43209",
             "https://livechart.me/anime/10756",
             "https://livechart.me/anime/13",
@@ -3986,7 +3970,7 @@
         ],
         "title": "Garugaku. II: Lucky Stars",
         "type": "tv",
-        "episodes": 10,
+        "episodes": 50,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1225/120623.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1225/120623t.jpg",
@@ -4199,6 +4183,7 @@
             "management",
             "military",
             "modern knowledge",
+            "past memories",
             "person in a strange world",
             "political",
             "politics",
@@ -4350,7 +4335,7 @@
         ],
         "title": "Girigiri Warukunai Watame",
         "type": "ona",
-        "episodes": 24,
+        "episodes": 25,
         "status": "ongoing",
         "picture": "https://media.kitsu.io/anime/45948/poster_image/small-3cbf70a7d7cfa3d2b22eefc1ef230cdf.jpeg",
         "thumbnail": "https://media.kitsu.io/anime/45948/poster_image/tiny-032890c7ecacd2454dd64ea5e96a1fa9.jpeg",
@@ -4520,6 +4505,8 @@
             "https://anilist.co/anime/113950",
             "https://anime-planet.com/anime/ssss-dynazenon",
             "https://anime-planet.com/anime/ssss-gridman",
+            "https://anisearch.com/anime/12644",
+            "https://anisearch.com/anime/14820",
             "https://kitsu.io/anime/42888",
             "https://livechart.me/anime/2774",
             "https://livechart.me/anime/9718",
@@ -4911,7 +4898,7 @@
         ],
         "title": "HololiveERROR",
         "type": "ona",
-        "episodes": 19,
+        "episodes": 20,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1224/121225.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1224/121225t.jpg",
@@ -5199,7 +5186,7 @@
         ],
         "title": "In/Spectre 2nd Season Mini Anime",
         "type": "ona",
-        "episodes": 9,
+        "episodes": 10,
         "status": "unknown",
         "picture": "https://cdn.anime-planet.com/anime/primary/in-spectre-2nd-season-mini-anime-1.webp?t=1650758112",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/in-spectre-2nd-season-mini-anime-1-243x341.webp?t=1650758112",
@@ -5470,6 +5457,7 @@
             "https://anidb.net/anime/13004",
             "https://anilist.co/anime/98491",
             "https://anime-planet.com/anime/in-another-world-with-my-smartphone",
+            "https://anisearch.com/anime/12358",
             "https://kitsu.io/anime/13457",
             "https://livechart.me/anime/2604",
             "https://myanimelist.net/anime/35203",
@@ -5597,6 +5585,34 @@
         "tags": [
             "comedy",
             "juujin"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anisearch.com/anime/17474"
+        ],
+        "title": "Jibun no Koto ga Daikirai na Hito no Kyoku",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17474.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17474.webp",
+        "synonyms": [
+            "I Hate Myself the Most in the World",
+            "Takayan - I Hate Myself the Most in the World",
+            "Takayan - Jibun no Koto ga Daikiraina Hito no Kyoku",
+            "たかやん - 自分の事が大嫌いな人の曲",
+            "自分の事が大嫌いな人の曲"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "drama",
+            "independent anime"
         ],
         "date": {
             "season": "winter",
@@ -6401,6 +6417,7 @@
             "https://anidb.net/anime/15216",
             "https://anilist.co/anime/112667",
             "https://anime-planet.com/anime/our-last-crusade-or-the-rise-of-a-new-world",
+            "https://anisearch.com/anime/14698",
             "https://kitsu.io/anime/42638",
             "https://livechart.me/anime/9651",
             "https://myanimelist.net/anime/40595",
@@ -6532,8 +6549,8 @@
             "Kobayashi-san Chi no Maidragon S: Nippon no Omotenashi - Attend wa Dragon Desu",
             "Miss Kobayashi's Dragon Maid S Episode 13",
             "Miss Kobayashi's Dragon Maid S Special",
-            "Miss Kobayashi's Dragon Maid S: Japanese Hospitality (My Attendant Is a Dragon)",
             "Miss Kobayashi's Dragon Maid S: Japanese Hospitality (The Attendant Is a Dragon)",
+            "Miss Kobayashi's Dragon Maid S: Japanese Hospitality (The Attendant is a Dragon)",
             "Miss Kobayashi's Dragon Maid S: Japanese Hospitality - Attendance is a Dragon",
             "Miss Kobayashi’s Dragon Maid S : L’hospitalité à la japonaise - offerte par des dragons",
             "Miss Kobayashi’s Dragon Maid S Special",
@@ -6933,7 +6950,9 @@
             "Miraculous: Geschichten von Ladybug und Cat Noir Staffel 4",
             "레이디버그 4"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/17058"
+        ],
         "tags": [
             "action",
             "action comedy",
@@ -7071,8 +7090,8 @@
         "type": "ona",
         "episodes": 16,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1529/119946.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1529/119946t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1789/122655.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1789/122655t.jpg",
         "synonyms": [
             "Dragon's Disciple",
             "Dragon`s Disciple",
@@ -7223,7 +7242,7 @@
         ],
         "title": "Machikado Mazoku: 2-choume Mini",
         "type": "ona",
-        "episodes": 18,
+        "episodes": 19,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1862/122418.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1862/122418t.jpg",
@@ -7248,6 +7267,7 @@
             "based on a manga",
             "chibi",
             "comedy",
+            "cute girls doing cute things",
             "fantasy",
             "magical girl",
             "mahou shoujo",
@@ -7330,6 +7350,7 @@
             "https://anime-planet.com/anime/puella-magi-madoka-magica-the-movie-part-1-beginnings",
             "https://anime-planet.com/anime/puella-magi-madoka-magica-the-movie-part-2-eternal",
             "https://anime-planet.com/anime/puella-magi-madoka-magica-the-movie-part-3-rebellion",
+            "https://anisearch.com/anime/7883",
             "https://kitsu.io/anime/6638",
             "https://livechart.me/anime/10663",
             "https://livechart.me/anime/3246",
@@ -7416,6 +7437,7 @@
             "https://anime-planet.com/anime/the-irregular-at-magic-high-school-movie-the-girl-who-summons-the-stars",
             "https://anime-planet.com/anime/the-irregular-at-magic-high-school-reminiscence-arc",
             "https://anime-planet.com/anime/the-irregular-at-magic-high-school-visitor-arc",
+            "https://anisearch.com/anime/11186",
             "https://kitsu.io/anime/11931",
             "https://livechart.me/anime/10295",
             "https://livechart.me/anime/10439",
@@ -7610,6 +7632,7 @@
         "relations": [
             "https://anilist.co/anime/116010",
             "https://anime-planet.com/anime/mao-zhi-ming",
+            "https://anisearch.com/anime/16641",
             "https://kitsu.io/anime/45412",
             "https://myanimelist.net/anime/49380"
         ],
@@ -7659,6 +7682,7 @@
             "https://anilist.co/anime/21857",
             "https://anime-planet.com/anime/masamune-kuns-revenge",
             "https://anime-planet.com/anime/masamune-kuns-revenge-ova",
+            "https://anisearch.com/anime/11537",
             "https://kitsu.io/anime/12267",
             "https://livechart.me/anime/2226",
             "https://livechart.me/anime/3116",
@@ -8271,7 +8295,7 @@
         ],
         "title": "Ninjala (TV)",
         "type": "tv",
-        "episodes": 24,
+        "episodes": 25,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1552/119871.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1552/119871t.jpg",
@@ -8286,6 +8310,7 @@
         "relations": [
             "https://anilist.co/anime/123778",
             "https://anime-planet.com/anime/ninjala",
+            "https://anisearch.com/anime/15509",
             "https://myanimelist.net/anime/41547",
             "https://myanimelist.net/anime/42658",
             "https://notify.moe/anime/OoJMS5c7g"
@@ -8305,6 +8330,28 @@
             "super power",
             "urban"
         ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anisearch.com/anime/17473"
+        ],
+        "title": "Nobody Else",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17473.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17473.webp",
+        "synonyms": [
+            "Ailee - Nobody Else",
+            "Under the Oak Tree Animated Music Video",
+            "에일리 - Nobody Else"
+        ],
+        "relations": [],
+        "tags": [],
         "date": {
             "season": "winter",
             "year": 2022
@@ -9261,6 +9308,7 @@
         "sources": [
             "https://anidb.net/anime/17151",
             "https://anilist.co/anime/142794",
+            "https://anime-planet.com/anime/arceus-the-one-called-god",
             "https://anisearch.com/anime/17047",
             "https://kitsu.io/anime/45599",
             "https://myanimelist.net/anime/50673"
@@ -9273,6 +9321,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1703/120249t.jpg",
         "synonyms": [
             "Arceus",
+            "Arceus, the One Called God",
             "Pocket Monsters (2019): Kami to Yobareshi Arceus",
             "Pocket Monsters - The Hallowed God, Arceus",
             "Pocket Monsters: Arceus Who is Called a God",
@@ -9287,6 +9336,7 @@
             "https://anidb.net/anime/15067",
             "https://anilist.co/anime/112153",
             "https://anilist.co/anime/145813",
+            "https://anime-planet.com/anime/pokemon-journeys",
             "https://kitsu.io/anime/42534",
             "https://myanimelist.net/anime/40351"
         ],
@@ -9294,11 +9344,13 @@
             "action",
             "adventure",
             "animals",
+            "based on a video game",
             "comedy",
             "fantasy",
             "fantasy world",
             "gods",
             "kids",
+            "monsters",
             "primarily child cast",
             "proxy battles"
         ],
@@ -9680,7 +9732,9 @@
         "synonyms": [
             "로보카 폴리 시즌5"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/15137"
+        ],
         "tags": [
             "cg-anime"
         ],
@@ -9761,7 +9815,9 @@
             "Ryōtei no Aji: Natsuyasumi no Omoide-hen",
             "料亭の味 夏休みの思い出篇"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/15893"
+        ],
         "tags": [
             "food preparation",
             "present"
@@ -9791,6 +9847,7 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/sd-gundam-world-heroes",
+            "https://anisearch.com/anime/15765",
             "https://livechart.me/anime/10218",
             "https://livechart.me/anime/8362"
         ],
@@ -9969,6 +10026,7 @@
             "https://anidb.net/anime/16261",
             "https://anilist.co/anime/132473",
             "https://anime-planet.com/anime/the-faraway-paladin",
+            "https://anisearch.com/anime/16200",
             "https://kitsu.io/anime/44432",
             "https://livechart.me/anime/10534",
             "https://myanimelist.net/anime/48761",
@@ -10434,6 +10492,7 @@
             "https://anidb.net/anime/15875",
             "https://anilist.co/anime/126546",
             "https://anime-planet.com/anime/seirei-gensouki-spirit-chronicles",
+            "https://anisearch.com/anime/15782",
             "https://kitsu.io/anime/44174",
             "https://livechart.me/anime/10238",
             "https://livechart.me/anime/10606",
@@ -10597,6 +10656,7 @@
             "https://anidb.net/anime/15596",
             "https://anilist.co/anime/119675",
             "https://anime-planet.com/anime/shaman-king-2021",
+            "https://anisearch.com/anime/15320",
             "https://kitsu.io/anime/43222",
             "https://livechart.me/anime/10010",
             "https://livechart.me/anime/10732",
@@ -10647,6 +10707,7 @@
             "Shaonian Gexing 2nd Season: Part II",
             "Youths and Golden Coffin 2 Part 2",
             "Youths and Golden Coffin 2nd Season Part 2",
+            "Youths and Golden Coffin Season 2 (Part 2)",
             "少年歌行 风花雪月篇",
             "少年歌行 风花雪月篇 (2022)",
             "少年歌行 风花雪月篇 下部",
@@ -10656,9 +10717,10 @@
             "https://anidb.net/anime/16636",
             "https://anilist.co/anime/120321",
             "https://anime-planet.com/anime/shaonian-gexing-2nd-season",
+            "https://anisearch.com/anime/16459",
             "https://kitsu.io/anime/45195",
             "https://myanimelist.net/anime/40732",
-            "https://myanimelist.net/anime/51776"
+            "https://myanimelist.net/anime/52105"
         ],
         "tags": [
             "action",
@@ -11209,8 +11271,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1533/119557.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1533/119557t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1831/124679.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1831/124679t.jpg",
         "synonyms": [
             "Skip and Loafer",
             "スキップとローファー"
@@ -11508,7 +11570,7 @@
         ],
         "title": "Stars*Collection!",
         "type": "ona",
-        "episodes": 21,
+        "episodes": 22,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1261/120889.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1261/120889t.jpg",
@@ -11593,6 +11655,7 @@
             "https://anime-planet.com/anime/strike-the-blood-iv",
             "https://anime-planet.com/anime/strike-the-blood-kieta-seisou-hen",
             "https://anime-planet.com/anime/strike-the-blood-kingdom-of-the-valkyria",
+            "https://anisearch.com/anime/14664",
             "https://kitsu.io/anime/42606",
             "https://livechart.me/anime/107",
             "https://livechart.me/anime/1446",
@@ -11843,6 +11906,7 @@
         "relations": [
             "https://anilist.co/anime/101280",
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime",
+            "https://anisearch.com/anime/13436",
             "https://kitsu.io/anime/43361",
             "https://livechart.me/anime/10804",
             "https://livechart.me/anime/3132",
@@ -12147,7 +12211,7 @@
         ],
         "title": "Teiko Penguin",
         "type": "tv",
-        "episodes": 25,
+        "episodes": 26,
         "status": "ongoing",
         "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143413-yA49X4tYfoQP.jpg",
         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143413-yA49X4tYfoQP.jpg",
@@ -12280,6 +12344,8 @@
             "https://anilist.co/anime/137898",
             "https://anilist.co/anime/144336",
             "https://anime-planet.com/anime/the-genius-princes-guide-to-raising-a-nation-out-of-debt-short-drama",
+            "https://kitsu.io/anime/46123",
+            "https://kitsu.io/anime/46124",
             "https://livechart.me/anime/10746",
             "https://myanimelist.net/anime/49592"
         ],
@@ -12303,12 +12369,14 @@
             "military",
             "novel",
             "nudity",
+            "parody",
             "political",
             "politics",
             "religion",
             "reluctant hero",
             "royalty",
             "slapstick",
+            "swordplay",
             "swords & co",
             "violence",
             "war"
@@ -12943,7 +13011,9 @@
             "Titipo Titipo 3",
             "띠띠뽀 띠띠뽀 3"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/17355"
+        ],
         "tags": [
             "cg-anime"
         ],
@@ -13075,82 +13145,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/15742",
-            "https://anilist.co/anime/124395",
-            "https://anime-planet.com/anime/uzaki-chan-wants-to-hang-out-w",
-            "https://anisearch.com/anime/15579",
-            "https://kitsu.io/anime/43581",
-            "https://livechart.me/anime/10167",
-            "https://myanimelist.net/anime/42962",
-            "https://notify.moe/anime/6v9zS4FGR"
-        ],
-        "title": "Uzaki-chan wa Asobitai! 2nd Season",
-        "type": "tv",
-        "episodes": 12,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1009/116986.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1009/116986t.jpg",
-        "synonyms": [
-            "Uzaki-chan Wants to Hang Out! (2022)",
-            "Uzaki-chan Wants to Hang Out! 2nd Season",
-            "Uzaki-chan Wants to Hang Out! Omega",
-            "Uzaki-chan Wants to Hang Out! Season 2",
-            "Uzaki-chan Wants to Hang Out! W",
-            "Uzaki-chan Wants to Hang Out! ω",
-            "Uzaki-chan Wants to Play! 2nd Season",
-            "Uzaki-chan Wants to Play! Double",
-            "Uzaki-chan wa Asobitai! 2",
-            "Uzaki-chan wa Asobitai! Double",
-            "Uzaki-chan wa Asobitai! W",
-            "Uzaki-chan wa Asobitai! ω",
-            "รุ่นน้องตัวป่วน อยากชวนเที่ยวเล่น ภาค 2",
-            "宇崎ちゃんは遊びたい! ω",
-            "宇崎ちゃんは遊びたい！ ω",
-            "宇崎ちゃんは遊びたい！ω",
-            "宇崎ちゃんは遊びたい！ω（だぶる）",
-            "宇崎学妹想要玩! 2"
-        ],
-        "relations": [
-            "https://anidb.net/anime/15382",
-            "https://anilist.co/anime/115113",
-            "https://anime-planet.com/anime/uzaki-chan-wants-to-hang-out",
-            "https://kitsu.io/anime/43094",
-            "https://livechart.me/anime/9788",
-            "https://myanimelist.net/anime/41226",
-            "https://notify.moe/anime/p_XdZU8Zg"
-        ],
-        "tags": [
-            "based on a manga",
-            "bullying",
-            "college",
-            "comedy",
-            "ecchi",
-            "episodic",
-            "female protagonist",
-            "male protagonist",
-            "manga",
-            "meta",
-            "present",
-            "primarily adult cast",
-            "romance",
-            "romantic comedy",
-            "romantic subtext",
-            "seinen",
-            "senpai-kouhai relationship",
-            "shounen",
-            "slapstick",
-            "slice of life",
-            "tomboy",
-            "university",
-            "video games"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/16367",
             "https://anilist.co/anime/135136",
             "https://anime-planet.com/anime/the-case-study-of-vanitas-part-ii",
@@ -13186,6 +13180,7 @@
             "Vanitas no Shuki",
             "Vanitas no Shuki (2022)",
             "Vanitas no Shuki 2nd Season",
+            "Мемуары Ванитаса (2022)",
             "บันทึกแวมไพร์วานิทัส พาร์ท 2",
             "ヴァニタスの手記",
             "ヴァニタスの手記 (2022)",
@@ -13200,6 +13195,8 @@
             "https://anidb.net/anime/16174",
             "https://anilist.co/anime/131646",
             "https://anime-planet.com/anime/the-case-study-of-vanitas",
+            "https://anisearch.com/anime/16105",
+            "https://anisearch.com/anime/17022",
             "https://kitsu.io/anime/44241",
             "https://kitsu.io/anime/45736",
             "https://livechart.me/anime/10494",
@@ -13334,6 +13331,7 @@
             "https://anilist.co/anime/103350",
             "https://anilist.co/anime/122497",
             "https://anime-planet.com/anime/wan-sheng-jie-2",
+            "https://anisearch.com/anime/16098",
             "https://kitsu.io/anime/43614",
             "https://livechart.me/anime/10110",
             "https://livechart.me/anime/9920",
@@ -13574,6 +13572,7 @@
         "sources": [
             "https://anidb.net/anime/17308",
             "https://anilist.co/anime/141871",
+            "https://anime-planet.com/anime/my-journey-in-an-alternate-world",
             "https://anime-planet.com/anime/wo-de-yi-jie-zhi-lu",
             "https://anisearch.com/anime/17040",
             "https://kitsu.io/anime/45774",
@@ -14070,6 +14069,7 @@
             "https://anidb.net/anime/16578",
             "https://anilist.co/anime/122652",
             "https://anime-planet.com/anime/xingchen-bian-3rd-season",
+            "https://anisearch.com/anime/17092",
             "https://kitsu.io/anime/45194",
             "https://myanimelist.net/anime/49386",
             "https://notify.moe/anime/AAFvdyHng"
@@ -14480,7 +14480,8 @@
             "ざんねんないきもの事典 （2022）"
         ],
         "relations": [
-            "https://anidb.net/anime/16024"
+            "https://anidb.net/anime/16024",
+            "https://anisearch.com/anime/15992"
         ],
         "tags": [],
         "date": {

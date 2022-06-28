@@ -559,8 +559,8 @@
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "picture": "https://cdn.anime-planet.com/anime/primary/dongfang-shenwa-2nd-season-1.webp?t=1654055492",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/dongfang-shenwa-2nd-season-1-285x400.webp?t=1654055492",
         "synonyms": [],
         "relations": [
             "https://anime-planet.com/anime/dongfang-shenwa"
@@ -1904,6 +1904,30 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52136"
+        ],
+        "title": "Meisaku Douwa",
+        "type": "ova",
+        "episodes": 18,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1624/124611.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1624/124611t.jpg",
+        "synonyms": [
+            "めいさくどうわ"
+        ],
+        "relations": [],
+        "tags": [
+            "fantasy",
+            "kids",
+            "mythology"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/119820"
         ],
         "title": "Melt",
@@ -2696,6 +2720,55 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52146"
+        ],
+        "title": "Sanrio Poko Apoko Cinnamon no Minna Tomodachi",
+        "type": "ova",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1924/124622.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1924/124622t.jpg",
+        "synonyms": [
+            "サンリオぽこあぽこ シナモンの みんなともだち"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/52145"
+        ],
+        "tags": [
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52147"
+        ],
+        "title": "Sanrio Poko Apoko Cinnamon no Ouchi de Challenge",
+        "type": "ova",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1666/124623.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1666/124623t.jpg",
+        "synonyms": [
+            "サンリオぽこあぽこ シナモンの おうちでチャレンジ"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/52145",
+            "https://myanimelist.net/anime/52146"
+        ],
+        "tags": [
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/seer-da-dianying-7-fengkuang-jiqi-cheng"
         ],
         "title": "Seer Da Dianying 7: Fengkuang Jiqi Cheng",
@@ -3141,7 +3214,10 @@
             "Tico Chun Ji Pian",
             "缇可 春季篇"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/15771",
+            "https://anisearch.com/anime/16880"
+        ],
         "tags": [],
         "date": {
             "season": "unknown",

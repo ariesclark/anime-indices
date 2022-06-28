@@ -1362,6 +1362,7 @@
     {
         "sources": [
             "https://anilist.co/anime/145880",
+            "https://anime-planet.com/anime/boku-wa-omocha",
             "https://myanimelist.net/anime/51446"
         ],
         "title": "Boku wa Omocha",
@@ -1372,11 +1373,15 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1291/121975t.jpg",
         "synonyms": [
             "Minna no Uta",
+            "Minna no Uta: Boku wa Omocha",
             "ぼくはおもちゃ"
         ],
         "relations": [],
         "tags": [
-            "music"
+            "family friendly",
+            "minna no uta",
+            "music",
+            "sci fi"
         ],
         "date": {
             "season": "fall",
@@ -2236,6 +2241,7 @@
         "relations": [
             "https://anilist.co/anime/124612",
             "https://anime-planet.com/anime/dogeza-i-tried-asking-while-kowtowing-isekai-hen",
+            "https://anisearch.com/anime/15667",
             "https://kitsu.io/anime/43605",
             "https://livechart.me/anime/10173",
             "https://myanimelist.net/anime/42990",
@@ -2606,7 +2612,10 @@
             "Dr. Stone: Stone Wars – Kessen Zen’ya Special Eizō",
             "ドクターストーン STONE WARS 決戦前夜スペシャル映像"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/13989",
+            "https://anisearch.com/anime/14818"
+        ],
         "tags": [
             "action",
             "adventure",
@@ -2631,7 +2640,7 @@
         ],
         "title": "Dragon Quest: Dai no Daibouken (2020)",
         "type": "tv",
-        "episodes": 82,
+        "episodes": 83,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1499/109126.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1499/109126t.jpg",
@@ -2659,6 +2668,8 @@
             "https://anilist.co/anime/2229",
             "https://anime-planet.com/anime/dragon-quest-dai-no-daibouken",
             "https://anime-planet.com/anime/dragon-quest-the-adventure-of-dai-2020-the-trail-of-adventure-the-path-forward",
+            "https://anisearch.com/anime/16419",
+            "https://anisearch.com/anime/353",
             "https://kitsu.io/anime/4970",
             "https://livechart.me/anime/10880",
             "https://livechart.me/anime/6085",
@@ -3473,7 +3484,7 @@
         ],
         "title": "Fushigi Dagashiya: Zenitendou",
         "type": "tv",
-        "episodes": 61,
+        "episodes": 62,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1994/108212.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1994/108212t.jpg",
@@ -3485,6 +3496,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/15424",
+            "https://anisearch.com/anime/15430",
             "https://kitsu.io/anime/43257",
             "https://livechart.me/anime/9826",
             "https://myanimelist.net/anime/42296"
@@ -4770,7 +4782,9 @@
             "かぐや様は告らせたい？ ～天才たちの恋愛頭脳戦～ × 中国日清・合味道",
             "合味道×辉夜大小姐想要我告白"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/14692"
+        ],
         "tags": [
             "comedy",
             "present",
@@ -5136,7 +5150,8 @@
             "https://anime-planet.com/anime/hua-jianghu-zhi-gui-yexing-part-ii",
             "https://anime-planet.com/anime/hua-jianghu-zhi-huan-shi-men-sheng",
             "https://anime-planet.com/anime/hua-jianghu-zhi-lingzhu",
-            "https://anime-planet.com/anime/hua-jianghu-zhi-xia-lan"
+            "https://anime-planet.com/anime/hua-jianghu-zhi-xia-lan",
+            "https://anisearch.com/anime/17049"
         ],
         "tags": [
             "action",
@@ -5929,8 +5944,7 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/juju-sanpo",
-            "https://livechart.me/anime/10184"
+            "https://anime-planet.com/anime/juju-sanpo"
         ],
         "title": "Juju Sanpo",
         "type": "ona",
@@ -5939,18 +5953,40 @@
         "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "synonyms": [
+            "Juju Stroll"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/jujutsu-kaisen"
+        ],
+        "tags": [
+            "based on a manga",
+            "short episodes"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://livechart.me/anime/10184"
+        ],
+        "title": "Juju Sanpo",
+        "type": "tv",
+        "episodes": 21,
+        "status": "finished",
+        "picture": "https://u.livechart.me/anime/10184/poster_image/c2542e00a7a01107aa6cc2cf53c56af0.png?style=large&format=jpg",
+        "thumbnail": "https://u.livechart.me/anime/10184/poster_image/c2542e00a7a01107aa6cc2cf53c56af0.png?style=small&format=jpg",
+        "synonyms": [
             "Juju Stroll",
             "アニメじゅじゅさんぽ"
         ],
         "relations": [
-            "https://anime-planet.com/anime/jujutsu-kaisen",
             "https://livechart.me/anime/10491",
             "https://livechart.me/anime/11083",
             "https://livechart.me/anime/9680"
         ],
         "tags": [
-            "based on a manga",
-            "short episodes",
             "slice of life"
         ],
         "date": {
@@ -6272,6 +6308,7 @@
         "relations": [
             "https://anidb.net/anime/14806",
             "https://anime-planet.com/anime/kaijuu-step-wandabada",
+            "https://anisearch.com/anime/14642",
             "https://kitsu.io/anime/42594",
             "https://livechart.me/anime/9399",
             "https://myanimelist.net/anime/39628"
@@ -6552,6 +6589,7 @@
     {
         "sources": [
             "https://anime-planet.com/anime/kansatsu-pokemon-zukan",
+            "https://kitsu.io/anime/46198",
             "https://myanimelist.net/anime/51888"
         ],
         "title": "Kansatsu! Pokemon Zukan",
@@ -6566,6 +6604,7 @@
             "かんさつ！ポケモンずかん"
         ],
         "relations": [
+            "https://kitsu.io/anime/486",
             "https://myanimelist.net/anime/527"
         ],
         "tags": [
@@ -6715,7 +6754,9 @@
             "Kikan Gentai Event “Kyojō narishi Genshō” Anime Image PV",
             "期間限定イベント「虚畳なりし限象」 アニメイメージPV"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/13888"
+        ],
         "tags": [
             "action",
             "alternative world",
@@ -6915,6 +6956,9 @@
             "https://anidb.net/anime/14107",
             "https://anidb.net/anime/14689",
             "https://anidb.net/anime/16258",
+            "https://anisearch.com/anime/13658",
+            "https://anisearch.com/anime/16195",
+            "https://anisearch.com/anime/16659",
             "https://kitsu.io/anime/41370",
             "https://kitsu.io/anime/44388",
             "https://kitsu.io/anime/44390"
@@ -10102,7 +10146,9 @@
             "뽀롱뽀롱 뽀로로 7",
             "뽀롱뽀롱 뽀로로 시즌 7"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/11373"
+        ],
         "tags": [
             "beastmen",
             "cg-anime"
@@ -10465,6 +10511,7 @@
             "https://anidb.net/anime/15921",
             "https://anilist.co/anime/127163",
             "https://anime-planet.com/anime/rail-romanesque-2nd-season",
+            "https://anisearch.com/anime/15811",
             "https://kitsu.io/anime/43860",
             "https://livechart.me/anime/10265",
             "https://myanimelist.net/anime/44583",
@@ -12961,6 +13008,7 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/tonikawa-over-the-moon-for-you",
+            "https://anisearch.com/anime/15046",
             "https://kitsu.io/anime/43034",
             "https://myanimelist.net/anime/41389",
             "https://notify.moe/anime/QeNoAWuZg"
@@ -13753,6 +13801,7 @@
             "ホワイト ブルー"
         ],
         "relations": [
+            "https://anisearch.com/anime/7607",
             "https://myanimelist.net/anime/12995",
             "https://myanimelist.net/anime/3728",
             "https://myanimelist.net/anime/3729",
@@ -13777,7 +13826,7 @@
         "sources": [
             "https://anidb.net/anime/16751",
             "https://anilist.co/anime/115907",
-            "https://anime-planet.com/anime/wojia-da-shixiong-shi-ge-fanpai",
+            "https://anime-planet.com/anime/whats-wrong-with-my-big-brother",
             "https://kitsu.io/anime/43779",
             "https://livechart.me/anime/10228",
             "https://myanimelist.net/anime/42950",
@@ -14489,6 +14538,7 @@
             "https://anilist.co/anime/124858",
             "https://anime-planet.com/anime/moriarty-the-patriot-2nd-season",
             "https://anime-planet.com/anime/moriarty-the-patriot-ova",
+            "https://anisearch.com/anime/15620",
             "https://kitsu.io/anime/43708",
             "https://livechart.me/anime/10179",
             "https://livechart.me/anime/10772",

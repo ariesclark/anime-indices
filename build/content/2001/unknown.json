@@ -739,6 +739,32 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52194"
+        ],
+        "title": "Run=Dim Movie",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1762/124758.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1762/124758t.jpg",
+        "synonyms": [
+            "R=D",
+            "Rundim",
+            "ランディム"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "mecha",
+            "sci-fi"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2001
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/santa-san-wa-ooisogashi",
             "https://kitsu.io/anime/12627",
             "https://myanimelist.net/anime/34191",
@@ -783,7 +809,9 @@
             "World Masterpiece Theater Complete Edition: Pollyanna",
             "世界名作劇場・完結版 愛少女ポリアンナ物語"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/983"
+        ],
         "tags": [],
         "date": {
             "season": "unknown",
@@ -1051,6 +1079,29 @@
         "relations": [],
         "tags": [
             "comedy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2001
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52156"
+        ],
+        "title": "Tou-san Maigo",
+        "type": "ova",
+        "episodes": 6,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1082/124632.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1082/124632t.jpg",
+        "synonyms": [
+            "I Lost My Dad!",
+            "とうさんまいご"
+        ],
+        "relations": [],
+        "tags": [
+            "kids"
         ],
         "date": {
             "season": "unknown",

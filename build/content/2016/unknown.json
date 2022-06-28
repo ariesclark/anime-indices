@@ -147,6 +147,8 @@
         "relations": [
             "https://anime-planet.com/anime/au-shenqi-luobo-3rd-season",
             "https://anime-planet.com/anime/au-tu-zhi-lai-le-2nd-season",
+            "https://anisearch.com/anime/15646",
+            "https://anisearch.com/anime/15648",
             "https://myanimelist.net/anime/45390",
             "https://myanimelist.net/anime/45392"
         ],
@@ -7349,33 +7351,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/103991"
-        ],
-        "title": "Zhuzhu Xia: Fan Wai - Pin Zhuang Tegong Dui",
-        "type": "ona",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103991-ZgFvPluLCSAN.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103991-ZgFvPluLCSAN.jpg",
-        "synonyms": [
-            "猪猪侠 番外篇 拼装特工队"
-        ],
-        "relations": [
-            "https://anilist.co/anime/103992"
-        ],
-        "tags": [
-            "adventure",
-            "full cgi",
-            "kids",
-            "sci-fi"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/zui-ke-ai-de-ren",
             "https://myanimelist.net/anime/45116",
             "https://myanimelist.net/anime/47229"
@@ -7549,17 +7524,20 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/113945"
+            "https://anilist.co/anime/113945",
+            "https://anime-planet.com/anime/moon"
         ],
         "title": "moon",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113945-OwuAWx5gkZGs.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113945-OwuAWx5gkZGs.png",
+        "picture": "https://cdn.anime-planet.com/anime/primary/moon-1.webp?t=1656267645",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/moon-1-285x400.webp?t=1656267645",
         "synonyms": [],
         "relations": [],
         "tags": [
+            "abstract",
+            "shorts",
             "slice of life"
         ],
         "date": {

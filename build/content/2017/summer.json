@@ -351,6 +351,7 @@
             "https://anime-planet.com/anime/a-channel",
             "https://anime-planet.com/anime/a-channel-plus-smile",
             "https://anime-planet.com/anime/a-channel-specials",
+            "https://anisearch.com/anime/6585",
             "https://livechart.me/anime/1239",
             "https://livechart.me/anime/1562",
             "https://livechart.me/anime/2639",
@@ -902,7 +903,10 @@
             "Banzi's Secret Diary",
             "반지의 비밀일기"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/14920",
+            "https://anisearch.com/anime/14958"
+        ],
         "tags": [],
         "date": {
             "season": "summer",
@@ -1120,6 +1124,7 @@
             "https://anime-planet.com/anime/cute-high-earth-defense-club-happy-kiss",
             "https://anime-planet.com/anime/cute-high-earth-defense-club-love",
             "https://anime-planet.com/anime/cute-high-earth-defense-club-love-love",
+            "https://anisearch.com/anime/10670",
             "https://kitsu.io/anime/11329",
             "https://livechart.me/anime/1111",
             "https://livechart.me/anime/1771",
@@ -1188,6 +1193,7 @@
             "https://anidb.net/anime/14511",
             "https://anilist.co/anime/105931",
             "https://anime-planet.com/anime/blade-runner-black-lotus",
+            "https://anisearch.com/anime/14007",
             "https://kitsu.io/anime/41998",
             "https://livechart.me/anime/8372",
             "https://myanimelist.net/anime/38749",
@@ -1249,6 +1255,7 @@
             "僕だけのヘンタイカノジョ もっと♥ THE ANIMATION"
         ],
         "relations": [
+            "https://anisearch.com/anime/12569",
             "https://myanimelist.net/anime/35781"
         ],
         "tags": [
@@ -1288,6 +1295,7 @@
             "僕だけのヘンタイカノジョ THE ANIMATION"
         ],
         "relations": [
+            "https://anisearch.com/anime/12717",
             "https://myanimelist.net/anime/36109"
         ],
         "tags": [
@@ -2979,7 +2987,10 @@
             "Dou Po Cang Qiong: Te Bie Pian",
             "斗破苍穹 特别篇"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/13239",
+            "https://anisearch.com/anime/14991"
+        ],
         "tags": [
             "action",
             "adventure",
@@ -3350,6 +3361,8 @@
             "https://anime-planet.com/anime/fastening-days",
             "https://anime-planet.com/anime/fastening-days-2",
             "https://anime-planet.com/anime/fastening-days-4",
+            "https://anisearch.com/anime/11651",
+            "https://anisearch.com/anime/14830",
             "https://kitsu.io/anime/44277",
             "https://kitsu.io/anime/44279",
             "https://myanimelist.net/anime/48604",
@@ -4607,6 +4620,7 @@
             "https://anilist.co/anime/21698",
             "https://anime-planet.com/anime/haikyuu-karasuno-high-school-vs-shiratorizawa-academy",
             "https://anime-planet.com/anime/haikyuu-second-season",
+            "https://anisearch.com/anime/11209",
             "https://myanimelist.net/anime/28891",
             "https://myanimelist.net/anime/32935"
         ],
@@ -4672,6 +4686,7 @@
         ],
         "tags": [
             "based on a manga",
+            "bisexual",
             "comedy",
             "ecchi",
             "female harem",
@@ -7403,6 +7418,7 @@
             "https://anilist.co/anime/21776",
             "https://anime-planet.com/anime/miss-kobayashis-dragon-maid",
             "https://anime-planet.com/anime/miss-kobayashis-dragon-maid-specials",
+            "https://anisearch.com/anime/11415",
             "https://kitsu.io/anime/12243",
             "https://kitsu.io/anime/44326",
             "https://livechart.me/anime/10497",
@@ -10789,7 +10805,9 @@
             "Pokémon o Filme: Escolho-te a ti!",
             "Pokémon the Movie 20: I Choose You!",
             "Pokémon the Movie: I Choose You!",
+            "Pokémon – Der Film: Du bist dran!",
             "Pokémon: Der Film - Du bist dran!",
+            "Pokémon: Wybieram cię!",
             "Pokémonfilmen: Jeg velger deg!",
             "Покемон-фильм: Я выбираю тебя!",
             "劇場版 ポケットモンスター キミにきめた!",
@@ -11157,7 +11175,10 @@
             "Full-Time Magister SD 2",
             "全职法师Q版小剧场 第2季"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/12835",
+            "https://anisearch.com/anime/13030"
+        ],
         "tags": [
             "comedy",
             "magic",
@@ -11533,11 +11554,7 @@
         ],
         "relations": [
             "https://anisearch.com/anime/12244",
-            "https://anisearch.com/anime/15058",
-            "https://anisearch.com/anime/6262",
-            "https://anisearch.com/anime/6810",
-            "https://anisearch.com/anime/9085",
-            "https://anisearch.com/anime/9884"
+            "https://anisearch.com/anime/15058"
         ],
         "tags": [
             "comedy",
@@ -11843,6 +11860,42 @@
             "mystery",
             "romance",
             "supernatural drama"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/shaonian-jinyiwei-2nd-season-xuzhang",
+            "https://myanimelist.net/anime/52182"
+        ],
+        "title": "Shaonian Jinyiwei 2nd Season Xuzhang",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1644/124692.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1644/124692t.jpg",
+        "synonyms": [
+            "Shaonian Jinyiwei Di Er Ji Xuzhang",
+            "The Young Imperial Guards 2nd Season Prologue",
+            "少年锦衣卫 第二季序章"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/shaonian-jinyiwei",
+            "https://anime-planet.com/anime/shaonian-jinyiwei-2nd-season",
+            "https://myanimelist.net/anime/36644",
+            "https://myanimelist.net/anime/37152"
+        ],
+        "tags": [
+            "action",
+            "ancient china",
+            "cg animation",
+            "chinese animation",
+            "historical",
+            "martial arts",
+            "mystery"
         ],
         "date": {
             "season": "summer",
@@ -12958,6 +13011,7 @@
             "https://anilist.co/anime/825",
             "https://anime-planet.com/anime/the-king-of-fighters-another-day",
             "https://anime-planet.com/anime/the-king-of-fighters-awaken",
+            "https://anisearch.com/anime/15891",
             "https://kitsu.io/anime/40591",
             "https://myanimelist.net/anime/1009",
             "https://myanimelist.net/anime/1799",
@@ -14064,7 +14118,10 @@
             "新大头儿子和小头爸爸 第四季",
             "新大头儿子和小头爸爸4"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/15627",
+            "https://anisearch.com/anime/15789"
+        ],
         "tags": [
             "comedy"
         ],
@@ -14323,6 +14380,7 @@
             "https://anidb.net/anime/12778",
             "https://anilist.co/anime/98862",
             "https://anime-planet.com/anime/yaoguai-mingdan",
+            "https://anisearch.com/anime/11454",
             "https://kitsu.io/anime/10340",
             "https://myanimelist.net/anime/29089"
         ],
@@ -14405,7 +14463,9 @@
         "synonyms": [
             "ヨーデルの女"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/14299"
+        ],
         "tags": [
             "comedy",
             "episodic",

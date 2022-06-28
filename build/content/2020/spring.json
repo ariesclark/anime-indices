@@ -895,6 +895,7 @@
             "https://anidb.net/anime/15966",
             "https://anilist.co/anime/114136",
             "https://anime-planet.com/anime/bai-yao-pu",
+            "https://anime-planet.com/anime/fairies-albums",
             "https://anisearch.com/anime/14799",
             "https://kitsu.io/anime/43176",
             "https://livechart.me/anime/9867",
@@ -920,6 +921,7 @@
             "https://anidb.net/anime/15967",
             "https://anilist.co/anime/126347",
             "https://anime-planet.com/anime/bai-yao-pu-2nd-season",
+            "https://anime-planet.com/anime/fairies-albums-2nd-season",
             "https://kitsu.io/anime/43789",
             "https://livechart.me/anime/10738",
             "https://myanimelist.net/anime/44067",
@@ -1023,6 +1025,8 @@
             "https://anilist.co/anime/97888",
             "https://anime-planet.com/anime/baki",
             "https://anime-planet.com/anime/baki-son-of-ogre",
+            "https://anisearch.com/anime/12696",
+            "https://anisearch.com/anime/15565",
             "https://kitsu.io/anime/13140",
             "https://kitsu.io/anime/43599",
             "https://livechart.me/anime/10158",
@@ -1092,6 +1096,8 @@
             "https://anime-planet.com/anime/bakugan-battle-planet",
             "https://anime-planet.com/anime/bakugan-battle-planet-short-anime",
             "https://anime-planet.com/anime/bakugan-geogan-rising",
+            "https://anisearch.com/anime/14344",
+            "https://anisearch.com/anime/16230",
             "https://kitsu.io/anime/42166",
             "https://kitsu.io/anime/46019",
             "https://livechart.me/anime/10470",
@@ -1347,6 +1353,8 @@
             "https://anime-planet.com/anime/beyblade-burst-dynamite-battle",
             "https://anime-planet.com/anime/beyblade-burst-gachi",
             "https://anime-planet.com/anime/beyblade-burst-god",
+            "https://anisearch.com/anime/14182",
+            "https://anisearch.com/anime/16165",
             "https://kitsu.io/anime/42360",
             "https://kitsu.io/anime/44957",
             "https://livechart.me/anime/10273",
@@ -3778,7 +3786,7 @@
     {
         "sources": [
             "https://anilist.co/anime/139843",
-            "https://anisearch.com/anime/10074",
+            "https://anime-planet.com/anime/harumaki-gohan-himitsu-vocal-ver",
             "https://myanimelist.net/anime/41820"
         ],
         "title": "Himitsu",
@@ -3788,12 +3796,16 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1871/107273.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1871/107273t.jpg",
         "synonyms": [
-            "A crow is white - Himitsu",
+            "Harumaki Gohan: Himitsu (vocal ver.)",
+            "Harumaki Gohan: Secret (vocal ver.)",
             "Secret",
             "秘密"
         ],
-        "relations": [],
+        "relations": [
+            "https://anime-planet.com/anime/harumaki-gohan-himitsu"
+        ],
         "tags": [
+            "fantasy",
             "music"
         ],
         "date": {
@@ -3847,6 +3859,8 @@
             "https://anime-planet.com/anime/hitori-no-shita-the-outcast-4",
             "https://anime-planet.com/anime/hitori-no-shita-the-outcast-fanwai-pian",
             "https://anime-planet.com/anime/hitori-no-shita-the-outcast-recap",
+            "https://anisearch.com/anime/12466",
+            "https://anisearch.com/anime/16652",
             "https://kitsu.io/anime/13885",
             "https://kitsu.io/anime/45264",
             "https://livechart.me/anime/10111",
@@ -3991,6 +4005,7 @@
             "https://notify.moe/anime/NyKYP54Mg"
         ],
         "tags": [
+            "age transformation",
             "alternative world",
             "apprenticeship",
             "based on a light novel",
@@ -4009,6 +4024,7 @@
             "middle ages",
             "modern knowledge",
             "novel",
+            "past memories",
             "person in a strange world",
             "reincarnation",
             "slice of life",
@@ -4247,6 +4263,8 @@
             "https://anime-planet.com/anime/re-vale-re-raise",
             "https://anime-planet.com/anime/trigger-crescent-rise",
             "https://anime-planet.com/anime/zool-bang-bang-bang",
+            "https://anisearch.com/anime/12167",
+            "https://anisearch.com/anime/16035",
             "https://kitsu.io/anime/12558",
             "https://kitsu.io/anime/43514",
             "https://kitsu.io/anime/44314",
@@ -4791,6 +4809,7 @@
             "https://anilist.co/anime/125368",
             "https://anime-planet.com/anime/he-wei-dao-x-kaguya-sama-love-is-war",
             "https://anime-planet.com/anime/kaguya-sama-love-is-war",
+            "https://anime-planet.com/anime/kaguya-sama-love-is-war-new",
             "https://anime-planet.com/anime/kaguya-sama-love-is-war-ova",
             "https://anime-planet.com/anime/kaguya-sama-love-is-war-ultra-romantic",
             "https://anime-planet.com/anime/kaguya-sama-love-is-war-ultra-romantic-pv-yu-ishigami-wants-to-discuss-it",
@@ -5195,7 +5214,9 @@
             "Kikan Gentei Event \"Shinkyū no Tsuku Seika\" Anime Image PV",
             "期間限定イベント「神穹を衝く聖歌」 アニメイメージPV"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/13888"
+        ],
         "tags": [
             "action",
             "alternative world",
@@ -5881,6 +5902,34 @@
             "science fiction",
             "super robot",
             "super robots"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/luminous-witches-pv",
+            "https://anime-planet.com/anime/renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches-pv"
+        ],
+        "title": "Luminous Witches PV",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/luminous-witches-pv-1.jpg?t=1655923829",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/luminous-witches-pv-1-190x269.jpg?t=1655923829",
+        "synonyms": [
+            "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches PV"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/luminous-witches",
+            "https://anime-planet.com/anime/renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches"
+        ],
+        "tags": [
+            "military",
+            "music",
+            "sci fi"
         ],
         "date": {
             "season": "spring",
@@ -7640,14 +7689,8 @@
             "https://anilist.co/anime/132697",
             "https://anime-planet.com/anime/oshiri-tantei-3rd-season",
             "https://anime-planet.com/anime/oshiri-tantei-5th-season",
-            "https://anisearch.com/anime/12517",
-            "https://anisearch.com/anime/15033",
-            "https://anisearch.com/anime/15158",
             "https://anisearch.com/anime/15170",
             "https://anisearch.com/anime/16196",
-            "https://anisearch.com/anime/16243",
-            "https://anisearch.com/anime/16703",
-            "https://anisearch.com/anime/16909",
             "https://livechart.me/anime/10471",
             "https://livechart.me/anime/10522",
             "https://livechart.me/anime/10543",
@@ -7944,7 +7987,7 @@
         "title": "Poketoon",
         "type": "ona",
         "episodes": 8,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1941/117693.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1941/117693t.jpg",
         "synonyms": [
@@ -8287,30 +8330,6 @@
         "tags": [
             "idol",
             "music"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches-pv"
-        ],
-        "title": "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches PV",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches-pv-1.jpg?t=1625908592",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches-pv-1-190x269.jpg?t=1625908592",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches"
-        ],
-        "tags": [
-            "military",
-            "music",
-            "sci fi"
         ],
         "date": {
             "season": "spring",
@@ -8842,6 +8861,8 @@
             "https://anidb.net/anime/4976",
             "https://anilist.co/anime/2168",
             "https://anime-planet.com/anime/sakura-wars-tv",
+            "https://anisearch.com/anime/15660",
+            "https://anisearch.com/anime/4075",
             "https://kitsu.io/anime/518",
             "https://livechart.me/anime/1013",
             "https://livechart.me/anime/5833",
@@ -9010,6 +9031,7 @@
             "https://anime-planet.com/anime/food-wars-the-second-plate",
             "https://anime-planet.com/anime/food-wars-the-third-plate",
             "https://anime-planet.com/anime/food-wars-the-third-plate-totsuki-train-arc",
+            "https://anisearch.com/anime/14440",
             "https://kitsu.io/anime/42390",
             "https://livechart.me/anime/1275",
             "https://livechart.me/anime/1735",
@@ -10006,7 +10028,9 @@
         "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15744.webp",
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15744.webp",
         "synonyms": [],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/14727"
+        ],
         "tags": [
             "cg-anime",
             "comedy"
@@ -10475,6 +10499,7 @@
             "https://anidb.net/anime/14783",
             "https://anilist.co/anime/115142",
             "https://anime-planet.com/anime/watanuki-san-chi-no",
+            "https://anisearch.com/anime/14325",
             "https://kitsu.io/anime/42409",
             "https://livechart.me/anime/9828",
             "https://myanimelist.net/anime/39668",
@@ -11346,6 +11371,8 @@
             "https://anime-planet.com/anime/yu-gi-oh-gx",
             "https://anime-planet.com/anime/yu-gi-oh-vrains",
             "https://anime-planet.com/anime/yu-gi-oh-zexal",
+            "https://anisearch.com/anime/12209",
+            "https://anisearch.com/anime/16995",
             "https://kitsu.io/anime/13189",
             "https://kitsu.io/anime/45605",
             "https://livechart.me/anime/1009",

@@ -1151,6 +1151,7 @@
             "https://anime-planet.com/anime/ba-la-la-xiao-mo-xian-zhi-meng-huan-xuan-lu",
             "https://anime-planet.com/anime/ba-la-la-xiao-mo-xian-zhi-mofa-hai-ying-bao",
             "https://anime-planet.com/anime/ba-la-la-xiao-mo-xian-zhi-qiji-wubu",
+            "https://anisearch.com/anime/11340",
             "https://kitsu.io/anime/11600",
             "https://myanimelist.net/anime/31965",
             "https://notify.moe/anime/-jljtKmmR"
@@ -1328,7 +1329,9 @@
             "Beelzebub: Hashire! Bēlbō Deka!!",
             "べるぜバブ 走れ！ベル坊刑事[デカ]！！"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/6485"
+        ],
         "tags": [
             "comedy",
             "contemporary fantasy",
@@ -2482,11 +2485,16 @@
             "https://notify.moe/anime/Tbh4pKmmg"
         ],
         "tags": [
+            "4-koma",
             "aliens",
             "amnesia",
             "asia",
             "baseball",
             "based on a light novel",
+            "battle royale",
+            "body swapping",
+            "boxing",
+            "boys' love",
             "chibi",
             "chuunibyou",
             "comedy",
@@ -2697,6 +2705,8 @@
             "https://anime-planet.com/anime/detective-conan-the-raven-chaser",
             "https://anime-planet.com/anime/detective-conan-the-time-bombed-skyscraper",
             "https://anime-planet.com/anime/detective-conan-zekkai-no-private-eye",
+            "https://anisearch.com/anime/1721",
+            "https://anisearch.com/anime/7038",
             "https://kitsu.io/anime/210",
             "https://kitsu.io/anime/6226",
             "https://livechart.me/anime/319",
@@ -2811,6 +2821,7 @@
             "https://anime-planet.com/anime/detective-conan-vs-wooo",
             "https://anime-planet.com/anime/lupin-the-3rd-special-21-lupin-the-third-vs-detective-conan",
             "https://anime-planet.com/anime/the-disappearance-of-conan-edogawa-the-worst-two-days-in-history",
+            "https://anisearch.com/anime/1721",
             "https://kitsu.io/anime/210",
             "https://livechart.me/anime/319",
             "https://livechart.me/anime/4579",
@@ -2902,6 +2913,7 @@
             "https://anime-planet.com/anime/detective-conan-the-target-is-kogoro",
             "https://anime-planet.com/anime/lupin-the-3rd-special-21-lupin-the-third-vs-detective-conan",
             "https://anime-planet.com/anime/the-disappearance-of-conan-edogawa-the-worst-two-days-in-history",
+            "https://anisearch.com/anime/1721",
             "https://kitsu.io/anime/210",
             "https://livechart.me/anime/319",
             "https://livechart.me/anime/4579",
@@ -3682,7 +3694,9 @@
             "Фуджілог",
             "フジログ"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/12368"
+        ],
         "tags": [
             "comedy",
             "new",
@@ -9188,6 +9202,7 @@
             "https://anilist.co/anime/10796",
             "https://anime-planet.com/anime/softenni-specials",
             "https://kitsu.io/anime/6351",
+            "https://livechart.me/anime/5901",
             "https://myanimelist.net/anime/10796",
             "https://notify.moe/anime/tLU4pFimg"
         ],
@@ -10129,6 +10144,12 @@
             "https://anime-planet.com/anime/tiger-and-bunny-the-movie-the-beginning",
             "https://anime-planet.com/anime/tiger-and-bunny-the-movie-the-rising",
             "https://anime-planet.com/anime/tiger-and-bunny-too-many-cooks-spoil-the-broth",
+            "https://anisearch.com/anime/11116",
+            "https://anisearch.com/anime/11274",
+            "https://anisearch.com/anime/13218",
+            "https://anisearch.com/anime/16014",
+            "https://anisearch.com/anime/16015",
+            "https://anisearch.com/anime/7439",
             "https://kitsu.io/anime/10704",
             "https://kitsu.io/anime/10901",
             "https://kitsu.io/anime/41075",
@@ -11333,6 +11354,7 @@
     {
         "sources": [
             "https://anilist.co/anime/112155",
+            "https://anime-planet.com/anime/nem-yumekui-shirokuro-baku",
             "https://kitsu.io/anime/41826",
             "https://myanimelist.net/anime/37609"
         ],
@@ -11345,6 +11367,8 @@
         "synonyms": [
             "Dream Eating Monochrome Baku",
             "Dream-Eating Monochrome Baku",
+            "Nem: Baku, The Monochrome Dream-Eater",
+            "Nem: Yumekui Shirokuro Baku",
             "The Monochrome Dream-Eater",
             "夢喰い白黒バク"
         ],
@@ -11357,7 +11381,8 @@
             "demon",
             "music",
             "mythology",
-            "supernatural"
+            "supernatural",
+            "vocaloid"
         ],
         "date": {
             "season": "spring",

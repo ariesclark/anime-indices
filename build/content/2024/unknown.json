@@ -52,6 +52,7 @@
             "https://anidb.net/anime/13207",
             "https://anilist.co/anime/150429",
             "https://anime-planet.com/anime/hibike-euphonium-ensemble-contest-hen",
+            "https://anisearch.com/anime/17430",
             "https://kitsu.io/anime/11474",
             "https://livechart.me/anime/11239",
             "https://livechart.me/anime/1267",
@@ -107,7 +108,9 @@
             "Mobile Suit Gundam Hathaway 2",
             "機動戦士ガンダム 閃光のハサウェイ サン オブ ブライト"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/13580"
+        ],
         "tags": [
             "action",
             "action drama",

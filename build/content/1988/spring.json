@@ -79,6 +79,9 @@
             "https://anilist.co/anime/17090",
             "https://anime-planet.com/anime/agigongryong-doolie",
             "https://anime-planet.com/anime/agigongryong-dooly-aeouleumbyuldaemohum",
+            "https://anisearch.com/anime/5530",
+            "https://anisearch.com/anime/8774",
+            "https://anisearch.com/anime/8835",
             "https://kitsu.io/anime/7463",
             "https://kitsu.io/anime/7578",
             "https://kitsu.io/anime/7579",
@@ -643,6 +646,7 @@
             "https://anilist.co/anime/2181",
             "https://anime-planet.com/anime/new-dominion-tank-police",
             "https://anime-planet.com/anime/tank-swat-01",
+            "https://anisearch.com/anime/1548",
             "https://kitsu.io/anime/1033",
             "https://kitsu.io/anime/1975",
             "https://myanimelist.net/anime/1152",
@@ -1361,7 +1365,9 @@
             "Mobile Suit SD Gundam Mk. I Special",
             "機動戦士SDガンダム 決戦編 SDオリンピック！ スタジアム・笑いに染めて"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/3388"
+        ],
         "tags": [
             "action",
             "comedy",
@@ -1994,6 +2000,34 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/sekai-meisaku-video-ehon",
+            "https://myanimelist.net/anime/52047"
+        ],
+        "title": "Sekai Meisaku Video Ehon",
+        "type": "ova",
+        "episodes": 50,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1015/124361.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1015/124361t.jpg",
+        "synonyms": [
+            "世界名作ビデオ絵本"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/52029"
+        ],
+        "tags": [
+            "family friendly",
+            "fantasy",
+            "kids",
+            "short episodes"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 1988
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/shin-manga-naruhodo-monogatari",
             "https://kitsu.io/anime/41201",
             "https://myanimelist.net/anime/37714",
@@ -2311,6 +2345,9 @@
             "https://anilist.co/anime/4616",
             "https://anime-planet.com/anime/topo-gigio-no-botan-sensou",
             "https://anime-planet.com/anime/yumemiru-topo-gigio",
+            "https://anisearch.com/anime/4152",
+            "https://anisearch.com/anime/7800",
+            "https://anisearch.com/anime/7815",
             "https://kitsu.io/anime/3713",
             "https://myanimelist.net/anime/4616",
             "https://notify.moe/anime/_ez95KmiR"

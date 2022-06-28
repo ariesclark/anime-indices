@@ -31,6 +31,7 @@
             "https://anilist.co/anime/1533",
             "https://anime-planet.com/anime/wedding-peach",
             "https://anime-planet.com/anime/wedding-peach-dx",
+            "https://anisearch.com/anime/1279",
             "https://kitsu.io/anime/1374",
             "https://myanimelist.net/anime/1533",
             "https://notify.moe/anime/9K0acKmmg"
@@ -180,6 +181,7 @@
             "https://anidb.net/anime/3078",
             "https://anilist.co/anime/1893",
             "https://anime-planet.com/anime/azuki-chan",
+            "https://anisearch.com/anime/1691",
             "https://kitsu.io/anime/1703",
             "https://myanimelist.net/anime/1893",
             "https://notify.moe/anime/vZCfcFmiR"
@@ -1082,7 +1084,9 @@
         "synonyms": [
             "돌아온 영웅 홍길동"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/8752"
+        ],
         "tags": [],
         "date": {
             "season": "fall",
@@ -1140,6 +1144,8 @@
             "同級生　クライマックス"
         ],
         "relations": [
+            "https://anisearch.com/anime/2610",
+            "https://anisearch.com/anime/361",
             "https://myanimelist.net/anime/3558",
             "https://myanimelist.net/anime/4842"
         ],
@@ -1835,7 +1841,6 @@
             "manga",
             "opposites attract",
             "present",
-            "promotional",
             "romance",
             "romantic comedy",
             "school",
@@ -2832,7 +2837,9 @@
         "synonyms": [
             "それいけ！アンパンマン クリスマススペシャル"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/4578"
+        ],
         "tags": [
             "comedy"
         ],

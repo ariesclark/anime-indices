@@ -403,6 +403,7 @@
             "https://anime-planet.com/anime/the-doraemons-kaitou-dorapan-nazo-no-chousenjou",
             "https://anime-planet.com/anime/the-doraemons-mushimushi-pyonpyon-daisakusen",
             "https://anime-planet.com/anime/the-doraemons-strange-sweets-strange",
+            "https://anisearch.com/anime/540",
             "https://livechart.me/anime/6880",
             "https://livechart.me/anime/7693",
             "https://livechart.me/anime/7728",
@@ -485,6 +486,7 @@
             "https://anidb.net/anime/1925",
             "https://anilist.co/anime/2222",
             "https://anime-planet.com/anime/dr-slump-arale-chan",
+            "https://anisearch.com/anime/2134",
             "https://kitsu.io/anime/2013",
             "https://livechart.me/anime/10983",
             "https://livechart.me/anime/10990",
@@ -1046,7 +1048,10 @@
         "synonyms": [
             "新・ど根性ガエル"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/4055",
+            "https://anisearch.com/anime/4057"
+        ],
         "tags": [
             "adventure",
             "comedy",

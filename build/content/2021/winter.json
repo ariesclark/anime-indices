@@ -653,7 +653,7 @@
             "https://anidb.net/anime/17123",
             "https://anilist.co/anime/144852",
             "https://anime-planet.com/anime/baby-in-charge-2nd-season",
-            "https://anime-planet.com/anime/baby-in-charge-3rd-season",
+            "https://anisearch.com/anime/17112",
             "https://kitsu.io/anime/45994",
             "https://livechart.me/anime/11020",
             "https://livechart.me/anime/11148",
@@ -1102,6 +1102,8 @@
             "https://anilist.co/anime/139752",
             "https://anime-planet.com/anime/azur-lane",
             "https://anime-planet.com/anime/azur-lane-slow-ahead-hokorashiki-bokou-ni-shukusai-wo",
+            "https://anisearch.com/anime/13888",
+            "https://anisearch.com/anime/17054",
             "https://kitsu.io/anime/42420",
             "https://livechart.me/anime/10656",
             "https://livechart.me/anime/3512",
@@ -1306,6 +1308,7 @@
         "relations": [
             "https://anilist.co/anime/108725",
             "https://anilist.co/anime/125868",
+            "https://anime-planet.com/anime/night-head-2041",
             "https://anime-planet.com/anime/the-promised-neverland-2nd-season",
             "https://kitsu.io/anime/42220"
         ],
@@ -1491,6 +1494,10 @@
             "https://anime-planet.com/anime/beastars-final-season",
             "https://anime-planet.com/anime/yoasobi-kaibutsu",
             "https://anime-planet.com/anime/yoasobi-yasashii-suisei",
+            "https://anisearch.com/anime/14153",
+            "https://anisearch.com/anime/15903",
+            "https://anisearch.com/anime/16107",
+            "https://anisearch.com/anime/16524",
             "https://kitsu.io/anime/42147",
             "https://kitsu.io/anime/44914",
             "https://kitsu.io/anime/44933",
@@ -2176,14 +2183,14 @@
         "tags": [
             "action",
             "adventure",
-            "anime influenced",
-            "anthropomorphism",
             "comedy",
             "fantasy",
             "fantasy world",
-            "kids",
             "magic",
-            "war"
+            "music",
+            "plot continuity",
+            "slapstick",
+            "swordplay"
         ],
         "date": {
             "season": "winter",
@@ -3480,6 +3487,7 @@
             "https://anime-planet.com/anime/fire-force",
             "https://anime-planet.com/anime/fire-force-2nd-season",
             "https://kitsu.io/anime/42068",
+            "https://livechart.me/anime/11222",
             "https://livechart.me/anime/8355",
             "https://livechart.me/anime/9746",
             "https://myanimelist.net/anime/38671",
@@ -3590,11 +3598,6 @@
             "https://anime-planet.com/anime/evangelion-3-0-you-can-not-redo",
             "https://anime-planet.com/anime/evangelion-shito-hakata-shuurai",
             "https://anime-planet.com/anime/neon-genesis-evangelion",
-            "https://anisearch.com/anime/1301",
-            "https://anisearch.com/anime/2877",
-            "https://anisearch.com/anime/345",
-            "https://anisearch.com/anime/3879",
-            "https://anisearch.com/anime/4678",
             "https://anisearch.com/anime/4679",
             "https://kitsu.io/anime/21",
             "https://kitsu.io/anime/3251",
@@ -4494,6 +4497,7 @@
         ],
         "relations": [
             "https://anilist.co/anime/97861",
+            "https://anisearch.com/anime/9580",
             "https://myanimelist.net/anime/23539"
         ],
         "tags": [
@@ -7749,6 +7753,7 @@
             "https://anilist.co/anime/115651",
             "https://anime-planet.com/anime/sorcerous-stabber-orphen",
             "https://anime-planet.com/anime/sorcerous-stabber-orphen-celestial-artifacts",
+            "https://anisearch.com/anime/15152",
             "https://kitsu.io/anime/42329",
             "https://kitsu.io/anime/43117",
             "https://livechart.me/anime/3180",
@@ -8178,6 +8183,7 @@
             "https://anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-eris-the-goblin-slayer",
             "https://anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-part-ii",
             "https://anime-planet.com/anime/mushoku-tensei-jobless-reincarnation-pv",
+            "https://anisearch.com/anime/15862",
             "https://kitsu.io/anime/43907",
             "https://livechart.me/anime/10297",
             "https://livechart.me/anime/10886",
@@ -8767,7 +8773,6 @@
             "崩坏3 女武神的餐桌 II 新春SP"
         ],
         "relations": [
-            "https://anisearch.com/anime/14586",
             "https://anisearch.com/anime/15397"
         ],
         "tags": [
@@ -8880,6 +8885,7 @@
             "https://anilist.co/anime/128367",
             "https://anilist.co/anime/131708",
             "https://anime-planet.com/anime/doki-doki-mini-mini-kakushi-dungeon-gekijou",
+            "https://anisearch.com/anime/15919",
             "https://kitsu.io/anime/44295",
             "https://livechart.me/anime/10296",
             "https://myanimelist.net/anime/45658",
@@ -9290,6 +9296,7 @@
     {
         "sources": [
             "https://anime-planet.com/anime/pokemon-tachi-to-asobou",
+            "https://kitsu.io/anime/46212",
             "https://myanimelist.net/anime/51886"
         ],
         "title": "Pokemon-tachi to Asobou!",
@@ -9305,6 +9312,7 @@
             "ポケモンたちとあそぼう!"
         ],
         "relations": [
+            "https://kitsu.io/anime/486",
             "https://myanimelist.net/anime/527"
         ],
         "tags": [
@@ -9446,7 +9454,10 @@
         "synonyms": [
             "プリンセス・プリンシパル Crown Handler"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/12338",
+            "https://anisearch.com/anime/17318"
+        ],
         "tags": [
             "action",
             "adventure",
@@ -9620,9 +9631,11 @@
             "Pui-pui ! Rongeurs à moteur"
         ],
         "relations": [
+            "https://anidb.net/anime/17433",
             "https://anilist.co/anime/150188",
             "https://anime-planet.com/anime/pui-pui-molcar-new",
             "https://anime-planet.com/anime/tobidase-narase-pui-pui-molcar",
+            "https://anisearch.com/anime/17461",
             "https://kitsu.io/anime/44683",
             "https://kitsu.io/anime/46156",
             "https://livechart.me/anime/11237",
@@ -9770,6 +9783,7 @@
         "relations": [
             "https://anilist.co/anime/119661",
             "https://anilist.co/anime/120700",
+            "https://anisearch.com/anime/15370",
             "https://livechart.me/anime/10009",
             "https://livechart.me/anime/10055",
             "https://livechart.me/anime/10091",
@@ -10334,6 +10348,7 @@
             "https://anime-planet.com/anime/saezuru-doubutsu-wa-yarushikanai",
             "https://anime-planet.com/anime/saezuru-tori-wa-habatakanai-the-storm-breaks",
             "https://anime-planet.com/anime/twittering-birds-never-fly-the-clouds-gather",
+            "https://anisearch.com/anime/14374",
             "https://kitsu.io/anime/42295",
             "https://livechart.me/anime/9425",
             "https://livechart.me/anime/9630",
@@ -10450,6 +10465,7 @@
             "https://anidb.net/anime/14946",
             "https://anilist.co/anime/16381",
             "https://anime-planet.com/anime/santa-company-christmas-no-himitsu",
+            "https://anisearch.com/anime/14459",
             "https://kitsu.io/anime/42522",
             "https://livechart.me/anime/352",
             "https://livechart.me/anime/9463",
@@ -12217,6 +12233,9 @@
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-season-2-veldoras-journal",
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-veldoras-journal",
             "https://anime-planet.com/anime/the-slime-diaries-that-time-i-got-reincarnated-as-a-slime",
+            "https://anisearch.com/anime/13436",
+            "https://anisearch.com/anime/15098",
+            "https://anisearch.com/anime/16435",
             "https://kitsu.io/anime/41024",
             "https://kitsu.io/anime/43361",
             "https://kitsu.io/anime/43897",
@@ -14831,6 +14850,8 @@
             "https://anime-planet.com/anime/yamishibai-japanese-ghost-stories-6th-season",
             "https://anime-planet.com/anime/yamishibai-japanese-ghost-stories-7th-season",
             "https://anime-planet.com/anime/yamishibai-japanese-ghost-stories-9th-season",
+            "https://anisearch.com/anime/14417",
+            "https://anisearch.com/anime/16352",
             "https://kitsu.io/anime/42359",
             "https://kitsu.io/anime/44664",
             "https://livechart.me/anime/10023",
@@ -15164,37 +15185,7 @@
         "sources": [
             "https://anilist.co/anime/130911",
             "https://anime-planet.com/anime/yusei-high-school-astronomy-club",
-            "https://livechart.me/anime/10461"
-        ],
-        "title": "Yusei High School Astronomy Club",
-        "type": "ona",
-        "episodes": 20,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/yusei-high-school-astronomy-club-1.jpg?t=1625908863",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/yusei-high-school-astronomy-club-1-190x266.jpg?t=1625908863",
-        "synonyms": [
-            "Yuusei Koukou Tenmon-bu",
-            "遊星高校 天文部"
-        ],
-        "relations": [],
-        "tags": [
-            "astronomy",
-            "chibi",
-            "cute boys doing cute things",
-            "primarily male cast",
-            "school",
-            "school club",
-            "school life",
-            "short episodes",
-            "slice of life"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
+            "https://livechart.me/anime/10461",
             "https://myanimelist.net/anime/48628"
         ],
         "title": "Yuusei Koukou Tenmonbu",
@@ -15205,12 +15196,20 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1333/113884t.jpg",
         "synonyms": [
             "Yusei High School Astronomy Club",
+            "Yuusei Koukou Tenmon-bu",
             "遊星高校 天文部"
         ],
         "relations": [],
         "tags": [
+            "astronomy",
+            "chibi",
             "comedy",
+            "cute boys doing cute things",
+            "primarily male cast",
             "school",
+            "school club",
+            "school life",
+            "short episodes",
             "slice of life"
         ],
         "date": {

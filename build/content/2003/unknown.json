@@ -42,6 +42,35 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/chaoji-qiumi",
+            "https://myanimelist.net/anime/43876",
+            "https://myanimelist.net/anime/52210"
+        ],
+        "title": "Chaoji Qiumi",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1624/124798.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1624/124798t.jpg",
+        "synonyms": [
+            "Super Fans",
+            "超级球迷"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "comedy",
+            "kids",
+            "sports",
+            "team sports"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2003
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/chibi-maruko-chan-hi-no-youjin",
             "https://anisearch.com/anime/16276",
             "https://kitsu.io/anime/40699",
@@ -128,6 +157,30 @@
             "chinese animation",
             "comedy",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2003
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/da-yingxiong-di-qing"
+        ],
+        "title": "Da Yingxiong Di Qing",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/da-yingxiong-di-qing-1.webp?t=1656300298",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/da-yingxiong-di-qing-1-285x399.webp?t=1656300298",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "action",
+            "adventure",
+            "chinese animation",
+            "drama",
+            "historical"
         ],
         "date": {
             "season": "unknown",
