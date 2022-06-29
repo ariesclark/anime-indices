@@ -2671,7 +2671,9 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16155",
             "https://anilist.co/anime/139325",
+            "https://anime-planet.com/anime/zutomayo-dear-mr-f",
             "https://myanimelist.net/anime/41630"
         ],
         "title": "Dear. Mr \"F\"",
@@ -2681,7 +2683,10 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1219/106917.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1219/106917t.jpg",
         "synonyms": [
-            "Dear. Mr「F」"
+            "Dear. Mr「F」",
+            "Zutomayo: Dear. Mr \"F\"",
+            "Zutto Mayonaka de Iinoni.: Dear Mr. F",
+            "ずっと真夜中でいいのに。『Dear. Mr「F」』"
         ],
         "relations": [
             "https://anilist.co/anime/131755"
@@ -14374,26 +14379,6 @@
             "sci-fi",
             "science fiction"
         ],
-        "date": {
-            "season": "fall",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16155"
-        ],
-        "title": "Zutto Mayonaka de Iinoni.: Dear Mr. F",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/258629.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/258629.jpg-thumb.jpg",
-        "synonyms": [
-            "ずっと真夜中でいいのに。『Dear. Mr「F」』"
-        ],
-        "relations": [],
-        "tags": [],
         "date": {
             "season": "fall",
             "year": 2019

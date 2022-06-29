@@ -14851,38 +14851,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/129634",
-            "https://kitsu.io/anime/44069"
-        ],
-        "title": "Zhandou Ba Geji! 1",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44069/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44069/tiny.jpg",
-        "synonyms": [
-            "Fighting Singer 1",
-            "ReVdol! -VIRTUAL IDOLS NEXT TO YOU- 1",
-            "リブドル！ 1",
-            "战斗吧歌姬！第一季"
-        ],
-        "relations": [
-            "https://anilist.co/anime/129633",
-            "https://anilist.co/anime/129635",
-            "https://kitsu.io/anime/44068",
-            "https://kitsu.io/anime/44070"
-        ],
-        "tags": [
-            "idol",
-            "music"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/zhandou-wang-zhi-jufeng-zhan-hun-5",
             "https://myanimelist.net/anime/42468"
         ],
@@ -14915,6 +14883,9 @@
     {
         "sources": [
             "https://anidb.net/anime/15226",
+            "https://anilist.co/anime/129634",
+            "https://anime-planet.com/anime/zhandou-ba-geji",
+            "https://kitsu.io/anime/44069",
             "https://myanimelist.net/anime/42513"
         ],
         "title": "Zhandouban Geji!",
@@ -14924,23 +14895,40 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1827/116713.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1827/116713t.jpg",
         "synonyms": [
+            "Fighting Singer 1",
             "Fighting Singers!",
             "ReVdol!",
+            "ReVdol! -VIRTUAL IDOLS NEXT TO YOU- 1",
             "Virtual Idols Next to You!",
+            "Zhandou Ba Geji!",
+            "Zhandou Ba Geji! 1",
             "Zhandouban Geji! Di Yi Ji",
-            "战斗吧歌姬！ 第一季"
+            "リブドル！ 1",
+            "战斗吧歌姬！ 第一季",
+            "战斗吧歌姬！第一季"
         ],
         "relations": [
             "https://anidb.net/anime/15227",
             "https://anidb.net/anime/15228",
+            "https://anilist.co/anime/129633",
+            "https://anilist.co/anime/129635",
+            "https://anime-planet.com/anime/zhandou-ba-geji-0",
+            "https://anime-planet.com/anime/zhandou-ba-geji-2nd-season",
+            "https://anime-planet.com/anime/zhandou-ba-geji-shanyao-de-richang",
+            "https://kitsu.io/anime/44068",
+            "https://kitsu.io/anime/44070",
             "https://myanimelist.net/anime/47728",
             "https://myanimelist.net/anime/48851",
             "https://myanimelist.net/anime/48852"
         ],
         "tags": [
+            "chinese animation",
             "comedy",
+            "idol",
+            "idols",
             "idols (female)",
             "music",
+            "short episodes",
             "slice of life"
         ],
         "date": {
@@ -15240,6 +15228,34 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16148",
+            "https://anilist.co/anime/119992",
+            "https://anime-planet.com/anime/zutomayo-nouriue-no-cracker"
+        ],
+        "title": "Zutomayo: Nouriue no Cracker",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/zutomayo-nouriue-no-cracker-1.jpg?t=1625908872",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/zutomayo-nouriue-no-cracker-1-190x266.jpg?t=1625908872",
+        "synonyms": [
+            "Nouri Ue no Cracker",
+            "The Cracker on the Back of My Mind",
+            "Zutto Mayonaka de Iinoni.: Nouriue no Cracker",
+            "ずっと真夜中でいいのに。『脳裏上のクラッカー』",
+            "脳裏上のクラッカー"
+        ],
+        "relations": [
+            "https://anilist.co/anime/131755"
+        ],
+        "tags": [],
+        "date": {
+            "season": "fall",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16149"
         ],
         "title": "Zutto Mayonaka de Iinoni.: Humanoid",
@@ -15250,26 +15266,6 @@
         "thumbnail": "https://cdn.anidb.net/images/main/258622.jpg-thumb.jpg",
         "synonyms": [
             "ずっと真夜中でいいのに。『ヒューマノイド』"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16148"
-        ],
-        "title": "Zutto Mayonaka de Iinoni.: Nouriue no Cracker",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/258621.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/258621.jpg-thumb.jpg",
-        "synonyms": [
-            "ずっと真夜中でいいのに。『脳裏上のクラッカー』"
         ],
         "relations": [],
         "tags": [],

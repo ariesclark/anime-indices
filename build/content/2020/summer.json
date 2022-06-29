@@ -6233,7 +6233,9 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16142",
             "https://anilist.co/anime/121234",
+            "https://anime-planet.com/anime/zutomayo-milabo",
             "https://myanimelist.net/anime/44254"
         ],
         "title": "Milabo",
@@ -6243,7 +6245,10 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1977/110478.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1977/110478t.jpg",
         "synonyms": [
-            "MILABO"
+            "MILABO",
+            "Zutomayo: MILABO",
+            "Zutto Mayonaka de Iinoni.: Milabo",
+            "ずっと真夜中でいいのに。『MILABO』"
         ],
         "relations": [
             "https://anilist.co/anime/131755"
@@ -10129,7 +10134,9 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16157",
             "https://anilist.co/anime/121867",
+            "https://anime-planet.com/anime/zutomayo-teiketsu-bolt",
             "https://myanimelist.net/anime/42526"
         ],
         "title": "Teiketsu Bolt",
@@ -10141,12 +10148,19 @@
         "synonyms": [
             "FASTENING",
             "Teichi Bolt",
+            "Zutomayo: FASTENING",
+            "Zutomayo: Teiketsu Bolt",
+            "Zutto Mayonaka de Iinoni.: Fastening",
+            "Zutto Mayonaka de Iinoni.: Tei Chi Boruto",
+            "ずっと真夜中でいいのに。『低血ボルト』",
             "低血ボルト"
         ],
         "relations": [
             "https://anilist.co/anime/131755"
         ],
         "tags": [
+            "action",
+            "fantasy",
             "music"
         ],
         "date": {
@@ -11919,47 +11933,6 @@
         "thumbnail": "https://cdn.anidb.net/images/main/258632.jpg-thumb.jpg",
         "synonyms": [
             "ずっと真夜中でいいのに。『Ham』"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "summer",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16142"
-        ],
-        "title": "Zutto Mayonaka de Iinoni.: Milabo",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/258614.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/258614.jpg-thumb.jpg",
-        "synonyms": [
-            "ずっと真夜中でいいのに。『MILABO』"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "summer",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16157"
-        ],
-        "title": "Zutto Mayonaka de Iinoni.: Tei Chi Boruto",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/258631.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/258631.jpg-thumb.jpg",
-        "synonyms": [
-            "Zutto Mayonaka de Iinoni.: Fastening",
-            "ずっと真夜中でいいのに。『低血ボルト』"
         ],
         "relations": [],
         "tags": [],

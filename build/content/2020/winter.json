@@ -10820,6 +10820,8 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16156",
+            "https://anime-planet.com/anime/zutomayo-saturn",
             "https://myanimelist.net/anime/51050"
         ],
         "title": "Saturn",
@@ -10829,11 +10831,17 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1557/120990.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1557/120990t.jpg",
         "synonyms": [
+            "Zutomayo: Saturn",
+            "Zutto Mayonaka de Iinoni.: Saturn",
+            "ずっと真夜中でいいのに。『サターン』",
             "サターン"
         ],
         "relations": [],
         "tags": [
+            "animal protagonists",
             "music",
+            "non-human protagonists",
+            "outer space",
             "space"
         ],
         "date": {
@@ -13023,6 +13031,7 @@
     {
         "sources": [
             "https://anilist.co/anime/116780",
+            "https://anime-planet.com/anime/yorushika-yakou",
             "https://kitsu.io/anime/43419",
             "https://myanimelist.net/anime/41768"
         ],
@@ -13034,11 +13043,16 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1710/108066t.jpg",
         "synonyms": [
             "Night Journey",
+            "Yorushika: Night Journey",
+            "Yorushika: Yakou",
             "夜行"
         ],
-        "relations": [],
+        "relations": [
+            "https://anime-planet.com/anime/a-whisker-away"
+        ],
         "tags": [
-            "music"
+            "music",
+            "romance"
         ],
         "date": {
             "season": "winter",
@@ -13498,26 +13512,6 @@
             "avant garde",
             "music"
         ],
-        "date": {
-            "season": "winter",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16156"
-        ],
-        "title": "Zutto Mayonaka de Iinoni.: Saturn",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/258630.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/258630.jpg-thumb.jpg",
-        "synonyms": [
-            "ずっと真夜中でいいのに。『サターン』"
-        ],
-        "relations": [],
-        "tags": [],
         "date": {
             "season": "winter",
             "year": 2020

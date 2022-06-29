@@ -1507,32 +1507,6 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/13799",
-            "https://kitsu.io/anime/41924"
-        ],
-        "title": "Byoushin o kamu",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/41924/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/41924/tiny.jpg",
-        "synonyms": [
-            "Byoushin o Kamu",
-            "Byoushin wo Kamu",
-            "Byōshin o Kamu",
-            "秒針を噛む"
-        ],
-        "relations": [],
-        "tags": [
-            "music"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://kitsu.io/anime/41409"
         ],
         "title": "CRYSTAR",
@@ -15439,6 +15413,40 @@
             "ganbatte",
             "slapstick",
             "soccer"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/119943",
+            "https://anime-planet.com/anime/zutomayo-byoushin-wo-kamu",
+            "https://anisearch.com/anime/13799",
+            "https://kitsu.io/anime/41924"
+        ],
+        "title": "Zutomayo: Byoushin wo Kamu",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/zutomayo-byoushin-wo-kamu-1.jpg?t=1625908352",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/zutomayo-byoushin-wo-kamu-1-190x266.jpg?t=1625908352",
+        "synonyms": [
+            "Bite the Second Hand",
+            "Byoushin o Kamu",
+            "Byoushin o kamu",
+            "Byoushin wo Kamu",
+            "Byōshin o Kamu",
+            "Gnaw at the Second Hand",
+            "秒針を噛む"
+        ],
+        "relations": [
+            "https://anilist.co/anime/131755"
+        ],
+        "tags": [
+            "abstract",
+            "music"
         ],
         "date": {
             "season": "summer",
