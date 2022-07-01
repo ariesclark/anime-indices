@@ -1465,6 +1465,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/150466",
             "https://anime-planet.com/anime/the-starry-night",
             "https://myanimelist.net/anime/50244"
         ],
@@ -1475,11 +1476,13 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1246/119026.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1246/119026t.jpg",
         "synonyms": [
+            "Byeori Binnaneun Bame",
             "The Starry Night",
             "별이 빛나는 밤에"
         ],
         "relations": [],
         "tags": [
+            "drama",
             "korean animation",
             "no dialogue",
             "original work",
@@ -1494,20 +1497,27 @@
     {
         "sources": [
             "https://anilist.co/anime/114757",
-            "https://kitsu.io/anime/44660"
+            "https://anime-planet.com/anime/candy-zip",
+            "https://kitsu.io/anime/44660",
+            "https://myanimelist.net/anime/49977"
         ],
         "title": "Candy.zip",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44660/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44660/tiny.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1483/118391.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1483/118391t.jpg",
         "synonyms": [],
         "relations": [],
         "tags": [
+            "award winning",
+            "drama",
             "no dialogue",
             "psychological",
-            "stop motion"
+            "shorts",
+            "stop motion",
+            "stop motion animation",
+            "work life"
         ],
         "date": {
             "season": "winter",

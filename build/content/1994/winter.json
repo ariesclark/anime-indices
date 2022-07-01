@@ -180,22 +180,27 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/12335"
+            "https://anime-planet.com/anime/burutabu-chan",
+            "https://kitsu.io/anime/12335",
+            "https://myanimelist.net/anime/32237",
+            "https://notify.moe/anime/3dikhKimg"
         ],
         "title": "Burutabu-chan",
         "type": "tv",
         "episodes": 3,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/12335/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/12335/tiny.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/2/79324.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/2/79324t.jpg",
         "synonyms": [
             "ぶるたぶちゃん"
         ],
         "relations": [],
         "tags": [
             "comedy",
+            "crude",
             "fantasy",
-            "magic"
+            "magic",
+            "short episodes"
         ],
         "date": {
             "season": "winter",

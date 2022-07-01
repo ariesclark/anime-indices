@@ -468,7 +468,31 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/dou-ding-de-kuaile-riji",
+            "https://anime-planet.com/anime/dou-ding-de-kuaile-riji"
+        ],
+        "title": "Dou Ding De Kuaile Riji",
+        "type": "tv",
+        "episodes": 54,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/dou-ding-de-kuaile-riji-1.webp?t=1651692448",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/dou-ding-de-kuaile-riji-1-249x350.webp?t=1651692448",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/dou-ding-de-kuaile-riji-2"
+        ],
+        "tags": [
+            "chibi",
+            "chinese animation",
+            "family friendly",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/45978"
         ],
         "title": "Dou Ding De Kuaile Riji",
@@ -480,16 +504,10 @@
         "synonyms": [
             "豆丁的快乐日记"
         ],
-        "relations": [
-            "https://anime-planet.com/anime/dou-ding-de-kuaile-riji-2"
-        ],
+        "relations": [],
         "tags": [
-            "chibi",
-            "chinese animation",
             "comedy",
-            "family friendly",
-            "kids",
-            "short episodes"
+            "kids"
         ],
         "date": {
             "season": "unknown",

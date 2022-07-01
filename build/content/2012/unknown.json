@@ -189,6 +189,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/129382",
             "https://anime-planet.com/anime/baobei-nuer-hao-mama-kuaile-de-jiating",
             "https://myanimelist.net/anime/44016"
         ],
@@ -199,9 +200,12 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1880/122862.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1880/122862t.jpg",
         "synonyms": [
+            "Baobei Nüer Hao Mama: Kuaile de Jiating",
             "宝贝女儿好妈妈之快乐的家庭"
         ],
         "relations": [
+            "https://anilist.co/anime/129381",
+            "https://anilist.co/anime/129383",
             "https://anime-planet.com/anime/baobei-nuer-hao-mama",
             "https://myanimelist.net/anime/44015"
         ],
@@ -210,57 +214,6 @@
             "comedy",
             "family friendly",
             "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/129383"
-        ],
-        "title": "Baobei Nüer Hao Mama: Chi Jiyi de Da Xueqiu",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129383-udi3peeHKasg.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129383-udi3peeHKasg.png",
-        "synonyms": [
-            "Snowball The Memory Gobbler",
-            "宝贝女儿好妈妈之吃记忆的大雪球",
-            "宝贝女儿好妈妈大电影"
-        ],
-        "relations": [
-            "https://anilist.co/anime/129382"
-        ],
-        "tags": [
-            "comedy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/129382"
-        ],
-        "title": "Baobei Nüer Hao Mama: Kuaile de Jiating",
-        "type": "tv",
-        "episodes": 100,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129382-Fo9PODubjHAx.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129382-Fo9PODubjHAx.jpg",
-        "synonyms": [
-            "宝贝女儿好妈妈之快乐的家庭"
-        ],
-        "relations": [
-            "https://anilist.co/anime/129381",
-            "https://anilist.co/anime/129383"
-        ],
-        "tags": [
-            "comedy"
         ],
         "date": {
             "season": "unknown",

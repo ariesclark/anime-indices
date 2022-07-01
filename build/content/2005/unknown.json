@@ -246,6 +246,8 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/129494",
+            "https://anime-planet.com/anime/dongfang-shenwa",
             "https://myanimelist.net/anime/44168"
         ],
         "title": "Dongfang Shen Wa",
@@ -255,45 +257,23 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1872/122987.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1872/122987t.jpg",
         "synonyms": [
+            "Dongfang Shenwa",
+            "东方神娃",
+            "东方神娃 第1部",
             "東方神娃"
         ],
         "relations": [
+            "https://anilist.co/anime/129495",
+            "https://anime-planet.com/anime/dongfang-shenwa-2nd-season",
             "https://myanimelist.net/anime/44169",
             "https://myanimelist.net/anime/44170"
         ],
         "tags": [
             "adventure",
-            "kids",
-            "mythology"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2005
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/129494",
-            "https://anime-planet.com/anime/dongfang-shenwa"
-        ],
-        "title": "Dongfang Shenwa",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/dongfang-shenwa-1.jpg?t=1625908971",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/dongfang-shenwa-1-190x266.jpg?t=1625908971",
-        "synonyms": [
-            "东方神娃",
-            "东方神娃 第1部"
-        ],
-        "relations": [
-            "https://anilist.co/anime/129495",
-            "https://anime-planet.com/anime/dongfang-shenwa-2nd-season"
-        ],
-        "tags": [
-            "adventure",
             "chinese animation",
             "fantasy",
+            "kids",
+            "mythology",
             "short episodes"
         ],
         "date": {

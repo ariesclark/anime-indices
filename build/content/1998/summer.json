@@ -476,6 +476,55 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/13051",
+            "https://anilist.co/anime/3499",
+            "https://anime-planet.com/anime/dinozaurs-the-series",
+            "https://anisearch.com/anime/2451",
+            "https://kitsu.io/anime/3053",
+            "https://notify.moe/anime/hRrQcFimR"
+        ],
+        "title": "Dinozaurs: The Series",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/dinozaurs-the-series-1.jpg?t=1625895954",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/dinozaurs-the-series-1-190x245.jpg?t=1625895954",
+        "synonyms": [
+            "DinoZaurs",
+            "DinoZaurs: TV Series",
+            "DinoZaurs: The Series",
+            "DinoZone",
+            "DinoZone: TV Series",
+            "Dinozone (TV)",
+            "Prehistoric Warriors",
+            "ダイノゾーズ",
+            "ダイノゾーン",
+            "ダイノゾーン （TV）"
+        ],
+        "relations": [
+            "https://anidb.net/anime/3338",
+            "https://anime-planet.com/anime/dinozone",
+            "https://anisearch.com/anime/8490"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "anime influenced",
+            "dinosaurs",
+            "mecha",
+            "sci-fi",
+            "science fiction",
+            "science-fiction",
+            "shounen",
+            "super robots"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 1998
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/8056"
         ],
         "title": "Efficus: Kono Omoi o Kimi ni …",
