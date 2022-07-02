@@ -260,35 +260,7 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/11265"
-        ],
-        "title": "Ajin",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/177432.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/177432.jpg-thumb.jpg",
-        "synonyms": [
-            "Полулюди Фильм",
-            "Получеловек",
-            "亚人 剧场版",
-            "亜人"
-        ],
-        "relations": [
-            "https://anidb.net/anime/11577",
-            "https://anidb.net/anime/11758"
-        ],
-        "tags": [
-            "manga",
-            "seinen"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
+            "https://anidb.net/anime/11265",
             "https://anisearch.com/anime/10462"
         ],
         "title": "Ajin",
@@ -301,20 +273,28 @@
             "Ajin (Movie)",
             "Ajin Trilogie",
             "Ajin: Demi-Human",
+            "Полулюди Фильм",
+            "Получеловек",
+            "亚人 剧场版",
             "亜人"
         ],
-        "relations": [],
+        "relations": [
+            "https://anidb.net/anime/11577",
+            "https://anidb.net/anime/11758"
+        ],
         "tags": [
             "action",
             "cg-anime",
             "drama",
             "excessive violence",
             "horror",
+            "manga",
             "monster",
             "present",
             "psi-powers",
             "psychological drama",
             "science-fiction",
+            "seinen",
             "splatter",
             "supernatural drama",
             "thriller"

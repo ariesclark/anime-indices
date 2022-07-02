@@ -168,8 +168,14 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/5551",
+            "https://anilist.co/anime/4389",
+            "https://anime-planet.com/anime/amada-anime-series-super-mario-brothers",
             "https://anisearch.com/anime/4628",
-            "https://myanimelist.net/anime/52133"
+            "https://kitsu.io/anime/3585",
+            "https://myanimelist.net/anime/4389",
+            "https://myanimelist.net/anime/52133",
+            "https://notify.moe/anime/fyYucKimR"
         ],
         "title": "Amada Anime Series: Super Mario",
         "type": "ova",
@@ -178,38 +184,10 @@
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
-            "アマダアニメシリーズ スーパーマリオ"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "adventure",
-            "comedy",
-            "present"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 1989
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/5551",
-            "https://anilist.co/anime/4389",
-            "https://anime-planet.com/anime/amada-anime-series-super-mario-brothers",
-            "https://kitsu.io/anime/3585",
-            "https://myanimelist.net/anime/4389",
-            "https://notify.moe/anime/fyYucKimR"
-        ],
-        "title": "Amada Anime Series: Super Mario Brothers",
-        "type": "ova",
-        "episodes": 3,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/12/8326.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/12/8326t.jpg",
-        "synonyms": [
             "Amada Anime Series: Super Mario Amada",
+            "Amada Anime Series: Super Mario Brothers",
             "Mario OVA",
+            "アマダアニメシリーズ スーパーマリオ",
             "アマダアニメシリーズ スーパーマリオブラザーズ"
         ],
         "relations": [
@@ -229,6 +207,7 @@
             "https://notify.moe/anime/fOoqtKimg"
         ],
         "tags": [
+            "action",
             "action game",
             "adventure",
             "based on a video game",
@@ -241,6 +220,7 @@
             "game",
             "kodomo",
             "pirates",
+            "present",
             "ships",
             "shounen"
         ],
@@ -1801,6 +1781,7 @@
     {
         "sources": [
             "https://anidb.net/anime/3545",
+            "https://anilist.co/anime/129591",
             "https://anime-planet.com/anime/megazone-23-part-3",
             "https://anisearch.com/anime/3408"
         ],
@@ -1822,6 +1803,7 @@
         "relations": [
             "https://anidb.net/anime/2891",
             "https://anidb.net/anime/3544",
+            "https://anilist.co/anime/129595",
             "https://anime-planet.com/anime/megazone-23",
             "https://anime-planet.com/anime/megazone-23-part-2",
             "https://anime-planet.com/anime/megazone-23-xi",
@@ -1832,18 +1814,24 @@
             "conspiracy",
             "cyberpunk",
             "hacking",
+            "idol",
+            "male protagonist",
             "mecha",
             "motorcycles",
+            "mystery",
             "new",
             "original work",
             "piloted robot",
+            "real robot",
             "real robots",
             "romance",
             "sci fi",
+            "sci-fi",
             "science fiction",
             "science-fiction",
             "seinen",
             "supernatural drama",
+            "surreal comedy",
             "transforming craft",
             "virtual world"
         ],

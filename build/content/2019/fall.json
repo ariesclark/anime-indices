@@ -2727,6 +2727,48 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/123394",
+            "https://anime-planet.com/anime/deus-ex-baryon",
+            "https://kitsu.io/anime/41986",
+            "https://notify.moe/anime/2NRR2B-iR"
+        ],
+        "title": "Deus Ex Baryon",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/deus-ex-baryon-1.jpg?t=1632263841",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/deus-ex-baryon-1-285x399.jpg?t=1632263841",
+        "synonyms": [
+            "Baryon",
+            "Heavy armored machine god: God descends",
+            "Zhong Jia Ji Shen: Shen Jianglin",
+            "重甲机神 Baryon",
+            "重甲机神：神降临",
+            "重甲機神: 神降臨",
+            "重甲機神: 神降臨/Baryon"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "cgi",
+            "chinese animation",
+            "foreign",
+            "future",
+            "mecha",
+            "military",
+            "piloted robot",
+            "sci fi",
+            "sci-fi",
+            "science fiction",
+            "super robot"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/140370"
         ],
         "title": "Doggie Corgi 2",
@@ -6626,6 +6668,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/112472",
             "https://anime-planet.com/anime/yu-no-a-girl-who-chants-love-at-the-bound-of-this-world-special",
             "https://anisearch.com/anime/14695",
             "https://kitsu.io/anime/42485",
@@ -6645,28 +6688,39 @@
             "Kono Yo no Hate de Koi wo Utau Shoujo Yu-no - Mugen no Heiretsu Sekai",
             "YU-NO: A Girl Who Chants Love at the Bound of This World Special",
             "YU-NO: A girl who chants love at the bound of this world Special",
+            "YU-NO: Mugen no Heiretsu Sekai",
             "Yu-No: A Girl Who Chants Love at the Bound of This World - Infinite Parallel World",
             "Yu-No: A Girl Who Chants Love at the Bound of This World - The Goddess Sings at the Edge of the World: Infinite Parallel Worlds",
             "Yu-No: A Girl Who Chants Love at the Bound of This World Episode 26.5",
             "Yu-No: A Girl Who Chants Love at the Bound of This World OVA",
             "この世の果てで恋を唄う少女YU-NO",
-            "この世の果てで恋を唄う少女YU-NO 無限の並列世界"
+            "この世の果てで恋を唄う少女YU-NO 無限の並列世界",
+            "この世の果てで恋を唄う少女YU-NO「無限の並列世界」"
         ],
         "relations": [
+            "https://anilist.co/anime/97995",
             "https://anime-planet.com/anime/yu-no-a-girl-who-chants-love-at-the-bound-of-this-world",
             "https://kitsu.io/anime/13469",
             "https://livechart.me/anime/2492",
             "https://myanimelist.net/anime/34620"
         ],
         "tags": [
+            "action",
+            "adventure",
+            "alternate universe",
             "based on a visual novel",
             "based on an eroge",
             "drama",
             "ecchi",
+            "love triangle",
+            "memory manipulation",
+            "nudity",
             "sci fi",
             "sci-fi",
             "science fiction",
-            "time travel"
+            "time manipulation",
+            "time travel",
+            "urban fantasy"
         ],
         "date": {
             "season": "fall",
@@ -7495,7 +7549,6 @@
     {
         "sources": [
             "https://anidb.net/anime/14706",
-            "https://anilist.co/anime/110173",
             "https://anime-planet.com/anime/midnight-occult-civil-servants-the-blind-alley-the-boy-and-i",
             "https://anisearch.com/anime/14211",
             "https://kitsu.io/anime/42822",
@@ -7510,7 +7563,6 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1321/104497.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1321/104497t.jpg",
         "synonyms": [
-            "Hitoribocchi no Kyuuketsuki",
             "Mayonaka no Occult Koumuin OVA",
             "Mayonaka no Occult Koumuin: Fukurokouji to Anoko to Ore to",
             "Mayonaka no Occult Koumuin: Fukurouji to Ano ko to Ore to",
@@ -7527,16 +7579,13 @@
             "Midnight occult civil servants: The Blind Alley, The Boy, and I",
             "Оккультные служащие полуночи: Аллея мёртвых",
             "ребёнок и я",
-            "ひとりぼっちの吸血鬼",
             "深夜的超自然公务员 OAD",
-            "真夜中のオカルト公務員 OVA",
             "真夜中のオカルト公務員 「袋小路とあの子と俺と」",
             "真夜中のオカルト公務員 袋小路とあの子と俺と",
             "真夜中のオカルト公務員」TV未放送エピソード「ひとりぼっちの吸血鬼」"
         ],
         "relations": [
             "https://anidb.net/anime/14172",
-            "https://anilist.co/anime/102939",
             "https://anime-planet.com/anime/midnight-occult-civil-servants",
             "https://anime-planet.com/anime/midnight-occult-civil-servants-specials",
             "https://kitsu.io/anime/41465",
@@ -7548,7 +7597,6 @@
         "tags": [
             "based on a manga",
             "comedy",
-            "crime",
             "curse",
             "demon",
             "demons",
@@ -7558,44 +7606,11 @@
             "japanese mythology",
             "mystery",
             "mythology",
-            "outdoor",
-            "police",
-            "primarily male cast",
             "shoujo",
             "supernatural",
             "supernatural drama",
-            "urban fantasy",
-            "vampire",
             "workplace",
             "youkai"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/9479"
-        ],
-        "title": "Mayonaka no Occult Koumuin: Hitoribotchi no Kyuuketsuki",
-        "type": "ova",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/9479/poster_image/99679df9a8fefd68f0652f5f69746f7f.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/9479/poster_image/99679df9a8fefd68f0652f5f69746f7f.png?style=small&format=jpg",
-        "synonyms": [
-            "真夜中のオカルト公務員 「ひとりぼっちの吸血鬼」"
-        ],
-        "relations": [
-            "https://livechart.me/anime/3346",
-            "https://livechart.me/anime/9243"
-        ],
-        "tags": [
-            "fantasy",
-            "mystery",
-            "shoujo",
-            "supernatural"
         ],
         "date": {
             "season": "fall",
@@ -13894,39 +13909,6 @@
             "forest",
             "kids",
             "non-human protagonists"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/112472"
-        ],
-        "title": "YU-NO: Mugen no Heiretsu Sekai",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112472-fNcU57kIwotb.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112472-fNcU57kIwotb.jpg",
-        "synonyms": [
-            "この世の果てで恋を唄う少女YU-NO「無限の並列世界」"
-        ],
-        "relations": [
-            "https://anilist.co/anime/97995"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "alternate universe",
-            "drama",
-            "love triangle",
-            "memory manipulation",
-            "nudity",
-            "sci-fi",
-            "time manipulation",
-            "urban fantasy"
         ],
         "date": {
             "season": "fall",

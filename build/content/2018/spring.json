@@ -6122,37 +6122,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/101016"
-        ],
-        "title": "Itou Junji: Collection - Tomie",
-        "type": "ova",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101016-VM4HXz6S5myf.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101016-VM4HXz6S5myf.jpg",
-        "synonyms": [
-            "Junji Ito Collection: Tomie",
-            "Tomie",
-            "伊藤潤二「コレクション」富江"
-        ],
-        "relations": [
-            "https://anilist.co/anime/99940"
-        ],
-        "tags": [
-            "drama",
-            "gore",
-            "horror",
-            "josei",
-            "monster girl",
-            "supernatural"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/13303",
             "https://myanimelist.net/anime/37224"
         ],
@@ -13069,6 +13038,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/101016",
             "https://anime-planet.com/anime/junji-ito-collection-tomie",
             "https://anisearch.com/anime/13558",
             "https://kitsu.io/anime/14130",
@@ -13090,13 +13060,16 @@
             "Itō Junji: Tomie",
             "Junji Ito \"Collection\": Tomie",
             "Junji Ito Collection - Tomie",
+            "Junji Ito Collection: Tomie",
             "Junji Ito: Tomie",
             "Junji Itou: Collection Specials",
             "伊藤潤二 富江",
+            "伊藤潤二「コレクション」富江",
             "伊藤潤二『コレクション』 「富江」",
             "富江"
         ],
         "relations": [
+            "https://anilist.co/anime/99940",
             "https://anime-planet.com/anime/junji-ito-collection",
             "https://kitsu.io/anime/13717",
             "https://livechart.me/anime/11246",
@@ -13109,8 +13082,10 @@
         "tags": [
             "based on a manga",
             "drama",
+            "gore",
             "horror",
             "josei",
+            "monster girl",
             "mystery",
             "psychological",
             "science-fiction",

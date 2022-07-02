@@ -260,6 +260,7 @@
             "https://anidb.net/anime/11400",
             "https://anilist.co/anime/104099",
             "https://anime-planet.com/anime/akai-kutsu-onnanoko",
+            "https://anisearch.com/anime/10924",
             "https://kitsu.io/anime/10804",
             "https://myanimelist.net/anime/30396",
             "https://notify.moe/anime/9O7_tFimR"
@@ -271,8 +272,10 @@
         "picture": "https://cdn.myanimelist.net/images/anime/2/72929.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/2/72929t.jpg",
         "synonyms": [
+            "Akai Kutsu! Onna no Ko!",
             "Red Shoes",
             "赤い靴! 女の子!",
+            "赤い靴！ 女の子！",
             "赤い靴！女の子！"
         ],
         "relations": [],
@@ -6467,31 +6470,7 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/126881"
-        ],
-        "title": "Sugar Bunnies Chocolate! OVA",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126881-rZYa0VJRXPA7.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126881-rZYa0VJRXPA7.jpg",
-        "synonyms": [
-            "シュガーバニーズ ショコラ！OVA"
-        ],
-        "relations": [
-            "https://anilist.co/anime/6481",
-            "https://anilist.co/anime/6482"
-        ],
-        "tags": [
-            "comedy"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/126881",
             "https://anime-planet.com/anime/sugar-bunnies-chocolate-specials",
             "https://kitsu.io/anime/12590",
             "https://myanimelist.net/anime/33999",
@@ -6504,12 +6483,16 @@
         "picture": "https://cdn.myanimelist.net/images/anime/3/81865.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/3/81865t.jpg",
         "synonyms": [
+            "Sugar Bunnies Chocolate! OVA",
             "Sugar Bunnies Chocolate! Recap",
             "Sugar Bunnies Chocolate! Tokubetsu-hen",
             "Sugar Bunnies Chocolate! ep 27",
-            "シュガーバニーズ ショコラ！"
+            "シュガーバニーズ ショコラ！",
+            "シュガーバニーズ ショコラ！OVA"
         ],
         "relations": [
+            "https://anilist.co/anime/6481",
+            "https://anilist.co/anime/6482",
             "https://anime-planet.com/anime/sugar-bunnies",
             "https://anime-planet.com/anime/sugar-bunnies-chocolate",
             "https://anime-planet.com/anime/sugar-bunnies-fleur",
@@ -6523,6 +6506,7 @@
             "https://notify.moe/anime/g24ecKimR"
         ],
         "tags": [
+            "comedy",
             "family friendly",
             "fantasy",
             "kids",

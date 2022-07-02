@@ -209,6 +209,33 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/112020",
+            "https://anime-planet.com/anime/40meterp-karakuri-pierrot",
+            "https://kitsu.io/anime/45397"
+        ],
+        "title": "40MeterP: Karakuri Pierrot",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/40meterp-karakuri-pierrot-1.webp?t=1628017124",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/40meterp-karakuri-pierrot-1-257x360.webp?t=1628017124",
+        "synonyms": [
+            "Clockwork Clown",
+            "Karakuri Pierrot",
+            "からくりピエロ"
+        ],
+        "relations": [],
+        "tags": [
+            "music",
+            "vocaloid"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/110467",
             "https://anime-planet.com/anime/a-long-day-of-timbre",
             "https://kitsu.io/anime/42860",
@@ -4366,39 +4393,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/145707"
-        ],
-        "title": "Kakko Kawaii Sengen! OVA",
-        "type": "ova",
-        "episodes": 14,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145707-22iMGa8QVUmS.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145707-22iMGa8QVUmS.png",
-        "synonyms": [
-            "Kakko Kawaii Sengen! Kocho Kocho-hen",
-            "Kakko Kawaii Sengen! Sugokunai?-hen",
-            "Kakko Kawaii Sengen! Tawake ga!-hen",
-            "Kakko Kawaii Sengen! Umee kara-hen",
-            "KakoKawa OVA",
-            "カッコカワイイ宣言！ うめーから編",
-            "カッコカワイイ宣言！ こちょこちょ編",
-            "カッコカワイイ宣言！ すごくない？編",
-            "カッコカワイイ宣言！ たわけが！編",
-            "カッコカワイイ宣言！OVA"
-        ],
-        "relations": [
-            "https://anilist.co/anime/10908"
-        ],
-        "tags": [
-            "comedy"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/7658"
         ],
         "title": "Kami-Usagi Rope",
@@ -4662,30 +4656,6 @@
             "supernatural",
             "supernatural drama",
             "urban fantasy"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/112020",
-            "https://kitsu.io/anime/45397"
-        ],
-        "title": "Karakuri Pierrot",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45397/poster_image/small-c02201bd67b9302ada015824501bb257.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45397/poster_image/tiny-325973c9026a8a9e7d4d2ac6037f6604.jpeg",
-        "synonyms": [
-            "Clockwork Clown",
-            "からくりピエロ"
-        ],
-        "relations": [],
-        "tags": [
-            "music"
         ],
         "date": {
             "season": "winter",

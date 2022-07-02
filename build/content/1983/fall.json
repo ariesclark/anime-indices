@@ -348,33 +348,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/145554",
-            "https://kitsu.io/anime/45924"
-        ],
-        "title": "FANROAD Opening Animation",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45924/poster_image/small-d3eaaeea5fc44c8e6420d688ecef8cc5.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45924/poster_image/tiny-92b430e8953bd07544c48468a809868a.jpeg",
-        "synonyms": [
-            "FANROAD オープニングアニメ",
-            "GEBOCON I",
-            "GEBOCON Opening Animation"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "sci-fi",
-            "science fiction"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 1983
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/2744",
             "https://anilist.co/anime/2572",
             "https://anime-planet.com/anime/alices-adventures-in-wonderland",
@@ -435,6 +408,40 @@
             "kids",
             "novel",
             "plot continuity"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 1983
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/145554",
+            "https://anime-planet.com/anime/gebocon-i-opening-animation",
+            "https://kitsu.io/anime/45924"
+        ],
+        "title": "Gebocon I Opening Animation",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/gebocon-i-opening-animation-1.webp?t=1642054298",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/gebocon-i-opening-animation-1-285x400.webp?t=1642054298",
+        "synonyms": [
+            "FANROAD Opening Animation",
+            "FANROAD オープニングアニメ",
+            "GEBOCON I",
+            "GEBOCON Opening Animation"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "animal protagonists",
+            "non-human protagonists",
+            "opening animation",
+            "parody",
+            "promotional",
+            "sci-fi",
+            "science fiction"
         ],
         "date": {
             "season": "fall",

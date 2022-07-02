@@ -1907,6 +1907,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/145503",
             "https://anime-planet.com/anime/g-on-riders-special",
             "https://kitsu.io/anime/8907",
             "https://livechart.me/anime/6958",
@@ -1923,9 +1924,14 @@
             "Andro White Paper",
             "G-On Riders Episode 14",
             "G-On Riders OVA",
-            "G-on らいだーす"
+            "G-on Riders OVA",
+            "G-on Riders Special",
+            "G-on Riders: Andro Hakusho",
+            "G-on らいだーす",
+            "G-onらいだーす アンドロ白書"
         ],
         "relations": [
+            "https://anilist.co/anime/1623",
             "https://anime-planet.com/anime/g-on-riders",
             "https://kitsu.io/anime/1458",
             "https://myanimelist.net/anime/1623",
@@ -1942,34 +1948,6 @@
             "sci-fi",
             "science fiction",
             "superpowers"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2003
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/145503"
-        ],
-        "title": "G-on Riders: Andro Hakusho",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145503-700PM2QxXG7N.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145503-700PM2QxXG7N.png",
-        "synonyms": [
-            "G-on Riders OVA",
-            "G-on Riders Special",
-            "G-onらいだーす アンドロ白書"
-        ],
-        "relations": [
-            "https://anilist.co/anime/1623"
-        ],
-        "tags": [
-            "comedy",
-            "ecchi",
-            "sci-fi"
         ],
         "date": {
             "season": "winter",

@@ -701,31 +701,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/42304"
-        ],
-        "title": "Ayumi☆Magical Showtime",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42304/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42304/tiny.jpg",
-        "synonyms": [
-            "Ayumi Magical Showtime",
-            "Kinoshita: Ayumi☆Magical Showtime",
-            "アユミ☆マジカルショータイム"
-        ],
-        "relations": [],
-        "tags": [
-            "fantasy",
-            "music"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/13495",
             "https://anilist.co/anime/100186",
             "https://anime-planet.com/anime/b-project-zecchou-emotion",
@@ -6593,6 +6568,33 @@
             "shoujo",
             "showbiz",
             "sports"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/kinoshita-ayumi-magical-showtime",
+            "https://kitsu.io/anime/42304"
+        ],
+        "title": "Kinoshita: Ayumi☆Magical Showtime",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/kinoshita-ayumi-magical-showtime-1.jpg?t=1625899080",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kinoshita-ayumi-magical-showtime-1-190x266.jpg?t=1625899080",
+        "synonyms": [
+            "Ayumi Magical Showtime",
+            "Ayumi☆Magical Showtime",
+            "アユミ☆マジカルショータイム"
+        ],
+        "relations": [],
+        "tags": [
+            "fantasy",
+            "music",
+            "vocaloid"
         ],
         "date": {
             "season": "winter",

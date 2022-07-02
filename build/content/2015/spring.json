@@ -2025,6 +2025,7 @@
     {
         "sources": [
             "https://kitsu.io/anime/10622",
+            "https://livechart.me/anime/1410",
             "https://notify.moe/anime/3bdwtFimg"
         ],
         "title": "Detective Conan OVA 13",
@@ -2035,10 +2036,29 @@
         "thumbnail": "https://media.kitsu.io/anime/poster_images/10622/tiny.jpg",
         "synonyms": [
             "Case Closed OVA 13",
+            "Detective Conan OVA",
             "Meitantei Conan",
+            "Meitantei Conan OVA",
+            "名探偵コナン OAD",
             "名探偵コナン OVA 13"
         ],
-        "relations": [],
+        "relations": [
+            "https://livechart.me/anime/319",
+            "https://livechart.me/anime/4579",
+            "https://livechart.me/anime/4615",
+            "https://livechart.me/anime/4634",
+            "https://livechart.me/anime/4688",
+            "https://livechart.me/anime/4710",
+            "https://livechart.me/anime/4732",
+            "https://livechart.me/anime/4783",
+            "https://livechart.me/anime/4809",
+            "https://livechart.me/anime/6391",
+            "https://livechart.me/anime/6392",
+            "https://livechart.me/anime/6400",
+            "https://livechart.me/anime/6411",
+            "https://livechart.me/anime/6441",
+            "https://livechart.me/anime/8185"
+        ],
         "tags": [
             "adventure",
             "comedy",
@@ -7679,45 +7699,6 @@
             "drama",
             "promotional",
             "short episodes"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/1410"
-        ],
-        "title": "Meitantei Conan OVA",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/1410/poster_image/b0eb0a3c854ea4440b6ee037693d97b3.jpg?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/1410/poster_image/b0eb0a3c854ea4440b6ee037693d97b3.jpg?style=small&format=jpg",
-        "synonyms": [
-            "Detective Conan OVA",
-            "名探偵コナン OAD"
-        ],
-        "relations": [
-            "https://livechart.me/anime/319",
-            "https://livechart.me/anime/4579",
-            "https://livechart.me/anime/4615",
-            "https://livechart.me/anime/4634",
-            "https://livechart.me/anime/4688",
-            "https://livechart.me/anime/4710",
-            "https://livechart.me/anime/4732",
-            "https://livechart.me/anime/4783",
-            "https://livechart.me/anime/4809",
-            "https://livechart.me/anime/6391",
-            "https://livechart.me/anime/6392",
-            "https://livechart.me/anime/6400",
-            "https://livechart.me/anime/6411",
-            "https://livechart.me/anime/6441",
-            "https://livechart.me/anime/8185"
-        ],
-        "tags": [
-            "mystery"
         ],
         "date": {
             "season": "spring",

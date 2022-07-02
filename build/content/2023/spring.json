@@ -1,7 +1,8 @@
 [
     {
         "sources": [
-            "https://anilist.co/anime/143766"
+            "https://anilist.co/anime/143766",
+            "https://livechart.me/anime/11226"
         ],
         "title": "Choujigen Game Neptune THE ANIMATION: Hidamari no Little Purple",
         "type": "ova",
@@ -10,39 +11,15 @@
         "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143766-2FVLbbjR3W5n.jpg",
         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143766-2FVLbbjR3W5n.jpg",
         "synonyms": [
+            "Choujigen Game Neptune The Animation OVA: Hidamari no Little Purple",
             "Hyperdimension Neptunia OVA 3",
-            "超次元ゲイム ネプテューヌ THE ANIMATION 陽だまりの茄花"
-        ],
-        "relations": [
-            "https://anilist.co/anime/139806",
-            "https://anilist.co/anime/16157"
-        ],
-        "tags": [
-            "action",
-            "comedy",
-            "sci-fi",
-            "supernatural"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2023
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/11226"
-        ],
-        "title": "Choujigen Game Neptune The Animation OVA: Hidamari no Little Purple",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/11226/poster_image/60ce53d93d2b4f1c0b8a4873eaab335c.webp?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/11226/poster_image/60ce53d93d2b4f1c0b8a4873eaab335c.webp?style=small&format=jpg",
-        "synonyms": [
             "Hyperdimension Neptunia OVA: Little Purple in a Sunny Spot",
+            "超次元ゲイム ネプテューヌ THE ANIMATION 陽だまりの茄花",
             "超次元ゲイム ネプテューヌ 陽だまりのリトルパープル"
         ],
         "relations": [
+            "https://anilist.co/anime/139806",
+            "https://anilist.co/anime/16157",
             "https://livechart.me/anime/10820",
             "https://livechart.me/anime/14",
             "https://livechart.me/anime/367",
@@ -53,7 +30,8 @@
             "action",
             "comedy",
             "fantasy",
-            "sci-fi"
+            "sci-fi",
+            "supernatural"
         ],
         "date": {
             "season": "spring",

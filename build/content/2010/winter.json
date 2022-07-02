@@ -7925,30 +7925,7 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/126880"
-        ],
-        "title": "Sugar Bunnies Fleur OVA",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126880-zDxcZ9MzmIrW.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126880-zDxcZ9MzmIrW.jpg",
-        "synonyms": [
-            "シュガーバニーズ フルールOVA"
-        ],
-        "relations": [
-            "https://anilist.co/anime/6481"
-        ],
-        "tags": [
-            "comedy"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/126880",
             "https://anime-planet.com/anime/sugar-bunnies-fleur-specials",
             "https://kitsu.io/anime/12591",
             "https://myanimelist.net/anime/34000",
@@ -7961,12 +7938,15 @@
         "picture": "https://cdn.myanimelist.net/images/anime/7/81866.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/7/81866t.jpg",
         "synonyms": [
+            "Sugar Bunnies Fleur OVA",
             "Sugar Bunnies Fleur Recap",
             "Sugar Bunnies Fleur Tokubetsu-hen",
             "Sugar Bunnies Fleur ep 27",
-            "シュガーバニーズ フルール"
+            "シュガーバニーズ フルール",
+            "シュガーバニーズ フルールOVA"
         ],
         "relations": [
+            "https://anilist.co/anime/6481",
             "https://anime-planet.com/anime/sugar-bunnies",
             "https://anime-planet.com/anime/sugar-bunnies-chocolate",
             "https://anime-planet.com/anime/sugar-bunnies-chocolate-specials",
@@ -7980,6 +7960,7 @@
             "https://notify.moe/anime/g24ecKimR"
         ],
         "tags": [
+            "comedy",
             "family friendly",
             "fantasy",
             "kids",

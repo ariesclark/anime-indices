@@ -1,7 +1,8 @@
 [
     {
         "sources": [
-            "https://anisearch.com/anime/17466"
+            "https://anisearch.com/anime/17466",
+            "https://livechart.me/anime/11254"
         ],
         "title": "5-Oku-Nen Button: Sugahara Souta no Short Short",
         "type": "tv",
@@ -11,32 +12,13 @@
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17466.webp",
         "synonyms": [
             "5-Oku-Nen Button: Sugahara Sōta no Short Short",
+            "5-Okunen Button ~Sota Sugahara no Short Short~",
             "5億年ボタン～菅原そうたのショートショート～"
         ],
         "relations": [],
         "tags": [
             "cg-anime"
         ],
-        "date": {
-            "season": "summer",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/11254"
-        ],
-        "title": "5-Okunen Button ~Sota Sugahara no Short Short~",
-        "type": "tv",
-        "episodes": 1,
-        "status": "upcoming",
-        "picture": "https://u.livechart.me/anime/11254/poster_image/f0fd36e63cf461e2983a2a3415f57279.webp?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/11254/poster_image/f0fd36e63cf461e2983a2a3415f57279.webp?style=small&format=jpg",
-        "synonyms": [
-            "5億年ボタン～菅原そうたのショートショート～"
-        ],
-        "relations": [],
-        "tags": [],
         "date": {
             "season": "summer",
             "year": 2022
@@ -105,33 +87,7 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/148960"
-        ],
-        "title": "Aikatsu! 10th STORY: Mirai e no STARWAY",
-        "type": "movie",
-        "episodes": 1,
-        "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148960-WQpnU8I4lTQn.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148960-WQpnU8I4lTQn.jpg",
-        "synonyms": [
-            "アイカツ！ 10th STORY ～未来へのSTARWAY～"
-        ],
-        "relations": [
-            "https://anilist.co/anime/21307"
-        ],
-        "tags": [
-            "female protagonist",
-            "idol",
-            "music",
-            "school"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/148960",
             "https://anisearch.com/anime/17482"
         ],
         "title": "Aikatsu! 10th Story Miraie no Starway",
@@ -141,12 +97,20 @@
         "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17482.webp",
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17482.webp",
         "synonyms": [
-            "アイカツ！ 10th STORY 未来へのSTARWAY"
+            "Aikatsu! 10th STORY: Mirai e no STARWAY",
+            "アイカツ！ 10th STORY 未来へのSTARWAY",
+            "アイカツ！ 10th STORY ～未来へのSTARWAY～"
         ],
         "relations": [
+            "https://anilist.co/anime/21307",
             "https://anisearch.com/anime/7982"
         ],
-        "tags": [],
+        "tags": [
+            "female protagonist",
+            "idol",
+            "music",
+            "school"
+        ],
         "date": {
             "season": "summer",
             "year": 2022

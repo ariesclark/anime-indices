@@ -3746,38 +3746,7 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/150078"
-        ],
-        "title": "FAIRY TAIL (2014) OVA",
-        "type": "ova",
-        "episodes": 3,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150078-jfy300H1VZDl.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150078-jfy300H1VZDl.jpg",
-        "synonyms": [],
-        "relations": [
-            "https://anilist.co/anime/20626"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "comedy",
-            "episodic",
-            "fantasy",
-            "female protagonist",
-            "magic",
-            "male protagonist",
-            "nudity",
-            "shounen",
-            "super power"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/150078",
             "https://anime-planet.com/anime/fairy-tail-2-ova",
             "https://kitsu.io/anime/12225",
             "https://livechart.me/anime/1601",
@@ -3791,6 +3760,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/5/80112.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/5/80112t.jpg",
         "synonyms": [
+            "FAIRY TAIL (2014) OVA",
             "Fairies' Christmas",
             "Fairies' Penalty Game",
             "Fairy Tail 2 OVA",
@@ -3799,6 +3769,7 @@
             "フェアリーテイル OVA第2期"
         ],
         "relations": [
+            "https://anilist.co/anime/20626",
             "https://anime-planet.com/anime/fairy-tail",
             "https://anime-planet.com/anime/fairy-tail-2",
             "https://anime-planet.com/anime/fairy-tail-final-season",
@@ -3820,13 +3791,20 @@
             "https://notify.moe/anime/gEFopFimg"
         ],
         "tags": [
+            "action",
+            "adventure",
             "based on a manga",
             "comedy",
             "ecchi",
+            "episodic",
             "fantasy",
+            "female protagonist",
             "friendship",
             "magic",
-            "shounen"
+            "male protagonist",
+            "nudity",
+            "shounen",
+            "super power"
         ],
         "date": {
             "season": "spring",

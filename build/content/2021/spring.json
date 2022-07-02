@@ -288,6 +288,35 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/accamer-saishin",
+            "https://anisearch.com/anime/16373"
+        ],
+        "title": "ACCAMER: Saishin",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/accamer-saishin-1.webp?t=1655576986",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/accamer-saishin-1-285x399.webp?t=1655576986",
+        "synonyms": [
+            "ACCAMER - Saishin",
+            "ACCAMER - 最深",
+            "Saishin",
+            "最深"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/accamer-be-down",
+            "https://anime-planet.com/anime/accamer-fluoresce"
+        ],
+        "tags": [
+            "independent anime"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/17348"
         ],
         "title": "ALL-IN Anime CM",
@@ -9340,30 +9369,6 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/16373"
-        ],
-        "title": "Saishin",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16373.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16373.webp",
-        "synonyms": [
-            "ACCAMER - Saishin",
-            "ACCAMER - 最深",
-            "最深"
-        ],
-        "relations": [],
-        "tags": [
-            "independent anime"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/15941",
             "https://myanimelist.net/anime/48651"
         ],
@@ -13371,69 +13376,9 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/44601"
-        ],
-        "title": "Yuru Camp△ 2 OVA",
-        "type": "ova",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44601/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44601/tiny.jpg",
-        "synonyms": [
-            "Yuru Camp△ 2 Specials",
-            "ゆるキャン△ 2 OVA"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/41976"
-        ],
-        "tags": [
-            "comedy",
-            "school clubs",
-            "school life",
-            "slice of life"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/134413"
-        ],
-        "title": "Yuru Camp△ SEASON 2 OVA",
-        "type": "ova",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b134413-HLw4hdGPty0O.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b134413-HLw4hdGPty0O.png",
-        "synonyms": [
-            "Yuru Camp△ SEASON 2 Specials",
-            "ゆるキャン△ SEASON 2 OVA"
-        ],
-        "relations": [
-            "https://anilist.co/anime/104459"
-        ],
-        "tags": [
-            "comedy",
-            "coming of age",
-            "cute girls doing cute things",
-            "environmental",
-            "female protagonist",
-            "outdoor",
-            "primarily female cast",
-            "rural",
-            "school club",
-            "slice of life",
-            "surreal comedy"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/134413",
+            "https://anime-planet.com/anime/laid-back-camp-2nd-season-specials",
+            "https://kitsu.io/anime/44601",
             "https://livechart.me/anime/10562",
             "https://myanimelist.net/anime/49026"
         ],
@@ -13444,12 +13389,23 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1542/115070.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1542/115070t.jpg",
         "synonyms": [
+            "Laid-Back Camp 2nd Season Specials",
             "Laid-Back Camp Season 2 Specials",
             "Laid-back Camp Season 2",
+            "Yuru Camp 2nd Season Specials",
+            "Yuru Camp△ 2 OVA",
+            "Yuru Camp△ 2 Specials",
+            "Yuru Camp△ SEASON 2 OVA",
+            "Yuru Camp△ SEASON 2 Specials",
+            "ゆるキャン△ 2 OVA",
+            "ゆるキャン△ SEASON 2 OVA",
             "ゆるキャン△ SEASON2",
             "ゆるキャン△ SEASON２"
         ],
         "relations": [
+            "https://anilist.co/anime/104459",
+            "https://anime-planet.com/anime/laid-back-camp-2nd-season",
+            "https://kitsu.io/anime/41976",
             "https://livechart.me/anime/2517",
             "https://livechart.me/anime/3106",
             "https://livechart.me/anime/3551",
@@ -13459,9 +13415,21 @@
             "https://myanimelist.net/anime/38474"
         ],
         "tags": [
+            "based on a manga",
             "cgdct",
             "comedy",
-            "slice of life"
+            "coming of age",
+            "cute girls doing cute things",
+            "environmental",
+            "female protagonist",
+            "outdoor",
+            "primarily female cast",
+            "rural",
+            "school club",
+            "school clubs",
+            "school life",
+            "slice of life",
+            "surreal comedy"
         ],
         "date": {
             "season": "spring",

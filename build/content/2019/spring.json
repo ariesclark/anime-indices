@@ -12872,33 +12872,7 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/117396"
-        ],
-        "title": "Virtual-san wa Miteiru (OVA)",
-        "type": "ova",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117396-0lfHB0hfStKs.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117396-0lfHB0hfStKs.jpg",
-        "synonyms": [
-            "Virtual-san Looking (OVA)",
-            "バーチャルさんはみている (OVA)"
-        ],
-        "relations": [
-            "https://anilist.co/anime/106433"
-        ],
-        "tags": [
-            "comedy",
-            "music",
-            "vtuber"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/117396",
             "https://anime-planet.com/anime/virtual-san-looking-specials",
             "https://kitsu.io/anime/43297",
             "https://myanimelist.net/anime/38998"
@@ -12911,10 +12885,14 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1604/98213t.jpg",
         "synonyms": [
             "Virtual-san Looking",
+            "Virtual-san Looking (OVA)",
             "Virtual-san Looking Specials",
-            "バーチャルさんはみている"
+            "Virtual-san wa Miteiru (OVA)",
+            "バーチャルさんはみている",
+            "バーチャルさんはみている (OVA)"
         ],
         "relations": [
+            "https://anilist.co/anime/106433",
             "https://anime-planet.com/anime/virtual-san-looking",
             "https://kitsu.io/anime/42042",
             "https://myanimelist.net/anime/38851"
@@ -12923,6 +12901,7 @@
             "cg animation",
             "comedy",
             "music",
+            "vtuber",
             "vtubers"
         ],
         "date": {
