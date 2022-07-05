@@ -142,8 +142,8 @@
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1908/122740.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1908/122740t.jpg",
         "synonyms": [
             "布布熊"
         ],
@@ -395,30 +395,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44378",
-            "https://myanimelist.net/anime/44379"
-        ],
-        "title": "Fuwa: Chao Shikong Renwu",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "福娃：超时空任务"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2007
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/guodong-baobei",
             "https://myanimelist.net/anime/44278"
         ],
@@ -426,8 +402,8 @@
         "type": "tv",
         "episodes": 20,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1813/123012.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1813/123012t.jpg",
         "synonyms": [
             "Jelly Babies",
             "果凍寶貝"
@@ -437,7 +413,6 @@
             "https://myanimelist.net/anime/44279"
         ],
         "tags": [
-            "adventure",
             "chinese animation",
             "comedy",
             "family friendly",
@@ -468,6 +443,7 @@
         ],
         "relations": [
             "https://anilist.co/anime/129480",
+            "https://anime-planet.com/anime/guodong-baobei",
             "https://myanimelist.net/anime/44278",
             "https://myanimelist.net/anime/44280"
         ],
@@ -783,6 +759,34 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/ku-bao-fangkuai",
+            "https://myanimelist.net/anime/46005"
+        ],
+        "title": "Ku Bao Fangkuai",
+        "type": "tv",
+        "episodes": 229,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1328/123477.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1328/123477t.jpg",
+        "synonyms": [
+            "酷宝方块"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/ku-bao-fangkuai-2nd-season"
+        ],
+        "tags": [
+            "chinese animation",
+            "comedy",
+            "kids",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/45216"
         ],
         "title": "Kuaile Du Du",
@@ -946,30 +950,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/ming-ji"
-        ],
-        "title": "Ming Ji",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/ming-ji-1.webp?t=1654113684",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/ming-ji-1-285x400.webp?t=1654113684",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/ming-ji-2-chu-zhi-lian"
-        ],
-        "tags": [
-            "chinese animation",
-            "romance",
-            "shorts"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2007
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/45197",
             "https://myanimelist.net/anime/45798"
         ],
@@ -1014,6 +994,29 @@
             "fantasy",
             "no dialogue",
             "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52235"
+        ],
+        "title": "Ningyou Animation Licca-chan",
+        "type": "tv",
+        "episodes": 12,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1721/124845.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1721/124845t.jpg",
+        "synonyms": [
+            "人形アニメーション リカちゃん"
+        ],
+        "relations": [],
+        "tags": [
+            "kids",
+            "slice of life"
         ],
         "date": {
             "season": "unknown",
@@ -1277,7 +1280,9 @@
         "synonyms": [
             "スローブレッド・屋根の上から編"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/11850"
+        ],
         "tags": [],
         "date": {
             "season": "unknown",
@@ -1456,15 +1461,18 @@
         "type": "ona",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1797/123029.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1797/123029t.jpg",
         "synonyms": [
+            "Gonfu Tu Xilie 2: Tuzi Nali Pao",
+            "Kungfu Bunny 2",
             "兔子哪里跑"
         ],
         "relations": [
             "https://anime-planet.com/anime/cai-bao-gou-da-fanji",
             "https://anime-planet.com/anime/shaolin-tu-yu-wudang-gou",
-            "https://myanimelist.net/anime/42457"
+            "https://myanimelist.net/anime/44580",
+            "https://myanimelist.net/anime/44582"
         ],
         "tags": [
             "animal protagonists",

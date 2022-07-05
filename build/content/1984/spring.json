@@ -210,7 +210,11 @@
             "The Super Dimension Cavalry Southern Cross",
             "超時空騎団サザンクロス"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/1452",
+            "https://anisearch.com/anime/1587",
+            "https://anisearch.com/anime/3450"
+        ],
         "tags": [
             "action",
             "adventure",
@@ -383,6 +387,7 @@
         "relations": [
             "https://anidb.net/anime/956",
             "https://anilist.co/anime/5658",
+            "https://anisearch.com/anime/1051",
             "https://kitsu.io/anime/4227",
             "https://myanimelist.net/anime/5658",
             "https://notify.moe/anime/EGyj5KmmR"
@@ -1058,8 +1063,8 @@
         "type": "tv",
         "episodes": 21,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/9/44612.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/9/44612t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1487/120944.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1487/120944t.jpg",
         "synonyms": [
             "Rampo",
             "Rampoo",

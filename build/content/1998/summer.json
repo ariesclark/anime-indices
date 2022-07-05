@@ -123,8 +123,6 @@
             "https://anime-planet.com/anime/all-purpose-cultural-cat-nuku-nuku-special-1",
             "https://anime-planet.com/anime/all-purpose-cultural-cat-nuku-nuku-special-2",
             "https://anisearch.com/anime/1766",
-            "https://anisearch.com/anime/3271",
-            "https://anisearch.com/anime/8535",
             "https://kitsu.io/anime/340",
             "https://myanimelist.net/anime/373",
             "https://notify.moe/anime/aLQhcFmmg"
@@ -445,6 +443,7 @@
             "https://anilist.co/anime/101178",
             "https://anime-planet.com/anime/voogies-angel",
             "https://anime-planet.com/anime/voogies-angel-forever-and-ever",
+            "https://anisearch.com/anime/2490",
             "https://kitsu.io/anime/2227",
             "https://livechart.me/anime/11048",
             "https://livechart.me/anime/11049",
@@ -710,6 +709,7 @@
             "https://anime-planet.com/anime/mokei-senshi-gunpla-builders-beginning-g",
             "https://anime-planet.com/anime/ring-of-gundam",
             "https://anime-planet.com/anime/turn-a-gundam",
+            "https://anisearch.com/anime/8926",
             "https://kitsu.io/anime/59",
             "https://kitsu.io/anime/7971",
             "https://livechart.me/anime/3938",
@@ -995,6 +995,7 @@
             "Martian Successor Nadesico - The Prince of Darkness",
             "Martian Successor Nadesico : The Motion Picture",
             "Martian Successor Nadesico: El Príncipe de la Obscuridad",
+            "Martian Successor Nadesico: El príncipe de la oscuridad",
             "Martian Successor Nadesico: Prince Of Darkness",
             "Martian Successor Nadesico: The Prince of Darkness",
             "Mobile Battleship Nadesico the Movie: Il principe delle tenebre",
@@ -1011,6 +1012,7 @@
             "https://anidb.net/anime/180",
             "https://anilist.co/anime/218",
             "https://anime-planet.com/anime/martian-successor-nadesico",
+            "https://anisearch.com/anime/1676",
             "https://kitsu.io/anime/194",
             "https://livechart.me/anime/4476",
             "https://livechart.me/anime/8454",
@@ -1057,8 +1059,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
         "synonyms": [
             "Kobo-chan Special: Yakusoku no Magic Day",
             "コボちゃんスペシャル 約束のマジックディ"
@@ -1828,6 +1830,7 @@
             "https://anidb.net/anime/69",
             "https://anilist.co/anime/21",
             "https://anime-planet.com/anime/one-piece",
+            "https://anisearch.com/anime/2227",
             "https://kitsu.io/anime/12",
             "https://livechart.me/anime/321",
             "https://livechart.me/anime/4028",
@@ -2063,6 +2066,7 @@
             "anti-hero",
             "based on a video game",
             "cgi",
+            "child protagonists",
             "comedy",
             "delinquents",
             "drama",
@@ -2142,6 +2146,7 @@
             "https://anidb.net/anime/990",
             "https://anilist.co/anime/528",
             "https://anime-planet.com/anime/pokemon-movie-1-the-first-movie",
+            "https://anisearch.com/anime/2831",
             "https://kitsu.io/anime/486",
             "https://kitsu.io/anime/487",
             "https://myanimelist.net/anime/527",
@@ -2151,6 +2156,7 @@
         ],
         "tags": [
             "adventure",
+            "adventure comedy",
             "alternative world",
             "animals",
             "based on a video game",
@@ -2186,7 +2192,9 @@
         "synonyms": [
             "サムちゃんのおばけなんか怖くない"
         ],
-        "relations": [],
+        "relations": [
+            "https://myanimelist.net/anime/35033"
+        ],
         "tags": [
             "kids",
             "supernatural"
@@ -2856,6 +2864,8 @@
             "https://anilist.co/anime/80",
             "https://anime-planet.com/anime/gundam-mission-to-the-rise",
             "https://anime-planet.com/anime/mobile-suit-gundam",
+            "https://anisearch.com/anime/3329",
+            "https://anisearch.com/anime/3893",
             "https://kitsu.io/anime/3671",
             "https://kitsu.io/anime/59",
             "https://livechart.me/anime/3938",

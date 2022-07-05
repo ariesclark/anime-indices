@@ -1212,37 +1212,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/dou-long-zhanshi-waizhuan",
-            "https://myanimelist.net/anime/44448"
-        ],
-        "title": "Dou Long Zhanshi Waizhuan",
-        "type": "special",
-        "episodes": 3,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "斗龙战士外传"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/dou-long-zhanshi",
-            "https://myanimelist.net/anime/44444"
-        ],
-        "tags": [
-            "adventure",
-            "cg animation",
-            "chinese animation",
-            "fantasy",
-            "kids",
-            "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/41661"
         ],
         "title": "Dragon Ball Z Resurrection F - Future Trunks Special Edition",
@@ -1252,7 +1221,8 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1664/108670.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1664/108670t.jpg",
         "synonyms": [
-            "Dragon Ball Super - Future Trunks Special"
+            "Dragon Ball Super - Future Trunks Special",
+            "ドラゴンボールZ 復活の『F』“未来”トランクス特別編"
         ],
         "relations": [],
         "tags": [
@@ -1513,53 +1483,6 @@
             "magic",
             "promotional",
             "sci fi"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/fengkuang-chou-xiao-ya"
-        ],
-        "title": "Fengkuang Chou Xiao Ya",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/fengkuang-chou-xiao-ya-1.webp?t=1652915900",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/fengkuang-chou-xiao-ya-1-269x377.webp?t=1652915900",
-        "synonyms": [
-            "The Ugly Duckling"
-        ],
-        "relations": [],
-        "tags": [
-            "chinese animation",
-            "family friendly"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44957"
-        ],
-        "title": "Fengkuang Chouxiaoya",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "疯狂丑小鸭"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -2114,6 +2037,29 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/hane-ga-hoshii"
+        ],
+        "title": "Hane ga Hoshii",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/hane-ga-hoshii-1.webp?t=1656804322",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/hane-ga-hoshii-1-285x399.webp?t=1656804322",
+        "synonyms": [
+            "I WANT..."
+        ],
+        "relations": [],
+        "tags": [
+            "fantasy",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/121478"
         ],
         "title": "He Nüer de Richang",
@@ -2254,6 +2200,31 @@
             "non-human protagonists",
             "promotional",
             "sanrio characters"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52243"
+        ],
+        "title": "Himitsu no Pommepomme-chan",
+        "type": "ona",
+        "episodes": 2,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1636/124853.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1636/124853t.jpg",
+        "synonyms": [
+            "Himitsu no Pompom-chanHimitsu no Pomupomu-chan",
+            "ひみつのポムポムちゃん"
+        ],
+        "relations": [],
+        "tags": [
+            "kids",
+            "mahou shoujo",
+            "showbiz"
         ],
         "date": {
             "season": "unknown",
@@ -2501,6 +2472,28 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/140626",
+            "https://anime-planet.com/anime/jyou"
+        ],
+        "title": "JYOU",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/jyou-1.webp?t=1656803911",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/jyou-1-285x399.webp?t=1656803911",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/116249"
         ],
         "title": "Jian Ji",
@@ -2552,20 +2545,23 @@
     {
         "sources": [
             "https://anilist.co/anime/140604",
+            "https://anime-planet.com/anime/jigoku-metamoru",
             "https://anisearch.com/anime/14233"
         ],
         "title": "Jigoku Metamoru",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14233.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14233.webp",
+        "picture": "https://cdn.anime-planet.com/anime/primary/jigoku-metamoru-1.webp?t=1656732141",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/jigoku-metamoru-1-285x399.webp?t=1656732141",
         "synonyms": [
             "地獄めたもる"
         ],
         "relations": [],
         "tags": [
-            "indefinite"
+            "abstract",
+            "indefinite",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -2652,30 +2648,6 @@
             "adventure",
             "fantasy",
             "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44574"
-        ],
-        "title": "Juhua Xiao Dianzhi You Shen Me season2",
-        "type": "ona",
-        "episodes": 10,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "菊花笑典之有神么 第二季"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44573"
-        ],
-        "tags": [
-            "adventure"
         ],
         "date": {
             "season": "unknown",
@@ -2821,6 +2793,51 @@
         "synonyms": [],
         "relations": [],
         "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/karma-don-galaxy"
+        ],
+        "title": "Karma DON galaxy",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/karma-don-galaxy-1.webp?t=1656802280",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/karma-don-galaxy-1-285x399.webp?t=1656802280",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "fantasy",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/kaze-no-koto-tte"
+        ],
+        "title": "Kaze no Koto tte",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/kaze-no-koto-tte-1.webp?t=1656732315",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kaze-no-koto-tte-1-285x399.webp?t=1656732315",
+        "synonyms": [
+            "a little bird told"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "fantasy",
+            "shorts"
+        ],
         "date": {
             "season": "unknown",
             "year": 2016
@@ -3133,6 +3150,31 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/140390",
+            "https://anime-planet.com/anime/kyou-wa-kyorokyoro-bargain-sale"
+        ],
+        "title": "Kyou wa Kyorokyoro Bargain Sale",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/kyou-wa-kyorokyoro-bargain-sale-1.webp?t=1656732515",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kyou-wa-kyorokyoro-bargain-sale-1-285x399.webp?t=1656732515",
+        "synonyms": [
+            "The SALE",
+            "Today is a Bargain Sale",
+            "今日はきょろきょろバーゲンセール"
+        ],
+        "relations": [],
+        "tags": [
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/lamaze-p-nanchoukei-danshi-ga-taosenai"
         ],
         "title": "Lamaze-P: Nanchoukei Danshi ga Taosenai",
@@ -3197,6 +3239,27 @@
             "black and white",
             "no dialogue",
             "promotional",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/lights-camera-action"
+        ],
+        "title": "Lights, Camera, Action",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/lights-camera-action-1.webp?t=1656802869",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/lights-camera-action-1-285x399.webp?t=1656802869",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "abstract",
             "shorts"
         ],
         "date": {
@@ -3320,6 +3383,28 @@
             "slice of life",
             "stop motion",
             "stop motion animation"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/140625",
+            "https://anime-planet.com/anime/magical-kiss"
+        ],
+        "title": "MAGICAL KISS",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/magical-kiss-1.webp?t=1656801619",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/magical-kiss-1-285x399.webp?t=1656801619",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -4088,6 +4173,32 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/140386",
+            "https://anime-planet.com/anime/namekuji"
+        ],
+        "title": "Namekuji",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/namekuji-1.webp?t=1656732663",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/namekuji-1-285x399.webp?t=1656732663",
+        "synonyms": [
+            "Slug",
+            "なめくじ"
+        ],
+        "relations": [],
+        "tags": [
+            "psychological",
+            "romance",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/41153"
         ],
         "title": "Naze Nani!? Asterisk",
@@ -4321,6 +4432,32 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/140385",
+            "https://anime-planet.com/anime/okuba-ni-sayonara"
+        ],
+        "title": "Okuba ni Sayonara",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/okuba-ni-sayonara-1.webp?t=1656803655",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/okuba-ni-sayonara-1-285x399.webp?t=1656803655",
+        "synonyms": [
+            "Good bye to OKUBA",
+            "Good bye to Okuba",
+            "オクバにさよなら"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/paellas-fire"
         ],
         "title": "PAELLAS: Fire",
@@ -4359,55 +4496,6 @@
         ],
         "tags": [
             "slice of life"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/pao-fu-xiaojie-7th-season"
-        ],
-        "title": "Pao Fu Xiaojie 7th Season",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/pao-fu-xiaojie-7th-season-1.webp?t=1653969135",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/pao-fu-xiaojie-7th-season-1-269x377.webp?t=1653969135",
-        "synonyms": [
-            "Miss Puff 7th Season"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/pao-fu-xiaojie-6th-season"
-        ],
-        "tags": [
-            "chinese animation",
-            "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44540"
-        ],
-        "title": "Pao Fu Xiaojie season7",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "泡芙小姐 第七季"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44539"
-        ],
-        "tags": [
-            "romance"
         ],
         "date": {
             "season": "unknown",
@@ -4670,30 +4758,6 @@
         ],
         "tags": [
             "chinese animation"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44128"
-        ],
-        "title": "Qin Shimingyue 2016 Chinese New year Special",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "秦时明月2016春节特别篇"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/29936"
-        ],
-        "tags": [
-            "adventure"
         ],
         "date": {
             "season": "unknown",
@@ -5141,6 +5205,33 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/140387",
+            "https://anime-planet.com/anime/sabaku-no-essay",
+            "https://anisearch.com/anime/13821"
+        ],
+        "title": "Sabaku no Essay",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/sabaku-no-essay-1.webp?t=1656731690",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/sabaku-no-essay-1-285x399.webp?t=1656731690",
+        "synonyms": [
+            "essay in the desert",
+            "さばくのエッセイ"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "desert",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/sanuki-film-festival-2016-opening-animation"
         ],
         "title": "Sanuki Film Festival 2016 Opening Animation",
@@ -5313,98 +5404,29 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44427"
-        ],
-        "title": "Shaonian Shiye Zhi Da Yu Baozang",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "少年师爷之大禹宝藏"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44413"
-        ],
-        "tags": [
-            "adventure",
-            "historical",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
+            "https://anime-planet.com/anime/shaonian-shiye-gongji-da-yu",
             "https://myanimelist.net/anime/44421"
-        ],
-        "title": "Shaonian Shiye Zhi Gongji Da Yu",
-        "type": "tv",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "少年师爷之公祭大禹"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44420",
-            "https://myanimelist.net/anime/44422"
-        ],
-        "tags": [
-            "adventure",
-            "historical",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/shaonian-shiye-da-yu-baozang"
-        ],
-        "title": "Shaonian Shiye: Da Yu Baozang",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/shaonian-shiye-da-yu-baozang-1.webp?t=1652918244",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/shaonian-shiye-da-yu-baozang-1-269x377.webp?t=1652918244",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/shaonian-shiye"
-        ],
-        "tags": [
-            "chinese animation",
-            "family friendly"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/shaonian-shiye-gongji-da-yu"
         ],
         "title": "Shaonian Shiye: Gongji Da Yu",
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/shaonian-shiye-gongji-da-yu-1.webp?t=1652918304",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/shaonian-shiye-gongji-da-yu-1-285x399.webp?t=1652918304",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1717/123107.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1717/123107t.jpg",
+        "synonyms": [
+            "少年师爷之公祭大禹"
+        ],
         "relations": [
             "https://anime-planet.com/anime/shaonian-shiye-ji-yu-shengdian",
-            "https://anime-planet.com/anime/shaonian-shiye-zhongyi-man-qiankun"
+            "https://anime-planet.com/anime/shaonian-shiye-zhongyi-man-qiankun",
+            "https://myanimelist.net/anime/44420",
+            "https://myanimelist.net/anime/44422"
         ],
         "tags": [
             "chinese animation",
-            "family friendly"
+            "family friendly",
+            "historical",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -5572,6 +5594,32 @@
             "chibi",
             "food and beverage",
             "vocaloid"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/shiro-no-kokyuu"
+        ],
+        "title": "Shiro no Kokyuu",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/shiro-no-kokyuu-1.webp?t=1656731950",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/shiro-no-kokyuu-1-285x399.webp?t=1656731950",
+        "synonyms": [
+            "white home town"
+        ],
+        "relations": [],
+        "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "non-human protagonists",
+            "shorts",
+            "stop motion animation"
         ],
         "date": {
             "season": "unknown",
@@ -5805,6 +5853,26 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/swing-by"
+        ],
+        "title": "Swing-by",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/swing-by-1.webp?t=1656732809",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/swing-by-1-285x399.webp?t=1656732809",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/tamtam-coffee-people"
         ],
         "title": "TAMTAM: Coffee People",
@@ -5817,6 +5885,29 @@
         "relations": [],
         "tags": [
             "abstract"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/tabetai-my-honey"
+        ],
+        "title": "Tabetai My Honey",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/tabetai-my-honey-1.webp?t=1656880815",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/tabetai-my-honey-1-285x399.webp?t=1656880815",
+        "synonyms": [
+            "Yummy Hunny Bunny"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -5849,21 +5940,24 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/140589"
+            "https://anilist.co/anime/140589",
+            "https://anime-planet.com/anime/taigyo-no-yome"
         ],
         "title": "Taigyo no Yome",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140589-gG9z4GANXBFy.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140589-gG9z4GANXBFy.png",
+        "picture": "https://cdn.anime-planet.com/anime/primary/taigyo-no-yome-1.webp?t=1656800050",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/taigyo-no-yome-1-285x399.webp?t=1656800050",
         "synonyms": [
             "The Big Fish Bride",
             "The wife of the Goliath fish",
             "大魚の嫁"
         ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "shorts"
+        ],
         "date": {
             "season": "unknown",
             "year": 2016
@@ -6357,33 +6451,6 @@
         "tags": [
             "abstract",
             "black and white"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/42166"
-        ],
-        "title": "Violet Evergarden CM",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1284/108546.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1284/108546t.jpg",
-        "synonyms": [
-            "「ヴァイオレット・エヴァーガーデン」",
-            "「ヴァイオレット・エヴァーガーデン」 Violet Evergarden CM"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/33352"
-        ],
-        "tags": [
-            "drama",
-            "fantasy",
-            "slice of life"
         ],
         "date": {
             "season": "unknown",
@@ -7093,30 +7160,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/you-shen-me-2nd-season"
-        ],
-        "title": "You Shen Me 2nd Season",
-        "type": "ona",
-        "episodes": 10,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/you-shen-me-2nd-season-1.webp?t=1653966906",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/you-shen-me-2nd-season-1-269x377.webp?t=1653966906",
-        "synonyms": [
-            "Is There a God? 2nd Season"
-        ],
-        "relations": [],
-        "tags": [
-            "chinese animation",
-            "fantasy",
-            "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/44970"
         ],
         "title": "Yuan Chuang Shijie Zhi Xiong Hai Zi Buluo",
@@ -7297,8 +7340,7 @@
     {
         "sources": [
             "https://anime-planet.com/anime/zui-ke-ai-de-ren",
-            "https://myanimelist.net/anime/45116",
-            "https://myanimelist.net/anime/47229"
+            "https://myanimelist.net/anime/45116"
         ],
         "title": "Zui Ke Ai De Ren",
         "type": "tv",
@@ -7307,7 +7349,6 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1553/123633.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1553/123633t.jpg",
         "synonyms": [
-            "Zui ke Ai De Ren",
             "最可爱的人"
         ],
         "relations": [
@@ -7315,8 +7356,7 @@
         ],
         "tags": [
             "chinese animation",
-            "historical",
-            "military"
+            "historical"
         ],
         "date": {
             "season": "unknown",
@@ -7469,6 +7509,28 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/140354",
+            "https://anime-planet.com/anime/mine"
+        ],
+        "title": "mine",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/mine-1.webp?t=1656800628",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/mine-1-285x399.webp?t=1656800628",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/113945",
             "https://anime-planet.com/anime/moon"
         ],
@@ -7613,6 +7675,27 @@
         "relations": [],
         "tags": [
             "vocaloid"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/shintou-messatsu"
+        ],
+        "title": "shintou messatsu",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/shintou-messatsu-1.webp?t=1656799591",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/shintou-messatsu-1-285x399.webp?t=1656799591",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "shorts"
         ],
         "date": {
             "season": "unknown",

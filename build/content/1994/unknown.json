@@ -171,9 +171,12 @@
             "Es war einmal... Forscher und Erfinder",
             "Grandi uomini per grandi idee",
             "Il était une fois... les Décōvreurs",
-            "Once Upon a Time... The Discoverers"
+            "Once Upon a Time... The Discoverers",
+            "Érase Una Vez... los Inventores"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/4749"
+        ],
         "tags": [
             "historical",
             "indefinite"
@@ -344,6 +347,36 @@
             "music",
             "sci-fi",
             "space"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1994
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/151627"
+        ],
+        "title": "Nippon Seimei CM",
+        "type": "special",
+        "episodes": 3,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b151627-BZ3O1Wq0DkKh.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b151627-BZ3O1Wq0DkKh.jpg",
+        "synonyms": [
+            "Ashita no Joe x Nippon seimei",
+            "Nissay CM",
+            "あしたのジョーCM",
+            "あしたのジョーx日本生命",
+            "日本生命のCM"
+        ],
+        "relations": [
+            "https://anilist.co/anime/2921"
+        ],
+        "tags": [
+            "advertisement",
+            "boxing",
+            "male protagonist"
         ],
         "date": {
             "season": "unknown",

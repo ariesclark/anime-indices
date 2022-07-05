@@ -150,7 +150,9 @@
             "Football Kids",
             "Robokicks"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/16747"
+        ],
         "tags": [
             "soccer",
             "sports"
@@ -467,9 +469,10 @@
         "type": "tv",
         "episodes": 32,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1474/123088.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1474/123088t.jpg",
         "synonyms": [
+            "The Story of Huazhi",
             "花枝的故事"
         ],
         "relations": [],
@@ -1094,22 +1097,29 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/qiqi-keke-lixian-ji"
+            "https://anime-planet.com/anime/qiqi-keke-lixian-ji",
+            "https://myanimelist.net/anime/44366"
         ],
         "title": "QiQi KeKe Lixian Ji",
         "type": "tv",
         "episodes": 210,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/qiqi-keke-lixian-ji-1.webp?t=1653502858",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/qiqi-keke-lixian-ji-1-285x400.webp?t=1653502858",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1328/123970.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1328/123970t.jpg",
+        "synonyms": [
+            "奇奇颗颗历险记"
+        ],
         "relations": [
-            "https://anime-planet.com/anime/qiqi-keke-shuo-konglong"
+            "https://anime-planet.com/anime/qiqi-keke-shuo-konglong",
+            "https://myanimelist.net/anime/44369"
         ],
         "tags": [
+            "adventure",
             "chinese animation",
             "dinosaurs",
             "family friendly",
+            "historical",
+            "kids",
             "non-human protagonists",
             "prehistoric",
             "short episodes"
@@ -1477,33 +1487,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/yu-shi",
-            "https://myanimelist.net/anime/44669"
-        ],
-        "title": "Yu Shi",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "雨石"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "chinese animation",
-            "drama",
-            "kids",
-            "romance"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2006
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/148569"
         ],
         "title": "Yume wo Kanaeyou",
@@ -1528,19 +1511,18 @@
             "https://anime-planet.com/anime/zhongguo-nanhai-hong-zhanhui",
             "https://myanimelist.net/anime/44373"
         ],
-        "title": "Zhongguo Nanhai Hongzhanhui",
+        "title": "Zhongguo Nanhai: Hong Zhanhui",
         "type": "tv",
         "episodes": 12,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1288/123087.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1288/123087t.jpg",
         "synonyms": [
-            "Zhongguo Nanhai: Hong Zhanhui",
+            "China Boy: Hong Zhanhui",
             "中国男孩洪战辉"
         ],
         "relations": [],
         "tags": [
-            "adventure",
             "chinese animation",
             "family friendly",
             "kids",

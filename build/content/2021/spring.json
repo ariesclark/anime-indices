@@ -33,6 +33,7 @@
             "https://anilist.co/anime/21730",
             "https://anime-planet.com/anime/star-blazers-space-battleship-yamato-2199",
             "https://anime-planet.com/anime/star-blazers-space-battleship-yamato-2202",
+            "https://anisearch.com/anime/11350",
             "https://kitsu.io/anime/43641",
             "https://kitsu.io/anime/44694",
             "https://livechart.me/anime/10540",
@@ -262,6 +263,7 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/86-eighty-six",
+            "https://anisearch.com/anime/15075",
             "https://kitsu.io/anime/43066",
             "https://myanimelist.net/anime/41457",
             "https://notify.moe/anime/jr9QQBXWg"
@@ -619,6 +621,7 @@
             "https://anime-planet.com/anime/ashuai-6th-season"
         ],
         "tags": [
+            "based on a manga",
             "chinese animation",
             "comedy",
             "short episodes"
@@ -756,6 +759,8 @@
             "https://anilist.co/anime/146885",
             "https://anime-planet.com/anime/bakugan-armored-alliance",
             "https://anime-planet.com/anime/bakugan-evolutions",
+            "https://anisearch.com/anime/15061",
+            "https://anisearch.com/anime/17015",
             "https://kitsu.io/anime/43043",
             "https://kitsu.io/anime/46020",
             "https://livechart.me/anime/10523",
@@ -1518,6 +1523,7 @@
             "https://kitsu.io/anime/41971",
             "https://kitsu.io/anime/44209",
             "https://kitsu.io/anime/45240",
+            "https://kitsu.io/anime/46117",
             "https://livechart.me/anime/10100",
             "https://livechart.me/anime/10236",
             "https://livechart.me/anime/10814",
@@ -1722,6 +1728,8 @@
             "https://anime-planet.com/anime/cardfight-vanguard-overdress-2nd-season",
             "https://anime-planet.com/anime/cardfight-vanguard-overdress-3rd-season",
             "https://anime-planet.com/anime/cardfight-vanguard-overdress-4th-season",
+            "https://anisearch.com/anime/15140",
+            "https://anisearch.com/anime/15952",
             "https://kitsu.io/anime/44521",
             "https://kitsu.io/anime/5781",
             "https://livechart.me/anime/10356",
@@ -1780,12 +1788,14 @@
             "https://anime-planet.com/anime/castlevania-season-2",
             "https://anime-planet.com/anime/castlevania-season-3",
             "https://kitsu.io/anime/41990",
+            "https://kitsu.io/anime/46173",
             "https://notify.moe/anime/_vf42B-mR"
         ],
         "tags": [
             "15th century",
             "action",
             "adventure",
+            "anime influenced",
             "based on a video game",
             "dark fantasy",
             "drama",
@@ -1810,6 +1820,7 @@
             "https://anilist.co/anime/136946",
             "https://anime-planet.com/anime/seirei-gensouki-spirit-chronicles-mini-anime",
             "https://anisearch.com/anime/16657",
+            "https://kitsu.io/anime/46217",
             "https://livechart.me/anime/10606",
             "https://myanimelist.net/anime/49215",
             "https://notify.moe/anime/V2kpn1Wng"
@@ -1830,6 +1841,8 @@
         "relations": [
             "https://anilist.co/anime/126546",
             "https://anime-planet.com/anime/seirei-gensouki-spirit-chronicles",
+            "https://anisearch.com/anime/15782",
+            "https://kitsu.io/anime/44174",
             "https://livechart.me/anime/10238",
             "https://livechart.me/anime/10875",
             "https://myanimelist.net/anime/44203",
@@ -1844,6 +1857,7 @@
             "reincarnation",
             "short episodes",
             "slice of life",
+            "super deformed",
             "teacher"
         ],
         "date": {
@@ -2458,14 +2472,15 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/44576"
+            "https://kitsu.io/anime/44576",
+            "https://myanimelist.net/anime/52279"
         ],
         "title": "Diamond City Lights",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44576/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44576/tiny.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1467/124917.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1467/124917t.jpg",
         "synonyms": [
             "LazuLight - Diamond City Lights",
             "NIJISANJI EN - Diamond City Lights"
@@ -3227,6 +3242,7 @@
             "drama",
             "educational",
             "foreign",
+            "meta",
             "mina",
             "primarily adult cast",
             "shoujo",
@@ -3249,7 +3265,9 @@
         "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16198.webp",
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16198.webp",
         "synonyms": [],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/9270"
+        ],
         "tags": [
             "cg-anime",
             "present",
@@ -3273,7 +3291,9 @@
         "synonyms": [
             "HE★VENS - Endless Score"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/10834"
+        ],
         "tags": [],
         "date": {
             "season": "spring",
@@ -3405,6 +3425,7 @@
             "https://anilist.co/anime/20930",
             "https://anime-planet.com/anime/etotama",
             "https://anime-planet.com/anime/etotama-specials",
+            "https://anisearch.com/anime/9942",
             "https://kitsu.io/anime/9976",
             "https://livechart.me/anime/1278",
             "https://livechart.me/anime/1744",
@@ -3789,27 +3810,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/140026",
-            "https://kitsu.io/anime/45772"
-        ],
-        "title": "Fragile",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45772/poster_image/small-a670d72d9def3c48a6b2f3f046719d41.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45772/poster_image/tiny-8bfc9b8fc0c9631d67ff86ec34721150.jpeg",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "psychological"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/15738",
             "https://anilist.co/anime/124194",
             "https://anime-planet.com/anime/fruits-basket-the-final-season",
@@ -3853,9 +3853,8 @@
             "https://anime-planet.com/anime/fruits-basket",
             "https://anime-planet.com/anime/fruits-basket-1st-season",
             "https://anime-planet.com/anime/fruits-basket-2nd-season",
-            "https://anisearch.com/anime/13991",
             "https://anisearch.com/anime/14621",
-            "https://anisearch.com/anime/2632",
+            "https://anisearch.com/anime/16445",
             "https://kitsu.io/anime/42554",
             "https://livechart.me/anime/10667",
             "https://livechart.me/anime/3700",
@@ -4402,6 +4401,7 @@
         "relations": [
             "https://anilist.co/anime/114979",
             "https://anime-planet.com/anime/love-live-superstar",
+            "https://anisearch.com/anime/15582",
             "https://myanimelist.net/anime/41169"
         ],
         "tags": [
@@ -4645,6 +4645,7 @@
             "netorare",
             "novel",
             "office lady",
+            "office worker",
             "older man, younger woman",
             "plot continuity",
             "present",
@@ -4713,6 +4714,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1692/112088t.jpg",
         "synonyms": [
             "HOLOLIVE ALTERNATIVE Teaser PVs",
+            "Hololive Alternative: Dawn Blue",
             "hololive Alternative Teaser PV",
             "『ホロライブ・オルタナティブ』 ティザーPV",
             "『ホロライブ・オルタナティブ』 ティザーPVs",
@@ -4997,26 +4999,6 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/16776"
-        ],
-        "title": "Iichiko Story",
-        "type": "special",
-        "episodes": 1,
-        "status": "ongoing",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16776.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16776.webp",
-        "synonyms": [
-            "Īchiko Story"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/15928",
             "https://anilist.co/anime/130514",
             "https://anime-planet.com/anime/iii-icecrin",
@@ -5194,6 +5176,8 @@
             "https://anilist.co/anime/131944",
             "https://anime-planet.com/anime/how-not-to-summon-a-demon-lord",
             "https://anime-planet.com/anime/how-not-to-summon-a-demon-lord-omega-mini-anime",
+            "https://anisearch.com/anime/13283",
+            "https://anisearch.com/anime/16473",
             "https://kitsu.io/anime/41133",
             "https://kitsu.io/anime/44527",
             "https://livechart.me/anime/10485",
@@ -5321,6 +5305,7 @@
             "J〇フーゾク学園祭"
         ],
         "relations": [
+            "https://anisearch.com/anime/11497",
             "https://myanimelist.net/anime/33322"
         ],
         "tags": [
@@ -5355,6 +5340,8 @@
         "synonyms": [
             "Bottom-Tier Character Tomozaki OVA",
             "Bottom-Tier Character Tomozaki Specials",
+            "Bottom-Tier Character Tomozaki: Most strange spell names have unknown origins",
+            "Bottom-Tier Character Tomozaki: Post-game equipment for girls is a little different than usual",
             "Bottom-tier Character Tomozaki OVA",
             "Jaku-Chara Tomozaki-kun OVA",
             "The Low Tier Character \"Tomozaki-kun\" OVA",
@@ -5366,6 +5353,7 @@
         "relations": [
             "https://anilist.co/anime/112443",
             "https://anime-planet.com/anime/bottom-tier-character-tomozaki",
+            "https://anisearch.com/anime/14684",
             "https://kitsu.io/anime/42621",
             "https://livechart.me/anime/11034",
             "https://livechart.me/anime/9638",
@@ -5374,7 +5362,6 @@
         ],
         "tags": [
             "based on a light novel",
-            "body horror",
             "comedy",
             "drama",
             "female protagonist",
@@ -5578,7 +5565,8 @@
             "かぐや様は告らせたい ～天才たちの恋愛頭脳戦～ OVA",
             "かぐや様は告らせたい? ~天才たちの恋愛頭脳戦~ (2021)",
             "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ （2021）",
-            "かぐや様は告らせたい～天才たちの恋愛頭脳戦～OVA"
+            "かぐや様は告らせたい～天才たちの恋愛頭脳戦～OVA",
+            "辉夜大小姐想让我告白？～天才们的恋爱头脑战～OVA"
         ],
         "relations": [
             "https://anidb.net/anime/15207",
@@ -5651,6 +5639,7 @@
             "https://anidb.net/anime/14806",
             "https://anime-planet.com/anime/kaijuu-step-wandabada",
             "https://anime-planet.com/anime/the-kaijuu-step",
+            "https://anisearch.com/anime/14642",
             "https://kitsu.io/anime/42594",
             "https://myanimelist.net/anime/39628"
         ],
@@ -6263,7 +6252,6 @@
             "romance",
             "short episodes",
             "shounen ai",
-            "smut",
             "yaoi"
         ],
         "date": {
@@ -6434,7 +6422,8 @@
             "李林克的小馆儿"
         ],
         "relations": [
-            "https://anilist.co/anime/141876"
+            "https://anilist.co/anime/141876",
+            "https://anisearch.com/anime/17136"
         ],
         "tags": [
             "chinese animation",
@@ -6520,6 +6509,7 @@
         "sources": [
             "https://anidb.net/anime/16313",
             "https://anilist.co/anime/126833",
+            "https://anime-planet.com/anime/ling-cage-final-chapter",
             "https://anime-planet.com/anime/ling-long-incarnation-zhong-zhang-2021",
             "https://kitsu.io/anime/43743",
             "https://myanimelist.net/anime/44090",
@@ -6533,6 +6523,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1916/114704t.jpg",
         "synonyms": [
             "Ling Cage Final Chapter",
+            "Ling Cage: Final Chapter",
             "Ling Long Final Chapter",
             "Ling Long Zhong Zhang",
             "Ling Long: Incarnation Final Chapter (2021)",
@@ -6548,6 +6539,8 @@
             "https://anidb.net/anime/15674",
             "https://anilist.co/anime/120300",
             "https://anilist.co/anime/134045",
+            "https://anime-planet.com/anime/ling-cage-incarnation-special",
+            "https://anime-planet.com/anime/ling-cage-part-ii",
             "https://anime-planet.com/anime/ling-long-2nd-season",
             "https://anime-planet.com/anime/ling-long-incarnation-part-ii",
             "https://anime-planet.com/anime/ling-long-incarnation-special",
@@ -6594,6 +6587,7 @@
         "sources": [
             "https://anidb.net/anime/16329",
             "https://anilist.co/anime/134045",
+            "https://anime-planet.com/anime/ling-cage-incarnation-special",
             "https://anime-planet.com/anime/ling-long-incarnation-special",
             "https://kitsu.io/anime/44571",
             "https://myanimelist.net/anime/48890",
@@ -6607,6 +6601,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1057/114752t.jpg",
         "synonyms": [
             ": 灵笼:INCARNATION 特别篇",
+            "Ling Cage: Incarnation Special",
             "Ling Long Tebie Pian",
             "Ling Long: Incarnation - Tebie Pian",
             "Ling Long: Incarnation Special Chapter",
@@ -6622,6 +6617,8 @@
             "https://anidb.net/anime/15632",
             "https://anilist.co/anime/126833",
             "https://anilist.co/anime/135580",
+            "https://anime-planet.com/anime/ling-cage",
+            "https://anime-planet.com/anime/ling-cage-final-chapter",
             "https://anime-planet.com/anime/ling-long-incarnation",
             "https://anime-planet.com/anime/ling-long-incarnation-zhong-zhang-2021",
             "https://kitsu.io/anime/43743",
@@ -7085,6 +7082,7 @@
             "https://anilist.co/anime/128675",
             "https://anime-planet.com/anime/burnout-syndromes-blizzard",
             "https://anime-planet.com/anime/mashiro-no-oto-mini",
+            "https://anisearch.com/anime/16365",
             "https://kitsu.io/anime/44581",
             "https://livechart.me/anime/10350",
             "https://myanimelist.net/anime/46119",
@@ -7920,7 +7918,9 @@
             "Natsume’s Book of Friends × Kumamoto Prefecture: A Day Out in Hitoyoshi Kuma",
             "夏目友人帳×熊本県「人吉・球磨での優しい時間」"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/4776"
+        ],
         "tags": [
             "present"
         ],
@@ -8036,6 +8036,7 @@
             "ネトカノ"
         ],
         "relations": [
+            "https://anisearch.com/anime/15998",
             "https://myanimelist.net/anime/48889"
         ],
         "tags": [
@@ -8070,6 +8071,7 @@
             "ネトシス"
         ],
         "relations": [
+            "https://anisearch.com/anime/15991",
             "https://myanimelist.net/anime/48513"
         ],
         "tags": [
@@ -8181,6 +8183,7 @@
             "https://anilist.co/anime/132904",
             "https://anilist.co/anime/2402",
             "https://anime-planet.com/anime/megalo-box",
+            "https://anime-planet.com/anime/megalo-box-2-nomad-hummingbird-and-the-traveler",
             "https://kitsu.io/anime/13949",
             "https://kitsu.io/anime/44821",
             "https://livechart.me/anime/10513",
@@ -8403,6 +8406,7 @@
             "https://anidb.net/anime/17076",
             "https://anilist.co/anime/143080",
             "https://anime-planet.com/anime/odd-taxi-in-the-woods",
+            "https://anime-planet.com/anime/odd-taxi-picture-drama",
             "https://kitsu.io/anime/45653",
             "https://livechart.me/anime/10968",
             "https://myanimelist.net/anime/50653",
@@ -8627,6 +8631,7 @@
             "https://livechart.me/anime/9791",
             "https://livechart.me/anime/9827",
             "https://myanimelist.net/anime/41778",
+            "https://myanimelist.net/anime/50799",
             "https://notify.moe/anime/iEz6IVwMR"
         ],
         "tags": [
@@ -8963,7 +8968,9 @@
         "synonyms": [
             "Quartet Night - Quartet Crown"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/10834"
+        ],
         "tags": [
             "cg-anime"
         ],
@@ -9374,7 +9381,7 @@
         ],
         "title": "Sakusei Byoutou The Animation",
         "type": "ova",
-        "episodes": 2,
+        "episodes": 3,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1726/114081.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1726/114081t.jpg",
@@ -9449,6 +9456,8 @@
             "https://anilist.co/anime/132061",
             "https://anime-planet.com/anime/farewell-my-dear-cramer-movie-first-touch",
             "https://anime-planet.com/anime/good-bye-cramer-mini-anime",
+            "https://anisearch.com/anime/15517",
+            "https://anisearch.com/anime/16480",
             "https://kitsu.io/anime/44339",
             "https://livechart.me/anime/10131",
             "https://livechart.me/anime/10468",
@@ -10496,7 +10505,6 @@
             "girls love",
             "henshin",
             "heroine of strong character",
-            "lgbtq+ themes",
             "meta",
             "music",
             "musical",
@@ -10560,8 +10568,10 @@
             "https://anidb.net/anime/16540",
             "https://anilist.co/anime/138056",
             "https://anilist.co/anime/138106",
-            "https://anime-planet.com/anime/record-of-ragnarok-2",
+            "https://anime-planet.com/anime/record-of-ragnarok-ii",
             "https://anime-planet.com/anime/record-of-ragnarok-mini-anime",
+            "https://anisearch.com/anime/16535",
+            "https://anisearch.com/anime/16957",
             "https://kitsu.io/anime/44988",
             "https://livechart.me/anime/10720",
             "https://livechart.me/anime/10754",
@@ -10839,71 +10849,7 @@
             "https://anidb.net/anime/5548",
             "https://anilist.co/anime/1960",
             "https://anime-planet.com/anime/sore-ike-anpanman",
-            "https://anisearch.com/anime/10200",
-            "https://anisearch.com/anime/11284",
-            "https://anisearch.com/anime/11668",
-            "https://anisearch.com/anime/12016",
-            "https://anisearch.com/anime/12023",
-            "https://anisearch.com/anime/12255",
-            "https://anisearch.com/anime/13190",
-            "https://anisearch.com/anime/14159",
-            "https://anisearch.com/anime/4235",
-            "https://anisearch.com/anime/4549",
             "https://anisearch.com/anime/4578",
-            "https://anisearch.com/anime/4788",
-            "https://anisearch.com/anime/4985",
-            "https://anisearch.com/anime/5019",
-            "https://anisearch.com/anime/5321",
-            "https://anisearch.com/anime/5322",
-            "https://anisearch.com/anime/5323",
-            "https://anisearch.com/anime/5324",
-            "https://anisearch.com/anime/5325",
-            "https://anisearch.com/anime/5326",
-            "https://anisearch.com/anime/5327",
-            "https://anisearch.com/anime/5328",
-            "https://anisearch.com/anime/5329",
-            "https://anisearch.com/anime/5330",
-            "https://anisearch.com/anime/5331",
-            "https://anisearch.com/anime/5332",
-            "https://anisearch.com/anime/5333",
-            "https://anisearch.com/anime/5334",
-            "https://anisearch.com/anime/5335",
-            "https://anisearch.com/anime/5336",
-            "https://anisearch.com/anime/5337",
-            "https://anisearch.com/anime/5338",
-            "https://anisearch.com/anime/5502",
-            "https://anisearch.com/anime/5504",
-            "https://anisearch.com/anime/6222",
-            "https://anisearch.com/anime/6246",
-            "https://anisearch.com/anime/6247",
-            "https://anisearch.com/anime/6248",
-            "https://anisearch.com/anime/6249",
-            "https://anisearch.com/anime/6364",
-            "https://anisearch.com/anime/6365",
-            "https://anisearch.com/anime/6366",
-            "https://anisearch.com/anime/6367",
-            "https://anisearch.com/anime/6368",
-            "https://anisearch.com/anime/6369",
-            "https://anisearch.com/anime/6370",
-            "https://anisearch.com/anime/6374",
-            "https://anisearch.com/anime/6375",
-            "https://anisearch.com/anime/6376",
-            "https://anisearch.com/anime/6377",
-            "https://anisearch.com/anime/6378",
-            "https://anisearch.com/anime/6380",
-            "https://anisearch.com/anime/6384",
-            "https://anisearch.com/anime/6953",
-            "https://anisearch.com/anime/6956",
-            "https://anisearch.com/anime/7638",
-            "https://anisearch.com/anime/8266",
-            "https://anisearch.com/anime/8459",
-            "https://anisearch.com/anime/8508",
-            "https://anisearch.com/anime/8845",
-            "https://anisearch.com/anime/8872",
-            "https://anisearch.com/anime/8932",
-            "https://anisearch.com/anime/8933",
-            "https://anisearch.com/anime/9060",
-            "https://anisearch.com/anime/9581",
             "https://myanimelist.net/anime/1960",
             "https://notify.moe/anime/Mt7Y5KmmR"
         ],
@@ -10956,7 +10902,9 @@
         "synonyms": [
             "ST☆RISH - Star Wish"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/10834"
+        ],
         "tags": [
             "cg-anime"
         ],
@@ -11192,7 +11140,9 @@
             "例えば",
             "花譜 - 例えば"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/12803"
+        ],
         "tags": [],
         "date": {
             "season": "spring",
@@ -12062,6 +12012,7 @@
             "sci-fi",
             "science fiction",
             "science-fiction",
+            "seinen",
             "solo singer",
             "space",
             "suicide",
@@ -12103,6 +12054,7 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/vivy-fluorite-eyes-song",
+            "https://anisearch.com/anime/15898",
             "https://kitsu.io/anime/43933",
             "https://myanimelist.net/anime/46095",
             "https://notify.moe/anime/Wq6nPnfMg"
@@ -12922,6 +12874,7 @@
             "https://anidb.net/anime/16390",
             "https://anilist.co/anime/135939",
             "https://anime-planet.com/anime/lets-make-a-mug-too-2nd-season",
+            "https://anisearch.com/anime/16408",
             "https://kitsu.io/anime/44787",
             "https://livechart.me/anime/10654",
             "https://myanimelist.net/anime/49263",
@@ -13287,7 +13240,7 @@
         ],
         "title": "Youkai Watch ♪",
         "type": "tv",
-        "episodes": 61,
+        "episodes": 62,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1682/118273.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1682/118273t.jpg",
@@ -13583,6 +13536,8 @@
             "https://anilist.co/anime/138700",
             "https://anime-planet.com/anime/moriarty-the-patriot",
             "https://anime-planet.com/anime/moriarty-the-patriot-ova",
+            "https://anisearch.com/anime/14836",
+            "https://anisearch.com/anime/16570",
             "https://kitsu.io/anime/43448",
             "https://kitsu.io/anime/45069",
             "https://livechart.me/anime/10772",
@@ -13872,6 +13827,32 @@
             "anime influenced",
             "idol",
             "music"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anisearch.com/anime/16776",
+            "https://myanimelist.net/anime/52227"
+        ],
+        "title": "iichiko Story",
+        "type": "special",
+        "episodes": 1,
+        "status": "ongoing",
+        "picture": "https://cdn.myanimelist.net/images/anime/1274/124927.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1274/124927t.jpg",
+        "synonyms": [
+            "Iichiko Story",
+            "iichiko story",
+            "Īchiko Story"
+        ],
+        "relations": [],
+        "tags": [
+            "adult cast",
+            "slice of life"
         ],
         "date": {
             "season": "spring",

@@ -35,6 +35,7 @@
             "original work",
             "short movie",
             "shorts",
+            "silent movie",
             "slice of life",
             "slice of life drama"
         ],
@@ -290,6 +291,7 @@
             "no dialogue",
             "non-human protagonists",
             "shorts",
+            "silent movie",
             "slice of life",
             "slice of life drama",
             "work"
@@ -360,7 +362,8 @@
             "心の力"
         ],
         "relations": [
-            "https://anidb.net/anime/10735"
+            "https://anidb.net/anime/10735",
+            "https://anisearch.com/anime/10065"
         ],
         "tags": [
             "action",
@@ -373,6 +376,7 @@
             "romance",
             "short movie",
             "shorts",
+            "silent movie",
             "slapstick",
             "swords & co",
             "youkai"
@@ -499,11 +503,13 @@
         "relations": [],
         "tags": [
             "black and white",
+            "child protagonists",
             "circus",
             "comedy",
             "kids",
             "no dialogue",
-            "shorts"
+            "shorts",
+            "silent movie"
         ],
         "date": {
             "season": "winter",
@@ -608,7 +614,7 @@
             "https://kitsu.io/anime/41523",
             "https://myanimelist.net/anime/34957"
         ],
-        "title": "Ookami wa Ookamida",
+        "title": "Ookami wa Ookami da",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
@@ -619,9 +625,11 @@
             "A Wolf is a Wolf",
             "Manga Okami wa okami da",
             "Manga Ookami wa Ookami Da",
+            "Manga Ookami wa Ookami da",
             "Manga Ookami wa Ookamida",
             "Manga Ōkami wa Ōkami Da",
             "Manga: Ookami wa Ookami da",
+            "Ookami wa Ookamida",
             "漫画 狼は狼だ",
             "狼は狼だ"
         ],
@@ -776,7 +784,8 @@
             "ocean",
             "original work",
             "short movie",
-            "shorts"
+            "shorts",
+            "silent movie"
         ],
         "date": {
             "season": "winter",

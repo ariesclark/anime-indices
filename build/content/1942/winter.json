@@ -103,7 +103,12 @@
         "synonyms": [
             "かぐや姫"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/11442",
+            "https://anisearch.com/anime/4954",
+            "https://anisearch.com/anime/6397",
+            "https://anisearch.com/anime/8235"
+        ],
         "tags": [
             "drama",
             "historical",
@@ -190,7 +195,10 @@
             "Mābō no Tairiku Senbutai Zenpen: Circus no Maki",
             "マー坊の大陸宣撫隊 前篇 サーカスの巻"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/5666",
+            "https://anisearch.com/anime/7023"
+        ],
         "tags": [
             "boxing",
             "ganbatte",
@@ -211,8 +219,8 @@
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
         "synonyms": [
             "Mābō no Tekketsu Rikusentai",
             "マー坊の鉄血陸戦隊"
@@ -251,6 +259,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/6577",
+            "https://anisearch.com/anime/7066",
             "https://myanimelist.net/anime/4397"
         ],
         "tags": [

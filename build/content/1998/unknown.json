@@ -23,14 +23,16 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/an-introduction-of-human-zoology"
+            "https://anilist.co/anime/151644",
+            "https://anime-planet.com/anime/an-introduction-of-human-zoology",
+            "https://myanimelist.net/anime/52268"
         ],
         "title": "An introduction of human zoology",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/an-introduction-of-human-zoology-1.jpg?t=1634436804",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/an-introduction-of-human-zoology-1-285x400.jpg?t=1634436804",
+        "picture": "https://cdn.myanimelist.net/images/anime/1617/124898.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1617/124898t.jpg",
         "synonyms": [],
         "relations": [],
         "tags": [
@@ -44,14 +46,16 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/burp"
+            "https://anilist.co/anime/151645",
+            "https://anime-planet.com/anime/burp",
+            "https://myanimelist.net/anime/52269"
         ],
         "title": "BURP",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/burp-1.jpg?t=1634436989",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/burp-1-285x400.jpg?t=1634436989",
+        "picture": "https://cdn.myanimelist.net/images/anime/1774/124899.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1774/124899t.jpg",
         "synonyms": [],
         "relations": [],
         "tags": [
@@ -106,21 +110,25 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/cong-ming-de-ben-xiao-zhu"
+            "https://anime-planet.com/anime/cong-ming-de-ben-xiao-zhu",
+            "https://myanimelist.net/anime/43945"
         ],
         "title": "Cong Ming De Ben Xiao Zhu",
         "type": "tv",
         "episodes": 17,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/cong-ming-de-ben-xiao-zhu-1.webp?t=1652411154",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/cong-ming-de-ben-xiao-zhu-1-269x378.webp?t=1652411154",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1945/122813.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1945/122813t.jpg",
+        "synonyms": [
+            "聪明的笨小猪"
+        ],
         "relations": [],
         "tags": [
             "animal protagonists",
             "anthropomorphic",
             "chinese animation",
             "family friendly",
+            "kids",
             "non-human protagonists",
             "pigs",
             "short episodes"
@@ -231,8 +239,8 @@
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1233/122828.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1233/122828t.jpg",
         "synonyms": [
             "咕噜先生"
         ],
@@ -241,7 +249,6 @@
             "anthropomorphic",
             "chinese animation",
             "comedy",
-            "fantasy",
             "kids",
             "non-human protagonists",
             "short episodes"
@@ -371,10 +378,7 @@
             "異次元の世界エルハザード 魅惑・誘惑・みそぎの夜"
         ],
         "relations": [
-            "https://anisearch.com/anime/2168",
-            "https://anisearch.com/anime/2224",
-            "https://anisearch.com/anime/301",
-            "https://anisearch.com/anime/3348"
+            "https://anisearch.com/anime/2168"
         ],
         "tags": [
             "action",

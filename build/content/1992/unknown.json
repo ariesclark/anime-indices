@@ -216,15 +216,14 @@
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1133/123119.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1133/123119t.jpg",
         "synonyms": [
             "古书新说"
         ],
         "relations": [],
         "tags": [
             "chinese animation",
-            "historical",
             "kids",
             "shorts"
         ],
@@ -274,7 +273,9 @@
             "Black Cat Detective 2",
             "黑猫警长 2"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/10128"
+        ],
         "tags": [],
         "date": {
             "season": "unknown",
@@ -686,8 +687,8 @@
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1390/122827.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1390/122827t.jpg",
         "synonyms": [
             "Son of the Sun",
             "太阳之子"
@@ -695,9 +696,11 @@
         "relations": [],
         "tags": [
             "adventure",
+            "anthropomorphic",
             "chinese animation",
             "fantasy",
             "kids",
+            "sci-fi",
             "short episodes"
         ],
         "date": {

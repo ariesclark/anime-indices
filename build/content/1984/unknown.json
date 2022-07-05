@@ -326,8 +326,8 @@
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1789/118418.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1789/118418t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1245/123723.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1245/123723t.jpg",
         "synonyms": [
             "Kuai Le De Shu Zi",
             "快乐的数字"
@@ -596,7 +596,9 @@
             "Saving Mother",
             "西岳奇童"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/1541"
+        ],
         "tags": [],
         "date": {
             "season": "unknown",

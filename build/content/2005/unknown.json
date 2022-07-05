@@ -398,8 +398,8 @@
         "type": "tv",
         "episodes": 65,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1535/123081.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1535/123081t.jpg",
         "synonyms": [
             "虹猫蓝兔MTV"
         ],
@@ -412,49 +412,11 @@
             "anthropomorphic",
             "chinese animation",
             "family friendly",
+            "fantasy",
             "kids",
+            "music",
             "non-human protagonists",
             "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2005
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/14142",
-            "https://anilist.co/anime/121931",
-            "https://myanimelist.net/anime/39125",
-            "https://myanimelist.net/anime/44362"
-        ],
-        "title": "Hong Mao Lan Tu Maoyan Kan Yuzhou",
-        "type": "tv",
-        "episodes": 100,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "Homer and Landau's Universe",
-            "Hong Mao Lan Tu: Maoyan Kan Yuzhou",
-            "Hongmao and Lantu: Cat`s Peephole to Universe",
-            "Howie & Landau: Cat`s Peephole to Universe",
-            "Rainbow Cat And Blue Rabbit: Cat`s Peephole to Universe",
-            "虹猫蓝兔猫眼看宇宙"
-        ],
-        "relations": [
-            "https://anidb.net/anime/14139",
-            "https://anidb.net/anime/14143",
-            "https://anilist.co/anime/121927",
-            "https://anilist.co/anime/121933",
-            "https://myanimelist.net/anime/39121",
-            "https://myanimelist.net/anime/39124",
-            "https://myanimelist.net/anime/39126"
-        ],
-        "tags": [
-            "adventure",
-            "comedy",
-            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -507,7 +469,10 @@
             "https://anime-planet.com/anime/hong-mao-lan-tu-xiao-youmo",
             "https://anime-planet.com/anime/hong-mao-lan-tu-yongzhe-guilai",
             "https://anime-planet.com/anime/hong-mao-lan-tu-zhang-jian-zou-tianya",
-            "https://myanimelist.net/anime/39122"
+            "https://myanimelist.net/anime/39122",
+            "https://myanimelist.net/anime/44358",
+            "https://myanimelist.net/anime/44363",
+            "https://myanimelist.net/anime/44365"
         ],
         "tags": [
             "adventure",
@@ -701,6 +666,44 @@
             "comedy",
             "family friendly",
             "half-length episodes",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2005
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/14142",
+            "https://anilist.co/anime/121931",
+            "https://myanimelist.net/anime/39125"
+        ],
+        "title": "Hong Mao Lan Tu: Maoyan Kan Yuzhou",
+        "type": "tv",
+        "episodes": 97,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1999/98697.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1999/98697t.jpg",
+        "synonyms": [
+            "Homer and Landau's Universe",
+            "Hong Mao Lan Tu Maoyan Kan Yuzhou",
+            "Hongmao and Lantu: Cat`s Peephole to Universe",
+            "Howie & Landau: Cat`s Peephole to Universe",
+            "Rainbow Cat And Blue Rabbit: Cat`s Peephole to Universe",
+            "虹猫蓝兔猫眼看宇宙"
+        ],
+        "relations": [
+            "https://anidb.net/anime/14139",
+            "https://anidb.net/anime/14143",
+            "https://anilist.co/anime/121927",
+            "https://anilist.co/anime/121933",
+            "https://myanimelist.net/anime/39124",
+            "https://myanimelist.net/anime/39126"
+        ],
+        "tags": [
+            "adventure",
+            "comedy",
             "kids"
         ],
         "date": {
@@ -1007,7 +1010,9 @@
         "status": "finished",
         "picture": "https://cdn.anime-planet.com/anime/primary/kinos-journey-tower-country-1.jpg?t=1625886530",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/kinos-journey-tower-country-1-190x269.jpg?t=1625886530",
-        "synonyms": [],
+        "synonyms": [
+            "Kino no Tabi: Tower Country/Free Lance"
+        ],
         "relations": [
             "https://anime-planet.com/anime/kinos-journey",
             "https://anime-planet.com/anime/kinos-journey-byouki-no-kuni-for-you-",
@@ -1427,6 +1432,29 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/sakadachi-kun-hashiru"
+        ],
+        "title": "Sakadachi-kun Hashiru!",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/sakadachi-kun-hashiru-1.webp?t=1656879243",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/sakadachi-kun-hashiru-1-285x400.webp?t=1656879243",
+        "synonyms": [
+            "Handstand bou running!"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2005
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/selnef"
         ],
         "title": "Selnef",
@@ -1781,8 +1809,8 @@
         "type": "tv",
         "episodes": 100,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1383/123466.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1383/123466t.jpg",
         "synonyms": [
             "小小律师"
         ],
@@ -1790,6 +1818,34 @@
         "tags": [
             "chinese animation",
             "kids",
+            "school",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2005
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/xiaonu-cao-e",
+            "https://myanimelist.net/anime/45990"
+        ],
+        "title": "Xiaonu Cao E",
+        "type": "tv",
+        "episodes": 10,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1318/123483.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1318/123483t.jpg",
+        "synonyms": [
+            "Filial daughter-Cao E",
+            "孝女曹娥"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "fantasy",
+            "historical",
             "short episodes"
         ],
         "date": {
@@ -1828,8 +1884,8 @@
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1300/123490.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1300/123490t.jpg",
         "synonyms": [
             "运动小福星"
         ],
@@ -1838,7 +1894,9 @@
             "chinese animation",
             "family friendly",
             "kids",
-            "short episodes"
+            "short episodes",
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "unknown",

@@ -1,6 +1,28 @@
 [
     {
         "sources": [
+            "https://anilist.co/anime/151646",
+            "https://anime-planet.com/anime/number-1",
+            "https://myanimelist.net/anime/52270"
+        ],
+        "title": "#1",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1718/124900.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1718/124900t.jpg",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/38-39-degrees-c"
         ],
         "title": "38-39°C",
@@ -289,6 +311,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/bobo-lixian-ji",
             "https://myanimelist.net/anime/45292",
             "https://myanimelist.net/anime/46386"
         ],
@@ -299,6 +322,7 @@
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "Bobo Lixian Ji",
             "波波历险记"
         ],
         "relations": [
@@ -306,30 +330,10 @@
         ],
         "tags": [
             "adventure",
-            "fantasy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/bobo-lixian-ji"
-        ],
-        "title": "Bobo Lixian Ji",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/bobo-lixian-ji-1.webp?t=1652830768",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/bobo-lixian-ji-1-285x400.webp?t=1652830768",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "adventure",
             "chinese animation",
             "family friendly",
             "fantasy",
+            "kids",
             "short episodes"
         ],
         "date": {
@@ -390,29 +394,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/43974"
-        ],
-        "title": "Cangao Duoji",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "藏獒多吉"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/chao-neng-yongshi",
             "https://myanimelist.net/anime/45862"
         ],
@@ -438,24 +419,21 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/ci-xing-qishi",
-            "https://myanimelist.net/anime/46317"
+            "https://anime-planet.com/anime/ci-xing-qishi"
         ],
         "title": "Ci Xing Qishi",
         "type": "tv",
         "episodes": 78,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1397/115502.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1397/115502t.jpg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/ci-xing-qishi-1.jpg?t=1625909082",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/ci-xing-qishi-1-190x266.jpg?t=1625909082",
         "synonyms": [
-            "Mix Master Final Force",
-            "磁星骑士"
+            "Mix Master Final Force"
         ],
         "relations": [],
         "tags": [
             "chinese animation",
-            "family friendly",
-            "kids"
+            "family friendly"
         ],
         "date": {
             "season": "unknown",
@@ -620,6 +598,28 @@
             "stop motion animation",
             "supernatural",
             "zombies"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52259"
+        ],
+        "title": "Decocheers☆Win!",
+        "type": "ova",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1731/124874.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1731/124874t.jpg",
+        "synonyms": [
+            "デコちあ☆Ｗｉｎ！"
+        ],
+        "relations": [],
+        "tags": [
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -870,8 +870,8 @@
         "type": "ona",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
         "synonyms": [
             "The Dog of Flanders: Carbonara of Happiness"
         ],
@@ -1921,30 +1921,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/konglong-baobei"
-        ],
-        "title": "Konglong Baobei",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/konglong-baobei-1.webp?t=1653502192",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/konglong-baobei-1-285x400.webp?t=1653502192",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/konglong-baobei-zhi-longshen-yongshi"
-        ],
-        "tags": [
-            "adventure",
-            "chinese animation",
-            "family friendly"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/16789",
             "https://anime-planet.com/anime/konglong-baobei-zhi-longshen-yongshi-3"
         ],
@@ -1970,31 +1946,6 @@
             "family friendly",
             "half-length episodes",
             "sci fi"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44402"
-        ],
-        "title": "Konglong Baobei(movie)",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "恐龙宝贝剧场版"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/41416"
-        ],
-        "tags": [
-            "adventure",
-            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -2348,29 +2299,6 @@
         ],
         "relations": [],
         "tags": [
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44027"
-        ],
-        "title": "Lei Su Deng Zhi Yi Fei Chongtian",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "雷速登之翼飞冲天"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
             "kids"
         ],
         "date": {
@@ -2824,6 +2752,27 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52285"
+        ],
+        "title": "Mirai Millennium",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1296/124924.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1296/124924t.jpg",
+        "synonyms": [
+            "Mirai Millennium OP",
+            "ミライミレニアム"
+        ],
+        "relations": [],
+        "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/mofu-mofu-mofu-no-uta"
         ],
         "title": "Mofu Mofu: Mofu no Uta",
@@ -3178,87 +3127,6 @@
         "relations": [],
         "tags": [
             "music"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/pao-fu-xiaojie",
-            "https://myanimelist.net/anime/44533"
-        ],
-        "title": "Pao Fu Xiaojie",
-        "type": "ona",
-        "episodes": 13,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "Miss Puff",
-            "泡芙小姐"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/pao-fu-xiaojie-2nd-season",
-            "https://anime-planet.com/anime/pao-fu-xiaojie-de-jin-yugang",
-            "https://myanimelist.net/anime/44534"
-        ],
-        "tags": [
-            "chinese animation",
-            "romance",
-            "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/pao-fu-xiaojie-2nd-season"
-        ],
-        "title": "Pao Fu Xiaojie 2nd Season",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/pao-fu-xiaojie-2nd-season-1.webp?t=1653968214",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/pao-fu-xiaojie-2nd-season-1-257x360.webp?t=1653968214",
-        "synonyms": [
-            "Miss Puff 2nd Season"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/pao-fu-xiaojie",
-            "https://anime-planet.com/anime/pao-fu-xiaojie-3rd-season"
-        ],
-        "tags": [
-            "chinese animation",
-            "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44534"
-        ],
-        "title": "Pao Fu Xiaojie season2",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "泡芙小姐第二季"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44533",
-            "https://myanimelist.net/anime/44535"
-        ],
-        "tags": [
-            "romance"
         ],
         "date": {
             "season": "unknown",
@@ -3757,8 +3625,8 @@
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1808/123059.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1808/123059t.jpg",
         "synonyms": [
             "鼠老三进城记"
         ],
@@ -4074,7 +3942,9 @@
             "Gigantor",
             "Tetsujin 28"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/369"
+        ],
         "tags": [
             "action",
             "cg-anime",
@@ -4133,27 +4003,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/the-old-man-and-the-sea"
-        ],
-        "title": "The Old man and the Sea",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/the-old-man-and-the-sea-1.webp?t=1652840704",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-old-man-and-the-sea-1-285x400.webp?t=1652840704",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "abstract",
-            "shorts"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/thundercats-snarf-butterfly-blues"
         ],
         "title": "Thundercats Snarf: Butterfly Blues",
@@ -4173,53 +4022,6 @@
             "fantasy",
             "non-human protagonists",
             "shorts"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/tian-xin-ge-ge-henian-duanpian"
-        ],
-        "title": "Tian Xin Ge Ge: Henian Duanpian",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/tian-xin-ge-ge-henian-duanpian-1.webp?t=1654114246",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/tian-xin-ge-ge-henian-duanpian-1-239x335.webp?t=1654114246",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/tianxin-gege"
-        ],
-        "tags": [
-            "chinese animation"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/tian-xin-ge-ge-huanbao-xilie"
-        ],
-        "title": "Tian Xin Ge Ge: Huanbao Xilie",
-        "type": "special",
-        "episodes": 11,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/tian-xin-ge-ge-huanbao-xilie-1.webp?t=1654114359",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/tian-xin-ge-ge-huanbao-xilie-1-232x325.webp?t=1654114359",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/tianxin-gege"
-        ],
-        "tags": [
-            "chinese animation",
-            "environmental",
-            "family friendly",
-            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -4272,31 +4074,6 @@
             "family friendly",
             "kids",
             "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44463"
-        ],
-        "title": "Tianxin Gege Chinese New Year Special",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "甜心格格贺年短片"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44460"
-        ],
-        "tags": [
-            "kids",
-            "shoujo"
         ],
         "date": {
             "season": "unknown",
@@ -4429,21 +4206,27 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/wudi-yoyo"
+            "https://anime-planet.com/anime/wudi-yoyo",
+            "https://myanimelist.net/anime/46380"
         ],
         "title": "Wudi YoYo",
         "type": "tv",
         "episodes": 100,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/wudi-yoyo-1.webp?t=1652830960",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/wudi-yoyo-1-257x360.webp?t=1652830960",
+        "picture": "https://cdn.myanimelist.net/images/anime/1235/123810.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1235/123810t.jpg",
         "synonyms": [
-            "Super YoYo"
+            "Super YoYo",
+            "Super YoYo (2011)",
+            "无敌优优"
         ],
         "relations": [],
         "tags": [
+            "anthropomorphic",
             "chinese animation",
-            "family friendly"
+            "family friendly",
+            "fantasy",
+            "kids"
         ],
         "date": {
             "season": "unknown",

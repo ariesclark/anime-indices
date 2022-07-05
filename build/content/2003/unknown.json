@@ -92,11 +92,7 @@
         "relations": [
             "https://anime-planet.com/anime/chibi-maruko-chan",
             "https://anime-planet.com/anime/chibi-maruko-chan-watashi-no-suki-na-uta",
-            "https://anisearch.com/anime/10859",
-            "https://anisearch.com/anime/13904",
             "https://anisearch.com/anime/158",
-            "https://anisearch.com/anime/2680",
-            "https://anisearch.com/anime/4552",
             "https://myanimelist.net/anime/6149"
         ],
         "tags": [
@@ -165,22 +161,26 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/da-yingxiong-di-qing"
+            "https://anime-planet.com/anime/da-yingxiong-di-qing",
+            "https://myanimelist.net/anime/43877"
         ],
         "title": "Da Yingxiong Di Qing",
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/da-yingxiong-di-qing-1.webp?t=1656300298",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/da-yingxiong-di-qing-1-285x399.webp?t=1656300298",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1072/124799.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1072/124799t.jpg",
+        "synonyms": [
+            "大英雄狄青"
+        ],
         "relations": [],
         "tags": [
             "action",
             "adventure",
             "chinese animation",
             "drama",
-            "historical"
+            "historical",
+            "kids"
         ],
         "date": {
             "season": "unknown",

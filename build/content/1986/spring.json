@@ -137,15 +137,15 @@
         ],
         "relations": [
             "https://kitsu.io/anime/460",
+            "https://livechart.me/anime/5614",
+            "https://livechart.me/anime/6575",
             "https://livechart.me/anime/6880",
             "https://livechart.me/anime/7693",
-            "https://livechart.me/anime/7728",
             "https://livechart.me/anime/8740",
             "https://livechart.me/anime/8868",
             "https://livechart.me/anime/8871",
             "https://livechart.me/anime/8877",
             "https://livechart.me/anime/8878",
-            "https://livechart.me/anime/8879",
             "https://livechart.me/anime/8884",
             "https://livechart.me/anime/8897",
             "https://livechart.me/anime/8900",
@@ -332,6 +332,7 @@
             "https://anidb.net/anime/3449",
             "https://anilist.co/anime/915",
             "https://anime-planet.com/anime/ginga-densetsu-weed",
+            "https://anisearch.com/anime/937",
             "https://kitsu.io/anime/815",
             "https://myanimelist.net/anime/915",
             "https://notify.moe/anime/IWW1cKmig"
@@ -702,6 +703,7 @@
             "https://anidb.net/anime/3634",
             "https://anilist.co/anime/2080",
             "https://anime-planet.com/anime/majokko-club-yonin-gumi-a-kuukan-kara-no-alien-x",
+            "https://anisearch.com/anime/1085",
             "https://kitsu.io/anime/1879",
             "https://myanimelist.net/anime/2080",
             "https://notify.moe/anime/M_BLcKimg"
@@ -921,6 +923,7 @@
             "https://anime-planet.com/anime/manga-hajimete-omoshiro-juku-ova",
             "https://anime-planet.com/anime/manga-naruhodo-monogatari-ova",
             "https://anime-planet.com/anime/shin-manga-naruhodo-monogatari",
+            "https://anisearch.com/anime/4066",
             "https://kitsu.io/anime/10710",
             "https://kitsu.io/anime/41201",
             "https://kitsu.io/anime/6050",
@@ -1231,9 +1234,11 @@
         ],
         "relations": [],
         "tags": [
+            "biographical",
             "biographies",
             "historical",
             "royalty",
+            "school",
             "shoujo"
         ],
         "date": {
@@ -1449,38 +1454,10 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/632"
-        ],
-        "title": "Seishun Anime Zenshu",
-        "type": "tv",
-        "episodes": 32,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/0/632.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/0/632.webp",
-        "synonyms": [
-            "Animated Classics of Japanese Literature",
-            "Sumitomo Life Insurance Youth Anime Complete Collection",
-            "The Anthology of Japanese Literature",
-            "Youth Anime Compendium",
-            "Youth Anime Complete Collection",
-            "青春アニメ全集"
-        ],
-        "relations": [],
-        "tags": [
-            "drama",
-            "historical",
-            "tragedy"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 1986
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/2427",
             "https://anilist.co/anime/4723",
             "https://anime-planet.com/anime/seishun-anime-zenshuu",
+            "https://anisearch.com/anime/632",
             "https://kitsu.io/anime/3762",
             "https://myanimelist.net/anime/4723",
             "https://notify.moe/anime/5ZSrcFmiR"
@@ -1495,12 +1472,16 @@
             "Animated Classics of Japanese Literature",
             "Anthologie de la littérature japonaise",
             "Antologia da literatura japonesa",
+            "Seishun Anime Zenshū",
+            "Sumitomo Life Insurance Youth Anime Complete Collection",
             "The Anthology of Japanese Literature",
+            "Youth Anime Compendium",
             "Youth Anime Complete Collection",
             "青春アニメ全集"
         ],
         "relations": [
             "https://anime-planet.com/anime/seishun-anime-zenshuu-specials",
+            "https://anisearch.com/anime/3737",
             "https://kitsu.io/anime/12411",
             "https://myanimelist.net/anime/32897",
             "https://myanimelist.net/anime/4680",
@@ -1607,7 +1588,6 @@
             "other planet",
             "overpowered main characters",
             "piloted robot",
-            "post apocalypse",
             "post-apocalyptic",
             "power suit",
             "real robots",
@@ -1616,6 +1596,7 @@
             "science fiction",
             "science-fiction",
             "splatter",
+            "stereotypes",
             "violence",
             "war"
         ],
@@ -1708,8 +1689,6 @@
         ],
         "relations": [
             "https://anisearch.com/anime/1504",
-            "https://anisearch.com/anime/6406",
-            "https://anisearch.com/anime/773",
             "https://myanimelist.net/anime/3239"
         ],
         "tags": [
@@ -1717,6 +1696,7 @@
             "coming of age",
             "drama",
             "ecchi",
+            "incest",
             "new",
             "present",
             "psychological",
@@ -2069,6 +2049,9 @@
             "https://anime-planet.com/anime/ultraman-graffiti",
             "https://anime-planet.com/anime/ultraman-kids-haha-wo-tazunete-3000-man-kounen",
             "https://anime-planet.com/anime/ultraman-usa",
+            "https://anisearch.com/anime/1680",
+            "https://anisearch.com/anime/1849",
+            "https://anisearch.com/anime/5757",
             "https://kitsu.io/anime/10662",
             "https://kitsu.io/anime/6403",
             "https://myanimelist.net/anime/10909",
@@ -2184,6 +2167,7 @@
             "science-fiction",
             "seinen",
             "sexual abuse -- to be split and deleted",
+            "shounen",
             "slavery",
             "splatter",
             "violence"

@@ -1,6 +1,34 @@
 [
     {
         "sources": [
+            "https://anidb.net/anime/17487",
+            "https://anime-planet.com/anime/a-turtles-shell-is-a-humans-ribs",
+            "https://anisearch.com/anime/17498"
+        ],
+        "title": "A Turtle's Shell Is a Human's Ribs",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.anime-planet.com/anime/primary/a-turtles-shell-is-a-humans-ribs-1.webp?t=1656612556",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/a-turtles-shell-is-a-humans-ribs-1-285x400.webp?t=1656612556",
+        "synonyms": [
+            "A Turtle`s Shell Is a Human`s Ribs",
+            "Kame no Koura wa Abarabone",
+            "Kame no Kōra wa Abarabone",
+            "カメの甲羅はあばら骨"
+        ],
+        "relations": [],
+        "tags": [
+            "based on a picture book",
+            "cg animation"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16826",
             "https://anilist.co/anime/139820",
             "https://anime-planet.com/anime/im-the-villainess-so-im-taming-the-final-boss",
@@ -145,6 +173,7 @@
             "BLEACH - ブリーチ - 千年血戦篇",
             "BLEACH 千年血戦篇",
             "BLEACH: Sennen Kessen-hen",
+            "BLEACH: Thousand-Year Blood War",
             "Bleach 2",
             "Bleach: Sennen Kessen Hen",
             "Bleach: Thousand Year Blood War",
@@ -172,6 +201,7 @@
             "action",
             "adventure",
             "afterlife",
+            "angels",
             "based on a manga",
             "body horror",
             "comedy",
@@ -189,9 +219,11 @@
             "magic",
             "male protagonist",
             "manga",
+            "mythology",
             "parallel universe",
             "plot continuity",
             "present",
+            "religion",
             "shinigami",
             "shounen",
             "super power",
@@ -861,6 +893,36 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/151632",
+            "https://kitsu.io/anime/46222"
+        ],
+        "title": "Isekai Meikyuu de Harem wo OVA",
+        "type": "ova",
+        "episodes": 2,
+        "status": "upcoming",
+        "picture": "https://media.kitsu.io/anime/46222/poster_image/small-14bc64663a6b7d6c7d010ac04cc4e3b4.jpeg",
+        "thumbnail": "https://media.kitsu.io/anime/46222/poster_image/tiny-b8bd5f9bf2791912a3e6feeb2c472155.jpeg",
+        "synonyms": [
+            "Harem in the Labyrinth of Another World OVA",
+            "異世界迷宮でハーレムを OVA"
+        ],
+        "relations": [
+            "https://anilist.co/anime/127090",
+            "https://kitsu.io/anime/43911"
+        ],
+        "tags": [
+            "drama",
+            "ecchi",
+            "fantasy",
+            "romance"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16012",
             "https://anilist.co/anime/128893",
             "https://anime-planet.com/anime/hells-paradise-jigokuraku",
@@ -926,77 +988,6 @@
             "swordplay",
             "swords & co",
             "tragedy"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/17286",
-            "https://anilist.co/anime/146722",
-            "https://anime-planet.com/anime/jojos-bizarre-adventure-stone-ocean-part-ii",
-            "https://anisearch.com/anime/17246",
-            "https://kitsu.io/anime/46010",
-            "https://myanimelist.net/anime/51367",
-            "https://notify.moe/anime/10s3Ktsng"
-        ],
-        "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2",
-        "type": "ona",
-        "episodes": 12,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1051/121959.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1051/121959t.jpg",
-        "synonyms": [
-            "JoJo no Kimyou na Bouken Part 6 (Part 2)",
-            "JoJo no Kimyou na Bouken: Stone Ocean (2022)",
-            "JoJo no Kimyou na Bouken: Stone Ocean Part 2",
-            "JoJo's Bizarre Adventure Part 6 (Part 2)",
-            "JoJo's Bizarre Adventure Part 6: Stone Ocean Part 2",
-            "JoJo's Bizarre Adventure: STONE OCEAN Part 2",
-            "JoJo's Bizarre Adventure: Stone Ocean - Part II",
-            "JoJo's Bizarre Adventure: Stone Ocean Part 2",
-            "JoJo`s Bizarre Adventure: Stone Ocean (2022)",
-            "JoJo’s Bizarre Adventure: Stone Ocean (Part 2)",
-            "JoJo’s Bizarre Adventure: Stone Ocean (Teil 2)",
-            "JoJo’s Bizarre Adventure: Stone Ocean Part 2",
-            "Jojo no Kimyou na Bouken: Stone Ocean (2022)",
-            "Jojo no Kimyou na Bouken: Stone Ocean - Part II",
-            "Jojo no Kimyō na Bōken: Stone Ocean (2022)",
-            "ジョジョの奇妙な冒険 ストーンオーシャン",
-            "ジョジョの奇妙な冒険 ストーンオーシャン (2022)",
-            "ジョジョの奇妙な冒険 ストーンオーシャン 2クール",
-            "ジョジョの奇妙な冒険 ストーンオーシャン （2022）"
-        ],
-        "relations": [
-            "https://anidb.net/anime/16187",
-            "https://anilist.co/anime/131942",
-            "https://anime-planet.com/anime/jojos-bizarre-adventure",
-            "https://anime-planet.com/anime/jojos-bizarre-adventure-stone-ocean",
-            "https://anisearch.com/anime/16162",
-            "https://kitsu.io/anime/44294",
-            "https://myanimelist.net/anime/48661",
-            "https://notify.moe/anime/m26yPJ_Gg"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "america",
-            "amnesia",
-            "based on a manga",
-            "drama",
-            "female protagonist",
-            "fighting-shounen",
-            "foreign",
-            "memory manipulation",
-            "primarily female cast",
-            "prison",
-            "proxy battles",
-            "shounen",
-            "super power",
-            "supernatural",
-            "united states"
         ],
         "date": {
             "season": "fall",
@@ -2004,7 +1995,9 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1711/124077t.jpg",
         "synonyms": [
             "I Somehow Became Stronger by Raising Farming-Related Skills",
-            "I’ve Somehow Gotten Stronger When I Improved My Farm-Related Skills.",
+            "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills",
+            "I`ve Somehow Gotten Stronger When I Improved My Farm-Related Skills",
+            "I’ve Somehow Gotten Stronger When I Improved My Farm-Related Skills",
             "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.",
             "Noumin Kanren no Skill Bakka Agetetara Nazeka Tsuyoku Natta.",
             "Nōmin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.",
@@ -2151,8 +2144,8 @@
         "type": "tv",
         "episodes": 0,
         "status": "unknown",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
         "synonyms": [],
         "relations": [
             "https://anime-planet.com/anime/pui-pui-molcar"
@@ -2227,6 +2220,42 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16407",
+            "https://anilist.co/anime/136150",
+            "https://anime-planet.com/anime/legend-of-mana-the-teardrop-crystal",
+            "https://anisearch.com/anime/16417",
+            "https://kitsu.io/anime/44822",
+            "https://livechart.me/anime/10653",
+            "https://myanimelist.net/anime/49304",
+            "https://notify.moe/anime/bBClCFk7R"
+        ],
+        "title": "Seiken Densetsu: Legend of Mana - The Teardrop Crystal",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1637/123397.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1637/123397t.jpg",
+        "synonyms": [
+            "Legend of Mana: The Teardrop Crystal",
+            "LoM – TC",
+            "Seiken Densetsu: Legend of Mana - The Teardrop Crysta",
+            "聖剣伝説 Legend of Mana -The Teardrop Crystal-",
+            "聖剣伝説 LoM"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "based on a video game",
+            "fantasy",
+            "magic"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16732",
             "https://anilist.co/anime/139369",
             "https://anime-planet.com/anime/shinmai-renkinjutsushi-no-tenpo-keiei",
@@ -2292,68 +2321,6 @@
             "ninja",
             "original work",
             "urban"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/15974",
-            "https://anilist.co/anime/128207",
-            "https://anime-planet.com/anime/slam-dunk-movie",
-            "https://anisearch.com/anime/15937",
-            "https://livechart.me/anime/10318",
-            "https://myanimelist.net/anime/45649",
-            "https://notify.moe/anime/aqekQ0-MR"
-        ],
-        "title": "Slam Dunk Movie",
-        "type": "movie",
-        "episodes": 1,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1308/111087.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1308/111087t.jpg",
-        "synonyms": [
-            "Eiga Slam Dunk",
-            "SLAM DUNK",
-            "SLAM DUNK Movie (Provisional Title)",
-            "SLAM DUNK Movie (Tentative Title)",
-            "Slam Dunk Movie 5",
-            "映画 SLAM DUNK",
-            "映画 SLAM DUNK スラムダンク (タイトル未定)",
-            "映画 SLAM DUNK（仮）",
-            "映画 スラムダンク",
-            "映画スラムダンク"
-        ],
-        "relations": [
-            "https://anidb.net/anime/590",
-            "https://anilist.co/anime/170",
-            "https://anime-planet.com/anime/slam-dunk",
-            "https://anisearch.com/anime/1808",
-            "https://livechart.me/anime/3848",
-            "https://livechart.me/anime/4970",
-            "https://livechart.me/anime/5443",
-            "https://livechart.me/anime/5654",
-            "https://livechart.me/anime/5690",
-            "https://myanimelist.net/anime/170",
-            "https://notify.moe/anime/4DutcFmmR"
-        ],
-        "tags": [
-            "action",
-            "based on a manga",
-            "basketball",
-            "comedy",
-            "coming of age",
-            "delinquents",
-            "drama",
-            "ganbatte",
-            "primarily teen cast",
-            "school",
-            "school club",
-            "shounen",
-            "sports",
-            "team sports"
         ],
         "date": {
             "season": "fall",
@@ -2474,6 +2441,7 @@
         "tags": [
             "action",
             "adventure",
+            "circus",
             "drama",
             "fantasy",
             "female protagonist",
@@ -2574,7 +2542,7 @@
             "Gekijouban Tensei Shitara Slime datta Ken",
             "Gekijouban Tensei shitara Slime Datta Ken",
             "Gekijōban Tensei Shitara Slime datta Ken",
-            "Meine Wiedergeburt als Schleim in einer anderen Welt: Der Film",
+            "Meine Wiedergeburt als Schleim in einer anderen Welt: Der Film - Feuerrote Bande",
             "TenSura",
             "Tensei Shitara Slime Datta Ken Movie: Guren no Kizuna",
             "Tensei Shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
@@ -2584,8 +2552,10 @@
             "Tensura Movie",
             "That Time I Got Reincarnated as a Slime Movie",
             "That Time I Got Reincarnated as a Slime the Movie",
+            "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond",
             "That Time I Got Reincarnated as a Slime: Scarlet Bonds",
-            "That Time I Got Reincarnated as a Slime: The Movie",
+            "That Time I Got Reincarnated as a Slime: The Movie - Scarlet Bond",
+            "The Time I Got Reincarnated as a Slime The Movie: Scarlet Bond",
             "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว เดอะมูฟวี่",
             "劇場版 転生したらスライムだった件",
             "劇場版 転生したらスライムだった件 紅蓮の絆編"
@@ -2630,6 +2600,113 @@
             "shounen",
             "slimes",
             "swords & co"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/15974",
+            "https://anilist.co/anime/128207",
+            "https://anime-planet.com/anime/slam-dunk-movie",
+            "https://anime-planet.com/anime/the-first-slam-dunk",
+            "https://anisearch.com/anime/15937",
+            "https://kitsu.io/anime/46225",
+            "https://livechart.me/anime/10318",
+            "https://myanimelist.net/anime/45649",
+            "https://notify.moe/anime/aqekQ0-MR"
+        ],
+        "title": "The First Slam Dunk",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1121/124964.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1121/124964t.jpg",
+        "synonyms": [
+            "SLAM DUNK Movie (Tentative Title)",
+            "Slam Dunk Movie",
+            "Slam Dunk Movie 5",
+            "THE FIRST SLAM DUNK",
+            "映画 SLAM DUNK スラムダンク (タイトル未定)",
+            "映画 スラムダンク",
+            "映画スラムダンク"
+        ],
+        "relations": [
+            "https://anidb.net/anime/590",
+            "https://anilist.co/anime/170",
+            "https://anime-planet.com/anime/slam-dunk",
+            "https://anisearch.com/anime/1808",
+            "https://livechart.me/anime/3848",
+            "https://livechart.me/anime/4970",
+            "https://livechart.me/anime/5443",
+            "https://livechart.me/anime/5654",
+            "https://livechart.me/anime/5690",
+            "https://myanimelist.net/anime/170",
+            "https://notify.moe/anime/4DutcFmmR"
+        ],
+        "tags": [
+            "action",
+            "based on a manga",
+            "basketball",
+            "comedy",
+            "coming of age",
+            "delinquents",
+            "drama",
+            "ganbatte",
+            "primarily teen cast",
+            "school",
+            "school club",
+            "school clubs",
+            "school life",
+            "shounen",
+            "sports",
+            "team sports"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/151803",
+            "https://anime-planet.com/anime/tiger-and-bunny-2-part-ii",
+            "https://kitsu.io/anime/46230",
+            "https://myanimelist.net/anime/52291"
+        ],
+        "title": "Tiger & Bunny 2 Part 2",
+        "type": "ona",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1916/124962.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1916/124962t.jpg",
+        "synonyms": [
+            "TIGER & BUNNY 2",
+            "TIGER & BUNNY 2 Part 2",
+            "TIGER & BUNNY 2 パート2",
+            "Taibani 2",
+            "Tiger & Bunny 2: Part II",
+            "Tiger and Bunny 2 Part 2"
+        ],
+        "relations": [
+            "https://anilist.co/anime/117197",
+            "https://anime-planet.com/anime/tiger-and-bunny-2",
+            "https://kitsu.io/anime/43224",
+            "https://myanimelist.net/anime/41595"
+        ],
+        "tags": [
+            "action",
+            "comedy",
+            "drama",
+            "mystery",
+            "original work",
+            "sci fi",
+            "super power",
+            "superhero",
+            "superheroes",
+            "superpowers"
         ],
         "date": {
             "season": "fall",
@@ -2708,6 +2785,7 @@
             "うまゆる"
         ],
         "relations": [
+            "https://anidb.net/anime/13034",
             "https://anilist.co/anime/98514",
             "https://anime-planet.com/anime/uma-musume-pretty-derby",
             "https://anisearch.com/anime/14103",
@@ -2751,17 +2829,21 @@
         ],
         "title": "Urusei Yatsura (2022)",
         "type": "tv",
-        "episodes": 12,
+        "episodes": 46,
         "status": "upcoming",
         "picture": "https://cdn.myanimelist.net/images/anime/1418/123904.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1418/123904t.jpg",
         "synonyms": [
+            "Lum",
             "Lum the Invader Girl (2022)",
+            "Lum, Invader Girl",
+            "Lum, the Invader Girl",
             "Lum: Urusei Yatsura (2022)",
             "The Return of Lum (2022)",
             "Those Obnoxious Aliens (2022)",
             "Urusei Yatsura",
             "Urusei Yatsura Allstars",
+            "the Invader Girl",
             "うる星やつら",
             "うる星やつら (2022)",
             "うる星やつら （2022）"
@@ -2891,73 +2973,6 @@
             "tomboy",
             "university",
             "video games"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/15063",
-            "https://anilist.co/anime/111314",
-            "https://anime-planet.com/anime/uzumaki-spiral-into-horror",
-            "https://anisearch.com/anime/14594",
-            "https://kitsu.io/anime/42525",
-            "https://livechart.me/anime/9575",
-            "https://myanimelist.net/anime/40333",
-            "https://notify.moe/anime/8NMu05XZg"
-        ],
-        "title": "Uzumaki",
-        "type": "tv",
-        "episodes": 4,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1432/105265.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1432/105265t.jpg",
-        "synonyms": [
-            "The Spiral",
-            "Uzumaki: Spiral into Horror",
-            "Vortex",
-            "Whirlpool",
-            "ก้นหอยมรณะ",
-            "うずまき"
-        ],
-        "relations": [
-            "https://livechart.me/anime/2767",
-            "https://livechart.me/anime/3024",
-            "https://livechart.me/anime/4176"
-        ],
-        "tags": [
-            "achromatic",
-            "augmented reality",
-            "avant garde",
-            "based on a manga",
-            "black and white",
-            "body horror",
-            "contemporary fantasy",
-            "cosmic horror",
-            "curse",
-            "dementia",
-            "detective",
-            "drama",
-            "episodic",
-            "female protagonist",
-            "gore",
-            "horror",
-            "lost civilization",
-            "manga",
-            "mystery",
-            "present",
-            "primarily child cast",
-            "psychological",
-            "psychological drama",
-            "romance",
-            "rotoscoping",
-            "seinen",
-            "supernatural",
-            "supernatural drama",
-            "survival",
-            "tragedy"
         ],
         "date": {
             "season": "fall",

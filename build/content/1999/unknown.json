@@ -520,32 +520,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/44308"
-        ],
-        "title": "Lan Mao Taoqi Sanqian Wen Youmo Xilie",
-        "type": "tv",
-        "episodes": 424,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "蓝猫淘气三千问幽默系列"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44309"
-        ],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 1999
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/lizi-gou-he-xiangjiao-hu",
             "https://myanimelist.net/anime/44653"
         ],
@@ -659,8 +633,8 @@
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
         "synonyms": [],
         "relations": [
             "https://anime-planet.com/anime/mizu-no-enkan-2nd-ver"
@@ -691,6 +665,7 @@
             "누들누드2"
         ],
         "relations": [
+            "https://anisearch.com/anime/5056",
             "https://myanimelist.net/anime/18197"
         ],
         "tags": [
@@ -908,19 +883,24 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/san-shi-liu-ji-qiyu-ji"
+            "https://anime-planet.com/anime/san-shi-liu-ji-qiyu-ji",
+            "https://myanimelist.net/anime/43967"
         ],
         "title": "San Shi Liu Ji Qiyu Ji",
         "type": "tv",
         "episodes": 36,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/san-shi-liu-ji-qiyu-ji-1.webp?t=1654184319",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/san-shi-liu-ji-qiyu-ji-1-285x400.webp?t=1654184319",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1519/122856.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1519/122856t.jpg",
+        "synonyms": [
+            "Sanshiliu Ji Qiyu Ji",
+            "三十六计奇遇记"
+        ],
         "relations": [],
         "tags": [
             "chinese animation",
             "insects",
+            "kids",
             "person in a strange world"
         ],
         "date": {
@@ -972,6 +952,28 @@
         "tags": [
             "abstract",
             "avant garde",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1999
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/the-old-man-and-the-sea"
+        ],
+        "title": "The Old Man and the Sea",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/the-old-man-and-the-sea-1.webp?t=1656002955",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-old-man-and-the-sea-1-285x400.webp?t=1656002955",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "ocean",
             "shorts"
         ],
         "date": {

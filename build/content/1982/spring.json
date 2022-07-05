@@ -27,7 +27,8 @@
             "アニメ野生のさけび"
         ],
         "relations": [
-            "https://anidb.net/anime/3158"
+            "https://anidb.net/anime/3158",
+            "https://anisearch.com/anime/1863"
         ],
         "tags": [
             "action",
@@ -446,19 +447,9 @@
             "https://anime-planet.com/anime/minky-momo-song-special",
             "https://anime-planet.com/anime/minky-momo-the-bridge-over-dreams",
             "https://anime-planet.com/anime/minky-momo-yume-wo-dakishimete",
-            "https://anisearch.com/anime/10658",
-            "https://anisearch.com/anime/1085",
             "https://anisearch.com/anime/1358",
-            "https://anisearch.com/anime/21",
-            "https://anisearch.com/anime/2967",
-            "https://anisearch.com/anime/3301",
-            "https://anisearch.com/anime/3306",
-            "https://anisearch.com/anime/5900",
-            "https://anisearch.com/anime/6101",
-            "https://anisearch.com/anime/6109",
-            "https://anisearch.com/anime/727",
-            "https://anisearch.com/anime/7425",
-            "https://anisearch.com/anime/9497",
+            "https://anisearch.com/anime/1850",
+            "https://anisearch.com/anime/8953",
             "https://kitsu.io/anime/2058",
             "https://kitsu.io/anime/3027",
             "https://kitsu.io/anime/4359",
@@ -790,7 +781,6 @@
         "relations": [
             "https://anidb.net/anime/1481",
             "https://anilist.co/anime/2510",
-            "https://anisearch.com/anime/2734",
             "https://anisearch.com/anime/664",
             "https://kitsu.io/anime/2276",
             "https://livechart.me/anime/7873",
@@ -905,6 +895,91 @@
             "adventure",
             "buddhism",
             "fantasy"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 1982
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/1006",
+            "https://anilist.co/anime/1279",
+            "https://anime-planet.com/anime/the-mysterious-cities-of-gold",
+            "https://anisearch.com/anime/2073",
+            "https://kitsu.io/anime/1154",
+            "https://livechart.me/anime/5896",
+            "https://myanimelist.net/anime/1279",
+            "https://notify.moe/anime/Smfx5FmiR"
+        ],
+        "title": "Taiyou no Ko Esteban",
+        "type": "tv",
+        "episodes": 39,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/7/39543.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/7/39543t.jpg",
+        "synonyms": [
+            "A titokzatos aranyvárosok",
+            "As Misteriosas Cidades de Ouro",
+            "As Misteriosas Cidades do Ouro",
+            "Child of the Sun",
+            "Cities of Gold",
+            "De Mystiska Guldstäderna",
+            "De gåtfulla guldstäderna",
+            "De steden van goud",
+            "Die Geheimnisvollen Städte des Goldes",
+            "Die geheimnisvollen Städte des Goldes",
+            "Esteban",
+            "Esteban and the Seven Cities of Gold",
+            "Esteban e le misteriose città d'oro",
+            "Esteban, Child of the Sun",
+            "Esteban, a Boy from the Sun",
+            "Esteban: The Child of the Sun",
+            "Las Misteriosas Ciudades de Oro",
+            "Les Mystérieuses Cités d'Or",
+            "Les Mystérieuses Cités d`or",
+            "Les Mystérieuses Cités d’Or",
+            "Les Mystérieuses Cités d’or",
+            "Les mystérieuses cités d'or",
+            "MCoG",
+            "Taiyō no Ko Esteban",
+            "Tajemnicze Złote Miasta",
+            "Tajemnicze złote miasta",
+            "The Mysterious Cities of Gold",
+            "Тайнствените златни градове",
+            "Таємничі міста золота",
+            "Эстебан",
+            "сын Солнца",
+            "ערי הזהב הנסתרות",
+            "الأحلام الذهبية",
+            "太陽の子エステバン"
+        ],
+        "relations": [
+            "https://kitsu.io/anime/10917",
+            "https://notify.moe/anime/OYf_tKmig"
+        ],
+        "tags": [
+            "16th century",
+            "adventure",
+            "americas",
+            "anachronism",
+            "aviation",
+            "child protagonists",
+            "educational",
+            "family friendly",
+            "foreign",
+            "historical",
+            "lost civilization",
+            "male protagonist",
+            "mythology",
+            "original work",
+            "outdoor",
+            "primarily child cast",
+            "sci-fi",
+            "science fiction",
+            "ships",
+            "supernatural drama",
+            "tragedy"
         ],
         "date": {
             "season": "spring",
@@ -1104,7 +1179,9 @@
             "Urusei Yatsura: The School Excursion! Run, Kunoichi!",
             "うる星やつら 修学旅行！ くの一よ走れ"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/1945"
+        ],
         "tags": [
             "aliens",
             "comedy",

@@ -327,6 +327,7 @@
             "https://anidb.net/anime/3399",
             "https://anidb.net/anime/505",
             "https://anilist.co/anime/2116",
+            "https://anisearch.com/anime/1633",
             "https://kitsu.io/anime/1451",
             "https://livechart.me/anime/3012",
             "https://livechart.me/anime/4357",
@@ -566,11 +567,9 @@
             "https://anime-planet.com/anime/gall-force-6-new-era",
             "https://anime-planet.com/anime/gall-force-the-revolution",
             "https://anisearch.com/anime/1362",
-            "https://anisearch.com/anime/1436",
-            "https://anisearch.com/anime/2321",
-            "https://anisearch.com/anime/2503",
+            "https://anisearch.com/anime/1518",
             "https://anisearch.com/anime/256",
-            "https://anisearch.com/anime/2923",
+            "https://anisearch.com/anime/2933",
             "https://kitsu.io/anime/1860",
             "https://kitsu.io/anime/1865",
             "https://kitsu.io/anime/4524",
@@ -695,20 +694,7 @@
             "https://anime-planet.com/anime/gegege-no-kitarou-youkai-japan-rally-3d",
             "https://anime-planet.com/anime/gegege-no-kitarou-youkai-tokkyuu-maboroshi-no-kisha",
             "https://anime-planet.com/anime/hakaba-kitarou",
-            "https://anisearch.com/anime/10667",
-            "https://anisearch.com/anime/1673",
-            "https://anisearch.com/anime/1752",
-            "https://anisearch.com/anime/2683",
-            "https://anisearch.com/anime/2724",
             "https://anisearch.com/anime/3014",
-            "https://anisearch.com/anime/3022",
-            "https://anisearch.com/anime/3184",
-            "https://anisearch.com/anime/4138",
-            "https://anisearch.com/anime/49",
-            "https://anisearch.com/anime/4909",
-            "https://anisearch.com/anime/5598",
-            "https://anisearch.com/anime/5652",
-            "https://anisearch.com/anime/5659",
             "https://kitsu.io/anime/4936",
             "https://myanimelist.net/anime/7307",
             "https://notify.moe/anime/2esRtKmmR"
@@ -1097,6 +1083,7 @@
             "https://anime-planet.com/anime/magical-star-magical-emi",
             "https://anime-planet.com/anime/magical-star-magical-emi-music-clip-kaze-no-invitation",
             "https://anime-planet.com/anime/mahou-no-star-magical-emi-kumo-hikaru",
+            "https://anisearch.com/anime/727",
             "https://kitsu.io/anime/1837",
             "https://livechart.me/anime/6938",
             "https://livechart.me/anime/7157",
@@ -1236,6 +1223,7 @@
         ],
         "relations": [
             "https://anilist.co/anime/1972",
+            "https://anisearch.com/anime/3066",
             "https://kitsu.io/anime/1775",
             "https://myanimelist.net/anime/1972",
             "https://notify.moe/anime/I8VYcFmiR"
@@ -1513,6 +1501,8 @@
             "love polygon",
             "male protagonist",
             "military",
+            "past",
+            "plot continuity",
             "primarily adult cast",
             "rebellions",
             "romance",
@@ -1520,7 +1510,6 @@
             "seinen",
             "swordplay",
             "swords & co",
-            "three kingdoms",
             "tragedy",
             "violence",
             "war"
@@ -1779,7 +1768,9 @@
             "Symphony Urusei Yatsura Kaisou Played by Apricot Systematic",
             "シンフォニー・うる星やつら"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/1945"
+        ],
         "tags": [],
         "date": {
             "season": "summer",
@@ -1814,6 +1805,7 @@
             "Laputa",
             "Laputa - Az égi palota",
             "Laputa - Castello nel cielo",
+            "Laputa - Himmelslottet",
             "Laputa - Il castello nel cielo",
             "Laputa - Slottet i himlen",
             "Laputa - podniebny zamek",
@@ -1851,7 +1843,10 @@
             "天空之城",
             "천공의 성 라퓨타"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/5923",
+            "https://anisearch.com/anime/6100"
+        ],
         "tags": [
             "action",
             "adventure",

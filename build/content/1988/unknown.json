@@ -83,34 +83,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/bijiasuo-yu-gongniu",
-            "https://myanimelist.net/anime/44632"
-        ],
-        "title": "Bijiasuo Yu Gongniu",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "Picasso and His Bull",
-            "毕加索与公牛"
-        ],
-        "relations": [],
-        "tags": [
-            "abstract",
-            "biographies",
-            "chinese animation",
-            "historical",
-            "shorts"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 1988
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/5981"
         ],
         "title": "Bu She Zhishe",
@@ -275,7 +247,9 @@
             "Dragonball OVA 2",
             "ドラゴンボール 悟空の消防隊"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/468"
+        ],
         "tags": [
             "adventure",
             "present"
@@ -608,6 +582,36 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/bijiasuo-yu-gongniu",
+            "https://myanimelist.net/anime/44632"
+        ],
+        "title": "Picasso Yu Gongniu",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1841/123050.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1841/123050t.jpg",
+        "synonyms": [
+            "Bijiasuo Yu Gongniu",
+            "Picasso and His Bull",
+            "毕加索与公牛"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "avant garde",
+            "biographies",
+            "chinese animation",
+            "historical",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1988
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/pipi-de-gushi"
         ],
         "title": "Pipi De Gushi",
@@ -725,6 +729,28 @@
             "animals",
             "drama"
         ],
+        "date": {
+            "season": "unknown",
+            "year": 1988
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/151643",
+            "https://myanimelist.net/anime/52267"
+        ],
+        "title": "Semishigure",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1774/124897.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1774/124897t.jpg",
+        "synonyms": [
+            "​せみしぐれ",
+            "せみしぐれ"
+        ],
+        "relations": [],
+        "tags": [],
         "date": {
             "season": "unknown",
             "year": 1988

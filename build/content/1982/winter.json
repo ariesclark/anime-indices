@@ -37,15 +37,7 @@
             "https://anidb.net/anime/366",
             "https://anilist.co/anime/1548",
             "https://anime-planet.com/anime/queen-millennia",
-            "https://anisearch.com/anime/15619",
-            "https://anisearch.com/anime/172",
             "https://anisearch.com/anime/183",
-            "https://anisearch.com/anime/2681",
-            "https://anisearch.com/anime/271",
-            "https://anisearch.com/anime/5728",
-            "https://anisearch.com/anime/713",
-            "https://anisearch.com/anime/743",
-            "https://anisearch.com/anime/789",
             "https://kitsu.io/anime/1341",
             "https://kitsu.io/anime/1389",
             "https://myanimelist.net/anime/1495",
@@ -174,7 +166,9 @@
             "Asari-chan: Ai no Marchen Shōjo (1982)",
             "あさりちゃん 愛のメルヘン少女"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/3031"
+        ],
         "tags": [
             "comedy",
             "present",
@@ -563,6 +557,7 @@
             "https://anime-planet.com/anime/dr-slump-dr-mashirito-and-abale-chan",
             "https://anime-planet.com/anime/dr-slump-movie-3-the-great-race-around-the-world",
             "https://anime-planet.com/anime/dr-slump-movie-7-arale-chan-n-cha-pengin-mura-yori-ai-wo-komete",
+            "https://anisearch.com/anime/2134",
             "https://myanimelist.net/anime/2222"
         ],
         "tags": [
@@ -883,6 +878,7 @@
             "https://anilist.co/anime/6277",
             "https://anime-planet.com/anime/manga-nippon-mukashibanashi",
             "https://anime-planet.com/anime/manga-nippon-mukashibanashi-1976",
+            "https://anisearch.com/anime/2032",
             "https://myanimelist.net/anime/6277"
         ],
         "tags": [
@@ -969,6 +965,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/7145",
+            "https://anisearch.com/anime/6132",
             "https://kitsu.io/anime/9025",
             "https://myanimelist.net/anime/25071",
             "https://notify.moe/anime/Zm3xtFimg"
@@ -1161,8 +1158,6 @@
             "https://anime-planet.com/anime/ninja-hattori-returns",
             "https://anime-planet.com/anime/ninja-hattori-returns-special",
             "https://anisearch.com/anime/1971",
-            "https://anisearch.com/anime/3488",
-            "https://anisearch.com/anime/8777",
             "https://kitsu.io/anime/2434",
             "https://kitsu.io/anime/3858",
             "https://kitsu.io/anime/9116",
@@ -1416,7 +1411,6 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/8/36927t.jpg",
         "synonyms": [
             "Alaaddin`in Sihirli Lambası",
-            "Aladdin And The Wonderful Lamp",
             "Aladdin E A Lâmpada Maravilhosa",
             "Aladdin and the Magic Lamp",
             "Aladdin and the Wonderful Lamp",
@@ -1815,7 +1809,7 @@
             "https://notify.moe/anime/OGPv2Kimg"
         ],
         "title": "Tsuki no Mine no Ookami",
-        "type": "ova",
+        "type": "movie",
         "episodes": 1,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/3/84587.jpg",
