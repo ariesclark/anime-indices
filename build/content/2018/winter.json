@@ -1535,39 +1535,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/14462",
-            "https://anisearch.com/anime/14202"
-        ],
-        "title": "Chao Zhi Neng Zu Qiu 2: Shi Jie Da Sai Pian",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14202.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14202.webp",
-        "synonyms": [
-            "AI Football GGO 2",
-            "Artificial Intelligent Football GGO 2",
-            "Chao Zhi Neng Zu Qiu 2",
-            "Chao Zhi Neng Zu Qiu 2: Shijie Dasai Pian",
-            "GGO Football 2",
-            "超智能足球 2 世界大赛篇",
-            "超智能足球2",
-            "超智能足球2世界大赛篇"
-        ],
-        "relations": [
-            "https://anidb.net/anime/13161",
-            "https://anisearch.com/anime/12386"
-        ],
-        "tags": [
-            "soccer"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/13228",
             "https://myanimelist.net/anime/37089"
         ],
@@ -9970,6 +9937,7 @@
         "sources": [
             "https://anilist.co/anime/106169",
             "https://anime-planet.com/anime/persona-5-the-animation-dark-sun",
+            "https://anisearch.com/anime/14058",
             "https://kitsu.io/anime/41972",
             "https://livechart.me/anime/3544",
             "https://notify.moe/anime/-2eFTf-mR"
@@ -9984,8 +9952,10 @@
             "PERSONA5 the Animation -Dark Sun...-",
             "PERSONA5 the Animation: Dark Sun...",
             "PERSONA5 the Animation: Dark Sun…",
+            "Persona 5 The Animation: Dark Sun",
             "Persona 5 the Animation Dark Sun",
             "Persona 5 the Animation: Dark Sun",
+            "Persona 5 the Animation: Dunkle Sonne",
             "『PERSONA5 the Animation』特番アニメーション前編「Dark Sun...」"
         ],
         "relations": [
@@ -9994,6 +9964,8 @@
             "https://anilist.co/anime/99693",
             "https://anime-planet.com/anime/persona-5-the-animation",
             "https://anime-planet.com/anime/persona-5-the-animation-stars-and-ours",
+            "https://anisearch.com/anime/12675",
+            "https://anisearch.com/anime/14139",
             "https://kitsu.io/anime/13684",
             "https://kitsu.io/anime/42090",
             "https://kitsu.io/anime/42354",
@@ -10012,6 +9984,7 @@
             "drawing",
             "ecchi",
             "fantasy",
+            "guns",
             "henshin",
             "historical",
             "japan",
@@ -10021,6 +9994,7 @@
             "music",
             "mystery",
             "mythology",
+            "present",
             "revenge",
             "romance",
             "school",
@@ -10032,6 +10006,7 @@
             "sports",
             "super power",
             "supernatural",
+            "supernatural drama",
             "thieves",
             "thriller",
             "tokyo",
@@ -12601,6 +12576,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/ohashitrio-stereo",
             "https://kitsu.io/anime/41132",
             "https://myanimelist.net/anime/37414",
             "https://notify.moe/anime/W6wqnHGmg"
@@ -12613,6 +12589,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1126/92196t.jpg",
         "synonyms": [
             "Embark",
+            "OhashiTrio: Stereo",
             "Omoshiroki ka na Jinsei",
             "STEREO",
             "Snowman",
@@ -12621,6 +12598,7 @@
         ],
         "relations": [],
         "tags": [
+            "abstract",
             "music"
         ],
         "date": {
