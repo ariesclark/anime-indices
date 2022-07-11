@@ -345,6 +345,10 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17306",
+            "https://anime-planet.com/anime/baby-in-charge-3rd-season",
+            "https://anisearch.com/anime/17433",
+            "https://livechart.me/anime/11148",
             "https://myanimelist.net/anime/51997"
         ],
         "title": "Akachan Honbuchou 3rd Season",
@@ -354,15 +358,29 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1035/124259.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1035/124259t.jpg",
         "synonyms": [
+            "Aka-chan Honbuchou 3rd Season",
+            "Akachan Honbuchou 3rd Series",
+            "Akachan Honbuchō 3rd Series",
+            "Baby in Charge 3rd Season",
             "General Manager of Baby 3rd Season",
+            "General Manager of Baby 3rd Series",
+            "赤ちゃん本部長 (第3シリーズ)",
             "赤ちゃん本部長(第3シリーズ)"
         ],
         "relations": [
+            "https://anidb.net/anime/17123",
+            "https://anime-planet.com/anime/baby-in-charge-2nd-season",
+            "https://livechart.me/anime/10441",
+            "https://livechart.me/anime/11020",
             "https://myanimelist.net/anime/51132"
         ],
         "tags": [
+            "age transformation",
+            "based on a manga",
             "comedy",
             "seinen",
+            "short episodes",
+            "slice of life",
             "workplace"
         ],
         "date": {
@@ -955,6 +973,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/fake-type-at-atelier",
             "https://kitsu.io/anime/46062",
             "https://myanimelist.net/anime/51516"
         ],
@@ -964,7 +983,9 @@
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1302/122242.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1302/122242t.jpg",
-        "synonyms": [],
+        "synonyms": [
+            "FAKE TYPE: At Atelier"
+        ],
         "relations": [
             "https://myanimelist.net/anime/32745",
             "https://myanimelist.net/anime/32747",
@@ -974,6 +995,8 @@
             "https://myanimelist.net/anime/49529"
         ],
         "tags": [
+            "art",
+            "fantasy",
             "music"
         ],
         "date": {

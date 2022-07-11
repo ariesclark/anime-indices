@@ -861,6 +861,7 @@
     {
         "sources": [
             "https://anilist.co/anime/130246",
+            "https://anime-planet.com/anime/yoasobi-ano-yume-wo-nazotte",
             "https://myanimelist.net/anime/50055"
         ],
         "title": "Ano Yume wo Nazotte",
@@ -871,6 +872,8 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1535/118640t.jpg",
         "synonyms": [
             "Tracing that Dream",
+            "YOASOBI: Ano Yume wo Nazotte",
+            "YOASOBI: Tracing that Dream",
             "あの夢をなぞって"
         ],
         "relations": [],
@@ -1182,35 +1185,7 @@
     {
         "sources": [
             "https://anilist.co/anime/116060",
-            "https://kitsu.io/anime/44968"
-        ],
-        "title": "Banzai RIZING!!!",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44968/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44968/tiny.jpg",
-        "synonyms": [
-            "ARGONAVIS from BanG Dream! AAside: Banzai RIZING!!!",
-            "アルゴナビス from BanG Dream! AAside「バンザイRIZING!!!」",
-            "バンザイRIZING!!!"
-        ],
-        "relations": [
-            "https://anilist.co/anime/113051",
-            "https://kitsu.io/anime/42688"
-        ],
-        "tags": [
-            "band",
-            "music",
-            "primarily male cast"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
+            "https://kitsu.io/anime/44968",
             "https://myanimelist.net/anime/41072"
         ],
         "title": "Banzai Rizing!",
@@ -1220,14 +1195,21 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1363/105435.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1363/105435t.jpg",
         "synonyms": [
+            "ARGONAVIS from BanG Dream! AAside: Banzai RIZING!!!",
+            "Banzai RIZING!!!",
             "Fujin Rizing!",
+            "アルゴナビス from BanG Dream! AAside「バンザイRIZING!!!」",
             "バンザイRIZING!!!"
         ],
         "relations": [
+            "https://anilist.co/anime/113051",
+            "https://kitsu.io/anime/42688",
             "https://myanimelist.net/anime/40677"
         ],
         "tags": [
-            "music"
+            "band",
+            "music",
+            "primarily male cast"
         ],
         "date": {
             "season": "winter",

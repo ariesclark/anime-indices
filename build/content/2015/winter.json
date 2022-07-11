@@ -204,45 +204,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/12100",
-            "https://anilist.co/anime/104377",
-            "https://anime-planet.com/anime/ai-wo-komete",
-            "https://anisearch.com/anime/11466",
-            "https://kitsu.io/anime/42125",
-            "https://notify.moe/anime/8vuiHVumR"
-        ],
-        "title": "Ai wo Komete",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/ai-wo-komete-1.jpg?t=1625897390",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/ai-wo-komete-1-190x285.jpg?t=1625897390",
-        "synonyms": [
-            "Ai o Komete",
-            "With Love",
-            "愛をこめて"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "food",
-            "food and beverage",
-            "food protagonists",
-            "independent anime",
-            "new",
-            "non-human protagonists",
-            "original work",
-            "short movie",
-            "shorts",
-            "slice of life"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/136614",
             "https://kitsu.io/anime/43515",
             "https://myanimelist.net/anime/40914"
@@ -11992,6 +11953,34 @@
             "sci-fi",
             "science-fiction",
             "super power"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/140722",
+            "https://anime-planet.com/anime/a-friend-in-the-memories",
+            "https://anisearch.com/anime/13246",
+            "https://kitsu.io/anime/45380"
+        ],
+        "title": "a friend in the memories",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/a-friend-in-the-memories-1.webp?t=1656881959",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/a-friend-in-the-memories-1-257x360.webp?t=1656881959",
+        "synonyms": [
+            "A Friend in the Memories"
+        ],
+        "relations": [],
+        "tags": [
+            "drama",
+            "non-human protagonists",
+            "shorts",
+            "stop motion animation"
         ],
         "date": {
             "season": "winter",

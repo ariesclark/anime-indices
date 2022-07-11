@@ -327,27 +327,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/about-you"
-        ],
-        "title": "About you",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/about-you-1.webp?t=1656724975",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/about-you-1-285x400.webp?t=1656724975",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "abstract",
-            "shorts"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/ado-readymade"
         ],
         "title": "Ado: ReadyMade",
@@ -387,6 +366,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/mtv-after-hours-id",
             "https://myanimelist.net/anime/51109"
         ],
         "title": "After Hours",
@@ -396,36 +376,16 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1895/121085.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1895/121085t.jpg",
         "synonyms": [
-            "AfterHours"
+            "AfterHours",
+            "MTV: After Hours ID"
         ],
         "relations": [],
         "tags": [
-            "comedy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/51528"
-        ],
-        "title": "Ahoy!! Warera Houshou Kaizoku-dan☆",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1920/122280.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1920/122280t.jpg",
-        "synonyms": [
-            "Ahoy!! 我ら宝鐘海賊団☆"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44042"
-        ],
-        "tags": [
-            "adventure",
-            "music"
+            "cg animation",
+            "comedy",
+            "no dialogue",
+            "promotional",
+            "station identifications"
         ],
         "date": {
             "season": "unknown",
@@ -458,6 +418,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/pinocchio-p-aisarenakutemo-kimi-ga-iru",
             "https://myanimelist.net/anime/44246"
         ],
         "title": "Aisarenakutemo Kimi ga Iru",
@@ -468,6 +429,8 @@
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
             "Because You’re Here",
+            "Pinocchio-P: Aisarenakutemo Kimi ga Iru",
+            "Pinocchio-P: Because You’re Here",
             "愛されなくても君がいる"
         ],
         "relations": [],
@@ -488,7 +451,8 @@
             "slice of life",
             "sports",
             "supernatural",
-            "suspense"
+            "suspense",
+            "vocaloid"
         ],
         "date": {
             "season": "unknown",
@@ -5907,30 +5871,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/mtv-after-hours-id"
-        ],
-        "title": "MTV: After Hours ID",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/mtv-after-hours-id-1.webp?t=1631214731",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/mtv-after-hours-id-1-285x399.webp?t=1631214731",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "cg animation",
-            "comedy",
-            "no dialogue",
-            "promotional",
-            "station identifications"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/121593"
         ],
         "title": "Mabushigariya",
@@ -7812,28 +7752,6 @@
             "family friendly",
             "kids",
             "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/pinocchio-p-aisarenakutemo-kimi-ga-iru"
-        ],
-        "title": "Pinocchio-P: Aisarenakutemo Kimi ga Iru",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/pinocchio-p-aisarenakutemo-kimi-ga-iru-1.jpg?t=1625908514",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/pinocchio-p-aisarenakutemo-kimi-ga-iru-1-190x266.jpg?t=1625908514",
-        "synonyms": [
-            "Pinocchio-P: Because You’re Here"
-        ],
-        "relations": [],
-        "tags": [
-            "vocaloid"
         ],
         "date": {
             "season": "unknown",
@@ -11526,28 +11444,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/yoasobi-ano-yume-wo-nazotte"
-        ],
-        "title": "YOASOBI: Ano Yume wo Nazotte",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/yoasobi-ano-yume-wo-nazotte-1.jpg?t=1625908313",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/yoasobi-ano-yume-wo-nazotte-1-190x266.jpg?t=1625908313",
-        "synonyms": [
-            "YOASOBI: Tracing that Dream"
-        ],
-        "relations": [],
-        "tags": [
-            "romance"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/42512"
         ],
         "title": "Yakusoku Suru",
@@ -12085,26 +11981,6 @@
             "abstract",
             "non-human protagonists",
             "vocaloid"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/souzoucity-aigatari-na-itte"
-        ],
-        "title": "souzoucity: Aigatari na Itte",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/souzoucity-aigatari-na-itte-1.webp?t=1643308366",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/souzoucity-aigatari-na-itte-1-285x398.webp?t=1643308366",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "drama"
         ],
         "date": {
             "season": "unknown",

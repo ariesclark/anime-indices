@@ -1,48 +1,33 @@
 [
     {
         "sources": [
+            "https://anilist.co/anime/150909",
             "https://anisearch.com/anime/17466",
-            "https://livechart.me/anime/11254"
+            "https://livechart.me/anime/11254",
+            "https://myanimelist.net/anime/52162"
         ],
-        "title": "5-Oku-Nen Button: Sugahara Souta no Short Short",
+        "title": "5-Okunen Button",
         "type": "tv",
         "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17466.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17466.webp",
+        "picture": "https://cdn.myanimelist.net/images/anime/1084/124654.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1084/124654t.jpg",
         "synonyms": [
+            "5-Oku-Nen Button: Sugahara Souta no Short Short",
             "5-Oku-Nen Button: Sugahara Sōta no Short Short",
             "5-Okunen Button ~Sota Sugahara no Short Short~",
-            "5億年ボタン～菅原そうたのショートショート～"
-        ],
-        "relations": [],
-        "tags": [
-            "cg-anime"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/150909"
-        ],
-        "title": "500,000,000-nen Button",
-        "type": "tv",
-        "episodes": 1,
-        "status": "upcoming",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150909-gZMZVQ14EPFt.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150909-gZMZVQ14EPFt.jpg",
-        "synonyms": [
             "500 Million Year Button",
+            "500,000,000-nen Button",
             "5億年ボタン",
-            "Minna no Tonio-chan"
+            "5億年ボタン～菅原そうたのショートショート～",
+            "Minna no Tonio-chan",
+            "The 500 Million Yen Button"
         ],
         "relations": [
             "https://anilist.co/anime/113335"
         ],
         "tags": [
+            "cg-anime",
             "philosophy",
             "psychological"
         ],

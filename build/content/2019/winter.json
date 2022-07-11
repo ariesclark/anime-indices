@@ -247,17 +247,21 @@
     {
         "sources": [
             "https://anilist.co/anime/140871",
+            "https://anime-planet.com/anime/a-pawn",
             "https://kitsu.io/anime/45567"
         ],
         "title": "A Pawn",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45567/poster_image/small-53c33100bce16c4ef8a707c9d202491a.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45567/poster_image/tiny-ef89c49db7a197aadc94db00e0564fc9.jpeg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/a-pawn-1.webp?t=1656473276",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/a-pawn-1-285x399.webp?t=1656473276",
         "synonyms": [],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "shorts",
+            "stop motion animation"
+        ],
         "date": {
             "season": "winter",
             "year": 2019

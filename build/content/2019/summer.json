@@ -234,6 +234,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/animagear-2019",
             "https://kitsu.io/anime/42738",
             "https://myanimelist.net/anime/40033"
         ],
@@ -244,12 +245,17 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1480/101749.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1480/101749t.jpg",
         "synonyms": [
+            "Animagear (2019)",
             "アニマギア"
         ],
         "relations": [],
         "tags": [
+            "family friendly",
             "kids",
-            "mecha"
+            "mecha",
+            "no dialogue",
+            "promotional",
+            "shorts"
         ],
         "date": {
             "season": "summer",
