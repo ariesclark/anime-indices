@@ -978,6 +978,36 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/so-red-and-a-little-blue",
+            "https://myanimelist.net/anime/51639"
+        ],
+        "title": "Dahong Yu Xiao Lan",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1988/122819.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1988/122819t.jpg",
+        "synonyms": [
+            "Dahong He Xiao Lan",
+            "So Red and A Little Blue",
+            "So Red and a Little Blue",
+            "大红与小蓝"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "avant garde",
+            "chinese animation",
+            "no dialogue",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/48162"
         ],
         "title": "Daino Taim",
@@ -2089,6 +2119,59 @@
         "relations": [],
         "tags": [
             "abstract"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/jedi-shi-ri"
+        ],
+        "title": "Jedi Shi Ri",
+        "type": "ona",
+        "episodes": 8,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/jedi-shi-ri-1.webp?t=1657317366",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/jedi-shi-ri-1-285x400.webp?t=1657317366",
+        "synonyms": [
+            "Ten Days Later"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "chinese animation",
+            "sci fi"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/jibian-ying-meng",
+            "https://myanimelist.net/anime/47217"
+        ],
+        "title": "Jibian Ying Meng",
+        "type": "tv",
+        "episodes": 40,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "机变英盟"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "adventure",
+            "chinese animation",
+            "family friendly",
+            "mecha",
+            "sci fi",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",
@@ -5318,7 +5401,8 @@
             "로봇트레인"
         ],
         "relations": [
-            "https://anime-planet.com/anime/robot-trains-2nd-season"
+            "https://anime-planet.com/anime/robot-trains-2nd-season",
+            "https://anisearch.com/anime/15597"
         ],
         "tags": [
             "action",
@@ -5805,35 +5889,6 @@
         ],
         "relations": [],
         "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/so-red-and-a-little-blue",
-            "https://myanimelist.net/anime/51639"
-        ],
-        "title": "So Red and a Little Blue",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1988/122819.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1988/122819t.jpg",
-        "synonyms": [
-            "Dahong He Xiao Lan",
-            "So Red and A Little Blue",
-            "大红与小蓝"
-        ],
-        "relations": [],
-        "tags": [
-            "abstract",
-            "avant garde",
-            "chinese animation",
-            "no dialogue",
-            "shorts"
-        ],
         "date": {
             "season": "unknown",
             "year": 2015

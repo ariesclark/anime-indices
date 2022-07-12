@@ -142,30 +142,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/alkaloid-kiss-of-life"
-        ],
-        "title": "ALKALOID: Kiss of Life",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/alkaloid-kiss-of-life-1.webp?t=1642310094",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/alkaloid-kiss-of-life-1-285x399.webp?t=1642310094",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/ensemble-stars"
-        ],
-        "tags": [
-            "based on a mobile game",
-            "cg animation",
-            "idols"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/129547",
             "https://anime-planet.com/anime/aotu-xueyuan"
         ],
@@ -218,6 +194,7 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/au-de-fannao",
+            "https://anisearch.com/anime/15646",
             "https://myanimelist.net/anime/45394"
         ],
         "tags": [
@@ -397,32 +374,6 @@
         ],
         "relations": [],
         "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/amazing-stranger-nona-video-diary"
-        ],
-        "title": "Amazing Stranger: Nona Video Diary",
-        "type": "ona",
-        "episodes": 40,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/amazing-stranger-nona-video-diary-1.webp?t=1655513090",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/amazing-stranger-nona-video-diary-1-285x399.webp?t=1655513090",
-        "synonyms": [
-            "Choukadou Girl ⅙: Nona Video Diary"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/amazing-stranger"
-        ],
-        "tags": [
-            "based on a manga",
-            "comedy",
-            "short episodes"
-        ],
         "date": {
             "season": "unknown",
             "year": 2019
@@ -993,6 +944,32 @@
             "romance",
             "shorts",
             "slice of life"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52351"
+        ],
+        "title": "Boys & Girls 3.0 feat Roboco",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1430/125168.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1430/125168t.jpg",
+        "synonyms": [
+            "BOYS & GIRLS 3.0 feat. ロボ子"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44042",
+            "https://myanimelist.net/anime/44268"
+        ],
+        "tags": [
+            "idols (female)",
+            "sci-fi"
         ],
         "date": {
             "season": "unknown",
@@ -1773,29 +1750,6 @@
             "family friendly",
             "kids",
             "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/121066"
-        ],
-        "title": "Daisuki ni Nareba Iin Janai?",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121066-T1DoFJswNm0O.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121066-T1DoFJswNm0O.png",
-        "synonyms": [
-            "Wouldn't it be Nice to be in Love?",
-            "大好きになればいいんじゃない?"
-        ],
-        "relations": [],
-        "tags": [
-            "romance"
         ],
         "date": {
             "season": "unknown",
@@ -5978,8 +5932,11 @@
         "synonyms": [],
         "relations": [],
         "tags": [
+            "abstract",
             "black and white",
-            "no dialogue"
+            "no dialogue",
+            "shorts",
+            "trains"
         ],
         "date": {
             "season": "unknown",
@@ -6521,27 +6478,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/121509"
-        ],
-        "title": "Manjushage",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121509-C5ml3rjo8SW9.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121509-C5ml3rjo8SW9.png",
-        "synonyms": [
-            "Manjusyage",
-            "曼珠沙華"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/45092"
         ],
         "title": "Mao Gongzhu Su Fei",
@@ -6681,8 +6617,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
         "synonyms": [
             "Kidou Senshi Gundam UC: Zenwa Digest - Banagher no Tabiji"
         ],
@@ -7568,6 +7504,32 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/pao-pao-meirenyu",
+            "https://myanimelist.net/anime/47212"
+        ],
+        "title": "Pao Pao Meirenyu",
+        "type": "ona",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "泡泡美人鱼"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "fantasy",
+            "mermaids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/109716"
         ],
         "title": "Pastel",
@@ -8151,33 +8113,6 @@
         "synonyms": [],
         "relations": [],
         "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/50617"
-        ],
-        "title": "Redeu Syujeu",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1006/120152.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1006/120152t.jpg",
-        "synonyms": [
-            "Red Shoes and the Seven Dwarfs",
-            "레드슈즈"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "adventure",
-            "comedy",
-            "fantasy",
-            "romance"
-        ],
         "date": {
             "season": "unknown",
             "year": 2019
@@ -11549,29 +11484,6 @@
             "family friendly",
             "non-human protagonists",
             "pigs"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/51967"
-        ],
-        "title": "Zhui Meng Zhe",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1262/124148.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1262/124148t.jpg",
-        "synonyms": [
-            "追梦者"
-        ],
-        "relations": [],
-        "tags": [
-            "drama",
-            "historical"
         ],
         "date": {
             "season": "unknown",

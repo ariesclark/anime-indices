@@ -1,29 +1,6 @@
 [
     {
         "sources": [
-            "https://anilist.co/anime/143394"
-        ],
-        "title": "Amefuri Kumanoko (2010 ver)",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b143394-CKmT7BZQEm8O.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b143394-CKmT7BZQEm8O.png",
-        "synonyms": [
-            "Little Bear in the Rain",
-            "あめふりくまのこ (2010 ver)"
-        ],
-        "relations": [],
-        "tags": [
-            "drama"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/123437",
             "https://myanimelist.net/anime/51054"
         ],
@@ -296,18 +273,19 @@
             "https://anime-planet.com/anime/city",
             "https://myanimelist.net/anime/51328"
         ],
-        "title": "City",
+        "title": "CiTY",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1384/121650.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1384/121650t.jpg",
         "synonyms": [
-            "CiTY"
+            "CiTY (도시)"
         ],
         "relations": [],
         "tags": [
             "abstract",
+            "avant garde",
             "korean animation",
             "shorts",
             "slice of life"
@@ -2223,26 +2201,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/52036"
-        ],
-        "title": "Nyan~ Neko Sugar Girls",
-        "type": "unknown",
-        "episodes": 11,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "romance"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/16340",
             "https://anime-planet.com/anime/okashi-no-rocket-de-shuppatsu"
         ],
@@ -2261,6 +2219,24 @@
             "family friendly",
             "shorts"
         ],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52356"
+        ],
+        "title": "Out of sight",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1981/125207.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1981/125207t.jpg",
+        "synonyms": [],
+        "relations": [],
+        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2010

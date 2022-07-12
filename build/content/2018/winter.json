@@ -2273,7 +2273,6 @@
             "heroine of strong character",
             "heterosexual",
             "kaiju",
-            "lgbtq+ themes",
             "lost civilization",
             "love polygon",
             "love triangle",
@@ -2840,7 +2839,9 @@
         ],
         "relations": [
             "https://anidb.net/anime/13851",
-            "https://anidb.net/anime/14891"
+            "https://anidb.net/anime/14891",
+            "https://anisearch.com/anime/16007",
+            "https://anisearch.com/anime/16131"
         ],
         "tags": [],
         "date": {
@@ -2984,6 +2985,28 @@
             "novel",
             "romance",
             "xianxia"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52282"
+        ],
+        "title": "Dragon Ball Z x Kao",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1376/124922.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1376/124922t.jpg",
+        "synonyms": [],
+        "relations": [
+            "https://myanimelist.net/anime/813"
+        ],
+        "tags": [
+            "action"
         ],
         "date": {
             "season": "winter",
@@ -5313,6 +5336,8 @@
             "https://anime-planet.com/anime/hitori-no-shita-the-outcast-2",
             "https://anime-planet.com/anime/hitori-no-shita-the-outcast-3",
             "https://anime-planet.com/anime/hitori-no-shita-the-outcast-fanwai-pian",
+            "https://anisearch.com/anime/11508",
+            "https://anisearch.com/anime/12466",
             "https://myanimelist.net/anime/33421",
             "https://myanimelist.net/anime/35333"
         ],
@@ -5996,6 +6021,8 @@
         "relations": [
             "https://anime-planet.com/anime/a-sisters-all-you-need",
             "https://anime-planet.com/anime/a-sisters-all-you-need-web",
+            "https://anisearch.com/anime/12406",
+            "https://anisearch.com/anime/13180",
             "https://livechart.me/anime/2669",
             "https://livechart.me/anime/4362",
             "https://myanimelist.net/anime/37045"
@@ -8900,6 +8927,10 @@
             "https://anime-planet.com/anime/the-seven-deadly-sins-revival-of-the-commandments-ova",
             "https://anime-planet.com/anime/the-seven-deadly-sins-revival-of-the-commandments-prologue",
             "https://anime-planet.com/anime/the-seven-deadly-sins-signs-of-holy-war",
+            "https://anisearch.com/anime/11296",
+            "https://anisearch.com/anime/12633",
+            "https://anisearch.com/anime/13843",
+            "https://anisearch.com/anime/14343",
             "https://kitsu.io/anime/11414",
             "https://kitsu.io/anime/14204",
             "https://kitsu.io/anime/42050",
@@ -9956,7 +9987,7 @@
             "PERSONA5 the Animation -Dark Sun...-",
             "PERSONA5 the Animation: Dark Sun...",
             "PERSONA5 the Animation: Dark Sun…",
-            "Persona 5 The Animation: Dark Sun",
+            "Persona 5 The Animation: Un sol oscuro",
             "Persona 5 the Animation Dark Sun",
             "Persona 5 the Animation: Dark Sun",
             "Persona 5 the Animation: Dunkle Sonne",
@@ -10101,6 +10132,7 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/pochitto-hatsumei-pikachin-kit-episode-0",
+            "https://anisearch.com/anime/13112",
             "https://myanimelist.net/anime/36947"
         ],
         "tags": [
@@ -10382,6 +10414,8 @@
             "https://anime-planet.com/anime/go-princess-pretty-cure",
             "https://anime-planet.com/anime/kirakira-pretty-cure-a-la-mode",
             "https://anime-planet.com/anime/mahou-tsukai-pretty-cure",
+            "https://anisearch.com/anime/11888",
+            "https://anisearch.com/anime/13075",
             "https://livechart.me/anime/5176",
             "https://livechart.me/anime/5317",
             "https://livechart.me/anime/5318",
@@ -12676,32 +12710,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/151640"
-        ],
-        "title": "Sword Art Online Fatal Bullet -The Third Episode- Pilo-ban",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b151640-ZZK3SqDckkOd.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b151640-ZZK3SqDckkOd.jpg",
-        "synonyms": [
-            "Sword Art Online \"Fatal Bullet\" PS4 The Third Episode Teaser",
-            "Sword Art Online Fatal Bullet -The Third Episode- ＜パイロット版＞"
-        ],
-        "relations": [
-            "https://anilist.co/anime/104437",
-            "https://anilist.co/anime/20594"
-        ],
-        "tags": [
-            "fantasy"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/13835",
             "https://anilist.co/anime/104437",
             "https://anime-planet.com/anime/sword-art-online-fatal-bullet-the-third-episode",
@@ -12779,6 +12787,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/151640",
             "https://kitsu.io/anime/41764",
             "https://livechart.me/anime/5234",
             "https://myanimelist.net/anime/37278"
@@ -12790,14 +12799,19 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1821/90470.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1821/90470t.jpg",
         "synonyms": [
+            "Sword Art Online \"Fatal Bullet\" PS4 The Third Episode Teaser",
+            "Sword Art Online Fatal Bullet -The Third Episode- Pilot-ban",
             "Sword Art Online Fatal Bullet -The Third Episode- ＜パイロット版＞"
         ],
         "relations": [
+            "https://anilist.co/anime/104437",
+            "https://anilist.co/anime/20594",
             "https://myanimelist.net/anime/21881",
             "https://myanimelist.net/anime/36475",
             "https://myanimelist.net/anime/37362"
         ],
         "tags": [
+            "fantasy",
             "game",
             "video game",
             "virtual reality"

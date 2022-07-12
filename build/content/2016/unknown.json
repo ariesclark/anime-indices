@@ -396,32 +396,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/all-free-kono-natsu-ichioshi-monogatari-campaign-kokuchi-douga"
-        ],
-        "title": "All-Free kono Natsu Ichioshi Monogatari Campaign Kokuchi Douga",
-        "type": "special",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/all-free-kono-natsu-ichioshi-monogatari-campaign-kokuchi-douga-1.jpg?t=1625899229",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/all-free-kono-natsu-ichioshi-monogatari-campaign-kokuchi-douga-1-190x266.jpg?t=1625899229",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/mr-osomatsu"
-        ],
-        "tags": [
-            "comedy",
-            "commercials",
-            "food and beverage",
-            "promotional",
-            "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/12490"
         ],
         "title": "Amhaengeosa Byeolko",
@@ -977,6 +951,30 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/chikool-baobei-jihua-da-ai-wujiang"
+        ],
+        "title": "Chikool Baobei Jihua: Da Ai Wujiang",
+        "type": "movie",
+        "episodes": 5,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/chikool-baobei-jihua-da-ai-wujiang-1.webp?t=1657298412",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/chikool-baobei-jihua-da-ai-wujiang-1-264x371.webp?t=1657298412",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
+            "family friendly",
+            "non-human protagonists"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/44946"
         ],
         "title": "Chouxiaoya Lixian Ji",
@@ -1026,6 +1024,7 @@
     {
         "sources": [
             "https://anilist.co/anime/139727",
+            "https://anime-planet.com/anime/congming-de-shunliu",
             "https://myanimelist.net/anime/47218"
         ],
         "title": "Congming De Shunliu",
@@ -1036,14 +1035,19 @@
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
             "Eagle Box",
+            "Eagle Boy",
             "聪明的顺溜"
         ],
         "relations": [
             "https://anilist.co/anime/139728",
-            "https://anilist.co/anime/139729"
+            "https://anilist.co/anime/139729",
+            "https://anime-planet.com/anime/congming-de-shunliu-2",
+            "https://anime-planet.com/anime/congming-de-shunliu-teshu-renwu"
         ],
         "tags": [
             "action",
+            "adventure",
+            "chinese animation",
             "full cgi",
             "military"
         ],
@@ -1144,6 +1148,32 @@
         ],
         "relations": [],
         "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/die-di-baobei-shenqi-ha-ku"
+        ],
+        "title": "Die Di Baobei: Shenqi Ha Ku",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/die-di-baobei-shenqi-ha-ku-1.webp?t=1657309832",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/die-di-baobei-shenqi-ha-ku-1-285x400.webp?t=1657309832",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "bears",
+            "chinese animation",
+            "family friendly",
+            "koalas",
+            "non-human protagonists"
+        ],
         "date": {
             "season": "unknown",
             "year": 2016
@@ -1482,6 +1512,59 @@
             "fantasy",
             "magic",
             "promotional",
+            "sci fi"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/fei-chai-hu-a-ju",
+            "https://myanimelist.net/anime/47225"
+        ],
+        "title": "Fei Chai Hu A Ju",
+        "type": "ona",
+        "episodes": 12,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "废柴狐阿桔"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "comedy",
+            "fantasy",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/feitian-shaonian",
+            "https://myanimelist.net/anime/47215"
+        ],
+        "title": "Feitian Shaonian",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "飞天少年"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "family friendly",
+            "kids",
             "sci fi"
         ],
         "date": {
@@ -4668,6 +4751,34 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/qi-ji-leyuan",
+            "https://myanimelist.net/anime/47239"
+        ],
+        "title": "Qi Ji Leyuan",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "奇积乐园"
+        ],
+        "relations": [],
+        "tags": [
+            "cars",
+            "chinese animation",
+            "family friendly",
+            "fantasy",
+            "non-human protagonists",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/47272"
         ],
         "title": "Qiao Shou Luban",
@@ -6360,6 +6471,37 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/tuteng-lingyu",
+            "https://myanimelist.net/anime/47226"
+        ],
+        "title": "Tuteng Lingyu",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "Totem Heroes",
+            "图腾领域"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/tuteng-lingyu-2nd-season"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "chinese animation",
+            "family friendly",
+            "sci fi",
+            "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/up-miao-zhiwu-kepu-2nd-season",
             "https://myanimelist.net/anime/44474"
         ],
@@ -7095,6 +7237,32 @@
             "adventure",
             "fantasy",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/yi-xue",
+            "https://myanimelist.net/anime/47236"
+        ],
+        "title": "Yi Xue",
+        "type": "ona",
+        "episodes": 57,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "First Kill",
+            "一雪"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "comedy",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",

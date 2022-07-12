@@ -296,6 +296,7 @@
             "https://anilist.co/anime/146553",
             "https://anime-planet.com/anime/aotu-shijie",
             "https://anime-planet.com/anime/aotu-shijie-2",
+            "https://anime-planet.com/anime/aotu-shijie-4",
             "https://kitsu.io/anime/14117",
             "https://myanimelist.net/anime/36345"
         ],
@@ -422,7 +423,9 @@
         "synonyms": [
             "アクマのキムラーMADMAX 篇"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/13742"
+        ],
         "tags": [
             "apocalyptic fiction",
             "comedy",
@@ -1928,6 +1931,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/amazing-stranger-nona-video-diary",
             "https://myanimelist.net/anime/40009"
         ],
         "title": "Choukadou Girl ⅙: Nona Video Nikki",
@@ -1937,14 +1941,18 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1641/102913.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1641/102913t.jpg",
         "synonyms": [
+            "Amazing Stranger: Nona Video Diary",
             "Choukadou Girl ⅙: Nona Video Diary",
             "ノーナビデオ日記"
         ],
         "relations": [
+            "https://anime-planet.com/anime/amazing-stranger",
             "https://myanimelist.net/anime/38226"
         ],
         "tags": [
-            "comedy"
+            "based on a manga",
+            "comedy",
+            "short episodes"
         ],
         "date": {
             "season": "winter",
@@ -2566,6 +2574,7 @@
             "Date a Live 3rd Season",
             "Date a Live III",
             "Date a Live S3",
+            "Рандеву с Жизнью 3",
             "พิชิตรัก พิทักษ์โลก ภาค 3",
             "でーとあらいぶすりー",
             "デート・ア・ライブ III",
@@ -3756,6 +3765,31 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52334"
+        ],
+        "title": "Felicia",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1055/125126.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1055/125126t.jpg",
+        "synonyms": [
+            "フェリシア"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44042",
+            "https://myanimelist.net/anime/49768"
+        ],
+        "tags": [
+            "idols (female)"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
             "https://kitsu.io/anime/43947"
         ],
         "title": "Felicia",
@@ -4549,6 +4583,8 @@
             "https://anime-planet.com/anime/the-eden-of-grisaia",
             "https://anime-planet.com/anime/the-fruit-of-grisaia",
             "https://anime-planet.com/anime/the-labyrinth-of-grisaia",
+            "https://anisearch.com/anime/10139",
+            "https://anisearch.com/anime/17161",
             "https://kitsu.io/anime/10155",
             "https://kitsu.io/anime/43368",
             "https://livechart.me/anime/11101",
@@ -4944,6 +4980,38 @@
     },
     {
         "sources": [
+            "https://kitsu.io/anime/43949",
+            "https://myanimelist.net/anime/52335"
+        ],
+        "title": "Hikari no Machi",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1532/125127.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1532/125127t.jpg",
+        "synonyms": [
+            "AZKi BLaCK",
+            "ひかりのまち"
+        ],
+        "relations": [
+            "https://kitsu.io/anime/43740",
+            "https://myanimelist.net/anime/44042"
+        ],
+        "tags": [
+            "horror",
+            "idol",
+            "idols (female)",
+            "music",
+            "psychological",
+            "science fiction"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/hikari-be-my-light",
             "https://kitsu.io/anime/43970",
             "https://myanimelist.net/anime/49084"
@@ -5323,6 +5391,31 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52342"
+        ],
+        "title": "I Can't Control Myself",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1320/125147.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1320/125147t.jpg",
+        "synonyms": [
+            "I can't control myself"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44042"
+        ],
+        "tags": [
+            "idols (female)",
+            "music"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/14521",
             "https://anilist.co/anime/107668",
             "https://anime-planet.com/anime/ikebukuro",
@@ -5392,6 +5485,8 @@
             "https://anime-planet.com/anime/ikkitousen-great-guardians",
             "https://anime-planet.com/anime/ikkitousen-shuugaku-toushi-keppuuroku",
             "https://anime-planet.com/anime/ikkitousen-xtreme-xecutor",
+            "https://anisearch.com/anime/16438",
+            "https://anisearch.com/anime/9812",
             "https://kitsu.io/anime/13220",
             "https://kitsu.io/anime/44859",
             "https://livechart.me/anime/10674",
@@ -5851,8 +5946,7 @@
             "student council",
             "student government",
             "tsundere",
-            "verbal comedy",
-            "villainess"
+            "verbal comedy"
         ],
         "date": {
             "season": "winter",
@@ -6718,6 +6812,8 @@
             "https://anilist.co/anime/116330",
             "https://anime-planet.com/anime/kouya-no-kotobuki-hikoutai-gaiden-oozora-no-harukaze-hikoutai",
             "https://anime-planet.com/anime/the-magnificent-kotobuki-kanzenban",
+            "https://anisearch.com/anime/14410",
+            "https://anisearch.com/anime/15009",
             "https://kitsu.io/anime/42377",
             "https://kitsu.io/anime/42994",
             "https://livechart.me/anime/9385",
@@ -7320,6 +7416,7 @@
             "https://anime-planet.com/anime/lupin-the-3rd-speical-10-crisis-in-tokyo",
             "https://anime-planet.com/anime/lupin-the-3rd-the-first",
             "https://anime-planet.com/anime/lupin-the-pursuit-of-harimaos-treasure",
+            "https://anisearch.com/anime/12738",
             "https://livechart.me/anime/4165",
             "https://livechart.me/anime/4320",
             "https://livechart.me/anime/5905",
@@ -9027,6 +9124,7 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/one-piece",
+            "https://anisearch.com/anime/2227",
             "https://kitsu.io/anime/12",
             "https://livechart.me/anime/321",
             "https://livechart.me/anime/4028",
@@ -11711,6 +11809,36 @@
     },
     {
         "sources": [
+            "https://kitsu.io/anime/43950",
+            "https://myanimelist.net/anime/52343"
+        ],
+        "title": "Starry Regrets",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1346/125148.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1346/125148t.jpg",
+        "synonyms": [
+            "AZKi WHiTE"
+        ],
+        "relations": [
+            "https://kitsu.io/anime/43740",
+            "https://myanimelist.net/anime/44042"
+        ],
+        "tags": [
+            "horror",
+            "idol",
+            "idols (female)",
+            "music",
+            "psychological"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/14459",
             "https://anilist.co/anime/105857",
             "https://anime-planet.com/anime/star-twinkle-pretty-cure",
@@ -12240,8 +12368,10 @@
         ],
         "relations": [],
         "tags": [
+            "abstract",
             "no dialogue",
-            "psychological"
+            "psychological",
+            "shorts"
         ],
         "date": {
             "season": "winter",
@@ -13621,6 +13751,7 @@
             "https://anidb.net/anime/15926",
             "https://anilist.co/anime/115846",
             "https://anime-planet.com/anime/xie-wang-zhui-qi-zhi-yishi-qingcheng",
+            "https://anisearch.com/anime/17017",
             "https://kitsu.io/anime/43815",
             "https://livechart.me/anime/9974",
             "https://myanimelist.net/anime/44221",

@@ -1,35 +1,6 @@
 [
     {
         "sources": [
-            "https://anime-planet.com/anime/angel-tales-specials"
-        ],
-        "title": "Angel Tales Specials",
-        "type": "special",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/angel-tales",
-            "https://anime-planet.com/anime/angel-tales-2",
-            "https://anime-planet.com/anime/angel-tales-omake"
-        ],
-        "tags": [
-            "angels",
-            "fantasy",
-            "harem",
-            "non-human protagonists",
-            "original work",
-            "romance"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2002
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/baiyu-tang",
             "https://myanimelist.net/anime/43868"
         ],
@@ -124,7 +95,9 @@
             "The Restaurant of Many Orders (2002)",
             "注文の多い料理店 （2002）"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/168"
+        ],
         "tags": [
             "horror"
         ],

@@ -518,6 +518,7 @@
             "https://anidb.net/anime/14820",
             "https://anilist.co/anime/110694",
             "https://anime-planet.com/anime/ani-x-para-who-is-your-hero",
+            "https://anisearch.com/anime/14390",
             "https://kitsu.io/anime/41769",
             "https://livechart.me/anime/9854",
             "https://myanimelist.net/anime/37290"
@@ -531,14 +532,19 @@
         "synonyms": [
             "ANI x PARA: Anata no Hero wa Dare desu ka",
             "Ani x Para",
+            "Ani x Para: Anata no Hero wa Dare Desu ka",
             "Ani x Para: Who is Your Hero?",
+            "Ani × Para: Anata no Hero wa Dare Desu ka",
             "AniPara",
             "Animation X Paralympic: Anata no Hero wa Dare Desuka?",
             "Animation x Paralympic",
+            "Animation x Paralympic: Who Is Your Hero?",
             "Animation × Paralympic: Who Is Your Hero?",
             "Anime X Paralympic: Anata no Hero wa Dare Desuka?",
+            "Anime x Para",
             "Anime x Paralympic",
             "Anime x Parasport",
+            "Anime × Para",
             "アニ×パラ",
             "アニ×パラ〜あなたのヒーローは誰ですか〜",
             "アニメ×パラリンピック~あなたのヒーローは誰ですか~"
@@ -560,6 +566,7 @@
             "episodic",
             "football",
             "martial arts",
+            "present",
             "promotional",
             "rugby",
             "running",
@@ -568,34 +575,6 @@
             "sports",
             "tennis",
             "track and field"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/14390"
-        ],
-        "title": "Ani × Para: Anata no Hero wa Dare Desu ka",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/14/14390.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/14/14390.webp",
-        "synonyms": [
-            "Ani x Para",
-            "Ani x Para: Anata no Hero wa Dare Desu ka",
-            "Animation x Paralympic: Who Is Your Hero?",
-            "Anime x Para",
-            "Anime × Para",
-            "アニ×パラ〜あなたのヒーローは誰ですか〜"
-        ],
-        "relations": [],
-        "tags": [
-            "present",
-            "sports"
         ],
         "date": {
             "season": "fall",
@@ -957,6 +936,7 @@
         "relations": [
             "https://anilist.co/anime/6347",
             "https://anime-planet.com/anime/baka-and-test-summon-the-beasts",
+            "https://anisearch.com/anime/6299",
             "https://livechart.me/anime/1207",
             "https://livechart.me/anime/3284",
             "https://livechart.me/anime/3285",
@@ -1256,7 +1236,9 @@
             "conspiracy",
             "cult",
             "cultivation",
+            "cute boys doing cute things",
             "demons",
+            "disability",
             "drama",
             "dungeon",
             "elf",
@@ -1273,6 +1255,7 @@
             "hero of strong character",
             "heterosexual",
             "kuudere",
+            "lgbtq+ themes",
             "lost civilization",
             "love triangle",
             "magic",
@@ -1282,6 +1265,7 @@
             "revenge",
             "shounen",
             "stoic hero",
+            "suicide",
             "super power",
             "swordplay",
             "swords & co",
@@ -2019,7 +2003,9 @@
         "synonyms": [
             "Geckoman Season 2"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/16222"
+        ],
         "tags": [
             "action"
         ],
@@ -5062,7 +5048,8 @@
             "劇場版 はいからさんが通る"
         ],
         "relations": [
-            "https://anidb.net/anime/2019"
+            "https://anidb.net/anime/2019",
+            "https://anisearch.com/anime/3124"
         ],
         "tags": [
             "comedy",
@@ -6598,6 +6585,9 @@
             "https://anime-planet.com/anime/hozukis-coolheadedness-ova",
             "https://anime-planet.com/anime/hozukis-coolheadedness-ova-2",
             "https://anime-planet.com/anime/hozukis-coolheadedness-ova-3",
+            "https://anisearch.com/anime/12685",
+            "https://anisearch.com/anime/13163",
+            "https://anisearch.com/anime/9075",
             "https://kitsu.io/anime/14157",
             "https://kitsu.io/anime/8009",
             "https://livechart.me/anime/238",
@@ -8973,6 +8963,7 @@
         "relations": [
             "https://anilist.co/anime/100912",
             "https://anime-planet.com/anime/children-of-the-whales-specials",
+            "https://anisearch.com/anime/12805",
             "https://kitsu.io/anime/14054",
             "https://livechart.me/anime/2860",
             "https://myanimelist.net/anime/37272",
@@ -14179,6 +14170,7 @@
         "relations": [
             "https://anilist.co/anime/103924",
             "https://anime-planet.com/anime/taishou-mebiusline-chicchai-san-you-and-i",
+            "https://anisearch.com/anime/13814",
             "https://kitsu.io/anime/41436",
             "https://myanimelist.net/anime/37408"
         ],

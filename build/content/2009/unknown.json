@@ -154,7 +154,10 @@
             "Robokicks 4",
             "Robokicks Season 4"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/16748",
+            "https://anisearch.com/anime/16750"
+        ],
         "tags": [
             "soccer",
             "sports"
@@ -272,6 +275,36 @@
         "tags": [
             "kids",
             "racing"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/chaoji-fangchengshi-2nd-season",
+            "https://myanimelist.net/anime/52063"
+        ],
+        "title": "Chaoji Fangchengshi 2nd Season",
+        "type": "tv",
+        "episodes": 18,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1434/124414.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1434/124414t.jpg",
+        "synonyms": [
+            "Formula-X",
+            "超级方程式 第二部"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/chaoji-fangchengshi",
+            "https://myanimelist.net/anime/52062"
+        ],
+        "tags": [
+            "cg animation",
+            "chinese animation",
+            "racing",
+            "sports"
         ],
         "date": {
             "season": "unknown",

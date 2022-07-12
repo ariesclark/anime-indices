@@ -329,39 +329,32 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16373",
-            "https://anilist.co/anime/135778",
-            "https://anime-planet.com/anime/high-card",
-            "https://anisearch.com/anime/16360",
-            "https://kitsu.io/anime/44706",
-            "https://livechart.me/anime/10635",
-            "https://myanimelist.net/anime/49154",
-            "https://notify.moe/anime/akFFNyY7R"
+            "https://anilist.co/anime/152122",
+            "https://myanimelist.net/anime/52364"
         ],
-        "title": "High Card",
-        "type": "tv",
-        "episodes": 12,
+        "title": "Hirano to Kagiura",
+        "type": "movie",
+        "episodes": 1,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1159/121392.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1159/121392t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
-            "HIGH CARD",
-            "ハイカード"
+            "Hirano and Kagiura",
+            "ฮิราโนะกับคางิอุระ",
+            "平野と鍵浦"
         ],
-        "relations": [],
+        "relations": [
+            "https://anilist.co/anime/146743",
+            "https://myanimelist.net/anime/44055",
+            "https://myanimelist.net/anime/51440"
+        ],
         "tags": [
-            "action",
-            "brain games and gambling",
-            "card battle",
-            "card games",
-            "drama",
-            "gambling",
-            "game",
-            "high stakes game",
-            "original work",
-            "poker",
-            "strategy game",
-            "supernatural"
+            "boys love",
+            "comedy",
+            "josei",
+            "romance",
+            "school",
+            "slice of life"
         ],
         "date": {
             "season": "unknown",
@@ -893,24 +886,75 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/51973"
+            "https://livechart.me/anime/11329"
         ],
-        "title": "Star Wars: Visions 2",
-        "type": "ona",
-        "episodes": 0,
+        "title": "Sasaki to Miyano: Hirano to Kagiura",
+        "type": "movie",
+        "episodes": 1,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1609/124169.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1609/124169t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
-            "Star Wars: Visions Volume 2",
-            "スター・ウォーズ：ヴィジョンズ・ボリューム2"
+            "Sasaki and Miyano: Hirano and Kagiura",
+            "佐々木と宮野 平野と鍵浦"
         ],
         "relations": [
-            "https://myanimelist.net/anime/49357"
+            "https://livechart.me/anime/10225",
+            "https://livechart.me/anime/10967",
+            "https://livechart.me/anime/11163"
         ],
         "tags": [
-            "military",
-            "space"
+            "school",
+            "shounen ai",
+            "slice of life"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/17501",
+            "https://anilist.co/anime/151970",
+            "https://anime-planet.com/anime/shangri-la-frontier",
+            "https://anisearch.com/anime/17504",
+            "https://kitsu.io/anime/46241",
+            "https://livechart.me/anime/11324",
+            "https://myanimelist.net/anime/52347"
+        ],
+        "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1956/125152.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1956/125152t.jpg",
+        "synonyms": [
+            "Shangri-La Frontier",
+            "Shangri-La Frontier: Crappy Game Hunter Challenges God-Tier Game",
+            "Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su",
+            "Shangri-La Frontier: Kusogē Hunter, Kamige ni Idoman to Su",
+            "シャングリラ・フロンティア",
+            "シャングリラ・フロンティア ~クソゲーハンター、神ゲーに挑まんとす~",
+            "シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす〜",
+            "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "adventure",
+            "based on a web novel",
+            "comedy",
+            "fantasy",
+            "isekai",
+            "mmorpg",
+            "rpg",
+            "science-fiction",
+            "shounen",
+            "video game",
+            "video games",
+            "virtual reality",
+            "virtual world"
         ],
         "date": {
             "season": "unknown",
@@ -954,6 +998,7 @@
         ],
         "tags": [
             "action",
+            "adoption",
             "adventure",
             "alternative world",
             "based on a video game",
@@ -1081,8 +1126,8 @@
         "type": "special",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1383/124527.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1383/124527t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1697/124972.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1697/124972t.jpg",
         "synonyms": [
             "TRIGUN STAMPEDE",
             "トライガン スタンピード"
@@ -1133,22 +1178,27 @@
     {
         "sources": [
             "https://anilist.co/anime/150151",
+            "https://anime-planet.com/anime/wu-di-de-zuqiu",
             "https://myanimelist.net/anime/51974"
         ],
-        "title": "Wu Di De Zuqiu",
+        "title": "Wu Di de Zuqiu",
         "type": "ona",
         "episodes": 0,
         "status": "upcoming",
         "picture": "https://cdn.myanimelist.net/images/anime/1177/124186.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1177/124186t.jpg",
         "synonyms": [
+            "Wu Di De Zuqiu",
             "Wu Di's Football",
             "吴狄的足球"
         ],
         "relations": [],
         "tags": [
+            "chinese animation",
             "football",
-            "sports"
+            "soccer",
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "unknown",

@@ -803,8 +803,8 @@
         "type": "ona",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
         "synonyms": [],
         "relations": [
             "https://anime-planet.com/anime/aware-meisaku-kun",
@@ -1769,29 +1769,6 @@
         "tags": [
             "art",
             "psychopaths"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/51966"
-        ],
-        "title": "Da Luan",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1823/124147.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1823/124147t.jpg",
-        "synonyms": [
-            "大鸾——周恩来童年读书的故事"
-        ],
-        "relations": [],
-        "tags": [
-            "drama",
-            "historical"
         ],
         "date": {
             "season": "unknown",
@@ -7543,32 +7520,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/51789"
-        ],
-        "title": "Ouchi de Bijutsukan",
-        "type": "ona",
-        "episodes": 0,
-        "status": "ongoing",
-        "picture": "https://cdn.myanimelist.net/images/anime/1755/123695.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1755/123695t.jpg",
-        "synonyms": [
-            "お家で美術館"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/51785"
-        ],
-        "tags": [
-            "iyashikei",
-            "kids",
-            "music"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/48813"
         ],
         "title": "Pachislot Eureka Seven 3",
@@ -9160,33 +9111,6 @@
         "relations": [],
         "tags": [
             "school life"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/126609"
-        ],
-        "title": "Suiyoubi no Yakusoku: Another Story",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126609-cD2vSTzYWifs.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126609-cD2vSTzYWifs.png",
-        "synonyms": [
-            "Wednesday's Promise: Another Story",
-            "水曜日の約束-another story-"
-        ],
-        "relations": [
-            "https://anilist.co/anime/121978",
-            "https://anilist.co/anime/21296"
-        ],
-        "tags": [
-            "kuudere",
-            "romance"
         ],
         "date": {
             "season": "unknown",
@@ -11596,27 +11520,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/yourness-be-all-lie"
-        ],
-        "title": "Yourness: BE ALL LIE",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/yourness-be-all-lie-1.jpg?t=1625908888",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/yourness-be-all-lie-1-190x266.jpg?t=1625908888",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "action",
-            "superpowers"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/139064"
         ],
         "title": "Yowishigure",
@@ -11799,23 +11702,18 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/zui-ke-ai-de-ren-2020",
-            "https://myanimelist.net/anime/45117"
+            "https://anime-planet.com/anime/zui-ke-ai-de-ren-2020"
         ],
-        "title": "Zui Ke Ai De Ren(2020)",
+        "title": "Zui Ke Ai De Ren (2020)",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1845/117411.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1845/117411t.jpg",
-        "synonyms": [
-            "Zui Ke Ai De Ren (2020)",
-            "最可爱的人"
-        ],
+        "picture": "https://cdn.anime-planet.com/anime/primary/zui-ke-ai-de-ren-2020-1.webp?t=1654137863",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/zui-ke-ai-de-ren-2020-1-285x400.webp?t=1654137863",
+        "synonyms": [],
         "relations": [],
         "tags": [
-            "chinese animation",
-            "historical"
+            "chinese animation"
         ],
         "date": {
             "season": "unknown",

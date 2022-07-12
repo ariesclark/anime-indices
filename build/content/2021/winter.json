@@ -294,7 +294,6 @@
             "based on a manga",
             "comedy",
             "coming of age",
-            "cute girls doing cute things",
             "drama",
             "ecchi",
             "ensemble cast",
@@ -1893,13 +1892,17 @@
         "tags": [
             "action",
             "age regression",
+            "body horror",
+            "circus",
             "contemporary fantasy",
             "demons",
             "drama",
+            "fairy tale",
             "fantasy",
             "female protagonist",
             "henshin",
             "henshin heroes",
+            "heterosexual",
             "lgbtq+ themes",
             "magic",
             "magical girl",
@@ -1908,9 +1911,11 @@
             "primarily female cast",
             "primarily teen cast",
             "reincarnation",
+            "revenge",
             "romance",
             "sentai",
             "shoujo",
+            "space",
             "tokusatsu",
             "urban fantasy"
         ],
@@ -3292,6 +3297,9 @@
             "https://anime-planet.com/anime/dr-stone-ryuusui",
             "https://anime-planet.com/anime/dr-stone-stone-wars-eve-of-the-battle",
             "https://anime-planet.com/anime/hatena-koe-dake-ga",
+            "https://anisearch.com/anime/13989",
+            "https://anisearch.com/anime/15673",
+            "https://anisearch.com/anime/16097",
             "https://kitsu.io/anime/42080",
             "https://kitsu.io/anime/44289",
             "https://kitsu.io/anime/45615",
@@ -3541,8 +3549,12 @@
             "Fire Force Staffel 2 Miniepisoden",
             "炎炎ノ消防隊 ミニアニメ"
         ],
-        "relations": [],
-        "tags": [],
+        "relations": [
+            "https://anisearch.com/anime/13987"
+        ],
+        "tags": [
+            "super deformed"
+        ],
         "date": {
             "season": "winter",
             "year": 2021
@@ -4178,7 +4190,10 @@
         "relations": [
             "https://anidb.net/anime/11665",
             "https://anidb.net/anime/17343",
-            "https://anidb.net/anime/2540"
+            "https://anidb.net/anime/2540",
+            "https://anisearch.com/anime/11125",
+            "https://anisearch.com/anime/1619",
+            "https://anisearch.com/anime/17336"
         ],
         "tags": [
             "action",
@@ -5340,6 +5355,7 @@
             "https://anilist.co/anime/14753",
             "https://anime-planet.com/anime/hori-san-to-miyamura-kun",
             "https://anime-planet.com/anime/hori-san-to-miyamura-kun-2018",
+            "https://anisearch.com/anime/7877",
             "https://livechart.me/anime/717",
             "https://myanimelist.net/anime/14753",
             "https://notify.moe/anime/rTpOtKimg"
@@ -7478,6 +7494,7 @@
             "https://anilist.co/anime/20671",
             "https://anime-planet.com/anime/log-horizon",
             "https://anime-planet.com/anime/log-horizon-2",
+            "https://anisearch.com/anime/9537",
             "https://kitsu.io/anime/8313",
             "https://livechart.me/anime/489",
             "https://livechart.me/anime/64",
@@ -7897,7 +7914,10 @@
             "Miraculous World: New York, United Heroez",
             "미라큘러스 월드 : 뉴욕, 하나 된 영웅들"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/14481",
+            "https://anisearch.com/anime/16892"
+        ],
         "tags": [
             "action",
             "action comedy",
@@ -8374,6 +8394,33 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51565"
+        ],
+        "title": "Nanji Nanpun Chikyuu ga Nankai Mawattara",
+        "type": "special",
+        "episodes": 3,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1712/122511.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1712/122511t.jpg",
+        "synonyms": [
+            "Ame wa Futatabi Agaru",
+            "Hana wa Futatabi Chiru",
+            "It's Always Darkest Before the Dawn.",
+            "Sora wa Futatabi Moeru",
+            "何時何分地球が何回まわったら"
+        ],
+        "relations": [],
+        "tags": [
+            "music",
+            "reincarnation"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/15732",
             "https://anilist.co/anime/124132",
             "https://anime-planet.com/anime/natsumes-book-of-friends-movie-2",
@@ -8626,7 +8673,7 @@
             "https://myanimelist.net/anime/47614"
         ],
         "title": "Nu Wushen de Canzhuo Spring Festival Special",
-        "type": "special",
+        "type": "ona",
         "episodes": 1,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1903/111820.jpg",
@@ -9570,6 +9617,7 @@
             "no dialogue",
             "non-human protagonists",
             "parody",
+            "philosophy",
             "racing",
             "short episodes",
             "stop motion",
@@ -9816,6 +9864,7 @@
             "action",
             "adventure",
             "age gap",
+            "alternate universe",
             "alternative world",
             "assassins",
             "based on a light novel",
@@ -10732,24 +10781,32 @@
             "cg animation",
             "cg-anime",
             "chinese animation",
+            "crime",
             "cultivation",
             "drama",
             "fantasy",
             "full cgi",
             "hero of strong character",
             "historical",
+            "lgbtq+ themes",
             "magic",
             "male protagonist",
             "martial arts",
             "novel",
             "old asia",
+            "politics",
             "primarily adult cast",
+            "primarily male cast",
+            "rehabilitation",
+            "revenge",
             "shounen-ai",
             "super power",
             "swordplay",
             "swords & co",
+            "tragedy",
             "travel",
-            "wuxia"
+            "wuxia",
+            "yandere"
         ],
         "date": {
             "season": "winter",
@@ -13141,6 +13198,9 @@
             "https://anime-planet.com/anime/uma-musume-pretty-derby",
             "https://anime-planet.com/anime/uma-musume-pretty-derby-1st-anniversary-special-animation",
             "https://anime-planet.com/anime/uma-musume-pretty-derby-2022",
+            "https://anisearch.com/anime/12470",
+            "https://anisearch.com/anime/17166",
+            "https://anisearch.com/anime/17368",
             "https://kitsu.io/anime/13485",
             "https://livechart.me/anime/11205",
             "https://livechart.me/anime/11206",
@@ -14524,6 +14584,8 @@
             "https://anime-planet.com/anime/baten-kaitos",
             "https://anime-planet.com/anime/the-promised-neverland",
             "https://anime-planet.com/anime/the-promised-neverland-2nd-season-tokubetsu-hen-michishirube",
+            "https://anisearch.com/anime/13592",
+            "https://anisearch.com/anime/15966",
             "https://kitsu.io/anime/41312",
             "https://kitsu.io/anime/44076",
             "https://kitsu.io/anime/44533",
@@ -14541,6 +14603,7 @@
             "archery",
             "based on a manga",
             "body horror",
+            "conspiracy",
             "cosmic horror",
             "crime",
             "dark fantasy",
@@ -14554,7 +14617,7 @@
             "fugitive",
             "genius",
             "gore",
-            "hero of strong character",
+            "guns",
             "heroine of strong character",
             "horror",
             "isolated society",
@@ -14574,7 +14637,6 @@
             "sci-fi",
             "science fiction",
             "shounen",
-            "slice of life",
             "stoic hero",
             "struggle to survive",
             "supernatural drama",
@@ -15129,7 +15191,8 @@
             "ざんねんないきもの事典 (2021)"
         ],
         "relations": [
-            "https://myanimelist.net/anime/44026"
+            "https://myanimelist.net/anime/44026",
+            "https://myanimelist.net/anime/52053"
         ],
         "tags": [
             "comedy",

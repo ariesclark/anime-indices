@@ -2738,13 +2738,13 @@
             "https://anime-planet.com/anime/the-doraemons-strange-sweets-strange",
             "https://anisearch.com/anime/3754",
             "https://kitsu.io/anime/5443",
+            "https://livechart.me/anime/5614",
+            "https://livechart.me/anime/6575",
             "https://livechart.me/anime/6880",
             "https://livechart.me/anime/7693",
-            "https://livechart.me/anime/7728",
             "https://livechart.me/anime/8740",
             "https://livechart.me/anime/8868",
             "https://livechart.me/anime/8871",
-            "https://livechart.me/anime/8876",
             "https://livechart.me/anime/8877",
             "https://livechart.me/anime/8878",
             "https://livechart.me/anime/8884",
@@ -3236,6 +3236,7 @@
             "https://anidb.net/anime/8967",
             "https://anilist.co/anime/13139",
             "https://anime-planet.com/anime/gakkatsu",
+            "https://anisearch.com/anime/7588",
             "https://kitsu.io/anime/6890",
             "https://myanimelist.net/anime/13139",
             "https://notify.moe/anime/ys7DpFiiR"
@@ -5912,6 +5913,7 @@
             "https://anidb.net/anime/9786",
             "https://anilist.co/anime/18155",
             "https://anime-planet.com/anime/line-town",
+            "https://anisearch.com/anime/8434",
             "https://kitsu.io/anime/9020",
             "https://myanimelist.net/anime/18155",
             "https://myanimelist.net/anime/35621",
@@ -6830,6 +6832,8 @@
             "https://anime-planet.com/anime/minami-ke-okaeri",
             "https://anime-planet.com/anime/minami-ke-okawari",
             "https://anime-planet.com/anime/minami-ke-omatase",
+            "https://anisearch.com/anime/7918",
+            "https://anisearch.com/anime/9238",
             "https://kitsu.io/anime/7138",
             "https://kitsu.io/anime/7968",
             "https://livechart.me/anime/1005",
@@ -7783,7 +7787,9 @@
             "The Reef: Alta Marea",
             "파이스토리: 악당상어 소탕작전"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/13225"
+        ],
         "tags": [
             "action",
             "action comedy",

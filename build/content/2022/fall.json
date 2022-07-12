@@ -3,7 +3,8 @@
         "sources": [
             "https://anidb.net/anime/17487",
             "https://anime-planet.com/anime/a-turtles-shell-is-a-humans-ribs",
-            "https://anisearch.com/anime/17498"
+            "https://anisearch.com/anime/17498",
+            "https://livechart.me/anime/11305"
         ],
         "title": "A Turtle's Shell Is a Human's Ribs",
         "type": "movie",
@@ -12,7 +13,9 @@
         "picture": "https://cdn.anime-planet.com/anime/primary/a-turtles-shell-is-a-humans-ribs-1.webp?t=1656612556",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/a-turtles-shell-is-a-humans-ribs-1-285x400.webp?t=1656612556",
         "synonyms": [
+            "A Turtle's Shell is a Human's Ribs",
             "A Turtle`s Shell Is a Human`s Ribs",
+            "A Turtle’s Shell Is a Human’s Ribs",
             "Kame no Koura wa Abarabone",
             "Kame no Kōra wa Abarabone",
             "カメの甲羅はあばら骨"
@@ -114,13 +117,13 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1848/123788.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1848/123788t.jpg",
         "synonyms": [
+            "ARGONAVIS AXIA",
             "ARGONAVIS from BanG Dream! Movie",
             "Argonavis AXIA",
             "Argonavis from Bang Dream! Movie",
             "Arvonavis Movie AXIA",
             "Gekijouban Argonavis: Axia",
             "Gekijōban Argonavis: Axia",
-            "劇場版「アルゴナビス from BanG Dream!」（仮題）",
             "劇場版アルゴナビス AXIA",
             "劇場版アルゴナビス AXIA（アクシア）",
             "劇場版アルゴナビス アクシア"
@@ -167,8 +170,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1256/120125.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1256/120125t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1959/124973.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1959/124973t.jpg",
         "synonyms": [
             "BLEACH - ブリーチ - 千年血戦篇",
             "BLEACH 千年血戦篇",
@@ -315,6 +318,7 @@
             "Boku ga Ai Shita Subete no Kimi e",
             "Nhắn gửi tất cả các em, những người tôi đã yêu",
             "To All of You That I Loved",
+            "To Every You I've Loved Before",
             "To Every You I’ve Loved Before",
             "僕が愛したすべての君へ"
         ],
@@ -449,6 +453,45 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17268",
+            "https://anilist.co/anime/146489",
+            "https://anime-planet.com/anime/bokura-no-yoake",
+            "https://anisearch.com/anime/17242",
+            "https://kitsu.io/anime/45996",
+            "https://livechart.me/anime/11139",
+            "https://myanimelist.net/anime/51307",
+            "https://notify.moe/anime/qkHVisE7g"
+        ],
+        "title": "Bokura no Yoake",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1331/125049.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1331/125049t.jpg",
+        "synonyms": [
+            "Break of Dawn",
+            "ぼくらのよあけ"
+        ],
+        "relations": [],
+        "tags": [
+            "aliens",
+            "based on a manga",
+            "drama",
+            "sci fi",
+            "sci-fi",
+            "science fiction",
+            "science-fiction",
+            "seinen",
+            "space",
+            "thriller"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/16723"
         ],
         "title": "Cardfight!! Vanguard: Will+Dress (2022)",
@@ -494,9 +537,9 @@
             "Hyperdimension Neptunia OVA",
             "Hyperdimension Neptunia OVA 2",
             "Hyperdimension Neptunia ~Festival Full of Nep Nep~",
-            "Hyperdimension Neptunia: Festival Full of Nep Nep",
             "Hyperdimension Neptunia: Nepu Nepu Darake no Festival",
             "超次元ゲイム ネプテューヌ THE ANIMATION ~ねぷねぷだらけの感謝祭~",
+            "超次元ゲイム ネプテューヌ THE ANIMATION ~ねぷねぷだらけの感謝祭~ （フェスティバル）",
             "超次元ゲイム ネプテューヌ THE ANIMATION ~ねぷねぷだらけの感謝祭（フェスティバル）~",
             "超次元ゲイム ネプテューヌ THE ANIMATION ～ねぷねぷだらけの感謝祭～",
             "超次元ゲイム ネプテューヌ ～ねぷねぷだらけのフェスティバル～"
@@ -894,26 +937,44 @@
     {
         "sources": [
             "https://anilist.co/anime/151632",
-            "https://kitsu.io/anime/46222"
+            "https://anime-planet.com/anime/harem-in-the-labyrinth-of-another-world-specials",
+            "https://kitsu.io/anime/46222",
+            "https://livechart.me/anime/11302",
+            "https://myanimelist.net/anime/52281"
         ],
-        "title": "Isekai Meikyuu de Harem wo OVA",
-        "type": "ova",
+        "title": "Isekai Meikyuu de Harem wo Specials",
+        "type": "special",
         "episodes": 2,
         "status": "upcoming",
-        "picture": "https://media.kitsu.io/anime/46222/poster_image/small-14bc64663a6b7d6c7d010ac04cc4e3b4.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/46222/poster_image/tiny-b8bd5f9bf2791912a3e6feeb2c472155.jpeg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1672/125096.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1672/125096t.jpg",
         "synonyms": [
             "Harem in the Labyrinth of Another World OVA",
+            "Harem in the Labyrinth of Another World Specials",
+            "Isekai Meikyuu de Harem wo OVA",
+            "異世界迷宮でハーレムを",
             "異世界迷宮でハーレムを OVA"
         ],
         "relations": [
             "https://anilist.co/anime/127090",
-            "https://kitsu.io/anime/43911"
+            "https://anime-planet.com/anime/harem-in-the-labyrinth-of-another-world",
+            "https://kitsu.io/anime/43911",
+            "https://livechart.me/anime/10263",
+            "https://myanimelist.net/anime/44524"
         ],
         "tags": [
+            "action",
+            "adventure",
+            "animal characteristics",
+            "based on a manga",
+            "comedy",
             "drama",
             "ecchi",
             "fantasy",
+            "harem",
+            "isekai",
+            "magic",
+            "person in a strange world",
             "romance"
         ],
         "date": {
@@ -1170,6 +1231,31 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52289"
+        ],
+        "title": "Kanojo, Okarishimasu 2nd Season Mini Anime",
+        "type": "special",
+        "episodes": 4,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1992/125095.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1992/125095t.jpg",
+        "synonyms": [
+            "Kanojo, Okarishimasu 2nd Season Specials",
+            "彼女、お借りします 第2期 ミニアニメ"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/42963"
+        ],
+        "tags": [
+            "comedy"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16707",
             "https://anilist.co/anime/139311",
             "https://anime-planet.com/anime/kimi-wo-ai-shita-hitori-no-boku-e",
@@ -1417,6 +1503,31 @@
             "fantasy",
             "mystery",
             "sci-fi"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52149"
+        ],
+        "title": "Made in Abyss: Retsujitsu no Ougonkyou Mini Anime",
+        "type": "special",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1874/125099.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1874/125099t.jpg",
+        "synonyms": [
+            "Made in Abyss: Retsujitsu no Ougonkyou Special",
+            "メイドインアビス 烈日の黄金郷ミニアニメ"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/41084"
+        ],
+        "tags": [
+            "fantasy"
         ],
         "date": {
             "season": "fall",
@@ -1860,8 +1971,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1899/120302.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1899/120302t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1721/125156.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1721/125156t.jpg",
         "synonyms": [
             "Muv-Luv ALTERNATIVE (2022)",
             "Muv-Luv Alternative (2022)",
@@ -2030,6 +2141,34 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17499",
+            "https://anisearch.com/anime/17503",
+            "https://myanimelist.net/anime/52319"
+        ],
+        "title": "Obake Zukan!",
+        "type": "tv",
+        "episodes": 39,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "Obake Zukan 2nd Season",
+            "おばけずかん!",
+            "おばけずかん！"
+        ],
+        "relations": [
+            "https://anidb.net/anime/15419",
+            "https://anisearch.com/anime/15044",
+            "https://myanimelist.net/anime/41383"
+        ],
+        "tags": [],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/17079",
             "https://anilist.co/anime/143086",
             "https://anime-planet.com/anime/pop-team-epic-2nd-season",
@@ -2176,8 +2315,8 @@
         "type": "special",
         "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1043/115756.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1043/115756t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1343/124987.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1343/124987t.jpg",
         "synonyms": [
             "Di Gi Charat Reiwa",
             "Digicharat Reiwa",
@@ -2551,6 +2690,7 @@
             "Tensei shitara Slime Datta Ken Movie",
             "Tensura Movie",
             "That Time I Got Reincarnated as a Slime Movie",
+            "That Time I Got Reincarnated as a Slime la película: Lazos Carmesí",
             "That Time I Got Reincarnated as a Slime the Movie",
             "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond",
             "That Time I Got Reincarnated as a Slime: Scarlet Bonds",
@@ -2625,11 +2765,9 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1121/124964.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1121/124964t.jpg",
         "synonyms": [
-            "SLAM DUNK Movie (Tentative Title)",
             "Slam Dunk Movie",
             "Slam Dunk Movie 5",
             "THE FIRST SLAM DUNK",
-            "映画 SLAM DUNK スラムダンク (タイトル未定)",
             "映画 スラムダンク",
             "映画スラムダンク"
         ],
@@ -2654,6 +2792,7 @@
             "coming of age",
             "delinquents",
             "drama",
+            "full cgi",
             "ganbatte",
             "primarily teen cast",
             "school",
@@ -2673,8 +2812,10 @@
         "sources": [
             "https://anilist.co/anime/151803",
             "https://anime-planet.com/anime/tiger-and-bunny-2-part-ii",
+            "https://anisearch.com/anime/17507",
             "https://kitsu.io/anime/46230",
-            "https://myanimelist.net/anime/52291"
+            "https://myanimelist.net/anime/52291",
+            "https://notify.moe/anime/QtKNtO67R"
         ],
         "title": "Tiger & Bunny 2 Part 2",
         "type": "ona",
@@ -2693,8 +2834,10 @@
         "relations": [
             "https://anilist.co/anime/117197",
             "https://anime-planet.com/anime/tiger-and-bunny-2",
+            "https://anisearch.com/anime/13218",
             "https://kitsu.io/anime/43224",
-            "https://myanimelist.net/anime/41595"
+            "https://myanimelist.net/anime/41595",
+            "https://notify.moe/anime/_9rVj4zMg"
         ],
         "tags": [
             "action",
@@ -3291,6 +3434,7 @@
         "tags": [
             "action",
             "adventure",
+            "alternative world",
             "animal characteristics",
             "based on a manga",
             "cheats",
@@ -3301,9 +3445,11 @@
             "harem",
             "juujin",
             "kemonomimi",
+            "magic",
             "novel",
             "romance",
             "slice of life",
+            "swords & co",
             "urban fantasy"
         ],
         "date": {

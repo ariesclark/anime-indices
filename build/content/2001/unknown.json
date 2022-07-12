@@ -642,6 +642,7 @@
         ],
         "relations": [],
         "tags": [
+            "augmented reality",
             "dancing",
             "no dialogue",
             "pets",
@@ -829,8 +830,8 @@
         "type": "special",
         "episodes": 2,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
         "synonyms": [
             "World Masterpiece Theater Complete Edition: Pollyanna",
             "世界名作劇場・完結版 愛少女ポリアンナ物語"
@@ -895,7 +896,9 @@
             "World Masterpiece Theater Complete Edition: The Bush Baby",
             "世界名作劇場・完結版 大草原の小さな天使 ブッシュベイビー"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/2448"
+        ],
         "tags": [
             "adventure",
             "drama",
@@ -1007,7 +1010,8 @@
             "世界名作劇場・完結版 小公女セーラ"
         ],
         "relations": [
-            "https://anidb.net/anime/2298"
+            "https://anidb.net/anime/2298",
+            "https://anisearch.com/anime/1980"
         ],
         "tags": [
             "novel"

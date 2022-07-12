@@ -3635,6 +3635,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/qianjin-dawalixi",
             "https://myanimelist.net/anime/52060"
         ],
         "title": "Qianjin, Da Wa Li Xi",
@@ -3645,11 +3646,14 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1798/124408t.jpg",
         "synonyms": [
             "Forward, Comrades",
+            "Qianjin, Dawalixi",
             "Вперед, товарищи",
             "前进，达瓦里希"
         ],
         "relations": [],
         "tags": [
+            "action",
+            "chinese animation",
             "historical",
             "military"
         ],
@@ -4449,8 +4453,8 @@
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
         "synonyms": [
             "Liwu"
         ],
@@ -4962,7 +4966,8 @@
             "https://anilist.co/anime/148976"
         ],
         "tags": [
-            "comedy"
+            "comedy",
+            "full cgi"
         ],
         "date": {
             "season": "unknown",
