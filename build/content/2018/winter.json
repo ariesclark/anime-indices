@@ -492,6 +492,34 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/119845",
+            "https://anime-planet.com/anime/ano-chi",
+            "https://kitsu.io/anime/44634"
+        ],
+        "title": "Ano Chi",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/ano-chi-1.webp?t=1656460594",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/ano-chi-1-285x400.webp?t=1656460594",
+        "synonyms": [
+            "Ano chi",
+            "In There",
+            "In there",
+            "あの地"
+        ],
+        "relations": [],
+        "tags": [
+            "psychological",
+            "shorts"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/101775",
             "https://anime-planet.com/anime/22-7-ano-hi-no-kanojo-tachi",
             "https://anisearch.com/anime/12721",
@@ -558,31 +586,6 @@
             "short episodes",
             "slice of life",
             "slice of life drama"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/119845",
-            "https://kitsu.io/anime/44634"
-        ],
-        "title": "Ano chi",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44634/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44634/tiny.jpg",
-        "synonyms": [
-            "In There",
-            "In there",
-            "あの地"
-        ],
-        "relations": [],
-        "tags": [
-            "psychological"
         ],
         "date": {
             "season": "winter",

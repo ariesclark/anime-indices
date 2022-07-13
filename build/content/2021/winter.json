@@ -1979,34 +1979,8 @@
     {
         "sources": [
             "https://anidb.net/anime/16022",
-            "https://anisearch.com/anime/15945"
-        ],
-        "title": "Boku wa Boku o Suki ni Naru",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15945.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15945.webp",
-        "synonyms": [
-            "Boku wa Boku wo Suki ni Naru",
-            "Nogizaka 46 - Boku wa Boku o Suki ni Naru",
-            "Nogizaka 46 - Boku wa Boku wo Suki ni Naru",
-            "乃木坂46 - 僕は僕を好きになる",
-            "僕は僕を好きになる"
-        ],
-        "relations": [],
-        "tags": [
-            "drama",
-            "science-fiction"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/129342",
+            "https://anisearch.com/anime/15945",
             "https://myanimelist.net/anime/47254"
         ],
         "title": "Boku wa Boku wo Suki ni Naru",
@@ -2016,12 +1990,17 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1526/113830.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1526/113830t.jpg",
         "synonyms": [
+            "Boku wa Boku o Suki ni Naru",
+            "Nogizaka 46 - Boku wa Boku o Suki ni Naru",
+            "Nogizaka 46 - Boku wa Boku wo Suki ni Naru",
+            "乃木坂46 - 僕は僕を好きになる",
             "僕は僕を好きになる"
         ],
         "relations": [],
         "tags": [
             "drama",
-            "music"
+            "music",
+            "science-fiction"
         ],
         "date": {
             "season": "winter",

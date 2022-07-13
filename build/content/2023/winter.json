@@ -1304,6 +1304,7 @@
             "https://anidb.net/anime/17504",
             "https://anilist.co/anime/152072",
             "https://anime-planet.com/anime/isekai-de-mofumofu-nadenade-suru-tame-ni-ganbattemasu",
+            "https://anisearch.com/anime/17508",
             "https://kitsu.io/anime/46242",
             "https://livechart.me/anime/11328",
             "https://myanimelist.net/anime/52359"
@@ -1317,6 +1318,7 @@
         "synonyms": [
             "Fluffy Paradise",
             "I'm Doing My Best to Make Myself at Home in Another World",
+            "Isekai de Mofumofu Nadenade Suru Tame ni Ganbatte Masu.",
             "Isekai de Mofumofu Nadenade Suru Tame ni Ganbattemasu.",
             "異世界でもふもふなでなでするためにがんばってます.",
             "異世界でもふもふなでなでするためにがんばってます。"
@@ -1324,9 +1326,14 @@
         "relations": [],
         "tags": [
             "adventure",
+            "alternative world",
             "based on a light novel",
+            "comedy",
             "fantasy",
             "isekai",
+            "kemonomimi",
+            "magic",
+            "monster",
             "person in a strange world",
             "pets",
             "reincarnation",
@@ -3168,6 +3175,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/150085",
             "https://anime-planet.com/anime/touken-ranbu-kyoden-moyuru-honnouji",
             "https://kitsu.io/anime/46142",
             "https://livechart.me/anime/11221",
@@ -3182,10 +3190,13 @@
         "synonyms": [
             "\"Touken Ranbu\" Kyoden Moyuru Honnouji",
             "Touken Ranbu Kyouden Burning Honnouji",
+            "Touken Ranbu Kyouden Moyuru Honnouji",
             "『刀剣乱舞』虚伝 燃",
             "『刀剣乱舞』虚伝 燃ゆる本能寺"
         ],
         "relations": [
+            "https://anilist.co/anime/21741",
+            "https://anilist.co/anime/21742",
             "https://anime-planet.com/anime/katsugeki-touken-ranbu",
             "https://anime-planet.com/anime/touken-ranbu-hanamaru",
             "https://kitsu.io/anime/11994",
@@ -3204,10 +3215,13 @@
         "tags": [
             "action",
             "based on a play",
+            "ensemble cast",
             "fantasy",
             "historical",
+            "primarily male cast",
             "samurai",
-            "swordplay"
+            "swordplay",
+            "time manipulation"
         ],
         "date": {
             "season": "winter",

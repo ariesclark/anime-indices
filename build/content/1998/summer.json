@@ -43,6 +43,8 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17394",
+            "https://anilist.co/anime/147977",
             "https://myanimelist.net/anime/52329"
         ],
         "title": "Ai Dattandayo",
@@ -52,6 +54,8 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1663/125113.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1663/125113t.jpg",
         "synonyms": [
+            "Ai Dattanda yo",
+            "Aidattandayo",
             "Minna no Uta",
             "愛だったんだよ"
         ],
@@ -77,29 +81,6 @@
         "thumbnail": "https://cdn.anidb.net/images/main/272964.jpg-thumb.jpg",
         "synonyms": [
             "会いにいくの."
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "summer",
-            "year": 1998
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/17394",
-            "https://anilist.co/anime/147977"
-        ],
-        "title": "Aidattandayo",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147977-5uQkfbDmocah.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147977-5uQkfbDmocah.png",
-        "synonyms": [
-            "Ai Dattanda yo",
-            "Minna no Uta",
-            "愛だったんだよ"
         ],
         "relations": [],
         "tags": [],

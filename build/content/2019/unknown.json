@@ -404,6 +404,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/118727",
             "https://anime-planet.com/anime/ano-ko"
         ],
         "title": "Ano Ko",
@@ -413,10 +414,13 @@
         "picture": "https://cdn.anime-planet.com/anime/primary/ano-ko-1.webp?t=1656725861",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/ano-ko-1-285x400.webp?t=1656725861",
         "synonyms": [
-            "The girl"
+            "Ano ko",
+            "The girl",
+            "あの子"
         ],
         "relations": [],
         "tags": [
+            "psychological",
             "shorts"
         ],
         "date": {
@@ -441,29 +445,6 @@
         "tags": [
             "drama",
             "shorts"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/118727"
-        ],
-        "title": "Ano ko",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118727-yiAog88CHecU.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118727-yiAog88CHecU.jpg",
-        "synonyms": [
-            "The girl",
-            "あの子"
-        ],
-        "relations": [],
-        "tags": [
-            "psychological"
         ],
         "date": {
             "season": "unknown",
