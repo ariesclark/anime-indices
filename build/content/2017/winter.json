@@ -1364,32 +1364,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/45773"
-        ],
-        "title": "Bokaro wa Dasai",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45773/poster_image/small-42611e1ea8e8e476ff1e051b4a728871.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45773/poster_image/tiny-0cbc643cec59b7597a8d82667aa87d6c.jpeg",
-        "synonyms": [
-            "Pinocchio-P: VOCALOID wa Dasai",
-            "Pinocchio-P: Vocaloids are Lame",
-            "Vocaloids are Lame",
-            "ボカロはダサい"
-        ],
-        "relations": [],
-        "tags": [
-            "music",
-            "super deformed"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/my-hero-academia-hero-notebook",
             "https://anisearch.com/anime/12341",
             "https://kitsu.io/anime/13313",
@@ -10076,6 +10050,37 @@
             "slice of life",
             "time manipulation",
             "virtual reality"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/108845",
+            "https://anime-planet.com/anime/pinocchio-p-vocaloid-wa-dasai",
+            "https://kitsu.io/anime/45773"
+        ],
+        "title": "Pinocchio-P: VOCALOID wa Dasai",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/pinocchio-p-vocaloid-wa-dasai-1.jpg?t=1625898578",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/pinocchio-p-vocaloid-wa-dasai-1-190x267.jpg?t=1625898578",
+        "synonyms": [
+            "Bokaro wa Dasai",
+            "Pinocchio-P: Vocaloids are Lame",
+            "Vocaloid wa Dasai",
+            "Vocaloids are Lame",
+            "ボカロはダサい"
+        ],
+        "relations": [],
+        "tags": [
+            "chibi",
+            "music",
+            "super deformed",
+            "vocaloid"
         ],
         "date": {
             "season": "winter",

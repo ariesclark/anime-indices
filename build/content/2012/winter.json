@@ -1435,31 +1435,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/45707"
-        ],
-        "title": "Bremen no Ongaku-tai",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45707/poster_image/small-669afe5a3c1e2f6b0fffa68a9c640d98.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45707/poster_image/tiny-05ac1b35e53730d452d77d93fa7ac7fd.jpeg",
-        "synonyms": [
-            "The Town Musicians of Bremen",
-            "ブレーメンの音楽隊"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "music"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/8467",
             "https://anilist.co/anime/13169",
             "https://anime-planet.com/anime/buta",
@@ -11111,6 +11086,40 @@
             "abstract",
             "no dialogue",
             "psychological",
+            "shorts"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/116912",
+            "https://anime-planet.com/anime/the-town-musicians-of-bremen",
+            "https://kitsu.io/anime/45707"
+        ],
+        "title": "The Town Musicians of Bremen",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/the-town-musicians-of-bremen-1.jpg?t=1625908122",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/the-town-musicians-of-bremen-1-190x266.jpg?t=1625908122",
+        "synonyms": [
+            "Bremen no Ongaku-tai",
+            "ブレーメンの音楽隊"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "animal protagonists",
+            "animals",
+            "based on a fairy tale",
+            "fantasy",
+            "melancholy",
+            "music",
+            "no dialogue",
+            "non-human protagonists",
             "shorts"
         ],
         "date": {

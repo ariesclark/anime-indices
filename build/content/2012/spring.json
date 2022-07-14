@@ -1374,6 +1374,8 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/great3-caligula",
+            "https://kitsu.io/anime/42845",
             "https://myanimelist.net/anime/37733"
         ],
         "title": "Caligula",
@@ -1383,32 +1385,13 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1270/91876.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1270/91876t.jpg",
         "synonyms": [
-            "CALiGULA"
+            "CALiGULA",
+            "Caligula (Music)",
+            "GREAT3: CALiGULA"
         ],
         "relations": [],
         "tags": [
-            "music"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/42845"
-        ],
-        "title": "Caligula (Music)",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42845/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42845/tiny.jpg",
-        "synonyms": [
-            "CALiGULA"
-        ],
-        "relations": [],
-        "tags": [
+            "drama",
             "music"
         ],
         "date": {

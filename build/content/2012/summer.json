@@ -1345,33 +1345,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/44643"
-        ],
-        "title": "Chikyuu Saigo no Kokuhaku o",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44643/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44643/tiny.jpg",
-        "synonyms": [
-            "The Earth's Final Confession",
-            "kemu: Chikyuu Saigo no Kokuhaku o",
-            "地球最後の告白を"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/44645"
-        ],
-        "tags": [
-            "music",
-            "the arts"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/13994",
             "https://anilist.co/anime/100717",
             "https://anime-planet.com/anime/jin-children-record",
@@ -2302,30 +2275,6 @@
             "seinen",
             "shounen",
             "united kingdom"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/42257"
-        ],
-        "title": "Dead Line Circus",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42257/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42257/tiny.jpg",
-        "synonyms": [
-            "Last Note: Dead Line Circus",
-            "デッドラインサーカス"
-        ],
-        "relations": [],
-        "tags": [
-            "fantasy",
-            "music"
         ],
         "date": {
             "season": "summer",
@@ -6038,6 +5987,33 @@
         "tags": [
             "action",
             "fantasy"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/last-note-dead-line-circus",
+            "https://kitsu.io/anime/42257"
+        ],
+        "title": "Last Note: Dead Line Circus",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/last-note-dead-line-circus-1.jpg?t=1625898800",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/last-note-dead-line-circus-1-190x266.jpg?t=1625898800",
+        "synonyms": [
+            "Dead Line Circus",
+            "デッドラインサーカス"
+        ],
+        "relations": [],
+        "tags": [
+            "circus",
+            "fantasy",
+            "music",
+            "vocaloid"
         ],
         "date": {
             "season": "summer",
@@ -12011,6 +11987,36 @@
             "rabbits",
             "short episodes",
             "slice of life"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/kemu-chikyuu-saigo-no-kokuhaku-o",
+            "https://kitsu.io/anime/44643"
+        ],
+        "title": "kemu: Chikyuu Saigo no Kokuhaku o",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/kemu-chikyuu-saigo-no-kokuhaku-o-1.jpg?t=1625898803",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kemu-chikyuu-saigo-no-kokuhaku-o-1-190x266.jpg?t=1625898803",
+        "synonyms": [
+            "Chikyuu Saigo no Kokuhaku o",
+            "The Earth's Final Confession",
+            "地球最後の告白を"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/kemu-ikasama-life-game",
+            "https://kitsu.io/anime/44645"
+        ],
+        "tags": [
+            "music",
+            "the arts",
+            "vocaloid"
         ],
         "date": {
             "season": "summer",

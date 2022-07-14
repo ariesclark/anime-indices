@@ -1209,6 +1209,9 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/15548",
+            "https://anilist.co/anime/129677",
+            "https://anisearch.com/anime/16157",
             "https://kitsu.io/anime/43622"
         ],
         "title": "Benghuai 3: Will of the Herrscher",
@@ -1218,19 +1221,44 @@
         "picture": "https://media.kitsu.io/anime/poster_images/43622/small.jpg",
         "thumbnail": "https://media.kitsu.io/anime/poster_images/43622/tiny.jpg",
         "synonyms": [
+            "Beng Huai 3: Nu Wang Jiang Lin",
+            "Benghuai 3: Nuwang Jianglin",
+            "Benghuai 3: Nüwang Jianglin",
             "Herrscher du Néant - Honkai Impact 3rd Animation",
+            "Honkai Impact 3: The Queen is Coming",
+            "Honkai Impact 3: The Queen's Befall",
             "Honkai Impact 3rd: Will of the Herrscher",
             "【崩壞3rd】動畫短片「女王降臨」",
+            "崩坏3 女王降临",
             "崩壊3rd：ハーシャーの意志"
         ],
         "relations": [
+            "https://anidb.net/anime/15006",
+            "https://anidb.net/anime/15549",
+            "https://anilist.co/anime/129676",
+            "https://anilist.co/anime/129679",
+            "https://anilist.co/anime/129682",
+            "https://anilist.co/anime/129684",
+            "https://anilist.co/anime/129686",
+            "https://anilist.co/anime/129688",
+            "https://anilist.co/anime/129689",
+            "https://anilist.co/anime/129690",
+            "https://anilist.co/anime/129692",
+            "https://anilist.co/anime/129693",
+            "https://anilist.co/anime/136496",
             "https://kitsu.io/anime/42686",
             "https://kitsu.io/anime/43624"
         ],
         "tags": [
             "action",
+            "cg-anime",
+            "full cgi",
+            "game",
             "mecha",
             "power suit",
+            "primarily female cast",
+            "robots",
+            "sci-fi",
             "science fiction"
         ],
         "date": {
@@ -1282,24 +1310,6 @@
             "yuri",
             "zombie"
         ],
-        "date": {
-            "season": "summer",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/42288"
-        ],
-        "title": "Bite second hand",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42288/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42288/tiny.jpg",
-        "synonyms": [],
-        "relations": [],
-        "tags": [],
         "date": {
             "season": "summer",
             "year": 2018
@@ -1510,28 +1520,6 @@
             "action",
             "cg-anime",
             "mecha"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/41409"
-        ],
-        "title": "CRYSTAR",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/41409/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/41409/tiny.jpg",
-        "synonyms": [
-            "【CRYSTAR -クライスタ-】ティザームービー"
-        ],
-        "relations": [],
-        "tags": [
-            "music"
         ],
         "date": {
             "season": "summer",
@@ -2311,6 +2299,34 @@
             "slice of life",
             "vertical anime",
             "working life"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/crystar-op",
+            "https://kitsu.io/anime/41409"
+        ],
+        "title": "Crystar OP",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/crystar-op-1.webp?t=1632172712",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/crystar-op-1-285x399.webp?t=1632172712",
+        "synonyms": [
+            "CRYSTAR",
+            "【CRYSTAR -クライスタ-】ティザームービー"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "based on a video game",
+            "music",
+            "opening animation",
+            "promotional"
         ],
         "date": {
             "season": "summer",
@@ -15553,7 +15569,8 @@
             "https://anilist.co/anime/119943",
             "https://anime-planet.com/anime/zutomayo-byoushin-wo-kamu",
             "https://anisearch.com/anime/13799",
-            "https://kitsu.io/anime/41924"
+            "https://kitsu.io/anime/41924",
+            "https://kitsu.io/anime/42288"
         ],
         "title": "Zutomayo: Byoushin wo Kamu",
         "type": "special",
@@ -15562,6 +15579,7 @@
         "picture": "https://cdn.anime-planet.com/anime/primary/zutomayo-byoushin-wo-kamu-1.jpg?t=1625908352",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/zutomayo-byoushin-wo-kamu-1-190x266.jpg?t=1625908352",
         "synonyms": [
+            "Bite second hand",
             "Bite the Second Hand",
             "Byoushin o Kamu",
             "Byoushin o kamu",

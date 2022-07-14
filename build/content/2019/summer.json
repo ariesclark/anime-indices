@@ -978,6 +978,9 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/15550",
+            "https://anilist.co/anime/129682",
+            "https://anisearch.com/anime/16158",
             "https://kitsu.io/anime/43625"
         ],
         "title": "Benghuai 3 - Cyberangel: ZERO Exception",
@@ -987,46 +990,17 @@
         "picture": "https://media.kitsu.io/anime/poster_images/43625/small.jpg",
         "thumbnail": "https://media.kitsu.io/anime/poster_images/43625/tiny.jpg",
         "synonyms": [
-            "Honkai Impact 3rd - Cyberangel: ZERO Exception",
-            "[붕괴3rd] 단편 애니메이션 「Cyber Angel: ZERO Exception」",
-            "【崩壞3rd】動畫短片「天使重構」中配版",
-            "崩壊3rd-サイバーエンジェル：ZERO Exception"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/43624",
-            "https://kitsu.io/anime/43626"
-        ],
-        "tags": [
-            "action",
-            "mecha",
-            "power suit",
-            "science fiction"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/15550",
-            "https://anilist.co/anime/129682",
-            "https://anisearch.com/anime/16158"
-        ],
-        "title": "Benghuai 3: Tianshi Chonggou",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16158.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16158.webp",
-        "synonyms": [
             "Beng Huai 3: Tian Shi Chong Gou",
+            "Benghuai 3: Tianshi Chonggou",
             "Benghuai 3: Tianshi Zhong Gou",
             "Honkai Impact 3: Angel Refactoring",
             "Honkai Impact 3rd - Cyberangel: ZERO Exception",
             "Honkai Impact 3rd: Angel Refactoring (崩壊3rd Angel Refactoring)",
+            "[붕괴3rd] 단편 애니메이션 「Cyber Angel: ZERO Exception」",
+            "【崩壞3rd】動畫短片「天使重構」中配版",
             "崩坏3 天使重构",
-            "崩壊3rd Angel Refactoring"
+            "崩壊3rd Angel Refactoring",
+            "崩壊3rd-サイバーエンジェル：ZERO Exception"
         ],
         "relations": [
             "https://anidb.net/anime/15549",
@@ -1041,7 +1015,9 @@
             "https://anilist.co/anime/129690",
             "https://anilist.co/anime/129692",
             "https://anilist.co/anime/129693",
-            "https://anilist.co/anime/136496"
+            "https://anilist.co/anime/136496",
+            "https://kitsu.io/anime/43624",
+            "https://kitsu.io/anime/43626"
         ],
         "tags": [
             "action",
@@ -1049,7 +1025,9 @@
             "game",
             "henshin",
             "mecha",
-            "sci-fi"
+            "power suit",
+            "sci-fi",
+            "science fiction"
         ],
         "date": {
             "season": "summer",
@@ -3471,33 +3449,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/44477"
-        ],
-        "title": "Getsuyoubi no Yuuutsu",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44477/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44477/tiny.jpg",
-        "synonyms": [
-            "HoneyWorks: Getsuyoubi no Yuuutsu",
-            "Monday's Melancholy",
-            "月曜日の憂鬱"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/44471"
-        ],
-        "tags": [
-            "idol",
-            "music"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/14920"
         ],
         "title": "Geukjangpan Banjiui Bimirilgi",
@@ -4716,6 +4667,36 @@
         "relations": [],
         "tags": [
             "music"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/honeyworks-getsuyoubi-no-yuuutsu",
+            "https://kitsu.io/anime/44477"
+        ],
+        "title": "HoneyWorks: Getsuyoubi no Yuuutsu",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/honeyworks-getsuyoubi-no-yuuutsu-1.jpg?t=1625908056",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/honeyworks-getsuyoubi-no-yuuutsu-1-190x266.jpg?t=1625908056",
+        "synonyms": [
+            "Getsuyoubi no Yuuutsu",
+            "Monday's Melancholy",
+            "月曜日の憂鬱"
+        ],
+        "relations": [
+            "https://kitsu.io/anime/44471"
+        ],
+        "tags": [
+            "idol",
+            "idols",
+            "music",
+            "vocaloid"
         ],
         "date": {
             "season": "summer",

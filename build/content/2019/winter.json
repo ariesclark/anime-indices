@@ -1071,6 +1071,9 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/15549",
+            "https://anilist.co/anime/129679",
+            "https://anisearch.com/anime/16159",
             "https://kitsu.io/anime/43624"
         ],
         "title": "Benghuai 3: Final Lesson",
@@ -1080,19 +1083,44 @@
         "picture": "https://media.kitsu.io/anime/poster_images/43624/small.jpg",
         "thumbnail": "https://media.kitsu.io/anime/poster_images/43624/tiny.jpg",
         "synonyms": [
+            "Beng Huai 3: Zui Hou Yi Ke",
+            "Benghuai 3: Zuihou Yi Ke",
+            "Honkai 3rd: Saigo no Jugyou",
+            "Honkai 3rd: Saigo no Jugyou (崩壊3rd 最後の授業)",
+            "Honkai Impact 3: The Last Lesson",
             "Honkai Impact 3rd - La dernière leçon",
+            "Honkai Impact 3rd Animation: Final Lesson",
             "Honkai Impact 3rd: Final Lesson",
             "【崩壞3rd】動畫短片「最後一課」",
+            "崩坏3 最后一课",
+            "崩坏3 最後一課",
+            "崩壊3rd 最後の授業",
             "崩壊3rdアニメーション-最終レッスン",
             "붕괴3rd 「마지막 수업」 풀버전 영상 공개!"
         ],
         "relations": [
+            "https://anidb.net/anime/15548",
+            "https://anidb.net/anime/15550",
+            "https://anilist.co/anime/129676",
+            "https://anilist.co/anime/129677",
+            "https://anilist.co/anime/129682",
+            "https://anilist.co/anime/129684",
+            "https://anilist.co/anime/129686",
+            "https://anilist.co/anime/129688",
+            "https://anilist.co/anime/129689",
+            "https://anilist.co/anime/129690",
+            "https://anilist.co/anime/129692",
+            "https://anilist.co/anime/129693",
+            "https://anilist.co/anime/136496",
             "https://kitsu.io/anime/43625"
         ],
         "tags": [
             "action",
+            "cg-anime",
+            "full cgi",
             "mecha",
             "power suit",
+            "sci-fi",
             "science fiction"
         ],
         "date": {
@@ -2647,24 +2675,6 @@
             "witch",
             "yandere"
         ],
-        "date": {
-            "season": "winter",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/41845"
-        ],
-        "title": "DeleteG",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/41845/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/41845/tiny.jpg",
-        "synonyms": [],
-        "relations": [],
-        "tags": [],
         "date": {
             "season": "winter",
             "year": 2019

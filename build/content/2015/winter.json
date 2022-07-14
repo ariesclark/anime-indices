@@ -1367,35 +1367,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/44329"
-        ],
-        "title": "Crazy ∞ nighT",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44329/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44329/tiny.jpg",
-        "synonyms": [
-            "Hitoshizuku-P x Yama△: Crazy ∞ nighT"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/44327",
-            "https://kitsu.io/anime/44334",
-            "https://kitsu.io/anime/44335"
-        ],
-        "tags": [
-            "horror",
-            "music",
-            "mystery",
-            "psychological"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://kitsu.io/anime/10513",
             "https://notify.moe/anime/T4C8pFmmg"
         ],
@@ -2302,35 +2273,6 @@
             "cg-anime",
             "science-fiction",
             "super robots"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/44335"
-        ],
-        "title": "EveR ∞ LastinG ∞ NighT",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44335/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44335/tiny.jpg",
-        "synonyms": [
-            "Hitoshizuku-P x Yama△: EveR ∞ LastinG ∞ NighT"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/44327",
-            "https://kitsu.io/anime/44329",
-            "https://kitsu.io/anime/44334"
-        ],
-        "tags": [
-            "horror",
-            "music",
-            "mystery",
-            "psychological"
         ],
         "date": {
             "season": "winter",
@@ -3719,6 +3661,72 @@
         ],
         "relations": [],
         "tags": [],
+        "date": {
+            "season": "winter",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/hitoshizuku-p-x-yama-crazy-night",
+            "https://kitsu.io/anime/44329"
+        ],
+        "title": "Hitoshizuku-P x Yama△: Crazy ∞ nighT",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/hitoshizuku-p-x-yama-crazy-night-1.jpg?t=1625907384",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/hitoshizuku-p-x-yama-crazy-night-1-190x266.jpg?t=1625907384",
+        "synonyms": [
+            "Crazy ∞ nighT"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/hitoshizuku-p-x-yama-ever-lasting-night",
+            "https://anime-planet.com/anime/hitoshizuku-p-x-yama-twilight-night",
+            "https://kitsu.io/anime/44327",
+            "https://kitsu.io/anime/44334",
+            "https://kitsu.io/anime/44335"
+        ],
+        "tags": [
+            "horror",
+            "music",
+            "mystery",
+            "psychological",
+            "vocaloid"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/hitoshizuku-p-x-yama-ever-lasting-night",
+            "https://kitsu.io/anime/44335"
+        ],
+        "title": "Hitoshizuku-P x Yama△: EveR ∞ LastinG ∞ NighT",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/hitoshizuku-p-x-yama-ever-lasting-night-1.jpg?t=1625907379",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/hitoshizuku-p-x-yama-ever-lasting-night-1-190x266.jpg?t=1625907379",
+        "synonyms": [
+            "EveR ∞ LastinG ∞ NighT"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/hitoshizuku-p-x-yama-crazy-night",
+            "https://anime-planet.com/anime/hitoshizuku-p-x-yama-twilight-night",
+            "https://kitsu.io/anime/44327",
+            "https://kitsu.io/anime/44329",
+            "https://kitsu.io/anime/44334"
+        ],
+        "tags": [
+            "horror",
+            "music",
+            "mystery",
+            "psychological",
+            "vocaloid"
+        ],
         "date": {
             "season": "winter",
             "year": 2015

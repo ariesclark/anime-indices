@@ -1072,43 +1072,11 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/44957"
-        ],
-        "title": "Beyblade Burst DB",
-        "type": "ona",
-        "episodes": 0,
-        "status": "ongoing",
-        "picture": "https://media.kitsu.io/anime/poster_images/44957/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44957/tiny.jpg",
-        "synonyms": [
-            "Beyblade Burst Dynamite Battle",
-            "ベイブレードバースト DB",
-            "ベイブレードバースト ダイナマイトバトル"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/43060"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "comedy",
-            "kids",
-            "proxy battles",
-            "science fiction",
-            "shounen",
-            "sports"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/16126",
             "https://anilist.co/anime/130253",
             "https://anime-planet.com/anime/beyblade-burst-dynamite-battle",
             "https://anisearch.com/anime/16165",
+            "https://kitsu.io/anime/44957",
             "https://livechart.me/anime/10273",
             "https://myanimelist.net/anime/48455",
             "https://notify.moe/anime/drj7vC8Mg"
@@ -1138,6 +1106,7 @@
             "https://anime-planet.com/anime/beyblade-burst-gachi",
             "https://anime-planet.com/anime/beyblade-burst-god",
             "https://anime-planet.com/anime/beyblade-burst-surge",
+            "https://kitsu.io/anime/43060",
             "https://livechart.me/anime/1665",
             "https://livechart.me/anime/2546",
             "https://livechart.me/anime/3092",
@@ -1155,6 +1124,7 @@
             "mystery",
             "proxy battles",
             "sci-fi",
+            "science fiction",
             "science-fiction",
             "shounen",
             "sports"
@@ -1560,33 +1530,6 @@
             "urban",
             "urban fantasy",
             "verbal comedy"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/44641"
-        ],
-        "title": "Bouken no VLOG",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44641/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44641/tiny.jpg",
-        "synonyms": [
-            "HoneyWorks: Bouken no VLOG",
-            "冒険のVLOG)"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/43521"
-        ],
-        "tags": [
-            "music",
-            "slice of life",
-            "the arts"
         ],
         "date": {
             "season": "spring",
@@ -4747,6 +4690,35 @@
             "swordplay",
             "vtuber",
             "witch"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/honeyworks-bouken-no-vlog",
+            "https://kitsu.io/anime/44641"
+        ],
+        "title": "HoneyWorks: Bouken no VLOG",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/honeyworks-bouken-no-vlog-1.jpg?t=1625908960",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/honeyworks-bouken-no-vlog-1-190x266.jpg?t=1625908960",
+        "synonyms": [
+            "Bouken no VLOG",
+            "冒険のVLOG)"
+        ],
+        "relations": [
+            "https://kitsu.io/anime/43521"
+        ],
+        "tags": [
+            "music",
+            "slice of life",
+            "the arts",
+            "vocaloid"
         ],
         "date": {
             "season": "spring",

@@ -1065,6 +1065,8 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/140585",
+            "https://anisearch.com/anime/16767",
             "https://kitsu.io/anime/45374"
         ],
         "title": "Betsuni Daijoubudesu",
@@ -1074,11 +1076,16 @@
         "picture": "https://media.kitsu.io/anime/45374/poster_image/small-811e801a75cc6f7d4a61350de7178ca2.jpeg",
         "thumbnail": "https://media.kitsu.io/anime/45374/poster_image/tiny-4e446267be8226198846f8d7df05057c.jpeg",
         "synonyms": [
+            "Betsu ni Daijoubu desu",
+            "Betsu ni Daijōbu desu",
             "I'm ok.",
+            "It's Okay",
             "別に大丈夫です"
         ],
         "relations": [],
         "tags": [
+            "body horror",
+            "independent anime",
             "psychological"
         ],
         "date": {
@@ -1150,28 +1157,6 @@
             "magic",
             "magical girl",
             "present"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/45003"
-        ],
-        "title": "Black Christmas",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/45003/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/45003/tiny.jpg",
-        "synonyms": [
-            "ブラッククリスマス"
-        ],
-        "relations": [],
-        "tags": [
-            "music"
         ],
         "date": {
             "season": "winter",
@@ -2682,6 +2667,7 @@
     },
     {
         "sources": [
+            "https://kitsu.io/anime/41786",
             "https://myanimelist.net/anime/37431"
         ],
         "title": "Donten ni Warau x Mameshiba",
@@ -2691,6 +2677,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1946/90905.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1946/90905t.jpg",
         "synonyms": [
+            "Donten ni Warau×Mameshiba",
             "『曇天に笑う』×「豆しば」"
         ],
         "relations": [
@@ -4563,6 +4550,7 @@
         "sources": [
             "https://anilist.co/anime/126889",
             "https://anisearch.com/anime/15466",
+            "https://kitsu.io/anime/41834",
             "https://livechart.me/anime/4946",
             "https://myanimelist.net/anime/37663"
         ],
@@ -4573,14 +4561,21 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1587/95137.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1587/95137t.jpg",
         "synonyms": [
+            "GOD EATER レゾなんとか劇場",
             "GOD EATER レゾなんとか劇場 #00",
             "GOD EATER レゾなんとか劇場 #00.「投げられた食パン」",
             "GOD EATER レゾなんとか劇場 投げられた食パン",
+            "God Eater Reso Nantoka Gekijou Episode 0",
+            "God Eater Reso Nantoka Gekijou Episode 00",
             "God Eater Reso Nantoka Gekijou: Episode 00",
+            "God Eater Reso Nantoka Gekijou: Nage Rareta Shokupan",
             "God Eater Reso Nantoka Gekijō: Nagerareta Shokupan"
         ],
         "relations": [
             "https://anisearch.com/anime/15467",
+            "https://kitsu.io/anime/42045",
+            "https://kitsu.io/anime/42848",
+            "https://kitsu.io/anime/42853",
             "https://myanimelist.net/anime/37265",
             "https://myanimelist.net/anime/38444",
             "https://myanimelist.net/anime/38681"
@@ -4591,7 +4586,9 @@
             "military",
             "parody",
             "school",
-            "sci-fi"
+            "school life",
+            "sci-fi",
+            "science fiction"
         ],
         "date": {
             "season": "winter",
