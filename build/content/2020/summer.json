@@ -3609,29 +3609,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/43258"
-        ],
-        "title": "Hatsune Miku - Mai Mai Mai (买买买) [Dance Video]",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/43258/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/43258/tiny.jpg",
-        "synonyms": [
-            "Hatsune Miku - Mai Mai Mai [Dance Video]",
-            "初音ミク - マイマイマイ (买买买)【ダンスビデオ"
-        ],
-        "relations": [],
-        "tags": [
-            "music"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/hatsune-miku-cm-tsutaetai-koto-ga-aru-yo",
             "https://kitsu.io/anime/46153"
         ],
@@ -4409,6 +4386,8 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/deco27-kanchigaisei-han-kiboushou",
+            "https://kitsu.io/anime/44705",
             "https://myanimelist.net/anime/43415"
         ],
         "title": "Kanchigaisei Han Kiboushou feat. Hatsune Miku",
@@ -4418,12 +4397,20 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1649/109732.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1649/109732t.jpg",
         "synonyms": [
+            "DECO*27: Kanchigaisei Han Kiboushou",
+            "DECO*27: Pseudo-Hope Syndrome",
+            "Kanchigaisei Han Kiboushou",
+            "Pseudo-Hope Syndrome",
             "Pseudo-Hope Syndrome feat. Hatsune Miku",
+            "勘違い性反希望症",
             "勘違い性反希望症 feat. 初音ミク"
         ],
         "relations": [],
         "tags": [
-            "music"
+            "music",
+            "psychological",
+            "romance",
+            "vocaloid"
         ],
         "date": {
             "season": "summer",
@@ -5903,6 +5890,50 @@
         "relations": [],
         "tags": [
             "cg-anime"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/144848",
+            "https://anime-planet.com/anime/mitchie-m-mai-mai-mai",
+            "https://anisearch.com/anime/15017",
+            "https://kitsu.io/anime/43258",
+            "https://kitsu.io/anime/45859",
+            "https://myanimelist.net/anime/41201"
+        ],
+        "title": "Mai Mai Mai",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1311/105778.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1311/105778t.jpg",
+        "synonyms": [
+            "Buy Buy Buy",
+            "Hatsune Miku - Mai Mai Mai",
+            "Hatsune Miku - Mai Mai Mai (买买买) [Dance Video]",
+            "Hatsune Miku - Mai Mai Mai [Dance Video]",
+            "Mitchie M: Mai Mai Mai",
+            "マイマイマイ",
+            "买买买",
+            "初音ミク - マイマイマイ (买买买)【ダンスビデオ"
+        ],
+        "relations": [],
+        "tags": [
+            "cg animation",
+            "cg-anime",
+            "cyberpunk",
+            "dancing",
+            "indefinite",
+            "music",
+            "sci fi",
+            "sci-fi",
+            "science fiction",
+            "science-fiction",
+            "vocaloid"
         ],
         "date": {
             "season": "summer",

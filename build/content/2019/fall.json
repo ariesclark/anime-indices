@@ -5612,35 +5612,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/45668"
-        ],
-        "title": "Jiyuan Tai Qi Hao",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45668/poster_image/small-5b42b876da34ccc12549a4cd09aab276.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45668/poster_image/tiny-3cb5690bfdea68360998a6f47a5626ca.jpeg",
-        "synonyms": [
-            "Jiyuantai Qihao",
-            "No.7 Cherry Lane",
-            "チェリー・レイン7番地",
-            "樱桃巷7号",
-            "繼園臺七號",
-            "继园台七号"
-        ],
-        "relations": [],
-        "tags": [
-            "drama",
-            "historical",
-            "romance"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/14257",
             "https://anilist.co/anime/103638",
             "https://anime-planet.com/anime/case-file-no-221-kabukicho",
@@ -6221,30 +6192,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/46165"
-        ],
-        "title": "Kilmer",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/46165/poster_image/small-4052df022505667643ecb2df4244f075.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/46165/poster_image/tiny-c6875e0dda2d5940b4c26a7151ab0d9b.jpeg",
-        "synonyms": [
-            "Niru Kajitsu: Kilmer",
-            "キルマー"
-        ],
-        "relations": [],
-        "tags": [
-            "drama",
-            "music"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/14041",
             "https://anilist.co/anime/111290",
             "https://anime-planet.com/anime/kimi-dake-ni-motetainda",
@@ -6290,6 +6237,7 @@
             "https://anilist.co/anime/113308",
             "https://anime-planet.com/anime/hungry-days-x-bump-of-chicken-kinen-satsuei",
             "https://anisearch.com/anime/15205",
+            "https://kitsu.io/anime/42798",
             "https://myanimelist.net/anime/41539"
         ],
         "title": "Kinen satsuei",
@@ -6299,15 +6247,19 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1154/110580.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1154/110580t.jpg",
         "synonyms": [
+            "Commemorative Photo",
             "Commemorative photo",
+            "HUNGRY DAYS x BUMP OF CHICKEN",
             "HUNGRY DAYS × BUMP OF CHICKEN - Commemorative Photo",
             "HUNGRY DAYS × BUMP OF CHICKEN - Kinen Satsuei",
             "HUNGRY DAYS × BUMP OF CHICKEN 「記念撮影」MV",
             "Hungry Day x Bump of Chicken - Kinen Satsuei",
             "Hungry Day × Bump of Chicken - Kinen Satsuei",
+            "Hungry Days One Piece",
             "Hungry Days x Bump of Chicken: Kinen Satsuei",
             "Hungry Days: One Piece",
             "Kinen Satsuei",
+            "Kinensatsuei",
             "One Piece x BUMP OF CHICKEN",
             "記念撮影"
         ],
@@ -6317,7 +6269,8 @@
             "https://anime-planet.com/anime/hungry-days-x-one-piece",
             "https://anime-planet.com/anime/one-piece",
             "https://anisearch.com/anime/14420",
-            "https://anisearch.com/anime/2227"
+            "https://anisearch.com/anime/2227",
+            "https://kitsu.io/anime/43638"
         ],
         "tags": [
             "advertisement",
@@ -6327,43 +6280,14 @@
             "drama",
             "ensemble cast",
             "food and beverage",
+            "friendship",
+            "high school",
             "music",
             "no dialogue",
             "parody",
             "photography",
             "promotional",
             "school",
-            "school life"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/42798"
-        ],
-        "title": "Kinensatsuei",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42798/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42798/tiny.jpg",
-        "synonyms": [
-            "Commemorative Photo",
-            "HUNGRY DAYS x BUMP OF CHICKEN",
-            "Hungry Days One Piece",
-            "記念撮影"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/43638"
-        ],
-        "tags": [
-            "drama",
-            "friendship",
-            "high school",
-            "music",
             "school clubs",
             "school life",
             "slice of life",
@@ -8409,6 +8333,35 @@
             "kids",
             "ninja",
             "short episodes"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/niru-kajitsu-kilmer",
+            "https://kitsu.io/anime/46165"
+        ],
+        "title": "Niru Kajitsu: Kilmer",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/niru-kajitsu-kilmer-1.webp?t=1635038879",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/niru-kajitsu-kilmer-1-285x399.webp?t=1635038879",
+        "synonyms": [
+            "Kilmer",
+            "キルマー"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/nilfruits-arandano",
+            "https://anime-planet.com/anime/niru-kajitsu-wozwald"
+        ],
+        "tags": [
+            "drama",
+            "music",
+            "vocaloid"
         ],
         "date": {
             "season": "fall",

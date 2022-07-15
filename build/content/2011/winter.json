@@ -2590,6 +2590,36 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/104408",
+            "https://anime-planet.com/anime/from-the-dolphin",
+            "https://kitsu.io/anime/44842"
+        ],
+        "title": "From the dolphin",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/from-the-dolphin-1.jpg?t=1625897770",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/from-the-dolphin-1-190x285.jpg?t=1625897770",
+        "synonyms": [
+            "From the Dolphin",
+            "Ikura Kara",
+            "イルカから"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "no dialogue",
+            "original work",
+            "psychological",
+            "shorts"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/107177",
             "https://anime-planet.com/anime/fully-cooked-for-you",
             "https://kitsu.io/anime/41324",
@@ -3986,44 +4016,28 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/44842"
-        ],
-        "title": "Ikura Kara",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44842/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44842/tiny.jpg",
-        "synonyms": [
-            "From the Dolphin",
-            "イルカから"
-        ],
-        "relations": [],
-        "tags": [
-            "psychological"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/104375",
+            "https://anime-planet.com/anime/imamura-store",
             "https://kitsu.io/anime/44951"
         ],
-        "title": "Imamura Shoten",
+        "title": "Imamura Store",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44951/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44951/tiny.jpg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/imamura-store-1.jpg?t=1625897772",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/imamura-store-1-190x285.jpg?t=1625897772",
         "synonyms": [
-            "Imamura Store",
+            "Imamura Shoten",
             "今村商店"
         ],
         "relations": [],
         "tags": [
-            "slice of life"
+            "drama",
+            "original work",
+            "shorts",
+            "slice of life",
+            "stop motion",
+            "stop motion animation"
         ],
         "date": {
             "season": "winter",

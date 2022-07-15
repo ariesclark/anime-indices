@@ -560,27 +560,6 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/17203"
-        ],
-        "title": "CM Gekijou: Karakuri Circus-hen",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17203.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17203.webp",
-        "synonyms": [
-            "CM Gekijō: Karakuri Circus-hen",
-            "CM 少年サンデー「からくりサーカス」編"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "winter",
-            "year": 1998
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/11335",
             "https://anilist.co/anime/119824",
             "https://anime-planet.com/anime/gauche-the-cellist-1998",
@@ -1990,23 +1969,30 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/42591"
+            "https://anisearch.com/anime/17203",
+            "https://kitsu.io/anime/42591",
+            "https://myanimelist.net/anime/40340"
         ],
-        "title": "Karakuri Circus CM",
+        "title": "Karakuri Circus",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42591/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42591/tiny.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1533/102851.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1533/102851t.jpg",
         "synonyms": [
+            "CM Gekijou: Karakuri Circus-hen",
+            "CM Gekijō: Karakuri Circus-hen",
             "CM 少年サンデー「からくりサーカス」編",
+            "Karakuri Circus CM",
             "Shounen Sunday CM: Karakuri Circus-hen"
         ],
         "relations": [
-            "https://kitsu.io/anime/41053"
+            "https://kitsu.io/anime/41053",
+            "https://myanimelist.net/anime/37447"
         ],
         "tags": [
             "action",
+            "mystery",
             "shounen",
             "super power"
         ],

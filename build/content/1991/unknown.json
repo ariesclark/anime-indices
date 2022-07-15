@@ -634,8 +634,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/107530",
-            "https://anime-planet.com/anime/kasa",
             "https://anime-planet.com/anime/san",
             "https://myanimelist.net/anime/43807"
         ],
@@ -646,14 +644,11 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1290/118679.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1290/118679t.jpg",
         "synonyms": [
-            "Kasa",
             "Umbrella",
-            "伞",
-            "傘"
+            "伞"
         ],
         "relations": [],
         "tags": [
-            "abstract",
             "chinese animation",
             "comedy",
             "kids",

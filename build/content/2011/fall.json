@@ -1801,6 +1801,35 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/109101",
+            "https://anime-planet.com/anime/dissimilated-vision",
+            "https://kitsu.io/anime/45010"
+        ],
+        "title": "Dissimilated Vision",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/dissimilated-vision-1.jpg?t=1625908870",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/dissimilated-vision-1-190x266.jpg?t=1625908870",
+        "synonyms": [
+            "Ikashita Shikaku",
+            "Ikashita shikaku",
+            "異化した視覚"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "black and white",
+            "psychological",
+            "shorts"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/8809",
             "https://anilist.co/anime/12231",
             "https://anime-planet.com/anime/dragon-ball-episode-of-bardock",
@@ -3118,6 +3147,35 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/hitoshizuku-p-x-yama-karakuri-burst",
+            "https://kitsu.io/anime/42136"
+        ],
+        "title": "Hitoshizuku-P x Yama△: Karakuri Burst",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/hitoshizuku-p-x-yama-karakuri-burst-1.jpg?t=1625898913",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/hitoshizuku-p-x-yama-karakuri-burst-1-190x266.jpg?t=1625898913",
+        "synonyms": [
+            "Karakuri Burst"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/hitoshizuku-p-x-yama-rebirthed"
+        ],
+        "tags": [
+            "action",
+            "military",
+            "music",
+            "the arts",
+            "vocaloid"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/11161",
             "https://anime-planet.com/anime/a-bridge-to-the-starry-skies-ova",
             "https://anisearch.com/anime/7241",
@@ -4244,31 +4302,6 @@
             "non-human protagonists",
             "short episodes",
             "slice of life"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/42136"
-        ],
-        "title": "Karakuri Burst",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42136/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42136/tiny.jpg",
-        "synonyms": [
-            "Hitoshizuku-P x Yama△: Karakuri Burst"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "military",
-            "music",
-            "the arts"
         ],
         "date": {
             "season": "fall",

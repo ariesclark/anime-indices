@@ -5821,20 +5821,29 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kodansha-morning-cm",
             "https://kitsu.io/anime/43293"
         ],
-        "title": "Kodansha Morning",
-        "type": "ona",
+        "title": "Kodansha Morning CM",
+        "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/43293/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/43293/tiny.jpg",
-        "synonyms": [],
+        "picture": "https://cdn.anime-planet.com/anime/primary/kodansha-morning-cm-1.jpg?t=1625898601",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kodansha-morning-cm-1-190x267.jpg?t=1625898601",
+        "synonyms": [
+            "Kodansha Morning"
+        ],
         "relations": [
+            "https://anime-planet.com/anime/kremlin",
             "https://kitsu.io/anime/43292"
         ],
         "tags": [
-            "comedy"
+            "cats",
+            "comedy",
+            "commercials",
+            "manga industry",
+            "otaku culture",
+            "promotional"
         ],
         "date": {
             "season": "spring",
@@ -5843,20 +5852,29 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kodansha-morning-two-cm",
             "https://kitsu.io/anime/43292"
         ],
-        "title": "Kodansha Morning 2",
-        "type": "ona",
+        "title": "Kodansha Morning Two CM",
+        "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/43292/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/43292/tiny.jpg",
-        "synonyms": [],
+        "picture": "https://cdn.anime-planet.com/anime/primary/kodansha-morning-two-cm-1.jpg?t=1625898603",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kodansha-morning-two-cm-1-190x281.jpg?t=1625898603",
+        "synonyms": [
+            "Kodansha Morning 2"
+        ],
         "relations": [
+            "https://anime-planet.com/anime/kremlin",
+            "https://anime-planet.com/anime/saint-young-men-movie",
             "https://kitsu.io/anime/43293"
         ],
         "tags": [
-            "comedy"
+            "comedy",
+            "commercials",
+            "manga industry",
+            "otaku culture",
+            "promotional"
         ],
         "date": {
             "season": "spring",

@@ -3045,6 +3045,41 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/eve-kaikai-kitan",
+            "https://kitsu.io/anime/43814"
+        ],
+        "title": "Eve: Kaikai Kitan",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/eve-kaikai-kitan-1.jpg?t=1625908679",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/eve-kaikai-kitan-1-190x266.jpg?t=1625908679",
+        "synonyms": [
+            "Eve",
+            "KAIKAIKITAN",
+            "Kaikai Kitan",
+            "廻廻奇譚"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/jujutsu-kaisen",
+            "https://kitsu.io/anime/42765"
+        ],
+        "tags": [
+            "action",
+            "based on a manga",
+            "horror",
+            "monsters",
+            "music",
+            "shounen",
+            "supernatural"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
             "https://kitsu.io/anime/43765"
         ],
         "title": "Excuse My Rudeness, But Could You Please RIP?",
@@ -5786,6 +5821,8 @@
     {
         "sources": [
             "https://anime-planet.com/anime/no-7-cherry-lane",
+            "https://anisearch.com/anime/15367",
+            "https://kitsu.io/anime/45668",
             "https://myanimelist.net/anime/48421"
         ],
         "title": "Jiyuantai Qihao",
@@ -5795,14 +5832,23 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1122/113313.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1122/113313t.jpg",
         "synonyms": [
+            "Gai Jyun Toi Cat Hou",
+            "Ji Yuan Tai Qi Hao",
+            "Jiyuan Tai Qi Hao",
             "No.7 Cherry Lane",
-            "繼園臺七號"
+            "チェリー・レイン7番地",
+            "樱桃巷7号",
+            "繼園台7號",
+            "繼園臺七號",
+            "继园台7号",
+            "继园台七号"
         ],
         "relations": [],
         "tags": [
             "chinese animation",
             "drama",
             "historical",
+            "present",
             "romance"
         ],
         "date": {
@@ -6325,36 +6371,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/43814"
-        ],
-        "title": "Kaikai Kitan",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/43814/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/43814/tiny.jpg",
-        "synonyms": [
-            "Eve",
-            "KAIKAIKITAN",
-            "廻廻奇譚"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/42765"
-        ],
-        "tags": [
-            "action",
-            "horror",
-            "music",
-            "shounen",
-            "supernatural"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/51121"
         ],
         "title": "Kamen Rider Saber & Kamen Rider Zero-One Manner Movie",
@@ -6549,32 +6565,6 @@
             "drama",
             "slice of life",
             "tragedy"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/44705"
-        ],
-        "title": "Kanchigaisei Han Kiboushou",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44705/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44705/tiny.jpg",
-        "synonyms": [
-            "DECO*27: Kanchigaisei Han Kiboushou",
-            "DECO*27: Pseudo-Hope Syndrome",
-            "Pseudo-Hope Syndrome",
-            "勘違い性反希望症"
-        ],
-        "relations": [],
-        "tags": [
-            "music",
-            "psychological"
         ],
         "date": {
             "season": "fall",
@@ -7084,6 +7074,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/127508",
             "https://kitsu.io/anime/44549"
         ],
         "title": "Kimi to Tsunaga Renai Jinsei Nante",
@@ -7094,11 +7085,14 @@
         "thumbnail": "https://media.kitsu.io/anime/poster_images/44549/tiny.jpg",
         "synonyms": [
             "A life that cannot contact you",
-            "君と繋がれない人生なんて"
+            "Oshi to Tsunagare Nakute Yamu Onnanoko no Kyoku",
+            "君と繋がれない人生なんて",
+            "推しと繋がれなくて病む女の子の曲"
         ],
         "relations": [],
         "tags": [
             "drama",
+            "lgbtq+ themes",
             "music",
             "romance",
             "shoujo ai"

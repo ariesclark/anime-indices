@@ -4469,6 +4469,36 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/honeyworks-inokori-sensei",
+            "https://kitsu.io/anime/44919"
+        ],
+        "title": "Honeyworks: Inokori Sensei",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/honeyworks-inokori-sensei-1.jpg?t=1625899063",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/honeyworks-inokori-sensei-1-190x266.jpg?t=1625899063",
+        "synonyms": [
+            "A Teacher, Detained",
+            "Detained Teacher",
+            "Honeyworks: Detained Teacher",
+            "Inokori Sensei",
+            "イノコリ先生"
+        ],
+        "relations": [],
+        "tags": [
+            "black and white",
+            "music",
+            "school life",
+            "vocaloid"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/103935",
             "https://anime-planet.com/anime/gotch-humanoid-girl",
             "https://kitsu.io/anime/13812",
@@ -4814,55 +4844,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/45528"
-        ],
-        "title": "Inner Arts",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45528/poster_image/small-855bbd6092e61e80bbe37ae44de90ebb.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45528/poster_image/tiny-b5f2d8052a174766ad3cfa06000b95a7.jpeg",
-        "synonyms": [
-            "Jin: Inner Arts"
-        ],
-        "relations": [],
-        "tags": [
-            "music"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/44919"
-        ],
-        "title": "Inokori Sensei",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44919/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44919/tiny.jpg",
-        "synonyms": [
-            "A Teacher, Detained",
-            "Detained Teacher",
-            "Honeyworks: Detained Teacher",
-            "Honeyworks: Inokori Sensei",
-            "イノコリ先生"
-        ],
-        "relations": [],
-        "tags": [
-            "music",
-            "school life"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/10398",
             "https://anilist.co/anime/20604",
             "https://anime-planet.com/anime/inugami-san-to-nekoyama-san",
@@ -5108,6 +5089,30 @@
         "relations": [],
         "tags": [
             "music"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/jin-inner-arts",
+            "https://kitsu.io/anime/45528"
+        ],
+        "title": "Jin: Inner Arts",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/jin-inner-arts-1.jpg?t=1625898748",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/jin-inner-arts-1-190x266.jpg?t=1625898748",
+        "synonyms": [
+            "Inner Arts"
+        ],
+        "relations": [],
+        "tags": [
+            "music",
+            "vocaloid"
         ],
         "date": {
             "season": "spring",

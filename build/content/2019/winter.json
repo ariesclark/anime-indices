@@ -5376,31 +5376,7 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/43948"
-        ],
-        "title": "I Can Not Control Myself",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/43948/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/43948/tiny.jpg",
-        "synonyms": [
-            "AZKi BLaCK"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/43740"
-        ],
-        "tags": [
-            "idol",
-            "music"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
+            "https://kitsu.io/anime/43948",
             "https://myanimelist.net/anime/52342"
         ],
         "title": "I Can't Control Myself",
@@ -5410,12 +5386,16 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1320/125147.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1320/125147t.jpg",
         "synonyms": [
+            "AZKi BLaCK",
+            "I Can Not Control Myself",
             "I can't control myself"
         ],
         "relations": [
+            "https://kitsu.io/anime/43740",
             "https://myanimelist.net/anime/44042"
         ],
         "tags": [
+            "idol",
             "idols (female)",
             "music"
         ],
@@ -6107,29 +6087,6 @@
             "housewife",
             "oral",
             "present"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/45590"
-        ],
-        "title": "Kanosora no kūsō",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45590/poster_image/small-044a5ee0b15084e1857a19581c7ddd37.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45590/poster_image/tiny-8e2d4451108f346d2075aa982db0ee1c.jpeg",
-        "synonyms": [
-            "Summer Sky Reverie",
-            "雲梯"
-        ],
-        "relations": [],
-        "tags": [
-            "psychological"
         ],
         "date": {
             "season": "winter",
@@ -13037,6 +12994,33 @@
             "ghibli museum shorts",
             "kids",
             "slice of life"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/untei",
+            "https://kitsu.io/anime/45590"
+        ],
+        "title": "Untei",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/untei-1.webp?t=1656460930",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/untei-1-285x399.webp?t=1656460930",
+        "synonyms": [
+            "Kanosora no kūsō",
+            "Summer Sky Reverie",
+            "雲梯"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "psychological",
+            "shorts"
         ],
         "date": {
             "season": "winter",

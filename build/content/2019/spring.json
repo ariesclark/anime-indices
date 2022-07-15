@@ -4332,31 +4332,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/42807"
-        ],
-        "title": "Hametarou",
-        "type": "special",
-        "episodes": 0,
-        "status": "ongoing",
-        "picture": "https://media.kitsu.io/anime/poster_images/42807/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42807/tiny.jpg",
-        "synonyms": [
-            "はめたろう"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/4918"
-        ],
-        "tags": [
-            "music",
-            "parody"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/140227",
             "https://anime-planet.com/anime/hanasaka-nyanko",
             "https://anisearch.com/anime/16304",
@@ -5426,26 +5401,34 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/131892",
+            "https://anime-planet.com/anime/jin-guang-yu-jiu-jie-zhanxue-tiandao",
             "https://kitsu.io/anime/44321"
         ],
         "title": "Jin Guang Yu Jiu Jie: Zhanxue Tiandao",
-        "type": "tv",
+        "type": "ona",
         "episodes": 32,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44321/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44321/tiny.jpg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/jin-guang-yu-jiu-jie-zhanxue-tiandao-1.jpg?t=1632262425",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/jin-guang-yu-jiu-jie-zhanxue-tiandao-1-285x400.jpg?t=1632262425",
         "synonyms": [
             "金光布袋戏（新）第13部",
             "金光御九界之战血天道",
             "金光御九界之戰血天道"
         ],
         "relations": [
+            "https://anilist.co/anime/131890",
+            "https://anilist.co/anime/131926",
+            "https://anime-planet.com/anime/jin-guang-yu-jiu-jie-qi-shen-lu",
+            "https://anime-planet.com/anime/jin-guang-yu-jiu-jie-xian-gu-kuang-tao",
             "https://kitsu.io/anime/44320",
             "https://kitsu.io/anime/44322"
         ],
         "tags": [
             "action",
-            "fantasy"
+            "chinese animation",
+            "fantasy",
+            "stop motion animation"
         ],
         "date": {
             "season": "spring",

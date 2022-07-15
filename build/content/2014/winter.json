@@ -4160,6 +4160,8 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/106558",
+            "https://anisearch.com/anime/12761",
             "https://kitsu.io/anime/45807"
         ],
         "title": "Keijijyou no Mugenshikou",
@@ -4169,11 +4171,15 @@
         "picture": "https://media.kitsu.io/anime/45807/poster_image/small-dc050e94ddb6bf456dc75a1ff34984bc.jpeg",
         "thumbnail": "https://media.kitsu.io/anime/45807/poster_image/tiny-650fbb6189bbcbf1fc34c663532ad0ba.jpeg",
         "synonyms": [
+            "Keijijou no Mugen Shikou",
+            "Keijijō no Mugen Shikō",
             "Mind Game",
+            "Mind Game (Short)",
             "形而上の無限思考"
         ],
         "relations": [],
         "tags": [
+            "indefinite",
             "psychological"
         ],
         "date": {
@@ -14234,6 +14240,38 @@
         "relations": [],
         "tags": [
             "music",
+            "vocaloid"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/kemu-ikasama-life-game",
+            "https://kitsu.io/anime/44645"
+        ],
+        "title": "kemu: Ikasama Life Game",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/kemu-ikasama-life-game-1.jpg?t=1625898797",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kemu-ikasama-life-game-1-190x266.jpg?t=1625898797",
+        "synonyms": [
+            "Fraudulent Life Game",
+            "Ikasama Life Game",
+            "イカサマライフゲイム"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/kemu-chikyuu-saigo-no-kokuhaku-o",
+            "https://anime-planet.com/anime/kemu-kamisama-nejimaki",
+            "https://anime-planet.com/anime/kemu-reincarnation",
+            "https://kitsu.io/anime/44643"
+        ],
+        "tags": [
+            "music",
+            "the arts",
             "vocaloid"
         ],
         "date": {

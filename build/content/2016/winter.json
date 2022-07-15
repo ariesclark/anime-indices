@@ -4834,21 +4834,25 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/107530",
+            "https://anime-planet.com/anime/kasa",
             "https://kitsu.io/anime/45674"
         ],
         "title": "Kasa",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45674/poster_image/small-bf71752d689b520db4c5694c3fcdc4c8.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45674/poster_image/tiny-1d2378ef8e5fbd757921fe8eebee16be.jpeg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/kasa-1.jpg?t=1625908954",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kasa-1-190x266.jpg?t=1625908954",
         "synonyms": [
             "Umbrella",
             "傘"
         ],
         "relations": [],
         "tags": [
-            "psychological"
+            "abstract",
+            "psychological",
+            "shorts"
         ],
         "date": {
             "season": "winter",

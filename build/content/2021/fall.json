@@ -4275,31 +4275,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/45867"
-        ],
-        "title": "I Have Refined Qi For 3000 Years!",
-        "type": "ona",
-        "episodes": 36,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45867/poster_image/small-fc8a4080c3fc571be02b6ad5f235364f.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45867/poster_image/tiny-1d66bcc7fc3ef08dfb5578b83272560d.jpeg",
-        "synonyms": [
-            "I AM Legend",
-            "Lian qi Lianle Sanqiannian",
-            "炼气练了三千年"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "comedy"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/141056",
             "https://anime-planet.com/anime/dozens-of-norths",
             "https://anisearch.com/anime/17306",
@@ -5554,6 +5529,7 @@
     },
     {
         "sources": [
+            "https://anisearch.com/anime/16658",
             "https://kitsu.io/anime/45253"
         ],
         "title": "Kimetsu no Yaiba: Asakusa Hen",
@@ -5563,10 +5539,16 @@
         "picture": "https://media.kitsu.io/anime/45253/poster_image/small-c82cb6dc8e2db911fa3d0e4827e7dc4d.jpeg",
         "thumbnail": "https://media.kitsu.io/anime/45253/poster_image/tiny-83cb398cb242fa9a29f85bc7092b596f.jpeg",
         "synonyms": [
+            "Demon Slayer: Kimetsu no Yaiba - Asakusa Arc",
             "Demon Slayer: Kimetsu no Yaiba Asakusa Arc",
-            "鬼滅の刃 浅あさ草くさ編へん"
+            "Kimetsu no Yaiba: Asakusa-hen",
+            "鬼滅の刃 浅あさ草くさ編へん",
+            "鬼滅の刃 浅草編"
         ],
         "relations": [
+            "https://anisearch.com/anime/13658",
+            "https://anisearch.com/anime/14215",
+            "https://anisearch.com/anime/16659",
             "https://kitsu.io/anime/41370"
         ],
         "tags": [
@@ -5690,6 +5672,7 @@
     },
     {
         "sources": [
+            "https://anisearch.com/anime/16659",
             "https://kitsu.io/anime/45254"
         ],
         "title": "Kimetsu no Yaiba: Tsuzumi Yashiki Hen",
@@ -5699,10 +5682,16 @@
         "picture": "https://media.kitsu.io/anime/45254/poster_image/small-f6ae54716da016249667c455fafb08ce.jpeg",
         "thumbnail": "https://media.kitsu.io/anime/45254/poster_image/tiny-4969a6ce657ad40fb1d7efc28bda9e1e.jpeg",
         "synonyms": [
+            "Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc",
             "Demon Slayer: Kimetsu no Yaiba Tsuzumi Mansion Arc",
-            "Recap of the Tsuzumi Mansion Arc."
+            "Kimetsu no Yaiba: Tsuzumi Yashiki-hen",
+            "Recap of the Tsuzumi Mansion Arc.",
+            "鬼滅の刃 鼓屋敷編"
         ],
         "relations": [
+            "https://anisearch.com/anime/13658",
+            "https://anisearch.com/anime/16194",
+            "https://anisearch.com/anime/16658",
             "https://kitsu.io/anime/41370"
         ],
         "tags": [
@@ -5891,7 +5880,10 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/45015"
+            "https://anilist.co/anime/137804",
+            "https://anisearch.com/anime/16509",
+            "https://kitsu.io/anime/45015",
+            "https://livechart.me/anime/10691"
         ],
         "title": "Kobayashi-san Chi no Maid Dragon S: Mini Dra EX",
         "type": "special",
@@ -5900,17 +5892,51 @@
         "picture": "https://media.kitsu.io/anime/poster_images/45015/small.jpg",
         "thumbnail": "https://media.kitsu.io/anime/poster_images/45015/tiny.jpg",
         "synonyms": [
+            "Kobayashi-san Chi no Maid Dragon S: Mini Dragon EX",
+            "Kobayashi-san Chi no Maidragon S: Mini Dra EX",
             "Mini Dora EX",
             "Mini Dragon EX",
+            "MiniDra EX",
+            "Miss Kobayashi's Dragon Maid S Short Animation Series EX",
             "Miss Kobayashi's Dragon Maid S: Mini Dra EX",
+            "Miss Kobayashi’s Dragon Maid S Short Animation Series EX",
+            "ミニドラ EX",
+            "小林さんちのメイドラゴンＳ ミニドラ EX",
             "小林さんちのメイドラゴンＳミニドラEX"
         ],
         "relations": [
-            "https://kitsu.io/anime/42149"
+            "https://anilist.co/anime/107717",
+            "https://anilist.co/anime/132096",
+            "https://anisearch.com/anime/16180",
+            "https://kitsu.io/anime/42149",
+            "https://livechart.me/anime/10497",
+            "https://livechart.me/anime/10689",
+            "https://livechart.me/anime/10690",
+            "https://livechart.me/anime/2166",
+            "https://livechart.me/anime/2649",
+            "https://livechart.me/anime/2661",
+            "https://livechart.me/anime/9222"
         ],
         "tags": [
             "comedy",
-            "slice of life"
+            "contemporary fantasy",
+            "dragons",
+            "ecchi",
+            "elementary school",
+            "family life",
+            "fantasy",
+            "isekai",
+            "magic",
+            "maids",
+            "martial arts",
+            "moe",
+            "monster",
+            "office worker",
+            "otaku culture",
+            "present",
+            "slice of life",
+            "stoic heroine",
+            "urban fantasy"
         ],
         "date": {
             "season": "fall",
@@ -6604,6 +6630,39 @@
             "comedy",
             "detective",
             "super deformed"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/141870",
+            "https://kitsu.io/anime/45867",
+            "https://myanimelist.net/anime/51027"
+        ],
+        "title": "Lian Qi Lianle 300 Nian",
+        "type": "ona",
+        "episodes": 36,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1643/120936.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1643/120936t.jpg",
+        "synonyms": [
+            "I AM Legend",
+            "I Have Refined Qi For 3000 Years!",
+            "Lian qi Lianle Sanqiannian",
+            "My Three Thousand Years To The Sky",
+            "炼气练了3000年",
+            "炼气练了三千年"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "adventure",
+            "comedy",
+            "fantasy",
+            "wuxia"
         ],
         "date": {
             "season": "fall",
@@ -7727,39 +7786,6 @@
             "tragedy",
             "vore",
             "youkai"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/10691"
-        ],
-        "title": "MiniDra EX",
-        "type": "ona",
-        "episodes": 5,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/10691/poster_image/9d600ca2dd0b29bc32a0155b079af2e7.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/10691/poster_image/9d600ca2dd0b29bc32a0155b079af2e7.png?style=small&format=jpg",
-        "synonyms": [
-            "Miss Kobayashi's Dragon Maid S Short Animation Series EX",
-            "ミニドラ EX"
-        ],
-        "relations": [
-            "https://livechart.me/anime/10497",
-            "https://livechart.me/anime/10689",
-            "https://livechart.me/anime/10690",
-            "https://livechart.me/anime/2166",
-            "https://livechart.me/anime/2649",
-            "https://livechart.me/anime/2661",
-            "https://livechart.me/anime/9222"
-        ],
-        "tags": [
-            "comedy",
-            "fantasy",
-            "slice of life"
         ],
         "date": {
             "season": "fall",
