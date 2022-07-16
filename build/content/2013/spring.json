@@ -5750,36 +5750,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/42176"
-        ],
-        "title": "Lost One no Goukoku",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42176/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42176/tiny.jpg",
-        "synonyms": [
-            "Lost One's Weeping",
-            "Neru: Lost One no Goukoku",
-            "Neru: Lost One's Weeping",
-            "ロストワンの号哭"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/44351"
-        ],
-        "tags": [
-            "music",
-            "psychological",
-            "school life",
-            "the arts"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/7004",
             "https://myanimelist.net/anime/18455"
         ],
@@ -6729,6 +6699,39 @@
         "relations": [],
         "tags": [
             "avant garde"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2013
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/neru-lost-ones-weeping",
+            "https://kitsu.io/anime/42176"
+        ],
+        "title": "Neru: Lost One's Weeping",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/neru-lost-ones-weeping-1.jpg?t=1625898812",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/neru-lost-ones-weeping-1-190x266.jpg?t=1625898812",
+        "synonyms": [
+            "Lost One no Goukoku",
+            "Lost One's Weeping",
+            "Neru: Lost One no Goukoku",
+            "ロストワンの号哭"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/afterglow-lost-one-no-goukoku",
+            "https://kitsu.io/anime/44351"
+        ],
+        "tags": [
+            "music",
+            "psychological",
+            "school life",
+            "the arts",
+            "vocaloid"
         ],
         "date": {
             "season": "spring",

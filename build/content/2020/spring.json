@@ -6612,6 +6612,7 @@
             "https://anilist.co/anime/116789",
             "https://anime-planet.com/anime/mitchiri-wanko-animation",
             "https://anisearch.com/anime/15088",
+            "https://kitsu.io/anime/43299",
             "https://livechart.me/anime/9846",
             "https://myanimelist.net/anime/41470"
         ],
@@ -6622,6 +6623,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1793/106522.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1793/106522t.jpg",
         "synonyms": [
+            "Mitchiri Wanko! Animation",
             "Mitchiri Wanko! Anima~tion",
             "みっちりわんこ! あにめ~しょん",
             "みっちりわんこ！ あにめ～しょん",
@@ -6631,6 +6633,7 @@
             "https://anidb.net/anime/13412",
             "https://anilist.co/anime/100849",
             "https://anime-planet.com/anime/mitchiri-neko",
+            "https://kitsu.io/anime/14162",
             "https://myanimelist.net/anime/36982"
         ],
         "tags": [
@@ -6707,55 +6710,8 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/43299"
-        ],
-        "title": "Mitchiri Wanko! Animation",
-        "type": "tv",
-        "episodes": 24,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/43299/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/43299/tiny.jpg",
-        "synonyms": [
-            "Micchiri Wanko! Animation",
-            "みっちりわんこ！あにめ～しょん"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/14162"
-        ],
-        "tags": [
-            "comedy",
-            "kids"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/42976"
-        ],
-        "title": "Mokuri",
-        "type": "movie",
-        "episodes": 0,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42976/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42976/tiny.jpg",
-        "synonyms": [
-            "モクリ"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/mokuri",
+            "https://kitsu.io/anime/42976",
             "https://livechart.me/anime/9688"
         ],
         "title": "Mokuri",

@@ -986,30 +986,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/43327"
-        ],
-        "title": "Mizu wa Karma 2",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/43327/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/43327/tiny.jpg",
-        "synonyms": [
-            "Water Ring Karma 2",
-            "水輪 カルマ2"
-        ],
-        "relations": [],
-        "tags": [
-            "dementia",
-            "music"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 1980
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/2739",
             "https://anilist.co/anime/3810",
             "https://anime-planet.com/anime/the-littl-bits",
@@ -1647,6 +1623,38 @@
             "satire",
             "sci fi",
             "short movie",
+            "shorts"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 1980
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/suirin-karma-ni",
+            "https://kitsu.io/anime/43327",
+            "https://myanimelist.net/anime/42233"
+        ],
+        "title": "Suirin: Karma (Ni)",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1463/108057.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1463/108057t.jpg",
+        "synonyms": [
+            "Mizu wa Karma 2",
+            "Water Ring Karma 2",
+            "水輪 カルマ2",
+            "水輪 カルマ（二）"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "avant garde",
+            "dementia",
+            "music",
+            "no dialogue",
             "shorts"
         ],
         "date": {

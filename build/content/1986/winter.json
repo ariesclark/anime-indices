@@ -1284,19 +1284,23 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/41531"
+            "https://kitsu.io/anime/41531",
+            "https://myanimelist.net/anime/35085"
         ],
         "title": "Kyouiku Eiga-sai Jushou Anime Series",
-        "type": "special",
+        "type": "ova",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/41531/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/41531/tiny.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/5/84672.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/5/84672t.jpg",
         "synonyms": [
             "教育映画祭受賞アニメシリーズ"
         ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "drama",
+            "kids"
+        ],
         "date": {
             "season": "winter",
             "year": 1986

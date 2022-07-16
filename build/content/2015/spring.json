@@ -6893,29 +6893,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/45399"
-        ],
-        "title": "Kyou mo Obiete Imasuka?",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45399/poster_image/small-4f55ada6feb07c422d4406d1ed8b9c9e.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45399/poster_image/tiny-7d674d88e65b84f2d486ccc68a351c29.jpeg",
-        "synonyms": [
-            "Lamaze-P: Kyou mo Obiete Imasuka?",
-            "今日も怯えていますか？"
-        ],
-        "relations": [],
-        "tags": [
-            "music"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/20963",
             "https://anime-planet.com/anime/beyond-the-boundary-movie-ill-be-here-future",
             "https://kitsu.io/anime/10043",
@@ -7066,6 +7043,31 @@
             "shounen",
             "supernatural",
             "youkai"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/lamaze-p-kyou-mo-obiete-imasuka",
+            "https://kitsu.io/anime/45399"
+        ],
+        "title": "Lamaze-P: Kyou mo Obiete Imasuka?",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/lamaze-p-kyou-mo-obiete-imasuka-1.jpg?t=1625899038",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/lamaze-p-kyou-mo-obiete-imasuka-1-190x266.jpg?t=1625899038",
+        "synonyms": [
+            "Kyou mo Obiete Imasuka?",
+            "今日も怯えていますか？"
+        ],
+        "relations": [],
+        "tags": [
+            "music",
+            "vocaloid"
         ],
         "date": {
             "season": "spring",

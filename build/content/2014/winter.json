@@ -6373,32 +6373,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/45357"
-        ],
-        "title": "Music Wizard of OZ",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45357/poster_image/small-60fb5ee17ddf965c50c62e5f9060bbfd.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45357/poster_image/tiny-4243ea353dab2bfb4c1120e63b1903fd.jpeg",
-        "synonyms": [
-            "OSTER project: Music Wizard of OZ"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "fantasy world",
-            "isekai",
-            "music"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/106559",
             "https://anisearch.com/anime/13425",
             "https://kitsu.io/anime/45852"
@@ -7417,6 +7391,36 @@
         "tags": [
             "comedy",
             "music"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/oster-project-music-wizard-of-oz",
+            "https://kitsu.io/anime/45357"
+        ],
+        "title": "OSTER project: Music Wizard of OZ",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/oster-project-music-wizard-of-oz-1.jpg?t=1625898924",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/oster-project-music-wizard-of-oz-1-190x266.jpg?t=1625898924",
+        "synonyms": [
+            "Music Wizard of OZ"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "based on a novel",
+            "fantasy",
+            "fantasy world",
+            "isekai",
+            "music",
+            "person in a strange world",
+            "vocaloid"
         ],
         "date": {
             "season": "winter",

@@ -7038,32 +7038,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/44843"
-        ],
-        "title": "Koibitomodachi",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44843/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44843/tiny.jpg",
-        "synonyms": [
-            "Boundary Line",
-            "Nejishiki: Boundary Line",
-            "Nejishiki: Koibitomodachi",
-            "コイビトモダチ"
-        ],
-        "relations": [],
-        "tags": [
-            "drama",
-            "music"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/14929"
         ],
         "title": "Koushui Sanguo 2",
@@ -8660,6 +8634,35 @@
             "present",
             "slice of life",
             "slice of life drama"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/nejishiki-koibitomodachi",
+            "https://kitsu.io/anime/44843"
+        ],
+        "title": "Nejishiki: Koibitomodachi",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/nejishiki-koibitomodachi-1.jpg?t=1625898832",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/nejishiki-koibitomodachi-1-190x266.jpg?t=1625898832",
+        "synonyms": [
+            "Boundary Line",
+            "Koibitomodachi",
+            "Nejishiki: Boundary Line",
+            "コイビトモダチ"
+        ],
+        "relations": [],
+        "tags": [
+            "drama",
+            "music",
+            "romance",
+            "vocaloid"
         ],
         "date": {
             "season": "spring",

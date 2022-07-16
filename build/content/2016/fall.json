@@ -9684,29 +9684,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/42259"
-        ],
-        "title": "Lovely Ensemble",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42259/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42259/tiny.jpg",
-        "synonyms": [
-            "rerulili: Lovely Ensemble",
-            "ラブリーアンサンブル れるりり"
-        ],
-        "relations": [],
-        "tags": [
-            "music"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/11594",
             "https://anilist.co/anime/21674",
             "https://anime-planet.com/anime/luger-code-1951",
@@ -10970,30 +10947,7 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/46154"
-        ],
-        "title": "Mousou Kanshou Daishou Renmei",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/46154/poster_image/small-69016ce79307e9b3044f5c11d747325c.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/46154/poster_image/tiny-ca12dc925c71d23400ecdabf73344eff.jpeg",
-        "synonyms": [
-            "Delusion Sensation Compensation Federation",
-            "Mousou Kanshou Daishou Renmei feat. Hatsune Miku",
-            "妄想感傷代償連盟 feat. 初音ミク"
-        ],
-        "relations": [],
-        "tags": [
-            "music"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
+            "https://kitsu.io/anime/46154",
             "https://myanimelist.net/anime/41022"
         ],
         "title": "Mousou Kanshou Daishou Renmei feat. Hatsune Miku",
@@ -11006,6 +10960,7 @@
             "DSCF",
             "Delusion Sensation Compensation Federation",
             "MKDR",
+            "Mousou Kanshou Daishou Renmei",
             "妄想感傷代償連盟 feat. 初音ミク"
         ],
         "relations": [],
@@ -17445,6 +17400,31 @@
             "school",
             "school life",
             "trains",
+            "vocaloid"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/rerulili-lovely-ensemble",
+            "https://kitsu.io/anime/42259"
+        ],
+        "title": "rerulili: Lovely Ensemble",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/rerulili-lovely-ensemble-1.jpg?t=1625899090",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/rerulili-lovely-ensemble-1-190x266.jpg?t=1625899090",
+        "synonyms": [
+            "Lovely Ensemble",
+            "ラブリーアンサンブル れるりり"
+        ],
+        "relations": [],
+        "tags": [
+            "music",
             "vocaloid"
         ],
         "date": {

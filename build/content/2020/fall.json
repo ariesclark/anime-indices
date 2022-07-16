@@ -8629,24 +8629,39 @@
     },
     {
         "sources": [
+            "https://anisearch.com/anime/17058",
             "https://kitsu.io/anime/44435"
         ],
         "title": "Miraculous World",
         "type": "special",
-        "episodes": 0,
+        "episodes": 1,
         "status": "ongoing",
         "picture": "https://media.kitsu.io/anime/poster_images/44435/small.jpg",
         "thumbnail": "https://media.kitsu.io/anime/poster_images/44435/tiny.jpg",
-        "synonyms": [],
+        "synonyms": [
+            "Ladybug in New York City",
+            "Miraculous New York",
+            "Miraculous World: New York, Hana Doen Yeongungdeul",
+            "Miraculous World: New York, United Heroez",
+            "미라큘러스 월드 : 뉴욕, 하나 된 영웅들"
+        ],
         "relations": [
+            "https://anisearch.com/anime/14481",
+            "https://anisearch.com/anime/16892",
             "https://kitsu.io/anime/42156"
         ],
         "tags": [
             "action",
+            "action comedy",
+            "adventure",
             "anime influenced",
+            "cg-anime",
             "comedy",
+            "fantasy",
             "henshin",
+            "heroine of strong character",
             "magical girl",
+            "present",
             "romance",
             "super power",
             "superhero"
@@ -8687,52 +8702,36 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/127041"
+            "https://anilist.co/anime/127041",
+            "https://anime-planet.com/anime/monogatari-wo-kimi-e-fukaku-ni-q1-ending-animation",
+            "https://kitsu.io/anime/44305"
         ],
-        "title": "Monogatari wo kimi e. - Fukakai 2 Q1 Ending Animation",
-        "type": "ona",
+        "title": "Monogatari wo Kimi e: Fukaku ni Q1 Ending Animation",
+        "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127041-HR9Q2iimt3ql.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127041-HR9Q2iimt3ql.png",
+        "picture": "https://cdn.anime-planet.com/anime/primary/monogatari-wo-kimi-e-fukaku-ni-q1-ending-animation-1.webp?t=1632080115",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/monogatari-wo-kimi-e-fukaku-ni-q1-ending-animation-1-285x399.webp?t=1632080115",
         "synonyms": [
+            "Monogatari wo kimi e. - Fukakai 2 Q1 Ending Animation",
+            "Monogatari wo kimi e. - Fukakai ni Q1 Ending Animation",
             "物語を君へ。-不可解弐Q1 エンディングアニメーション-"
         ],
         "relations": [
             "https://anilist.co/anime/130249",
-            "https://anilist.co/anime/133146"
-        ],
-        "tags": [
-            "female protagonist",
-            "music",
-            "primarily female cast",
-            "vtuber"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/44305"
-        ],
-        "title": "Monogatari wo kimi e. - Fukakai ni Q1 Ending Animation",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44305/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44305/tiny.jpg",
-        "synonyms": [
-            "物語を君へ。-不可解弐Q1 エンディングアニメーション-"
-        ],
-        "relations": [
+            "https://anilist.co/anime/133146",
+            "https://anime-planet.com/anime/monogatari-wo-kimi-e-fukaku-ni-q2-ending-animation",
             "https://kitsu.io/anime/44306",
             "https://kitsu.io/anime/44861"
         ],
         "tags": [
             "fantasy",
-            "music"
+            "female protagonist",
+            "music",
+            "primarily female cast",
+            "promotional",
+            "vtuber",
+            "vtubers"
         ],
         "date": {
             "season": "fall",

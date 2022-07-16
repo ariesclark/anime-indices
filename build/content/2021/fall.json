@@ -6727,6 +6727,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/149074",
             "https://kitsu.io/anime/45308"
         ],
         "title": "Little Bell and Ami’s Love Story",
@@ -6735,9 +6736,18 @@
         "status": "ongoing",
         "picture": "https://media.kitsu.io/anime/45308/poster_image/small-9c45cdfc41609ae1f1f0da46a1b3aa0a.jpeg",
         "thumbnail": "https://media.kitsu.io/anime/45308/poster_image/tiny-3eb30cb8aeea9cb9a884cf665ba1feca.jpeg",
-        "synonyms": [],
-        "relations": [],
+        "synonyms": [
+            "Asi Yu Xiao Liangdang",
+            "Little Bell and Ami's Love Story",
+            "阿巳与小铃铛"
+        ],
+        "relations": [
+            "https://anilist.co/anime/150580",
+            "https://anilist.co/anime/151634"
+        ],
         "tags": [
+            "comedy",
+            "full cgi",
             "romance"
         ],
         "date": {

@@ -6003,30 +6003,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/42674"
-        ],
-        "title": "Kotonoha Karma",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42674/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42674/tiny.jpg",
-        "synonyms": [
-            "Word Karma",
-            "rerulili: Kotonoha Karma",
-            "{\"rerulili\"=>\"Word Karma\"}"
-        ],
-        "relations": [],
-        "tags": [
-            "music"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/19193",
             "https://kitsu.io/anime/8182",
             "https://livechart.me/anime/339",
@@ -13574,6 +13550,33 @@
         "tags": [
             "abstract",
             "music"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/rerulili-kotonoha-karma",
+            "https://kitsu.io/anime/42674"
+        ],
+        "title": "rerulili: Kotonoha Karma",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/rerulili-kotonoha-karma-1.jpg?t=1625899097",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/rerulili-kotonoha-karma-1-190x266.jpg?t=1625899097",
+        "synonyms": [
+            "Kotonoha Karma",
+            "Word Karma",
+            "rerulili: Word Karma",
+            "{\"rerulili\"=>\"Word Karma\"}"
+        ],
+        "relations": [],
+        "tags": [
+            "music",
+            "vocaloid"
         ],
         "date": {
             "season": "spring",
