@@ -8270,6 +8270,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/140028",
             "https://kitsu.io/anime/44965"
         ],
         "title": "O'sumo-san",
@@ -8279,6 +8280,8 @@
         "picture": "https://media.kitsu.io/anime/poster_images/44965/small.jpg",
         "thumbnail": "https://media.kitsu.io/anime/poster_images/44965/tiny.jpg",
         "synonyms": [
+            "Osumo-san",
+            "Osumou-san",
             "Sumo Wrestler",
             "おすもうさん"
         ],
@@ -8571,30 +8574,6 @@
             "fantasy",
             "kids",
             "mystery"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/140028"
-        ],
-        "title": "Osumo-san",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140028-O3pFD04rdSI4.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140028-O3pFD04rdSI4.png",
-        "synonyms": [
-            "Osumou-san",
-            "Sumo Wrestler",
-            "おすもうさん"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy"
         ],
         "date": {
             "season": "summer",
@@ -9637,35 +9616,6 @@
             "school life",
             "short episodes",
             "slice of life"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/137537"
-        ],
-        "title": "Rick and Morty: Summer Meets God",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137537-SNLhwNOVQ5pF.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137537-SNLhwNOVQ5pF.png",
-        "synonyms": [
-            "Rick and Morty",
-            "Summer Meets God (Rick Meets Evil)",
-            "リック・アンド・モーティ サマー・ミーツ・ゴッド"
-        ],
-        "relations": [
-            "https://anilist.co/anime/150103"
-        ],
-        "tags": [
-            "action",
-            "robots",
-            "sci-fi",
-            "space"
         ],
         "date": {
             "season": "summer",
@@ -11207,37 +11157,9 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/137537",
+            "https://anime-planet.com/anime/summer-meets-god-rick-meets-evil",
             "https://kitsu.io/anime/44949"
-        ],
-        "title": "Summer Meets God",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/44949/poster_image/small-d965d99f8643954dcebd2cc731c70849.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/44949/poster_image/tiny-64ac6fb3c69ccaaadffd630adc40e7ed.jpeg",
-        "synonyms": [
-            "Rick and Morty: Summer Meets God (Rick Meets Evil)"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/43091",
-            "https://kitsu.io/anime/43455",
-            "https://kitsu.io/anime/45317"
-        ],
-        "tags": [
-            "action",
-            "anime influenced",
-            "comedy",
-            "mecha",
-            "science fiction"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/summer-meets-god-rick-meets-evil"
         ],
         "title": "Summer Meets God (Rick Meets Evil)",
         "type": "ona",
@@ -11245,18 +11167,33 @@
         "status": "finished",
         "picture": "https://cdn.anime-planet.com/anime/primary/summer-meets-god-rick-meets-evil-1.webp?t=1632813761",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/summer-meets-god-rick-meets-evil-1-285x400.webp?t=1632813761",
-        "synonyms": [],
+        "synonyms": [
+            "Rick and Morty",
+            "Rick and Morty: Summer Meets God",
+            "Rick and Morty: Summer Meets God (Rick Meets Evil)",
+            "Summer Meets God",
+            "リック・アンド・モーティ サマー・ミーツ・ゴッド"
+        ],
         "relations": [
+            "https://anilist.co/anime/150103",
             "https://anime-planet.com/anime/rick-and-morty-samurai-and-shogun",
             "https://anime-planet.com/anime/rick-and-morty-the-great-yokai-battle-of-akihabara",
-            "https://anime-planet.com/anime/rick-and-morty-vs-genocider"
+            "https://anime-planet.com/anime/rick-and-morty-vs-genocider",
+            "https://kitsu.io/anime/43091",
+            "https://kitsu.io/anime/43455",
+            "https://kitsu.io/anime/45317"
         ],
         "tags": [
             "action",
+            "anime influenced",
             "based on a cartoon",
             "comedy",
+            "mecha",
             "robots",
-            "sci fi"
+            "sci fi",
+            "sci-fi",
+            "science fiction",
+            "space"
         ],
         "date": {
             "season": "summer",
@@ -14170,6 +14107,7 @@
             "https://anilist.co/anime/138880",
             "https://anime-planet.com/anime/eve-yuuseiboushi",
             "https://anisearch.com/anime/16590",
+            "https://kitsu.io/anime/45192",
             "https://myanimelist.net/anime/49838"
         ],
         "title": "Yuuseiboushi",
@@ -14186,6 +14124,7 @@
             "Living Idly and Dying as if Dreaming",
             "Yuseiboushi",
             "Yuu Nama Yume Shi",
+            "Yuusei Boushi",
             "Yūseibōshi",
             "ユウセイボウシ",
             "遊生夢死"

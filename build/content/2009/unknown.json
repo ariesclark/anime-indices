@@ -257,24 +257,27 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/45933",
+            "https://anime-planet.com/anime/chaoji-fangchengshi",
             "https://myanimelist.net/anime/52062"
         ],
         "title": "Chaoji Fangchengshi",
         "type": "tv",
-        "episodes": 38,
+        "episodes": 20,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1598/124411.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1598/124411t.jpg",
         "synonyms": [
             "Formula-X",
-            "超级方程式",
             "超级方程式 第一季"
         ],
-        "relations": [],
+        "relations": [
+            "https://anime-planet.com/anime/chaoji-fangchengshi-2nd-season"
+        ],
         "tags": [
-            "kids",
-            "racing"
+            "cg animation",
+            "chinese animation",
+            "racing",
+            "sports"
         ],
         "date": {
             "season": "unknown",

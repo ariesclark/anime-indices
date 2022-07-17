@@ -1825,31 +1825,8 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/41855"
-        ],
-        "title": "Pocket Monsters, Fall Special!",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/41855/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/41855/tiny.jpg",
-        "synonyms": [
-            "ポケットモンスター・秋のスペシャル！"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/486"
-        ],
-        "tags": [
-            "kids"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 1997
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/pokemon-fall-special",
+            "https://kitsu.io/anime/41855",
             "https://myanimelist.net/anime/37865"
         ],
         "title": "Pokemon: Aki no Special",
@@ -1862,10 +1839,12 @@
             "Pocket Monsters, Fall Special!",
             "Pokemon Recap",
             "Pokemon: Fall Special",
-            "ポケットモンスター・秋のスペシャル"
+            "ポケットモンスター・秋のスペシャル",
+            "ポケットモンスター・秋のスペシャル！"
         ],
         "relations": [
             "https://anime-planet.com/anime/pokemon",
+            "https://kitsu.io/anime/486",
             "https://myanimelist.net/anime/31750",
             "https://myanimelist.net/anime/527"
         ],

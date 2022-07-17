@@ -3081,6 +3081,7 @@
         "sources": [
             "https://anilist.co/anime/105858",
             "https://anime-planet.com/anime/waaah",
+            "https://kitsu.io/anime/41753",
             "https://myanimelist.net/anime/38727"
         ],
         "title": "Een",
@@ -3091,11 +3092,13 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1185/108018t.jpg",
         "synonyms": [
             "WAAAH",
+            "Waaah",
             "えーん"
         ],
         "relations": [],
         "tags": [
             "avant garde",
+            "dementia",
             "rotoscoping",
             "shorts"
         ],
@@ -9204,6 +9207,7 @@
     {
         "sources": [
             "https://anime-planet.com/anime/nikuiyo-galbi-kun-kemuri-ga-me-ni-shimiru",
+            "https://kitsu.io/anime/41735",
             "https://myanimelist.net/anime/37144"
         ],
         "title": "Nikuiyo! Galbi-kun: Kemuri ga Me ni Shimiru",
@@ -9226,26 +9230,6 @@
             "non-human protagonists",
             "short episodes"
         ],
-        "date": {
-            "season": "winter",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/41735"
-        ],
-        "title": "Nikuiyo! Galbi-kun: Kemuri ga Me ni Shimiru",
-        "type": "special",
-        "episodes": 5,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/41735/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/41735/tiny.jpg",
-        "synonyms": [
-            "ニクいよっ！カルビくん～煙が目にしみる～"
-        ],
-        "relations": [],
-        "tags": [],
         "date": {
             "season": "winter",
             "year": 2018
@@ -11070,20 +11054,24 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/ryuoo-ski-park-cm",
             "https://kitsu.io/anime/43363"
         ],
         "title": "Ryuoo Ski Park CM",
-        "type": "ona",
+        "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/43363/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/43363/tiny.jpg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/ryuoo-ski-park-cm-1.jpg?t=1625907783",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/ryuoo-ski-park-cm-1-190x266.jpg?t=1625907783",
         "synonyms": [
             "竜王スキーパーク"
         ],
         "relations": [],
         "tags": [
-            "music"
+            "commercials",
+            "dancing",
+            "music",
+            "promotional"
         ],
         "date": {
             "season": "winter",

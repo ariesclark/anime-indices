@@ -4132,7 +4132,9 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/3744"
+            "https://anilist.co/anime/4695",
+            "https://kitsu.io/anime/3744",
+            "https://notify.moe/anime/FTn95KmmR"
         ],
         "title": "Saikano Special",
         "type": "special",
@@ -4140,12 +4142,22 @@
         "status": "finished",
         "picture": "https://media.kitsu.io/anime/poster_images/3744/small.jpg",
         "thumbnail": "https://media.kitsu.io/anime/poster_images/3744/tiny.jpg",
-        "synonyms": [],
-        "relations": [],
+        "synonyms": [
+            "Saishuu Heiki Kanojo Special",
+            "Saishuuheiki Kanojo Special",
+            "She, the Ultimate Weapon Special",
+            "最終兵器彼女"
+        ],
+        "relations": [
+            "https://anilist.co/anime/529",
+            "https://notify.moe/anime/eU1o5Fiig"
+        ],
         "tags": [
             "drama",
             "romance",
+            "school",
             "school life",
+            "sci-fi",
             "science fiction"
         ],
         "date": {
@@ -4262,38 +4274,6 @@
             "super power",
             "superpowers",
             "violence"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2002
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/4695",
-            "https://notify.moe/anime/FTn95KmmR"
-        ],
-        "title": "Saishuu Heiki Kanojo Special",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4695.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4695.jpg",
-        "synonyms": [
-            "Saikano Special",
-            "Saishuuheiki Kanojo Special",
-            "She, the Ultimate Weapon Special",
-            "最終兵器彼女"
-        ],
-        "relations": [
-            "https://anilist.co/anime/529",
-            "https://notify.moe/anime/eU1o5Fiig"
-        ],
-        "tags": [
-            "drama",
-            "romance",
-            "school",
-            "sci-fi"
         ],
         "date": {
             "season": "fall",

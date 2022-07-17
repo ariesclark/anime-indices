@@ -4647,6 +4647,37 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/hitoshizuku-p-x-yama-vampires-pathos",
+            "https://kitsu.io/anime/44499"
+        ],
+        "title": "Hitoshizuku-P x Yama△: Vampire’s ∞ pathoS",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/hitoshizuku-p-x-yama-vampires-pathos-1.jpg?t=1625907370",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/hitoshizuku-p-x-yama-vampires-pathos-1-190x266.jpg?t=1625907370",
+        "synonyms": [
+            "Vampire’s ∞ pathoS"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/hitoshizuku-p-yama-sisters-mercy",
+            "https://kitsu.io/anime/42298"
+        ],
+        "tags": [
+            "action",
+            "music",
+            "supernatural",
+            "vampire",
+            "vampires",
+            "vocaloid"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/honeyworks-getsuyoubi-no-yuuutsu",
             "https://kitsu.io/anime/44477"
         ],
@@ -9210,6 +9241,8 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/112152",
+            "https://anisearch.com/anime/15239",
             "https://kitsu.io/anime/43272"
         ],
         "title": "Pokémon Masters | Trailer",
@@ -9219,17 +9252,30 @@
         "picture": "https://media.kitsu.io/anime/poster_images/43272/small.jpg",
         "thumbnail": "https://media.kitsu.io/anime/poster_images/43272/tiny.jpg",
         "synonyms": [
+            "Pocket Monsters Masters Special Video",
             "Pokemon Masters: Trainers Great Gathering Special Animation",
             "Pokemon masutazu",
             "Pokémon Masters Animated Trailer",
+            "Pokémon Masters Trailer",
+            "Pokémon Masters: Trainer Daishuuketsu Special Animation",
+            "Pokémon Masters: Trainer Daishūketsu Special Animation",
             "『ポケモンマスターズ』トレーナー大集結スペシャルアニメーション",
-            "ポケモンマスターズ"
+            "ポケモンマスターズ",
+            "ポケモンマスターズ トレーナー大集結スペシャルアニメーション"
         ],
-        "relations": [],
+        "relations": [
+            "https://anilist.co/anime/527",
+            "https://anisearch.com/anime/3139"
+        ],
         "tags": [
+            "action",
             "adventure",
+            "advertisement",
+            "animals",
+            "fantasy",
             "kids",
-            "proxy battles"
+            "proxy battles",
+            "shounen"
         ],
         "date": {
             "season": "summer",
@@ -11410,35 +11456,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/42440"
-        ],
-        "title": "Tenki no Ko CMs",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42440/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42440/tiny.jpg",
-        "synonyms": [
-            "Ame ga Suki-hen",
-            "Suntory Tennensui Tenki no Ko",
-            "Tenki no Ko x Baitoru",
-            "天気の子 CMs"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/42028"
-        ],
-        "tags": [
-            "music",
-            "slice of life",
-            "the arts"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/14526",
             "https://anilist.co/anime/106509",
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-ova",
@@ -12272,33 +12289,6 @@
         "tags": [
             "comedy",
             "mahou shoujo"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/44499"
-        ],
-        "title": "Vampire’s ∞ pathoS",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44499/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44499/tiny.jpg",
-        "synonyms": [
-            "Hitoshizuku-P x Yama△: Vampire’s ∞ pathoS"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/42298"
-        ],
-        "tags": [
-            "action",
-            "music",
-            "supernatural",
-            "vampire"
         ],
         "date": {
             "season": "summer",

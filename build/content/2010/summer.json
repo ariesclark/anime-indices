@@ -8045,33 +8045,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/42233"
-        ],
-        "title": "Venomania-kou no Kyouki",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42233/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42233/tiny.jpg",
-        "synonyms": [
-            "The Lunacy of Duke Venomania",
-            "mothy: The Lunacy of Duke Venomania",
-            "mothy: Venomania-kou no Kyouki",
-            "ヴェノマニア公の狂気"
-        ],
-        "relations": [],
-        "tags": [
-            "harem",
-            "music",
-            "the arts"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/14755"
         ],
         "title": "Vroom! Vroom! Vroomiz",
@@ -8667,6 +8640,37 @@
             "sci-fi",
             "science-fiction",
             "super power"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/mothy-venomania-kou-no-kyouki",
+            "https://kitsu.io/anime/42233"
+        ],
+        "title": "mothy: Venomania-kou no Kyouki",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/mothy-venomania-kou-no-kyouki-1.jpg?t=1625898888",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/mothy-venomania-kou-no-kyouki-1-190x266.jpg?t=1625898888",
+        "synonyms": [
+            "The Lunacy of Duke Venomania",
+            "Venomania-kou no Kyouki",
+            "mothy: The Lunacy of Duke Venomania",
+            "ヴェノマニア公の狂気"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/mothy-nanatsu-no-tsumi-to-batsu"
+        ],
+        "tags": [
+            "harem",
+            "music",
+            "the arts",
+            "vocaloid"
         ],
         "date": {
             "season": "summer",

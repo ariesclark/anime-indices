@@ -13629,18 +13629,23 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/43646"
+            "https://anime-planet.com/anime/yokomin-your-master",
+            "https://kitsu.io/anime/42192"
         ],
-        "title": "Yokohama-shi Collaboration CM",
-        "type": "ona",
+        "title": "Yokomin: Your Master!!",
+        "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/43646/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/43646/tiny.jpg",
-        "synonyms": [],
+        "picture": "https://cdn.anime-planet.com/anime/primary/yokomin-your-master-1.jpg?t=1625898746",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/yokomin-your-master-1-190x266.jpg?t=1625898746",
+        "synonyms": [
+            "Your Master!!"
+        ],
         "relations": [],
         "tags": [
-            "music"
+            "music",
+            "the arts",
+            "vocaloid"
         ],
         "date": {
             "season": "summer",
@@ -13681,29 +13686,6 @@
             "romance",
             "royalty",
             "shoujo"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/42192"
-        ],
-        "title": "Your Master!!",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42192/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42192/tiny.jpg",
-        "synonyms": [
-            "Yokomin: Your Master!!"
-        ],
-        "relations": [],
-        "tags": [
-            "music",
-            "the arts"
         ],
         "date": {
             "season": "summer",

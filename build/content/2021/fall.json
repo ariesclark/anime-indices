@@ -9043,7 +9043,8 @@
     {
         "sources": [
             "https://anilist.co/anime/143287",
-            "https://anime-planet.com/anime/rick-and-morty-the-great-yokai-battle-of-akihabara"
+            "https://anime-planet.com/anime/rick-and-morty-the-great-yokai-battle-of-akihabara",
+            "https://kitsu.io/anime/45317"
         ],
         "title": "Rick and Morty: The Great Yokai Battle of Akihabara",
         "type": "ona",
@@ -9053,6 +9054,7 @@
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/rick-and-morty-the-great-yokai-battle-of-akihabara-1-285x398.webp?t=1637878069",
         "synonyms": [
             "Rick and Morty: Akihabara Dai Kessen",
+            "The Great Yokai Battle of Akihabara",
             "リック・アンド・モーティ 秋葉原大決戦"
         ],
         "relations": [
@@ -9060,14 +9062,20 @@
             "https://anime-planet.com/anime/rick-and-morty",
             "https://anime-planet.com/anime/rick-and-morty-samurai-and-shogun",
             "https://anime-planet.com/anime/rick-and-morty-vs-genocider",
-            "https://anime-planet.com/anime/summer-meets-god-rick-meets-evil"
+            "https://anime-planet.com/anime/summer-meets-god-rick-meets-evil",
+            "https://kitsu.io/anime/43091",
+            "https://kitsu.io/anime/43455",
+            "https://kitsu.io/anime/44949"
         ],
         "tags": [
+            "action",
+            "anime influenced",
             "based on a cartoon",
             "cg animation",
             "comedy",
             "full cgi",
             "mecha",
+            "science fiction",
             "shorts",
             "super robot",
             "youkai"
@@ -11492,33 +11500,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/45317"
-        ],
-        "title": "The Great Yokai Battle of Akihabara",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45317/poster_image/small-ff1e0891db8f03d6eb5df16968f4abe7.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45317/poster_image/tiny-bbd741b51101fab9b7f934b4d820d5eb.jpeg",
-        "synonyms": [],
-        "relations": [
-            "https://kitsu.io/anime/43091",
-            "https://kitsu.io/anime/43455",
-            "https://kitsu.io/anime/44949"
-        ],
-        "tags": [
-            "action",
-            "anime influenced",
-            "comedy",
-            "science fiction"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/142020",
             "https://anime-planet.com/anime/koko-the-last-bullet",
             "https://kitsu.io/anime/45877",
@@ -13262,31 +13243,6 @@
             "slice of life",
             "tragedy",
             "yandere"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/45192"
-        ],
-        "title": "Yuusei Boushi",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/45192/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/45192/tiny.jpg",
-        "synonyms": [
-            "ユウセイボウシ",
-            "遊生夢死"
-        ],
-        "relations": [],
-        "tags": [
-            "music",
-            "psychological",
-            "supernatural"
         ],
         "date": {
             "season": "fall",

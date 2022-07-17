@@ -13010,48 +13010,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/the-god-of-high-school-pv",
-            "https://anisearch.com/anime/16971",
-            "https://myanimelist.net/anime/42893",
-            "https://notify.moe/anime/TLGVEw2Gg"
-        ],
-        "title": "The God of Highschool",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1630/109645.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1630/109645t.jpg",
-        "synonyms": [
-            "The God of High School",
-            "The God of High School PV",
-            "갓 오브 하이스쿨 PV",
-            "갓오브하이스쿨",
-            "갓오브하이스쿨 PV"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/the-god-of-high-school",
-            "https://myanimelist.net/anime/41353",
-            "https://notify.moe/anime/M-HaJNeZR"
-        ],
-        "tags": [
-            "action",
-            "based on a webtoon",
-            "fantasy",
-            "hand to hand combat",
-            "korean animation",
-            "martial arts",
-            "promotional",
-            "sci-fi",
-            "supernatural",
-            "superpowers"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/tobidase-buddy-kun",
             "https://kitsu.io/anime/40761",
             "https://myanimelist.net/anime/35453",
@@ -13669,6 +13627,8 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/violet-evergarden-pv",
+            "https://kitsu.io/anime/43347",
             "https://myanimelist.net/anime/42166"
         ],
         "title": "Violet Evergarden CM",
@@ -13678,38 +13638,21 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1284/108546.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1284/108546t.jpg",
         "synonyms": [
+            "Violet Evergarden PV",
+            "「ヴァイオレット・エヴァーガーデン」",
             "ヴァイオレット・エヴァーガーデン"
         ],
         "relations": [
+            "https://anime-planet.com/anime/violet-evergarden",
+            "https://kitsu.io/anime/12230",
             "https://myanimelist.net/anime/33352"
         ],
         "tags": [
-            "fantasy"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/43347"
-        ],
-        "title": "Violet Evergarden CM",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/43347/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/43347/tiny.jpg",
-        "synonyms": [
-            "「ヴァイオレット・エヴァーガーデン」"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/12230"
-        ],
-        "tags": [
+            "based on a light novel",
+            "commercials",
             "drama",
             "fantasy",
+            "promotional",
             "slice of life",
             "working life"
         ],

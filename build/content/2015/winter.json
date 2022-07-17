@@ -35,6 +35,7 @@
     {
         "sources": [
             "https://anime-planet.com/anime/40meterp-snow-fairy-story",
+            "https://kitsu.io/anime/13355",
             "https://notify.moe/anime/q_hnhFiiR"
         ],
         "title": "40meterP: Snow Fairy Story",
@@ -3734,6 +3735,39 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/hitoshizuku-p-x-yama-twilight-night",
+            "https://kitsu.io/anime/44334"
+        ],
+        "title": "Hitoshizuku-P x Yama△: Twilight ∞ nighT",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/hitoshizuku-p-x-yama-twilight-night-1.jpg?t=1625907385",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/hitoshizuku-p-x-yama-twilight-night-1-190x266.jpg?t=1625907385",
+        "synonyms": [
+            "Twilight ∞ nighT"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/hitoshizuku-p-x-yama-crazy-night",
+            "https://anime-planet.com/anime/hitoshizuku-p-x-yama-ever-lasting-night",
+            "https://kitsu.io/anime/44327",
+            "https://kitsu.io/anime/44329",
+            "https://kitsu.io/anime/44335"
+        ],
+        "tags": [
+            "horror",
+            "music",
+            "mystery",
+            "psychological",
+            "vocaloid"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/10648",
             "https://anilist.co/anime/20724",
             "https://anime-planet.com/anime/chaika-the-coffin-princess-ova",
@@ -6924,33 +6958,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/42301"
-        ],
-        "title": "Nanatsu no Tsumi to Batsu",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42301/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42301/tiny.jpg",
-        "synonyms": [
-            "Seven Crimes and Punishments",
-            "mothy: Nanatsu no Tsumi to Batsu",
-            "mothy: Seven Crimes and Punishments",
-            "七つの罪と罰"
-        ],
-        "relations": [],
-        "tags": [
-            "crime",
-            "law and order",
-            "music"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/102778",
             "https://kitsu.io/anime/13137",
             "https://myanimelist.net/anime/34500",
@@ -9710,28 +9717,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/13355"
-        ],
-        "title": "Snow Fairy Story",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/13355/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/13355/tiny.jpg",
-        "synonyms": [
-            "40meterP: Snow Fairy Story"
-        ],
-        "relations": [],
-        "tags": [
-            "music"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/10062"
         ],
         "title": "Soko kara no Ashita.",
@@ -10889,35 +10874,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/44334"
-        ],
-        "title": "Twilight ∞ nighT",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44334/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44334/tiny.jpg",
-        "synonyms": [
-            "Hitoshizuku-P x Yama△: Twilight ∞ nighT"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/44327",
-            "https://kitsu.io/anime/44329",
-            "https://kitsu.io/anime/44335"
-        ],
-        "tags": [
-            "horror",
-            "music",
-            "mystery",
-            "psychological"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/14723"
         ],
         "title": "Upin & Ipin Musim 9",
@@ -12023,6 +11979,43 @@
         "relations": [],
         "tags": [
             "psychological"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/mothy-nanatsu-no-tsumi-to-batsu",
+            "https://kitsu.io/anime/42301"
+        ],
+        "title": "mothy: Nanatsu no Tsumi to Batsu",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/mothy-nanatsu-no-tsumi-to-batsu-1.jpg?t=1625898884",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/mothy-nanatsu-no-tsumi-to-batsu-1-190x266.jpg?t=1625898884",
+        "synonyms": [
+            "Nanatsu no Tsumi to Batsu",
+            "Seven Crimes and Punishments",
+            "mothy: Seven Crimes and Punishments",
+            "七つの罪と罰"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/mothy-akujiki-musume-conchita",
+            "https://anime-planet.com/anime/mothy-akutoku-no-judgment",
+            "https://anime-planet.com/anime/mothy-enbizaka-no-shitateya",
+            "https://anime-planet.com/anime/mothy-last-revolver",
+            "https://anime-planet.com/anime/mothy-nemesis-no-juukou",
+            "https://anime-planet.com/anime/mothy-nemurase-hime-kara-no-okurimono",
+            "https://anime-planet.com/anime/mothy-venomania-kou-no-kyouki"
+        ],
+        "tags": [
+            "crime",
+            "law and order",
+            "music",
+            "vocaloid"
         ],
         "date": {
             "season": "winter",

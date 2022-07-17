@@ -9509,29 +9509,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/42506"
-        ],
-        "title": "Osaka Underground",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42506/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42506/tiny.jpg",
-        "synonyms": [
-            "out of service: Osaka Underground",
-            "大阪アンダーグラウンド"
-        ],
-        "relations": [],
-        "tags": [
-            "music"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/10848",
             "https://anilist.co/anime/20855",
             "https://anime-planet.com/anime/bottom-biting-bug-3",
@@ -10182,6 +10159,43 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/qi-qi-miao-le-xing",
+            "https://kitsu.io/anime/41852",
+            "https://myanimelist.net/anime/49992"
+        ],
+        "title": "Qi Qi Miao Le Xing",
+        "type": "tv",
+        "episodes": 12,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1363/118477.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1363/118477t.jpg",
+        "synonyms": [
+            "Miao Le Xing",
+            "Miracle Star",
+            "Qíjī xīng",
+            "Wonderful Music Star",
+            "奇奇妙乐星",
+            "奇蹟星"
+        ],
+        "relations": [],
+        "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
+            "comedy",
+            "frogs",
+            "kids",
+            "non-human protagonists",
+            "school",
+            "school life"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/13026",
             "https://notify.moe/anime/GCzQpKimR"
         ],
@@ -10309,27 +10323,6 @@
             "novel",
             "wuxia"
         ],
-        "date": {
-            "season": "fall",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/41852"
-        ],
-        "title": "Qíjī xīng",
-        "type": "tv",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/41852/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/41852/tiny.jpg",
-        "synonyms": [
-            "Miracle Star",
-            "奇蹟星"
-        ],
-        "relations": [],
-        "tags": [],
         "date": {
             "season": "fall",
             "year": 2014
@@ -15079,6 +15072,31 @@
             "sci-fi",
             "science fiction",
             "science-fiction"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/out-of-service-osaka-underground",
+            "https://kitsu.io/anime/42506"
+        ],
+        "title": "out of service: Osaka Underground",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/out-of-service-osaka-underground-1.jpg?t=1625898752",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/out-of-service-osaka-underground-1-190x266.jpg?t=1625898752",
+        "synonyms": [
+            "Osaka Underground",
+            "大阪アンダーグラウンド"
+        ],
+        "relations": [],
+        "tags": [
+            "music",
+            "vocaloid"
         ],
         "date": {
             "season": "fall",

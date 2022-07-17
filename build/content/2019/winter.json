@@ -9852,6 +9852,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/110619",
             "https://kitsu.io/anime/42500"
         ],
         "title": "Pili Fantasy: War of Dragons",
@@ -9860,43 +9861,20 @@
         "status": "finished",
         "picture": "https://media.kitsu.io/anime/poster_images/42500/small.jpg",
         "thumbnail": "https://media.kitsu.io/anime/poster_images/42500/tiny.jpg",
-        "synonyms": [],
+        "synonyms": [
+            "PILI Fantasy: War of Dragons",
+            "Pili Yingxiong Zhan Ji: Dao Shuo Yi Shu",
+            "霹靂英雄戰紀之刀說異數"
+        ],
         "relations": [
+            "https://anilist.co/anime/98143",
             "https://kitsu.io/anime/11838"
         ],
         "tags": [
             "action",
             "adventure",
-            "dragon",
-            "fantasy",
-            "martial arts",
-            "swordplay"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/110619"
-        ],
-        "title": "Pili Yingxiong Zhan Ji: Dao Shuo Yi Shu",
-        "type": "tv",
-        "episodes": 20,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110619-595QgUxwGUYC.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110619-595QgUxwGUYC.png",
-        "synonyms": [
-            "PILI Fantasy: War of Dragons",
-            "霹靂英雄戰紀之刀說異數"
-        ],
-        "relations": [
-            "https://anilist.co/anime/98143"
-        ],
-        "tags": [
-            "action",
             "demons",
+            "dragon",
             "dragons",
             "drama",
             "ensemble cast",
@@ -12822,21 +12800,24 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/usb-lighter-jii-cm",
             "https://kitsu.io/anime/44442"
         ],
-        "title": "USB Lighter",
+        "title": "USB Lighter - Jii CM",
         "type": "special",
         "episodes": 5,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44442/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44442/tiny.jpg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/usb-lighter-jii-cm-1.jpg?t=1625908055",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/usb-lighter-jii-cm-1-190x266.jpg?t=1625908055",
         "synonyms": [
-            "USB Lighter - Jii CM",
+            "USB Lighter",
             "新型Jii"
         ],
         "relations": [],
         "tags": [
-            "comedy"
+            "comedy",
+            "commercials",
+            "short episodes"
         ],
         "date": {
             "season": "winter",

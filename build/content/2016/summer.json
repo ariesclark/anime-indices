@@ -3380,6 +3380,7 @@
     {
         "sources": [
             "https://anidb.net/anime/15151",
+            "https://anime-planet.com/anime/dou-long-zhanshi-4",
             "https://myanimelist.net/anime/44445"
         ],
         "title": "Dou Long Zhanshi 4: Shuanglong He",
@@ -3389,17 +3390,28 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1691/122897.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1691/122897t.jpg",
         "synonyms": [
+            "Dou Long Zhanshi 4",
             "Dou Long Zhanshi 4 Shuanglong He",
+            "Dragon Warrior 4",
             "斗龙战士4 双龙核",
             "斗龙战士4双龙核"
         ],
         "relations": [
             "https://anidb.net/anime/15150",
             "https://anidb.net/anime/15152",
+            "https://anime-planet.com/anime/dou-long-zhanshi",
+            "https://anime-planet.com/anime/dou-long-zhanshi-2",
+            "https://anime-planet.com/anime/dou-long-zhanshi-3",
+            "https://anime-planet.com/anime/dou-long-zhanshi-5",
+            "https://anime-planet.com/anime/dou-long-zhanshi-movie",
             "https://myanimelist.net/anime/44444",
             "https://myanimelist.net/anime/44446"
         ],
         "tags": [
+            "action",
+            "cg animation",
+            "chinese animation",
+            "fantasy",
             "kids",
             "mecha",
             "sci-fi"
@@ -9261,58 +9273,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/12574"
-        ],
-        "title": "Nineko Gelée",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/12574/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/12574/tiny.jpg",
-        "synonyms": [
-            "Gelee",
-            "Runnin' Away Gelée",
-            "逃猫ジュレ"
-        ],
-        "relations": [],
-        "tags": [
-            "fantasy",
-            "music"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/98902",
-            "https://notify.moe/anime/HkMihKmmR"
-        ],
-        "title": "Nineko Gelée: Opening Movie",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98902-wEUbDwSDSd4V.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98902-wEUbDwSDSd4V.png",
-        "synonyms": [
-            "Gelee",
-            "Runnin' Away Gelée",
-            "「逃猫ジュレ」オープニングムービー"
-        ],
-        "relations": [],
-        "tags": [
-            "fantasy",
-            "music",
-            "nekomimi"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/nishitesu-cms",
             "https://kitsu.io/anime/41736"
         ],
@@ -13454,23 +13414,45 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/42547"
+            "https://anime-planet.com/anime/the-god-of-high-school-pv",
+            "https://anisearch.com/anime/16971",
+            "https://kitsu.io/anime/42547",
+            "https://myanimelist.net/anime/42893",
+            "https://notify.moe/anime/TLGVEw2Gg"
         ],
-        "title": "The God of High School Preview",
+        "title": "The God of Highschool",
         "type": "ona",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42547/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42547/tiny.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1630/109645.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1630/109645t.jpg",
         "synonyms": [
-            "갓 오브 하이스쿨"
+            "The God of High School",
+            "The God of High School PV",
+            "The God of High School Preview",
+            "갓 오브 하이스쿨",
+            "갓 오브 하이스쿨 PV",
+            "갓오브하이스쿨",
+            "갓오브하이스쿨 PV"
         ],
-        "relations": [],
+        "relations": [
+            "https://anime-planet.com/anime/the-god-of-high-school",
+            "https://myanimelist.net/anime/41353",
+            "https://notify.moe/anime/M-HaJNeZR"
+        ],
         "tags": [
             "action",
             "anime influenced",
+            "based on a webtoon",
             "fantasy",
-            "school life"
+            "hand to hand combat",
+            "korean animation",
+            "martial arts",
+            "promotional",
+            "school life",
+            "sci-fi",
+            "supernatural",
+            "superpowers"
         ],
         "date": {
             "season": "summer",

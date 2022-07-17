@@ -10446,7 +10446,8 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/rick-and-morty-samurai-and-shogun"
+            "https://anime-planet.com/anime/rick-and-morty-samurai-and-shogun",
+            "https://kitsu.io/anime/43091"
         ],
         "title": "Rick and Morty: Samurai & Shogun",
         "type": "ona",
@@ -10454,19 +10455,32 @@
         "status": "finished",
         "picture": "https://cdn.anime-planet.com/anime/primary/rick-and-morty-samurai-and-shogun-1.jpg?t=1625908232",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/rick-and-morty-samurai-and-shogun-1-190x266.jpg?t=1625908232",
-        "synonyms": [],
+        "synonyms": [
+            "Rick & Morty: Samurai & Shogun",
+            "Rick and Morty - Samurai and Shogun",
+            "Samurai & Shogun"
+        ],
         "relations": [
             "https://anime-planet.com/anime/rick-and-morty-the-great-yokai-battle-of-akihabara",
             "https://anime-planet.com/anime/rick-and-morty-vs-genocider",
-            "https://anime-planet.com/anime/summer-meets-god-rick-meets-evil"
+            "https://anime-planet.com/anime/summer-meets-god-rick-meets-evil",
+            "https://kitsu.io/anime/43455",
+            "https://kitsu.io/anime/44949",
+            "https://kitsu.io/anime/45317"
         ],
         "tags": [
             "action",
+            "anime influenced",
             "based on a cartoon",
             "cg animation",
+            "historical",
+            "ninja",
             "samurai",
             "sci fi",
-            "short episodes"
+            "science fiction",
+            "short episodes",
+            "swordplay",
+            "violence"
         ],
         "date": {
             "season": "winter",

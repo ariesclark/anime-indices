@@ -3695,6 +3695,32 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/giga-p-rettou-joutou",
+            "https://kitsu.io/anime/42234"
+        ],
+        "title": "Giga-P: Rettou Joutou",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/giga-p-rettou-joutou-1.jpg?t=1625898840",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/giga-p-rettou-joutou-1-190x266.jpg?t=1625898840",
+        "synonyms": [
+            "BRING IT ON",
+            "Giga-P: BRING IT ON",
+            "Rettou Joutou",
+            "劣等上等"
+        ],
+        "relations": [],
+        "tags": [
+            "vocaloid"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/13917",
             "https://anilist.co/anime/101925",
             "https://anime-planet.com/anime/gintama-shirogane-no-tamashii-hen-2",
@@ -9327,7 +9353,8 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/41452"
+            "https://kitsu.io/anime/41452",
+            "https://notify.moe/anime/4Z--DfDiR"
         ],
         "title": "One Room 2 Episode 0",
         "type": "special",
@@ -9337,14 +9364,18 @@
         "thumbnail": "https://media.kitsu.io/anime/poster_images/41452/tiny.jpg",
         "synonyms": [
             "Hanasaka Yui's Prologue",
+            "One Room 2nd Season Episode 0",
             "One Room 第2期"
         ],
         "relations": [
             "https://kitsu.io/anime/12758",
             "https://kitsu.io/anime/13905",
-            "https://kitsu.io/anime/42466"
+            "https://kitsu.io/anime/42466",
+            "https://notify.moe/anime/588ShFmmR",
+            "https://notify.moe/anime/jTrmhFimg"
         ],
         "tags": [
+            "romance",
             "slice of life"
         ],
         "date": {
@@ -9439,8 +9470,7 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/38061",
-            "https://notify.moe/anime/4Z--DfDiR"
+            "https://myanimelist.net/anime/38061"
         ],
         "title": "One Room Second Season: Hanasaka Yui no Prologue",
         "type": "special",
@@ -9449,25 +9479,20 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1473/93256.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1473/93256t.jpg",
         "synonyms": [
-            "Hanasaka Yui's Prologue",
             "One Room 2nd Season Episode 0",
             "One Room 2nd Season: Hanasaka Yui no Prologue",
             "One Room 2nd Season: Hanasaka Yui's Prologue",
             "One Room Saison 2: Le prologue de Yui Hanasaka",
             "One Room Staffel 2: Folge 0 Hanasaki Yuis Prolog",
             "One Room Temporada 2: Prólogo de Yui",
-            "One Room セカンドシーズン　花坂結衣のプロローグ",
-            "One Room 第2期"
+            "One Room セカンドシーズン　花坂結衣のプロローグ"
         ],
         "relations": [
             "https://myanimelist.net/anime/34392",
             "https://myanimelist.net/anime/36431",
-            "https://myanimelist.net/anime/38789",
-            "https://notify.moe/anime/588ShFmmR",
-            "https://notify.moe/anime/jTrmhFimg"
+            "https://myanimelist.net/anime/38789"
         ],
         "tags": [
-            "romance",
             "slice of life"
         ],
         "date": {
@@ -10703,29 +10728,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/42234"
-        ],
-        "title": "Rettou Joutou",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/42234/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/42234/tiny.jpg",
-        "synonyms": [
-            "BRING IT ON",
-            "Giga-P: BRING IT ON",
-            "Giga-P: Rettou Joutou",
-            "劣等上等"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "summer",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/15210",
             "https://anilist.co/anime/104611",
             "https://anime-planet.com/anime/22-7-rikai-sha",
@@ -11208,6 +11210,37 @@
             "kids",
             "sci-fi",
             "science fiction"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/140615",
+            "https://anime-planet.com/anime/seikaku-henkou-school",
+            "https://kitsu.io/anime/43492"
+        ],
+        "title": "Seikaku Henkou School",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/seikaku-henkou-school-1.webp?t=1656458550",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/seikaku-henkou-school-1-285x399.webp?t=1656458550",
+        "synonyms": [
+            "Seikaku Henkou Sukuuru",
+            "The Body Swap Center",
+            "性格変更スクール"
+        ],
+        "relations": [],
+        "tags": [
+            "anthropomorphic",
+            "comedy",
+            "drama",
+            "non-human protagonists",
+            "science fiction",
+            "shorts"
         ],
         "date": {
             "season": "summer",
@@ -12136,38 +12169,6 @@
             "military",
             "mystery",
             "novel"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/43160"
-        ],
-        "title": "Sinbi Apateu: Geumbit Dokkaebiwa Bimirui Donggul",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/43160/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/43160/tiny.jpg",
-        "synonyms": [
-            "The Haunted House: The Secret of the Cave",
-            "신비아파트: 금빛 도깨비와 비밀의 동굴"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/43159",
-            "https://kitsu.io/anime/43161"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "comedy",
-            "horror",
-            "kids",
-            "mystery",
-            "supernatural"
         ],
         "date": {
             "season": "summer",
@@ -13189,7 +13190,8 @@
     {
         "sources": [
             "https://anime-planet.com/anime/the-haunted-house-the-secret-of-the-cave",
-            "https://anisearch.com/anime/14036"
+            "https://anisearch.com/anime/14036",
+            "https://kitsu.io/anime/43160"
         ],
         "title": "The Haunted House: The Secret of the Cave",
         "type": "movie",
@@ -13200,18 +13202,25 @@
         "synonyms": [
             "Mystery Apartment: The Secret of the Cave",
             "Sinbi Apartment: Geumbit Dokkaebiwa Bimirui Donggul",
+            "Sinbi Apateu: Geumbit Dokkaebiwa Bimirui Donggul",
             "신비아파트: 금빛 도깨비와 비밀의 동굴"
         ],
         "relations": [
             "https://anime-planet.com/anime/the-haunted-house-the-secret-of-the-ghost-ball",
             "https://anisearch.com/anime/14089",
-            "https://anisearch.com/anime/14203"
+            "https://anisearch.com/anime/14203",
+            "https://kitsu.io/anime/43159",
+            "https://kitsu.io/anime/43161"
         ],
         "tags": [
+            "action",
             "adventure",
+            "comedy",
             "family friendly",
             "horror",
+            "kids",
             "korean animation",
+            "mystery",
             "supernatural"
         ],
         "date": {
