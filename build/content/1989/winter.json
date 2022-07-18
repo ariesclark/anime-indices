@@ -1140,18 +1140,22 @@
     {
         "sources": [
             "https://kitsu.io/anime/9343",
+            "https://myanimelist.net/anime/26299",
             "https://notify.moe/anime/3W7fpFimg"
         ],
-        "title": "Inamuranohi",
+        "title": "Inamura no Hi (1989)",
         "type": "ova",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/9343/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/9343/tiny.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1948/99410.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1948/99410t.jpg",
         "synonyms": [
+            "Inamuranohi",
             "稲むらの火"
         ],
-        "relations": [],
+        "relations": [
+            "https://myanimelist.net/anime/39378"
+        ],
         "tags": [
             "drama",
             "historical",

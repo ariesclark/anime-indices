@@ -623,6 +623,8 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/13907",
+            "https://anilist.co/anime/116234",
             "https://kitsu.io/anime/44748",
             "https://myanimelist.net/anime/39426"
         ],
@@ -633,6 +635,8 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1786/99512.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1786/99512t.jpg",
         "synonyms": [
+            "Ganbare! Kozou no Koutsuuanzen Patrol Tai",
+            "がんばれ! 子象の交通安全パトロール隊",
             "がんばれ！子象の交通安全パトロール隊"
         ],
         "relations": [
@@ -640,10 +644,12 @@
             "https://myanimelist.net/anime/35147"
         ],
         "tags": [
+            "animals",
             "anthropomorphism",
             "drama",
             "educational",
-            "kids"
+            "kids",
+            "slice of life"
         ],
         "date": {
             "season": "winter",

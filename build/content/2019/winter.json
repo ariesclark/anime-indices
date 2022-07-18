@@ -514,20 +514,23 @@
     {
         "sources": [
             "https://anilist.co/anime/140575",
+            "https://anime-planet.com/anime/ano-natsu-ni-futari-de-ita",
             "https://kitsu.io/anime/45383"
         ],
         "title": "Ano Natsu ni Futari de Ita",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45383/poster_image/small-ee7d6e46f4fce324bc8f4d7227edc11f.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45383/poster_image/tiny-7a2767fc0324070ca24e4f1cc7325ad4.jpeg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/ano-natsu-ni-futari-de-ita-1.webp?t=1656473771",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/ano-natsu-ni-futari-de-ita-1-285x399.webp?t=1656473771",
         "synonyms": [
             "That summer there were two of us",
             "あの夏に二人でいた"
         ],
         "relations": [],
         "tags": [
+            "drama",
+            "shorts",
             "slice of life"
         ],
         "date": {
@@ -4392,6 +4395,9 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/124756",
+            "https://anime-planet.com/anime/golden-kamuy-season-2-ova",
+            "https://kitsu.io/anime/42052",
             "https://livechart.me/anime/8702",
             "https://myanimelist.net/anime/38710"
         ],
@@ -4402,9 +4408,24 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1101/100258.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1101/100258t.jpg",
         "synonyms": [
+            "Golden Kamui 2 OVA",
+            "Golden Kamuy 2 OVA",
+            "Golden Kamuy OVA: Seton Animal Chronicles",
+            "Golden Kamuy Season 2 OVA",
+            "I Escaped Because I Fell in Love",
+            "Koi o Shita Kara Datsugoto Suru Koto ni Shita",
+            "Monster",
+            "ゴールデンカムイ 2 OVA",
             "ゴールデンカムイ OAD"
         ],
         "relations": [
+            "https://anilist.co/anime/102977",
+            "https://anime-planet.com/anime/golden-kamuy",
+            "https://anime-planet.com/anime/golden-kamuy-ova",
+            "https://anime-planet.com/anime/golden-kamuy-season-2",
+            "https://anime-planet.com/anime/golden-kamuy-season-3",
+            "https://anime-planet.com/anime/golden-kamuy-season-4",
+            "https://kitsu.io/anime/41442",
             "https://livechart.me/anime/10925",
             "https://livechart.me/anime/2818",
             "https://livechart.me/anime/3247",
@@ -4415,8 +4436,24 @@
         "tags": [
             "action",
             "adventure",
+            "animals",
+            "anti-hero",
+            "archery",
+            "based on a manga",
+            "comedy",
+            "crime",
+            "ensemble cast",
+            "fugitive",
+            "gore",
+            "guns",
             "historical",
-            "seinen"
+            "military",
+            "primarily adult cast",
+            "primarily male cast",
+            "prison",
+            "rural",
+            "seinen",
+            "survival"
         ],
         "date": {
             "season": "winter",

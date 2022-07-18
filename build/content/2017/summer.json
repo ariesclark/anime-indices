@@ -13642,6 +13642,7 @@
     {
         "sources": [
             "https://kitsu.io/anime/13504",
+            "https://livechart.me/anime/2561",
             "https://notify.moe/anime/XKkVhKmmR"
         ],
         "title": "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi - Hasshin-hen",
@@ -13653,52 +13654,23 @@
         "synonyms": [
             "Space Battleship Yamato 2202: Warriors of Love - Departure Chapter",
             "Star Blazers 2202: Warriors of Love - Departure Chapter",
+            "Star Blazers 2202: Warriors of Love Movie 2: Departure Chapter",
+            "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi Movie 2: Hasshin-hen",
+            "宇宙戦艦ヤマト2202　愛の戦士たち　第二章　発進篇",
             "宇宙戦艦ヤマト2202愛の戦士たち発進篇"
         ],
         "relations": [
             "https://kitsu.io/anime/12017",
             "https://kitsu.io/anime/13870",
             "https://kitsu.io/anime/1484",
-            "https://notify.moe/anime/ae-6pKmig",
-            "https://notify.moe/anime/lL6acFiig",
-            "https://notify.moe/anime/ub-S2FmiR"
-        ],
-        "tags": [
-            "action",
-            "drama",
-            "military",
-            "science fiction",
-            "shipboard",
-            "space",
-            "space battles",
-            "space opera",
-            "space travel"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
-            "https://livechart.me/anime/2561"
-        ],
-        "title": "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi Movie 2: Hasshin-hen",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/2561/poster_image/dda80c398626cb700c44b33de0097efd.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/2561/poster_image/dda80c398626cb700c44b33de0097efd.png?style=small&format=jpg",
-        "synonyms": [
-            "Star Blazers 2202: Warriors of Love Movie 2: Departure Chapter",
-            "宇宙戦艦ヤマト2202　愛の戦士たち　第二章　発進篇"
-        ],
-        "relations": [
             "https://livechart.me/anime/1775",
             "https://livechart.me/anime/2758",
             "https://livechart.me/anime/2939",
             "https://livechart.me/anime/3062",
-            "https://livechart.me/anime/3307"
+            "https://livechart.me/anime/3307",
+            "https://notify.moe/anime/ae-6pKmig",
+            "https://notify.moe/anime/lL6acFiig",
+            "https://notify.moe/anime/ub-S2FmiR"
         ],
         "tags": [
             "action",
@@ -13706,7 +13678,12 @@
             "drama",
             "military",
             "sci-fi",
-            "space"
+            "science fiction",
+            "shipboard",
+            "space",
+            "space battles",
+            "space opera",
+            "space travel"
         ],
         "date": {
             "season": "summer",

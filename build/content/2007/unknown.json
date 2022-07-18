@@ -1,26 +1,6 @@
 [
     {
         "sources": [
-            "https://anime-planet.com/anime/apogee-just-a-seekers-song"
-        ],
-        "title": "APOGEE: Just a Seeker's Song",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/apogee-just-a-seekers-song-1.jpg?t=1625908327",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/apogee-just-a-seekers-song-1-190x266.jpg?t=1625908327",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "abstract"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2007
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/adachin-shows-up"
         ],
         "title": "Adachin Shows Up!",
@@ -692,6 +672,7 @@
     {
         "sources": [
             "https://anilist.co/anime/119740",
+            "https://anime-planet.com/anime/apogee-just-a-seekers-song",
             "https://myanimelist.net/anime/39209"
         ],
         "title": "Just a Seeker's Song",
@@ -700,9 +681,12 @@
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1719/98878.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1719/98878t.jpg",
-        "synonyms": [],
+        "synonyms": [
+            "APOGEE: Just a Seeker's Song"
+        ],
         "relations": [],
         "tags": [
+            "abstract",
             "avant garde",
             "music"
         ],

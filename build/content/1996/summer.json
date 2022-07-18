@@ -934,7 +934,9 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/14218",
             "https://anilist.co/anime/126639",
+            "https://anime-planet.com/anime/hontoni-atta-gakko-kaidan",
             "https://anisearch.com/anime/10611",
             "https://kitsu.io/anime/10111",
             "https://myanimelist.net/anime/28263",
@@ -948,6 +950,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/7/89844t.jpg",
         "synonyms": [
             "Honto ni Atta Gakkō Kaidan",
+            "Hontoni Atta Gakko Kaidan",
             "Hontoni Atta Gakkou Kaidan",
             "Hontou ni Atta Gakkou Kaidan",
             "ほんとにあった学校怪談"
@@ -965,30 +968,6 @@
             "school life",
             "supernatural",
             "supernatural drama"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 1996
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/14218",
-            "https://anime-planet.com/anime/hontoni-atta-gakko-kaidan"
-        ],
-        "title": "Hontoni Atta Gakko Kaidan",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "synonyms": [
-            "ほんとにあった学校怪談"
-        ],
-        "relations": [],
-        "tags": [
-            "mystery",
-            "supernatural"
         ],
         "date": {
             "season": "summer",

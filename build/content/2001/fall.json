@@ -2033,6 +2033,8 @@
     {
         "sources": [
             "https://anidb.net/anime/7854",
+            "https://anime-planet.com/anime/hello-kitty-no-sambiki-no-kobuta",
+            "https://anisearch.com/anime/7063",
             "https://kitsu.io/anime/9312",
             "https://myanimelist.net/anime/22483",
             "https://notify.moe/anime/WczfpFmiR"
@@ -2046,17 +2048,29 @@
         "synonyms": [
             "Hello Kitty",
             "Hello Kitty :Les Trois Petits Cochons",
+            "Hello Kitty no Sambiki no Kobuta",
             "Hello Kitty y sus Amigos: Los tres Cerditos",
             "Hello Kitty's Animation Theater 13b",
+            "Hello Kitty's Animation Theater: The Three Little Pigs",
             "Hello Kitty, Mimmy and Dear Daniel in the Three Little Pigs",
             "Hello Kitty`s Animation Theater 13b",
+            "Hello Kitty’s Animation Theater 13b",
             "ハローキティの3匹の子ぶた"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/5462"
+        ],
         "tags": [
+            "animal protagonists",
+            "anthropomorphic",
             "anthropomorphism",
+            "based on a fairy tale",
+            "cats",
             "fantasy",
-            "kids"
+            "kids",
+            "non-human protagonists",
+            "pigs",
+            "sanrio characters"
         ],
         "date": {
             "season": "fall",

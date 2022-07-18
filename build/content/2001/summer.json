@@ -2266,7 +2266,9 @@
     {
         "sources": [
             "https://anime-planet.com/anime/hello-kitty-no-shirayuki-hime-2001",
-            "https://myanimelist.net/anime/30263"
+            "https://kitsu.io/anime/10736",
+            "https://myanimelist.net/anime/30263",
+            "https://notify.moe/anime/x6QwpKiiR"
         ],
         "title": "Hello Kitty no Shirayuki-hime (2001)",
         "type": "ova",
@@ -2276,17 +2278,21 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/12/72397t.jpg",
         "synonyms": [
             "Hello Kitty in Snow White",
+            "Hello Kitty no Shirayuki-hime (OVA)",
             "Hello Kitty's Animation Theater 1a",
             "Hello Kitty's Animation Theater: Snow White",
             "Hello Kitty: Blanche-Neige",
             "ハローキティの白雪姫"
         ],
         "relations": [
-            "https://myanimelist.net/anime/17951"
+            "https://kitsu.io/anime/9313",
+            "https://myanimelist.net/anime/17951",
+            "https://notify.moe/anime/K0zBtFmmR"
         ],
         "tags": [
             "animal protagonists",
             "anthropomorphic",
+            "anthropomorphism",
             "based on a fairy tale",
             "cats",
             "family friendly",
@@ -2294,36 +2300,6 @@
             "kids",
             "non-human protagonists",
             "sanrio characters"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2001
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/10736",
-            "https://notify.moe/anime/x6QwpKiiR"
-        ],
-        "title": "Hello Kitty no Shirayuki-hime (OVA)",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/10736/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/10736/tiny.jpg",
-        "synonyms": [
-            "Hello Kitty in Snow White",
-            "Hello Kitty's Animation Theater 1a",
-            "ハローキティの白雪姫"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/9313",
-            "https://notify.moe/anime/K0zBtFmmR"
-        ],
-        "tags": [
-            "anthropomorphism",
-            "fantasy",
-            "kids"
         ],
         "date": {
             "season": "summer",

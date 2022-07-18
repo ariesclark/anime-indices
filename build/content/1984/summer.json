@@ -969,6 +969,8 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/135560",
+            "https://anime-planet.com/anime/uracon-iii-opening-animation",
             "https://kitsu.io/anime/44375",
             "https://myanimelist.net/anime/42390"
         ],
@@ -981,12 +983,23 @@
         "synonyms": [
             "URACON III",
             "URACON III Opening",
+            "URACON III Opening Animation",
+            "URACONⅢオープニングアニメーション",
             "Uracon III",
+            "Uracon III Opening Animation",
+            "ウラコン",
             "ウラコンIII オープニングアニメーション"
         ],
-        "relations": [],
+        "relations": [
+            "https://anime-planet.com/anime/uracon-ii-opening-animation"
+        ],
         "tags": [
             "action",
+            "adventure",
+            "opening animation",
+            "outer space",
+            "promotional",
+            "sci fi",
             "sci-fi",
             "science fiction"
         ],
@@ -1294,31 +1307,6 @@
             "kids",
             "minna no uta",
             "music"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 1984
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/135560"
-        ],
-        "title": "Uracon III Opening Animation",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135560-WLyN9uAVBzZm.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135560-WLyN9uAVBzZm.jpg",
-        "synonyms": [
-            "URACONⅢオープニングアニメーション",
-            "ウラコン"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "adventure",
-            "sci-fi"
         ],
         "date": {
             "season": "summer",
