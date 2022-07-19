@@ -502,6 +502,7 @@
             "https://anime-planet.com/anime/crayon-shin-chan-movie-6-dengeki-buta-no-hizume-daisakusen",
             "https://anime-planet.com/anime/crayon-shin-chan-movie-7-bakuhatsu-onsen-wakuwaku-daikessen",
             "https://anime-planet.com/anime/crayon-shin-chan-movie-9-the-adult-empire-strikes-back",
+            "https://anisearch.com/anime/178",
             "https://kitsu.io/anime/2224",
             "https://kitsu.io/anime/5310",
             "https://kitsu.io/anime/856",
@@ -1286,6 +1287,8 @@
             "https://anime-planet.com/anime/flcl-grunge",
             "https://anime-planet.com/anime/flcl-progressive",
             "https://anime-planet.com/anime/flcl-shoegaze",
+            "https://anisearch.com/anime/11268",
+            "https://anisearch.com/anime/1163",
             "https://kitsu.io/anime/11961",
             "https://livechart.me/anime/11136",
             "https://livechart.me/anime/11137",
@@ -2111,7 +2114,9 @@
             "煌きの姉弟妹 ～SEX CRIME～",
             "煌きの姉弟妹 ～Sex Crime～"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/1185"
+        ],
         "tags": [
             "anal",
             "big boobs",
@@ -2224,6 +2229,7 @@
             "こわれもの"
         ],
         "relations": [
+            "https://anisearch.com/anime/882",
             "https://myanimelist.net/anime/3529"
         ],
         "tags": [
@@ -2819,6 +2825,7 @@
             "mecha",
             "military",
             "music",
+            "musical",
             "ojou-sama",
             "past",
             "performing arts",
@@ -2836,6 +2843,28 @@
             "steampunk",
             "super robot",
             "theater"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2000
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52154"
+        ],
+        "title": "Saru Rururu",
+        "type": "ova",
+        "episodes": 4,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1315/124630.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1315/124630t.jpg",
+        "synonyms": [
+            "さる・るるる"
+        ],
+        "relations": [],
+        "tags": [
+            "kids"
         ],
         "date": {
             "season": "spring",

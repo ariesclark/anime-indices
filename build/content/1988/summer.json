@@ -629,6 +629,8 @@
             "https://anime-planet.com/anime/dragon-ball-movie-1-curse-of-the-blood-rubies",
             "https://anime-planet.com/anime/dragon-ball-movie-2-sleeping-princess-in-devils-castle",
             "https://anime-planet.com/anime/dragon-ball-movie-4-the-path-to-power",
+            "https://anisearch.com/anime/2134",
+            "https://anisearch.com/anime/468",
             "https://kitsu.io/anime/199",
             "https://kitsu.io/anime/791",
             "https://kitsu.io/anime/793",
@@ -915,6 +917,7 @@
             "https://anidb.net/anime/11281",
             "https://anilist.co/anime/21398",
             "https://anime-planet.com/anime/kaze-no-matasaburou-2016",
+            "https://anisearch.com/anime/10717",
             "https://kitsu.io/anime/11251",
             "https://myanimelist.net/anime/30922",
             "https://notify.moe/anime/trmrtFimR"
@@ -1080,6 +1083,7 @@
             "https://anidb.net/anime/391",
             "https://anilist.co/anime/690",
             "https://anime-planet.com/anime/vampire-princess-miyu-tv",
+            "https://anisearch.com/anime/2157",
             "https://kitsu.io/anime/7754",
             "https://myanimelist.net/anime/690",
             "https://notify.moe/anime/DmDtpKiig"
@@ -1184,7 +1188,9 @@
             "Midnight Anime: Lemon Angel 3",
             "レモンエンジェル 3"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/2147"
+        ],
         "tags": [
             "ecchi",
             "eroticism",

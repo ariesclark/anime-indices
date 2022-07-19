@@ -149,11 +149,11 @@
             "https://myanimelist.net/anime/50711"
         ],
         "title": "Ai to Yuuto: Hajimete no Otsukai",
-        "type": "special",
+        "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1991/120307.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1991/120307t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1894/123290.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1894/123290t.jpg",
         "synonyms": [
             "Ai and Yuuto: Their First Errand",
             "Hajimete no Otsukai",
@@ -327,7 +327,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/130724",
             "https://myanimelist.net/anime/50065"
         ],
         "title": "Boku wa Hatsune Miku to Kiss wo Shita",
@@ -343,8 +342,6 @@
         ],
         "relations": [],
         "tags": [
-            "drama",
-            "drawing",
             "music"
         ],
         "date": {
@@ -1587,32 +1584,6 @@
             "adventure",
             "chinese animation",
             "fantasy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/128694"
-        ],
-        "title": "Jougen no Tsuki",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128694-MV1ZIQloQhV5.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128694-MV1ZIQloQhV5.png",
-        "synonyms": [
-            "Crescent Moon",
-            "First Quarter Moon",
-            "上弦の月"
-        ],
-        "relations": [
-            "https://anilist.co/anime/127904"
-        ],
-        "tags": [
-            "historical"
         ],
         "date": {
             "season": "unknown",
@@ -3440,35 +3411,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/qianjin-dawalixi",
-            "https://myanimelist.net/anime/52060"
-        ],
-        "title": "Qianjin, Da Wa Li Xi",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1798/124408.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1798/124408t.jpg",
-        "synonyms": [
-            "Forward, Comrades",
-            "Qianjin, Dawalixi",
-            "Вперед, товарищи",
-            "前进，达瓦里希"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "chinese animation",
-            "historical",
-            "military"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/quails"
         ],
         "title": "Quails",
@@ -4358,6 +4300,36 @@
             "abstract",
             "educational",
             "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2013
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/ttwittwippangppang-gujodae-2"
+        ],
+        "title": "Ttwittwippangppang Gujodae 2",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/ttwittwippangppang-gujodae-2-1.webp?t=1657895348",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/ttwittwippangppang-gujodae-2-1-285x399.webp?t=1657895348",
+        "synonyms": [
+            "Rescue Paws 2",
+            "T-Pang Rescue 2"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/ttwittwippangppang-gujodae"
+        ],
+        "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "cg animation",
+            "korean animation",
+            "non-human protagonists",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",

@@ -693,6 +693,34 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52398"
+        ],
+        "title": "Bishōjo Senshi Sērā Mūn: Za Mirakuru 4-D",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [
+            "Pretty Guardian Sailor Moon: The Miracle 4-D",
+            "美少女戦士セーラームーン・ザ・ミラクル 4-D"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/14751"
+        ],
+        "tags": [
+            "mahou shoujo",
+            "music",
+            "romance",
+            "supernatural"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/boku-no-lyric-no-bouyomi-asayake-to-nettaigyo"
         ],
         "title": "Boku no Lyric no Bouyomi: Asayake to Nettaigyo",
@@ -4337,27 +4365,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/122246"
-        ],
-        "title": "Marine Snow no Hanataba wo",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122246-oGfAOQZBCf28.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122246-oGfAOQZBCf28.png",
-        "synonyms": [
-            "A Bouquet of Marine Snow",
-            "マリンスノーの花束を"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/maten-rocket-kimi-ga-mita-sora-wa"
         ],
         "title": "Maten Rocket: Kimi ga Mita Sora wa",
@@ -6370,6 +6377,29 @@
         "relations": [],
         "tags": [
             "abstract"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52373"
+        ],
+        "title": "Shan Shan Shabontama",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1096/125329.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1096/125329t.jpg",
+        "synonyms": [
+            "Minna no Uta",
+            "シャンシャンシャボン玉"
+        ],
+        "relations": [],
+        "tags": [
+            "kids"
         ],
         "date": {
             "season": "unknown",

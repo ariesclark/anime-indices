@@ -2276,6 +2276,7 @@
             "https://anilist.co/anime/20857",
             "https://anime-planet.com/anime/kasumin",
             "https://anime-planet.com/anime/kasumin-2nd-season",
+            "https://anisearch.com/anime/9442",
             "https://kitsu.io/anime/9368",
             "https://myanimelist.net/anime/27723",
             "https://notify.moe/anime/YHHBpKmiR"
@@ -2388,6 +2389,10 @@
             "https://anime-planet.com/anime/kinos-journey-life-goes-on",
             "https://anime-planet.com/anime/kinos-journey-the-beautiful-world-the-animated-series",
             "https://anime-planet.com/anime/kinos-journey-tower-country",
+            "https://anisearch.com/anime/12382",
+            "https://anisearch.com/anime/1248",
+            "https://anisearch.com/anime/4040",
+            "https://anisearch.com/anime/6952",
             "https://kitsu.io/anime/1233",
             "https://kitsu.io/anime/13467",
             "https://kitsu.io/anime/1970",
@@ -2427,6 +2432,7 @@
             "kuudere",
             "lgbtq+ themes",
             "melancholy",
+            "mopeds",
             "motorcycles",
             "novel",
             "philosophy",
@@ -3110,6 +3116,7 @@
             "みずいろ （2003）"
         ],
         "relations": [
+            "https://anisearch.com/anime/839",
             "https://myanimelist.net/anime/1038"
         ],
         "tags": [
@@ -3900,6 +3907,7 @@
             "https://anime-planet.com/anime/rahxephon",
             "https://anime-planet.com/anime/rahxephon-ova",
             "https://anime-planet.com/anime/rahxephon-tsubasa-no-kioku-memory",
+            "https://anisearch.com/anime/1015",
             "https://kitsu.io/anime/143",
             "https://livechart.me/anime/4139",
             "https://livechart.me/anime/5862",
@@ -5063,6 +5071,30 @@
             "romance",
             "slapstick",
             "softcore"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2003
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51763"
+        ],
+        "title": "Tsumamigui The Animation Chance.0: Watashi wo Check Shite Miru?",
+        "type": "ova",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1221/123625.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1221/123625t.jpg",
+        "synonyms": [
+            "妻みぐい THE ANIMATION Chance.0 「わたしをcheckしてみる?」"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/1403"
+        ],
+        "tags": [
+            "hentai"
         ],
         "date": {
             "season": "spring",

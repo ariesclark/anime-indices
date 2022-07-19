@@ -2021,7 +2021,8 @@
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/evangelion-x-nyanko-daisensou-1-190x266.jpg?t=1625908773",
         "synonyms": [],
         "relations": [
-            "https://anime-planet.com/anime/neon-genesis-evangelion"
+            "https://anime-planet.com/anime/neon-genesis-evangelion",
+            "https://anime-planet.com/anime/the-battle-cats-shin-gengou-nyankogelion-op"
         ],
         "tags": [
             "based on a mobile game",
@@ -3358,6 +3359,29 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52395"
+        ],
+        "title": "Hengao Taisou",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1879/125370.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1879/125370t.jpg",
+        "synonyms": [
+            "Funny Face Excercises, Minna no Uta",
+            "変顔体操"
+        ],
+        "relations": [],
+        "tags": [
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/50391"
         ],
         "title": "Hero of Robots",
@@ -3817,34 +3841,6 @@
             "kids",
             "prehistoric",
             "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/52139"
-        ],
-        "title": "Hungry Days x Bump of Chicken: Kinen Satsuei",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1762/124614.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1762/124614t.jpg",
-        "synonyms": [
-            "Commemorative Photo",
-            "HUNGRY DAYS × BUMP OF CHICKEN「記念撮影」",
-            "Hungry Days × One Piece × Bump of Chicken"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/21",
-            "https://myanimelist.net/anime/35770"
-        ],
-        "tags": [
-            "school",
-            "slice of life"
         ],
         "date": {
             "season": "unknown",
@@ -4913,19 +4909,22 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/jiu-cang-miao-wo-2nd-season"
+            "https://anime-planet.com/anime/jiu-cang-miao-wo-2nd-season",
+            "https://myanimelist.net/anime/51656"
         ],
         "title": "Jiu Cang Miao Wo 2nd Season",
         "type": "ona",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/jiu-cang-miao-wo-2nd-season-1.webp?t=1656878957",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/jiu-cang-miao-wo-2nd-season-1-285x399.webp?t=1656878957",
+        "picture": "https://cdn.myanimelist.net/images/anime/1735/124986.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1735/124986t.jpg",
         "synonyms": [
-            "DNA x CAT 2nd Season"
+            "DNA x CAT 2nd Season",
+            "九藏喵窝 第二季"
         ],
         "relations": [
-            "https://anime-planet.com/anime/jiu-cang-miao-wo"
+            "https://anime-planet.com/anime/jiu-cang-miao-wo",
+            "https://myanimelist.net/anime/51655"
         ],
         "tags": [
             "animal protagonists",
@@ -4933,6 +4932,7 @@
             "cats",
             "chinese animation",
             "comedy",
+            "fantasy",
             "non-human protagonists"
         ],
         "date": {

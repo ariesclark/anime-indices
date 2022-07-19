@@ -470,7 +470,8 @@
             "https://anisearch.com/anime/17483",
             "https://kitsu.io/anime/46214",
             "https://livechart.me/anime/11295",
-            "https://myanimelist.net/anime/52215"
+            "https://myanimelist.net/anime/52215",
+            "https://notify.moe/anime/sayHKd6ng"
         ],
         "title": "Chi.: Chikyuu no Undou ni Tsuite",
         "type": "special",
@@ -672,87 +673,6 @@
             "kids",
             "sci-fi",
             "shounen"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2023
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/17053",
-            "https://anilist.co/anime/131518",
-            "https://anime-planet.com/anime/dr-stone-2023",
-            "https://anisearch.com/anime/16920",
-            "https://kitsu.io/anime/44289",
-            "https://livechart.me/anime/10957",
-            "https://myanimelist.net/anime/48549",
-            "https://notify.moe/anime/epEQ9yQMg"
-        ],
-        "title": "Dr. Stone 3rd Season",
-        "type": "tv",
-        "episodes": 12,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1485/120137.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1485/120137t.jpg",
-        "synonyms": [
-            "DR.STONE ภาค 3",
-            "Dr. STONE 3",
-            "Dr. STONE 3rd Season",
-            "Dr. STONE Season 3",
-            "Dr. STONE: NEW WORLD",
-            "Dr. Stone (2023)",
-            "Dr. Stone: New World",
-            "Dr.STONE",
-            "Dr.STONE NEW WORLD",
-            "Dr.STONE Season 3",
-            "Dr.STONE 第3期",
-            "Dr.STONE: NEW WORLD",
-            "ドクターストーン (2023)",
-            "ドクターストーン （2023）",
-            "石纪元第三季"
-        ],
-        "relations": [
-            "https://anidb.net/anime/16164",
-            "https://anilist.co/anime/142876",
-            "https://anime-planet.com/anime/dr-stone-ryuusui",
-            "https://anisearch.com/anime/16097",
-            "https://kitsu.io/anime/42867",
-            "https://kitsu.io/anime/45615",
-            "https://livechart.me/anime/10486",
-            "https://livechart.me/anime/8349",
-            "https://livechart.me/anime/9711",
-            "https://myanimelist.net/anime/50612",
-            "https://notify.moe/anime/3PbP95onR"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "amnesia",
-            "based on a manga",
-            "comedy",
-            "conspiracy",
-            "disaster",
-            "drama",
-            "educational",
-            "ensemble cast",
-            "fantasy",
-            "future",
-            "genius",
-            "hero of strong character",
-            "male protagonist",
-            "person in a strange world",
-            "plot continuity",
-            "post apocalypse",
-            "post-apocalyptic",
-            "prehistoric",
-            "sci fi",
-            "sci-fi",
-            "science fiction",
-            "ships",
-            "shounen",
-            "survival",
-            "time travel"
         ],
         "date": {
             "season": "winter",
@@ -1266,6 +1186,47 @@
             "romance",
             "romantic comedy",
             "shounen",
+            "supernatural"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/17507",
+            "https://anilist.co/anime/152137",
+            "https://anime-planet.com/anime/no-longer-human-in-another-world",
+            "https://kitsu.io/anime/46243",
+            "https://livechart.me/anime/11330",
+            "https://myanimelist.net/anime/52367"
+        ],
+        "title": "Isekai Shikkaku",
+        "type": "tv",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1108/125312.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1108/125312t.jpg",
+        "synonyms": [
+            "Disqualified from Another World",
+            "No Longer Allowed In Another World",
+            "No Longer Human...In Another World",
+            "No Longer Human: In Another World",
+            "No Longer Human…In Another World",
+            "Дисквалифицирован по жизни",
+            "異世界失格"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "based on a manga",
+            "comedy",
+            "fantasy",
+            "isekai",
+            "person in a strange world",
+            "romance",
+            "slice of life",
             "supernatural"
         ],
         "date": {
@@ -2060,44 +2021,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/17507",
-            "https://anilist.co/anime/152137",
-            "https://anime-planet.com/anime/no-longer-human-in-another-world",
-            "https://kitsu.io/anime/46243",
-            "https://livechart.me/anime/11330"
-        ],
-        "title": "No Longer Human: In Another World",
-        "type": "tv",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://cdn.anime-planet.com/anime/primary/no-longer-human-in-another-world-1.webp?t=1657523610",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/no-longer-human-in-another-world-1-285x400.webp?t=1657523610",
-        "synonyms": [
-            "Isekai Shikkaku",
-            "No Longer Allowed In Another World",
-            "No Longer Human…In Another World",
-            "Дисквалифицирован по жизни",
-            "異世界失格"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "based on a manga",
-            "comedy",
-            "fantasy",
-            "isekai",
-            "person in a strange world",
-            "romance",
-            "slice of life",
-            "supernatural"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2023
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/17143",
             "https://anilist.co/anime/144144",
             "https://anime-planet.com/anime/ooyuki-umi-no-kaina",
@@ -2562,8 +2485,9 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1678/125285.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1678/125285t.jpg",
         "synonyms": [
+            "Eiga Sasaki to Miyano: Sotsugyou Hen",
             "Sasaki and Miyano",
-            "Sasaki and Miyano (New Anime)",
+            "Sasaki and Miyano (2023)",
             "Sasaki and Miyano: Graduation Arc",
             "Sasaki and Miyano: Graduation Chapter",
             "Sasaki to Miyano",
@@ -2573,8 +2497,8 @@
             "Sasaki to Miyano: Sotsugyou-hen",
             "Sasamiya",
             "佐々木と宮野",
-            "佐々木と宮野 (新作アニメ)",
             "佐々木と宮野 （新作アニメ）",
+            "映画 佐々木と宮野 -卒業編-",
             "映画 佐々木と宮野ー卒業編ー"
         ],
         "relations": [
@@ -3266,6 +3190,126 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/17464",
+            "https://anilist.co/anime/151040",
+            "https://anime-planet.com/anime/trigun-stampede",
+            "https://anisearch.com/anime/17448",
+            "https://kitsu.io/anime/46183",
+            "https://livechart.me/anime/11267",
+            "https://myanimelist.net/anime/52093",
+            "https://notify.moe/anime/0CWw9Kq7g"
+        ],
+        "title": "Trigun Stampede",
+        "type": "special",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1697/124972.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1697/124972t.jpg",
+        "synonyms": [
+            "TRIGUN STAMPEDE",
+            "トライガン スタンピード"
+        ],
+        "relations": [
+            "https://anidb.net/anime/53",
+            "https://anilist.co/anime/6",
+            "https://anime-planet.com/anime/trigun",
+            "https://kitsu.io/anime/3",
+            "https://livechart.me/anime/3634",
+            "https://livechart.me/anime/4042",
+            "https://myanimelist.net/anime/6",
+            "https://notify.moe/anime/SDkpcFmig"
+        ],
+        "tags": [
+            "action",
+            "adult cast",
+            "adventure",
+            "based on a manga",
+            "body horror",
+            "cg animation",
+            "comedy",
+            "crime",
+            "drama",
+            "dystopian",
+            "episodic",
+            "fugitive",
+            "full cgi",
+            "gunfights",
+            "guns",
+            "male protagonist",
+            "overpowered main characters",
+            "philosophy",
+            "primarily adult cast",
+            "sci-fi",
+            "science fiction",
+            "shounen",
+            "slapstick",
+            "space",
+            "twins",
+            "western"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/17075",
+            "https://anilist.co/anime/143064",
+            "https://anime-planet.com/anime/endo-and-kobayashi-live-the-latest-on-tsundere-villainess-lieselotte",
+            "https://anisearch.com/anime/16955",
+            "https://kitsu.io/anime/45658",
+            "https://livechart.me/anime/10966",
+            "https://myanimelist.net/anime/50652",
+            "https://notify.moe/anime/qO_GKuT7g"
+        ],
+        "title": "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san",
+        "type": "tv",
+        "episodes": 0,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1620/125409.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1620/125409t.jpg",
+        "synonyms": [
+            "Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte",
+            "Endo and Kobayashi’s Live Commentary on the Villainess",
+            "The Play-By-Play Commentator Endo-kun and Colour Commentator Kobayashi-san’s Live Commentary on the Tsundere Villainess Liselotte",
+            "Tsundere Akuyaku Reijou Lieselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san",
+            "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endo-kun to Kaisetsu no Kobayashi-san",
+            "Tsundere Akuyaku Reijō Liselotte to Jikkyō no Endō-kun to Kaisetsu no Kobayashi-san",
+            "Tsunlise",
+            "นางร้ายสุดซึน ลีเซล็อตเต กับขบวนการพลิกลิขิตสู่ชีวิตแฮปปี้เอนด์",
+            "ツンデレ悪役令嬢リーゼロッテと実況の遠藤くんと解説の小林さん"
+        ],
+        "relations": [],
+        "tags": [
+            "based on a light novel",
+            "comedy",
+            "drama",
+            "fantasy",
+            "isekai",
+            "josei",
+            "magic",
+            "novel",
+            "ojou-sama",
+            "present",
+            "primarily teen cast",
+            "romance",
+            "romantic comedy",
+            "royalty",
+            "school",
+            "school life",
+            "shoujo",
+            "tsundere",
+            "video games",
+            "villainess"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/17322",
             "https://anilist.co/anime/147729",
             "https://anime-planet.com/anime/ultraman-final",
@@ -3585,7 +3629,6 @@
             "revenge",
             "school",
             "school life",
-            "seinen",
             "slice of life",
             "suicide",
             "survival",

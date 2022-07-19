@@ -2157,6 +2157,7 @@
             "https://anilist.co/anime/7697",
             "https://anime-planet.com/anime/sangokushi-dainibu-choukou-moyu",
             "https://anime-planet.com/anime/sangokushi-daisanbu-harukanaru-taichi",
+            "https://anisearch.com/anime/1481",
             "https://kitsu.io/anime/5085",
             "https://myanimelist.net/anime/7697",
             "https://myanimelist.net/anime/8677",
@@ -2426,7 +2427,10 @@
             "Soreike! Anpanman: Tsumiki Shiro no Himitsu",
             "それいけ！アンパンマン つみき城のひみつ"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/4578",
+            "https://anisearch.com/anime/6367"
+        ],
         "tags": [
             "comedy"
         ],

@@ -1124,7 +1124,7 @@
         ],
         "title": "Black Alice",
         "type": "ona",
-        "episodes": 0,
+        "episodes": 7,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1618/116381.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1618/116381t.jpg",
@@ -1424,6 +1424,7 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/remake-our-life-recap",
+            "https://anisearch.com/anime/16708",
             "https://kitsu.io/anime/44990",
             "https://myanimelist.net/anime/49550",
             "https://notify.moe/anime/yquJteGng"
@@ -2941,7 +2942,7 @@
             "https://kitsu.io/anime/45362",
             "https://myanimelist.net/anime/49768"
         ],
-        "title": "Felicia",
+        "title": "Felicia (2021)",
         "type": "special",
         "episodes": 1,
         "status": "finished",
@@ -2950,13 +2951,15 @@
         "synonyms": [
             "AZKi - Felicia",
             "AZKi - フェリシア",
+            "Felicia",
             "フェリシア"
         ],
         "relations": [
             "https://anilist.co/anime/118123",
             "https://kitsu.io/anime/43740",
             "https://kitsu.io/anime/43947",
-            "https://myanimelist.net/anime/44042"
+            "https://myanimelist.net/anime/44042",
+            "https://myanimelist.net/anime/52334"
         ],
         "tags": [
             "idol",
@@ -3628,6 +3631,8 @@
             "https://anilist.co/anime/98060",
             "https://anime-planet.com/anime/tawawa-on-monday",
             "https://anime-planet.com/anime/tawawa-on-monday-2-special",
+            "https://anisearch.com/anime/12556",
+            "https://anisearch.com/anime/16623",
             "https://kitsu.io/anime/12640",
             "https://kitsu.io/anime/45375",
             "https://livechart.me/anime/10802",
@@ -4183,7 +4188,6 @@
         "sources": [
             "https://anidb.net/anime/16621",
             "https://anilist.co/anime/126350",
-            "https://anime-planet.com/anime/heibai-wushuang-3rd-season",
             "https://anime-planet.com/anime/the-unparalleled-black-white-3rd-season",
             "https://kitsu.io/anime/44781",
             "https://livechart.me/anime/10742",
@@ -4212,8 +4216,6 @@
         "relations": [
             "https://anidb.net/anime/13444",
             "https://anilist.co/anime/101876",
-            "https://anime-planet.com/anime/heibai-wushuang",
-            "https://anime-planet.com/anime/heibai-wushuang-2nd-season",
             "https://anime-planet.com/anime/the-unparalleled-black-white",
             "https://anime-planet.com/anime/the-unparalleled-black-white-2nd-season",
             "https://kitsu.io/anime/13996",
@@ -4612,6 +4614,38 @@
             "anime influenced",
             "fantasy",
             "vtuber"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/140601",
+            "https://anime-planet.com/anime/a-bite-of-bone",
+            "https://kitsu.io/anime/46195",
+            "https://myanimelist.net/anime/50872"
+        ],
+        "title": "Honekami",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1106/120612.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1106/120612t.jpg",
+        "synonyms": [
+            "A Bite of Bone",
+            "Mordre les morts",
+            "Un bocado de hueso",
+            "骨嚙み"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "adventure",
+            "drama",
+            "shorts",
+            "slice of life"
         ],
         "date": {
             "season": "summer",
@@ -5957,6 +5991,7 @@
             "https://anime-planet.com/anime/hello-kinmoza",
             "https://anime-planet.com/anime/kinmoza",
             "https://anime-planet.com/anime/kinmoza-pretty-days",
+            "https://anisearch.com/anime/11553",
             "https://kitsu.io/anime/12140",
             "https://livechart.me/anime/2121",
             "https://livechart.me/anime/29",
@@ -6890,6 +6925,7 @@
             "https://anime-planet.com/anime/the-irregular-at-magic-high-school-movie-the-girl-who-summons-the-stars",
             "https://anime-planet.com/anime/the-irregular-at-magic-high-school-reminiscence-arc",
             "https://anime-planet.com/anime/the-irregular-at-magic-high-school-visitor-arc",
+            "https://anisearch.com/anime/9057",
             "https://kitsu.io/anime/8053",
             "https://livechart.me/anime/10439",
             "https://livechart.me/anime/11006",
@@ -7817,7 +7853,6 @@
             "old asia",
             "primarily adult cast",
             "primarily male cast",
-            "shounen",
             "shounen ai",
             "supernatural",
             "swordplay",
@@ -8384,6 +8419,7 @@
             "One Piece - Annecy Festival 60th Anniversary"
         ],
         "relations": [
+            "https://anilist.co/anime/21",
             "https://anime-planet.com/anime/dragon-ball-super-annecy-festival-60th-anniversary",
             "https://anime-planet.com/anime/one-piece",
             "https://kitsu.io/anime/12",
@@ -8392,6 +8428,7 @@
         "tags": [
             "action",
             "adventure",
+            "advertisement",
             "no dialogue",
             "promotional",
             "shounen",
@@ -8539,6 +8576,8 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1562/114522t.jpg",
         "synonyms": [
             "Butt Detective Movie 3: The Secret of Souffle Island",
+            "Butt Detective the Movie: The Secret of Souffle Island",
+            "Eiga Oshiri Tantei: Souffle-tou no Himitsu",
             "Eiga Oshiri Tantei: Sufure-tou no Himitsu",
             "Eiga Oshiri Tantei: Sufure-tō no Himitsu",
             "Oshiri Tantei Movie 3: Sufure-to no Himitsu",
@@ -8601,7 +8640,11 @@
             "Otome Game no Hametsu Flag shika Nai Akuyaku Reijō ni Tensei Shite Shimatta … X",
             "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…Ｘ"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/13946",
+            "https://anisearch.com/anime/16602",
+            "https://anisearch.com/anime/16894"
+        ],
         "tags": [
             "comedy",
             "fantasy",
@@ -8696,7 +8739,8 @@
             "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった...X 運命の人に出会ってしまった...",
             "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… OAD",
             "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… OVA",
-            "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…Ｘ 運命の人に出会ってしまった..."
+            "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…Ｘ 運命の人に出会ってしまった...",
+            "여성향 게임의 파멸 플래그밖에 없는 악역 영애로 환생해버렸다...X:운명의 사람를 만나버렸다..."
         ],
         "relations": [
             "https://anidb.net/anime/14449",
@@ -9745,6 +9789,7 @@
         "tags": [
             "action",
             "artificial intelligence",
+            "augmented reality",
             "cgi",
             "coming of age",
             "cyberpunk",
@@ -10085,6 +10130,44 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/148293",
+            "https://anime-planet.com/anime/selepro-chan-theater",
+            "https://myanimelist.net/anime/50882"
+        ],
+        "title": "Selepro-chan! Gekijou",
+        "type": "ona",
+        "episodes": 13,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1967/123499.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1967/123499t.jpg",
+        "synonyms": [
+            "Selection Project-chan Gekijou",
+            "Selepro-chan! Theater",
+            "セレプロちゃんっ！劇場",
+            "セレプロちゃん！劇場"
+        ],
+        "relations": [
+            "https://anilist.co/anime/126790",
+            "https://anime-planet.com/anime/selection-project",
+            "https://myanimelist.net/anime/44275"
+        ],
+        "tags": [
+            "chibi",
+            "comedy",
+            "cute girls doing cute things",
+            "idol",
+            "idols",
+            "idols (female)",
+            "short episodes",
+            "slice of life"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16398",
             "https://anilist.co/anime/137613",
             "https://anime-planet.com/anime/shabake",
@@ -10330,6 +10413,8 @@
         "relations": [
             "https://anilist.co/anime/126403",
             "https://anime-planet.com/anime/link-click",
+            "https://anisearch.com/anime/16254",
+            "https://anisearch.com/anime/16650",
             "https://kitsu.io/anime/44503",
             "https://livechart.me/anime/10563",
             "https://livechart.me/anime/10696",
@@ -10572,6 +10657,7 @@
             "https://anidb.net/anime/15507",
             "https://anilist.co/anime/131367",
             "https://anime-planet.com/anime/jintai-no-survival",
+            "https://anisearch.com/anime/15345",
             "https://livechart.me/anime/9893",
             "https://myanimelist.net/anime/39618",
             "https://myanimelist.net/anime/41734",
@@ -11176,6 +11262,7 @@
         ],
         "relations": [
             "https://anilist.co/anime/150103",
+            "https://anime-planet.com/anime/rick-and-morty",
             "https://anime-planet.com/anime/rick-and-morty-samurai-and-shogun",
             "https://anime-planet.com/anime/rick-and-morty-the-great-yokai-battle-of-akihabara",
             "https://anime-planet.com/anime/rick-and-morty-vs-genocider",
@@ -11641,6 +11728,8 @@
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-ova",
             "https://anime-planet.com/anime/that-time-i-got-reincarnated-as-a-slime-season-2",
             "https://anime-planet.com/anime/the-slime-diaries-that-time-i-got-reincarnated-as-a-slime",
+            "https://anisearch.com/anime/14266",
+            "https://anisearch.com/anime/16619",
             "https://kitsu.io/anime/42196",
             "https://kitsu.io/anime/45231",
             "https://kitsu.io/anime/45998",
@@ -12344,6 +12433,7 @@
             "https://anidb.net/anime/16786",
             "https://anilist.co/anime/139518",
             "https://anime-planet.com/anime/tsukimichi-moonlit-fantasy-2",
+            "https://anisearch.com/anime/16617",
             "https://kitsu.io/anime/45235",
             "https://livechart.me/anime/10806",
             "https://myanimelist.net/anime/49889",
@@ -12886,6 +12976,8 @@
             "https://anime-planet.com/anime/lmyk-0-zero-english-version",
             "https://anime-planet.com/anime/the-case-study-of-vanitas-part-ii",
             "https://anime-planet.com/anime/the-case-study-of-vanitas-recap",
+            "https://anisearch.com/anime/16355",
+            "https://anisearch.com/anime/17022",
             "https://kitsu.io/anime/44672",
             "https://kitsu.io/anime/45736",
             "https://livechart.me/anime/10626",
@@ -13452,6 +13544,7 @@
             "https://anisearch.com/anime/15475",
             "https://anisearch.com/anime/17105",
             "https://kitsu.io/anime/43705",
+            "https://kitsu.io/anime/46180",
             "https://myanimelist.net/anime/41528",
             "https://myanimelist.net/anime/50667",
             "https://notify.moe/anime/PqOkVHA7g",
@@ -13560,6 +13653,8 @@
             "https://anime-planet.com/anime/yamishibai-japanese-ghost-stories-7th-season",
             "https://anime-planet.com/anime/yamishibai-japanese-ghost-stories-8th-season",
             "https://anime-planet.com/anime/yamishibai-japanese-ghost-stories-9th-season-the-old-well",
+            "https://anisearch.com/anime/15800",
+            "https://anisearch.com/anime/16923",
             "https://kitsu.io/anime/43797",
             "https://kitsu.io/anime/45370",
             "https://kitsu.io/anime/45601",

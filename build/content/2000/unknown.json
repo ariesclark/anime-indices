@@ -7,8 +7,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
         "synonyms": [
             "Haha wo Tazunete Sanzenri (2000)"
         ],
@@ -556,8 +556,8 @@
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
         "synonyms": [],
         "relations": [],
         "tags": [
@@ -911,28 +911,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/52154"
-        ],
-        "title": "Saru Rururu",
-        "type": "ova",
-        "episodes": 4,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1315/124630.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1315/124630t.jpg",
-        "synonyms": [
-            "さる・るるる"
-        ],
-        "relations": [],
-        "tags": [
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2000
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/serial-experiments-lain-lpr-309"
         ],
         "title": "Serial Experiments Lain: LPR-309",
@@ -970,7 +948,9 @@
         ],
         "relations": [
             "https://anidb.net/anime/3188",
-            "https://anidb.net/anime/6278"
+            "https://anidb.net/anime/6278",
+            "https://anisearch.com/anime/162",
+            "https://anisearch.com/anime/3152"
         ],
         "tags": [
             "action",
@@ -1029,29 +1009,6 @@
             "sci fi",
             "transforming mecha",
             "war"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2000
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/52155"
-        ],
-        "title": "Tabetano Daare",
-        "type": "ova",
-        "episodes": 4,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1015/124631.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1015/124631t.jpg",
-        "synonyms": [
-            "Who Ate It?",
-            "たべたのだあれ"
-        ],
-        "relations": [],
-        "tags": [
-            "kids"
         ],
         "date": {
             "season": "unknown",

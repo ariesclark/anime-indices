@@ -61,44 +61,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/17285",
-            "https://anilist.co/anime/146962",
-            "https://anime-planet.com/anime/4-nin-wa-sorezore-uso-wo-tsuku",
-            "https://anisearch.com/anime/17255",
-            "https://kitsu.io/anime/46034",
-            "https://livechart.me/anime/11171",
-            "https://myanimelist.net/anime/51464",
-            "https://notify.moe/anime/x3j4ua8nR"
-        ],
-        "title": "4-nin wa Sorezore Uso wo Tsuku",
-        "type": "tv",
-        "episodes": 12,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1173/122205.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1173/122205t.jpg",
-        "synonyms": [
-            "4-nin wa Sorezore Uso o Tsuku",
-            "4人はそれぞれウソをつく",
-            "Four People and Their Respective Lies",
-            "４人はそれぞれウソをつく"
-        ],
-        "relations": [],
-        "tags": [
-            "based on a manga",
-            "comedy",
-            "sci-fi",
-            "science fiction",
-            "shounen",
-            "slice of life",
-            "supernatural"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://kitsu.io/anime/45770"
         ],
         "title": "A New Start",
@@ -956,6 +918,7 @@
             "https://anime-planet.com/anime/ascendance-of-a-bookworm-part-iii"
         ],
         "tags": [
+            "age transformation",
             "apprenticeship",
             "based on a light novel",
             "cheats",
@@ -965,9 +928,9 @@
             "magic",
             "medieval",
             "modern knowledge",
+            "past memories",
             "person in a strange world",
-            "recap",
-            "reincarnation"
+            "recap"
         ],
         "date": {
             "season": "winter",
@@ -1153,7 +1116,7 @@
         ],
         "title": "Bakugan: Evolutions",
         "type": "ona",
-        "episodes": 23,
+        "episodes": 24,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1905/121453.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1905/121453t.jpg",
@@ -1628,51 +1591,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16063",
-            "https://anilist.co/anime/130003",
-            "https://anime-planet.com/anime/bocchi-the-rock",
-            "https://anisearch.com/anime/15989",
-            "https://kitsu.io/anime/44196",
-            "https://livechart.me/anime/10424",
-            "https://myanimelist.net/anime/47917",
-            "https://notify.moe/anime/8V57bCPMg"
-        ],
-        "title": "Bocchi the Rock!",
-        "type": "tv",
-        "episodes": 12,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1334/120111.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1334/120111t.jpg",
-        "synonyms": [
-            "BOCCHI THE ROCK!",
-            "BtR",
-            "ぼっち・ざ・ろっく!",
-            "ぼっち・ざ・ろっく！"
-        ],
-        "relations": [
-            "https://anilist.co/anime/127549"
-        ],
-        "tags": [
-            "band",
-            "based on a 4-koma manga",
-            "based on a manga",
-            "cgdct",
-            "comedy",
-            "cute girls doing cute things",
-            "music",
-            "musical band",
-            "primarily child cast",
-            "primarily teen cast",
-            "seinen",
-            "slice of life"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/142411",
             "https://kitsu.io/anime/45566",
             "https://livechart.me/anime/10926"
@@ -1987,40 +1905,29 @@
             "action drama",
             "adventure",
             "age gap",
-            "airsoft",
             "amnesia",
             "assassins",
             "based on a manga",
-            "battle royale",
             "body horror",
-            "cars",
-            "cgi",
             "comedy",
             "cosmic horror",
             "dark fantasy",
-            "death game",
             "demon",
             "demons",
             "drama",
             "excessive violence",
             "fantasy",
-            "gods",
             "gore",
             "guns",
             "hero of strong character",
             "horror",
-            "ice skating",
-            "incest",
-            "isekai",
             "juujin",
-            "love triangle",
             "mafia",
             "magic",
             "male protagonist",
             "manga",
             "monster boy",
             "monster girl",
-            "mythology",
             "nudity",
             "present",
             "primarily adult cast",
@@ -2225,7 +2132,9 @@
         "synonyms": [
             "Mwk feat. Hatsune Miku - Connected"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/17118"
+        ],
         "tags": [
             "cg-anime",
             "indefinite"
@@ -2550,7 +2459,7 @@
         ],
         "title": "Delicious Party♡Precure",
         "type": "tv",
-        "episodes": 18,
+        "episodes": 19,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1332/120430.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1332/120430t.jpg",
@@ -2664,6 +2573,7 @@
             "food",
             "food and beverage",
             "henshin",
+            "isekai",
             "kids",
             "magic",
             "magical girl",
@@ -2814,6 +2724,7 @@
             "sci fi",
             "sci-fi",
             "science fiction",
+            "violence",
             "war"
         ],
         "date": {
@@ -3126,7 +3037,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1386/117935.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1386/117935t.jpg",
         "synonyms": [
-            "Class Room For Heroes",
+            "Class Room for Heroes",
             "Class Room✿For Heroes",
             "Classroom For Heroes",
             "Classroom for Heroes",
@@ -3467,11 +3378,11 @@
             "gods",
             "heterosexual",
             "isekai",
-            "lgbtq+ themes",
             "magic",
             "magical sex shift",
             "manga",
             "meta",
+            "parody",
             "person in a strange world",
             "primarily adult cast",
             "romance",
@@ -3898,6 +3809,7 @@
             "https://anidb.net/anime/15416",
             "https://anilist.co/anime/116248",
             "https://anime-planet.com/anime/girl-gaku-sei-girls-square-gakuin",
+            "https://anisearch.com/anime/15043",
             "https://kitsu.io/anime/43237",
             "https://livechart.me/anime/9815",
             "https://myanimelist.net/anime/41381",
@@ -4273,7 +4185,7 @@
         ],
         "title": "Girigiri Warukunai Watame",
         "type": "ona",
-        "episodes": 27,
+        "episodes": 28,
         "status": "ongoing",
         "picture": "https://media.kitsu.io/anime/45948/poster_image/small-3cbf70a7d7cfa3d2b22eefc1ef230cdf.jpeg",
         "thumbnail": "https://media.kitsu.io/anime/45948/poster_image/tiny-032890c7ecacd2454dd64ea5e96a1fa9.jpeg",
@@ -4285,6 +4197,7 @@
             "https://anilist.co/anime/118123"
         ],
         "tags": [
+            "aliens",
             "comedy",
             "cute girls doing cute things",
             "full cgi",
@@ -4810,7 +4723,7 @@
         ],
         "title": "HololiveERROR",
         "type": "ona",
-        "episodes": 25,
+        "episodes": 24,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1224/121225.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1224/121225t.jpg",
@@ -5202,8 +5115,10 @@
         "tags": [
             "aliens",
             "based on a 4-koma manga",
+            "parody",
             "present",
             "promotional",
+            "school",
             "shorts",
             "slice of life"
         ],
@@ -5238,6 +5153,15 @@
         "relations": [
             "https://anidb.net/anime/11423",
             "https://anilist.co/anime/102484",
+            "https://anisearch.com/anime/10567",
+            "https://anisearch.com/anime/12987",
+            "https://anisearch.com/anime/13003",
+            "https://anisearch.com/anime/13398",
+            "https://anisearch.com/anime/13405",
+            "https://anisearch.com/anime/13406",
+            "https://anisearch.com/anime/13409",
+            "https://anisearch.com/anime/14499",
+            "https://anisearch.com/anime/16379",
             "https://kitsu.io/anime/11296",
             "https://myanimelist.net/anime/31300"
         ],
@@ -5547,6 +5471,7 @@
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17474.webp",
         "synonyms": [
             "I Hate Myself the Most in the World",
+            "Sin miedo",
             "Takayan - I Hate Myself the Most in the World",
             "Takayan - Jibun no Koto ga Daikiraina Hito no Kyoku",
             "たかやん - 自分の事が大嫌いな人の曲",
@@ -6002,6 +5927,7 @@
             "Teasing Master Takagi-san 3rd Season",
             "Teasing Master Takagi-san Season 3",
             "Teasing Master Takagi-san: Season 3",
+            "takagi-san s3",
             "แกล้งนัก รักนะรู้ยัง ภาค 3",
             "からかい上手の高木さん 3",
             "からかい上手の高木さん3",
@@ -6159,6 +6085,30 @@
             "trapped in a video game",
             "virtual world"
         ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anisearch.com/anime/17513"
+        ],
+        "title": "Kidou Senshi Gundam: Tekketsu no Orphans - Urdr Hunt Shudaika Movie",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17513.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17513.webp",
+        "synonyms": [
+            "Kidō Senshi Gundam: Tekketsu no Orphans - Urdr Hunt Shudaika Movie",
+            "Mobile Suit Gundam Iron-Blooded Orphans Urdr-Hunt Theme Song Movie",
+            "機動戦士ガンダム 鉄血のオルフェンズ ウルズハント 主題歌ムービー"
+        ],
+        "relations": [
+            "https://anisearch.com/anime/14094"
+        ],
+        "tags": [],
         "date": {
             "season": "winter",
             "year": 2022
@@ -6473,6 +6423,47 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16450",
+            "https://anime-planet.com/anime/kirakira-kirari",
+            "https://anisearch.com/anime/16784",
+            "https://livechart.me/anime/11056",
+            "https://myanimelist.net/anime/49844"
+        ],
+        "title": "Kirakira Kirari",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1948/121845.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1948/121845t.jpg",
+        "synonyms": [
+            "Kirakira Kirari☆",
+            "Wakate Animator Ikusei Project 2022",
+            "キラキラきらり☆"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/rockn-oyone",
+            "https://anime-planet.com/anime/tenjin",
+            "https://anime-planet.com/anime/uchuu-camper-chicchi",
+            "https://livechart.me/anime/11053",
+            "https://livechart.me/anime/11054",
+            "https://livechart.me/anime/11055",
+            "https://myanimelist.net/anime/51412",
+            "https://myanimelist.net/anime/51413",
+            "https://myanimelist.net/anime/51414"
+        ],
+        "tags": [
+            "anime tamago",
+            "fantasy",
+            "shorts",
+            "wakate animator ikusei project"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/136436",
             "https://anime-planet.com/anime/miss-kobayashis-dragon-maid-s-japanese-hospitality-the-attendant-is-a-dragon",
             "https://anisearch.com/anime/16895",
@@ -6724,6 +6715,7 @@
             "manga & doujinshi",
             "neighbors",
             "present",
+            "school",
             "seinen",
             "shounen",
             "slice of life",
@@ -8254,7 +8246,7 @@
         ],
         "title": "Ninjala (TV)",
         "type": "tv",
-        "episodes": 27,
+        "episodes": 28,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1552/119871.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1552/119871t.jpg",
@@ -8457,7 +8449,7 @@
         ],
         "title": "Ohiru no Shocker-san",
         "type": "tv",
-        "episodes": 25,
+        "episodes": 26,
         "status": "ongoing",
         "picture": "https://cdn.anime-planet.com/anime/primary/ohiru-no-shocker-san-1.webp?t=1641925043",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/ohiru-no-shocker-san-1-285x399.webp?t=1641925043",
@@ -8487,8 +8479,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1429/121890.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1429/121890t.jpg",
         "synonyms": [
             "思ひ恋う",
             "思ひ恋ふ"
@@ -8533,12 +8525,10 @@
             "anthropomorphic",
             "cats",
             "comedy",
-            "fantasy",
             "manga",
             "non-human protagonists",
             "short episodes",
             "showbiz",
-            "slice of life",
             "work life"
         ],
         "date": {
@@ -8767,6 +8757,8 @@
             "https://anime-planet.com/anime/oshiri-tantei-movie-1-curry-naru-jiken",
             "https://anime-planet.com/anime/oshiri-tantei-movie-2-tentou-mushi-iseki-no-nazo",
             "https://anime-planet.com/anime/oshiri-tantei-movie-3-sufure-tou-no-himitsu",
+            "https://anisearch.com/anime/12517",
+            "https://anisearch.com/anime/17143",
             "https://livechart.me/anime/10471",
             "https://livechart.me/anime/10522",
             "https://livechart.me/anime/10543",
@@ -9044,74 +9036,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16973",
-            "https://anilist.co/anime/141400",
-            "https://anime-planet.com/anime/peter-grill-and-the-philosophers-time-super-extra",
-            "https://anisearch.com/anime/16791",
-            "https://kitsu.io/anime/45490",
-            "https://livechart.me/anime/10884",
-            "https://myanimelist.net/anime/50348",
-            "https://notify.moe/anime/IEewvK5ng"
-        ],
-        "title": "Peter Grill to Kenja no Jikan: Super Extra",
-        "type": "tv",
-        "episodes": 12,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1977/123266.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1977/123266t.jpg",
-        "synonyms": [
-            "Anime: Peter Grill to Kenja no Jikan: Super Extra",
-            "Peter Grill and the Philosopher's Time",
-            "Peter Grill and the Philosopher's Time Season 2",
-            "Peter Grill and the Philosopher's Time Super Extra",
-            "Peter Grill and the Philosopher's Time: Super Extra",
-            "Peter Grill and the Philosopher`s Time: Super Extra",
-            "Peter Grill and the Philosopher‘s Time Season 2",
-            "Peter Grill and the Philosopher’s Time - Super Extra",
-            "Peter Grill and the Philosopher’s Time: Super Extra",
-            "Peter Grill to Kenja no Jikan 2",
-            "Peter Grill to Kenja no Jikan 2nd Season",
-            "Peter Grill to Kenja no Jikan Super Extra",
-            "ピーター・グリルと賢者の時間 Super Extra",
-            "ピーター・グリルと賢者の時間２"
-        ],
-        "relations": [
-            "https://anidb.net/anime/15107",
-            "https://anilist.co/anime/111965",
-            "https://anime-planet.com/anime/peter-grill-and-the-philosophers-time",
-            "https://anisearch.com/anime/14633",
-            "https://kitsu.io/anime/42563",
-            "https://livechart.me/anime/9609",
-            "https://myanimelist.net/anime/40436",
-            "https://notify.moe/anime/6GhJrq2ZR"
-        ],
-        "tags": [
-            "alternative world",
-            "based on a manga",
-            "comedy",
-            "demons",
-            "ecchi",
-            "elves",
-            "fantasy",
-            "fantasy world",
-            "female harem",
-            "harem",
-            "hero of strong character",
-            "large breasts",
-            "magic",
-            "monster girls",
-            "overpowered main characters",
-            "romance",
-            "seinen",
-            "swords & co"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/16808",
             "https://anilist.co/anime/139675",
             "https://anime-planet.com/anime/petit-seka",
@@ -9215,6 +9139,7 @@
         "relations": [
             "https://anilist.co/anime/112153",
             "https://anime-planet.com/anime/pokemon",
+            "https://anisearch.com/anime/3721",
             "https://kitsu.io/anime/42534",
             "https://myanimelist.net/anime/50815",
             "https://myanimelist.net/anime/51018"
@@ -9333,9 +9258,11 @@
             "fantasy world",
             "gods",
             "kids",
+            "male protagonist",
             "monsters",
             "primarily child cast",
-            "proxy battles"
+            "proxy battles",
+            "urban fantasy"
         ],
         "date": {
             "season": "winter",
@@ -9726,6 +9653,49 @@
         ],
         "tags": [
             "cg-anime"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/16448",
+            "https://anime-planet.com/anime/rockn-oyone",
+            "https://anisearch.com/anime/16790",
+            "https://livechart.me/anime/11054",
+            "https://myanimelist.net/anime/51413"
+        ],
+        "title": "Rock'n Oyone",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1847/121843.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1847/121843t.jpg",
+        "synonyms": [
+            "Rock`n Oyone",
+            "Rockin' Oyone",
+            "Rock‘n Oyone",
+            "Wakate Animator Ikusei Project 2022",
+            "ロックンおヨネ"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/kirakira-kirari",
+            "https://anime-planet.com/anime/tenjin",
+            "https://anime-planet.com/anime/uchuu-camper-chicchi",
+            "https://livechart.me/anime/11053",
+            "https://livechart.me/anime/11055",
+            "https://livechart.me/anime/11056",
+            "https://myanimelist.net/anime/49844",
+            "https://myanimelist.net/anime/51412",
+            "https://myanimelist.net/anime/51414"
+        ],
+        "tags": [
+            "anime tamago",
+            "music",
+            "shorts",
+            "wakate animator ikusei project"
         ],
         "date": {
             "season": "winter",
@@ -10231,6 +10201,7 @@
         "synonyms": [
             "Sasaki & Miyano",
             "Sasaki and Miyano",
+            "Sasaki i Miyano",
             "Sasamiya",
             "ซาซากิกับมิยาโนะ",
             "佐々木と宮野",
@@ -10247,6 +10218,7 @@
             "https://kitsu.io/anime/46014",
             "https://livechart.me/anime/10967",
             "https://livechart.me/anime/11163",
+            "https://livechart.me/anime/11329",
             "https://myanimelist.net/anime/50672",
             "https://myanimelist.net/anime/51440",
             "https://notify.moe/anime/rZPDptynR",
@@ -10268,6 +10240,7 @@
             "delinquents",
             "fudanshi",
             "high school",
+            "iyashikei",
             "lgbtq+ themes",
             "male protagonist",
             "manga",
@@ -10285,7 +10258,8 @@
             "shounen ai",
             "shounen-ai",
             "slapstick",
-            "slice of life"
+            "slice of life",
+            "trains"
         ],
         "date": {
             "season": "winter",
@@ -10583,13 +10557,14 @@
         "synonyms": [
             "Great Journey Of Teenagers 2 Part 2",
             "Great Journey of Teenagers 2nd Season Part 2",
-            "Great Journey of Teenagers 2nd Season: Part II",
             "Shao Nian Ge Xing 2nd Season Part 2",
             "Shao Nian Ge Xing: Feng Hua Xue Yue Pian (2022)",
             "Shaonian Ge Xing 2nd Season Part 2",
             "Shaonian Ge Xing: Fenghuaxueyue Pian (2022)",
             "Shaonian Gexing 2nd Season: Part II",
+            "The Great Journey of Teenagers 2nd Season: Part II",
             "Youths and Golden Coffin 2 Part 2",
+            "Youths and Golden Coffin 2: Part II",
             "Youths and Golden Coffin 2nd Season Part 2",
             "Youths and Golden Coffin Season 2 (Part 2)",
             "少年歌行 风花雪月篇",
@@ -10601,6 +10576,7 @@
             "https://anidb.net/anime/16636",
             "https://anilist.co/anime/120321",
             "https://anilist.co/anime/150947",
+            "https://anime-planet.com/anime/shaonian-ge-xing-feng-hua-xue-yue-pian-special",
             "https://anime-planet.com/anime/shaonian-gexing-2nd-season",
             "https://anisearch.com/anime/16459",
             "https://kitsu.io/anime/45195",
@@ -10739,6 +10715,7 @@
             "Shika no Ou",
             "Shika no Ou: Yuna to Yakusoku no Taboi",
             "The Deer King",
+            "The Deer King: Il Re dei Cervi",
             "The Deer King: The Promised Journey With Yuna",
             "鹿の王",
             "鹿の王 ユナと約束の旅"
@@ -11464,7 +11441,7 @@
         ],
         "title": "Stars*Collection!",
         "type": "ona",
-        "episodes": 24,
+        "episodes": 25,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1261/120889.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1261/120889t.jpg",
@@ -12089,7 +12066,7 @@
         ],
         "title": "Teiko Penguin",
         "type": "tv",
-        "episodes": 28,
+        "episodes": 29,
         "status": "ongoing",
         "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143413-yA49X4tYfoQP.jpg",
         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143413-yA49X4tYfoQP.jpg",
@@ -12172,6 +12149,43 @@
             "psychological",
             "revenge",
             "vtuber"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/16447",
+            "https://anime-planet.com/anime/tenjin",
+            "https://anisearch.com/anime/16789",
+            "https://livechart.me/anime/11053"
+        ],
+        "title": "Tenjin",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.anime-planet.com/anime/primary/tenjin-1.webp?t=1643462726",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/tenjin-1-285x400.webp?t=1643462726",
+        "synonyms": [
+            "Wakate Animator Ikusei Project 2022",
+            "天神"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/kirakira-kirari",
+            "https://anime-planet.com/anime/rockn-oyone",
+            "https://anime-planet.com/anime/uchuu-camper-chicchi",
+            "https://livechart.me/anime/11054",
+            "https://livechart.me/anime/11055",
+            "https://livechart.me/anime/11056"
+        ],
+        "tags": [
+            "adventure",
+            "anime tamago",
+            "fantasy",
+            "shorts",
+            "wakate animator ikusei project"
         ],
         "date": {
             "season": "winter",
@@ -12505,6 +12519,7 @@
         "tags": [
             "anachronism",
             "based on a manga",
+            "bathhouse",
             "comedy",
             "episodic",
             "europe",
@@ -12828,60 +12843,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/17075",
-            "https://anilist.co/anime/143064",
-            "https://anime-planet.com/anime/endo-and-kobayashi-live-the-latest-on-tsundere-villainess-lieselotte",
-            "https://anisearch.com/anime/16955",
-            "https://kitsu.io/anime/45658",
-            "https://livechart.me/anime/10966",
-            "https://myanimelist.net/anime/50652",
-            "https://notify.moe/anime/qO_GKuT7g"
-        ],
-        "title": "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san",
-        "type": "special",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1224/120213.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1224/120213t.jpg",
-        "synonyms": [
-            "Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte",
-            "Endo and Kobayashi’s Live Commentary on the Villainess",
-            "The Play-By-Play Commentator Endo-kun and Colour Commentator Kobayashi-san’s Live Commentary on the Tsundere Villainess Liselotte",
-            "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endo-kun to Kaisetsu no Kobayashi-san",
-            "Tsundere Akuyaku Reijō Liselotte to Jikkyō no Endō-kun to Kaisetsu no Kobayashi-san",
-            "นางร้ายสุดซึน ลีเซล็อตเต กับขบวนการพลิกลิขิตสู่ชีวิตแฮปปี้เอนด์",
-            "ツンデレ悪役令嬢リーゼロッテと実況の遠藤くんと解説の小林さん"
-        ],
-        "relations": [],
-        "tags": [
-            "based on a light novel",
-            "comedy",
-            "drama",
-            "fantasy",
-            "isekai",
-            "josei",
-            "magic",
-            "novel",
-            "ojou-sama",
-            "present",
-            "primarily teen cast",
-            "romance",
-            "romantic comedy",
-            "royalty",
-            "school",
-            "school life",
-            "shoujo",
-            "tsundere",
-            "video games",
-            "villainess"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/17361"
         ],
         "title": "Ttittippo Ttittippo 3",
@@ -12947,6 +12908,45 @@
             "anime influenced",
             "motorsport",
             "sports"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/16449",
+            "https://anime-planet.com/anime/uchuu-camper-chicchi",
+            "https://anisearch.com/anime/16788",
+            "https://livechart.me/anime/11055"
+        ],
+        "title": "Uchuu Camper Chicchi",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.anime-planet.com/anime/primary/uchuu-camper-chicchi-1.webp?t=1643462832",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/uchuu-camper-chicchi-1-285x400.webp?t=1643462832",
+        "synonyms": [
+            "Space Camper Chicchi",
+            "Uchū Camper Chicchi",
+            "Wakate Animator Ikusei Project 2022",
+            "宇宙キャンパー/チッチ",
+            "宇宙キャンパー・チッチ"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/kirakira-kirari",
+            "https://anime-planet.com/anime/rockn-oyone",
+            "https://anime-planet.com/anime/tenjin",
+            "https://livechart.me/anime/11053",
+            "https://livechart.me/anime/11054",
+            "https://livechart.me/anime/11056"
+        ],
+        "tags": [
+            "anime tamago",
+            "shorts",
+            "space",
+            "wakate animator ikusei project"
         ],
         "date": {
             "season": "winter",
@@ -13483,6 +13483,8 @@
             "Meine ganz besondere Hochzeit",
             "My Blissful Marriage",
             "My Happy Marriage",
+            "Watakon",
+            "Watashino",
             "ขอให้รักเรานี้ได้มีความสุข",
             "わたしの幸せな結婚",
             "わたしの幸せな結婚 #わた婚アニメ"
@@ -14561,7 +14563,7 @@
         "title": "Zhu Tian Ji",
         "type": "ona",
         "episodes": 26,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1925/120742.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1925/120742t.jpg",
         "synonyms": [

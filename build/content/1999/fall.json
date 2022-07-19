@@ -1807,7 +1807,6 @@
             "manga",
             "mystery",
             "present",
-            "puppetry",
             "shounen",
             "supernatural drama",
             "suspense",
@@ -2202,7 +2201,10 @@
             "Making of 名探偵コナン",
             "The Mysterious Murder Plan"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/1721",
+            "https://anisearch.com/anime/5879"
+        ],
         "tags": [
             "anime & movie",
             "crime fiction",
@@ -2605,7 +2607,7 @@
         ],
         "title": "One Piece",
         "type": "tv",
-        "episodes": 1024,
+        "episodes": 1025,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/6/73245t.jpg",
@@ -3000,7 +3002,6 @@
             "politics",
             "primarily adult cast",
             "primarily male cast",
-            "real robot",
             "robots",
             "shapeshifting",
             "ships",
@@ -3024,7 +3025,6 @@
             "transgender",
             "travel",
             "tsundere",
-            "villainess",
             "war",
             "zombie"
         ],
@@ -4109,6 +4109,8 @@
             "https://anilist.co/anime/447",
             "https://anime-planet.com/anime/knight-hunters",
             "https://anime-planet.com/anime/knight-hunters-eternity",
+            "https://anisearch.com/anime/1461",
+            "https://anisearch.com/anime/3087",
             "https://kitsu.io/anime/409",
             "https://kitsu.io/anime/410",
             "https://myanimelist.net/anime/446",

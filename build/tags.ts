@@ -482,6 +482,7 @@ export const tags = [
   'insects',
   'inseki',
   'interspecies relationship',
+  'irrumatio',
   'isekai',
   'island',
   'isolated society',

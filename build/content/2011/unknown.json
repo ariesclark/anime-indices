@@ -2029,6 +2029,32 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52371"
+        ],
+        "title": "Lao Fu Zi 3",
+        "type": "tv",
+        "episodes": 13,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1972/125321.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1972/125321t.jpg",
+        "synonyms": [
+            "Old Master Q (2011)",
+            "Old Master Q Series 3",
+            "老夫子 (2011)",
+            "老夫子3"
+        ],
+        "relations": [],
+        "tags": [
+            "comedy",
+            "gag humor"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/44809"
         ],
         "title": "Lao La De Xingxing Zai Zhongguo",
@@ -3113,9 +3139,7 @@
         "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125822-etRpAu7pyQRq.png",
         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125822-etRpAu7pyQRq.png",
         "synonyms": [],
-        "relations": [
-            "https://anilist.co/anime/125821"
-        ],
+        "relations": [],
         "tags": [
             "love triangle",
             "yandere"

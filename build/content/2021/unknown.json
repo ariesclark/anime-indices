@@ -998,8 +998,8 @@
         "type": "special",
         "episodes": 3,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "picture": "https://cdn.anime-planet.com/anime/primary/bear-bear-bear-kumadam-hen-1.webp?t=1656451668",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/bear-bear-bear-kumadam-hen-1-285x399.webp?t=1656451668",
         "synonyms": [],
         "relations": [
             "https://anime-planet.com/anime/bear-bear-bear-kuma",
@@ -1009,7 +1009,8 @@
             "based on a light novel",
             "chibi",
             "comedy",
-            "fantasy"
+            "fantasy",
+            "mecha"
         ],
         "date": {
             "season": "unknown",
@@ -1580,6 +1581,30 @@
         ],
         "relations": [],
         "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/131647"
+        ],
+        "title": "Chao Shikong Kuaidi",
+        "type": "ona",
+        "episodes": 12,
+        "status": "unknown",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131647-t7XvwvT5OjVH.png",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131647-t7XvwvT5OjVH.png",
+        "synonyms": [
+            "Happierspace Express",
+            "超时空快递"
+        ],
+        "relations": [],
+        "tags": [
+            "comedy",
+            "sci-fi"
+        ],
         "date": {
             "season": "unknown",
             "year": 2021
@@ -2507,6 +2532,35 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52378"
+        ],
+        "title": "Dou Hun Wei Zhi Xuan Yue Qiyuan V",
+        "type": "ona",
+        "episodes": 13,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1276/125334.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1276/125334t.jpg",
+        "synonyms": [
+            "Dou Hun Wei Zhi Xuan Yue Qi Yuan 5",
+            "Spirit Guardians",
+            "Spirit Guardians 5th Season",
+            "The Dream of the Soul",
+            "斗魂卫之玄月奇缘 V"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/45448"
+        ],
+        "tags": [
+            "adventure",
+            "fantasy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/128417"
         ],
         "title": "Doushi Miao Qitan",
@@ -2578,6 +2632,26 @@
             "orphans",
             "recap",
             "shounen"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/152434"
+        ],
+        "title": "Dreaming All Alone",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152434-5RRXSkDFFX2y.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152434-5RRXSkDFFX2y.jpg",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "full cgi"
         ],
         "date": {
             "season": "unknown",
@@ -3239,6 +3313,28 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52416"
+        ],
+        "title": "Geheime Welt Idhún Staffel 1",
+        "type": "tv",
+        "episodes": 5,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "action",
+            "adventure",
+            "supernatural"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/139096"
         ],
         "title": "Genius",
@@ -3800,27 +3896,6 @@
         "tags": [
             "vocaloid"
         ],
-        "date": {
-            "season": "unknown",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/51968"
-        ],
-        "title": "Hong Ying Yi Mai",
-        "type": "ona",
-        "episodes": 5,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1908/124149.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1908/124149t.jpg",
-        "synonyms": [
-            "Hong Ying Yi Mai Zhi Yi Da Wenwu Beihou De Gushi",
-            "红影一脉之一大文物背后的故事"
-        ],
-        "relations": [],
-        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2021
@@ -7539,8 +7614,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
         "synonyms": [
             "Pokemon: Natsuyasumi Chokuzen 1-jikan Special"
         ],
@@ -8333,28 +8408,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/50882"
-        ],
-        "title": "Selection Project-chan Gekijou",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "セレプロちゃん！劇場"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44275"
-        ],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/130930"
         ],
         "title": "Shanliang de Adai",
@@ -8557,6 +8610,34 @@
         "tags": [
             "adventure",
             "idols (female)"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52403"
+        ],
+        "title": "Shinshun Tokuban: Jujutsu Kaisen - Ima kara demo Ma ni Au - Minogashite Goukai wa Shitakunai! Special!",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1410/125401.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1410/125401t.jpg",
+        "synonyms": [
+            "New Year`s Special: Jujutsu Kaisen - It`s Not Too Late! I Don`t Want to Regret Missing It! Special!",
+            "Sorcery Fight New Year's Special",
+            "新春特番 呪術廻戦 今からでも間に合う 見逃して後悔はしたくない! スペシャル!"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "adventure",
+            "fantasy",
+            "horror",
+            "sci-fi"
         ],
         "date": {
             "season": "unknown",
@@ -9229,6 +9310,31 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52385"
+        ],
+        "title": "Tokyo Revengers Recap",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "delinquents",
+            "drama",
+            "school",
+            "shounen",
+            "supernatural",
+            "time travel"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/50001"
         ],
         "title": "Tom to Jerry",
@@ -9630,8 +9736,8 @@
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148471-88lxlQStav3C.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148471-88lxlQStav3C.jpg",
+        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148471-ZgjO2Ab1c41E.jpg",
+        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148471-ZgjO2Ab1c41E.jpg",
         "synonyms": [
             "Il Nostro Due",
             "Our 2",
@@ -9723,7 +9829,7 @@
         ],
         "title": "Wo Cong Zhu Tian Wan Jie Guilai",
         "type": "ona",
-        "episodes": 31,
+        "episodes": 32,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1280/124930.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1280/124930t.jpg",
@@ -9965,7 +10071,7 @@
         ],
         "title": "Xiuluo Jian Zun",
         "type": "ona",
-        "episodes": 136,
+        "episodes": 137,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1822/115370.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1822/115370t.jpg",
@@ -10016,6 +10122,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/xue-yu-huo-xin-zhongguo-shi-zheyang-lian-cheng-de",
             "https://myanimelist.net/anime/51965"
         ],
         "title": "Xue Yu Huo: Xin Zhongguo Shi Zheyang Lian Cheng De",
@@ -10029,9 +10136,11 @@
         ],
         "relations": [],
         "tags": [
+            "chinese animation",
             "drama",
             "historical",
-            "military"
+            "military",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",

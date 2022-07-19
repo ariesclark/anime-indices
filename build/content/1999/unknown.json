@@ -422,51 +422,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/52064"
-        ],
-        "title": "Jigong Chuanqi Donghua Ban",
-        "type": "tv",
-        "episodes": 5,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1539/124415.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1539/124415t.jpg",
-        "synonyms": [
-            "濟公傳奇 動畫版"
-        ],
-        "relations": [],
-        "tags": [
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 1999
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/52153"
-        ],
-        "title": "Kingyo ga Nigeta",
-        "type": "ova",
-        "episodes": 4,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1221/124629.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1221/124629t.jpg",
-        "synonyms": [
-            "WHERE'S THE FISH?",
-            "きんぎょが　にげた"
-        ],
-        "relations": [],
-        "tags": [
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 1999
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/71",
             "https://myanimelist.net/anime/4369"
         ],
@@ -1236,6 +1191,33 @@
             "family friendly",
             "kids",
             "short episodes"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1999
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52383"
+        ],
+        "title": "Yuusha-Ou GaoGaiGar Blockaded Numbers",
+        "type": "special",
+        "episodes": 2,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1134/125339.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1134/125339t.jpg",
+        "synonyms": [
+            "勇者王ガオガイガー BLOCKADED NUMBERS"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/890"
+        ],
+        "tags": [
+            "action",
+            "mecha",
+            "sci-fi",
+            "shounen"
         ],
         "date": {
             "season": "unknown",

@@ -185,29 +185,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/52103"
-        ],
-        "title": "Charmmy Kitty",
-        "type": "ova",
-        "episodes": 5,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1775/124539.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1775/124539t.jpg",
-        "synonyms": [
-            "チャーミーキティ"
-        ],
-        "relations": [],
-        "tags": [
-            "kids",
-            "pets"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2006
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/chibi-neko-chobi-chibi-neko-kobi-to-tomodachi"
         ],
         "title": "Chibi Neko Chobi / Chibi Neko Kobi to Tomodachi",
@@ -223,29 +200,6 @@
             "cats",
             "family friendly",
             "non-human protagonists"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2006
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/52152"
-        ],
-        "title": "Emono wa Dokoda",
-        "type": "ova",
-        "episodes": 4,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1100/124628.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1100/124628t.jpg",
-        "synonyms": [
-            "Asobou yoDaijoubu KashiraTomodachi ga Kimashita",
-            "えものはどこだ"
-        ],
-        "relations": [],
-        "tags": [
-            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -796,6 +750,58 @@
             "adventure",
             "fantasy",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2006
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52369"
+        ],
+        "title": "Lao Fu Zi 1 Zhi Mojie Meng Zhanji",
+        "type": "tv",
+        "episodes": 13,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1362/125319.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1362/125319t.jpg",
+        "synonyms": [
+            "Old Master Q Fantasy Zone Battle I",
+            "Old Master Q Series 1 Fantasy Zone Battle",
+            "老夫子1之魔界夢戰記",
+            "老夫子魔界夢戰記 I"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "comedy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2006
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52370"
+        ],
+        "title": "Lao Fu Zi 2 Zhi Mojie Meng Zhanji",
+        "type": "tv",
+        "episodes": 13,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1683/125320.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1683/125320t.jpg",
+        "synonyms": [
+            "Old Master Q Fantasy Zone Battle II",
+            "Old Master Q Series 2 Fantasy Zone Battle",
+            "老夫子2之魔界夢戰記",
+            "老夫子魔界夢戰記 II"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "comedy"
         ],
         "date": {
             "season": "unknown",
@@ -1493,6 +1499,32 @@
         ],
         "relations": [],
         "tags": [],
+        "date": {
+            "season": "unknown",
+            "year": 2006
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52384"
+        ],
+        "title": "Yuusha Ou GaoGaiGar: Project Z",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1549/125340.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1549/125340t.jpg",
+        "synonyms": [
+            "勇者王ガオガイガー『プロジェクトZ』"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/4416"
+        ],
+        "tags": [
+            "mecha",
+            "shounen",
+            "space"
+        ],
         "date": {
             "season": "unknown",
             "year": 2006

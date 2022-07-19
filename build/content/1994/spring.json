@@ -713,7 +713,9 @@
             "End of Summer",
             "同級生 夏の終わりに"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/361"
+        ],
         "tags": [
             "drama",
             "hentai",
@@ -2472,6 +2474,34 @@
             "drama",
             "fantasy",
             "romance"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 1994
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52159"
+        ],
+        "title": "Slam Dunk: Ketsui no Shouhoku Basket-bu",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1208/124649.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1208/124649t.jpg",
+        "synonyms": [
+            "The Determined Shohoku Basketball Team",
+            "スラムダンク 決意の湘北バスケ部"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/170"
+        ],
+        "tags": [
+            "school",
+            "shounen",
+            "sports",
+            "team sports"
         ],
         "date": {
             "season": "spring",

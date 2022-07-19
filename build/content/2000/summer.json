@@ -463,6 +463,7 @@
             "https://anime-planet.com/anime/di-gi-charat-winter-garden",
             "https://anime-planet.com/anime/leave-it-to-piyoko",
             "https://anime-planet.com/anime/panyo-panyo-di-gi-charat",
+            "https://anisearch.com/anime/3272",
             "https://kitsu.io/anime/268",
             "https://livechart.me/anime/10641",
             "https://livechart.me/anime/6074",
@@ -553,6 +554,9 @@
         "relations": [
             "https://anidb.net/anime/561",
             "https://anilist.co/anime/1313",
+            "https://anisearch.com/anime/1480",
+            "https://anisearch.com/anime/250",
+            "https://anisearch.com/anime/770",
             "https://kitsu.io/anime/1178",
             "https://kitsu.io/anime/13736",
             "https://livechart.me/anime/3730",
@@ -2511,7 +2515,9 @@
             "Go! Anpanman: Yakisobapanman and Blacksabodenman",
             "それいけ！アンパンマン やきそばパンマンとブラックサボテンマン"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/5334"
+        ],
         "tags": [
             "comedy"
         ],
@@ -2681,6 +2687,29 @@
             "recap",
             "rpg",
             "shounen"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2000
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52155"
+        ],
+        "title": "Tabeta no Daare",
+        "type": "ova",
+        "episodes": 4,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1015/124631.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1015/124631t.jpg",
+        "synonyms": [
+            "Who Ate It?",
+            "たべたのだあれ"
+        ],
+        "relations": [],
+        "tags": [
+            "kids"
         ],
         "date": {
             "season": "summer",

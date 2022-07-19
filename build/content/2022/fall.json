@@ -1,6 +1,45 @@
 [
     {
         "sources": [
+            "https://anidb.net/anime/17285",
+            "https://anilist.co/anime/146962",
+            "https://anime-planet.com/anime/4-nin-wa-sorezore-uso-wo-tsuku",
+            "https://anisearch.com/anime/17255",
+            "https://kitsu.io/anime/46034",
+            "https://livechart.me/anime/11171",
+            "https://myanimelist.net/anime/51464",
+            "https://notify.moe/anime/x3j4ua8nR"
+        ],
+        "title": "4-nin wa Sorezore Uso wo Tsuku",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1601/125405.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1601/125405t.jpg",
+        "synonyms": [
+            "4-nin wa Sorezore Uso o Tsuku",
+            "4人はそれぞれウソをつく",
+            "Four People and Their Respective Lies",
+            "The Little Lies We All Tell",
+            "４人はそれぞれウソをつく"
+        ],
+        "relations": [],
+        "tags": [
+            "based on a manga",
+            "comedy",
+            "sci-fi",
+            "science fiction",
+            "shounen",
+            "slice of life",
+            "supernatural"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/17487",
             "https://anime-planet.com/anime/a-turtles-shell-is-a-humans-ribs",
             "https://anisearch.com/anime/17498",
@@ -291,6 +330,51 @@
             "sports",
             "team sports",
             "tragedy"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/16063",
+            "https://anilist.co/anime/130003",
+            "https://anime-planet.com/anime/bocchi-the-rock",
+            "https://anisearch.com/anime/15989",
+            "https://kitsu.io/anime/44196",
+            "https://livechart.me/anime/10424",
+            "https://myanimelist.net/anime/47917",
+            "https://notify.moe/anime/8V57bCPMg"
+        ],
+        "title": "Bocchi the Rock!",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1294/125289.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1294/125289t.jpg",
+        "synonyms": [
+            "BOCCHI THE ROCK!",
+            "BtR",
+            "ぼっち・ざ・ろっく!",
+            "ぼっち・ざ・ろっく！"
+        ],
+        "relations": [
+            "https://anilist.co/anime/127549"
+        ],
+        "tags": [
+            "band",
+            "based on a 4-koma manga",
+            "based on a manga",
+            "cgdct",
+            "comedy",
+            "cute girls doing cute things",
+            "music",
+            "musical band",
+            "primarily child cast",
+            "primarily teen cast",
+            "seinen",
+            "slice of life"
         ],
         "date": {
             "season": "fall",
@@ -1036,7 +1120,6 @@
             "ninja",
             "nudity",
             "philosophy",
-            "psychological",
             "religion",
             "romance",
             "samurai",
@@ -1048,7 +1131,8 @@
             "survival",
             "swordplay",
             "swords & co",
-            "tragedy"
+            "tragedy",
+            "violence"
         ],
         "date": {
             "season": "fall",
@@ -1325,6 +1409,7 @@
             "A Raven in the Harem",
             "Kokyu no Karasu",
             "Kōkyū no Karasu",
+            "Raven of the Inner Palace",
             "後宮の烏"
         ],
         "relations": [],
@@ -1613,8 +1698,8 @@
         "type": "tv",
         "episodes": 0,
         "status": "unknown",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
         "synonyms": [],
         "relations": [
             "https://anime-planet.com/anime/megaton-musashi"
@@ -1675,10 +1760,11 @@
         "synonyms": [
             "Megaton Musashi Season 2",
             "Megaton-kyuu Musashi (2022)",
+            "Megaton-kyuu Musashi Season 2",
             "Megaton-kyū Musashi (2022)",
             "メガトン級ムサシ (2022)",
+            "メガトン級ムサシ シーズン2",
             "メガトン級ムサシ 第2期",
-            "メガトン級ムサシ 第２シーズン",
             "メガトン級ムサシ （2022）"
         ],
         "relations": [
@@ -1888,6 +1974,7 @@
             "https://anime-planet.com/anime/mobile-suit-gundam-suisei-no-majo-prologue",
             "https://kitsu.io/anime/59",
             "https://livechart.me/anime/11165",
+            "https://myanimelist.net/anime/52168",
             "https://myanimelist.net/anime/80",
             "https://notify.moe/anime/aucpcKimR"
         ],
@@ -1896,6 +1983,7 @@
             "action drama",
             "drama",
             "female protagonist",
+            "male protagonist",
             "mecha",
             "original work",
             "piloted robot",
@@ -2106,6 +2194,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1711/124077t.jpg",
         "synonyms": [
             "I Somehow Became Stronger by Raising Farming-Related Skills",
+            "I Somehow Got Strong By Raising Skills Related To Farming",
             "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills",
             "I`ve Somehow Gotten Stronger When I Improved My Farm-Related Skills",
             "I’ve Somehow Gotten Stronger When I Improved My Farm-Related Skills",
@@ -2162,6 +2251,72 @@
             "https://myanimelist.net/anime/41383"
         ],
         "tags": [],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/16973",
+            "https://anilist.co/anime/141400",
+            "https://anime-planet.com/anime/peter-grill-and-the-philosophers-time-super-extra",
+            "https://anisearch.com/anime/16791",
+            "https://kitsu.io/anime/45490",
+            "https://livechart.me/anime/10884",
+            "https://myanimelist.net/anime/50348",
+            "https://notify.moe/anime/IEewvK5ng"
+        ],
+        "title": "Peter Grill to Kenja no Jikan: Super Extra",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1977/123266.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1977/123266t.jpg",
+        "synonyms": [
+            "Anime: Peter Grill to Kenja no Jikan: Super Extra",
+            "Peter Grill and the Philosopher's Time",
+            "Peter Grill and the Philosopher's Time - Super Extra",
+            "Peter Grill and the Philosopher's Time Season 2",
+            "Peter Grill and the Philosopher's Time: Super Extra",
+            "Peter Grill and the Philosopher`s Time: Super Extra",
+            "Peter Grill and the Philosopher‘s Time Season 2",
+            "Peter Grill and the Philosopher’s Time - Super Extra",
+            "Peter Grill and the Philosopher’s Time: Super Extra",
+            "Peter Grill to Kenja no Jikan 2nd Season",
+            "Peter Grill to Kenja no Jikan Super Extra",
+            "ピーター・グリルと賢者の時間 Super Extra"
+        ],
+        "relations": [
+            "https://anidb.net/anime/15107",
+            "https://anilist.co/anime/111965",
+            "https://anime-planet.com/anime/peter-grill-and-the-philosophers-time",
+            "https://anisearch.com/anime/14633",
+            "https://kitsu.io/anime/42563",
+            "https://livechart.me/anime/9609",
+            "https://myanimelist.net/anime/40436",
+            "https://notify.moe/anime/6GhJrq2ZR"
+        ],
+        "tags": [
+            "alternative world",
+            "based on a manga",
+            "comedy",
+            "demons",
+            "ecchi",
+            "elves",
+            "fantasy",
+            "fantasy world",
+            "female harem",
+            "harem",
+            "hero of strong character",
+            "large breasts",
+            "magic",
+            "monster girls",
+            "overpowered main characters",
+            "romance",
+            "seinen",
+            "swords & co"
+        ],
         "date": {
             "season": "fall",
             "year": 2022
@@ -2232,51 +2387,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/17433",
-            "https://anilist.co/anime/150188",
-            "https://anisearch.com/anime/17461",
-            "https://kitsu.io/anime/46156",
-            "https://livechart.me/anime/11237",
-            "https://myanimelist.net/anime/51986"
-        ],
-        "title": "Pui Pui Molcar (2022)",
-        "type": "tv",
-        "episodes": 12,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1661/124226.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1661/124226t.jpg",
-        "synonyms": [
-            "PUI PUI Molcar Shin Series",
-            "PUI PUI モルカー",
-            "PUI PUI モルカー (2022)",
-            "PUI PUI モルカー 新シリーズ",
-            "Pui Pui Molcar (New Series)"
-        ],
-        "relations": [
-            "https://anidb.net/anime/16007",
-            "https://anilist.co/anime/127690",
-            "https://anisearch.com/anime/15824",
-            "https://kitsu.io/anime/43850",
-            "https://livechart.me/anime/10244",
-            "https://myanimelist.net/anime/44235"
-        ],
-        "tags": [
-            "animals",
-            "anthropomorphic",
-            "anthropomorphism",
-            "cars",
-            "comedy",
-            "kids",
-            "parody",
-            "stop motion"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/pui-pui-molcar-new"
         ],
         "title": "Pui Pui Molcar (New)",
@@ -2295,6 +2405,56 @@
             "cars",
             "family friendly",
             "non-human protagonists"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/17433",
+            "https://anilist.co/anime/150188",
+            "https://anime-planet.com/anime/pui-pui-molcar-driving-school",
+            "https://anisearch.com/anime/17461",
+            "https://kitsu.io/anime/46156",
+            "https://livechart.me/anime/11237",
+            "https://myanimelist.net/anime/51986"
+        ],
+        "title": "Pui Pui Molcar: Driving School",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1382/125361.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1382/125361t.jpg",
+        "synonyms": [
+            "PUI PUI Molcar: DRIVING SCHOOL",
+            "PUI PUI モルカー (2022)",
+            "PUI PUI モルカー DRIVING SCHOOL",
+            "Pui Pui Molcar (2022)",
+            "Pui Pui Molcar Driving School"
+        ],
+        "relations": [
+            "https://anidb.net/anime/16007",
+            "https://anilist.co/anime/127690",
+            "https://anime-planet.com/anime/pui-pui-molcar",
+            "https://anisearch.com/anime/15824",
+            "https://kitsu.io/anime/43850",
+            "https://livechart.me/anime/10244",
+            "https://myanimelist.net/anime/44235"
+        ],
+        "tags": [
+            "animal protagonists",
+            "animals",
+            "anthropomorphic",
+            "anthropomorphism",
+            "cars",
+            "comedy",
+            "family friendly",
+            "kids",
+            "non-human protagonists",
+            "parody",
+            "stop motion"
         ],
         "date": {
             "season": "fall",
@@ -2570,8 +2730,8 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1457/122623t.jpg",
         "synonyms": [
             "Sparrow’s Door Tightening",
+            "Suzume",
             "Suzume Locking Up the Doors",
-            "Suzume no Tojimari (Working Title)",
             "Suzume's Locking-Up",
             "Suzume’s Door-Locking",
             "すずめの戸締まり"
@@ -3391,6 +3551,53 @@
             "chinese animation",
             "fantasy",
             "full cgi"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/17513",
+            "https://anilist.co/anime/152207",
+            "https://anime-planet.com/anime/yuri-no-aida-ni-hasamareru-aru-asa-dummy-head-ni-natte-ita-ore-kun-no-jinsei",
+            "https://anisearch.com/anime/17516",
+            "https://livechart.me/anime/11332",
+            "https://myanimelist.net/anime/52381"
+        ],
+        "title": "Yuri no Aida ni Hasamareru. Aru Asa Dummyhead ni Natteita Ore-kun no Jinsei",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1135/125337.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1135/125337t.jpg",
+        "synonyms": [
+            "Caught Between a Yuri Relationship. My Life After I Became a Dummy Head Microphone One Morning.",
+            "Caught Between a Yuri Relationship. My Life After I Became a Dummy Head One Morning",
+            "Yuri no Aida ni Hasamareru. Aru Asa Dummy Head Mic ni Natteita Ore-kun no Jinsei",
+            "Yuri no Aida ni Hasamareru. Aru Asa Dummy Head Mike ni Natte Ita Ore-kun no Jinsei",
+            "Yuri no Aida ni Hasamareru. Aru Asa Dummy Head ni Natte Ita Ore-kun no Jinsei",
+            "Yurihasa",
+            "百合の間にはさまれる. ある朝ダミーヘッドマイクになっていた俺クンの人生",
+            "百合の間にはさまれる。 ある朝ダミーヘッドマイクになっていた俺クンの人生",
+            "百合の間にはさまれる。ある朝ダミーヘッドになっていた俺クンの人生"
+        ],
+        "relations": [
+            "https://livechart.me/anime/10564"
+        ],
+        "tags": [
+            "comedy",
+            "cute girls doing cute things",
+            "ecchi",
+            "girls love",
+            "harem",
+            "original work",
+            "primarily female cast",
+            "reincarnation",
+            "school club",
+            "slapstick",
+            "slice of life"
         ],
         "date": {
             "season": "fall",
