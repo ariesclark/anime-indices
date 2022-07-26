@@ -357,8 +357,8 @@
         "type": "special",
         "episodes": 2,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
         "synonyms": [],
         "relations": [
             "https://anime-planet.com/anime/boku-wa-ou-sama"
@@ -463,6 +463,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/chao-xian-lie-bing-kai-neng",
             "https://myanimelist.net/anime/44032"
         ],
         "title": "Chao Xian Lie Bing-kai Neng",
@@ -476,12 +477,17 @@
             "超限獵兵-凱能"
         ],
         "relations": [
+            "https://anime-planet.com/anime/chao-xian-lie-bing-kai-neng-2nd-season",
+            "https://anime-planet.com/anime/kainar-asy-tac-fronteer-ova",
             "https://myanimelist.net/anime/44033"
         ],
         "tags": [
             "action",
+            "cg animation",
+            "chinese animation",
             "mecha",
             "military",
+            "sci fi",
             "sci-fi"
         ],
         "date": {
@@ -4836,32 +4842,6 @@
             "chinese animation",
             "family friendly",
             "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/123348",
-            "https://myanimelist.net/anime/51812"
-        ],
-        "title": "Zassou-kun",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1676/123769.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1676/123769t.jpg",
-        "synonyms": [
-            "雑草くん"
-        ],
-        "relations": [
-            "https://anilist.co/anime/113335"
-        ],
-        "tags": [
-            "gore",
-            "tragedy"
         ],
         "date": {
             "season": "unknown",

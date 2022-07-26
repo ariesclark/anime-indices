@@ -500,11 +500,10 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1575/122963.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1575/122963t.jpg",
         "synonyms": [
-            "KAINAR 2",
             "超限獵兵-凱能 第二季"
         ],
         "relations": [
-            "https://anime-planet.com/anime/kainar-asy-tac-fronteer",
+            "https://anime-planet.com/anime/chao-xian-lie-bing-kai-neng",
             "https://myanimelist.net/anime/44032"
         ],
         "tags": [
@@ -734,24 +733,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/151083"
-        ],
-        "title": "DARK MIXER",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151083-KwuMJplGySlv.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151083-KwuMJplGySlv.png",
-        "synonyms": [],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "unknown",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
             "https://myanimelist.net/anime/44562"
         ],
         "title": "Dao Buliao De Ta-chongsheng Zhi Si",
@@ -768,6 +749,29 @@
         ],
         "tags": [
             "adventure"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/151083",
+            "https://myanimelist.net/anime/52444"
+        ],
+        "title": "Dark Mixer",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1882/125544.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1882/125544t.jpg",
+        "synonyms": [
+            "DARK MIXER"
+        ],
+        "relations": [],
+        "tags": [
+            "avant garde"
         ],
         "date": {
             "season": "unknown",
@@ -1733,6 +1737,29 @@
             "psychological",
             "romance",
             "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52429"
+        ],
+        "title": "Hitoribocchi no Hero",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1480/125519.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1480/125519t.jpg",
+        "synonyms": [
+            "Lonesome Hero"
+        ],
+        "relations": [],
+        "tags": [
+            "fantasy",
+            "psychological"
         ],
         "date": {
             "season": "unknown",
@@ -3484,18 +3511,21 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/my-dear"
+            "https://anime-planet.com/anime/my-dear",
+            "https://myanimelist.net/anime/52428"
         ],
         "title": "My Dear",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/my-dear-1.webp?t=1656439333",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/my-dear-1-285x399.webp?t=1656439333",
+        "picture": "https://cdn.myanimelist.net/images/anime/1049/125518.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1049/125518t.jpg",
         "synonyms": [],
         "relations": [],
         "tags": [
             "abstract",
+            "drama",
+            "romance",
             "shorts"
         ],
         "date": {
@@ -3951,23 +3981,28 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/109359",
             "https://anime-planet.com/anime/oyasuminasai",
-            "https://anisearch.com/anime/13351"
+            "https://anisearch.com/anime/13351",
+            "https://myanimelist.net/anime/52431"
         ],
-        "title": "Oyasuminasai",
+        "title": "Oyasumunasai",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/oyasuminasai-1.jpg?t=1625908886",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/oyasuminasai-1-190x266.jpg?t=1625908886",
+        "picture": "https://cdn.myanimelist.net/images/anime/1855/125521.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1855/125521t.jpg",
         "synonyms": [
             "Have a good sleep",
+            "Oyasuminasai",
+            "oyasumunasai",
             "おやすみなさい"
         ],
         "relations": [],
         "tags": [
             "abstract",
             "no dialogue",
+            "psychological",
             "shorts"
         ],
         "date": {
@@ -4650,27 +4685,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/spoon"
-        ],
-        "title": "SPOON",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/spoon-1.webp?t=1656372279",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/spoon-1-285x399.webp?t=1656372279",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "abstract",
-            "shorts"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/srg-international-financial-services-siji-xi"
         ],
         "title": "SRG International Financial Services: Siji Xi",
@@ -4765,29 +4779,6 @@
             "episodic",
             "indefinite",
             "supernatural drama"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/see-ya-mr-banno"
-        ],
-        "title": "See ya Mr. Banno!",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/see-ya-mr-banno-1.webp?t=1656440097",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/see-ya-mr-banno-1-285x399.webp?t=1656440097",
-        "synonyms": [
-            "Kiiroi Kikyuu to Banno-sensei"
-        ],
-        "relations": [],
-        "tags": [
-            "abstract",
-            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -5108,6 +5099,31 @@
             "no dialogue",
             "promotional",
             "station identifications"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/spoon",
+            "https://myanimelist.net/anime/52439"
+        ],
+        "title": "Spoon",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1453/125532.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1453/125532t.jpg",
+        "synonyms": [
+            "SPOON"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "fantasy",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -5914,7 +5930,8 @@
             "https://anilist.co/anime/148975"
         ],
         "tags": [
-            "comedy"
+            "comedy",
+            "full cgi"
         ],
         "date": {
             "season": "unknown",
@@ -6465,29 +6482,6 @@
         "relations": [],
         "tags": [
             "vocaloid"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/109359"
-        ],
-        "title": "oyasumunasai",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109359-0koEZoBjvdXa.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109359-0koEZoBjvdXa.jpg",
-        "synonyms": [
-            "Have a good sleep",
-            "おやすみなさい"
-        ],
-        "relations": [],
-        "tags": [
-            "psychological"
         ],
         "date": {
             "season": "unknown",

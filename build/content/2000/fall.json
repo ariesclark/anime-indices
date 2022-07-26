@@ -1247,6 +1247,7 @@
             "https://kitsu.io/anime/11004",
             "https://kitsu.io/anime/8695",
             "https://livechart.me/anime/6578",
+            "https://livechart.me/anime/8314",
             "https://myanimelist.net/anime/22055",
             "https://myanimelist.net/anime/30825",
             "https://notify.moe/anime/XdxJpKiig",
@@ -2614,6 +2615,29 @@
             "educational",
             "family friendly",
             "fantasy",
+            "kids"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2000
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52158"
+        ],
+        "title": "Minna Unchi",
+        "type": "ova",
+        "episodes": 4,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1637/124634.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1637/124634t.jpg",
+        "synonyms": [
+            "Everyone Poops",
+            "みんなうんち"
+        ],
+        "relations": [],
+        "tags": [
             "kids"
         ],
         "date": {

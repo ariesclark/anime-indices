@@ -3313,28 +3313,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/52416"
-        ],
-        "title": "Geheime Welt Idhún Staffel 1",
-        "type": "tv",
-        "episodes": 5,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "action",
-            "adventure",
-            "supernatural"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/139096"
         ],
         "title": "Genius",
@@ -4523,6 +4501,26 @@
         "relations": [],
         "tags": [
             "promotional"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/kaf-yomadoigo"
+        ],
+        "title": "KAF: Yomadoigo",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/kaf-yomadoigo-1.webp?t=1658710990",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kaf-yomadoigo-1-285x398.webp?t=1658710990",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "school life"
         ],
         "date": {
             "season": "unknown",
@@ -8646,6 +8644,26 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/shishi-shishi-hyena-shinsho"
+        ],
+        "title": "Shishi Shishi: Hyena Shinsho",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/shishi-shishi-hyena-shinsho-1.webp?t=1658613315",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/shishi-shishi-hyena-shinsho-1-285x400.webp?t=1658613315",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "vocaloid"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/132516",
             "https://anime-planet.com/anime/shixiong-qing-an-juben-lai"
         ],
@@ -9485,27 +9503,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/valis-bukkanseii-catharsis"
-        ],
-        "title": "VALIS: Bukkanseii Catharsis",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/valis-bukkanseii-catharsis-1.webp?t=1649025102",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/valis-bukkanseii-catharsis-1-285x399.webp?t=1649025102",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "cg animation",
-            "sci fi"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/valis-shinsekai-pygmalion"
         ],
         "title": "VALIS: Shinsekai Pygmalion",
@@ -9829,7 +9826,7 @@
         ],
         "title": "Wo Cong Zhu Tian Wan Jie Guilai",
         "type": "ona",
-        "episodes": 32,
+        "episodes": 33,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1280/124930.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1280/124930t.jpg",
@@ -10071,7 +10068,7 @@
         ],
         "title": "Xiuluo Jian Zun",
         "type": "ona",
-        "episodes": 137,
+        "episodes": 138,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1822/115370.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1822/115370t.jpg",
@@ -10357,7 +10354,9 @@
             "Yorushika: Howl At The Moon"
         ],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "abstract"
+        ],
         "date": {
             "season": "unknown",
             "year": 2021
@@ -10751,6 +10750,24 @@
         "tags": [
             "original work"
         ],
+        "date": {
+            "season": "unknown",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52437"
+        ],
+        "title": "moni moni morning",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1185/125530.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1185/125530t.jpg",
+        "synonyms": [],
+        "relations": [],
+        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2021

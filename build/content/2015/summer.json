@@ -1141,6 +1141,7 @@
         "relations": [
             "https://anidb.net/anime/13530",
             "https://anime-planet.com/anime/bary-san-no-shokoku-manyuuki",
+            "https://anime-planet.com/anime/bary-san-x-gospe-rats-tonde-bary-bary-monogatari",
             "https://kitsu.io/anime/12331",
             "https://myanimelist.net/anime/31662",
             "https://myanimelist.net/anime/36611",
@@ -2738,7 +2739,10 @@
             "Duda Dada Season 2",
             "두다다쿵 시즌 2"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/17067",
+            "https://anisearch.com/anime/17170"
+        ],
         "tags": [
             "cg-anime"
         ],
@@ -9420,6 +9424,31 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51168"
+        ],
+        "title": "Ple Ple Pleiadas Special Edition",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1103/121227.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1103/121227t.jpg",
+        "synonyms": [
+            "ぷれぷれぷれあです特別編"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/31138"
+        ],
+        "tags": [
+            "comedy",
+            "parody"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/10966",
             "https://anilist.co/anime/21266",
             "https://anime-planet.com/anime/pokemon-movie-18-hoopa-and-the-clash-of-ages",
@@ -10071,7 +10100,6 @@
             "mystery",
             "novel",
             "romance",
-            "shoujo",
             "survival",
             "swordplay"
         ],
@@ -13374,6 +13402,7 @@
         ],
         "tags": [
             "comedy",
+            "full cgi",
             "half-length episodes",
             "kids"
         ],
@@ -13545,6 +13574,7 @@
         "relations": [
             "https://anilist.co/anime/20966",
             "https://anime-planet.com/anime/yamada-kun-and-the-seven-witches",
+            "https://anisearch.com/anime/10015",
             "https://kitsu.io/anime/10042",
             "https://myanimelist.net/anime/28677",
             "https://notify.moe/anime/m_jPpKmig"

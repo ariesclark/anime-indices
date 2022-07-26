@@ -2383,6 +2383,32 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/151089",
+            "https://anime-planet.com/anime/mirror",
+            "https://myanimelist.net/anime/52445"
+        ],
+        "title": "Mirror",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1820/125545.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1820/125545t.jpg",
+        "synonyms": [
+            "MIRROR"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "avant garde",
+            "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/mitchie-m-ai-dee"
         ],
         "title": "Mitchie M: Ai Dee",
@@ -5107,17 +5133,20 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/148591"
+            "https://anilist.co/anime/148591",
+            "https://myanimelist.net/anime/52430"
         ],
         "title": "É in MOTION No.2",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148591-5l3wNobTV43a.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148591-5l3wNobTV43a.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1850/125520.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1850/125520t.jpg",
         "synonyms": [],
         "relations": [],
-        "tags": [],
+        "tags": [
+            "avant garde"
+        ],
         "date": {
             "season": "unknown",
             "year": 2012

@@ -128,9 +128,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1819/97947.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1819/97947t.jpg",
         "synonyms": [
-            "5-Toubun no Hanayome",
             "5등분의 신부",
-            "Five Equal Brides",
             "GnH",
             "Go-Toubun no Hanayome",
             "Go-Tōbun no Hanayome",
@@ -1404,6 +1402,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/boku-no-lyric-no-bouyomi-boku-wa-mou-inai",
             "https://kitsu.io/anime/43381",
             "https://myanimelist.net/anime/38997"
         ],
@@ -1415,6 +1414,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1011/98210t.jpg",
         "synonyms": [
             "Boku no Lyric no Bouyomi",
+            "Boku no Lyric no Bouyomi: Boku wa Mou Inai",
             "Boku no Lyric no Boyomi",
             "Botsuraku",
             "僕はもういない"
@@ -1424,6 +1424,7 @@
             "https://myanimelist.net/anime/38813"
         ],
         "tags": [
+            "drama",
             "music"
         ],
         "date": {
@@ -2693,6 +2694,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/152487",
             "https://anisearch.com/anime/16221"
         ],
         "title": "Di Ling Qu: Nanjiang Miwu",
@@ -2704,13 +2706,17 @@
         "synonyms": [
             "Di Ling Qu Di Er Ji (地灵曲 第二季)",
             "Di Ling Qu: Nan Jiang Mi Wu",
-            "地灵曲 南疆迷雾"
+            "地灵曲 南疆迷雾",
+            "地灵曲 第二季"
         ],
         "relations": [
+            "https://anilist.co/anime/152486",
             "https://anisearch.com/anime/15171"
         ],
         "tags": [
-            "cg-anime"
+            "cg-anime",
+            "fantasy",
+            "full cgi"
         ],
         "date": {
             "season": "winter",
@@ -3091,6 +3097,7 @@
         "relations": [
             "https://anilist.co/anime/101318",
             "https://anime-planet.com/anime/double-decker-doug-and-kirill",
+            "https://anisearch.com/anime/13478",
             "https://kitsu.io/anime/41075",
             "https://livechart.me/anime/3157",
             "https://myanimelist.net/anime/37496",
@@ -5736,7 +5743,9 @@
             "JoJo’s Bizarre Adventure: Golden Wind Episode 13.5 + 21.5 + 28.5",
             "ジョジョの奇妙な冒険 黄金の風 Recaps"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/13699"
+        ],
         "tags": [
             "action",
             "adventure",
@@ -6013,6 +6022,33 @@
         ],
         "tags": [
             "comedy"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://anisearch.com/anime/17533"
+        ],
+        "title": "Kaixin Chaoren Lianmeng Zhi Xingji Lianmeng",
+        "type": "ona",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17533.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17533.webp",
+        "synonyms": [
+            "Happy Friends 12",
+            "Happy Friends Star League Season 12",
+            "Kai Xin Chao Ren Lian Meng Zhi Xing Ji Lian Meng",
+            "开心超人联盟之星际联盟"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "comedy",
+            "science-fiction"
         ],
         "date": {
             "season": "winter",
@@ -10534,7 +10570,7 @@
             "Psycho-Pass: Par-delà l'amour et la haine (Case 3)",
             "Psycho-Pass: Sinners of the System - Onshuu no Kanata ni",
             "Psycho-Pass: Sinners of the System Case 3: In the Realm Beyond Is",
-            "Psycho-Pass: Sinners of the System Case.3 - In the Realm Beyond",
+            "Psycho-Pass: Sinners of the System Case.3 - On the Other Side of Love and Hate",
             "Psycho-Pass: Sinners of the System Caso 3: Más allá del Bien y del Mal",
             "サイコパス SS Case.3「恩讐のかなたに―」"
         ],

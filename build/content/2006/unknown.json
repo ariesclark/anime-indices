@@ -707,21 +707,45 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/118109"
+            "https://anilist.co/anime/118109",
+            "https://myanimelist.net/anime/52447"
         ],
         "title": "Kumo no Hito Ame no Hito",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118109-Z1qxUOl0gZ1g.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118109-Z1qxUOl0gZ1g.png",
+        "picture": "https://cdn.myanimelist.net/images/anime/1186/125563.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1186/125563t.jpg",
         "synonyms": [
+            "Mr. Cloud and Mr. Rain",
             "雲の人 雨の人"
         ],
         "relations": [],
         "tags": [
             "fantasy",
             "psychological"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2006
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/kyushu-love-milk-club-cms"
+        ],
+        "title": "Kyushu Love Milk Club CMs",
+        "type": "special",
+        "episodes": 3,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/kyushu-love-milk-club-cms-1.jpg?t=1658425755",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kyushu-love-milk-club-cms-1-190x266.jpg?t=1658425755",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "commercials",
+            "promotional",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",

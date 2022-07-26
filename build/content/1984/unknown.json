@@ -1,6 +1,31 @@
 [
     {
         "sources": [
+            "https://anime-planet.com/anime/canon-t-70-highway-star-hen"
+        ],
+        "title": "Canon T-70: Highway Star-hen",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/canon-t-70-highway-star-hen-1.webp?t=1658445376",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/canon-t-70-highway-star-hen-1-171x240.webp?t=1658445376",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/canon-t-70-mirai-toshi-hen"
+        ],
+        "tags": [
+            "based on a manga",
+            "commercials",
+            "promotional",
+            "sci fi"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1984
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/chu-xi-de-gushi",
             "https://myanimelist.net/anime/43564"
         ],
@@ -337,6 +362,28 @@
             "kids",
             "shorts",
             "stop motion animation"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1984
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52423"
+        ],
+        "title": "McDonald's Chicken Nuggets CM",
+        "type": "unknown",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1173/125512.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1173/125512t.jpg",
+        "synonyms": [
+            "マクドナルド チキンナゲット"
+        ],
+        "relations": [],
+        "tags": [
+            "shoujo"
         ],
         "date": {
             "season": "unknown",

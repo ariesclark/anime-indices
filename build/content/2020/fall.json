@@ -1439,6 +1439,7 @@
         "relations": [],
         "tags": [
             "adventure",
+            "child protagonists",
             "drama",
             "family",
             "forest",
@@ -2645,7 +2646,7 @@
         ],
         "title": "Dragon Quest: Dai no Daibouken (2020)",
         "type": "tv",
-        "episodes": 86,
+        "episodes": 100,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1499/109126.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1499/109126t.jpg",
@@ -3531,7 +3532,7 @@
         ],
         "title": "Fushigi Dagashiya: Zenitendou",
         "type": "tv",
-        "episodes": 64,
+        "episodes": 65,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1994/108212.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1994/108212t.jpg",
@@ -5927,7 +5928,6 @@
             "drawing",
             "female protagonist",
             "heterosexual",
-            "josei",
             "love triangle",
             "male protagonist",
             "mermaid",
@@ -5995,49 +5995,28 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/juju-sanpo"
-        ],
-        "title": "Juju Sanpo",
-        "type": "ona",
-        "episodes": 22,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "synonyms": [
-            "Juju Stroll"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/jujutsu-kaisen"
-        ],
-        "tags": [
-            "based on a manga",
-            "short episodes"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
+            "https://anime-planet.com/anime/juju-sanpo",
             "https://livechart.me/anime/10184"
         ],
         "title": "Juju Sanpo",
-        "type": "tv",
+        "type": "ona",
         "episodes": 21,
         "status": "finished",
-        "picture": "https://u.livechart.me/anime/10184/poster_image/c2542e00a7a01107aa6cc2cf53c56af0.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/10184/poster_image/c2542e00a7a01107aa6cc2cf53c56af0.png?style=small&format=jpg",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
         "synonyms": [
             "Juju Stroll",
             "アニメじゅじゅさんぽ"
         ],
         "relations": [
+            "https://anime-planet.com/anime/jujutsu-kaisen",
             "https://livechart.me/anime/10491",
             "https://livechart.me/anime/11083",
             "https://livechart.me/anime/9680"
         ],
         "tags": [
+            "based on a manga",
+            "short episodes",
             "slice of life"
         ],
         "date": {
@@ -10642,11 +10621,13 @@
             "animal protagonists",
             "animals",
             "anthropomorphic",
+            "based on a webtoon",
             "cats",
             "chinese animation",
             "comedy",
             "historical",
             "kids",
+            "non-human protagonists",
             "short episodes"
         ],
         "date": {
@@ -12241,7 +12222,6 @@
             "present",
             "rehabilitation",
             "sports",
-            "supernatural",
             "tragedy"
         ],
         "date": {
@@ -13752,6 +13732,8 @@
             "https://anilist.co/anime/137740",
             "https://anime-planet.com/anime/wan-sheng-jie",
             "https://anime-planet.com/anime/wan-sheng-jie-3",
+            "https://anisearch.com/anime/15388",
+            "https://anisearch.com/anime/16893",
             "https://kitsu.io/anime/43184",
             "https://kitsu.io/anime/44980",
             "https://livechart.me/anime/10741",

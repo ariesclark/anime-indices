@@ -818,6 +818,8 @@
             "https://anime-planet.com/anime/chis-sweet-adventure-2nd-season",
             "https://anime-planet.com/anime/chis-sweet-home",
             "https://anime-planet.com/anime/chis-sweet-home-ova",
+            "https://anisearch.com/anime/43",
+            "https://anisearch.com/anime/7601",
             "https://kitsu.io/anime/3293",
             "https://kitsu.io/anime/5166",
             "https://myanimelist.net/anime/3841",
@@ -6718,6 +6720,32 @@
             "kids",
             "minna no uta",
             "music"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52146"
+        ],
+        "title": "Sanrio Pokoapoko Cinnamon no Minna Tomodachi",
+        "type": "ova",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1924/124622.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1924/124622t.jpg",
+        "synonyms": [
+            "サンリオぽこあぽこ シナモンの みんなともだち"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/52145",
+            "https://myanimelist.net/anime/52147"
+        ],
+        "tags": [
+            "educational",
+            "kids"
         ],
         "date": {
             "season": "spring",

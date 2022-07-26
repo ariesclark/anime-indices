@@ -755,6 +755,7 @@
         "sources": [
             "https://anidb.net/anime/7091",
             "https://anilist.co/anime/10820",
+            "https://anime-planet.com/anime/goshogun-movie",
             "https://anisearch.com/anime/5887",
             "https://kitsu.io/anime/6367",
             "https://livechart.me/anime/9434",
@@ -769,9 +770,11 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/12/82706t.jpg",
         "synonyms": [
             "Demon God of the War Torn Land Goshogun",
+            "GoShogun Movie",
             "Goshogun",
             "Macron 1",
             "Sengoku Majin Goushougun (1982)",
+            "Sengoku Majin Goushougun Movie",
             "Sengoku Majin Gōshōgun (1982)",
             "せんごくまじんごーしょーぐん",
             "戦国魔神ゴーショーグン",
@@ -781,6 +784,7 @@
         "relations": [
             "https://anidb.net/anime/1481",
             "https://anilist.co/anime/2510",
+            "https://anime-planet.com/anime/goshogun",
             "https://anisearch.com/anime/664",
             "https://kitsu.io/anime/2276",
             "https://livechart.me/anime/7873",
@@ -791,7 +795,9 @@
         "tags": [
             "action",
             "mecha",
+            "original work",
             "parody",
+            "sci fi",
             "sci-fi",
             "science fiction",
             "science-fiction",
@@ -1148,7 +1154,9 @@
             "Urusei Yatsura: Spring Special Part 1",
             "うる星やつらオールスター大進撃！"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/1945"
+        ],
         "tags": [
             "action",
             "comedy",

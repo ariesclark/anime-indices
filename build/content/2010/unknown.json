@@ -1787,28 +1787,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/151089",
-            "https://anime-planet.com/anime/mirror"
-        ],
-        "title": "MIRROR",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/mirror-1.jpg?t=1625896628",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/mirror-1-190x266.jpg?t=1625896628",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "abstract",
-            "shorts"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2010
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/mama"
         ],
         "title": "MaMa",
@@ -2174,6 +2152,26 @@
             "ship",
             "superpowers"
         ],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/nome-pure-shield"
+        ],
+        "title": "Nome Pure Shield",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/nome-pure-shield-1.webp?t=1658442062",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/nome-pure-shield-1-285x399.webp?t=1658442062",
+        "synonyms": [],
+        "relations": [
+            "https://anime-planet.com/anime/macross-frontier-movie-1-the-false-songstress"
+        ],
+        "tags": [],
         "date": {
             "season": "unknown",
             "year": 2010

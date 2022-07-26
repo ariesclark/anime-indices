@@ -1549,29 +1549,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/13285",
-            "https://notify.moe/anime/Cknn2Fimg"
-        ],
-        "title": "Butterfly Effect",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/13285/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/13285/tiny.jpg",
-        "synonyms": [
-            "sasakure.UK: Butterfly Effect"
-        ],
-        "relations": [],
-        "tags": [
-            "music"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
             "https://kitsu.io/anime/44246"
         ],
         "title": "Byunshin Jadongcha Tobot Season 3",
@@ -3457,7 +3434,9 @@
             "Katuri: A Story of a Mother Bird",
             "엄마 까투리"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/14995"
+        ],
         "tags": [
             "cg-anime"
         ],
@@ -4473,6 +4452,7 @@
             "https://anime-planet.com/anime/hen-zemi",
             "https://anisearch.com/anime/5958",
             "https://kitsu.io/anime/5196",
+            "https://livechart.me/anime/4941",
             "https://myanimelist.net/anime/8101",
             "https://notify.moe/anime/u9lktFimR"
         ],
@@ -11843,6 +11823,31 @@
             "fantasy",
             "kids",
             "shoujo"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2011
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/sasakure-uk-butterfly-effect",
+            "https://kitsu.io/anime/13285",
+            "https://notify.moe/anime/Cknn2Fimg"
+        ],
+        "title": "sasakure.UK: Butterfly Effect",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/sasakure-uk-butterfly-effect-1.jpg?t=1625896851",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/sasakure-uk-butterfly-effect-1-190x266.jpg?t=1625896851",
+        "synonyms": [
+            "Butterfly Effect"
+        ],
+        "relations": [],
+        "tags": [
+            "drama",
+            "music"
         ],
         "date": {
             "season": "spring",

@@ -263,6 +263,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/canon-t-70-mirai-toshi-hen",
             "https://kitsu.io/anime/45595",
             "https://myanimelist.net/anime/41902"
         ],
@@ -276,8 +277,14 @@
             "Canon T-70: Future City-hen",
             "未来都市篇"
         ],
-        "relations": [],
+        "relations": [
+            "https://anime-planet.com/anime/canon-t-70-highway-star-hen"
+        ],
         "tags": [
+            "based on a manga",
+            "commercials",
+            "promotional",
+            "sci fi",
             "sci-fi",
             "science fiction"
         ],
@@ -1098,6 +1105,7 @@
             "science-fiction",
             "survival",
             "tanks",
+            "travel",
             "war"
         ],
         "date": {

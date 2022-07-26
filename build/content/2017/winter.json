@@ -41,6 +41,32 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/oo",
+            "https://kitsu.io/anime/46266",
+            "https://myanimelist.net/anime/51268"
+        ],
+        "title": "(OO)",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1885/121467.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1885/121467t.jpg",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "avant garde",
+            "comedy",
+            "korean animation",
+            "shorts"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/march-comes-in-like-a-lion-ugoku-nya-shogi",
             "https://myanimelist.net/anime/38154"
         ],
@@ -2486,14 +2512,15 @@
     {
         "sources": [
             "https://kitsu.io/anime/13816",
+            "https://myanimelist.net/anime/52478",
             "https://notify.moe/anime/lpcShFiig"
         ],
         "title": "Cyborg 009: Call of Justice",
         "type": "ona",
         "episodes": 12,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/13816/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/13816/tiny.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1349/125735.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1349/125735t.jpg",
         "synonyms": [
             "CYBORG009 CALL OF JUSTICE"
         ],
@@ -2501,6 +2528,9 @@
             "https://kitsu.io/anime/12543",
             "https://kitsu.io/anime/12577",
             "https://kitsu.io/anime/12578",
+            "https://myanimelist.net/anime/33685",
+            "https://myanimelist.net/anime/33686",
+            "https://myanimelist.net/anime/33687",
             "https://notify.moe/anime/HoMm2Fiig",
             "https://notify.moe/anime/haMm2KiiR",
             "https://notify.moe/anime/jgezhKmiR"
@@ -2510,7 +2540,9 @@
             "adventure",
             "mecha",
             "sci-fi",
-            "science fiction"
+            "science fiction",
+            "shounen",
+            "super power"
         ],
         "date": {
             "season": "winter",
@@ -4442,6 +4474,7 @@
             "adventure",
             "aliens",
             "animal protagonists",
+            "child protagonists",
             "countryside",
             "drama",
             "family friendly",
@@ -5116,6 +5149,7 @@
             "https://anime-planet.com/anime/ancien-to-mahou-no-tablet-mou-hitotsu-no-hirune-hime",
             "https://anisearch.com/anime/12215",
             "https://kitsu.io/anime/13250",
+            "https://livechart.me/anime/2543",
             "https://myanimelist.net/anime/34893",
             "https://notify.moe/anime/EajMhFiig"
         ],
@@ -6828,6 +6862,7 @@
             "guilds",
             "harem",
             "isekai",
+            "iyashikei",
             "knight",
             "magic",
             "male protagonist",
@@ -9546,6 +9581,7 @@
             "https://anidb.net/anime/11756",
             "https://anilist.co/anime/21472",
             "https://anime-planet.com/anime/please-tell-me-galko-chan",
+            "https://anisearch.com/anime/10960",
             "https://kitsu.io/anime/11487",
             "https://livechart.me/anime/1911",
             "https://myanimelist.net/anime/32013",
