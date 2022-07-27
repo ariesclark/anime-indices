@@ -1842,6 +1842,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/condom-battler-goro-revive",
             "https://kitsu.io/anime/45721",
             "https://myanimelist.net/anime/50503"
         ],
@@ -1852,15 +1853,22 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1020/119842.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1020/119842t.jpg",
         "synonyms": [
+            "Condom Battler Goro: Revive",
             "コンドームバトラー ゴロー Revive"
         ],
         "relations": [
+            "https://anime-planet.com/anime/condom-battler-goro",
             "https://kitsu.io/anime/43337",
             "https://myanimelist.net/anime/42220"
         ],
         "tags": [
             "action",
-            "parody"
+            "comedy",
+            "crude",
+            "original work",
+            "parody",
+            "promotional",
+            "short episodes"
         ],
         "date": {
             "season": "fall",
@@ -3976,6 +3984,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/hisuian-voltorb-is-berry-sorry",
             "https://livechart.me/anime/10946",
             "https://myanimelist.net/anime/51871"
         ],
@@ -4009,9 +4018,17 @@
             "https://myanimelist.net/anime/527"
         ],
         "tags": [
+            "based on a video game",
             "comedy",
+            "family friendly",
+            "fantasy",
             "kids",
-            "slice of life"
+            "monsters",
+            "no dialogue",
+            "non-human protagonists",
+            "short episodes",
+            "slice of life",
+            "stop motion animation"
         ],
         "date": {
             "season": "fall",
@@ -6600,6 +6617,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/140665",
             "https://kitsu.io/anime/46063"
         ],
         "title": "Li Shi Zhentan Shiwusuo",
@@ -6609,14 +6627,17 @@
         "picture": "https://media.kitsu.io/anime/46063/poster_image/small-98bb9ee1fb4f0d6bb808843eccd1a8df.jpeg",
         "thumbnail": "https://media.kitsu.io/anime/46063/poster_image/tiny-a574bd5f620f9974dc67ce6f1a3f2ec2.jpeg",
         "synonyms": [
+            "Lee's Detective Agency",
             "Lee's Detective Agency: A Day in Lungmen",
             "リー探偵事務所",
             "鲤氏侦探事务所"
         ],
         "relations": [
+            "https://anilist.co/anime/140660",
             "https://kitsu.io/anime/43899"
         ],
         "tags": [
+            "action",
             "comedy",
             "detective",
             "super deformed"
@@ -11045,104 +11066,38 @@
     },
     {
         "sources": [
-            "https://livechart.me/anime/10887"
-        ],
-        "title": "Taiko no Tatsujin",
-        "type": "ona",
-        "episodes": 0,
-        "status": "finished",
-        "picture": "https://u.livechart.me/anime/10887/poster_image/0e45bd0cd8adff23ca6d10cd6b32dfd9.png?style=large&format=jpg",
-        "thumbnail": "https://u.livechart.me/anime/10887/poster_image/0e45bd0cd8adff23ca6d10cd6b32dfd9.png?style=small&format=jpg",
-        "synonyms": [
-            "太鼓の達人 アニメば～じょん！"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "music",
-            "slice of life"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/taiko-no-tatsujin-2021"
-        ],
-        "title": "Taiko no Tatsujin (2021)",
-        "type": "ona",
-        "episodes": 16,
-        "status": "ongoing",
-        "picture": "https://cdn.anime-planet.com/anime/primary/taiko-no-tatsujin-2021-1.webp?t=1638307800",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/taiko-no-tatsujin-2021-1-285x399.webp?t=1638307800",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/taiko-drum-master-15-shuunenkinen-short-animation",
-            "https://anime-planet.com/anime/taiko-no-tatsujin"
-        ],
-        "tags": [
-            "comedy",
-            "family friendly",
-            "short episodes",
-            "slice of life"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/17312"
-        ],
-        "title": "Taiko no Tatsujin Anime Ba Ji Yon!",
-        "type": "ona",
-        "episodes": 50,
-        "status": "ongoing",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17312.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17312.webp",
-        "synonyms": [
-            "Taiko no Tatsujin",
-            "太鼓の達人 アニメば～じょん！"
-        ],
-        "relations": [
-            "https://anisearch.com/anime/11136",
-            "https://anisearch.com/anime/1832"
-        ],
-        "tags": [
-            "comedy",
-            "music",
-            "slice of life"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
+            "https://anime-planet.com/anime/taiko-no-tatsujin-2021",
+            "https://anisearch.com/anime/17312",
+            "https://livechart.me/anime/10887",
             "https://myanimelist.net/anime/50388"
         ],
         "title": "Taiko no Tatsujin Anime Ba-Jon!",
         "type": "ona",
-        "episodes": 0,
+        "episodes": 16,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1147/119494.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1147/119494t.jpg",
         "synonyms": [
+            "Taiko no Tatsujin",
+            "Taiko no Tatsujin (2021)",
             "Taiko no Tatsujin Anime Ba Ji Yon!",
             "太鼓の達人 アニメば～じょん！"
         ],
         "relations": [
+            "https://anime-planet.com/anime/taiko-drum-master-15-shuunenkinen-short-animation",
+            "https://anime-planet.com/anime/taiko-no-tatsujin",
+            "https://anisearch.com/anime/11136",
+            "https://anisearch.com/anime/1832",
             "https://myanimelist.net/anime/31102",
             "https://myanimelist.net/anime/3724"
         ],
         "tags": [
             "comedy",
+            "family friendly",
             "kids",
-            "music"
+            "music",
+            "short episodes",
+            "slice of life"
         ],
         "date": {
             "season": "fall",

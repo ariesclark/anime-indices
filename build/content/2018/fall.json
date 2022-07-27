@@ -2281,7 +2281,9 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/15465",
             "https://anilist.co/anime/110272",
+            "https://kitsu.io/anime/43746",
             "https://myanimelist.net/anime/41079"
         ],
         "title": "Dou Hun Wei Zhi Xuan Yue Qiyuan II",
@@ -2292,14 +2294,21 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1148/105446t.jpg",
         "synonyms": [
             "Dou Hun Wei Zhi Xuan Yue Qi Yuan 2",
+            "Dou Hun Wei Zhi Xuan Yue Qiyuan 2",
+            "Dou Hun Wei: Xuan Yue Qiyuan 2",
             "Spirit Guardians",
             "Spirit Guardians 2",
             "斗魂卫之玄月奇缘 2",
-            "斗魂卫之玄月奇缘 II"
+            "斗魂卫之玄月奇缘 II",
+            "鬥魂衛之玄月奇缘"
         ],
         "relations": [
+            "https://anidb.net/anime/14161",
+            "https://anidb.net/anime/15880",
             "https://anilist.co/anime/103008",
             "https://anilist.co/anime/110273",
+            "https://kitsu.io/anime/43023",
+            "https://kitsu.io/anime/43747",
             "https://myanimelist.net/anime/41078",
             "https://myanimelist.net/anime/41081"
         ],
@@ -4063,27 +4072,6 @@
     },
     {
         "sources": [
-            "https://anisearch.com/anime/15272"
-        ],
-        "title": "Han-Gyaku-Sei Million Arthur PV",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/15/15272.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/15/15272.webp",
-        "synonyms": [
-            "Hangyakusei Million Arthur PV",
-            "叛逆性ミリオンアーサー PV"
-        ],
-        "relations": [],
-        "tags": [],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/13952",
             "https://anilist.co/anime/101359",
             "https://anime-planet.com/anime/million-arthur",
@@ -4162,6 +4150,7 @@
     },
     {
         "sources": [
+            "https://anisearch.com/anime/15272",
             "https://kitsu.io/anime/42816",
             "https://myanimelist.net/anime/38744"
         ],
@@ -4173,9 +4162,11 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1411/96834t.jpg",
         "synonyms": [
             "Han-Gyaku-Sei Million Arthur",
+            "Han-Gyaku-Sei Million Arthur PV",
             "MA3",
             "Million Arthur 3",
-            "叛逆性ミリオンアーサー"
+            "叛逆性ミリオンアーサー",
+            "叛逆性ミリオンアーサー PV"
         ],
         "relations": [
             "https://kitsu.io/anime/11139",
@@ -4428,41 +4419,7 @@
     {
         "sources": [
             "https://anilist.co/anime/139622",
-            "https://kitsu.io/anime/45288"
-        ],
-        "title": "He Nu'er De Richang 3rd Season",
-        "type": "ona",
-        "episodes": 18,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45288/poster_image/small-93f53bab733a89e3b313cfa8ee718071.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45288/poster_image/tiny-fb169581881aec2d6b9e51e0d2b48e3c.jpeg",
-        "synonyms": [
-            "Daily Life with a Daughter",
-            "Grow Up with My Daughter 3rd Season",
-            "Growing Up With My Daughter 3",
-            "He Nuer de Richang",
-            "He Nü'er De Richang 3rd Season",
-            "He Nü'er De Richang Third Season",
-            "He Nüer de Richang 3",
-            "和女儿的日常 第三季"
-        ],
-        "relations": [
-            "https://anilist.co/anime/121479",
-            "https://kitsu.io/anime/42714"
-        ],
-        "tags": [
-            "comedy",
-            "family",
-            "family life",
-            "slice of life"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
+            "https://kitsu.io/anime/45288",
             "https://myanimelist.net/anime/49908"
         ],
         "title": "He Nü'er De Richang 3rd Season",
@@ -4472,15 +4429,24 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1083/117933.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1083/117933t.jpg",
         "synonyms": [
+            "Daily Life with a Daughter",
             "Grow Up with My Daughter 3rd Season",
+            "Growing Up With My Daughter 3",
+            "He Nu'er De Richang 3rd Season",
+            "He Nuer de Richang",
             "He Nü'er De Richang Third Season",
+            "He Nüer de Richang 3",
             "和女儿的日常 第三季"
         ],
         "relations": [
+            "https://anilist.co/anime/121479",
+            "https://kitsu.io/anime/42714",
             "https://myanimelist.net/anime/49907"
         ],
         "tags": [
             "comedy",
+            "family",
+            "family life",
             "kids",
             "slice of life"
         ],
@@ -4768,6 +4734,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/112025",
             "https://anime-planet.com/anime/holiday-advent-calendar-2018",
             "https://myanimelist.net/anime/38805"
         ],

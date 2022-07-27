@@ -2490,36 +2490,8 @@
     {
         "sources": [
             "https://anilist.co/anime/130762",
-            "https://kitsu.io/anime/45913"
-        ],
-        "title": "Chao Shen Xueyuan: Hei Jia",
-        "type": "ona",
-        "episodes": 10,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45913/poster_image/small-90982e03644f0a38e1b7f3e7b1db636e.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45913/poster_image/tiny-6c416410213d0116b28db67bdd827745.jpeg",
-        "synonyms": [
-            "超神学院 第四季 黑甲",
-            "超神学院之黑甲"
-        ],
-        "relations": [
-            "https://anilist.co/anime/130761",
-            "https://kitsu.io/anime/45912"
-        ],
-        "tags": [
-            "action",
-            "full cgi",
-            "sci-fi",
-            "science fiction"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/chao-shen-xueyuan-zhi-hei-jia",
+            "https://kitsu.io/anime/45913",
             "https://myanimelist.net/anime/48750"
         ],
         "title": "Chao Shen Xueyuan: Zhi Hei Jia",
@@ -2529,20 +2501,27 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1976/114405.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1976/114405t.jpg",
         "synonyms": [
+            "Chao Shen Xueyuan: Hei Jia",
             "Super Seminary Fourth Season",
-            "超神学院 之黑甲"
+            "超神学院 之黑甲",
+            "超神学院 第四季 黑甲",
+            "超神学院之黑甲"
         ],
         "relations": [
+            "https://anilist.co/anime/130761",
             "https://anime-planet.com/anime/chao-shen-xueyuan-shen-yu-shen",
             "https://anime-planet.com/anime/xiong-bing-lian",
+            "https://kitsu.io/anime/45912",
             "https://myanimelist.net/anime/37643",
             "https://myanimelist.net/anime/48749"
         ],
         "tags": [
             "action",
             "chinese animation",
+            "full cgi",
             "sci fi",
-            "sci-fi"
+            "sci-fi",
+            "science fiction"
         ],
         "date": {
             "season": "spring",

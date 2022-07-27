@@ -2670,6 +2670,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16568",
             "https://anilist.co/anime/122688",
             "https://anime-planet.com/anime/jian-wang-3-xia-gan-yi-dan-shen-jianxin-iii",
             "https://kitsu.io/anime/43812",
@@ -2688,9 +2689,11 @@
             "JX3: Chivalrous Hero Shen Jianxin 3rd Season",
             "Jian Wang 3: Xia Gan Yi Dan Shen Jianxin 3",
             "Jian Wang 3: Xia Gan Yi Dan Shen Jianxin III",
+            "Jian Wang 3: Xia Gan Yi Dan Shen Jianxin Season 3",
             "剑网3·侠肝义胆沈剑心 第三季"
         ],
         "relations": [
+            "https://anidb.net/anime/15818",
             "https://anilist.co/anime/113907",
             "https://anime-planet.com/anime/jian-wang-3-xia-gan-yi-dan-shen-jianxin",
             "https://anime-planet.com/anime/jian-wang-3-xia-gan-yi-dan-shen-jianxin-ii",
@@ -2709,28 +2712,6 @@
             "historical",
             "martial arts"
         ],
-        "date": {
-            "season": "summer",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16568"
-        ],
-        "title": "Jian Wang 3: Xia Gan Yi Dan Shen Jianxin Season 3",
-        "type": "ona",
-        "episodes": 0,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/275360.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/275360.jpg-thumb.jpg",
-        "synonyms": [
-            "剑网3·侠肝义胆沈剑心 第三季"
-        ],
-        "relations": [
-            "https://anidb.net/anime/15818"
-        ],
-        "tags": [],
         "date": {
             "season": "summer",
             "year": 2022

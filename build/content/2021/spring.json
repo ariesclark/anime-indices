@@ -3458,35 +3458,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/131648",
-            "https://livechart.me/anime/10590"
-        ],
-        "title": "Fatchi Baike 2",
-        "type": "ona",
-        "episodes": 13,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131648-CtSuiVf2PRzi.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131648-CtSuiVf2PRzi.png",
-        "synonyms": [
-            "肥志百科 动物篇",
-            "肥志百科 原来你是这样的动物",
-            "肥志百科 第二季"
-        ],
-        "relations": [
-            "https://anilist.co/anime/124339",
-            "https://anilist.co/anime/136635",
-            "https://livechart.me/anime/10591"
-        ],
-        "tags": [
-            "comedy"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/131867",
             "https://anime-planet.com/anime/fate-grand-order-x-thunderbolt-fantasy-3",
             "https://kitsu.io/anime/44280"
@@ -3648,6 +3619,46 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/131648",
+            "https://anime-planet.com/anime/fei-zhi-baike-yuanlai-ni-shi-zheyang-de-zhiwu-2nd-season",
+            "https://livechart.me/anime/10590"
+        ],
+        "title": "Fei Zhi Baike: Yuanlai Ni Shi Zheyang de Zhiwu 2nd Season",
+        "type": "ona",
+        "episodes": 13,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/fei-zhi-baike-yuanlai-ni-shi-zheyang-de-zhiwu-2nd-season-1.jpg?t=1625908929",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/fei-zhi-baike-yuanlai-ni-shi-zheyang-de-zhiwu-2nd-season-1-190x254.jpg?t=1625908929",
+        "synonyms": [
+            "Fatchi Baike 2",
+            "肥志百科 动物篇",
+            "肥志百科 原来你是这样的动物",
+            "肥志百科 第二季"
+        ],
+        "relations": [
+            "https://anilist.co/anime/124339",
+            "https://anilist.co/anime/136635",
+            "https://anime-planet.com/anime/fei-zhi-baike-yuanlai-ni-shi-zheyang-de-zhiwu",
+            "https://anime-planet.com/anime/fei-zhi-baike-yuanlai-ni-shi-zheyang-de-zhiwu-3rd-season",
+            "https://livechart.me/anime/10591"
+        ],
+        "tags": [
+            "based on a manga",
+            "chibi",
+            "chinese animation",
+            "comedy",
+            "educational",
+            "family friendly",
+            "food protagonists",
+            "short episodes"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16639"
         ],
         "title": "Fengzi Wuyu: Yinhe Pian",
@@ -3670,6 +3681,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16640",
             "https://anilist.co/anime/129228",
             "https://kitsu.io/anime/45939"
         ],
@@ -3680,11 +3692,15 @@
         "picture": "https://media.kitsu.io/anime/45939/poster_image/small-9abef667219d28d9434e5274e99524af.jpeg",
         "thumbnail": "https://media.kitsu.io/anime/45939/poster_image/tiny-02c3696308aee47ac50188925d05a5ee.jpeg",
         "synonyms": [
+            "Fengzi Wuyu: Yinhe Pian (2021)",
             "Shape of the Wind",
             "The Continent of Wind",
-            "风姿物语 银河篇"
+            "风姿物语 银河篇",
+            "风姿物语 银河篇 (2021)"
         ],
-        "relations": [],
+        "relations": [
+            "https://anidb.net/anime/16639"
+        ],
         "tags": [
             "action",
             "adventure",
@@ -4691,6 +4707,7 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16660",
             "https://anime-planet.com/anime/hong-ying-yi-mai",
             "https://myanimelist.net/anime/51968"
         ],
@@ -4702,33 +4719,12 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1908/124149t.jpg",
         "synonyms": [
             "Hong Ying Yi Mai Zhi Yi Da Wenwu Beihou De Gushi",
+            "Hong Ying Yi Mai Zhiyi Dai Wenwu Beihou Di Gushi",
             "红影一脉之一大文物背后的故事"
         ],
         "relations": [],
         "tags": [
             "chinese animation",
-            "short episodes"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16660"
-        ],
-        "title": "Hong Ying Yi Mai Zhiyi Dai Wenwu Beihou Di Gushi",
-        "type": "ona",
-        "episodes": 5,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/264964.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/264964.jpg-thumb.jpg",
-        "synonyms": [
-            "红影一脉之一大文物背后的故事"
-        ],
-        "relations": [],
-        "tags": [
             "short episodes"
         ],
         "date": {
@@ -4802,8 +4798,10 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16332",
             "https://anilist.co/anime/133728",
             "https://anime-planet.com/anime/hua-jianghu-zhi-huan-shi-men-sheng-2nd-season",
+            "https://anisearch.com/anime/16889",
             "https://kitsu.io/anime/44502",
             "https://livechart.me/anime/10598",
             "https://myanimelist.net/anime/48866",
@@ -4817,15 +4815,24 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1037/114889t.jpg",
         "synonyms": [
             "A Portrait of Jianghu: Reincarnated Disciple 2",
+            "Double life-Drawing Jiang Hu S2",
+            "Hua Jiang Hu Zhi Huan Shi Men Sheng II",
+            "Hua Jiang Hu: Huan Shi Men Sheng II",
             "Hua Jianghu Zhi Huan Shi Men Sheng 2nd Season",
             "Hua Jianghu: Huan Shi Men Sheng 2",
+            "Hua Jianghu: Huan Shi Mensheng Di Er Ji",
+            "Hua Jianghu: Huan Shi Mensheng II",
+            "画江湖之换世门生 II",
             "画江湖之换世门生 第二季",
+            "画江湖之换世门生II",
             "画江湖之换世门生超话Ⅱ"
         ],
         "relations": [
+            "https://anidb.net/anime/16330",
             "https://anilist.co/anime/102559",
             "https://anime-planet.com/anime/hua-jianghu-zhi-huan-shi-men-sheng",
             "https://anime-planet.com/anime/hua-jianghu-zhi-huan-shi-men-sheng-xu-pian",
+            "https://anisearch.com/anime/16860",
             "https://kitsu.io/anime/41365",
             "https://livechart.me/anime/10597",
             "https://livechart.me/anime/10810",
@@ -4835,6 +4842,7 @@
         "tags": [
             "action",
             "cg animation",
+            "cg-anime",
             "chinese animation",
             "drama",
             "fantasy",
@@ -4843,40 +4851,6 @@
             "mystery",
             "original work",
             "romance"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/16332",
-            "https://anisearch.com/anime/16889"
-        ],
-        "title": "Hua Jianghu: Huan Shi Mensheng II",
-        "type": "ona",
-        "episodes": 19,
-        "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/16/16889.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/16/16889.webp",
-        "synonyms": [
-            "Double life-Drawing Jiang Hu S2",
-            "Hua Jiang Hu Zhi Huan Shi Men Sheng II",
-            "Hua Jiang Hu: Huan Shi Men Sheng II",
-            "Hua Jianghu: Huan Shi Men Sheng 2nd Season",
-            "Hua Jianghu: Huan Shi Mensheng Di Er Ji",
-            "画江湖之换世门生 II",
-            "画江湖之换世门生II"
-        ],
-        "relations": [
-            "https://anidb.net/anime/16330",
-            "https://anisearch.com/anime/16860"
-        ],
-        "tags": [
-            "action",
-            "cg-anime",
-            "fantasy"
         ],
         "date": {
             "season": "spring",
