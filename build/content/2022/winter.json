@@ -5172,6 +5172,8 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/151067",
+            "https://anime-planet.com/anime/mahjong-soul-pon-special",
             "https://kitsu.io/anime/46103",
             "https://myanimelist.net/anime/51465"
         ],
@@ -5183,18 +5185,28 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1853/122093t.jpg",
         "synonyms": [
             "Jantama Pong☆ Web Gentei Tokubetsu Hanashi",
+            "Jongtama PONG☆ Special",
+            "Mahjong Soul Pon☆ Special",
             "Mahjong Soul Pon☆ WEB Only Special Episode",
             "Mahjong Soul Pon☆Cup",
             "Mahjong Soul Special",
+            "じゃんたま PONG☆ Special",
             "じゃんたま PONG☆ WEB限定特別話"
         ],
         "relations": [
+            "https://anilist.co/anime/143455",
+            "https://anime-planet.com/anime/mahjong-soul-pon",
             "https://kitsu.io/anime/45737",
             "https://myanimelist.net/anime/50789"
         ],
         "tags": [
+            "based on a mobile game",
+            "board games",
+            "chibi",
             "comedy",
-            "juujin"
+            "juujin",
+            "mahjong",
+            "nekomimi"
         ],
         "date": {
             "season": "winter",
@@ -5337,33 +5349,6 @@
         "tags": [
             "action",
             "present"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/145895"
-        ],
-        "title": "KOF XV: Special Animated Short",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145895-hSkGDdQd10XZ.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145895-hSkGDdQd10XZ.png",
-        "synonyms": [
-            "KOF XV スペシャルショートアニメーション",
-            "KOF XV: SPECIAL ANIMATED SHORT",
-            "King of Fighters XV Special Animated Short",
-            "The King of Fighters XV"
-        ],
-        "relations": [
-            "https://anilist.co/anime/504"
-        ],
-        "tags": [
-            "action"
         ],
         "date": {
             "season": "winter",
@@ -6144,6 +6129,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/145895",
             "https://anime-planet.com/anime/king-of-fighters-xv-special",
             "https://kitsu.io/anime/45905"
         ],
@@ -6156,9 +6142,16 @@
         "synonyms": [
             "KOF 15 Special",
             "KOF XV Special",
-            "King of Fighters 15 Special"
+            "KOF XV スペシャルショートアニメーション",
+            "KOF XV: SPECIAL ANIMATED SHORT",
+            "KOF XV: Special Animated Short",
+            "King of Fighters 15 Special",
+            "King of Fighters XV Special Animated Short",
+            "The King of Fighters XV"
         ],
-        "relations": [],
+        "relations": [
+            "https://anilist.co/anime/504"
+        ],
         "tags": [
             "action",
             "based on a video game",

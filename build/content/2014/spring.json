@@ -5869,24 +5869,60 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/23733"
+            "https://kitsu.io/anime/8798",
+            "https://myanimelist.net/anime/23733",
+            "https://notify.moe/anime/7egbtKmmR"
         ],
         "title": "KoSys! Kochira Keihime Tetsudou: Kouhou System-ka",
         "type": "ona",
-        "episodes": 0,
+        "episodes": 2,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/4/61457.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/4/61457t.jpg",
         "synonyms": [
+            "Kosys! Kochira Keihime Tetsudou: Kouhou System-ka",
             "Koushisu!",
             "こうしす！こちら京姫鉄道　広報システム課"
         ],
         "relations": [
-            "https://myanimelist.net/anime/33854"
+            "https://kitsu.io/anime/12826",
+            "https://myanimelist.net/anime/33854",
+            "https://notify.moe/anime/-oVW2Kmmg"
         ],
         "tags": [
             "comedy",
             "slice of life"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/133507",
+            "https://anime-planet.com/anime/koi-wa-elevator",
+            "https://kitsu.io/anime/44508"
+        ],
+        "title": "Koi wa Elevator",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/koi-wa-elevator-1.jpg?t=1625908984",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/koi-wa-elevator-1-190x266.jpg?t=1625908984",
+        "synonyms": [
+            "Love is an Elevator",
+            "恋はエレベーター"
+        ],
+        "relations": [],
+        "tags": [
+            "heterosexual",
+            "no dialogue",
+            "non-human protagonists",
+            "romance",
+            "shorts",
+            "tragedy",
+            "unrequited love"
         ],
         "date": {
             "season": "spring",
@@ -5986,34 +6022,6 @@
         ],
         "tags": [
             "kids"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/8798",
-            "https://notify.moe/anime/7egbtKmmR"
-        ],
-        "title": "Kosys! Kochira Keihime Tetsudou: Kouhou System-ka",
-        "type": "ona",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/8798/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/8798/tiny.jpg",
-        "synonyms": [
-            "Koushisu!",
-            "こうしす！こちら京姫鉄道　広報システム課"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/12826",
-            "https://notify.moe/anime/-oVW2Kmmg"
-        ],
-        "tags": [
-            "comedy",
-            "slice of life"
         ],
         "date": {
             "season": "spring",

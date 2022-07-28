@@ -6162,7 +6162,9 @@
     {
         "sources": [
             "https://anime-planet.com/anime/kairisei-million-arthur",
-            "https://myanimelist.net/anime/36643"
+            "https://kitsu.io/anime/14194",
+            "https://myanimelist.net/anime/36643",
+            "https://notify.moe/anime/vOqHhKimR"
         ],
         "title": "Kairisei Million Arthur",
         "type": "ona",
@@ -6180,6 +6182,9 @@
             "https://anime-planet.com/anime/jakusansei-million-arthur-specials",
             "https://anime-planet.com/anime/kakusansei-million-arthur-op",
             "https://anime-planet.com/anime/koukyousei-million-arthur-op",
+            "https://kitsu.io/anime/14193",
+            "https://kitsu.io/anime/42815",
+            "https://kitsu.io/anime/42816",
             "https://myanimelist.net/anime/30954",
             "https://myanimelist.net/anime/36642",
             "https://myanimelist.net/anime/38386",
@@ -6187,42 +6192,14 @@
         ],
         "tags": [
             "based on a mobile game",
+            "card games",
             "fantasy",
+            "game",
             "music",
             "opening animation",
             "promotional",
             "short episodes",
             "strategy game"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/14194",
-            "https://notify.moe/anime/vOqHhKimR"
-        ],
-        "title": "Kairisei Million Arthur",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/14194/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/14194/tiny.jpg",
-        "synonyms": [
-            "Kai-ri-Sei Million Arthur",
-            "乖離性ミリオンアーサー"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/14193",
-            "https://kitsu.io/anime/42815",
-            "https://kitsu.io/anime/42816"
-        ],
-        "tags": [
-            "card games",
-            "fantasy",
-            "game"
         ],
         "date": {
             "season": "fall",
@@ -6490,6 +6467,7 @@
     {
         "sources": [
             "https://anilist.co/anime/114607",
+            "https://anime-planet.com/anime/space-shower-tv-keep-calm-and-carry-on-id",
             "https://myanimelist.net/anime/39781"
         ],
         "title": "Keep Calm and Carry On",
@@ -6500,12 +6478,16 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1401/100897t.jpg",
         "synonyms": [
             "KEEP CALM AND CARRY ON",
-            "Space Shower TV Station ID"
+            "Space Shower TV Station ID",
+            "Space Shower TV: Keep Calm and Carry On ID"
         ],
         "relations": [],
         "tags": [
             "fantasy",
-            "music"
+            "music",
+            "no dialogue",
+            "promotional",
+            "station identifications"
         ],
         "date": {
             "season": "fall",
@@ -6760,33 +6742,6 @@
             "parody",
             "philosophy",
             "surreal comedy"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/10199",
-            "https://notify.moe/anime/1GYstKmmR"
-        ],
-        "title": "Konna Watashitachi ga Nariyuki de Heroine ni Natta Kekka www (TV): Heroine Kentei",
-        "type": "ona",
-        "episodes": 11,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/10199/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/10199/tiny.jpg",
-        "synonyms": [
-            "こんな私たちがなりゆきでヒロインになった結果www「ヒロイン検定」"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/9144",
-            "https://notify.moe/anime/qGcatFiiR"
-        ],
-        "tags": [
-            "comedy",
-            "fantasy"
         ],
         "date": {
             "season": "fall",
@@ -8612,6 +8567,37 @@
             "shounen",
             "super power",
             "superpower"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/narihero-www-heroine-kentei",
+            "https://kitsu.io/anime/10199",
+            "https://notify.moe/anime/1GYstKmmR"
+        ],
+        "title": "Narihero www: Heroine Kentei",
+        "type": "ona",
+        "episodes": 11,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "synonyms": [
+            "Konna Watashitachi ga Nariyuki de Heroine ni Natta Kekka www (TV): Heroine Kentei",
+            "Konna Watashitachi ga Nariyuki de Heroine ni Natta Kekka www: Heroine Kentei",
+            "こんな私たちがなりゆきでヒロインになった結果www「ヒロイン検定」"
+        ],
+        "relations": [
+            "https://kitsu.io/anime/9144",
+            "https://notify.moe/anime/qGcatFiiR"
+        ],
+        "tags": [
+            "comedy",
+            "fantasy",
+            "short episodes"
         ],
         "date": {
             "season": "fall",

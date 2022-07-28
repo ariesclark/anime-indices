@@ -4257,61 +4257,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/133774"
-        ],
-        "title": "Jiu Tian Xuan Di Jue",
-        "type": "ona",
-        "episodes": 40,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133774-v7JB4m7rQkDg.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133774-v7JB4m7rQkDg.png",
-        "synonyms": [
-            "The Success Of Empyrean Xuan Emperor",
-            "九天玄帝诀"
-        ],
-        "relations": [
-            "https://anilist.co/anime/148226"
-        ],
-        "tags": [
-            "action",
-            "cultivation",
-            "fantasy",
-            "full cgi"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/jiutian-yuan-di-jue"
-        ],
-        "title": "Jiutian Yuan Di Jue",
-        "type": "ona",
-        "episodes": 40,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/jiutian-yuan-di-jue-1.webp?t=1656706707",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/jiutian-yuan-di-jue-1-285x399.webp?t=1656706707",
-        "synonyms": [
-            "The Success Of Mmpyrean Xuan Emperor"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/jiutian-yuan-di-jue-2nd-season"
-        ],
-        "tags": [
-            "cg animation",
-            "chinese animation",
-            "fantasy",
-            "original work"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/133731",
             "https://anime-planet.com/anime/jiuzhou-feichang-dao",
             "https://myanimelist.net/anime/48868"
@@ -5134,39 +5079,7 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/138351"
-        ],
-        "title": "Liang Bu Yi Part 2",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138351-dKNYYaPfotcK.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138351-dKNYYaPfotcK.png",
-        "synonyms": [
-            "No Doubt in Us Part 2",
-            "两不疑 下半部"
-        ],
-        "relations": [
-            "https://anilist.co/anime/114114",
-            "https://anilist.co/anime/141877"
-        ],
-        "tags": [
-            "body swapping",
-            "comedy",
-            "full cgi",
-            "historical",
-            "martial arts",
-            "politics",
-            "romance",
-            "swordplay"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
+            "https://anilist.co/anime/138351",
             "https://anime-planet.com/anime/liang-bu-yi-part-ii",
             "https://anime-planet.com/anime/no-doubt-in-us-part-ii"
         ],
@@ -5177,9 +5090,14 @@
         "picture": "https://cdn.anime-planet.com/anime/primary/liang-bu-yi-part-ii-1.jpg?t=1630783291",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/liang-bu-yi-part-ii-1-285x399.jpg?t=1630783291",
         "synonyms": [
-            "No Doubt In Us: Part II"
+            "Liang Bu Yi Part 2",
+            "No Doubt In Us: Part II",
+            "No Doubt in Us Part 2",
+            "两不疑 下半部"
         ],
         "relations": [
+            "https://anilist.co/anime/114114",
+            "https://anilist.co/anime/141877",
             "https://anime-planet.com/anime/liang-bu-yi",
             "https://anime-planet.com/anime/liang-bu-yi-2nd-season",
             "https://anime-planet.com/anime/no-doubt-in-us"
@@ -5192,10 +5110,15 @@
             "chibi",
             "chinese animation",
             "comedy",
+            "full cgi",
             "gender bender",
+            "historical",
+            "martial arts",
             "political",
+            "politics",
             "romance",
             "royalty",
+            "swordplay",
             "war"
         ],
         "date": {

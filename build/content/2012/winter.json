@@ -5428,6 +5428,7 @@
     },
     {
         "sources": [
+            "https://anisearch.com/anime/12519",
             "https://kitsu.io/anime/11626",
             "https://notify.moe/anime/I3qCtFiig"
         ],
@@ -5437,10 +5438,21 @@
         "status": "finished",
         "picture": "https://media.kitsu.io/anime/poster_images/11626/small.jpg",
         "thumbnail": "https://media.kitsu.io/anime/poster_images/11626/tiny.jpg",
-        "synonyms": [],
+        "synonyms": [
+            "Hitomebore Love at first sight.",
+            "Love at first sight.",
+            "One after another Love at first sight.",
+            "ひとめぼれ Love at first sight."
+        ],
         "relations": [],
         "tags": [
-            "romance"
+            "action",
+            "comedy",
+            "indefinite",
+            "present",
+            "romance",
+            "slice of life",
+            "university"
         ],
         "date": {
             "season": "winter",

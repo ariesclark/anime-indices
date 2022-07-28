@@ -6609,7 +6609,9 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/33854"
+            "https://kitsu.io/anime/12826",
+            "https://myanimelist.net/anime/33854",
+            "https://notify.moe/anime/-oVW2Kmmg"
         ],
         "title": "KoSys! Lite",
         "type": "ona",
@@ -6618,11 +6620,15 @@
         "picture": "https://cdn.myanimelist.net/images/anime/5/81512.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/5/81512t.jpg",
         "synonyms": [
+            "Kosys! Lite: Tsuyoku Suishou Bansaku no Sunglasses - Password Tsukai-mawashi no Jutsu",
             "Koushisu! Lite",
-            "コウシス! LITE"
+            "コウシス! LITE",
+            "コウシス! LITE 「強く推奨バンサクのサングラス　～パスワード使い回しの術～」"
         ],
         "relations": [
-            "https://myanimelist.net/anime/23733"
+            "https://kitsu.io/anime/8798",
+            "https://myanimelist.net/anime/23733",
+            "https://notify.moe/anime/7egbtKmmR"
         ],
         "tags": [
             "comedy",
@@ -6839,34 +6845,6 @@
             "daily life",
             "music",
             "photography",
-            "slice of life"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/12826",
-            "https://notify.moe/anime/-oVW2Kmmg"
-        ],
-        "title": "Kosys! Lite: Tsuyoku Suishou Bansaku no Sunglasses - Password Tsukai-mawashi no Jutsu",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/12826/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/12826/tiny.jpg",
-        "synonyms": [
-            "Koushisu! Lite",
-            "コウシス! LITE 「強く推奨バンサクのサングラス　～パスワード使い回しの術～」"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/8798",
-            "https://notify.moe/anime/7egbtKmmR"
-        ],
-        "tags": [
-            "comedy",
             "slice of life"
         ],
         "date": {

@@ -3903,31 +3903,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/16762",
-            "https://anime-planet.com/anime/jing-zhong-baoguo"
-        ],
-        "title": "Jing Zhong Baoguo",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/jing-zhong-baoguo-1.jpg?t=1632260022",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/jing-zhong-baoguo-1-285x400.jpg?t=1632260022",
-        "synonyms": [
-            "精忠报国"
-        ],
-        "relations": [],
-        "tags": [
-            "chinese animation",
-            "military",
-            "shorts"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/15695",
             "https://anilist.co/anime/115834",
             "https://anime-planet.com/anime/jing-shuang-cheng",
@@ -4004,7 +3979,9 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16762",
             "https://anilist.co/anime/120404",
+            "https://anime-planet.com/anime/jing-zhong-baoguo",
             "https://myanimelist.net/anime/48006"
         ],
         "title": "Jingzhong Baoguo",
@@ -4014,14 +3991,17 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1230/118286.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1230/118286t.jpg",
         "synonyms": [
+            "Jing Zhong Baoguo",
             "Loyalty to the Country",
             "精忠报国"
         ],
         "relations": [],
         "tags": [
             "action",
+            "chinese animation",
             "fantasy",
-            "military"
+            "military",
+            "shorts"
         ],
         "date": {
             "season": "summer",
@@ -4806,48 +4786,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/121956",
-            "https://kitsu.io/anime/44072"
-        ],
-        "title": "Kin of the Stained Blade",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44072/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44072/tiny.jpg",
-        "synonyms": [
-            "Chen Feng Gui",
-            "Irmãos da Lâmina Manchada | Animação Florescer Espiritual 2020 - League of Legends",
-            "Kin of the Stained Blade | Spirit Blossom 2020 Cinematic - League of Legends",
-            "乘风归",
-            "英雄联盟-乘风归"
-        ],
-        "relations": [
-            "https://anilist.co/anime/110291",
-            "https://anilist.co/anime/129628",
-            "https://anilist.co/anime/150623",
-            "https://kitsu.io/anime/42129",
-            "https://kitsu.io/anime/44073"
-        ],
-        "tags": [
-            "action",
-            "cgi",
-            "demons",
-            "drama",
-            "fantasy",
-            "fantasy world",
-            "magic",
-            "male protagonist",
-            "primarily male cast",
-            "swordplay"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2020
-        }
-    },
-    {
-        "sources": [
             "https://kitsu.io/anime/43157"
         ],
         "title": "Kipo and the Age of Wonderbeasts Season 2",
@@ -5410,6 +5348,56 @@
             "fantasy",
             "music",
             "tragedy"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/121956",
+            "https://anime-planet.com/anime/league-of-legends-kin-of-the-stained-blade",
+            "https://kitsu.io/anime/44072"
+        ],
+        "title": "League of Legends: Kin of the Stained Blade",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/league-of-legends-kin-of-the-stained-blade-1.jpg?t=1625908523",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/league-of-legends-kin-of-the-stained-blade-1-190x266.jpg?t=1625908523",
+        "synonyms": [
+            "Chen Feng Gui",
+            "Irmãos da Lâmina Manchada | Animação Florescer Espiritual 2020 - League of Legends",
+            "Kin of the Stained Blade",
+            "Kin of the Stained Blade | Spirit Blossom 2020 Cinematic - League of Legends",
+            "Yingxiong Lianmeng: Cheng Feng Gui",
+            "乘风归",
+            "英雄联盟-乘风归"
+        ],
+        "relations": [
+            "https://anilist.co/anime/110291",
+            "https://anilist.co/anime/129628",
+            "https://anilist.co/anime/150623",
+            "https://anime-planet.com/anime/a-new-journey",
+            "https://kitsu.io/anime/42129",
+            "https://kitsu.io/anime/44073"
+        ],
+        "tags": [
+            "action",
+            "based on a video game",
+            "cg animation",
+            "cgi",
+            "chinese animation",
+            "demons",
+            "drama",
+            "fantasy",
+            "fantasy world",
+            "magic",
+            "male protagonist",
+            "primarily male cast",
+            "shorts",
+            "swordplay"
         ],
         "date": {
             "season": "summer",
