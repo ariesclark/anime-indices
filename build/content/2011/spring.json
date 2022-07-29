@@ -6727,41 +6727,10 @@
         "sources": [
             "https://anidb.net/anime/13639",
             "https://anime-planet.com/anime/my-last-day",
-            "https://kitsu.io/anime/10918",
-            "https://notify.moe/anime/OwflpKimR"
-        ],
-        "title": "My Last Day",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/my-last-day-1.jpg?t=1625896079",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/my-last-day-1-190x285.jpg?t=1625896079",
-        "synonyms": [
-            "The Jesus Anime",
-            "The Jesus Project"
-        ],
-        "relations": [],
-        "tags": [
-            "anime influenced",
-            "based on a religious text",
-            "christianity",
-            "drama",
-            "historical",
-            "past",
-            "religion",
-            "short movie",
-            "shorts",
-            "violence"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2011
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/7067",
-            "https://myanimelist.net/anime/49666"
+            "https://kitsu.io/anime/10918",
+            "https://myanimelist.net/anime/49666",
+            "https://notify.moe/anime/OwflpKimR"
         ],
         "title": "My last day",
         "type": "ona",
@@ -6772,13 +6741,23 @@
         "synonyms": [
             "Jesus: My Last Day",
             "My Last Day",
-            "My lat day"
+            "My lat day",
+            "The Jesus Anime",
+            "The Jesus Project"
         ],
         "relations": [],
         "tags": [
+            "anime influenced",
+            "based on a religious text",
+            "christianity",
             "drama",
             "excessive violence",
-            "historical"
+            "historical",
+            "past",
+            "religion",
+            "short movie",
+            "shorts",
+            "violence"
         ],
         "date": {
             "season": "spring",

@@ -7413,7 +7413,9 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/monsuno-3rd-season"
+            "https://anime-planet.com/anime/monsuno-3rd-season",
+            "https://kitsu.io/anime/11111",
+            "https://notify.moe/anime/NN2XtKiiR"
         ],
         "title": "Monsuno 3rd Season",
         "type": "ona",
@@ -7421,44 +7423,22 @@
         "status": "finished",
         "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
         "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "synonyms": [],
+        "synonyms": [
+            "Juusen Battle Monsuno Season 3",
+            "Monsuno: World Master Season 3"
+        ],
         "relations": [
             "https://anime-planet.com/anime/monsuno",
-            "https://anime-planet.com/anime/monsuno-combat-chaos"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "fantasy",
-            "original work"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/11111",
-            "https://notify.moe/anime/NN2XtKiiR"
-        ],
-        "title": "Monsuno: World Master Season 3",
-        "type": "ona",
-        "episodes": 13,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/11111/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/11111/tiny.jpg",
-        "synonyms": [
-            "Juusen Battle Monsuno Season 3"
-        ],
-        "relations": [
+            "https://anime-planet.com/anime/monsuno-combat-chaos",
             "https://kitsu.io/anime/6907",
             "https://notify.moe/anime/OZNvpKimg"
         ],
         "tags": [
             "action",
             "adventure",
-            "anime influenced"
+            "anime influenced",
+            "fantasy",
+            "original work"
         ],
         "date": {
             "season": "summer",

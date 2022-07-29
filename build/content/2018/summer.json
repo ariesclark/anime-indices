@@ -9679,33 +9679,10 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/41907",
-            "https://notify.moe/anime/cz3jpNAmR"
-        ],
-        "title": "Oshiego ni Kyouhaku Sareru no ga Hanzai desu ka?",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/41907/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/41907/tiny.jpg",
-        "synonyms": [
-            "Is it a Crime if You're Threatened by Your Student?",
-            "教え子に脅迫されるのは犯罪ですか？"
-        ],
-        "relations": [],
-        "tags": [
-            "school",
-            "school life"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/14538",
-            "https://myanimelist.net/anime/38063"
+            "https://kitsu.io/anime/41907",
+            "https://myanimelist.net/anime/38063",
+            "https://notify.moe/anime/cz3jpNAmR"
         ],
         "title": "Oshiego ni Kyouhaku Sareru no wa Hanzai Desu ka?",
         "type": "ona",
@@ -9715,6 +9692,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1485/93251t.jpg",
         "synonyms": [
             "Is it a Crime if You're Threatened by Your Student?",
+            "Oshiego ni Kyouhaku Sareru no ga Hanzai desu ka?",
             "Oshiego ni Kyouhaku Sareru no wa Hanzai desu ka?",
             "Oshiego ni Kyōhaku Sareru no wa Hanzai desu ka?",
             "教え子に脅迫されるのは犯罪ですか？"
@@ -9726,7 +9704,8 @@
             "present",
             "romance",
             "romantic comedy",
-            "school"
+            "school",
+            "school life"
         ],
         "date": {
             "season": "summer",

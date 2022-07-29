@@ -4321,35 +4321,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/9333",
-            "https://kitsu.io/anime/11789",
-            "https://notify.moe/anime/0RB3pFimR"
-        ],
-        "title": "Juubee Ninpuuchou BURST",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/11789/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/11789/tiny.jpg",
-        "synonyms": [
-            "Juubee Ninpuuchou Burst",
-            "Ninja Scroll BURST",
-            "Ninja Scroll Burst",
-            "獣兵衛忍風帖BURST"
-        ],
-        "relations": [
-            "https://anidb.net/anime/277"
-        ],
-        "tags": [
-            "action"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2012
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/114618",
             "https://anime-planet.com/anime/kuroko",
             "https://kitsu.io/anime/13000",
@@ -6893,8 +6864,11 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/9333",
             "https://anime-planet.com/anime/ninja-scroll-burst",
-            "https://anisearch.com/anime/8225"
+            "https://anisearch.com/anime/8225",
+            "https://kitsu.io/anime/11789",
+            "https://notify.moe/anime/0RB3pFimR"
         ],
         "title": "Ninja Scroll BURST",
         "type": "ona",
@@ -6903,10 +6877,14 @@
         "picture": "https://cdn.anime-planet.com/anime/primary/ninja-scroll-burst-1.jpg?t=1625896915",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/ninja-scroll-burst-1-190x266.jpg?t=1625896915",
         "synonyms": [
+            "Juubee Ninpuuchou BURST",
+            "Juubee Ninpuuchou Burst",
             "Ninja Scroll Burst",
-            "Ninja Scroll Kocho"
+            "Ninja Scroll Kocho",
+            "獣兵衛忍風帖BURST"
         ],
         "relations": [
+            "https://anidb.net/anime/277",
             "https://anime-planet.com/anime/ninja-scroll",
             "https://anime-planet.com/anime/ninja-scroll-the-series",
             "https://anisearch.com/anime/2096"
