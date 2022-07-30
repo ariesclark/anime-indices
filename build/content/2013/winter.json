@@ -346,9 +346,11 @@
             "https://anilist.co/anime/102574",
             "https://anime-planet.com/anime/akichi-asobi-playground",
             "https://anisearch.com/anime/10024",
+            "https://kitsu.io/anime/11625",
             "https://kitsu.io/anime/40829",
             "https://myanimelist.net/anime/35706",
-            "https://notify.moe/anime/5OHdhFmmR"
+            "https://notify.moe/anime/5OHdhFmmR",
+            "https://notify.moe/anime/b_3jtFimR"
         ],
         "title": "Akichi Asobi: Playground",
         "type": "movie",
@@ -359,6 +361,7 @@
         "synonyms": [
             "Akichi Asobi",
             "PLAYGROUND",
+            "PLAYGROUND (2013)",
             "PLAYGROUND: あきちあそび",
             "あきちあそび",
             "あきちあそび Playground"
@@ -370,6 +373,7 @@
             "coming of age",
             "drama",
             "fantasy",
+            "music",
             "original work",
             "present",
             "shorts",
@@ -4374,6 +4378,8 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/116781",
+            "https://anime-planet.com/anime/from-a-stone",
             "https://kitsu.io/anime/45825",
             "https://myanimelist.net/anime/50924"
         ],
@@ -4390,8 +4396,11 @@
         ],
         "relations": [],
         "tags": [
+            "abstract",
             "avant garde",
-            "psychological"
+            "no dialogue",
+            "psychological",
+            "shorts"
         ],
         "date": {
             "season": "winter",
@@ -4814,30 +4823,6 @@
             "independent anime",
             "music",
             "shorts"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/117223",
-            "https://kitsu.io/anime/45883"
-        ],
-        "title": "Kamisama no Harawata",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45883/poster_image/small-abaf658e87d1672aa8ab2c2aeabad99f.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45883/poster_image/tiny-63f9ec2cd0907b64a347a144d06c5c8b.jpeg",
-        "synonyms": [
-            "My Dear Flesh",
-            "かみさまのはらわた"
-        ],
-        "relations": [],
-        "tags": [
-            "psychological"
         ],
         "date": {
             "season": "winter",
@@ -7252,6 +7237,34 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/117223",
+            "https://anime-planet.com/anime/my-dear-flesh",
+            "https://kitsu.io/anime/45883"
+        ],
+        "title": "My Dear Flesh",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/my-dear-flesh-1.webp?t=1642304753",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/my-dear-flesh-1-285x399.webp?t=1642304753",
+        "synonyms": [
+            "Kami-sama no Harawata",
+            "Kamisama no Harawata",
+            "かみさまのはらわた"
+        ],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "psychological",
+            "shorts"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2013
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/8367",
             "https://myanimelist.net/anime/17371"
         ],
@@ -7677,27 +7690,6 @@
             "josei",
             "romance",
             "slice of life"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/11625",
-            "https://notify.moe/anime/b_3jtFimR"
-        ],
-        "title": "PLAYGROUND (2013)",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/11625/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/11625/tiny.jpg",
-        "synonyms": [],
-        "relations": [],
-        "tags": [
-            "music"
         ],
         "date": {
             "season": "winter",

@@ -2870,6 +2870,7 @@
     {
         "sources": [
             "https://anilist.co/anime/137893",
+            "https://anime-planet.com/anime/rainych-diamond-city",
             "https://myanimelist.net/anime/50073"
         ],
         "title": "Diamond City",
@@ -2878,7 +2879,9 @@
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1579/118703.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1579/118703t.jpg",
-        "synonyms": [],
+        "synonyms": [
+            "Rainych: Diamond City"
+        ],
         "relations": [],
         "tags": [
             "music"
@@ -7836,6 +7839,44 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/135571",
+            "https://anime-planet.com/anime/metal-goddess-soldier",
+            "https://kitsu.io/anime/44818"
+        ],
+        "title": "Metal Goddess Soldier",
+        "type": "ona",
+        "episodes": 24,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/metal-goddess-soldier-1.jpg?t=1631678560",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/metal-goddess-soldier-1-285x400.jpg?t=1631678560",
+        "synonyms": [
+            "Iron Ladies",
+            "Tie Ji Gangbing",
+            "Tie Jie Gang Bing",
+            "铁姬钢兵"
+        ],
+        "relations": [
+            "https://anilist.co/anime/135572",
+            "https://anime-planet.com/anime/metal-goddess-soldier-2nd-season",
+            "https://kitsu.io/anime/44819"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "based on a manga",
+            "chinese animation",
+            "sci fi",
+            "sci-fi",
+            "science fiction",
+            "short episodes"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/mofa-shu-leyuan",
             "https://myanimelist.net/anime/48129"
         ],
@@ -12431,36 +12472,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/135571",
-            "https://kitsu.io/anime/44818"
-        ],
-        "title": "Tie Jie Gang Bing",
-        "type": "ona",
-        "episodes": 24,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44818/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44818/tiny.jpg",
-        "synonyms": [
-            "Iron Ladies",
-            "Metal Goddess Soldier",
-            "铁姬钢兵"
-        ],
-        "relations": [
-            "https://anilist.co/anime/135572",
-            "https://kitsu.io/anime/44819"
-        ],
-        "tags": [
-            "adventure",
-            "sci-fi",
-            "science fiction"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2021
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/15916",
             "https://myanimelist.net/anime/48450"
         ],
@@ -14126,6 +14137,7 @@
     {
         "sources": [
             "https://anidb.net/anime/16738",
+            "https://anime-planet.com/anime/xiao-shizi-sai-ji",
             "https://myanimelist.net/anime/51938"
         ],
         "title": "Xiao Shizi Sai Ji",
@@ -14138,12 +14150,19 @@
             "小狮子赛几"
         ],
         "relations": [
+            "https://anime-planet.com/anime/xiao-shizi-sai-ji-2nd-season",
             "https://myanimelist.net/anime/51939"
         ],
         "tags": [
+            "animal protagonists",
+            "anthropomorphic",
+            "chinese animation",
             "comedy",
+            "family friendly",
             "fantasy",
-            "school"
+            "non-human protagonists",
+            "school",
+            "short episodes"
         ],
         "date": {
             "season": "winter",

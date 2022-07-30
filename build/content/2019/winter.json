@@ -2529,6 +2529,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/kinako-nishinakajima-danbou-to-reibou",
             "https://kitsu.io/anime/42857",
             "https://myanimelist.net/anime/39096"
         ],
@@ -2540,11 +2541,13 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1191/98545t.jpg",
         "synonyms": [
             "Heating and Cooling",
+            "Kinako Nishinakajima: Danbou to Reibou",
             "Nishinakajima Kinako",
             "暖房と冷房"
         ],
         "relations": [],
         "tags": [
+            "abstract",
             "avant garde",
             "dementia",
             "music"
@@ -4913,32 +4916,6 @@
             "comedy",
             "school clubs",
             "slice of life"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/138952",
-            "https://kitsu.io/anime/45196"
-        ],
-        "title": "Hi Nante Nakunatte Shimae",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45196/poster_image/small-f49342925a87c3488c1e27fefb755b59.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45196/poster_image/tiny-f1948630110c56451aafbf991a22fcaf.jpeg",
-        "synonyms": [
-            "Text Complex",
-            "ひ なんてなくなってしまえ"
-        ],
-        "relations": [],
-        "tags": [
-            "music",
-            "musical",
-            "psychological"
         ],
         "date": {
             "season": "winter",
@@ -10865,32 +10842,7 @@
     {
         "sources": [
             "https://anilist.co/anime/120998",
-            "https://anime-planet.com/anime/represent-chikyuu-collab-anime"
-        ],
-        "title": "Represent Chikyuu Collab Anime",
-        "type": "ona",
-        "episodes": 2,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/represent-chikyuu-collab-anime-1.jpg?t=1625908388",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/represent-chikyuu-collab-anime-1-190x266.jpg?t=1625908388",
-        "synonyms": [
-            "Represent Earth Collaboration Anime",
-            "レペゼン地球コラボアニメ"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "crude",
-            "promotional",
-            "short episodes"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
+            "https://anime-planet.com/anime/represent-chikyuu-collab-anime",
             "https://myanimelist.net/anime/42328"
         ],
         "title": "Represent Chikyuu Korabo Anime",
@@ -10900,12 +10852,17 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1482/108265.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1482/108265t.jpg",
         "synonyms": [
+            "Represent Chikyuu Collab Anime",
             "Represent Chikyuu Collaboration Anime",
+            "Represent Earth Collaboration Anime",
             "レペゼン地球コラボアニメ"
         ],
         "relations": [],
         "tags": [
-            "comedy"
+            "comedy",
+            "crude",
+            "promotional",
+            "short episodes"
         ],
         "date": {
             "season": "winter",
@@ -11114,33 +11071,6 @@
         "tags": [
             "adventure",
             "cg-anime"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/116328"
-        ],
-        "title": "Runway de Waratte Mini",
-        "type": "ona",
-        "episodes": 42,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116328-8A0lsY232bTF.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116328-8A0lsY232bTF.png",
-        "synonyms": [
-            "Runway de Waratte Mini Anime",
-            "Smile Down the Runway Mini",
-            "ランウェイで笑って ミニアニメ"
-        ],
-        "relations": [
-            "https://anilist.co/anime/111501"
-        ],
-        "tags": [
-            "chibi",
-            "comedy"
         ],
         "date": {
             "season": "winter",
@@ -12370,6 +12300,35 @@
             "slice of life",
             "slimes",
             "verbal comedy"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/138952",
+            "https://anime-planet.com/anime/text-complex",
+            "https://kitsu.io/anime/45196"
+        ],
+        "title": "Text Complex",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/text-complex-1.webp?t=1638252403",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/text-complex-1-285x399.webp?t=1638252403",
+        "synonyms": [
+            "Hi Nante Nakunatte Shimae",
+            "Hi nante Nakunatteshimae",
+            "ひ なんてなくなってしまえ"
+        ],
+        "relations": [],
+        "tags": [
+            "music",
+            "musical",
+            "psychological",
+            "shorts"
         ],
         "date": {
             "season": "winter",

@@ -8304,8 +8304,12 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/21794",
             "https://anime-planet.com/anime/meiji-tokyo-renka-movie-2-hanakagami-no-fantasia",
-            "https://myanimelist.net/anime/33087"
+            "https://kitsu.io/anime/12090",
+            "https://livechart.me/anime/2140",
+            "https://myanimelist.net/anime/33087",
+            "https://notify.moe/anime/wkeetKimR"
         ],
         "title": "Meiji Tokyo Renka Movie 2: Hanakagami no Fantasia",
         "type": "movie",
@@ -8314,90 +8318,37 @@
         "picture": "https://cdn.myanimelist.net/images/anime/9/79862.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/9/79862t.jpg",
         "synonyms": [
-            "劇場版 明治東亰恋伽 〜花鏡の幻想曲〜"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/meiji-tokyo-renka",
-            "https://anime-planet.com/anime/meiji-tokyo-renka-movie-yumihari-no-serenade",
-            "https://myanimelist.net/anime/29855",
-            "https://myanimelist.net/anime/34209"
-        ],
-        "tags": [
-            "based on a visual novel",
-            "based on an otome game",
-            "fantasy",
-            "historical",
-            "reverse harem",
-            "romance",
-            "shoujo",
-            "time travel"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/12090",
-            "https://notify.moe/anime/wkeetKimR"
-        ],
-        "title": "Meiji Tokyo Renka Movie: Hanakagami no Fantasia",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/12090/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/12090/tiny.jpg",
-        "synonyms": [
-            "劇場版 明治東亰恋伽 〜花鏡の幻想曲〜"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/13056",
-            "https://kitsu.io/anime/8156",
-            "https://notify.moe/anime/_yzGhKmig",
-            "https://notify.moe/anime/yoGTpFmmg"
-        ],
-        "tags": [
-            "fantasy",
-            "harem",
-            "historical",
-            "romance",
-            "shoujo"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/21794",
-            "https://livechart.me/anime/2140"
-        ],
-        "title": "Meiji Tokyo Renka: Hanakagami no Fantasia",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21794-oyeJJD1MrlZk.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21794-oyeJJD1MrlZk.jpg",
-        "synonyms": [
+            "Meiji Tokyo Renka Movie: Hanakagami no Fantasia",
+            "Meiji Tokyo Renka: Hanakagami no Fantasia",
             "劇場版 明治東亰恋伽 〜花鏡の幻想曲〜",
             "明治東亰恋伽～花鏡の幻想曲～"
         ],
         "relations": [
             "https://anilist.co/anime/20511",
+            "https://anime-planet.com/anime/meiji-tokyo-renka",
+            "https://anime-planet.com/anime/meiji-tokyo-renka-movie-yumihari-no-serenade",
+            "https://kitsu.io/anime/13056",
+            "https://kitsu.io/anime/8156",
             "https://livechart.me/anime/2363",
-            "https://livechart.me/anime/292"
+            "https://livechart.me/anime/292",
+            "https://myanimelist.net/anime/29855",
+            "https://myanimelist.net/anime/34209",
+            "https://notify.moe/anime/_yzGhKmig",
+            "https://notify.moe/anime/yoGTpFmmg"
         ],
         "tags": [
+            "based on a visual novel",
+            "based on an otome game",
             "fantasy",
             "female protagonist",
             "harem",
             "historical",
             "male harem",
             "primarily male cast",
+            "reverse harem",
             "romance",
-            "shoujo"
+            "shoujo",
+            "time travel"
         ],
         "date": {
             "season": "spring",

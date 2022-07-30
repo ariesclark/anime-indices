@@ -4461,7 +4461,11 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/13788",
             "https://anilist.co/anime/116784",
+            "https://anime-planet.com/anime/gou-chan-moko-to-koori-no-ue-no-yakusoku",
+            "https://anisearch.com/anime/13813",
+            "https://kitsu.io/anime/41759",
             "https://myanimelist.net/anime/37267"
         ],
         "title": "Go-chan.: Moko to Koori no Ue no Yakusoku",
@@ -4472,16 +4476,35 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1037/90455t.jpg",
         "synonyms": [
             "Go-chan and Moko Forever Friends on Ice",
+            "Gou-chan. Moko to Koori no Ue no Yakusoku",
+            "Gō-chan. Moko to Kōri no Ue no Yakusoku",
             "ゴーちゃん. ~モコと氷の上の約束~",
-            "ゴーちゃん。〜モコと氷の上の約束〜"
+            "ゴーちゃん。〜モコと氷の上の約束〜",
+            "ゴーちゃん。～モコと氷の上の約束～"
         ],
         "relations": [
+            "https://anidb.net/anime/12638",
             "https://anilist.co/anime/116785",
+            "https://anime-planet.com/anime/gou-chan-moko-to-chinjuu-no-mori-no-nakama-tachi",
+            "https://anisearch.com/anime/12205",
             "https://myanimelist.net/anime/34527"
         ],
         "tags": [
             "adventure",
-            "kids"
+            "aliens",
+            "animal protagonists",
+            "bears",
+            "elementary school",
+            "family friendly",
+            "fantasy",
+            "kids",
+            "non-human protagonists",
+            "pandas",
+            "present",
+            "school",
+            "sci fi",
+            "slice of life",
+            "sports"
         ],
         "date": {
             "season": "winter",
@@ -15267,6 +15290,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/103990",
             "https://anime-planet.com/anime/zhu-zhu-xia-fan-wai-zhi-huanqiu-riji",
             "https://myanimelist.net/anime/38140"
         ],
@@ -15280,9 +15304,11 @@
             "GG Bond: Adventure Journey",
             "GG Bond: Adventure to the World",
             "GG Bond: Global Diary",
+            "Zhuzhu Xia: Fan Wai - Zhi Huanqiu Riji",
             "猪猪侠番外 环球日记"
         ],
         "relations": [
+            "https://anilist.co/anime/103988",
             "https://myanimelist.net/anime/38131",
             "https://myanimelist.net/anime/38135"
         ],
@@ -15293,6 +15319,7 @@
             "cg animation",
             "chinese animation",
             "family friendly",
+            "full cgi",
             "kids",
             "non-human protagonists",
             "pigs",
@@ -15521,24 +15548,29 @@
     {
         "sources": [
             "https://anilist.co/anime/114041",
+            "https://anime-planet.com/anime/lemolemo",
             "https://anisearch.com/anime/16343",
-            "https://kitsu.io/anime/45511"
+            "https://kitsu.io/anime/45511",
+            "https://myanimelist.net/anime/52435"
         ],
         "title": "lemolemo",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45511/poster_image/small-f502c448593f37d74ddee57cf3c5b23f.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45511/poster_image/tiny-d6319061b9d9eba3c1b7d8f9257ccd81.jpeg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1512/125528.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1512/125528t.jpg",
         "synonyms": [
+            "Lemolemo",
             "れもれも"
         ],
         "relations": [],
         "tags": [
+            "abstract",
             "indefinite",
             "independent anime",
             "no dialogue",
-            "psychological"
+            "psychological",
+            "shorts"
         ],
         "date": {
             "season": "winter",

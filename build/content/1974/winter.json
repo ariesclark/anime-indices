@@ -208,7 +208,9 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/129933",
             "https://anime-planet.com/anime/den-den-mushi-no-danko-san",
+            "https://kitsu.io/anime/43191",
             "https://myanimelist.net/anime/39499"
         ],
         "title": "Den Den Mushi no Danko-san",
@@ -218,6 +220,10 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1172/99711.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1172/99711t.jpg",
         "synonyms": [
+            "Den Den Mushi no Denko-san",
+            "Denden Mushi no Denko-san",
+            "Dendenmushi no Denko-san",
+            "Denko-san the Snail",
             "Minna no Uta",
             "Minna no Uta: Den Den Mushi no Danko-san",
             "デンデン虫のデン子さん"
@@ -225,42 +231,13 @@
         "relations": [],
         "tags": [
             "animal protagonists",
+            "animals",
+            "body horror",
             "family friendly",
             "kids",
             "minna no uta",
             "music",
             "non-human protagonists"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 1974
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/129933",
-            "https://kitsu.io/anime/43191"
-        ],
-        "title": "Dendenmushi no Denko-san",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/43191/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/43191/tiny.jpg",
-        "synonyms": [
-            "Den Den Mushi no Danko-san",
-            "Den Den Mushi no Denko-san",
-            "Denden Mushi no Denko-san",
-            "Denko-san the Snail",
-            "Minna no Uta",
-            "デンデン虫のデン子さん"
-        ],
-        "relations": [],
-        "tags": [
-            "animals",
-            "body horror",
-            "kids",
-            "music"
         ],
         "date": {
             "season": "winter",

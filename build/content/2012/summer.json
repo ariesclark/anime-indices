@@ -9450,18 +9450,24 @@
     {
         "sources": [
             "https://anilist.co/anime/110631",
+            "https://anime-planet.com/anime/sinchotv-cm",
             "https://kitsu.io/anime/45153"
         ],
-        "title": "Sincho.tv",
+        "title": "Sincho.TV CM",
         "type": "ona",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/45153/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/45153/tiny.jpg",
-        "synonyms": [],
+        "picture": "https://cdn.anime-planet.com/anime/primary/sinchotv-cm-1.webp?t=1631312425",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/sinchotv-cm-1-285x399.webp?t=1631312425",
+        "synonyms": [
+            "Sincho.tv"
+        ],
         "relations": [],
         "tags": [
+            "commercials",
             "music",
+            "no dialogue",
+            "promotional",
             "the arts"
         ],
         "date": {

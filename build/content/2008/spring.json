@@ -2954,6 +2954,8 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/15236",
+            "https://anilist.co/anime/123120",
             "https://anime-planet.com/anime/hulu-xiongdi-movie",
             "https://myanimelist.net/anime/43612"
         ],
@@ -2966,48 +2968,24 @@
         "synonyms": [
             "Calabash Brothers",
             "Calabash Brothers Movie",
+            "Hulu Xiongdi (2008)",
             "Hulu Xiongdi Movie",
-            "葫芦兄弟"
+            "葫芦兄弟",
+            "葫芦兄弟 (2008)"
         ],
         "relations": [
+            "https://anidb.net/anime/8122",
+            "https://anilist.co/anime/9950",
             "https://anime-planet.com/anime/hulu-xiongdi",
             "https://myanimelist.net/anime/9950"
         ],
         "tags": [
             "action",
+            "adventure",
             "chinese animation",
             "family friendly",
             "kids",
             "superpowers"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2008
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/15236",
-            "https://anilist.co/anime/123120"
-        ],
-        "title": "Hulu Xiongdi (Movie)",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123120-egfuXbtqOU07.png",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123120-egfuXbtqOU07.png",
-        "synonyms": [
-            "Calabash Brothers",
-            "Hulu Xiongdi (2008)",
-            "葫芦兄弟 (2008)"
-        ],
-        "relations": [
-            "https://anidb.net/anime/8122",
-            "https://anilist.co/anime/9950"
-        ],
-        "tags": [
-            "action",
-            "adventure"
         ],
         "date": {
             "season": "spring",

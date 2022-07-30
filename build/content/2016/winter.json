@@ -2280,6 +2280,7 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/mah-dead-end-street",
             "https://kitsu.io/anime/42913",
             "https://myanimelist.net/anime/39170"
         ],
@@ -2290,11 +2291,13 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1774/98686.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1774/98686t.jpg",
         "synonyms": [
+            "Mah: Dead End Street",
             "デッドエンドストリート"
         ],
         "relations": [],
         "tags": [
-            "music"
+            "music",
+            "vocaloid"
         ],
         "date": {
             "season": "winter",
@@ -7155,6 +7158,39 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/108731",
+            "https://anime-planet.com/anime/man-of-many-arms",
+            "https://kitsu.io/anime/45533",
+            "https://myanimelist.net/anime/48975"
+        ],
+        "title": "Man of many arms",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1876/114939.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1876/114939t.jpg",
+        "synonyms": [
+            "Man of many Arms",
+            "Ude no Oi Otoko",
+            "Ude no Ooi Otoko",
+            "man of many arms",
+            "腕の多い男"
+        ],
+        "relations": [],
+        "tags": [
+            "avant garde",
+            "black and white",
+            "no dialogue",
+            "psychological",
+            "shorts"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/102722",
             "https://anime-planet.com/anime/imarine-project-marine-bloomin-mmd",
             "https://anisearch.com/anime/11714",
@@ -7278,20 +7314,29 @@
     {
         "sources": [
             "https://anilist.co/anime/108055",
-            "https://kitsu.io/anime/44405"
+            "https://anime-planet.com/anime/mayumi",
+            "https://kitsu.io/anime/44405",
+            "https://myanimelist.net/anime/52417"
         ],
         "title": "Mayumi",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44405/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44405/tiny.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1989/125445.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1989/125445t.jpg",
         "synonyms": [
+            "mayumi",
             "まゆみ"
         ],
         "relations": [],
         "tags": [
-            "psychological"
+            "abstract",
+            "avant garde",
+            "black and white",
+            "drama",
+            "horror",
+            "psychological",
+            "shorts"
         ],
         "date": {
             "season": "winter",
@@ -12944,31 +12989,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/12429",
-            "https://notify.moe/anime/QytzhFmmg"
-        ],
-        "title": "Tokyo Futago Athletic",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/12429/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/12429/tiny.jpg",
-        "synonyms": [
-            "Tokyo Twins Athletic Tournament",
-            "東京ふたごアスレチック"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "sports"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/103356",
             "https://anime-planet.com/anime/tokyu-plaza-ginza-open",
             "https://kitsu.io/anime/12851",
@@ -13153,30 +13173,6 @@
             "sci fi",
             "sci-fi",
             "space"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2016
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/108731",
-            "https://kitsu.io/anime/45533"
-        ],
-        "title": "Ude no Oi Otoko",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45533/poster_image/small-c313273e213102ce79e1faa6236b2b0c.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45533/poster_image/tiny-8a40dfad2265e1172cda4244665ef46b.jpeg",
-        "synonyms": [
-            "Man of many Arms",
-            "腕の多い男"
-        ],
-        "relations": [],
-        "tags": [
-            "psychological"
         ],
         "date": {
             "season": "winter",

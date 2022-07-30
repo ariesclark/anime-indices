@@ -1244,29 +1244,6 @@
     },
     {
         "sources": [
-            "https://kitsu.io/anime/13380",
-            "https://notify.moe/anime/r81n2FiiR"
-        ],
-        "title": "Confession Rival Declaration",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/13380/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/13380/tiny.jpg",
-        "synonyms": [
-            "告白ライバル宣言"
-        ],
-        "relations": [],
-        "tags": [
-            "music"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/9345",
             "https://myanimelist.net/anime/22081"
         ],
@@ -3394,6 +3371,39 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/honeyworks-confession-rival-declaration",
+            "https://kitsu.io/anime/13380",
+            "https://notify.moe/anime/r81n2FiiR"
+        ],
+        "title": "HoneyWorks: Confession Rival Declaration",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/honeyworks-confession-rival-declaration-1.jpg?t=1625896828",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/honeyworks-confession-rival-declaration-1-190x285.jpg?t=1625896828",
+        "synonyms": [
+            "Confession Rival Declaration",
+            "HoneyWorks: Kokuhaku Rival Sengen",
+            "告白ライバル宣言"
+        ],
+        "relations": [
+            "https://anime-planet.com/anime/ive-always-liked-you"
+        ],
+        "tags": [
+            "love confession",
+            "music",
+            "romance",
+            "school life",
+            "unrequited love",
+            "vocaloid"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/honeyworks-the-third-pudding-war",
             "https://kitsu.io/anime/13396",
             "https://notify.moe/anime/LEa7hFimR"
@@ -4605,31 +4615,6 @@
             "stop motion",
             "stop motion animation",
             "tragedy"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/119453",
-            "https://kitsu.io/anime/45706"
-        ],
-        "title": "Koppu no naka no Koushi",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45706/poster_image/small-9d731dea0123d6381f3780bec2877678.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45706/poster_image/tiny-3d271950effb4b46e005059f1db6b614.jpeg",
-        "synonyms": [
-            "My Milk Cup Cow",
-            "コップの中の子牛"
-        ],
-        "relations": [],
-        "tags": [
-            "psychological",
-            "slice of life"
         ],
         "date": {
             "season": "winter",
@@ -6423,20 +6408,52 @@
     {
         "sources": [
             "https://anilist.co/anime/106559",
+            "https://anime-planet.com/anime/my-dear",
             "https://anisearch.com/anime/13425",
-            "https://kitsu.io/anime/45852"
+            "https://kitsu.io/anime/45852",
+            "https://myanimelist.net/anime/52428"
         ],
         "title": "My Dear",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45852/poster_image/small-a5f2b7a49e98b0548589cc5027858939.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45852/poster_image/tiny-1e238bd2e86312f35bf29b6d3b68b7a6.jpeg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1049/125518.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1049/125518t.jpg",
         "synonyms": [],
         "relations": [],
         "tags": [
+            "abstract",
             "drama",
-            "romance"
+            "romance",
+            "shorts"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/119453",
+            "https://anime-planet.com/anime/my-milk-cup-cow",
+            "https://kitsu.io/anime/45706"
+        ],
+        "title": "My Milk Cup Cow",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/my-milk-cup-cow-1.webp?t=1656443954",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/my-milk-cup-cow-1-285x399.webp?t=1656443954",
+        "synonyms": [
+            "Cup no Naka no Koushi",
+            "Koppu no naka no Koushi",
+            "コップの中の子牛"
+        ],
+        "relations": [],
+        "tags": [
+            "psychological",
+            "shorts",
+            "slice of life"
         ],
         "date": {
             "season": "winter",
@@ -13218,8 +13235,14 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/13509",
+            "https://anilist.co/anime/102713",
+            "https://anime-planet.com/anime/little-yeyos",
             "https://anisearch.com/anime/12964",
-            "https://myanimelist.net/anime/44874"
+            "https://kitsu.io/anime/12166",
+            "https://myanimelist.net/anime/32933",
+            "https://myanimelist.net/anime/44874",
+            "https://notify.moe/anime/SXNR2Fimg"
         ],
         "title": "Xiao Ye You",
         "type": "ona",
@@ -13234,47 +13257,16 @@
             "小夜游"
         ],
         "relations": [
-            "https://anisearch.com/anime/11206"
-        ],
-        "tags": [
-            "adventure",
-            "cg-anime",
-            "comedy",
-            "fantasy"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/13509",
-            "https://anilist.co/anime/102713",
-            "https://anime-planet.com/anime/little-yeyos",
-            "https://kitsu.io/anime/12166",
-            "https://myanimelist.net/anime/32933",
-            "https://notify.moe/anime/SXNR2Fimg"
-        ],
-        "title": "Xiao Yeyou",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/12/79020.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/12/79020t.jpg",
-        "synonyms": [
-            "Little Yeyos",
-            "Xiao Ye You",
-            "小夜游"
-        ],
-        "relations": [
             "https://anilist.co/anime/102062",
+            "https://anisearch.com/anime/11206",
             "https://kitsu.io/anime/12296",
             "https://myanimelist.net/anime/32751",
             "https://notify.moe/anime/n9rghKimg"
         ],
         "tags": [
+            "adventure",
             "cg animation",
+            "cg-anime",
             "chinese animation",
             "comedy",
             "family friendly",

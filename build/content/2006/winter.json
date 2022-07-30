@@ -842,34 +842,6 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/9820"
-        ],
-        "title": "Chun Tian Hua Hua Tong Xuehui",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9820.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9820.jpg",
-        "synonyms": [
-            "McDull, the Alumni",
-            "春田花花同学会",
-            "春田花花同學會",
-            "麦兜的春田花花同学会"
-        ],
-        "relations": [
-            "https://anilist.co/anime/9818",
-            "https://anilist.co/anime/9819"
-        ],
-        "tags": [
-            "comedy"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2006
-        }
-    },
-    {
-        "sources": [
             "https://anisearch.com/anime/478",
             "https://myanimelist.net/anime/3537"
         ],
@@ -4461,6 +4433,38 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/118109",
+            "https://anime-planet.com/anime/mr-cloud-and-mr-rain",
+            "https://anisearch.com/anime/6747",
+            "https://myanimelist.net/anime/52447"
+        ],
+        "title": "Kumo no Hito Ame no Hito",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1186/125563.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1186/125563t.jpg",
+        "synonyms": [
+            "Kumo no Hito, Ame no Hito",
+            "Mr. Cloud and Mr. Rain",
+            "Mr.Cloud and Mr.Rain",
+            "雲の人 雨の人"
+        ],
+        "relations": [],
+        "tags": [
+            "anthropomorphic",
+            "fantasy",
+            "no dialogue",
+            "psychological",
+            "shorts"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2006
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/1093",
             "https://myanimelist.net/anime/3034"
         ],
@@ -5141,6 +5145,7 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/9820",
             "https://kitsu.io/anime/5887",
             "https://notify.moe/anime/pmsMpKiig"
         ],
@@ -5151,11 +5156,16 @@
         "picture": "https://media.kitsu.io/anime/poster_images/5887/small.jpg",
         "thumbnail": "https://media.kitsu.io/anime/poster_images/5887/tiny.jpg",
         "synonyms": [
+            "Chun Tian Hua Hua Tong Xuehui",
             "McDull Movie 3",
             "McDull, The Alumni",
-            "春田花花同學會"
+            "春田花花同学会",
+            "春田花花同學會",
+            "麦兜的春田花花同学会"
         ],
         "relations": [
+            "https://anilist.co/anime/9818",
+            "https://anilist.co/anime/9819",
             "https://kitsu.io/anime/10606",
             "https://kitsu.io/anime/5885",
             "https://kitsu.io/anime/5886",

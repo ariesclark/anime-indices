@@ -4632,68 +4632,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/gou-chan-moko-to-koori-no-ue-no-yakusoku",
-            "https://anisearch.com/anime/13813"
-        ],
-        "title": "Gou-chan. Moko to Koori no Ue no Yakusoku",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/gou-chan-moko-to-koori-no-ue-no-yakusoku-1.jpg?t=1625898730",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/gou-chan-moko-to-koori-no-ue-no-yakusoku-1-190x266.jpg?t=1625898730",
-        "synonyms": [
-            "Gō-chan. Moko to Kōri no Ue no Yakusoku",
-            "ゴーちゃん。～モコと氷の上の約束～"
-        ],
-        "relations": [
-            "https://anime-planet.com/anime/gou-chan-moko-to-chinjuu-no-mori-no-nakama-tachi",
-            "https://anisearch.com/anime/12205"
-        ],
-        "tags": [
-            "aliens",
-            "animal protagonists",
-            "bears",
-            "elementary school",
-            "family friendly",
-            "fantasy",
-            "non-human protagonists",
-            "pandas",
-            "present",
-            "school",
-            "sci fi",
-            "slice of life",
-            "sports"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/13788",
-            "https://kitsu.io/anime/41759"
-        ],
-        "title": "Gou-chan. Moko to Koori no Ue no Yakusoku",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/41759/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/41759/tiny.jpg",
-        "synonyms": [
-            "ゴーちゃん. ~モコと氷の上の約束~"
-        ],
-        "relations": [
-            "https://anidb.net/anime/12638"
-        ],
-        "tags": [],
-        "date": {
-            "season": "spring",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
             "https://anilist.co/anime/103783",
             "https://anime-planet.com/anime/polaris-graduation",
             "https://kitsu.io/anime/41892",
@@ -12769,29 +12707,35 @@
     {
         "sources": [
             "https://anilist.co/anime/131881",
+            "https://anime-planet.com/anime/thunderbolt-fantasy-x-touken-ranbu-2",
             "https://kitsu.io/anime/44281"
         ],
-        "title": "Thunderbolt Fantasy Touken Ranbu 2",
+        "title": "Thunderbolt Fantasy x Touken Ranbu 2",
         "type": "ona",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44281/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44281/tiny.jpg",
+        "picture": "https://cdn.anime-planet.com/anime/primary/thunderbolt-fantasy-x-touken-ranbu-2-1.jpg?t=1632266376",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/thunderbolt-fantasy-x-touken-ranbu-2-1-285x400.jpg?t=1632266376",
         "synonyms": [
+            "Thunderbolt Fantasy Touken Ranbu 2",
             "Thunderbolt Fantasy 刀劍亂舞2"
         ],
         "relations": [
             "https://anilist.co/anime/98520",
             "https://anilist.co/anime/99557",
+            "https://anime-planet.com/anime/thunderbolt-fantasy",
+            "https://anime-planet.com/anime/zoku-touken-ranbu-hanamaru",
             "https://kitsu.io/anime/13478",
             "https://kitsu.io/anime/13609"
         ],
         "tags": [
             "action",
+            "crossover",
             "fantasy",
             "magic",
             "martial arts",
             "puppetry",
+            "shorts",
             "swordplay"
         ],
         "date": {
@@ -13569,6 +13513,8 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/138994",
+            "https://anime-planet.com/anime/usa-weather-show",
             "https://kitsu.io/anime/44802",
             "https://myanimelist.net/anime/38353"
         ],
@@ -13579,11 +13525,15 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1417/93950.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1417/93950t.jpg",
         "synonyms": [
+            "USA Weather Show",
             "usa Weather Show"
         ],
         "relations": [],
         "tags": [
+            "animal protagonists",
             "comedy",
+            "non-human protagonists",
+            "shorts",
             "slice of life"
         ],
         "date": {
