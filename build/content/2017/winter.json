@@ -10859,6 +10859,36 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/114339",
+            "https://anime-planet.com/anime/south-forest",
+            "https://kitsu.io/anime/45051"
+        ],
+        "title": "SOUTH FOREST",
+        "type": "movie",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.anime-planet.com/anime/primary/south-forest-1.webp?t=1656453356",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/south-forest-1-285x399.webp?t=1656453356",
+        "synonyms": [
+            "SOUHT FOREST",
+            "South Forest"
+        ],
+        "relations": [],
+        "tags": [
+            "anti war",
+            "drama",
+            "psychological",
+            "shorts",
+            "slice of life",
+            "war"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2017
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/114336",
             "https://kitsu.io/anime/43162"
         ],
@@ -11556,24 +11586,31 @@
     {
         "sources": [
             "https://anilist.co/anime/113315",
-            "https://kitsu.io/anime/44628"
+            "https://anime-planet.com/anime/nosferatu-maiden",
+            "https://kitsu.io/anime/44628",
+            "https://myanimelist.net/anime/49314"
         ],
         "title": "Shoujo Nosferatu",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/44628/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/44628/tiny.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1411/116149.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1411/116149t.jpg",
         "synonyms": [
             "Nosferatu Maiden",
             "少女ノスフェラトゥ"
         ],
         "relations": [],
         "tags": [
+            "abstract",
+            "avant garde",
             "horror",
             "no dialogue",
             "psychological",
-            "vampire"
+            "shorts",
+            "supernatural",
+            "vampire",
+            "vampires"
         ],
         "date": {
             "season": "winter",
@@ -11741,32 +11778,6 @@
         "relations": [],
         "tags": [
             "music"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2017
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/114339",
-            "https://kitsu.io/anime/45051"
-        ],
-        "title": "South Forest",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/45051/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/45051/tiny.jpg",
-        "synonyms": [
-            "SOUHT FOREST",
-            "SOUTH FOREST"
-        ],
-        "relations": [],
-        "tags": [
-            "anti war",
-            "psychological",
-            "slice of life"
         ],
         "date": {
             "season": "winter",

@@ -373,6 +373,8 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/15122",
+            "https://anime-planet.com/anime/paxiu-de-huangying",
             "https://anisearch.com/anime/15631",
             "https://myanimelist.net/anime/43274"
         ],
@@ -386,33 +388,10 @@
             "Le Loriot Timide",
             "Pa Xui De Huang Ying",
             "Paxiu De Huangying",
-            "The Shy Oriole",
-            "怕羞的黃鶯",
-            "怕羞的黄莺"
-        ],
-        "relations": [],
-        "tags": [
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 1960
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/15122",
-            "https://anime-planet.com/anime/paxiu-de-huangying"
-        ],
-        "title": "Paxiu de Huangying",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/paxiu-de-huangying-1.jpg?t=1625907713",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/paxiu-de-huangying-1-190x266.jpg?t=1625907713",
-        "synonyms": [
+            "Paxiu de Huangying",
             "The Shy Oriole",
             "怕羞的小黄莺",
+            "怕羞的黃鶯",
             "怕羞的黄莺",
             "怕羞的黄鶯"
         ],
@@ -422,6 +401,7 @@
             "birds",
             "chinese animation",
             "family friendly",
+            "kids",
             "non-human protagonists",
             "shorts"
         ],

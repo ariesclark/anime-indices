@@ -1325,32 +1325,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/okashina-hotel",
-            "https://anisearch.com/anime/9366"
-        ],
-        "title": "Okashina Hotel",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/okashina-hotel-1.jpg?t=1625896786",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/okashina-hotel-1-190x268.jpg?t=1625896786",
-        "synonyms": [
-            "おかしなホテル"
-        ],
-        "relations": [],
-        "tags": [
-            "guns",
-            "hotels and inns",
-            "indefinite",
-            "shorts"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2008
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/pp-le-fantian"
         ],
         "title": "PP Le Fantian",
@@ -2420,6 +2394,8 @@
     },
     {
         "sources": [
+            "https://anilist.co/anime/129365",
+            "https://anime-planet.com/anime/zhen-gongfu-aoyun-zai-wo-jia",
             "https://myanimelist.net/anime/44673"
         ],
         "title": "Zhen Gongfu Zhi Aoyun Zai Wojia",
@@ -2429,31 +2405,8 @@
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
-            "真功夫之奥运在我家"
-        ],
-        "relations": [],
-        "tags": [
-            "kids",
-            "sports"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2008
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/129365",
-            "https://anime-planet.com/anime/zhen-gongfu-aoyun-zai-wo-jia"
-        ],
-        "title": "Zhen Gongfu: Aoyun Zai Wo Jia",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/zhen-gongfu-aoyun-zai-wo-jia-1.jpg?t=1625908998",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/zhen-gongfu-aoyun-zai-wo-jia-1-190x266.jpg?t=1625908998",
-        "synonyms": [
             "Olimpics Is In My Family",
+            "Zhen Gongfu: Aoyun Zai Wo Jia",
             "真功夫之奥运在我家"
         ],
         "relations": [
@@ -2461,7 +2414,9 @@
         ],
         "tags": [
             "chinese animation",
-            "comedy"
+            "comedy",
+            "kids",
+            "sports"
         ],
         "date": {
             "season": "unknown",
