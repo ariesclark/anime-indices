@@ -103,7 +103,10 @@
             "Robokicks 2",
             "Robokicks Season 2"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/16746",
+            "https://anisearch.com/anime/16748"
+        ],
         "tags": [
             "soccer",
             "sports"
@@ -533,19 +536,23 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/hu-die-yu-bai-shu-xian-zi"
+            "https://anime-planet.com/anime/hu-die-yu-bai-shu-xian-zi",
+            "https://myanimelist.net/anime/44724"
         ],
         "title": "Hu Die Yu Bai Shu Xian Zi",
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/hu-die-yu-bai-shu-xian-zi-1.webp?t=1653344662",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/hu-die-yu-bai-shu-xian-zi-1-235x329.webp?t=1653344662",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1482/124042.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1482/124042t.jpg",
+        "synonyms": [
+            "蝴蝶与百蔬仙子"
+        ],
         "relations": [],
         "tags": [
             "chinese animation",
-            "fantasy"
+            "fantasy",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -871,8 +878,8 @@
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
         "synonyms": [
             "老呆和小呆"
         ],
@@ -1297,6 +1304,35 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52506"
+        ],
+        "title": "Sumi to Ruriko no Moetan Diary: Soushuu-hen Kita ─ (ﾟ ∀ ﾟ) ─!!",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1590/125903.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1590/125903t.jpg",
+        "synonyms": [
+            "Moetan 5.5",
+            "Moetan Recap",
+            "Sumi & Ruriko's Moetan Diary: A Recap Has Arrived!!",
+            "すみと瑠璃子のもえたんダイアリー ~総集編キタ─(ﾟ∀ﾟ)─!!~"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/2367"
+        ],
+        "tags": [
+            "comedy",
+            "gourmet",
+            "mahou shoujo"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2007
+        }
+    },
+    {
+        "sources": [
             "https://myanimelist.net/anime/45376"
         ],
         "title": "Tian Yanshen Hu",
@@ -1621,32 +1657,6 @@
         ],
         "relations": [],
         "tags": [
-            "shorts"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2007
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/yanwei-die",
-            "https://myanimelist.net/anime/44671"
-        ],
-        "title": "Yanwei Die",
-        "type": "tv",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "Swallowtail Butterfly",
-            "燕尾蝶"
-        ],
-        "relations": [],
-        "tags": [
-            "chinese animation",
-            "drama",
             "shorts"
         ],
         "date": {

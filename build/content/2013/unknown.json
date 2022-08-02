@@ -302,22 +302,29 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/baozou-donghua-2nd-season"
+            "https://anime-planet.com/anime/baozou-donghua-2nd-season",
+            "https://myanimelist.net/anime/44547"
         ],
         "title": "Baozou Donghua 2nd Season",
         "type": "ona",
         "episodes": 10,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/baozou-donghua-2nd-season-1.webp?t=1653499423",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/baozou-donghua-2nd-season-1-285x399.webp?t=1653499423",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1037/123980.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1037/123980t.jpg",
+        "synonyms": [
+            "Baozou Manhwa 2nd Season",
+            "暴走动画 第二季"
+        ],
         "relations": [
             "https://anime-planet.com/anime/baozou-donghua",
-            "https://anime-planet.com/anime/baozou-donghua-3rd-season"
+            "https://anime-planet.com/anime/baozou-donghua-3rd-season",
+            "https://myanimelist.net/anime/44546",
+            "https://myanimelist.net/anime/44548"
         ],
         "tags": [
             "chinese animation",
             "comedy",
+            "gag humor",
             "short episodes"
         ],
         "date": {
@@ -1094,6 +1101,32 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/45350"
+        ],
+        "title": "Heper Yijia",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1234/126092.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1234/126092t.jpg",
+        "synonyms": [
+            "Ha Pu Yijia",
+            "The Heper's Family",
+            "哈普一家"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "fantasy",
+            "sci-fi"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2013
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/108088"
         ],
         "title": "Himitsu no Beach",
@@ -1565,33 +1598,6 @@
             "adventure",
             "fantasy",
             "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/kainar-asy-tac-fronteer"
-        ],
-        "title": "Kainar Asy-Tac Fronteer",
-        "type": "ona",
-        "episodes": 26,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/kainar-asy-tac-fronteer-1.jpg?t=1625898762",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/kainar-asy-tac-fronteer-1-190x285.jpg?t=1625898762",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/kainar-asy-tac-fronteer-ova"
-        ],
-        "tags": [
-            "action",
-            "cg animation",
-            "chinese animation",
-            "mecha",
-            "military",
-            "sci fi"
         ],
         "date": {
             "season": "unknown",
@@ -3314,36 +3320,6 @@
             "non-human protagonists",
             "penguins",
             "pirates"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2013
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/114467",
-            "https://anime-planet.com/anime/quails",
-            "https://myanimelist.net/anime/51757"
-        ],
-        "title": "QUAILS",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1106/123613.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1106/123613t.jpg",
-        "synonyms": [
-            "Quails",
-            "Uzura",
-            "うずら"
-        ],
-        "relations": [],
-        "tags": [
-            "abstract",
-            "black and white",
-            "no dialogue",
-            "psychological",
-            "shorts"
         ],
         "date": {
             "season": "unknown",

@@ -87,6 +87,7 @@
             "japan",
             "philosophy",
             "present",
+            "primarily teen cast",
             "romance",
             "school",
             "shoujo",
@@ -295,6 +296,7 @@
             "https://anidb.net/anime/2252",
             "https://anilist.co/anime/8521",
             "https://anime-planet.com/anime/biriken-nandemo-shoukai",
+            "https://anisearch.com/anime/1934",
             "https://kitsu.io/anime/5370",
             "https://myanimelist.net/anime/8521",
             "https://notify.moe/anime/7DbmtKiiR"
@@ -1228,6 +1230,7 @@
         "relations": [],
         "tags": [
             "animal protagonists",
+            "animals",
             "anthropomorphic",
             "based on a manga",
             "comedy",
@@ -1724,7 +1727,9 @@
             "Tōshō!! Ramenman",
             "闘将！！拉麺男"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/863"
+        ],
         "tags": [
             "action",
             "adventure",

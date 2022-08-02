@@ -1198,7 +1198,9 @@
             "Notes For Break Ups",
             "절연주의사항"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/7837"
+        ],
         "tags": [
             "present",
             "romance"
@@ -1491,7 +1493,9 @@
             "GeGeGe no Kitarou Shinigami Picture Book",
             "Kitaro Shinigami Picture Bōk Rakugo"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/4583"
+        ],
         "tags": [],
         "date": {
             "season": "unknown",
@@ -1540,7 +1544,8 @@
         ],
         "relations": [
             "https://anilist.co/anime/129215",
-            "https://myanimelist.net/anime/42263"
+            "https://myanimelist.net/anime/42263",
+            "https://myanimelist.net/anime/44402"
         ],
         "tags": [
             "action",
@@ -1715,30 +1720,6 @@
         "tags": [
             "adventure",
             "fantasy",
-            "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44348"
-        ],
-        "title": "Le Bi Youyou",
-        "type": "tv",
-        "episodes": 52,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "乐比悠悠"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44349"
-        ],
-        "tags": [
             "kids"
         ],
         "date": {
@@ -2384,37 +2365,6 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/qi-tian-da-sheng-qianchuan",
-            "https://myanimelist.net/anime/44739"
-        ],
-        "title": "Qi Tian Da Sheng Qianchuan",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "Prequel of the Monkey King",
-            "齐天大圣前传"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "chinese animation",
-            "family friendly",
-            "fantasy",
-            "historical",
-            "journey to the west",
-            "kids",
-            "non-human protagonists"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/qiqi-keke-shuo-konglong",
             "https://myanimelist.net/anime/44369"
         ],
@@ -2576,31 +2526,6 @@
             "police",
             "recap",
             "supernatural"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2009
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/52147"
-        ],
-        "title": "Sanrio Poko Apoko Cinnamon no Ouchi de Challenge",
-        "type": "ova",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1666/124623.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1666/124623t.jpg",
-        "synonyms": [
-            "サンリオぽこあぽこ シナモンの おうちでチャレンジ"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/52145",
-            "https://myanimelist.net/anime/52146"
-        ],
-        "tags": [
-            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -3124,19 +3049,23 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/xiao-ciwei-lan-doudou"
+            "https://anime-planet.com/anime/xiao-ciwei-lan-doudou",
+            "https://myanimelist.net/anime/46389"
         ],
         "title": "Xiao Ciwei Lan Doudou",
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/xiao-ciwei-lan-doudou-1.webp?t=1652829678",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/xiao-ciwei-lan-doudou-1-285x400.webp?t=1652829678",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1862/123803.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1862/123803t.jpg",
+        "synonyms": [
+            "小刺猬蓝豆豆"
+        ],
         "relations": [],
         "tags": [
             "chinese animation",
-            "family friendly"
+            "family friendly",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -3326,6 +3255,33 @@
             "chinese animation",
             "sci fi",
             "sci-fi"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2009
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/yule-zong-dong-yuan",
+            "https://myanimelist.net/anime/46393"
+        ],
+        "title": "Yule Zong Dong Yuan",
+        "type": "tv",
+        "episodes": 101,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1485/123799.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1485/123799t.jpg",
+        "synonyms": [
+            "Entertainment General Mobilization",
+            "娱乐总动员"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "comedy",
+            "gag humor",
+            "short episodes"
         ],
         "date": {
             "season": "unknown",

@@ -38,14 +38,16 @@
         "picture": "https://cdn.myanimelist.net/images/anime/12/89091.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/12/89091t.jpg",
         "synonyms": [
+            "25-Sai no Joshi Kōsei: Kodomo ni wa Oshierarenai Koto Shite Yaru yo",
             "25-Year-Old High School Girl",
             "25-Year-Old High School Girl, I Wouldn't Do This with a Kid",
             "25-Year-Old High School Girl, I Wouldn’t Do This with a Kid",
-            "25-Year-Old High School Girl: I'll Do What Can't Be Taught to Children",
+            "25-Year-Old High School Girl: I’ll Do What Can’t Be Taught to Children",
             "25-sai no Joshikousei: Kodomo ni wa Oshierarenai Koto Shite Yaru yo",
             "25-sai no Joshikōsei",
             "25-sai no Jyoshikousei",
             "25歳の女子高生",
+            "25歳の女子高生〜子供には教えられないことシてやるよ",
             "２５歳の女子高生～子供には教えられないことシてやるよ"
         ],
         "relations": [],
@@ -443,6 +445,7 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/himitsukessha-taka-no-tsume",
+            "https://anisearch.com/anime/12522",
             "https://myanimelist.net/anime/35219"
         ],
         "tags": [
@@ -1289,7 +1292,8 @@
             "Bungô Stray Dogs : Dead Apple",
             "Bungō Stray Dogs: Dead Apple",
             "文豪ストレイドッグス DEAD APPLE",
-            "文豪ストレイドッグス デッドアップル"
+            "文豪ストレイドッグス デッドアップル",
+            "文豪野犬 DEAD APPLE"
         ],
         "relations": [
             "https://anidb.net/anime/11965",
@@ -1726,6 +1730,7 @@
         "relations": [
             "https://anilist.co/anime/98762",
             "https://anime-planet.com/anime/love-chunibyo-and-other-delusions-movie-take-on-me",
+            "https://anisearch.com/anime/12465",
             "https://kitsu.io/anime/13524",
             "https://myanimelist.net/anime/35608"
         ],
@@ -1961,6 +1966,26 @@
     },
     {
         "sources": [
+            "https://anisearch.com/anime/17568"
+        ],
+        "title": "Counting with Paula Season 3",
+        "type": "tv",
+        "episodes": 30,
+        "status": "finished",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17568.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17568.webp",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "cg-anime"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://kitsu.io/anime/43942"
         ],
         "title": "Creating World",
@@ -2007,6 +2032,7 @@
         "relations": [
             "https://anime-planet.com/anime/dc-super-heroes-vs-eagle-talon",
             "https://anime-planet.com/anime/himitsukessha-taka-no-tsume",
+            "https://anisearch.com/anime/12522",
             "https://myanimelist.net/anime/35219"
         ],
         "tags": [
@@ -2271,6 +2297,7 @@
             "military",
             "monster girl",
             "new",
+            "nudity",
             "original work",
             "piloted robot",
             "post-apocalyptic",
@@ -2616,7 +2643,10 @@
         "synonyms": [
             "다이노코어 에볼루션"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/15310",
+            "https://anisearch.com/anime/15409"
+        ],
         "tags": [
             "action",
             "cg-anime",
@@ -3339,6 +3369,7 @@
             "anime tamago",
             "cg animation",
             "cg-anime",
+            "comedy",
             "fantasy",
             "present",
             "shorts",
@@ -3511,6 +3542,8 @@
             "https://anilist.co/anime/6922",
             "https://anime-planet.com/anime/fate-extra-last-encore-illustrias-geocentric-theory",
             "https://anime-planet.com/anime/ken-to-mahou-no-logres-inishie-no-megami-x-fate-extella",
+            "https://anisearch.com/anime/13661",
+            "https://anisearch.com/anime/3538",
             "https://kitsu.io/anime/323",
             "https://kitsu.io/anime/41396",
             "https://kitsu.io/anime/42645",
@@ -3580,6 +3613,7 @@
         "synonyms": [
             "Fate/Kaleid Liner Prisma Illya Movie: Sekka no Chikai Special",
             "Fate/Kaleid Liner Prisma Illya Movie: Vow in the Snow Special",
+            "Fate/Kaleid Liner Prisma Illya: Vow in the Snow - Dark Sakura's Room",
             "Fate/kaleid Liner Prisma☆Illya Movie: Oath Under Snow - Dark Sakura's Room",
             "Fate/kaleid Liner Prisma☆Illya Movie: Oath Under Snow Special",
             "Fate/kaleid Liner Prisma☆Illya: Vow in the Snow Special",
@@ -4497,6 +4531,7 @@
             "elementary school",
             "family friendly",
             "fantasy",
+            "ice skating",
             "kids",
             "non-human protagonists",
             "pandas",
@@ -6233,6 +6268,7 @@
             "https://anidb.net/anime/12034",
             "https://anilist.co/anime/21756",
             "https://anime-planet.com/anime/infini-t-force",
+            "https://anisearch.com/anime/11326",
             "https://livechart.me/anime/2117",
             "https://myanimelist.net/anime/33027"
         ],
@@ -6335,6 +6371,7 @@
         ],
         "relations": [
             "https://anilist.co/anime/101016",
+            "https://anilist.co/anime/150653",
             "https://anime-planet.com/anime/junji-ito-collection-tomie",
             "https://kitsu.io/anime/14130",
             "https://livechart.me/anime/11246",
@@ -6606,6 +6643,7 @@
         "relations": [],
         "tags": [
             "fantasy",
+            "kaiju",
             "mystery",
             "psychological"
         ],
@@ -6702,6 +6740,7 @@
             "Takagi-san: Experta en Bromas Pesadas",
             "Takagi-san: Experta en Bromas pesadas",
             "Teasing Master Takagi-san",
+            "takagi-san s1",
             "טאקאגי-סאן אלופת ההקנטות",
             "سيد الدعابة تاكاجي-سان",
             "แกล้งนัก รักนะ รู้ยัง",
@@ -6878,7 +6917,9 @@
             "Caterpillar of Rags",
             "毛虫のボロ"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/7077"
+        ],
         "tags": [
             "adventure",
             "animal protagonists",
@@ -6937,6 +6978,7 @@
         "relations": [
             "https://anilist.co/anime/108971",
             "https://anime-planet.com/anime/kitsunetsuki-kedamonodamono",
+            "https://anisearch.com/anime/13493",
             "https://kitsu.io/anime/41074",
             "https://myanimelist.net/anime/37511",
             "https://notify.moe/anime/aL4F2FimR"
@@ -7876,6 +7918,7 @@
             "https://anidb.net/anime/956",
             "https://anilist.co/anime/5658",
             "https://anime-planet.com/anime/mazinger-z",
+            "https://anisearch.com/anime/1891",
             "https://kitsu.io/anime/2041",
             "https://myanimelist.net/anime/5658",
             "https://notify.moe/anime/rMDEcKmiR"
@@ -8136,7 +8179,6 @@
         "synonyms": [
             "How to Keep a Mummy",
             "How to keep a mummy",
-            "Mirra no Kaikata",
             "Mīra no Kaikata",
             "Руководство по воспитанию мумии",
             "ミイラの飼い方",
@@ -8388,14 +8430,16 @@
         ],
         "relations": [],
         "tags": [
+            "adventure",
             "animals",
             "asia",
             "based on a manga",
+            "blackmail",
+            "breaking the fourth wall",
             "bullying",
             "cgdct",
             "child protagonists",
             "comedy",
-            "cops",
             "cute girls doing cute things",
             "earth",
             "elementary school",
@@ -8404,7 +8448,6 @@
             "female protagonist",
             "iyashikei",
             "japan",
-            "law and order",
             "manga",
             "outdoor",
             "police",
@@ -8419,7 +8462,7 @@
             "tokyo",
             "urban",
             "verbal comedy",
-            "working life"
+            "violent retribution for accidental infringement"
         ],
         "date": {
             "season": "winter",
@@ -9945,6 +9988,9 @@
             "https://anime-planet.com/anime/overlord-play-play-pleiades-ova",
             "https://anime-planet.com/anime/overlord-ple-ple-pleiades-clementine-toubou-hen",
             "https://anime-planet.com/anime/overlord-ple-ple-pleiades-theatrical-version",
+            "https://anisearch.com/anime/10637",
+            "https://anisearch.com/anime/12300",
+            "https://anisearch.com/anime/13752",
             "https://kitsu.io/anime/11166",
             "https://kitsu.io/anime/13237",
             "https://kitsu.io/anime/41482",
@@ -11007,6 +11053,7 @@
             "リアルエロゲシチュエーション！ THE ANIMATION"
         ],
         "relations": [
+            "https://anisearch.com/anime/15799",
             "https://myanimelist.net/anime/48449"
         ],
         "tags": [
@@ -11397,7 +11444,9 @@
             "催眠☆学園",
             "催眠☆学園 （2018）"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/4967"
+        ],
         "tags": [
             "anal",
             "boobjob",
@@ -12720,6 +12769,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1253/123621.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1253/123621t.jpg",
         "synonyms": [
+            "Sword Art Online \"Fatal Bullet\" PS4 The Third Episode",
             "Sword Art Online Fatal Bullet -The Third Episode-",
             "Sword Art Online: Fatal Bullet - Anime Tie-in Short",
             "Sword Art Online: Fatal Bullet - The Third Episode",
@@ -12727,6 +12777,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/10376",
+            "https://anilist.co/anime/151640",
             "https://anilist.co/anime/20594",
             "https://anime-planet.com/anime/sword-art-online",
             "https://anime-planet.com/anime/sword-art-online-alternative-gun-gale-online",
@@ -13093,33 +13144,6 @@
             "primarily female cast",
             "shounen",
             "slice of life"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://kitsu.io/anime/40577",
-            "https://notify.moe/anime/naDvhFmiR"
-        ],
-        "title": "Tales of the Rays: Mirrage Prison",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/40577/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/40577/tiny.jpg",
-        "synonyms": [
-            "テイルズ オブ ザ レイズ ミラージュ プリズン"
-        ],
-        "relations": [
-            "https://kitsu.io/anime/13527"
-        ],
-        "tags": [
-            "fantasy",
-            "fantasy world",
-            "game"
         ],
         "date": {
             "season": "winter",
@@ -13963,7 +13987,8 @@
             "うどんとホタル"
         ],
         "relations": [
-            "https://anidb.net/anime/15402"
+            "https://anidb.net/anime/15402",
+            "https://anisearch.com/anime/15048"
         ],
         "tags": [],
         "date": {
@@ -15399,6 +15424,7 @@
             "https://anilist.co/anime/21261",
             "https://anime-planet.com/anime/mr-osomatsu",
             "https://anime-planet.com/anime/mr-osomatsu-2nd-season",
+            "https://anisearch.com/anime/10744",
             "https://kitsu.io/anime/13326",
             "https://livechart.me/anime/10058",
             "https://livechart.me/anime/1707",

@@ -378,6 +378,7 @@
             "https://anidb.net/anime/14532",
             "https://anilist.co/anime/106240",
             "https://anime-planet.com/anime/hello-world",
+            "https://anisearch.com/anime/14104",
             "https://kitsu.io/anime/42030",
             "https://livechart.me/anime/8669",
             "https://myanimelist.net/anime/38816"
@@ -1590,6 +1591,7 @@
             "https://anilist.co/anime/139806",
             "https://anilist.co/anime/16157",
             "https://anime-planet.com/anime/hyperdimension-neptunia",
+            "https://anisearch.com/anime/8255",
             "https://kitsu.io/anime/7379",
             "https://livechart.me/anime/10820",
             "https://livechart.me/anime/11226",
@@ -1974,6 +1976,7 @@
             "https://anidb.net/anime/16541",
             "https://anilist.co/anime/111125",
             "https://anime-planet.com/anime/da-zhu-zai",
+            "https://anime-planet.com/anime/the-grand-lord",
             "https://anisearch.com/anime/14693",
             "https://kitsu.io/anime/42643",
             "https://myanimelist.net/anime/40233",
@@ -1983,8 +1986,8 @@
         "type": "ona",
         "episodes": 12,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1857/102517.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1857/102517t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1283/124060.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1283/124060t.jpg",
         "synonyms": [
             "Da Zhuzai",
             "The Grand Lord",
@@ -2104,6 +2107,7 @@
         ],
         "relations": [
             "https://anilist.co/anime/552",
+            "https://anisearch.com/anime/2710",
             "https://myanimelist.net/anime/552"
         ],
         "tags": [
@@ -2277,7 +2281,7 @@
             "https://anime-planet.com/anime/dr-stone-ryuusui",
             "https://anime-planet.com/anime/dr-stone-stone-wars",
             "https://anime-planet.com/anime/dr-stone-stone-wars-eve-of-the-battle",
-            "https://anime-planet.com/anime/snickers-x-dr-stone",
+            "https://anime-planet.com/anime/snickers-x-dr-stone-sekikashita-kusanagi",
             "https://anisearch.com/anime/14818",
             "https://anisearch.com/anime/15630",
             "https://anisearch.com/anime/15673",
@@ -2358,6 +2362,7 @@
             "Deine Geschichte in Dragon Quest",
             "Dragon Quest Movie: Your Story",
             "Dragon Quest V: Hand of the Heavenly Bride",
+            "Dragon Quest Your Story",
             "חפש את הדרקון",
             "ドラゴンクエスト ユア・ストーリー",
             "ドラゴンクエスト　ユア・ストーリー",
@@ -2366,6 +2371,7 @@
         "relations": [
             "https://anidb.net/anime/13381",
             "https://anilist.co/anime/2229",
+            "https://anisearch.com/anime/353",
             "https://livechart.me/anime/10880",
             "https://livechart.me/anime/6085",
             "https://livechart.me/anime/7302",
@@ -3687,7 +3693,10 @@
             "The New Thesis: Stellar War",
             "銀河英雄伝説 Die Neue These 星乱"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/10688",
+            "https://anisearch.com/anime/15720"
+        ],
         "tags": [
             "action",
             "action drama",
@@ -3713,8 +3722,8 @@
         "type": "ona",
         "episodes": 2,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1781/102825.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1781/102825t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1806/124660.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1806/124660t.jpg",
         "synonyms": [
             "Gintama x Monster Strike",
             "Gintama × Monster Strike",
@@ -3973,6 +3982,7 @@
             "Is the Order a Rabbit?? Sing For You",
             "Is the Order a Rabbit?? ~Sing For You~",
             "Is the Order a Rabbit?? ～Sing For You～",
+            "gochiusa ova",
             "ご注文はうさぎですか?? ~Sing For You~",
             "ご注文はうさぎですか？？ ~Sing For You~",
             "ご注文はうさぎですか？？ ～Sing For You～",
@@ -3988,6 +3998,8 @@
             "https://anime-planet.com/anime/is-the-order-a-rabbit-bloom",
             "https://anime-planet.com/anime/is-the-order-a-rabbit-dear-my-sister",
             "https://anime-planet.com/anime/is-the-order-a-rabbit-season-2",
+            "https://anisearch.com/anime/11475",
+            "https://anisearch.com/anime/13899",
             "https://kitsu.io/anime/12138",
             "https://kitsu.io/anime/42365",
             "https://livechart.me/anime/1383",
@@ -4218,6 +4230,7 @@
             "https://anidb.net/anime/16720",
             "https://anilist.co/anime/121679",
             "https://anime-planet.com/anime/hanhua-riji-2nd-season",
+            "https://anisearch.com/anime/17126",
             "https://kitsu.io/anime/43908",
             "https://livechart.me/anime/10260",
             "https://myanimelist.net/anime/42956",
@@ -4407,6 +4420,32 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51573"
+        ],
+        "title": "Heart Beat (2019)",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1689/122589.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1689/122589t.jpg",
+        "synonyms": [
+            "Heartbeat",
+            "ハートビート"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44042"
+        ],
+        "tags": [
+            "idols (female)",
+            "music"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/14532",
             "https://anilist.co/anime/106240",
             "https://anime-planet.com/anime/hello-world",
@@ -4437,12 +4476,16 @@
             "https://myanimelist.net/anime/40295"
         ],
         "tags": [
+            "age regression",
             "alternate universe",
+            "augmented reality",
             "cg animation",
             "cg-anime",
+            "coming of age",
             "drama",
             "female protagonist",
             "full cgi",
+            "heterosexual",
             "high school",
             "magic",
             "male protagonist",
@@ -4456,7 +4499,6 @@
             "sci-fi",
             "science fiction",
             "science-fiction",
-            "seinen",
             "sentimental drama",
             "slice of life",
             "stoic heroine",
@@ -4465,6 +4507,7 @@
             "time travel",
             "tragedy",
             "twisted story",
+            "urban",
             "virtual world"
         ],
         "date": {
@@ -4519,6 +4562,7 @@
         ],
         "relations": [
             "https://anilist.co/anime/107961",
+            "https://anisearch.com/anime/14184",
             "https://kitsu.io/anime/42211",
             "https://livechart.me/anime/9239"
         ],
@@ -4786,6 +4830,7 @@
             "https://anime-planet.com/anime/hozukis-coolheadedness-2nd-season-part-ii",
             "https://anime-planet.com/anime/hozukis-coolheadedness-ova",
             "https://anime-planet.com/anime/hozukis-coolheadedness-ova-2",
+            "https://anisearch.com/anime/13163",
             "https://kitsu.io/anime/14157",
             "https://livechart.me/anime/238",
             "https://livechart.me/anime/2575",
@@ -5701,6 +5746,7 @@
         ],
         "relations": [
             "https://anilist.co/anime/121043",
+            "https://anisearch.com/anime/14453",
             "https://kitsu.io/anime/42451",
             "https://livechart.me/anime/9482",
             "https://myanimelist.net/anime/49871"
@@ -5947,7 +5993,8 @@
             "https://anisearch.com/anime/318",
             "https://kitsu.io/anime/1129",
             "https://myanimelist.net/anime/1254",
-            "https://notify.moe/anime/HSJb5Fimg"
+            "https://notify.moe/anime/HSJb5Fimg",
+            "https://notify.moe/anime/cEyRcdeng"
         ],
         "tags": [
             "action",
@@ -6013,6 +6060,7 @@
         "tags": [
             "action",
             "adventure",
+            "cgi",
             "fantasy",
             "full cgi",
             "historical",
@@ -6044,7 +6092,9 @@
             "ニンジャボックス×日清焼そばプチU.F.O.コラボ",
             "濃すぎる食レポだッチ"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/14581"
+        ],
         "tags": [
             "comedy"
         ],
@@ -6441,7 +6491,6 @@
             "https://anime-planet.com/anime/ling-cage-incarnation-special",
             "https://anime-planet.com/anime/ling-cage-middle-chapter",
             "https://anime-planet.com/anime/ling-cage-part-ii",
-            "https://anime-planet.com/anime/ling-long-incarnation-part-ii",
             "https://anime-planet.com/anime/ling-long-incarnation-special",
             "https://anime-planet.com/anime/ling-long-incarnation-zhong-zhang",
             "https://kitsu.io/anime/43616",
@@ -6601,6 +6650,10 @@
             "https://anime-planet.com/anime/fate-zero-2",
             "https://anime-planet.com/anime/lord-el-melloi-iis-case-files-rail-zeppelin-grace-note-a-grave-keeper-a-cat-and-a-mage",
             "https://anime-planet.com/anime/lord-el-melloi-iis-case-files-rail-zeppelin-grace-note-special-edition",
+            "https://anisearch.com/anime/12160",
+            "https://anisearch.com/anime/13748",
+            "https://anisearch.com/anime/14065",
+            "https://anisearch.com/anime/16783",
             "https://kitsu.io/anime/42076",
             "https://kitsu.io/anime/44868",
             "https://kitsu.io/anime/6028",
@@ -7774,6 +7827,7 @@
             "https://anime-planet.com/anime/kamisama-minarai-himitsu-no-cocotama-movie",
             "https://anime-planet.com/anime/kamisama-minarai-himitsu-no-cocotama-specials",
             "https://anime-planet.com/anime/kira-kira-happy-hirake-cocotama",
+            "https://anisearch.com/anime/13676",
             "https://kitsu.io/anime/11112",
             "https://myanimelist.net/anime/31044"
         ],
@@ -7877,6 +7931,7 @@
             "https://anidb.net/anime/12665",
             "https://anilist.co/anime/97940",
             "https://anime-planet.com/anime/black-clover",
+            "https://anisearch.com/anime/12131",
             "https://kitsu.io/anime/13209",
             "https://livechart.me/anime/10495",
             "https://livechart.me/anime/2294",
@@ -8452,6 +8507,7 @@
         ],
         "relations": [
             "https://anilist.co/anime/111955",
+            "https://anisearch.com/anime/15644",
             "https://kitsu.io/anime/42483",
             "https://myanimelist.net/anime/40152"
         ],
@@ -8691,6 +8747,7 @@
             "ももいろクローバーZ - おどるポンポコリン"
         ],
         "relations": [
+            "https://anisearch.com/anime/158",
             "https://myanimelist.net/anime/6149"
         ],
         "tags": [
@@ -9070,7 +9127,9 @@
             "皮皮鲁总动员",
             "皮皮鲁送你100条命"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/15349"
+        ],
         "tags": [
             "cg-anime"
         ],
@@ -9105,6 +9164,49 @@
             "promotional",
             "running",
             "sports"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2019
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/112152",
+            "https://anisearch.com/anime/15239",
+            "https://kitsu.io/anime/43272"
+        ],
+        "title": "Pokemon Masters: Trainers Great Gathering Special Animation",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://media.kitsu.io/anime/poster_images/43272/small.jpg",
+        "thumbnail": "https://media.kitsu.io/anime/poster_images/43272/tiny.jpg",
+        "synonyms": [
+            "Pocket Monsters Masters Special Video",
+            "Pokemon masutazu",
+            "Pokémon Masters Animated Trailer",
+            "Pokémon Masters Trailer",
+            "Pokémon Masters | Trailer",
+            "Pokémon Masters: Trainer Daishuuketsu Special Animation",
+            "Pokémon Masters: Trainer Daishūketsu Special Animation",
+            "『ポケモンマスターズ』トレーナー大集結スペシャルアニメーション",
+            "ポケモンマスターズ",
+            "ポケモンマスターズ トレーナー大集結スペシャルアニメーション"
+        ],
+        "relations": [
+            "https://anilist.co/anime/527",
+            "https://anisearch.com/anime/3139"
+        ],
+        "tags": [
+            "action",
+            "adventure",
+            "advertisement",
+            "animals",
+            "fantasy",
+            "kids",
+            "proxy battles",
+            "shounen"
         ],
         "date": {
             "season": "summer",
@@ -9217,49 +9319,6 @@
             "science-fiction",
             "shounen",
             "tanned skin"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2019
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/112152",
-            "https://anisearch.com/anime/15239",
-            "https://kitsu.io/anime/43272"
-        ],
-        "title": "Pokémon Masters | Trailer",
-        "type": "ona",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://media.kitsu.io/anime/poster_images/43272/small.jpg",
-        "thumbnail": "https://media.kitsu.io/anime/poster_images/43272/tiny.jpg",
-        "synonyms": [
-            "Pocket Monsters Masters Special Video",
-            "Pokemon Masters: Trainers Great Gathering Special Animation",
-            "Pokemon masutazu",
-            "Pokémon Masters Animated Trailer",
-            "Pokémon Masters Trailer",
-            "Pokémon Masters: Trainer Daishuuketsu Special Animation",
-            "Pokémon Masters: Trainer Daishūketsu Special Animation",
-            "『ポケモンマスターズ』トレーナー大集結スペシャルアニメーション",
-            "ポケモンマスターズ",
-            "ポケモンマスターズ トレーナー大集結スペシャルアニメーション"
-        ],
-        "relations": [
-            "https://anilist.co/anime/527",
-            "https://anisearch.com/anime/3139"
-        ],
-        "tags": [
-            "action",
-            "adventure",
-            "advertisement",
-            "animals",
-            "fantasy",
-            "kids",
-            "proxy battles",
-            "shounen"
         ],
         "date": {
             "season": "summer",
@@ -9424,6 +9483,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1960/102480t.jpg",
         "synonyms": [
             "Full-Time Expert Movie",
+            "Master of Skill: Eiyou no Tame ni (マスターオブスキル ー栄耀のためにー)",
             "Master of Skills Movie",
             "Quan Zhi Gao Shou Movie",
             "Quan Zhi Gao Shou zhi Dianfeng Rongyao",
@@ -10988,7 +11048,9 @@
             "Sūdara-bushi feat. Business Fish",
             "スーダラ節 feat. BUSINESS FISH"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/14486"
+        ],
         "tags": [
             "indefinite",
             "present"
@@ -11883,6 +11945,7 @@
             "https://anidb.net/anime/16091",
             "https://anilist.co/anime/130550",
             "https://anime-planet.com/anime/the-girl-from-the-other-side-siuil-a-run-2022",
+            "https://anisearch.com/anime/16029",
             "https://kitsu.io/anime/44114",
             "https://livechart.me/anime/10444",
             "https://livechart.me/anime/10576",
@@ -12063,6 +12126,7 @@
         "relations": [
             "https://anilist.co/anime/110445",
             "https://anime-planet.com/anime/do-you-love-your-mom-and-her-two-hit-multi-target-attacks-do-you-love-your-mom-on-the-shore",
+            "https://anisearch.com/anime/14505",
             "https://kitsu.io/anime/42450",
             "https://livechart.me/anime/9517",
             "https://myanimelist.net/anime/40102",
@@ -12116,7 +12180,10 @@
             "Titipo Titipo 2",
             "띠띠뽀 띠띠뽀 2"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/14504",
+            "https://anisearch.com/anime/17361"
+        ],
         "tags": [
             "cg-anime"
         ],

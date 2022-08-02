@@ -406,7 +406,9 @@
         "synonyms": [
             "A Room in a Certain Apartment",
             "Aru Apaato no Isshitsu",
-            "Room in a Certain Apartment",
+            "The dream makes a crouch",
+            "Yume ga Shagandeiru",
+            "​夢がしゃがんでいる",
             "あるアパートの一室"
         ],
         "relations": [],
@@ -1500,6 +1502,7 @@
             "Crayon Shin-chan: Chou Arashi o Yobu Kinpoko no Yuusha",
             "Crayon Shin-chan: Chou Arashi wo Yobu Kinpoko no Yuusha",
             "Crayon Shin-chan: Chō Arashi o Yobu Kinpoko no Yūsha",
+            "Crayon Shin-chan: Fierceness That Invites Storm! The Hero of Kinpoko",
             "Crayon Shin-chan: The Storm Called: The Hero of Kinpoko",
             "Eiga Crayon Shin-chan: Chou Arashi o Yobu Kinpoko no Yuusha",
             "Eiga Crayon Shin-chan: Chou Arashi wo Yobu Kinpoko no Yuusha",
@@ -1508,7 +1511,9 @@
             "Shin Chan y la Espada de Oro",
             "Shin Chan y la espada de oro",
             "Shin-Chan e a Espada de Ouro",
+            "Shin-chan Cậu bé bút chì - Cơn bão hung hăng gọi mời! Dũng sĩ Kinpoko",
             "Shin-chan y la espada de oro",
+            "ชินจัง เดอะมูฟวี่ 16 : ผู้กล้าแห่งดาบทองคำ",
             "クレヨンしんちゃん ちょ～嵐を呼ぶ 金矛の勇者",
             "映画 クレヨンしんちゃん ちょー嵐を呼ぶ 金矛の勇者"
         ],
@@ -1732,6 +1737,46 @@
             "sentimental drama",
             "tragedy",
             "visual novel"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2008
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/11478",
+            "https://anilist.co/anime/10584",
+            "https://anime-planet.com/anime/denki-groove-mononoke-dance",
+            "https://anisearch.com/anime/11131",
+            "https://kitsu.io/anime/6252",
+            "https://notify.moe/anime/J6d4pKmig"
+        ],
+        "title": "Denki Groove: Mononoke Dance",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/denki-groove-mononoke-dance-1.jpg?t=1625896304",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/denki-groove-mononoke-dance-1-190x285.jpg?t=1625896304",
+        "synonyms": [
+            "Mononoke Dance",
+            "モノノケダンス",
+            "電気グルーヴ モノノケダンス"
+        ],
+        "relations": [
+            "https://anidb.net/anime/5614",
+            "https://kitsu.io/anime/3207",
+            "https://notify.moe/anime/ead_5KmmR"
+        ],
+        "tags": [
+            "crude",
+            "dancing",
+            "dementia",
+            "demon",
+            "fantasy",
+            "horror",
+            "music",
+            "supernatural"
         ],
         "date": {
             "season": "spring",
@@ -3807,6 +3852,10 @@
             "https://anime-planet.com/anime/the-garden-of-sinners-recalled-out-summer",
             "https://anime-planet.com/anime/the-garden-of-sinners-recalled-out-summer-extra-chorus",
             "https://anime-planet.com/anime/the-garden-of-sinners-remix-gate-of-seventh-heaven",
+            "https://anisearch.com/anime/16855",
+            "https://anisearch.com/anime/5392",
+            "https://anisearch.com/anime/5394",
+            "https://anisearch.com/anime/5542",
             "https://kitsu.io/anime/3249",
             "https://kitsu.io/anime/3546",
             "https://kitsu.io/anime/4637",
@@ -3889,11 +3938,13 @@
             "fantasy",
             "horror",
             "magic",
+            "magical girl",
             "music",
             "parody",
             "sci-fi",
             "science fiction",
             "super power",
+            "violence",
             "virtual reality"
         ],
         "date": {
@@ -3915,7 +3966,9 @@
             "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo: Washi to Ore!? Bokura wa Asakusa Shōnen Tanteidan!",
             "こちら葛飾区亀有公園前派出所 ワシと俺！？〜ぼくらは浅草少年探偵団！〜"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/2131"
+        ],
         "tags": [],
         "date": {
             "season": "spring",
@@ -4112,6 +4165,7 @@
             "https://anidb.net/anime/7373",
             "https://anilist.co/anime/8078",
             "https://anime-planet.com/anime/kurenai-ova",
+            "https://anisearch.com/anime/6061",
             "https://kitsu.io/anime/5188",
             "https://myanimelist.net/anime/8078",
             "https://notify.moe/anime/a8QztFiig"
@@ -4573,6 +4627,7 @@
             "マクロスfrontier",
             "マクロスＦ（ロンティア）",
             "超时空要塞Frontier",
+            "超時空要塞Frontier",
             "마크로스 프론티어"
         ],
         "relations": [
@@ -4739,6 +4794,7 @@
             "https://anilist.co/anime/3572",
             "https://anime-planet.com/anime/macross-frontier",
             "https://anime-planet.com/anime/macross-fufonfia-specials",
+            "https://anisearch.com/anime/4465",
             "https://kitsu.io/anime/10123",
             "https://kitsu.io/anime/3113",
             "https://livechart.me/anime/3982",
@@ -4963,49 +5019,6 @@
             "slapstick",
             "supernatural",
             "urban fantasy"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2008
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/11478",
-            "https://anilist.co/anime/10584",
-            "https://anime-planet.com/anime/denki-groove-mononoke-dance",
-            "https://anisearch.com/anime/11131",
-            "https://kitsu.io/anime/6252",
-            "https://myanimelist.net/anime/10584",
-            "https://notify.moe/anime/J6d4pKmig"
-        ],
-        "title": "Mononoke Dance",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/11/75664.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/11/75664t.jpg",
-        "synonyms": [
-            "Denki Groove: Mononoke Dance",
-            "モノノケダンス",
-            "電気グルーヴ モノノケダンス"
-        ],
-        "relations": [
-            "https://anidb.net/anime/5614",
-            "https://kitsu.io/anime/3207",
-            "https://myanimelist.net/anime/3710",
-            "https://notify.moe/anime/ead_5KmmR"
-        ],
-        "tags": [
-            "avant garde",
-            "crude",
-            "dancing",
-            "dementia",
-            "demon",
-            "fantasy",
-            "horror",
-            "music",
-            "supernatural"
         ],
         "date": {
             "season": "spring",
@@ -5365,7 +5378,6 @@
         "synonyms": [
             "Net Ghost PiPoPa",
             "Pipopa: I folletti del Web",
-            "Web Ghost PiPoPa",
             "Web Ghosts PiPoPa",
             "pipopa",
             "ねっとごーすとぴぽぱ",
@@ -5955,6 +5967,7 @@
             "scuba diving",
             "seinen",
             "supernatural drama",
+            "virtual reality",
             "virtual world"
         ],
         "date": {
@@ -6467,6 +6480,9 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/2/14815t.jpg",
         "synonyms": [
             "Sugar Bunnies 2",
+            "Sugarbunnies Sjokolade",
+            "Sukkerkaninene",
+            "Sötnoskaninerna",
             "シュガーバニーズ ショコラ!",
             "シュガーバニーズ ショコラ！"
         ],
@@ -7333,6 +7349,7 @@
         "relations": [
             "https://anilist.co/anime/5484",
             "https://anime-planet.com/anime/our-homes-fox-deity-specials",
+            "https://anisearch.com/anime/15826",
             "https://kitsu.io/anime/4120",
             "https://myanimelist.net/anime/5484",
             "https://notify.moe/anime/XjTjcKmmR"
@@ -7716,6 +7733,7 @@
             "https://anidb.net/anime/7664",
             "https://anidb.net/anime/9421",
             "https://anilist.co/anime/16005",
+            "https://anilist.co/anime/2026",
             "https://anilist.co/anime/7745",
             "https://anilist.co/anime/9127",
             "https://anime-planet.com/anime/zettai-karen-children-chou-sakidori-special",

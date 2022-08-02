@@ -645,7 +645,6 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1877/119668.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1877/119668t.jpg",
         "synonyms": [
-            ", Arifureta: From Commonplace to World’s Strongest - Staffel 2",
             "ARIFURETA: from commonplace to world's strongest second season",
             "Arifureta : From Commonplace to World’s Strongest - Saison 2",
             "Arifureta Shokugyou de Sekai Saikyou 2",
@@ -659,7 +658,6 @@
             "Arifureta: From Commonplace to World’s Strongest - 2nd Season",
             "Arifureta: From Commonplace to World’s Strongest - Season 2",
             "Arifureta: From Commonplace to World’s Strongest - Staffel 2",
-            "Arifureta: From Commonplace to World’s Strongest 2",
             "Arifureta: From Commonplace to World’s Strongest 2nd Season",
             "From Common Job Class to the Strongest in the World 2",
             "From Common Job Class to the Strongest in the World 2nd Season",
@@ -1748,8 +1746,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1632/110707.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1632/110707t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1806/126216t.jpg",
         "synonyms": [
             "CSM",
             "Chainsawman",
@@ -1768,6 +1766,7 @@
             "assassins",
             "based on a manga",
             "body horror",
+            "cannibalism",
             "comedy",
             "cosmic horror",
             "dark fantasy",
@@ -1810,24 +1809,30 @@
     {
         "sources": [
             "https://anilist.co/anime/148005",
-            "https://anisearch.com/anime/17226"
+            "https://anime-planet.com/anime/king-gnu-chameleon",
+            "https://anisearch.com/anime/17226",
+            "https://myanimelist.net/anime/52510"
         ],
-        "title": "Chameleon (2022)",
+        "title": "Chameleon",
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17226.webp",
-        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17226.webp",
+        "picture": "https://cdn.myanimelist.net/images/anime/1873/125920.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1873/125920t.jpg",
         "synonyms": [
-            "Chameleon",
+            "Chameleon (2022)",
             "King Gnu - Chameleon",
             "King Gnu - カメレオン",
+            "King Gnu: Chameleon",
             "カメレオン",
             "カメレオン （2022）"
         ],
         "relations": [],
         "tags": [
-            "cg-anime"
+            "avant garde",
+            "cg animation",
+            "cg-anime",
+            "music"
         ],
         "date": {
             "season": "winter",
@@ -2319,7 +2324,7 @@
         ],
         "title": "Delicious Party♡Precure",
         "type": "tv",
-        "episodes": 20,
+        "episodes": 21,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1332/120430.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1332/120430t.jpg",
@@ -2370,6 +2375,7 @@
             "https://anime-planet.com/anime/yes-pretty-cure-5",
             "https://anisearch.com/anime/17110",
             "https://anisearch.com/anime/2594",
+            "https://kitsu.io/anime/46277",
             "https://kitsu.io/anime/558",
             "https://livechart.me/anime/5176",
             "https://livechart.me/anime/5317",
@@ -2823,6 +2829,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/9131",
+            "https://anisearch.com/anime/7761",
             "https://livechart.me/anime/10106",
             "https://livechart.me/anime/1908",
             "https://livechart.me/anime/2402",
@@ -2883,6 +2890,7 @@
         "tags": [
             "based on a mobile game",
             "comedy",
+            "ensemble cast",
             "ganbatte",
             "idol",
             "idols",
@@ -2962,13 +2970,15 @@
         "title": "Eroriman",
         "type": "ova",
         "episodes": 2,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1991/121069.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1991/121069t.jpg",
         "synonyms": [
             "エロリーマン"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/17551"
+        ],
         "tags": [
             "hentai",
             "present",
@@ -3956,7 +3966,7 @@
         ],
         "title": "Girigiri Warukunai Watame",
         "type": "ona",
-        "episodes": 29,
+        "episodes": 30,
         "status": "ongoing",
         "picture": "https://media.kitsu.io/anime/45948/poster_image/small-3cbf70a7d7cfa3d2b22eefc1ef230cdf.jpeg",
         "thumbnail": "https://media.kitsu.io/anime/45948/poster_image/tiny-032890c7ecacd2454dd64ea5e96a1fa9.jpeg",
@@ -4812,7 +4822,7 @@
         ],
         "title": "In/Spectre 2nd Season Mini Anime",
         "type": "ona",
-        "episodes": 10,
+        "episodes": 12,
         "status": "unknown",
         "picture": "https://cdn.anime-planet.com/anime/primary/in-spectre-2nd-season-mini-anime-1.webp?t=1650758112",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/in-spectre-2nd-season-mini-anime-1-243x341.webp?t=1650758112",
@@ -5046,11 +5056,13 @@
             "isekai",
             "kemonomimi",
             "magic",
+            "manga",
             "monster",
             "overpowered main characters",
             "person in a strange world",
             "romance",
             "romantic comedy",
+            "shounen",
             "summoned into another world",
             "swords & co"
         ],
@@ -5103,6 +5115,29 @@
     },
     {
         "sources": [
+            "https://anisearch.com/anime/17558"
+        ],
+        "title": "Itsumo no Komeda de,",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17558.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17558.webp",
+        "synonyms": [
+            "The Usual Story of Komeda’s Coffe",
+            "いつものコメダで、"
+        ],
+        "relations": [],
+        "tags": [
+            "present"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/17258"
         ],
         "title": "Jantama Pong: Hai",
@@ -5117,7 +5152,9 @@
             "じゃんたま PONG☆ 【WEB限定特別話】",
             "じゃんたま PONG☆杯"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/17001"
+        ],
         "tags": [
             "comedy",
             "sports"
@@ -7026,7 +7063,8 @@
             "魔法使い黎明期 ミニアニメ"
         ],
         "relations": [
-            "https://anisearch.com/anime/16224"
+            "https://anisearch.com/anime/16224",
+            "https://anisearch.com/anime/17557"
         ],
         "tags": [],
         "date": {
@@ -7174,6 +7212,7 @@
         "relations": [
             "https://anime-planet.com/anime/shin-gakki-da-yo-waccha-primagi-gakuen",
             "https://anime-planet.com/anime/waccha-primagi",
+            "https://anisearch.com/anime/16477",
             "https://myanimelist.net/anime/49285",
             "https://myanimelist.net/anime/51538"
         ],
@@ -7573,8 +7612,8 @@
         "type": "special",
         "episodes": 0,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1694/120058.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1694/120058t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1169/125885.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1169/125885t.jpg",
         "synonyms": [
             "Migi & Dali",
             "Migi and Dali",
@@ -7849,6 +7888,31 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/51574"
+        ],
+        "title": "Neko Naraba Ikeru",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1353/122590.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1353/122590t.jpg",
+        "synonyms": [
+            "猫ならばいける"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44042"
+        ],
+        "tags": [
+            "idols (female)",
+            "music"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://kitsu.io/anime/45936"
         ],
         "title": "Neko Naraba Ikeru",
@@ -7961,7 +8025,7 @@
         ],
         "title": "Ninjala (TV)",
         "type": "tv",
-        "episodes": 29,
+        "episodes": 30,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1552/119871.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1552/119871t.jpg",
@@ -8400,6 +8464,7 @@
             "https://anidb.net/anime/17275",
             "https://anilist.co/anime/146637",
             "https://anime-planet.com/anime/orient-awajishima-gekitou-hen",
+            "https://anisearch.com/anime/17220",
             "https://kitsu.io/anime/45993",
             "https://livechart.me/anime/11151",
             "https://myanimelist.net/anime/51368",
@@ -8857,6 +8922,7 @@
             "https://anime-planet.com/anime/pokemon",
             "https://anisearch.com/anime/3721",
             "https://kitsu.io/anime/42534",
+            "https://kitsu.io/anime/46286",
             "https://myanimelist.net/anime/50815",
             "https://myanimelist.net/anime/51018"
         ],
@@ -9197,7 +9263,6 @@
         "sources": [
             "https://anidb.net/anime/17163",
             "https://anilist.co/anime/126400",
-            "https://anime-planet.com/anime/qian-cong-shou",
             "https://anime-planet.com/anime/the-indomitable",
             "https://anisearch.com/anime/17485",
             "https://kitsu.io/anime/45793",
@@ -9272,44 +9337,6 @@
             "school life",
             "shounen",
             "swords & co"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/17282",
-            "https://anilist.co/anime/146676",
-            "https://anime-planet.com/anime/renai-flops",
-            "https://anisearch.com/anime/17237",
-            "https://kitsu.io/anime/46002",
-            "https://livechart.me/anime/11156",
-            "https://myanimelist.net/anime/51403"
-        ],
-        "title": "Renai Flops",
-        "type": "tv",
-        "episodes": 12,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1161/121833.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1161/121833t.jpg",
-        "synonyms": [
-            "Love Flops",
-            "Ren`ai Flops",
-            "Ren’ai Flops",
-            "恋愛フロップス"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "female harem",
-            "harem",
-            "high school",
-            "original work",
-            "romance",
-            "romantic comedy",
-            "school"
         ],
         "date": {
             "season": "winter",
@@ -9753,57 +9780,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/17159",
-            "https://anilist.co/anime/144553",
-            "https://anime-planet.com/anime/saikyou-onmyouji-no-isekai-tenseiki",
-            "https://anisearch.com/anime/17076",
-            "https://kitsu.io/anime/45813",
-            "https://livechart.me/anime/11057",
-            "https://myanimelist.net/anime/50932",
-            "https://notify.moe/anime/8wfvLc-7g"
-        ],
-        "title": "Saikyou Onmyouji no Isekai Tenseiki: Geboku no Youkai-domo ni Kurabete Monster ga Yowasugirunda ga",
-        "type": "special",
-        "episodes": 0,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1606/120760.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1606/120760t.jpg",
-        "synonyms": [
-            "Saikyou In’youshi no Isekai Tenseiki",
-            "Saikyou Onmyouji no Isekai Tenseiki",
-            "Saikyou Onmyouji no Isekai Tenseiki: Geboku no Youkaidomo ni Kurabete Monster ga Yowai Sugirundaga",
-            "Saikyō Onmyōji no Isekai Tenseiki",
-            "The Reincarnation of the Strongest Exorcist in Another World: These Monsters Are Too Weak Compared to My Monsters",
-            "The Reincarnation of the Strongest Onmyoji",
-            "The Reincarnation of the Strongest Onmyoji ~These Monsters Are Too Weak Compared to My Youkai~",
-            "The Reincarnation of the Strongest Onmyouji in Another World: These Monsters Are Too Weak Compared to My Demons",
-            "The Reincarnation of the Strongest Onmyouji in Another World: These Monsters Are Too Weak Compared to My Demons, The Reincarnation of the Strongest Exorcist in Another World: These Monsters Are Too Weak Compared to My Monsters",
-            "最強陰陽師の異世界転生記",
-            "最強陰陽師の異世界転生記 ～下僕の妖怪どもに比べてモンスターが弱すぎるんだが～",
-            "最強陰陽師の異世界転生記 ～下僕の妖怪どもに比べてモンスターが弱すぎるんだが～"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "adventure",
-            "alternative world",
-            "based on a light novel",
-            "comedy",
-            "fantasy",
-            "isekai",
-            "magic",
-            "person in a strange world",
-            "romance",
-            "supernatural",
-            "swords & co"
-        ],
-        "date": {
-            "season": "winter",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/15980",
             "https://anilist.co/anime/128400",
             "https://anime-planet.com/anime/saiyuki-reload-zeroin",
@@ -9849,6 +9825,8 @@
             "https://anime-planet.com/anime/saiyuki-reload-gunlock",
             "https://anime-planet.com/anime/saiyuki-reload-urasai",
             "https://anime-planet.com/anime/saiyuki-requiem",
+            "https://anisearch.com/anime/12057",
+            "https://anisearch.com/anime/3319",
             "https://kitsu.io/anime/110",
             "https://kitsu.io/anime/12464",
             "https://livechart.me/anime/2262",
@@ -10035,7 +10013,7 @@
         "title": "Sei Dorei Gakuen 2",
         "type": "ova",
         "episodes": 2,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1746/119598.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1746/119598t.jpg",
         "synonyms": [
@@ -11183,7 +11161,7 @@
         ],
         "title": "Stars*Collection!",
         "type": "ona",
-        "episodes": 26,
+        "episodes": 27,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1261/120889.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1261/120889t.jpg",
@@ -11205,6 +11183,7 @@
             "https://kitsu.io/anime/45572",
             "https://kitsu.io/anime/45683",
             "https://kitsu.io/anime/45695",
+            "https://kitsu.io/anime/46287",
             "https://myanimelist.net/anime/44042",
             "https://myanimelist.net/anime/44257"
         ],
@@ -11246,7 +11225,7 @@
         "title": "Strike the Blood Final",
         "type": "ova",
         "episodes": 4,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1208/120085.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1208/120085t.jpg",
         "synonyms": [
@@ -11808,7 +11787,7 @@
         ],
         "title": "Teiko Penguin",
         "type": "tv",
-        "episodes": 30,
+        "episodes": 0,
         "status": "ongoing",
         "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143413-yA49X4tYfoQP.jpg",
         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143413-yA49X4tYfoQP.jpg",
@@ -12276,6 +12255,32 @@
             "time manipulation",
             "time travel",
             "work"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/51755"
+        ],
+        "title": "Titipo Titipo 3",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1387/123607.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1387/123607t.jpg",
+        "synonyms": [
+            "Titipo Titipo Season 3",
+            "띠띠뽀 띠띠뽀 3"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/51754"
+        ],
+        "tags": [
+            "kids",
+            "racing"
         ],
         "date": {
             "season": "winter",
@@ -14315,8 +14320,8 @@
         "type": "ona",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1925/120742.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1925/120742t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1278/126344.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1278/126344t.jpg",
         "synonyms": [
             "Return Of Gods",
             "Return of Gods",
@@ -14343,6 +14348,29 @@
             "reincarnation",
             "swordplay",
             "wuxia"
+        ],
+        "date": {
+            "season": "winter",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52353",
+            "https://myanimelist.net/anime/52512"
+        ],
+        "title": "Zurui Maboroshi",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1852/125169.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1852/125169t.jpg",
+        "synonyms": [
+            "ズルい幻"
+        ],
+        "relations": [],
+        "tags": [
+            "music"
         ],
         "date": {
             "season": "winter",

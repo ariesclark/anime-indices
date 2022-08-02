@@ -84,9 +84,10 @@
         "type": "tv",
         "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1247/121726.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1247/121726t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1648/126110.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1648/126110t.jpg",
         "synonyms": [
+            "Akulas",
             "Akuyaku Reijo nano de Last Boss wo Kattemimashita",
             "Akuyaku Reijou Nano de Last Boss wo Katte Mimashita",
             "Akuyaku Reijou na no de Last Boss o Katte Mimashita",
@@ -188,6 +189,60 @@
             "primarily adult cast",
             "primarily male cast",
             "showbiz"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/17513",
+            "https://anilist.co/anime/152207",
+            "https://anime-planet.com/anime/yuri-no-aida-ni-hasamareru-aru-asa-dummy-head-ni-natte-ita-ore-kun-no-jinsei",
+            "https://anisearch.com/anime/17516",
+            "https://kitsu.io/anime/46272",
+            "https://livechart.me/anime/11332",
+            "https://myanimelist.net/anime/52381"
+        ],
+        "title": "Aru Asa Dummy Head Mic ni Natteita Ore-kun no Jinsei",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1135/125337.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1135/125337t.jpg",
+        "synonyms": [
+            "Aru Asa Dummy Head Mike ni Natte Ita Ore-kun no Jinsei",
+            "Aru Asa Dummy Head Mike ni Natteita Ore-kun no Jinsei",
+            "Caught Between a Yuri Relationship. My Life After I Became a Dummy Head Microphone One Morning.",
+            "Caught Between a Yuri Relationship. My Life After I Became a Dummy Head One Morning, Yurihasa",
+            "My Life After I Became a Dummy Head Mic One Morning",
+            "Yuri no Aida ni Hasamareru.",
+            "Yuri no Aida ni Hasamareru. Aru Asa Dummy Head Mic ni Natteita Ore-kun no Jinsei",
+            "Yuri no Aida ni Hasamareru. Aru Asa Dummy Head Mike ni Natte Ita Ore-kun no Jinsei",
+            "Yuri no Aida ni Hasamareru. Aru Asa Dummy Head ni Natte Ita Ore-kun no Jinsei",
+            "ある朝ダミーヘッドマイクになっていた俺クンの人生",
+            "百合の間にはさまれる。",
+            "百合の間にはさまれる。 ある朝ダミーヘッドマイクになっていた俺クンの人生",
+            "百合の間にはさまれる。ある朝ダミーヘッドマイクになっていた俺クンの人生"
+        ],
+        "relations": [
+            "https://livechart.me/anime/10564"
+        ],
+        "tags": [
+            "comedy",
+            "cute girls doing cute things",
+            "ecchi",
+            "girls love",
+            "harem",
+            "original work",
+            "primarily female cast",
+            "reincarnation",
+            "school club",
+            "school clubs",
+            "slapstick",
+            "slice of life",
+            "yuri"
         ],
         "date": {
             "season": "fall",
@@ -412,7 +467,8 @@
             "https://anime-planet.com/anime/kimi-wo-ai-shita-hitori-no-boku-e",
             "https://kitsu.io/anime/45219",
             "https://livechart.me/anime/10792",
-            "https://myanimelist.net/anime/49835"
+            "https://myanimelist.net/anime/49835",
+            "https://notify.moe/anime/zV_WnCI7g"
         ],
         "tags": [
             "alternate universe",
@@ -643,6 +699,7 @@
             "Chōjigen Game Neptune The Animation: Nep Nep Darake no Festival",
             "Hyperdimension Neptunia OVA",
             "Hyperdimension Neptunia OVA 2",
+            "Hyperdimension Neptunia The Animation: Festival Full of Nep Nep",
             "Hyperdimension Neptunia ~Festival Full of Nep Nep~",
             "Hyperdimension Neptunia: Nepu Nepu Darake no Festival",
             "超次元ゲイム ネプテューヌ THE ANIMATION ~ねぷねぷだらけの感謝祭~",
@@ -733,8 +790,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1289/113674.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1289/113674t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1628/125911.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1628/125911t.jpg",
         "synonyms": [
             "DIY",
             "DIY!!",
@@ -859,6 +916,31 @@
     },
     {
         "sources": [
+            "https://anisearch.com/anime/17551"
+        ],
+        "title": "Eroriman 2",
+        "type": "ova",
+        "episodes": 1,
+        "status": "upcoming",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/0.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/0.webp",
+        "synonyms": [
+            "エロリーマン2"
+        ],
+        "relations": [
+            "https://anisearch.com/anime/17151"
+        ],
+        "tags": [
+            "hentai",
+            "present"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/17262",
             "https://anilist.co/anime/146438",
             "https://anime-planet.com/anime/eternal-boys",
@@ -883,6 +965,7 @@
         ],
         "relations": [],
         "tags": [
+            "comedy",
             "idol",
             "idols",
             "idols (male)",
@@ -1135,6 +1218,75 @@
     },
     {
         "sources": [
+            "https://anidb.net/anime/16010",
+            "https://anilist.co/anime/128890",
+            "https://anime-planet.com/anime/idolish7-third-beat-part-ii",
+            "https://anisearch.com/anime/16142",
+            "https://kitsu.io/anime/44315",
+            "https://livechart.me/anime/10370",
+            "https://myanimelist.net/anime/46654",
+            "https://notify.moe/anime/zLAE-vYMR"
+        ],
+        "title": "IDOLiSH7 3rd Season Part 2",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1458/125998.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1458/125998t.jpg",
+        "synonyms": [
+            "IDOLiSH7 3rd Season 2nd Part",
+            "IDOLiSH7 Third BEAT! Part 2",
+            "IDOLiSH7: Third BEAT - Part II",
+            "IDOLiSH7: Third BEAT! Part 2",
+            "IDOLiSH7: Third Beat! Part 2",
+            "Idolish 7: Third Beat! (2022)",
+            "Idolish Seven 3rd Season Part 2",
+            "Idolish Seven 4th Season",
+            "Idolish Seven: Third Beat! (2 Cour)",
+            "Idolish Seven: Third Beat! (2022)",
+            "Idolish Seven: Third Beat! Part 2",
+            "アイドリッシュセブン",
+            "アイドリッシュセブン Third BEAT! (2022)",
+            "アイドリッシュセブン Third BEAT! 第2クール",
+            "アイドリッシュセブン Third BEAT！ （2クール）"
+        ],
+        "relations": [
+            "https://anidb.net/anime/15955",
+            "https://anilist.co/anime/127721",
+            "https://anime-planet.com/anime/idolish7-third-beat",
+            "https://anisearch.com/anime/16035",
+            "https://kitsu.io/anime/44314",
+            "https://livechart.me/anime/10298",
+            "https://livechart.me/anime/2290",
+            "https://livechart.me/anime/3091",
+            "https://livechart.me/anime/3378",
+            "https://myanimelist.net/anime/45577",
+            "https://notify.moe/anime/DgL7WLbMg"
+        ],
+        "tags": [
+            "based on a mobile game",
+            "drama",
+            "ensemble cast",
+            "game",
+            "ganbatte",
+            "idol",
+            "idols",
+            "idols (male)",
+            "music",
+            "present",
+            "primarily adult cast",
+            "primarily male cast",
+            "showbiz",
+            "slice of life",
+            "the arts"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anilist.co/anime/151632",
             "https://anime-planet.com/anime/harem-in-the-labyrinth-of-another-world-specials",
             "https://kitsu.io/anime/46222",
@@ -1269,8 +1421,8 @@
         "type": "movie",
         "episodes": 1,
         "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1614/121091.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1614/121091t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1828/126060.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1828/126060t.jpg",
         "synonyms": [
             "Kagami no Kojo",
             "Kagami no Kojō",
@@ -1441,6 +1593,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1992/125095t.jpg",
         "synonyms": [
             "Kanojo, Okarishimasu 2nd Season Specials",
+            "Rent-a-Girlfriend 2nd Season Mini Anime",
             "彼女、お借りします 第2期 ミニアニメ"
         ],
         "relations": [
@@ -1713,6 +1866,7 @@
     },
     {
         "sources": [
+            "https://anisearch.com/anime/17552",
             "https://myanimelist.net/anime/52149"
         ],
         "title": "Made in Abyss: Retsujitsu no Ougonkyou Mini Anime",
@@ -1723,9 +1877,12 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1874/125099t.jpg",
         "synonyms": [
             "Made in Abyss: Retsujitsu no Ougonkyou Special",
+            "Made in Abyss: Retsujitsu no Ōgonkyō Mini Anime",
+            "Made in Abyss: The Golden City of the Scorching Sun Mini Anime",
             "メイドインアビス 烈日の黄金郷ミニアニメ"
         ],
         "relations": [
+            "https://anisearch.com/anime/14893",
             "https://myanimelist.net/anime/41084"
         ],
         "tags": [
@@ -2000,6 +2157,7 @@
             "Mob Psycho Hyaku Season 3",
             "Mob Psycho One Hundred",
             "Mob Psycho One Hundred 3rd Season",
+            "موب سايكو 100 3",
             "ม็อบไซโค 100 คนพลังจิต ภาค 3",
             "モブサイコ III",
             "モブサイコ100 III",
@@ -2034,6 +2192,7 @@
             "hero of weak character",
             "heterosexual",
             "male protagonist",
+            "manga",
             "parody",
             "philosophy",
             "plot continuity",
@@ -2089,6 +2248,7 @@
             "https://anilist.co/anime/80",
             "https://anime-planet.com/anime/mobile-suit-gundam-suisei-no-majo-prologue",
             "https://anisearch.com/anime/17528",
+            "https://kitsu.io/anime/46291",
             "https://kitsu.io/anime/59",
             "https://livechart.me/anime/11165",
             "https://myanimelist.net/anime/52168",
@@ -2273,7 +2433,7 @@
             "https://livechart.me/anime/9410",
             "https://livechart.me/anime/9851",
             "https://myanimelist.net/anime/41491",
-            "https://notify.moe/anime/a0P-YvYMR"
+            "https://notify.moe/anime/mhYRwj9Wg"
         ],
         "tags": [
             "action",
@@ -2510,6 +2670,7 @@
         "tags": [
             "absurdist humour",
             "avant garde",
+            "badminton",
             "based on a 4-koma manga",
             "based on a manga",
             "breaking the fourth wall",
@@ -2583,6 +2744,39 @@
     },
     {
         "sources": [
+            "https://anisearch.com/anime/17561",
+            "https://myanimelist.net/anime/52561"
+        ],
+        "title": "Raikou Shinki Aigis Magia: Pandra Saga 3rd Ignition - The Animation",
+        "type": "ova",
+        "episodes": 2,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1714/126269.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1714/126269t.jpg",
+        "synonyms": [
+            "Raikou Shinki Aigis Magia: Pandra Saga 3rd Ignition The Animation",
+            "Raikō Shinki Aigis Magia: Pandra Saga 3rd Ignition The Animation",
+            "雷光神姫アイギスマギア ―PANDRA saga 3rd ignition― The Animation",
+            "雷光神姫アイギスマギア-PANDRA saga 3rd ignition- The Animation"
+        ],
+        "relations": [
+            "https://anisearch.com/anime/9412",
+            "https://myanimelist.net/anime/27413"
+        ],
+        "tags": [
+            "big boobs",
+            "fantasy",
+            "flat chested",
+            "hentai",
+            "tentacle"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/16381",
             "https://anilist.co/anime/135515",
             "https://anime-planet.com/anime/reiwa-no-di-gi-charat",
@@ -2631,6 +2825,44 @@
             "nonsense-comedy",
             "science-fiction",
             "slice of life"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/17282",
+            "https://anilist.co/anime/146676",
+            "https://anime-planet.com/anime/renai-flops",
+            "https://anisearch.com/anime/17237",
+            "https://kitsu.io/anime/46002",
+            "https://livechart.me/anime/11156",
+            "https://myanimelist.net/anime/51403"
+        ],
+        "title": "Renai Flops",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1161/121833.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1161/121833t.jpg",
+        "synonyms": [
+            "Love Flops",
+            "Ren`ai Flops",
+            "Ren’ai Flops",
+            "恋愛フロップス"
+        ],
+        "relations": [],
+        "tags": [
+            "comedy",
+            "female harem",
+            "harem",
+            "high school",
+            "original work",
+            "romance",
+            "romantic comedy",
+            "school"
         ],
         "date": {
             "season": "fall",
@@ -2764,7 +2996,6 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1877/120114.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1877/120114t.jpg",
         "synonyms": [
-            ", Spy x Family 2 Cour",
             "SPY x FAMILY 2nd Cour",
             "SPY x FAMILY Cour 2",
             "SPY x FAMILY Part 2",
@@ -2800,6 +3031,7 @@
         "tags": [
             "action",
             "action comedy",
+            "adoption",
             "assassin",
             "assassins",
             "based on a manga",
@@ -3029,7 +3261,6 @@
         "sources": [
             "https://anidb.net/anime/15974",
             "https://anilist.co/anime/128207",
-            "https://anime-planet.com/anime/slam-dunk-movie",
             "https://anime-planet.com/anime/the-first-slam-dunk",
             "https://anisearch.com/anime/15937",
             "https://kitsu.io/anime/46225",
@@ -3671,57 +3902,6 @@
             "chinese animation",
             "fantasy",
             "full cgi"
-        ],
-        "date": {
-            "season": "fall",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
-            "https://anidb.net/anime/17513",
-            "https://anilist.co/anime/152207",
-            "https://anime-planet.com/anime/yuri-no-aida-ni-hasamareru-aru-asa-dummy-head-ni-natte-ita-ore-kun-no-jinsei",
-            "https://anisearch.com/anime/17516",
-            "https://kitsu.io/anime/46272",
-            "https://livechart.me/anime/11332",
-            "https://myanimelist.net/anime/52381"
-        ],
-        "title": "Yuri no Aida ni Hasamareru. Aru Asa Dummyhead ni Natteita Ore-kun no Jinsei",
-        "type": "tv",
-        "episodes": 12,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1135/125337.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1135/125337t.jpg",
-        "synonyms": [
-            "Caught Between a Yuri Relationship. My Life After I Became a Dummy Head Microphone One Morning.",
-            "Caught Between a Yuri Relationship. My Life After I Became a Dummy Head One Morning",
-            "Caught Between a Yuri Relationship. My Life After I Became a Dummy Head One Morning, Yurihasa",
-            "Yuri no Aida ni Hasamareru. Aru Asa Dummy Head Mic ni Natteita Ore-kun no Jinsei",
-            "Yuri no Aida ni Hasamareru. Aru Asa Dummy Head Mike ni Natte Ita Ore-kun no Jinsei",
-            "Yuri no Aida ni Hasamareru. Aru Asa Dummy Head ni Natte Ita Ore-kun no Jinsei",
-            "Yurihasa",
-            "百合の間にはさまれる. ある朝ダミーヘッドマイクになっていた俺クンの人生",
-            "百合の間にはさまれる。 ある朝ダミーヘッドマイクになっていた俺クンの人生",
-            "百合の間にはさまれる。ある朝ダミーヘッドになっていた俺クンの人生",
-            "百合の間にはさまれる。ある朝ダミーヘッドマイクになっていた俺クンの人生"
-        ],
-        "relations": [
-            "https://livechart.me/anime/10564"
-        ],
-        "tags": [
-            "comedy",
-            "cute girls doing cute things",
-            "ecchi",
-            "girls love",
-            "harem",
-            "original work",
-            "primarily female cast",
-            "reincarnation",
-            "school club",
-            "school clubs",
-            "slapstick",
-            "slice of life"
         ],
         "date": {
             "season": "fall",

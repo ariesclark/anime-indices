@@ -271,7 +271,6 @@
         "relations": [
             "https://anidb.net/anime/17147",
             "https://anilist.co/anime/144188",
-            "https://anime-planet.com/anime/alice-gear-aegis",
             "https://anisearch.com/anime/17039",
             "https://livechart.me/anime/11040",
             "https://myanimelist.net/anime/50871",
@@ -749,6 +748,7 @@
             "https://anilist.co/anime/141866",
             "https://anime-planet.com/anime/bai-yao-pu-3rd-season",
             "https://anime-planet.com/anime/fairies-albums",
+            "https://anime-planet.com/anime/fairies-albums-3rd-season",
             "https://anisearch.com/anime/14799",
             "https://anisearch.com/anime/17290",
             "https://kitsu.io/anime/43176",
@@ -1294,6 +1294,7 @@
             "My Hero Academia: Missão Mundial de Heróis",
             "My Hero Academia: World Heroes' Mission",
             "My Hero Academia: World Heroes` Mission",
+            "My Hero Academia: misión mundial de héroes",
             "มาย ฮีโร่ อาคาเดเมีย : รวมพลฮีโร่กู้วิกฤตโลก",
             "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション"
         ],
@@ -1379,7 +1380,10 @@
             "My Hero Academia: World Heroes’ Mission",
             "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/10978",
+            "https://anisearch.com/anime/17276"
+        ],
         "tags": [
             "action",
             "action comedy",
@@ -1504,6 +1508,7 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/remake-our-life",
+            "https://anisearch.com/anime/14829",
             "https://kitsu.io/anime/42924",
             "https://myanimelist.net/anime/40904",
             "https://notify.moe/anime/Y2eEDZzMR"
@@ -2042,6 +2047,7 @@
             "female protagonist",
             "music",
             "no dialogue",
+            "otaku culture",
             "present",
             "shorts",
             "slice of life",
@@ -2245,6 +2251,7 @@
             "boys' love",
             "cg animation",
             "cg-anime",
+            "combat sport",
             "contemporary fantasy",
             "denpa",
             "drama",
@@ -3932,7 +3939,8 @@
             "https://myanimelist.net/anime/40890",
             "https://myanimelist.net/anime/43205",
             "https://notify.moe/anime/12M0tFimg",
-            "https://notify.moe/anime/SoE4xy8ZR"
+            "https://notify.moe/anime/SoE4xy8ZR",
+            "https://notify.moe/anime/Yl3WZdj7R"
         ],
         "tags": [
             "action",
@@ -4477,7 +4485,6 @@
             "suicide",
             "super power",
             "supernatural",
-            "surreal comedy",
             "suspense",
             "thriller",
             "time manipulation",
@@ -4717,7 +4724,8 @@
         "synonyms": [],
         "relations": [
             "https://anilist.co/anime/118123",
-            "https://kitsu.io/anime/43740"
+            "https://kitsu.io/anime/43740",
+            "https://myanimelist.net/anime/44042"
         ],
         "tags": [
             "cg animation",
@@ -6018,12 +6026,15 @@
             "https://notify.moe/anime/1-7g2KiiR"
         ],
         "tags": [
+            "4-koma manga",
             "based on a 4-koma manga",
             "based on a manga",
             "cgdct",
             "comedy",
             "cute girls doing cute things",
+            "high school",
             "iyashikei",
+            "manga",
             "middle school",
             "moe",
             "present",
@@ -6266,8 +6277,8 @@
         "type": "ona",
         "episodes": 2,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1279/118115.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1279/118115t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1120/125173.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1120/125173t.jpg",
         "synonyms": [
             "Kono Kaisha … Nanika Okashii!",
             "Kono Kaisha … Nanika Okashī!",
@@ -7804,7 +7815,6 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1634/116782.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1634/116782t.jpg",
         "synonyms": [
-            ", The Founder of Diabolism: The Final Season, Grandmaster of Demonic Cultivation 3, The Founder of Diabolism 3, Mo Dao Zu Shi 3rd Season, Mo Dao Zu Shi Final Arc",
             "Grandmaster of Demonic Cultivation 3",
             "Grandmaster of Demonic Cultivation 3rd Season",
             "MDZS 3",
@@ -8024,7 +8034,6 @@
             "https://livechart.me/anime/9410",
             "https://livechart.me/anime/9851",
             "https://myanimelist.net/anime/41491",
-            "https://notify.moe/anime/6KQC_G57R",
             "https://notify.moe/anime/mhYRwj9Wg"
         ],
         "tags": [
@@ -8156,6 +8165,7 @@
         "synonyms": [
             "Against The Sky Supreme",
             "Against the Sky Supreme",
+            "Against the sky Supreme",
             "Guards against the sky",
             "N.T.Z.Z",
             "NTZZ",
@@ -8375,6 +8385,7 @@
         "relations": [
             "https://anidb.net/anime/17450",
             "https://anilist.co/anime/139682",
+            "https://anilist.co/anime/150697",
             "https://anime-planet.com/anime/obey-me-celestial-ray",
             "https://anime-planet.com/anime/obey-me-devildom-family-trip",
             "https://anime-planet.com/anime/obey-me-season-2",
@@ -8745,6 +8756,8 @@
             "https://notify.moe/anime/RF8f1YkWg"
         ],
         "tags": [
+            "achronological order",
+            "adoption",
             "agriculture",
             "anti-hero",
             "based on a light novel",
@@ -8755,6 +8768,7 @@
             "female harem",
             "female protagonist",
             "harem",
+            "hikikomori",
             "historical",
             "isekai",
             "josei",
@@ -8763,6 +8777,7 @@
             "male harem",
             "nobility",
             "novel",
+            "ojou-sama",
             "primarily female cast",
             "reincarnation",
             "reverse harem",
@@ -8770,7 +8785,9 @@
             "school",
             "shoujo",
             "slice of life",
-            "villainess"
+            "twins",
+            "villainess",
+            "virtual world"
         ],
         "date": {
             "season": "summer",
@@ -9005,6 +9022,7 @@
     },
     {
         "sources": [
+            "https://kitsu.io/anime/46286",
             "https://myanimelist.net/anime/51018"
         ],
         "title": "Pochama Sweets",
@@ -9020,6 +9038,8 @@
             "ポッチャマスイーツ"
         ],
         "relations": [
+            "https://kitsu.io/anime/45755",
+            "https://kitsu.io/anime/45851",
             "https://myanimelist.net/anime/50815",
             "https://myanimelist.net/anime/51015"
         ],
@@ -9221,6 +9241,7 @@
             "https://anilist.co/anime/17249",
             "https://anilist.co/anime/20742",
             "https://anilist.co/anime/98107",
+            "https://anisearch.com/anime/9554",
             "https://livechart.me/anime/1126",
             "https://livechart.me/anime/1542",
             "https://livechart.me/anime/1670",
@@ -9460,7 +9481,6 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1974/114887.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1974/114887t.jpg",
         "synonyms": [
-            ", Quanzhi Fashi V",
             "Full-Time Magister 5",
             "Full-Time Magister Season 5",
             "Quan Zhi Fa Shi Di 5 Ji",
@@ -9482,6 +9502,8 @@
             "https://anilist.co/anime/137726",
             "https://anime-planet.com/anime/quanzhi-fashi-iv",
             "https://anime-planet.com/anime/quanzhi-fashi-vi",
+            "https://anisearch.com/anime/15060",
+            "https://anisearch.com/anime/16664",
             "https://kitsu.io/anime/43232",
             "https://livechart.me/anime/3997",
             "https://livechart.me/anime/4539",
@@ -9777,6 +9799,7 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/millennium-parade-u",
+            "https://anisearch.com/anime/16504",
             "https://kitsu.io/anime/45404"
         ],
         "tags": [
@@ -10125,6 +10148,7 @@
         "sources": [
             "https://anilist.co/anime/148293",
             "https://anime-planet.com/anime/selepro-chan-theater",
+            "https://anisearch.com/anime/17563",
             "https://myanimelist.net/anime/50882"
         ],
         "title": "Selepro-chan! Gekijou",
@@ -10135,6 +10159,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1967/123499t.jpg",
         "synonyms": [
             "Selection Project-chan Gekijou",
+            "Selepro-chan! Gekijō",
             "Selepro-chan! Theater",
             "セレプロちゃんっ！劇場",
             "セレプロちゃん！劇場"
@@ -10142,6 +10167,7 @@
         "relations": [
             "https://anilist.co/anime/126790",
             "https://anime-planet.com/anime/selection-project",
+            "https://anisearch.com/anime/15804",
             "https://myanimelist.net/anime/44275"
         ],
         "tags": [
@@ -10497,6 +10523,7 @@
         "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17539.webp",
         "synonyms": [
             "Attack on Titan Season 4 Specials",
+            "Attack on Titan: Final Season - Chibi Theater",
             "Attack on Titan: Final Season Mini-Clips",
             "Attack on Titan: The Final Season Specials",
             "Shingeki no Kyojin Season 4 Specials",
@@ -11085,7 +11112,9 @@
         "synonyms": [
             "スタンドマイヒーローズ CM"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/13895"
+        ],
         "tags": [],
         "date": {
             "season": "summer",
@@ -11132,6 +11161,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1958/117686.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1958/117686t.jpg",
         "synonyms": [
+            "Gwiezdne wojny: Wizje",
             "STAR WARS VISIONS",
             "Star Wars : Visions",
             "Star Wars ビジョンズ",
@@ -11501,7 +11531,12 @@
             "探偵はもう、死んでいる。"
         ],
         "relations": [
+            "https://anilist.co/anime/151987",
+            "https://anilist.co/anime/152677",
             "https://anime-planet.com/anime/the-detective-is-already-dead-mini-anime",
+            "https://anime-planet.com/anime/the-detective-is-already-dead-season-2",
+            "https://kitsu.io/anime/46250",
+            "https://kitsu.io/anime/46275",
             "https://myanimelist.net/anime/49510"
         ],
         "tags": [
@@ -12205,6 +12240,7 @@
             "https://anilist.co/anime/141208",
             "https://anime-planet.com/anime/tonikawa-over-the-moon-for-you",
             "https://anime-planet.com/anime/tonikawa-over-the-moon-for-you-2nd-season",
+            "https://anisearch.com/anime/15046",
             "https://kitsu.io/anime/43034",
             "https://livechart.me/anime/10876",
             "https://livechart.me/anime/10877",
@@ -12741,8 +12777,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1427/117804.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1427/117804t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1983/123783.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1983/123783t.jpg",
         "synonyms": [],
         "relations": [
             "https://anilist.co/anime/118123",

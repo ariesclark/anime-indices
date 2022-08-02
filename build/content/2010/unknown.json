@@ -448,6 +448,30 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/48175"
+        ],
+        "title": "Ddwiddwibangbang Kujodae",
+        "type": "tv",
+        "episodes": 104,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1423/125158.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1423/125158t.jpg",
+        "synonyms": [
+            "T-Pang Rescue",
+            "Ttwittwippangppang Gujodae",
+            "뛰뛰빵빵 구조대"
+        ],
+        "relations": [],
+        "tags": [
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/the-dibidogs",
             "https://myanimelist.net/anime/44289"
         ],
@@ -634,6 +658,32 @@
             "adventure",
             "fantasy",
             "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/45365"
+        ],
+        "title": "Feng Hua Xianzi Waizhuan",
+        "type": "tv",
+        "episodes": 58,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1878/126114.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1878/126114t.jpg",
+        "synonyms": [
+            "The Adventures of Feng Hua Fairy",
+            "风花仙子外传"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/45364"
+        ],
+        "tags": [
+            "comedy",
+            "fantasy"
         ],
         "date": {
             "season": "unknown",
@@ -1779,6 +1829,27 @@
         "tags": [
             "based on a tv series",
             "opening animation"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2010
+        }
+    },
+    {
+        "sources": [
+            "https://anime-planet.com/anime/mirror"
+        ],
+        "title": "MIRROR",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anime-planet.com/anime/primary/mirror-1.jpg?t=1625896628",
+        "thumbnail": "https://cdn.anime-planet.com/anime/primary/mirror-1-190x266.jpg?t=1625896628",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "abstract",
+            "shorts"
         ],
         "date": {
             "season": "unknown",
@@ -3222,22 +3293,29 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/xiao-yingtao-youmo-baodian"
+            "https://anime-planet.com/anime/xiao-yingtao-youmo-baodian",
+            "https://myanimelist.net/anime/44720"
         ],
         "title": "Xiao Yingtao: Youmo Baodian",
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/xiao-yingtao-youmo-baodian-1.webp?t=1653367237",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/xiao-yingtao-youmo-baodian-1-285x400.webp?t=1653367237",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1715/124036.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1715/124036t.jpg",
+        "synonyms": [
+            "Xiao Yingtao 4th Season",
+            "小樱桃之幽默宝典"
+        ],
         "relations": [
             "https://anime-planet.com/anime/xiao-yingtao-3rd-season",
-            "https://anime-planet.com/anime/xiao-yingtao-wu-gang-chuanqi"
+            "https://anime-planet.com/anime/xiao-yingtao-wu-gang-chuanqi",
+            "https://myanimelist.net/anime/44719",
+            "https://myanimelist.net/anime/44721"
         ],
         "tags": [
             "chinese animation",
-            "family friendly"
+            "family friendly",
+            "kids"
         ],
         "date": {
             "season": "unknown",

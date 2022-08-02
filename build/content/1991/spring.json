@@ -27,6 +27,8 @@
             "https://anilist.co/anime/6073",
             "https://anilist.co/anime/6074",
             "https://anime-planet.com/anime/21-emon-uchuu-e-irasshai",
+            "https://anisearch.com/anime/4047",
+            "https://anisearch.com/anime/4375",
             "https://kitsu.io/anime/4413",
             "https://kitsu.io/anime/4414",
             "https://myanimelist.net/anime/6073",
@@ -210,6 +212,7 @@
         "tags": [
             "animals",
             "based on a novel",
+            "child protagonists",
             "classic literature",
             "coming of age",
             "countryside",
@@ -378,6 +381,7 @@
             "https://anime-planet.com/anime/bubblegum-crisis",
             "https://anime-planet.com/anime/bubblegum-crisis-tokyo-2040",
             "https://anime-planet.com/anime/parasite-dolls",
+            "https://anisearch.com/anime/260",
             "https://kitsu.io/anime/1202",
             "https://livechart.me/anime/5561",
             "https://livechart.me/anime/8384",
@@ -1683,6 +1687,28 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52545"
+        ],
+        "title": "My Crossroad",
+        "type": "ova",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1318/126331.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1318/126331t.jpg",
+        "synonyms": [
+            "MY CROSSROAD"
+        ],
+        "relations": [],
+        "tags": [
+            "comedy"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 1991
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/6506",
             "https://anilist.co/anime/126620",
             "https://anime-planet.com/anime/oh-my-konbu",
@@ -1849,6 +1875,30 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52475"
+        ],
+        "title": "Ryuujin Kappei",
+        "type": "ova",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1301/125730.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1301/125730t.jpg",
+        "synonyms": [
+            "龍神カッペイ"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "adventure",
+            "fantasy"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 1991
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/3135",
             "https://anilist.co/anime/9349",
             "https://anime-planet.com/anime/shizukanaru-don-yakuza-side-story",
@@ -1944,7 +1994,11 @@
             "Shōnen Ashibe (1991)",
             "少年アシベ （1991）"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/11313",
+            "https://anisearch.com/anime/11495",
+            "https://anisearch.com/anime/2318"
+        ],
         "tags": [
             "comedy",
             "slice of life"

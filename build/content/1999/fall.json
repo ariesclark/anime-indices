@@ -845,7 +845,6 @@
             "boobjob",
             "drama",
             "episodic",
-            "erotica",
             "female teacher",
             "girls love",
             "group sex",
@@ -908,6 +907,7 @@
         "relations": [
             "https://anidb.net/anime/1309",
             "https://anidb.net/anime/1310",
+            "https://anilist.co/anime/3014",
             "https://anilist.co/anime/3015",
             "https://anilist.co/anime/3371",
             "https://anime-planet.com/anime/legend-of-the-galactic-heroes",
@@ -915,6 +915,8 @@
             "https://anime-planet.com/anime/legend-of-the-galactic-heroes-golden-wings",
             "https://anime-planet.com/anime/legend-of-the-galactic-heroes-my-conquest-is-the-sea-of-stars",
             "https://anime-planet.com/anime/legend-of-the-galactic-heroes-overture-to-a-new-war",
+            "https://anisearch.com/anime/1596",
+            "https://anisearch.com/anime/352",
             "https://kitsu.io/anime/2963",
             "https://kitsu.io/anime/727",
             "https://livechart.me/anime/10151",
@@ -1204,6 +1206,7 @@
             "satire",
             "sci fi",
             "sci-fi",
+            "science fiction",
             "science-fiction",
             "seinen",
             "shounen",
@@ -1500,6 +1503,11 @@
             "https://anime-planet.com/anime/initial-d-legend-3-dream",
             "https://anime-planet.com/anime/initial-d-project-d-to-the-next-stage-project-d-e-mukete",
             "https://anime-planet.com/anime/initial-d-third-stage",
+            "https://anisearch.com/anime/11448",
+            "https://anisearch.com/anime/1399",
+            "https://anisearch.com/anime/1636",
+            "https://anisearch.com/anime/806",
+            "https://anisearch.com/anime/986",
             "https://kitsu.io/anime/162",
             "https://kitsu.io/anime/164",
             "https://kitsu.io/anime/6799",
@@ -1654,6 +1662,7 @@
             "drama",
             "ecchi",
             "half-length episodes",
+            "male protagonist",
             "short episodes",
             "slice of life"
         ],
@@ -2081,6 +2090,28 @@
         "tags": [
             "adventure",
             "comedy",
+            "kids"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 1999
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52157"
+        ],
+        "title": "Mado Kara★Okurimono",
+        "type": "ova",
+        "episodes": 4,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1709/124633.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1709/124633t.jpg",
+        "synonyms": [
+            "まどから★おくりもの"
+        ],
+        "relations": [],
+        "tags": [
             "kids"
         ],
         "date": {
@@ -2608,7 +2639,7 @@
         ],
         "title": "One Piece",
         "type": "tv",
-        "episodes": 1026,
+        "episodes": 1027,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/6/73245t.jpg",
@@ -3136,6 +3167,9 @@
             "https://anidb.net/anime/856",
             "https://anilist.co/anime/216",
             "https://anime-planet.com/anime/welcome-to-pia-carrot-sayakas-love-story",
+            "https://anisearch.com/anime/1405",
+            "https://anisearch.com/anime/2547",
+            "https://anisearch.com/anime/754",
             "https://kitsu.io/anime/192",
             "https://myanimelist.net/anime/216",
             "https://notify.moe/anime/4ki2cFmig"
@@ -3369,7 +3403,9 @@
             "Ribbon no Kishi (1999)",
             "リボンの騎士 −オリジナルアニメ−"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/2090"
+        ],
         "tags": [],
         "date": {
             "season": "fall",
@@ -3701,7 +3737,9 @@
             "Weekly! Story Land",
             "週刊ストーリーランド"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/9934"
+        ],
         "tags": [
             "comedy",
             "drama",
@@ -3781,6 +3819,8 @@
             "https://anime-planet.com/anime/street-fighter-ii-v",
             "https://anime-planet.com/anime/street-fighter-iv-the-ties-that-bind",
             "https://anime-planet.com/anime/super-street-fighter-iv",
+            "https://anisearch.com/anime/3222",
+            "https://anisearch.com/anime/3434",
             "https://kitsu.io/anime/842",
             "https://livechart.me/anime/11074",
             "https://livechart.me/anime/11075",
@@ -4114,6 +4154,8 @@
             "https://anisearch.com/anime/3087",
             "https://kitsu.io/anime/409",
             "https://kitsu.io/anime/410",
+            "https://livechart.me/anime/6453",
+            "https://livechart.me/anime/8571",
             "https://myanimelist.net/anime/446",
             "https://myanimelist.net/anime/447",
             "https://notify.moe/anime/G_GTcFmmg",
@@ -4260,6 +4302,7 @@
             "זוידס",
             "ぞいど",
             "ゾイド",
+            "ゾイド -ZOIDS-",
             "ゾイド-ZOIDS-"
         ],
         "relations": [

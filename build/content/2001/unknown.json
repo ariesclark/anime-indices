@@ -217,14 +217,13 @@
             "https://anime-planet.com/anime/fan-dou-tianting",
             "https://myanimelist.net/anime/44736"
         ],
-        "title": "Fan Dou TianTing",
+        "title": "Fan Dou Tianting",
         "type": "tv",
         "episodes": 13,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1245/124045.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1245/124045t.jpg",
         "synonyms": [
-            "Fan Dou Tianting",
             "Skyland",
             "反斗天庭"
         ],
@@ -237,7 +236,6 @@
             "anthropomorphic",
             "chinese animation",
             "fantasy",
-            "kids",
             "non-human protagonists"
         ],
         "date": {
@@ -860,7 +858,9 @@
             "World Masterpiece Theater Complete Edition: Flone of the Marvelous Island",
             "世界名作劇場・完結版 家族ロビンソン漂流記 ふしぎな島のフローネ"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/3263"
+        ],
         "tags": [
             "adventure",
             "drama",
@@ -971,7 +971,9 @@
             "World Masterpiece Theater Complete Edition: Romeo and the Black Brothers",
             "世界名作劇場・完結版 ロミオの青い空"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/1683"
+        ],
         "tags": [
             "adventure",
             "drama",
@@ -1024,29 +1026,6 @@
         ],
         "tags": [
             "comedy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2001
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/52156"
-        ],
-        "title": "Tou-san Maigo",
-        "type": "ova",
-        "episodes": 6,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1082/124632.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1082/124632t.jpg",
-        "synonyms": [
-            "I Lost My Dad!",
-            "とうさんまいご"
-        ],
-        "relations": [],
-        "tags": [
-            "kids"
         ],
         "date": {
             "season": "unknown",

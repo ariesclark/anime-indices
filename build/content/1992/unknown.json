@@ -56,29 +56,6 @@
     },
     {
         "sources": [
-            "https://anidb.net/anime/8591"
-        ],
-        "title": "Caro to Piyobuputo",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.anidb.net/images/main/46949.jpg",
-        "thumbnail": "https://cdn.anidb.net/images/main/46949.jpg-thumb.jpg",
-        "synonyms": [
-            "Karo & Piyobupt",
-            "カロとピヨブプト"
-        ],
-        "relations": [],
-        "tags": [
-            "new"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 1992
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/chuntian-li-de-xiaotian-shu",
             "https://myanimelist.net/anime/43824"
         ],
@@ -332,6 +309,29 @@
             "chinese animation",
             "kids",
             "shorts"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1992
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/8591"
+        ],
+        "title": "Karo to Piyobpt",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anidb.net/images/main/46949.jpg",
+        "thumbnail": "https://cdn.anidb.net/images/main/46949.jpg-thumb.jpg",
+        "synonyms": [
+            "Karo & Piyobpt",
+            "カロとピヨブプト"
+        ],
+        "relations": [],
+        "tags": [
+            "new"
         ],
         "date": {
             "season": "unknown",

@@ -1,58 +1,6 @@
 [
     {
         "sources": [
-            "https://anidb.net/anime/17063",
-            "https://anilist.co/anime/142849",
-            "https://anime-planet.com/anime/ayakashi-triangle",
-            "https://anisearch.com/anime/16925",
-            "https://kitsu.io/anime/45609",
-            "https://livechart.me/anime/10943",
-            "https://myanimelist.net/anime/50606",
-            "https://notify.moe/anime/DlMutaT7R"
-        ],
-        "title": "Ayakashi Triangle",
-        "type": "tv",
-        "episodes": 12,
-        "status": "upcoming",
-        "picture": "https://cdn.myanimelist.net/images/anime/1543/120134.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1543/120134t.jpg",
-        "synonyms": [
-            "เรื่องอลวน คน ปิศาจ",
-            "あやかしトライアングル"
-        ],
-        "relations": [],
-        "tags": [
-            "action",
-            "based on a manga",
-            "childhood friends",
-            "comedy",
-            "curse",
-            "ecchi",
-            "exorcists",
-            "fantasy",
-            "female protagonist",
-            "gender bender",
-            "gender bending",
-            "ghost",
-            "high school",
-            "japanese mythology",
-            "magic",
-            "male protagonist",
-            "ninja",
-            "present",
-            "romance",
-            "shounen",
-            "slapstick",
-            "supernatural",
-            "youkai"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2023
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/cardfight-vanguard-overdress-5th-season"
         ],
         "title": "Cardfight!! Vanguard: overDress 5th Season",
@@ -388,6 +336,68 @@
         ],
         "tags": [
             "horror"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2023
+        }
+    },
+    {
+        "sources": [
+            "https://anidb.net/anime/16982",
+            "https://anilist.co/anime/141821",
+            "https://anime-planet.com/anime/mato-seihei-no-slave",
+            "https://anisearch.com/anime/16798",
+            "https://kitsu.io/anime/45512",
+            "https://livechart.me/anime/10891",
+            "https://myanimelist.net/anime/50392",
+            "https://notify.moe/anime/UrvVnSpng"
+        ],
+        "title": "Mato Seihei no Slave",
+        "type": "tv",
+        "episodes": 12,
+        "status": "upcoming",
+        "picture": "https://cdn.myanimelist.net/images/anime/1406/119540.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1406/119540t.jpg",
+        "synonyms": [
+            "Chained Soldier",
+            "Demon Slave",
+            "Mabotai",
+            "Slave of the Hell Soldiers",
+            "Slave of the Magic Capital's Elite Troops",
+            "Slave of the Magic Capital’s Elite Troops",
+            "ทาสสุดแกร่งแห่งหน่วยป้องกันอสูร",
+            "魔都精兵のスレイブ"
+        ],
+        "relations": [],
+        "tags": [
+            "action",
+            "adventure",
+            "based on a manga",
+            "comedy",
+            "contemporary fantasy",
+            "demons",
+            "drama",
+            "ecchi",
+            "fantasy",
+            "female harem",
+            "female protagonist",
+            "harem",
+            "heroine of strong character",
+            "love triangle",
+            "male protagonist",
+            "master-servant relationship",
+            "military",
+            "monster",
+            "nudity",
+            "present",
+            "primarily female cast",
+            "romance",
+            "shounen",
+            "slavery",
+            "super power",
+            "supernatural",
+            "superpowers"
         ],
         "date": {
             "season": "unknown",
@@ -794,6 +804,7 @@
             "delinquents",
             "fudanshi",
             "lgbtq+ themes",
+            "movie",
             "otaku culture",
             "primarily male cast",
             "romance",

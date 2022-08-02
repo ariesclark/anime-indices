@@ -1185,8 +1185,8 @@
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1357/124315.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1357/124315t.jpg",
         "synonyms": [
             "魔幻仙踪"
         ],
@@ -1325,16 +1325,18 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/pp-le-fantian"
+            "https://anime-planet.com/anime/pp-le-fantian",
+            "https://myanimelist.net/anime/44676"
         ],
         "title": "PP Le Fantian",
         "type": "tv",
         "episodes": 140,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/pp-le-fantian-1.webp?t=1653367882",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/pp-le-fantian-1-285x399.webp?t=1653367882",
+        "picture": "https://cdn.myanimelist.net/images/anime/1692/124007.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1692/124007t.jpg",
         "synonyms": [
-            "Panda's Paradise"
+            "Panda's Paradise",
+            "霹霹乐翻天"
         ],
         "relations": [],
         "tags": [
@@ -1342,7 +1344,10 @@
             "anthropomorphic",
             "bears",
             "chinese animation",
+            "comedy",
             "family friendly",
+            "fantasy",
+            "kids",
             "non-human protagonists",
             "pandas"
         ],
@@ -1369,30 +1374,6 @@
             "based on a video game",
             "opening animation",
             "promotional"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2008
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44676"
-        ],
-        "title": "Pi Pi Le Fantian",
-        "type": "tv",
-        "episodes": 140,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "霹霹乐翻天"
-        ],
-        "relations": [],
-        "tags": [
-            "comedy",
-            "fantasy",
-            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -1428,8 +1409,8 @@
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1127/124041.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1127/124041t.jpg",
         "synonyms": [
             "Seven Swords",
             "七剑上天山"
@@ -1438,9 +1419,7 @@
         "tags": [
             "adventure",
             "chinese animation",
-            "fantasy",
-            "historical",
-            "kids"
+            "fantasy"
         ],
         "date": {
             "season": "unknown",
@@ -1526,20 +1505,21 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/52145"
+            "https://myanimelist.net/anime/48189"
         ],
-        "title": "Sanrio Poko Apoko Cinnamon no Genki ni Odekake",
-        "type": "ova",
-        "episodes": 1,
+        "title": "Rocket Boy & Toro",
+        "type": "tv",
+        "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1960/124621.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1960/124621t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1132/125161.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1132/125161t.jpg",
         "synonyms": [
-            "サンリオぽこあぽこ シナモンの げんきにおでかけ"
+            "Lokesboiwa Tolo",
+            "로켓보이와 토로"
         ],
         "relations": [],
         "tags": [
-            "adventure",
+            "fantasy",
             "kids"
         ],
         "date": {
@@ -2267,22 +2247,28 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/xiao-yingtao-2nd-season"
+            "https://anime-planet.com/anime/xiao-yingtao-2nd-season",
+            "https://myanimelist.net/anime/44718"
         ],
         "title": "Xiao Yingtao 2nd Season",
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/xiao-yingtao-2nd-season-1.webp?t=1653367062",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/xiao-yingtao-2nd-season-1-285x400.webp?t=1653367062",
-        "synonyms": [],
+        "picture": "https://cdn.myanimelist.net/images/anime/1163/124034.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1163/124034t.jpg",
+        "synonyms": [
+            "小樱桃 第二季"
+        ],
         "relations": [
             "https://anime-planet.com/anime/xiao-yingtao",
-            "https://anime-planet.com/anime/xiao-yingtao-3rd-season"
+            "https://anime-planet.com/anime/xiao-yingtao-3rd-season",
+            "https://myanimelist.net/anime/44717",
+            "https://myanimelist.net/anime/44719"
         ],
         "tags": [
             "chinese animation",
-            "family friendly"
+            "family friendly",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -2386,37 +2372,6 @@
         "relations": [],
         "tags": [
             "kids"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2008
-        }
-    },
-    {
-        "sources": [
-            "https://anilist.co/anime/129365",
-            "https://anime-planet.com/anime/zhen-gongfu-aoyun-zai-wo-jia",
-            "https://myanimelist.net/anime/44673"
-        ],
-        "title": "Zhen Gongfu Zhi Aoyun Zai Wojia",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "Olimpics Is In My Family",
-            "Zhen Gongfu: Aoyun Zai Wo Jia",
-            "真功夫之奥运在我家"
-        ],
-        "relations": [
-            "https://anilist.co/anime/129358"
-        ],
-        "tags": [
-            "chinese animation",
-            "comedy",
-            "kids",
-            "sports"
         ],
         "date": {
             "season": "unknown",

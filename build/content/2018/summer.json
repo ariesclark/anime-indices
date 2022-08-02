@@ -610,6 +610,7 @@
             "https://kitsu.io/anime/41877",
             "https://kitsu.io/anime/41879",
             "https://livechart.me/anime/3329",
+            "https://livechart.me/anime/4259",
             "https://myanimelist.net/anime/37996",
             "https://myanimelist.net/anime/38002",
             "https://notify.moe/anime/KHnbU-Tmg",
@@ -1017,6 +1018,8 @@
             "https://anilist.co/anime/87435",
             "https://anime-planet.com/anime/bang-dream",
             "https://anime-planet.com/anime/bang-dream-girls-band-party-pico-ohmori",
+            "https://anisearch.com/anime/11563",
+            "https://anisearch.com/anime/15065",
             "https://kitsu.io/anime/12330",
             "https://kitsu.io/anime/43185",
             "https://livechart.me/anime/10567",
@@ -1286,7 +1289,8 @@
         "relations": [
             "https://anime-planet.com/anime/bikini-warriors",
             "https://anime-planet.com/anime/bikini-warriors-ova",
-            "https://anime-planet.com/anime/bikini-warriors-special"
+            "https://anime-planet.com/anime/bikini-warriors-special",
+            "https://anisearch.com/anime/13220"
         ],
         "tags": [
             "action",
@@ -1529,6 +1533,33 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/caoben-jiazu",
+            "https://myanimelist.net/anime/47704"
+        ],
+        "title": "Caoben Jiazu",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1271/123433.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1271/123433t.jpg",
+        "synonyms": [
+            "Herb Family",
+            "草本家族"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "chinese animation",
+            "fantasy",
+            "kids"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/13780",
             "https://anilist.co/anime/106146",
             "https://anime-planet.com/anime/chainsaw-bunny",
@@ -1729,6 +1760,7 @@
             "Ponoc Tanpen Gekijou",
             "Ponoc גיבורים צנועים: הסרטים הקצרים של סטודיו",
             "Skromni Bohaterowie",
+            "Skromni bohaterowie: Krótkie filmy Studia Ponoc",
             "أبطال عاديون",
             "ちいさな英雄-カニとタマゴと透明人間-",
             "ちいさな英雄－カニとタマゴと透明人間－",
@@ -2849,7 +2881,9 @@
             "Tokyo Ghetto",
             "トーキョーゲットー"
         ],
-        "relations": [],
+        "relations": [
+            "https://anilist.co/anime/149084"
+        ],
         "tags": [
             "music",
             "psychological",
@@ -3359,7 +3393,11 @@
         "synonyms": [
             "Free! Dive to the Future 今からでも分かる Free!シリーズ"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/12947",
+            "https://anisearch.com/anime/8639",
+            "https://anisearch.com/anime/9421"
+        ],
         "tags": [
             "club",
             "drama",
@@ -3473,6 +3511,7 @@
         "relations": [
             "https://anilist.co/anime/98503",
             "https://anime-planet.com/anime/school-babysitters",
+            "https://anisearch.com/anime/12350",
             "https://kitsu.io/anime/13265",
             "https://livechart.me/anime/2608",
             "https://myanimelist.net/anime/35222",
@@ -3793,6 +3832,9 @@
             "https://anime-planet.com/anime/gintama-porori-hen",
             "https://anime-planet.com/anime/gintama-shirogane-no-tamashii-hen",
             "https://anime-planet.com/anime/gintama-the-very-final",
+            "https://anisearch.com/anime/13151",
+            "https://anisearch.com/anime/14669",
+            "https://anisearch.com/anime/15184",
             "https://kitsu.io/anime/14095",
             "https://kitsu.io/anime/43683",
             "https://livechart.me/anime/1290",
@@ -4479,6 +4521,7 @@
             "ecchi",
             "female protagonist",
             "ganbatte",
+            "idol",
             "japan",
             "manga",
             "outdoor",
@@ -4897,7 +4940,9 @@
             "Hello Carbot Koong",
             "헬로카봇 쿵"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/14858"
+        ],
         "tags": [
             "action",
             "cg-anime"
@@ -5055,6 +5100,7 @@
             "https://anime-planet.com/anime/hitori-no-shita-the-outcast-2",
             "https://anime-planet.com/anime/hitori-no-shita-the-outcast-3",
             "https://anime-planet.com/anime/hitori-no-shita-the-outcast-recap",
+            "https://anisearch.com/anime/12466",
             "https://kitsu.io/anime/13885",
             "https://livechart.me/anime/10111",
             "https://livechart.me/anime/2213",
@@ -5459,6 +5505,7 @@
         "relations": [
             "https://anidb.net/anime/15493",
             "https://anilist.co/anime/117448",
+            "https://anime-planet.com/anime/5-fun-de-wakaru-how-not-to-summon-a-demon-lord",
             "https://anime-planet.com/anime/how-not-to-summon-a-demon-lord-omega",
             "https://anisearch.com/anime/15148",
             "https://kitsu.io/anime/43118",
@@ -7471,6 +7518,28 @@
     },
     {
         "sources": [
+            "https://anisearch.com/anime/17571"
+        ],
+        "title": "Ling Xie Ji",
+        "type": "tv",
+        "episodes": 2,
+        "status": "unknown",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17571.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17571.webp",
+        "synonyms": [
+            "灵邪记"
+        ],
+        "relations": [],
+        "tags": [
+            "cg-anime"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/lipton-watashitolipton",
             "https://kitsu.io/anime/41883",
             "https://myanimelist.net/anime/38023"
@@ -7529,6 +7598,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/11531",
+            "https://anisearch.com/anime/10729",
             "https://myanimelist.net/anime/31493",
             "https://myanimelist.net/anime/36447"
         ],
@@ -7623,6 +7693,7 @@
             "https://anime-planet.com/anime/lupin-the-3rd",
             "https://anime-planet.com/anime/lupin-the-3rd-part-5",
             "https://anime-planet.com/anime/lupin-the-3rd-the-first",
+            "https://anisearch.com/anime/12738",
             "https://myanimelist.net/anime/1412"
         ],
         "tags": [
@@ -8039,7 +8110,9 @@
             "Megalobox Shorts",
             "メガロボクス ピクチャードラマ"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/12910"
+        ],
         "tags": [
             "action",
             "boxing",
@@ -8218,6 +8291,7 @@
         "relations": [
             "https://anilist.co/anime/145850",
             "https://anime-planet.com/anime/green-dakara-x-mirai-no-mirai",
+            "https://anisearch.com/anime/14179",
             "https://myanimelist.net/anime/38028"
         ],
         "tags": [
@@ -8312,6 +8386,7 @@
             "cgi",
             "chinese animation",
             "comedy",
+            "crime",
             "cultivation",
             "demons",
             "drama",
@@ -8335,11 +8410,13 @@
             "reincarnation",
             "revenge",
             "shounen ai",
+            "suicide",
             "supernatural",
             "supernatural drama",
             "swordplay",
             "swords & co",
             "time skip",
+            "torture",
             "tragedy",
             "war",
             "wuxia",
@@ -8773,6 +8850,7 @@
             "https://anime-planet.com/anime/the-seven-deadly-sins-revival-of-the-commandments-ova",
             "https://anime-planet.com/anime/the-seven-deadly-sins-revival-of-the-commandments-prologue",
             "https://anime-planet.com/anime/the-seven-deadly-sins-signs-of-holy-war",
+            "https://anisearch.com/anime/10789",
             "https://kitsu.io/anime/8699",
             "https://livechart.me/anime/10292",
             "https://livechart.me/anime/10358",
@@ -9468,6 +9546,10 @@
             "https://anime-planet.com/anime/one-room-2nd-season-special",
             "https://anime-planet.com/anime/one-room-3rd-season",
             "https://anime-planet.com/anime/one-room-hanasaka-yuis-prologue",
+            "https://anisearch.com/anime/12007",
+            "https://anisearch.com/anime/13726",
+            "https://anisearch.com/anime/15029",
+            "https://anisearch.com/anime/15599",
             "https://kitsu.io/anime/12758",
             "https://kitsu.io/anime/41452",
             "https://kitsu.io/anime/43556",
@@ -9941,6 +10023,7 @@
             "https://myanimelist.net/anime/35073",
             "https://myanimelist.net/anime/37781",
             "https://myanimelist.net/anime/48895",
+            "https://notify.moe/anime/1w4Fu3Oig",
             "https://notify.moe/anime/LXvVrNCMg",
             "https://notify.moe/anime/ZwXG2Kimg"
         ],
@@ -10026,13 +10109,16 @@
             "Overlord III: Ple Ple Pleiades",
             "Overlord: Play Play Pleiades 3",
             "Pure Pure Pleiades 3",
+            "โอเวอร์ ลอร์ด จอมมารพิชิตโลก ภาค 3 ภาคพิเศษ",
             "オーバーロード ぷれぷれぷれあです 3",
+            "オーバーロード ぷれぷれぷれあです3",
             "オーバーロード ぷれぷれぷれあです３",
             "オーバーロード　ぷれぷれぷれあです3"
         ],
         "relations": [
             "https://anilist.co/anime/101083",
             "https://anilist.co/anime/101474",
+            "https://anilist.co/anime/151898",
             "https://anime-planet.com/anime/overlord-ii",
             "https://anime-planet.com/anime/overlord-ii-play-play-pleiades",
             "https://anime-planet.com/anime/overlord-iii",
@@ -10043,8 +10129,10 @@
             "https://anime-planet.com/anime/overlord-ple-ple-pleiades-theatrical-version",
             "https://anisearch.com/anime/13285",
             "https://anisearch.com/anime/13539",
+            "https://anisearch.com/anime/17536",
             "https://kitsu.io/anime/14269",
             "https://kitsu.io/anime/41174",
+            "https://kitsu.io/anime/46235",
             "https://livechart.me/anime/10571",
             "https://livechart.me/anime/10572",
             "https://livechart.me/anime/1685",
@@ -10061,6 +10149,8 @@
             "https://myanimelist.net/anime/37087",
             "https://myanimelist.net/anime/37675",
             "https://myanimelist.net/anime/48897",
+            "https://notify.moe/anime/5_64OFZig",
+            "https://notify.moe/anime/gDozjpgVR",
             "https://notify.moe/anime/uY4v2KmmR"
         ],
         "tags": [
@@ -10147,6 +10237,7 @@
             "animals",
             "based on a novel",
             "birds",
+            "child protagonists",
             "coming of age",
             "contemporary fantasy",
             "drama",
@@ -10736,6 +10827,11 @@
             "Feel the moment, now or never!"
         ],
         "relations": [
+            "https://anisearch.com/anime/14067",
+            "https://anisearch.com/anime/14071",
+            "https://anisearch.com/anime/14080",
+            "https://anisearch.com/anime/14081",
+            "https://anisearch.com/anime/15299",
             "https://myanimelist.net/anime/38486",
             "https://myanimelist.net/anime/38487",
             "https://myanimelist.net/anime/38488",
@@ -10789,6 +10885,7 @@
             "https://anime-planet.com/anime/22-7-nani-mo-shite-agerarenai",
             "https://anime-planet.com/anime/22-7-shampoo-no-nioi-ga-shita",
             "https://anime-planet.com/anime/227-kaze-wa-fuiteru-ka",
+            "https://anisearch.com/anime/12721",
             "https://myanimelist.net/anime/36191",
             "https://myanimelist.net/anime/37406",
             "https://myanimelist.net/anime/37589",
@@ -10902,6 +10999,7 @@
         "relations": [
             "https://anidb.net/anime/10001",
             "https://anilist.co/anime/19799",
+            "https://anisearch.com/anime/9036",
             "https://kitsu.io/anime/6425",
             "https://kitsu.io/anime/7875",
             "https://myanimelist.net/anime/10954",
@@ -10973,34 +11071,6 @@
             "kids",
             "non-human protagonists",
             "short episodes"
-        ],
-        "date": {
-            "season": "summer",
-            "year": 2018
-        }
-    },
-    {
-        "sources": [
-            "https://anisearch.com/anime/13800",
-            "https://myanimelist.net/anime/52470"
-        ],
-        "title": "STARTLINER",
-        "type": "special",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1911/125690.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1911/125690t.jpg",
-        "synonyms": [
-            "Startliner"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/37802"
-        ],
-        "tags": [
-            "comedy",
-            "music",
-            "school",
-            "slice of life"
         ],
         "date": {
             "season": "summer",
@@ -11616,6 +11686,7 @@
             "Flavours of Youth: Love in Shanghai",
             "Poem of Seasons Woven Together",
             "Shanghai Love",
+            "Shiki Oriori: O Sabor da Juventude",
             "Shikioriori Project Part 3",
             "Shikioriori: Shanghai Koi",
             "Si Shi Qing Chun",
@@ -12202,6 +12273,7 @@
         "sources": [
             "https://anidb.net/anime/14855",
             "https://anilist.co/anime/107909",
+            "https://anime-planet.com/anime/beyond-the-ocean",
             "https://anime-planet.com/anime/si-hai-jing-qi",
             "https://myanimelist.net/anime/38690",
             "https://notify.moe/anime/vrMEFSYMR"
@@ -12213,6 +12285,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1764/106055.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1764/106055t.jpg",
         "synonyms": [
+            "Beyond The Ocean",
             "Beyond the Ocean",
             "四海鲸骑"
         ],
@@ -12571,6 +12644,36 @@
             "fantasy",
             "magic",
             "monster"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2018
+        }
+    },
+    {
+        "sources": [
+            "https://anisearch.com/anime/13800",
+            "https://myanimelist.net/anime/52470"
+        ],
+        "title": "Startliner",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1911/125690.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1911/125690t.jpg",
+        "synonyms": [
+            "STARTLINER"
+        ],
+        "relations": [
+            "https://anisearch.com/anime/13613",
+            "https://myanimelist.net/anime/37802"
+        ],
+        "tags": [
+            "comedy",
+            "idols (female)",
+            "music",
+            "school",
+            "slice of life"
         ],
         "date": {
             "season": "summer",
@@ -13111,8 +13214,8 @@
         ],
         "title": "Tennis no Ouji-sama: Best Games!!",
         "type": "ova",
-        "episodes": 2,
-        "status": "ongoing",
+        "episodes": 4,
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1343/95287.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1343/95287t.jpg",
         "synonyms": [
@@ -13609,6 +13712,7 @@
             "https://anilist.co/anime/101633",
             "https://anime-planet.com/anime/afterglow-that-is-how-i-roll",
             "https://anime-planet.com/anime/bang-dream",
+            "https://anisearch.com/anime/11563",
             "https://kitsu.io/anime/41289",
             "https://myanimelist.net/anime/33573",
             "https://myanimelist.net/anime/36921",
@@ -14639,6 +14743,9 @@
             "https://anime-planet.com/anime/encouragement-of-climb-2",
             "https://anime-planet.com/anime/encouragement-of-climb-next-summit",
             "https://anime-planet.com/anime/encouragement-of-climb-omoide-present",
+            "https://anisearch.com/anime/12520",
+            "https://anisearch.com/anime/16069",
+            "https://anisearch.com/anime/9278",
             "https://kitsu.io/anime/13585",
             "https://kitsu.io/anime/44193",
             "https://kitsu.io/anime/8201",
@@ -14952,6 +15059,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/12057",
+            "https://anisearch.com/anime/11351",
             "https://myanimelist.net/anime/33089"
         ],
         "tags": [

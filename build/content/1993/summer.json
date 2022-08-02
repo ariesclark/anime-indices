@@ -34,8 +34,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/4678",
-            "https://anilist.co/anime/2467",
-            "https://anilist.co/anime/87478",
+            "https://anilist.co/anime/151765",
             "https://anime-planet.com/anime/tama-and-friends-3-choume-monogatari",
             "https://anime-planet.com/anime/tama-of-the-3rd-district-have-you-seen-my-tama",
             "https://anisearch.com/anime/3811",
@@ -367,6 +366,7 @@
             "Casshan: Robot Hunter",
             "Casshan: Robot Hunter Casshern",
             "Casshern",
+            "Kyashan - Il mito",
             "Kyashan il mito",
             "Ловецът на роботи Кашан",
             "קשאן",
@@ -907,6 +907,7 @@
             "Dragon Ball Z: Gaiden - Saiya-jin Zetsumetsu Keikaku",
             "Dragon Ball Z: Plan to Destroy the Saiyajin",
             "Dragon Ball Z: Plan to Destroy the Saiyans",
+            "Dragon Ball Z: Plan to Eradicate the Saiyans",
             "Dragon Ball Z: Plan zniszczenia Saiyan",
             "Dragon Ball Z: Plan zniszczenia Saiyaninów",
             "Dragon Ball Z: Plan zur Vernichtung der Super-Saiyajin",
@@ -1042,6 +1043,7 @@
         "tags": [
             "action",
             "anti-hero",
+            "asia",
             "based on a manga",
             "bionic powers",
             "body horror",
@@ -1302,6 +1304,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1744/108568.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1744/108568t.jpg",
         "synonyms": [
+            "Hello Kitty e os Seus Amigos - A Princesa de Bambu",
             "Hello Kitty in The Bamboo Princess",
             "Hello Kitty in the Bamboo Princess",
             "Hello Kitty's Animation Theater 4a",
@@ -1357,10 +1360,12 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/2/47809t.jpg",
         "synonyms": [
             "Hello Kitty and Friends: Snow White",
+            "Hello Kitty e os Seus Amigos - Hello Kitty: Branca de Neve",
             "Hello Kitty in Snow White",
             "Hello Kitty in Snow White and the Seven Dwarfs",
-            "Hello Kitty no Shirayuki Hime",
+            "Hello Kitty no Shirayukihime",
             "Hello Kitty y sus Amigos: Blancanieves y los Siete Enanitos",
+            "Hello Kitty: Snow White",
             "Hello Kitty`s Animation Theater 1",
             "ハローキティのしらゆきひめ"
         ],
@@ -1377,6 +1382,7 @@
             "https://anime-planet.com/anime/hello-kitty-no-yappari-mama-ga-suki",
             "https://anime-planet.com/anime/hello-kitty-no-yume-dorobou",
             "https://anime-planet.com/anime/hello-kitty-no-yume-no-oshiro-no-ouji-sama",
+            "https://anisearch.com/anime/5462",
             "https://kitsu.io/anime/10736",
             "https://myanimelist.net/anime/30263",
             "https://notify.moe/anime/x6QwpKiiR"
@@ -1868,6 +1874,7 @@
             "https://anime-planet.com/anime/kiki-to-lala-no-mamatte-suteki",
             "https://anime-planet.com/anime/kiki-to-lala-no-ohime-sama-ni-naritai",
             "https://anime-planet.com/anime/kiki-to-lala-no-papa-to-mama-ni-aitai",
+            "https://anisearch.com/anime/4767",
             "https://kitsu.io/anime/5660",
             "https://kitsu.io/anime/8366",
             "https://kitsu.io/anime/9887",
@@ -2080,6 +2087,31 @@
             "supernatural drama",
             "thievery",
             "thieves"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 1993
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/30057"
+        ],
+        "title": "Mabeobsa-ui Adeul Cory",
+        "type": "tv",
+        "episodes": 13,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/2/72012.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/2/72012t.jpg",
+        "synonyms": [
+            "Wizard, the Son of Kori",
+            "마법사의 아들 코리"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "comedy",
+            "fantasy"
         ],
         "date": {
             "season": "summer",
@@ -2773,11 +2805,12 @@
             "Tenchi Muyo! The Night Before The Carnival",
             "Tenchi Muyo! The Night Before the Carnival!",
             "Tenchi Muyo! The Night before the Carnival",
-            "Tenchi Muyou! Ryououki Omatsuri Zen'ya no Yoru!",
             "Tenchi Muyou! Ryououki Omatsuri Zen`ya no Yoru!",
             "Tenchi Muyou! Ryououki Omatsuri Zenya no Yoru!",
+            "Tenchi Muyou! Ryououki Omatsuri Zen’ya no Yoru!",
             "Tenchi Muyou! The Night Before the Carnival",
-            "Tenchi Muyō! Ryōōki Omatsuri Zen'ya no Yoru!",
+            "Tenchi Muyō! Ryōōki Omatsuri Zen’ya no Yoru!",
+            "Tenchi-Muyo: Ryo-Ohki ¡La Noche Antes del Carnaval!",
             "tenchiova1.1",
             "天地無用! 魎皇鬼 お祭り前夜の夜!",
             "天地無用！ 魎皇鬼 スペシャル お祭り前日の夜！",

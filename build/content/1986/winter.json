@@ -595,6 +595,7 @@
             "As Bolas Máxicas",
             "Bola de Drac",
             "Bola de Dragón",
+            "Bảy Viên Ngọc Rồng",
             "DB",
             "DBTV",
             "DRAGON BALL",
@@ -731,9 +732,11 @@
             "shapeshifting",
             "shounen",
             "super power",
+            "supernatural",
             "superpower",
             "tanned skin",
             "time skip",
+            "travel",
             "wuxia"
         ],
         "date": {
@@ -978,6 +981,7 @@
             "https://anidb.net/anime/3667",
             "https://anilist.co/anime/3807",
             "https://anime-planet.com/anime/honoo-no-alpenrose-jeudi-and-lundi",
+            "https://anisearch.com/anime/1228",
             "https://kitsu.io/anime/3263",
             "https://myanimelist.net/anime/35627",
             "https://myanimelist.net/anime/35628",
@@ -1187,6 +1191,7 @@
             "https://anidb.net/anime/1459",
             "https://anilist.co/anime/5153",
             "https://anime-planet.com/anime/panzer-world-galient",
+            "https://anisearch.com/anime/2946",
             "https://kitsu.io/anime/3952",
             "https://livechart.me/anime/6756",
             "https://myanimelist.net/anime/5153",
@@ -1340,6 +1345,7 @@
             "https://anime-planet.com/anime/magical-angel-creamy-mami-eien-no-once-more",
             "https://anime-planet.com/anime/magical-angel-creamy-mami-long-goodbye",
             "https://anime-planet.com/anime/magical-angel-creamy-mami-zutto-kitto-motto",
+            "https://anisearch.com/anime/2967",
             "https://kitsu.io/anime/1843",
             "https://kitsu.io/anime/3478",
             "https://myanimelist.net/anime/2044",
@@ -1691,6 +1697,8 @@
             "https://anilist.co/anime/2044",
             "https://anime-planet.com/anime/heavy-metal-l-gaim",
             "https://anime-planet.com/anime/magical-angel-creamy-mami",
+            "https://anisearch.com/anime/1654",
+            "https://anisearch.com/anime/2967",
             "https://kitsu.io/anime/2362",
             "https://myanimelist.net/anime/2044",
             "https://myanimelist.net/anime/2598",
@@ -2057,7 +2065,9 @@
             "Sōkō Kihei Votoms: Wōdo",
             "装甲騎兵ボトムズ ウド"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/2498"
+        ],
         "tags": [
             "action",
             "drama",

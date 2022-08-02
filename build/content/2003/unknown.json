@@ -490,8 +490,8 @@
         "type": "tv",
         "episodes": 60,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1941/126103.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1941/126103t.jpg",
         "synonyms": [
             "Happy Stuff",
             "快乐东西"
@@ -502,12 +502,12 @@
             "https://anime-planet.com/anime/kuaile-dongxi-2nd-season",
             "https://anime-planet.com/anime/kuaile-xiao-dongxi",
             "https://myanimelist.net/anime/45356",
-            "https://myanimelist.net/anime/45359"
+            "https://myanimelist.net/anime/45359",
+            "https://myanimelist.net/anime/45360"
         ],
         "tags": [
             "chinese animation",
             "comedy",
-            "kids",
             "short episodes"
         ],
         "date": {
@@ -534,7 +534,12 @@
             "球体パニックアドベンチャー!",
             "球体パニックアドベンチャー！"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/1095",
+            "https://anisearch.com/anime/2131",
+            "https://anisearch.com/anime/2227",
+            "https://anisearch.com/anime/2938"
+        ],
         "tags": [
             "action",
             "adventure",

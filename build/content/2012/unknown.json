@@ -1158,8 +1158,8 @@
         "type": "special",
         "episodes": 2,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
         "synonyms": [
             "Aim For the Top! Science Lessons Return",
             "Top wo Nerae! Science Lessons Return"
@@ -1809,6 +1809,35 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/45361",
+            "https://myanimelist.net/anime/46515"
+        ],
+        "title": "Kuai Yue Jia Nianhua",
+        "type": "tv",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1610/126108.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1610/126108t.jpg",
+        "synonyms": [
+            "Happy Stuff 5",
+            "Kuaile Dongxi 5",
+            "快乐家年华"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/45358",
+            "https://myanimelist.net/anime/45362"
+        ],
+        "tags": [
+            "comedy",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/kuaile-tuo-mo-ta-xiao-zhen-le-fantian",
             "https://myanimelist.net/anime/45519"
         ],
@@ -2362,7 +2391,6 @@
     {
         "sources": [
             "https://anilist.co/anime/151089",
-            "https://anime-planet.com/anime/mirror",
             "https://myanimelist.net/anime/52445"
         ],
         "title": "Mirror",
@@ -2376,9 +2404,7 @@
         ],
         "relations": [],
         "tags": [
-            "abstract",
-            "avant garde",
-            "shorts"
+            "avant garde"
         ],
         "date": {
             "season": "unknown",
@@ -2551,6 +2577,33 @@
         "tags": [
             "chinese animation",
             "family friendly",
+            "fantasy",
+            "kids"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2012
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/45369"
+        ],
+        "title": "Mumu Buluo",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1612/126119.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1612/126119t.jpg",
+        "synonyms": [
+            "Mumu Tribe",
+            "木木部落"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/45370"
+        ],
+        "tags": [
+            "anthropomorphic",
             "fantasy",
             "kids"
         ],
@@ -2871,8 +2924,8 @@
         ],
         "title": "Orushipe Suopu",
         "type": "special",
-        "episodes": 0,
-        "status": "ongoing",
+        "episodes": 22,
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1945/98529.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1945/98529t.jpg",
         "synonyms": [
@@ -4211,9 +4264,10 @@
         "type": "tv",
         "episodes": 88,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1431/123972.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1431/123972t.jpg",
         "synonyms": [
+            "QiQi KeKe: Xi Mu Ba Long Jiazu",
             "西姆霸龙家族"
         ],
         "relations": [

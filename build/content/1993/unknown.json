@@ -190,31 +190,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/30057"
-        ],
-        "title": "Mabeobsa-ui Adeul Cory",
-        "type": "tv",
-        "episodes": 13,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/2/72012.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/2/72012t.jpg",
-        "synonyms": [
-            "Wizard, the Son of Kori",
-            "마법사의 아들 코리"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "comedy",
-            "fantasy"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 1993
-        }
-    },
-    {
-        "sources": [
             "https://anime-planet.com/anime/muka-muka-paradise-okaa-san-to-manabu-koutsuu-anzen"
         ],
         "title": "Muka Muka Paradise: Okaa-san to Manabu Koutsuu Anzen",
@@ -436,6 +411,32 @@
     },
     {
         "sources": [
+            "https://kitsu.io/anime/40890",
+            "https://myanimelist.net/anime/36313",
+            "https://notify.moe/anime/aQod2KmmR"
+        ],
+        "title": "Shouka Robo Zeres: Fire Dragon wo Taose!",
+        "type": "ova",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/3/87715.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/3/87715t.jpg",
+        "synonyms": [
+            "消火ロボゼウレス　ファイアドラゴンを倒せ！"
+        ],
+        "relations": [],
+        "tags": [
+            "kids",
+            "mecha",
+            "sci-fi"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 1993
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/tama-of-the-3rd-district-have-you-seen-my-tama-1993"
         ],
         "title": "TAMA of the 3rd District: Have You Seen My TAMA? (1993)",
@@ -625,7 +626,9 @@
             "The Adventures of Willy Fog: 20,000 Leagues Under the Sea",
             "Willy Fog En 20.000 leguas de viaje submarino"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/4442"
+        ],
         "tags": [
             "adventure",
             "beastmen",
@@ -714,7 +717,8 @@
         "relations": [],
         "tags": [
             "chinese animation",
-            "kids"
+            "kids",
+            "stop motion animation"
         ],
         "date": {
             "season": "unknown",

@@ -212,6 +212,7 @@
             "https://myanimelist.net/anime/51243"
         ],
         "tags": [
+            "animals",
             "based on a manga",
             "basketball",
             "cgi",
@@ -227,6 +228,7 @@
             "high school",
             "iyashikei",
             "kuudere",
+            "male harem",
             "male protagonist",
             "manga",
             "meta",
@@ -274,6 +276,28 @@
             "idols (female)",
             "music",
             "science fiction"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anisearch.com/anime/17553"
+        ],
+        "title": "Anata ga Doko ka de",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17553.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17553.webp",
+        "synonyms": [
+            "あなたがどこかで"
+        ],
+        "relations": [],
+        "tags": [
+            "independent anime"
         ],
         "date": {
             "season": "spring",
@@ -390,6 +414,7 @@
         "tags": [
             "association football",
             "based on a manga",
+            "coming of age",
             "football",
             "ganbatte",
             "hero of strong character",
@@ -400,12 +425,14 @@
             "present",
             "primarily male cast",
             "primarily teen cast",
+            "school",
             "school clubs",
             "school life",
             "seinen",
             "soccer",
             "sports",
-            "team sports"
+            "team sports",
+            "time skip"
         ],
         "date": {
             "season": "spring",
@@ -453,7 +480,6 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1786/122339.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1786/122339t.jpg",
         "synonyms": [
-            ", Baraou no Souretsu Episode 12.5, Requiem of the Rose King Recap, Requiem of the Rose King Episode 12.5, Requiem of the Rose King Folge 12.5",
             "Bara Ou no Souretsu Episode 12.5",
             "Bara Ou no Souretsu Recap",
             "Bara Ou no Souretsu Special",
@@ -464,11 +490,13 @@
             "Requiem of the Rose King 12.5",
             "Requiem of the Rose King : Rencontres et Séparations",
             "Requiem of the Rose King Episode 12.5",
+            "Requiem of the Rose King Folge 12.5",
             "Requiem of the Rose King Recap",
             "Requiem of the Rose King Special",
             "Requiem of the Rose King: Ausgewählte Szenen aus dem ersten Teil - Von Begegnungen und Abschieden",
             "Requiem of the Rose King: Part One Digest - Meetings and Partings",
             "Requiem of the Rose King: Resumen de la primera parte - Encuentros y despedidas",
+            "Requiem of the Rose King: Resumen de la primera temporada",
             "薔薇王の葬列",
             "薔薇王の葬列 第1クールダイジェスト～出逢いと別離～"
         ],
@@ -596,7 +624,8 @@
             "revenge",
             "seinen",
             "serial killers",
-            "vampire"
+            "vampire",
+            "violence"
         ],
         "date": {
             "season": "spring",
@@ -667,12 +696,12 @@
         ],
         "tags": [
             "amnesia",
-            "cyborg",
             "female protagonist",
             "gambling",
             "ganbatte",
             "gangs",
             "golf",
+            "lgbtq+ themes",
             "mafia",
             "new",
             "original work",
@@ -683,8 +712,8 @@
             "shoujo ai",
             "sports",
             "super power",
-            "tragedy",
-            "virtual world"
+            "virtual world",
+            "yuri"
         ],
         "date": {
             "season": "spring",
@@ -1129,7 +1158,7 @@
         ],
         "title": "Cap Kakumei Bottleman DX",
         "type": "tv",
-        "episodes": 17,
+        "episodes": 18,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1699/121192.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1699/121192t.jpg",
@@ -1180,7 +1209,7 @@
         ],
         "title": "Chiikawa",
         "type": "tv",
-        "episodes": 17,
+        "episodes": 18,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1783/121944.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1783/121944t.jpg",
@@ -1484,7 +1513,6 @@
             "sci-fi",
             "science fiction",
             "science-fiction",
-            "shounen",
             "space",
             "special squads",
             "super power",
@@ -1842,34 +1870,9 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/duel-masters-king-max"
-        ],
-        "title": "Duel Masters King Max",
-        "type": "tv",
-        "episodes": 16,
-        "status": "unknown",
-        "picture": "https://cdn.anime-planet.com/anime/primary/duel-masters-king-max-1.webp?t=1650756462",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/duel-masters-king-max-1-285x399.webp?t=1650756462",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/duel-masters-king-2021"
-        ],
-        "tags": [
-            "based on a card game",
-            "card battles",
-            "fantasy",
-            "proxy battles",
-            "shounen"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/17195",
             "https://anilist.co/anime/146865",
+            "https://anime-planet.com/anime/duel-masters-king-max",
             "https://anisearch.com/anime/17091",
             "https://kitsu.io/anime/46017",
             "https://livechart.me/anime/11086",
@@ -1877,7 +1880,7 @@
         ],
         "title": "Duel Masters King Max",
         "type": "tv",
-        "episodes": 40,
+        "episodes": 16,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1191/122796.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1191/122796t.jpg",
@@ -1889,6 +1892,7 @@
         "relations": [
             "https://anidb.net/anime/16009",
             "https://anilist.co/anime/130584",
+            "https://anime-planet.com/anime/duel-masters-king-2021",
             "https://anisearch.com/anime/16166",
             "https://anisearch.com/anime/17517",
             "https://kitsu.io/anime/46018",
@@ -1913,11 +1917,14 @@
         "tags": [
             "action",
             "adventure",
+            "based on a card game",
             "card battle",
+            "card battles",
             "card games",
             "comedy",
             "fantasy",
             "kids",
+            "proxy battles",
             "shounen",
             "time travel"
         ],
@@ -2737,6 +2744,7 @@
             "based on a light novel",
             "cheats",
             "comedy",
+            "daily life",
             "drama",
             "economics",
             "fantasy",
@@ -2903,6 +2911,7 @@
             "https://anilist.co/anime/144853",
             "https://anime-planet.com/anime/insect-land",
             "https://anisearch.com/anime/16586",
+            "https://kitsu.io/anime/46292",
             "https://livechart.me/anime/10952",
             "https://myanimelist.net/anime/50600",
             "https://notify.moe/anime/JySXXYYnR"
@@ -2927,6 +2936,30 @@
             "non-human protagonists",
             "short episodes",
             "slice of life"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/148771",
+            "https://myanimelist.net/anime/51767"
+        ],
+        "title": "Inside",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1790/123643.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1790/123643t.jpg",
+        "synonyms": [
+            "INSIDE"
+        ],
+        "relations": [],
+        "tags": [
+            "avant garde",
+            "music"
         ],
         "date": {
             "season": "spring",
@@ -3451,7 +3484,7 @@
         ],
         "title": "Jiu Tian Xuan Di Jue 2",
         "type": "ona",
-        "episodes": 26,
+        "episodes": 28,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1929/124229.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1929/124229t.jpg",
@@ -4933,6 +4966,7 @@
             "銀河英雄伝説 Die Neue These 激突　第三章"
         ],
         "relations": [
+            "https://anime-planet.com/anime/legend-of-the-galactic-heroes-die-neue-these-fourth-1",
             "https://anime-planet.com/anime/legend-of-the-galactic-heroes-die-neue-these-third-2",
             "https://livechart.me/anime/10151",
             "https://livechart.me/anime/10832",
@@ -5343,6 +5377,32 @@
             "urban fantasy",
             "witch",
             "witches"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anisearch.com/anime/17557"
+        ],
+        "title": "Mahou Tsukai Reimeiki × Machikado Mazoku 2-choume Collabo Mini Anime: Hen’na Zou A no Yukusaki",
+        "type": "ona",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/17/17557.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/17/17557.webp",
+        "synonyms": [
+            "Mahou Tsukai Reimeiki x Machikado Mazoku 2-choume Collabo Mini Anime: Hen’na Zou A no Yukusaki",
+            "Mahō Tsukai Reimeiki × Machikado Mazoku Collabo Mini Anime: 2-chōme: Hen’na Zō A no Yukusaki",
+            "魔法使い黎明期×まちカド2コラボ企画 コラボ ミニアニメ 変な像Aの行く先"
+        ],
+        "relations": [
+            "https://anisearch.com/anime/17526"
+        ],
+        "tags": [
+            "comedy"
         ],
         "date": {
             "season": "spring",
@@ -5935,7 +5995,7 @@
         ],
         "title": "Motto! Majime ni Fumajime Kaiketsu Zorori 3rd Season",
         "type": "tv",
-        "episodes": 16,
+        "episodes": 17,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1186/118941.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1186/118941t.jpg",
@@ -6353,6 +6413,7 @@
             "One Piece Episode 1022.5",
             "One Piece Recap",
             "One Piece Special",
+            "One Piece ¡Una anatomía completa! ¡La leyenda de Kozuki Oden!",
             "One Piece: A Comprehensive Anatomy! The Legend of Kozuki Oden!",
             "One Piece: Dai Tettei Kaibō! Kōzuki Oden Densetsu!",
             "One Piece: Eine tiefgründige Analyse. Die Legende von Oden Kozuki.",
@@ -6430,7 +6491,6 @@
             "demons",
             "fantasy",
             "female protagonist",
-            "half-length episodes",
             "henshin",
             "high school",
             "idol",
@@ -6447,6 +6507,7 @@
             "real robot",
             "school",
             "school life",
+            "short episodes",
             "slice of life",
             "transfer students"
         ],
@@ -6870,9 +6931,13 @@
         "relations": [],
         "tags": [
             "adult cast",
+            "anachronism",
+            "band",
             "bar",
             "based on a manga",
+            "biographical",
             "cgi",
+            "classic literature",
             "comedy",
             "contemporary fantasy",
             "dancing",
@@ -6949,7 +7014,7 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1364/123283.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1364/123283t.jpg",
         "synonyms": [
-            "Pokemon Legends Arceus: Yuki Hodo Kishi Futāi",
+            "Pokemon Legends Arceus: Yuki Hodokishi Futaai",
             "Pokemon Legends: Hisuian Snow",
             "Pokemon: Hisuian Snow",
             "Pokémon LEGENDS アルセウス",
@@ -6962,6 +7027,7 @@
             "Pokémon: Nieves de Hisui",
             "Pokémon: Schnee in Hisui",
             "Pokémon: as neves de Hisui",
+            "Pokémon  : Les neiges de Hisui",
             "Yuki Hodokishi Futaai",
             "雪ほどきし二藍"
         ],
@@ -7793,6 +7859,7 @@
             "lgbtq+ themes",
             "magic",
             "male protagonist",
+            "military",
             "overpowered main characters",
             "reincarnation",
             "romance",
@@ -7801,7 +7868,8 @@
             "swords & co",
             "time manipulation",
             "time skip",
-            "tsundere"
+            "tsundere",
+            "war"
         ],
         "date": {
             "season": "spring",
@@ -8367,6 +8435,7 @@
             "science fiction",
             "science-fiction",
             "shounen",
+            "splatter",
             "supernatural drama",
             "superpowers",
             "swords & co"
@@ -8727,7 +8796,6 @@
             "romance",
             "rpg",
             "seinen",
-            "shounen",
             "slavery",
             "summoned into another world",
             "swords & co",
@@ -8937,32 +9005,6 @@
     },
     {
         "sources": [
-            "https://myanimelist.net/anime/51755"
-        ],
-        "title": "Titipo Titipo 3",
-        "type": "tv",
-        "episodes": 26,
-        "status": "ongoing",
-        "picture": "https://cdn.myanimelist.net/images/anime/1387/123607.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1387/123607t.jpg",
-        "synonyms": [
-            "Titipo Titipo Season 3",
-            "띠띠뽀 띠띠뽀 3"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/51754"
-        ],
-        "tags": [
-            "kids",
-            "racing"
-        ],
-        "date": {
-            "season": "spring",
-            "year": 2022
-        }
-    },
-    {
-        "sources": [
             "https://anidb.net/anime/17279",
             "https://anilist.co/anime/130305",
             "https://anisearch.com/anime/17260",
@@ -9075,6 +9117,7 @@
             "لعبة الأصدقاء",
             "โทโมดาจิ เกมมิตรภาพ",
             "トモダチゲーム",
+            "朋友游戏",
             "朋友遊戲",
             "친구게임"
         ],
@@ -10144,9 +10187,9 @@
         "picture": "https://cdn.myanimelist.net/images/anime/1934/122301.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1934/122301t.jpg",
         "synonyms": [
-            ", Dropout Braver: Next Workplace Is Satan’s Castle, I Will Quit Being the Hero: Yamemasu Tsugi no Shokuba ha Mao Jo",
             "Dropout Braver: Next Workplace Is Satan’s Castle",
             "I Will Quit Being the Hero",
+            "I Will Quit Being the Hero: Yamemasu Tsugi no Shokuba ha Mao Jo",
             "I'm Quitting Heroing",
             "I'm Quitting Heroingl",
             "I`m Quitting Heroing",
@@ -10287,7 +10330,7 @@
         ],
         "title": "Yu☆Gi☆Oh!: Go Rush!!",
         "type": "tv",
-        "episodes": 17,
+        "episodes": 18,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1556/122518.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1556/122518t.jpg",
@@ -10386,8 +10429,8 @@
         ],
         "title": "Zanting! Rang Wo Cha Gonglüe",
         "type": "ona",
-        "episodes": 11,
-        "status": "ongoing",
+        "episodes": 12,
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1984/123836.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1984/123836t.jpg",
         "synonyms": [
@@ -10417,6 +10460,30 @@
             "shoujo",
             "video games",
             "yuri"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2022
+        }
+    },
+    {
+        "sources": [
+            "https://anilist.co/anime/151636",
+            "https://myanimelist.net/anime/52513"
+        ],
+        "title": "Zetsubou-san",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1031/125923.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1031/125923t.jpg",
+        "synonyms": [
+            "Despair",
+            "絶望さん"
+        ],
+        "relations": [],
+        "tags": [
+            "music"
         ],
         "date": {
             "season": "spring",

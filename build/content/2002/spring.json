@@ -629,6 +629,7 @@
             "drama",
             "earth",
             "future",
+            "mars",
             "mecha",
             "new",
             "non-human protagonists",
@@ -686,6 +687,9 @@
             "https://anime-planet.com/anime/atashinchi-movie",
             "https://anime-planet.com/anime/atashinchi-specials",
             "https://anime-planet.com/anime/shin-atashinchi",
+            "https://anisearch.com/anime/10531",
+            "https://anisearch.com/anime/1293",
+            "https://anisearch.com/anime/6457",
             "https://kitsu.io/anime/10977",
             "https://kitsu.io/anime/5873",
             "https://kitsu.io/anime/5874",
@@ -768,6 +772,8 @@
             "https://anilist.co/anime/659",
             "https://anime-planet.com/anime/azumanga-daioh-the-very-short-movie",
             "https://anime-planet.com/anime/azumanga-web-daioh",
+            "https://anisearch.com/anime/3886",
+            "https://anisearch.com/anime/4207",
             "https://kitsu.io/anime/1433",
             "https://kitsu.io/anime/606",
             "https://myanimelist.net/anime/1593",
@@ -1026,6 +1032,13 @@
             "https://anilist.co/anime/969",
             "https://anime-planet.com/anime/chibits",
             "https://anime-planet.com/anime/chobits-hibiya-and-kotoko-chat",
+            "https://anisearch.com/anime/1705",
+            "https://anisearch.com/anime/38",
+            "https://anisearch.com/anime/4529",
+            "https://anisearch.com/anime/4803",
+            "https://anisearch.com/anime/4916",
+            "https://anisearch.com/anime/5183",
+            "https://anisearch.com/anime/759",
             "https://kitsu.io/anime/1176",
             "https://kitsu.io/anime/551",
             "https://myanimelist.net/anime/1311",
@@ -1207,6 +1220,7 @@
             "https://anime-planet.com/anime/crayon-shin-chan-movie-7-bakuhatsu-onsen-wakuwaku-daikessen",
             "https://anime-planet.com/anime/crayon-shin-chan-movie-8-arashi-wo-yobu-jungle",
             "https://anime-planet.com/anime/crayon-shin-chan-movie-9-the-adult-empire-strikes-back",
+            "https://anisearch.com/anime/178",
             "https://kitsu.io/anime/2224",
             "https://kitsu.io/anime/5312",
             "https://kitsu.io/anime/856",
@@ -1670,6 +1684,7 @@
             "anthropomorphism",
             "artificial intelligence",
             "bionic powers",
+            "child protagonists",
             "comedy",
             "drama",
             "family friendly",
@@ -3140,7 +3155,10 @@
             "Sweat Punch Series 3",
             "喜劇"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/785",
+            "https://anisearch.com/anime/854"
+        ],
         "tags": [
             "bionic powers",
             "drama",
@@ -3875,12 +3893,15 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/9/10234t.jpg",
         "synonyms": [
             "Nakoruru",
+            "Nakoruru: A Gift from That Person",
             "nakoruru",
+            "ناکورورو: هدیه ای از آن شخص",
             "ナコルル ~あのひとからのおくりもの~",
             "ナコルル 〜あのひとからのおくりもの〜",
             "ナコルル ～あのひとからのおくりもの～"
         ],
         "relations": [
+            "https://anidb.net/anime/932",
             "https://anidb.net/anime/960",
             "https://anilist.co/anime/2591",
             "https://anilist.co/anime/839",
@@ -4113,6 +4134,7 @@
             "asia",
             "based on a manga",
             "celestial beings",
+            "child protagonists",
             "comedy",
             "contemporary fantasy",
             "demons",
@@ -4162,10 +4184,11 @@
             "PAAB",
             "Psychic Academy Aura Banshou",
             "Psychic Academy Aura Banshō",
-            "Psychic Academy Oura Banshou",
             "Psychic Academy Ourabanshou",
+            "Psychic Academy: Oura Banshou",
             "Ψchic academy",
             "φchic academy",
+            "サイキックアカデミー　煌羅万象",
             "サイキックアカデミー煌羅万象"
         ],
         "relations": [],
@@ -4550,7 +4573,6 @@
             "alien",
             "aliens",
             "comedy",
-            "crime",
             "detective",
             "ecchi",
             "female harem",
@@ -4562,6 +4584,7 @@
             "original work",
             "police",
             "policeman",
+            "present",
             "primarily female cast",
             "romance",
             "sci fi",
@@ -4996,7 +5019,8 @@
             "わがまま☆フェアリー ミルモでポン！"
         ],
         "relations": [
-            "https://anidb.net/anime/3196"
+            "https://anidb.net/anime/3196",
+            "https://anisearch.com/anime/3279"
         ],
         "tags": [
             "comedy",
@@ -5496,10 +5520,10 @@
             "original work",
             "racing",
             "sci-fi",
+            "science fiction",
             "science-fiction",
             "slapstick",
             "slice of life",
-            "special squads",
             "sports",
             "street racing"
         ],

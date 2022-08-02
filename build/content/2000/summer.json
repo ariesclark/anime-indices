@@ -35,7 +35,6 @@
             "alien",
             "aliens",
             "alternative past",
-            "asia",
             "bullying",
             "comedy",
             "coming of age",
@@ -48,7 +47,6 @@
             "food",
             "gunfights",
             "historical",
-            "japan",
             "loli",
             "mecha",
             "monster",
@@ -56,6 +54,7 @@
             "nudity",
             "original work",
             "parallel world",
+            "past",
             "present",
             "psychological drama",
             "robots",
@@ -170,6 +169,8 @@
             "https://anime-planet.com/anime/tsubasa-reservoir-chronicle-the-movie-the-princess-in-the-birdcage-kingdom",
             "https://anime-planet.com/anime/tsubasa-reservoir-chronicle-tokyo-revelations",
             "https://anime-planet.com/anime/tsubasa-spring-thunder-chronicle",
+            "https://anisearch.com/anime/1913",
+            "https://anisearch.com/anime/8381",
             "https://kitsu.io/anime/12237",
             "https://kitsu.io/anime/207",
             "https://kitsu.io/anime/963",
@@ -257,6 +258,7 @@
             "https://anime-planet.com/anime/cardcaptor-sakura-specials",
             "https://anime-planet.com/anime/cardcaptor-sakura-the-movie",
             "https://anime-planet.com/anime/cardcaptor-sakura-the-movie-2-the-sealed-card",
+            "https://anisearch.com/anime/2051",
             "https://kitsu.io/anime/339",
             "https://livechart.me/anime/2198",
             "https://livechart.me/anime/2650",
@@ -639,6 +641,7 @@
             "https://anilist.co/anime/552",
             "https://anime-planet.com/anime/digimon-adventure",
             "https://anime-planet.com/anime/digimon-adventure-02",
+            "https://anisearch.com/anime/2710",
             "https://kitsu.io/anime/509",
             "https://livechart.me/anime/3730",
             "https://livechart.me/anime/3917",
@@ -749,7 +752,9 @@
             "Monster Collection Knights: Legend of the Fire Dragon",
             "劇場版六門天外モンコレナイト 伝説のファイアドラゴン"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/2465"
+        ],
         "tags": [
             "action",
             "adventure",
@@ -812,13 +817,13 @@
             "japan",
             "manga",
             "nudity",
+            "present",
             "primarily female cast",
             "sci-fi",
             "science fiction",
             "science-fiction",
             "shounen",
-            "supernatural",
-            "working life"
+            "supernatural"
         ],
         "date": {
             "season": "summer",
@@ -1011,6 +1016,36 @@
             "science-fiction",
             "shounen",
             "slapstick"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2000
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/45344"
+        ],
+        "title": "Happy Fuzi",
+        "type": "tv",
+        "episodes": 104,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1703/126065.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1703/126065t.jpg",
+        "synonyms": [
+            "Ha Pi Fuzi",
+            "Happy Father Happy Son",
+            "Happy Father and Son",
+            "哈皮父子"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/45345",
+            "https://myanimelist.net/anime/45347"
+        ],
+        "tags": [
+            "comedy",
+            "fantasy",
+            "kids"
         ],
         "date": {
             "season": "summer",
@@ -1397,6 +1432,7 @@
             "https://anime-planet.com/anime/love-hina-final-selection",
             "https://anime-planet.com/anime/love-hina-spring-special-i-wish-your-dream",
             "https://anime-planet.com/anime/love-hina-xmas-special-silent-eve",
+            "https://anisearch.com/anime/1498",
             "https://kitsu.io/anime/166",
             "https://livechart.me/anime/3464",
             "https://livechart.me/anime/3471",
@@ -2162,6 +2198,7 @@
             "聖戦士ダンバイン 編集版"
         ],
         "relations": [
+            "https://anisearch.com/anime/623",
             "https://kitsu.io/anime/827",
             "https://myanimelist.net/anime/929",
             "https://notify.moe/anime/hmnJcKmiR"
@@ -2570,6 +2607,7 @@
             "Pocket Monsters OVA Summary",
             "Pokemon Indigo League Recap",
             "Pokemon: Masara Town Arc Recaps",
+            "TV Ban Pocket Monsters Special: Masara Town Hen Soushuuhen",
             "TV-ban Pocket Monsters Special Masara Town Hen Soushuuhen",
             "TV-ban Pocket Monsters Special Masara Town Hen Sōshūhen",
             "TV-ban Pokemon Special Masara Town-hen Soushuuhen",
@@ -3030,6 +3068,7 @@
             "Vampire Hunter: Cazador De Espíritus",
             "Vampyrų Medžiotojas D: Kraujo troškimas",
             "vhd2",
+            "شکارچی خون آشام دی: خونخواهی",
             "ばんぱいあはんたーでぃー",
             "バンパイアハンターD",
             "バンパイアハンターD (2001)",
@@ -3255,10 +3294,10 @@
             "original work",
             "racing",
             "sci-fi",
+            "science fiction",
             "science-fiction",
             "shounen",
             "slice of life",
-            "special squads",
             "sports",
             "street racing",
             "tanned skin",

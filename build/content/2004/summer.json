@@ -168,7 +168,7 @@
             "https://notify.moe/anime/cvTEcFiig"
         ],
         "title": "Azusa, Otetsudai Shimasu!",
-        "type": "ova",
+        "type": "special",
         "episodes": 1,
         "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/13/18625.jpg",
@@ -672,6 +672,34 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/diao-man-gonzhu-gan-fu-ma",
+            "https://myanimelist.net/anime/44725"
+        ],
+        "title": "Diao Man Gonzhu Gan Fu Ma",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1904/124043.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1904/124043t.jpg",
+        "synonyms": [
+            "A Crafty Princess and Her Reckless Husband",
+            "Diaoman Gongzhu Gang Fuma",
+            "刁蛮公主戆驸马"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "fantasy",
+            "historical",
+            "romance"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2004
+        }
+    },
+    {
+        "sources": [
             "https://anisearch.com/anime/221",
             "https://myanimelist.net/anime/3324"
         ],
@@ -1029,6 +1057,7 @@
             "game",
             "kemonomimi",
             "kuudere",
+            "lost civilization",
             "love triangle",
             "nonsense-comedy",
             "other planet",
@@ -1110,12 +1139,14 @@
             "horror",
             "japan",
             "nudity",
+            "plot continuity",
+            "present",
             "psychological",
             "sci-fi",
-            "science fiction",
             "seinen",
             "supernatural",
-            "survival"
+            "survival",
+            "violence"
         ],
         "date": {
             "season": "summer",
@@ -1344,6 +1375,7 @@
             "https://anidb.net/anime/787",
             "https://anilist.co/anime/1019",
             "https://anime-planet.com/anime/mirage-of-blaze",
+            "https://anisearch.com/anime/1323",
             "https://kitsu.io/anime/909",
             "https://livechart.me/anime/5943",
             "https://myanimelist.net/anime/1019",
@@ -1485,6 +1517,8 @@
             "https://anime-planet.com/anime/ichigo-100",
             "https://anime-planet.com/anime/ichigo-100-ova",
             "https://anime-planet.com/anime/ichigo-100-special",
+            "https://anisearch.com/anime/2155",
+            "https://anisearch.com/anime/889",
             "https://kitsu.io/anime/7662",
             "https://kitsu.io/anime/871",
             "https://myanimelist.net/anime/248",
@@ -1744,6 +1778,7 @@
             "https://anilist.co/anime/1067",
             "https://anime-planet.com/anime/demonbane",
             "https://anime-planet.com/anime/demonbane-ouroboros-rondo",
+            "https://anisearch.com/anime/607",
             "https://kitsu.io/anime/954",
             "https://myanimelist.net/anime/1067",
             "https://notify.moe/anime/p-y1cKimR"
@@ -2120,6 +2155,32 @@
     },
     {
         "sources": [
+            "https://anime-planet.com/anime/laozi-shuo",
+            "https://myanimelist.net/anime/44675"
+        ],
+        "title": "Laozi Shuo",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1607/124006.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1607/124006t.jpg",
+        "synonyms": [
+            "老子说"
+        ],
+        "relations": [],
+        "tags": [
+            "chinese animation",
+            "family friendly",
+            "historical",
+            "kids"
+        ],
+        "date": {
+            "season": "summer",
+            "year": 2004
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/12491",
             "https://anime-planet.com/anime/linkin-park-breaking-the-habit",
             "https://anisearch.com/anime/6185",
@@ -2335,7 +2396,6 @@
             "shounen",
             "swordplay",
             "swords & co",
-            "thievery",
             "thieves"
         ],
         "date": {
@@ -3326,6 +3386,7 @@
             "ninja",
             "nonsense-comedy",
             "philosophy",
+            "primarily child cast",
             "psi-powers",
             "shounen",
             "slapstick",
@@ -3626,6 +3687,7 @@
             "ポケットモンスターアドバンスジェネレーション　プラネタリウム　天空からの挑戦"
         ],
         "relations": [
+            "https://anisearch.com/anime/2105",
             "https://myanimelist.net/anime/1564"
         ],
         "tags": [
@@ -4095,7 +4157,9 @@
             "サムライ7",
             "サムライセブン"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/2488"
+        ],
         "tags": [
             "action",
             "action drama",
@@ -4323,6 +4387,7 @@
         "relations": [
             "https://anidb.net/anime/5548",
             "https://anidb.net/anime/7551",
+            "https://anisearch.com/anime/5331",
             "https://myanimelist.net/anime/1960"
         ],
         "tags": [
@@ -4488,6 +4553,7 @@
             "https://myanimelist.net/anime/9494",
             "https://notify.moe/anime/7bGGtFmmg",
             "https://notify.moe/anime/AblzpFmmg",
+            "https://notify.moe/anime/NQktPpgVg",
             "https://notify.moe/anime/iNPo5Kmig"
         ],
         "tags": [
@@ -4504,6 +4570,7 @@
             "floating island",
             "genetic modification",
             "human enhancement",
+            "isolated society",
             "kuudere",
             "male protagonist",
             "mecha",

@@ -236,6 +236,35 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/44737"
+        ],
+        "title": "Fan Dou Tianting II",
+        "type": "tv",
+        "episodes": 10,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1589/124046.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1589/124046t.jpg",
+        "synonyms": [
+            "Fan Dou Tianting 2nd Season",
+            "Fan Dou Tianting: Tezhong Budui",
+            "反斗天庭 Ⅱ",
+            "反斗天庭之特种部队"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/44736"
+        ],
+        "tags": [
+            "adventure",
+            "anthropomorphic",
+            "fantasy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2006
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/fig",
             "https://anisearch.com/anime/6381",
             "https://kitsu.io/anime/14224",
@@ -653,14 +682,15 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/129358"
+            "https://anilist.co/anime/129358",
+            "https://myanimelist.net/anime/45356"
         ],
         "title": "Kuaile Dongxi 2",
         "type": "tv",
         "episodes": 60,
         "status": "finished",
-        "picture": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129358-qIA81KiVcn1D.jpg",
-        "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129358-qIA81KiVcn1D.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1466/126104.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1466/126104t.jpg",
         "synonyms": [
             "Happy Stuff 2",
             "快乐东西2"
@@ -668,7 +698,9 @@
         "relations": [
             "https://anilist.co/anime/129357",
             "https://anilist.co/anime/129359",
-            "https://anilist.co/anime/129365"
+            "https://anilist.co/anime/129365",
+            "https://myanimelist.net/anime/45355",
+            "https://myanimelist.net/anime/45357"
         ],
         "tags": [
             "comedy"
@@ -944,31 +976,6 @@
             "chinese animation",
             "horror",
             "shorts"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2006
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/52151"
-        ],
-        "title": "Minna ga Oshiete Kuremashita",
-        "type": "ova",
-        "episodes": 4,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1807/124627.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1807/124627t.jpg",
-        "synonyms": [
-            "Ton Ton Ton ToIttadeshouTomodachi ga Imashita",
-            "みんなが おしえてくれました"
-        ],
-        "relations": [],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -1280,6 +1287,30 @@
             "martial arts",
             "soccer",
             "sports"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2006
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/45416"
+        ],
+        "title": "Sou Shen Ji",
+        "type": "tv",
+        "episodes": 52,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1066/126125.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1066/126125t.jpg",
+        "synonyms": [
+            "搜神记"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "fantasy",
+            "mythology"
         ],
         "date": {
             "season": "unknown",

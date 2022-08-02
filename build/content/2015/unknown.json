@@ -152,6 +152,8 @@
         "relations": [
             "https://anime-planet.com/anime/au-shenqi-luobo",
             "https://anime-planet.com/anime/au-shenqi-luobo-3rd-season",
+            "https://anisearch.com/anime/15593",
+            "https://anisearch.com/anime/15648",
             "https://myanimelist.net/anime/45388",
             "https://myanimelist.net/anime/45390"
         ],
@@ -468,57 +470,6 @@
             "horror",
             "short episodes",
             "suspense"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://anime-planet.com/anime/baozou-lol"
-        ],
-        "title": "Baozou LOL",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/baozou-lol-1.webp?t=1653407959",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/baozou-lol-1-285x400.webp?t=1653407959",
-        "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/baozou-lol-2nd-season"
-        ],
-        "tags": [
-            "chibi",
-            "chinese animation",
-            "comedy",
-            "fantasy",
-            "parody",
-            "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2015
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44557"
-        ],
-        "title": "Baozou Lu A Lu",
-        "type": "ona",
-        "episodes": 12,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "暴走撸啊撸"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/44558"
-        ],
-        "tags": [
-            "comedy"
         ],
         "date": {
             "season": "unknown",
@@ -2412,9 +2363,7 @@
         "picture": "https://cdn.anime-planet.com/anime/primary/kainar-asy-tac-fronteer-ova-1.jpg?t=1625898762",
         "thumbnail": "https://cdn.anime-planet.com/anime/primary/kainar-asy-tac-fronteer-ova-1-190x266.jpg?t=1625898762",
         "synonyms": [],
-        "relations": [
-            "https://anime-planet.com/anime/kainar-asy-tac-fronteer"
-        ],
+        "relations": [],
         "tags": [
             "action",
             "cg animation",
@@ -3981,6 +3930,30 @@
         "relations": [],
         "tags": [
             "music"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/45414"
+        ],
+        "title": "Ni Tuan De Qihuan Luxing",
+        "type": "ona",
+        "episodes": 26,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1592/126122.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1592/126122t.jpg",
+        "synonyms": [
+            "泥团的奇幻旅行"
+        ],
+        "relations": [],
+        "tags": [
+            "adventure",
+            "fantasy",
+            "kids"
         ],
         "date": {
             "season": "unknown",
@@ -6344,6 +6317,28 @@
         "relations": [],
         "tags": [
             "comedy"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2015
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52566"
+        ],
+        "title": "XYZ Note",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1084/126357.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1084/126357t.jpg",
+        "synonyms": [
+            "XYZ NOTE"
+        ],
+        "relations": [],
+        "tags": [
+            "avant garde"
         ],
         "date": {
             "season": "unknown",

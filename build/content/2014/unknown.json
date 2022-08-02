@@ -182,17 +182,19 @@
         "type": "ona",
         "episodes": 87,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1412/123984.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1412/123984t.jpg",
         "synonyms": [
             "暴走编辑部的故事"
         ],
         "relations": [
-            "https://anime-planet.com/anime/baozou-donghua"
+            "https://anime-planet.com/anime/baozou-donghua",
+            "https://myanimelist.net/anime/44546"
         ],
         "tags": [
             "chinese animation",
             "comedy",
+            "gag humor",
             "short episodes"
         ],
         "date": {
@@ -4803,6 +4805,35 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/44560"
+        ],
+        "title": "Shi Xiong Fanwai Pian",
+        "type": "special",
+        "episodes": 2,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1433/123999.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1433/123999t.jpg",
+        "synonyms": [
+            "Shi Xiong Specials",
+            "Shi Xiong: Xueguo Shi Xiong",
+            "Shi Xiong: Xuezhan Shi Qishi",
+            "尸兄番外篇"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/30412"
+        ],
+        "tags": [
+            "action",
+            "comedy",
+            "horror"
+        ],
+        "date": {
+            "season": "unknown",
+            "year": 2014
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/shokubai-phantom-girl-natsuzo-rider"
         ],
         "title": "Shokubai Phantom Girl: Natsuzo Rider",
@@ -5161,8 +5192,8 @@
         "type": "tv",
         "episodes": 52,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1241/122652.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1241/122652t.jpg",
         "synonyms": [
             "兔侠传奇学武篇"
         ],
@@ -5837,32 +5868,6 @@
             "kids",
             "non-human protagonists",
             "short episodes"
-        ],
-        "date": {
-            "season": "unknown",
-            "year": 2014
-        }
-    },
-    {
-        "sources": [
-            "https://myanimelist.net/anime/44354"
-        ],
-        "title": "Zhu Zhu Xia Zhi Yong Chuang Juren Dao",
-        "type": "movie",
-        "episodes": 1,
-        "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "synonyms": [
-            "猪猪侠之勇闯巨人岛"
-        ],
-        "relations": [
-            "https://myanimelist.net/anime/38125"
-        ],
-        "tags": [
-            "adventure",
-            "fantasy",
-            "kids"
         ],
         "date": {
             "season": "unknown",

@@ -940,6 +940,7 @@
         "relations": [
             "https://anilist.co/anime/21406",
             "https://anime-planet.com/anime/amanchu",
+            "https://anisearch.com/anime/10824",
             "https://kitsu.io/anime/11432",
             "https://myanimelist.net/anime/31771"
         ],
@@ -1067,6 +1068,8 @@
             "https://anilist.co/anime/21320",
             "https://anime-planet.com/anime/ani-tore-ex",
             "https://anime-planet.com/anime/ani-tore-xx-specials",
+            "https://anisearch.com/anime/10715",
+            "https://anisearch.com/anime/16089",
             "https://kitsu.io/anime/11347",
             "https://livechart.me/anime/1794",
             "https://myanimelist.net/anime/31519",
@@ -1082,6 +1085,7 @@
             "educational",
             "fitness",
             "idols",
+            "nudity",
             "original work",
             "pov",
             "primarily female cast",
@@ -1147,6 +1151,7 @@
             "Assassination Classroom the Movie: 365 Days Time",
             "Assassination Classroom the Movie: 365 Days‘ Time",
             "Assassination Classroom the Movie: 365 Days’ Time",
+            "Assassination Classroom the Movie: L’ora dei 365 Giorni",
             "Gekijouban Ansatsu Kyoushitsu: 365-nichi no Jikan",
             "Gekijouban Ansatsu Kyoushitsu: Sanbyakurokujuugo-nichi no Jikan",
             "Gekijōban Ansatsu Kyōshitsu: 365-nichi no Jikan",
@@ -1165,6 +1170,9 @@
             "https://anime-planet.com/anime/assassination-classroom-jump-festa-2013-special",
             "https://anime-planet.com/anime/koro-sensei-q",
             "https://anime-planet.com/anime/koro-sensei-quest",
+            "https://anisearch.com/anime/10438",
+            "https://anisearch.com/anime/11739",
+            "https://anisearch.com/anime/9701",
             "https://kitsu.io/anime/10877",
             "https://kitsu.io/anime/12293",
             "https://kitsu.io/anime/8640",
@@ -1279,6 +1287,7 @@
             "https://anidb.net/anime/12323",
             "https://anilist.co/anime/21898",
             "https://anime-planet.com/anime/ao-oni-the-animation-movie",
+            "https://anisearch.com/anime/11689",
             "https://kitsu.io/anime/12478",
             "https://livechart.me/anime/2277",
             "https://myanimelist.net/anime/33820",
@@ -1352,7 +1361,10 @@
             "Balala the Fairies Season 4",
             "巴啦啦小魔仙之 飞越彩灵堡"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/11341",
+            "https://anisearch.com/anime/12634"
+        ],
         "tags": [
             "comedy",
             "magical girl"
@@ -1422,6 +1434,30 @@
             "mahou shoujo",
             "new",
             "shoujo"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2016
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52495"
+        ],
+        "title": "Baise Suidao",
+        "type": "movie",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1993/125871.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1993/125871t.jpg",
+        "synonyms": [
+            "White Tunnel",
+            "白色隧道"
+        ],
+        "relations": [],
+        "tags": [
+            "adult cast",
+            "drama"
         ],
         "date": {
             "season": "fall",
@@ -1526,6 +1562,7 @@
         "relations": [
             "https://anilist.co/anime/100720",
             "https://anime-planet.com/anime/miss-bernard-said-special",
+            "https://anisearch.com/anime/15262",
             "https://myanimelist.net/anime/37000"
         ],
         "tags": [
@@ -1755,6 +1792,7 @@
             "https://anilist.co/anime/97940",
             "https://anime-planet.com/anime/black-clover",
             "https://anime-planet.com/anime/black-clover-the-all-magic-knights-thanksgiving-festa",
+            "https://anisearch.com/anime/12131",
             "https://kitsu.io/anime/13209",
             "https://livechart.me/anime/10495",
             "https://livechart.me/anime/2478",
@@ -1878,6 +1916,7 @@
             "Boku no Hero Academia OVA",
             "Boku no Hero Academia OVA (2016)",
             "My Hero Academia OVA",
+            "bnha ova",
             "أبطال الغد (2016)",
             "أكاديمية بطلي (2016)",
             "أكاديميتي للأبطال (2016)",
@@ -3815,6 +3854,7 @@
             "https://anilist.co/anime/235",
             "https://anime-planet.com/anime/detective-conan",
             "https://anime-planet.com/anime/detective-conan-movie-24-the-scarlet-bullet",
+            "https://anisearch.com/anime/1721",
             "https://kitsu.io/anime/210",
             "https://livechart.me/anime/319",
             "https://livechart.me/anime/4579",
@@ -3872,7 +3912,6 @@
             "https://anidb.net/anime/12132",
             "https://anilist.co/anime/21820",
             "https://anime-planet.com/anime/digimon-universe-app-monsters",
-            "https://anime-planet.com/anime/digimon-universe-appli-monsters",
             "https://anisearch.com/anime/11471",
             "https://kitsu.io/anime/12314",
             "https://livechart.me/anime/2192",
@@ -3892,7 +3931,6 @@
             "Digimon Universe App Monsters",
             "Digimon Universe: APP Monsters",
             "Digimon Universe: App Monsters",
-            "Digimon Universe: App Monsters!",
             "でじもんゆにばーすあぷりもんすたーず",
             "デジモンユニバース アプリモンスターズ",
             "数码兽宇宙 应用怪兽"
@@ -4009,7 +4047,9 @@
         "synonyms": [
             "iMarine Project"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/11715"
+        ],
         "tags": [
             "cg-anime",
             "indefinite"
@@ -4678,7 +4718,9 @@
             "Fairy Tail: Yōsei-tachi no Christmas",
             "フェアリーテイル 妖精たちのクリスマス"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/8793"
+        ],
         "tags": [
             "alternative world",
             "comedy",
@@ -4943,6 +4985,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/4/82292t.jpg",
         "synonyms": [
             "FLIP FLAPPERS",
+            "Flip Flappers: Fantazja kontra świat",
             "Flipper Flappers",
             "Прыг Шлёп",
             "フリップフラッパーズ",
@@ -4972,6 +5015,7 @@
             "henshin heroes",
             "heroine of strong character",
             "isekai",
+            "lgbtq+ themes",
             "love triangle",
             "magic",
             "magical girl",
@@ -5127,7 +5171,6 @@
             "editors",
             "educational",
             "heterosexual",
-            "josei",
             "male protagonist",
             "meta",
             "noitamina",
@@ -5798,6 +5841,7 @@
             "https://anidb.net/anime/10709",
             "https://anilist.co/anime/20757",
             "https://anime-planet.com/anime/girl-friend-beta",
+            "https://anisearch.com/anime/9743",
             "https://kitsu.io/anime/8632",
             "https://myanimelist.net/anime/24855",
             "https://notify.moe/anime/PD41pFimg"
@@ -6547,6 +6591,10 @@
             "https://anime-planet.com/anime/sound-euphonium-movie-3-our-promise-a-brand-new-day",
             "https://anime-planet.com/anime/sound-euphonium-ready-set-monaka",
             "https://anime-planet.com/anime/sound-euphonium-specials",
+            "https://anisearch.com/anime/10076",
+            "https://anisearch.com/anime/12187",
+            "https://anisearch.com/anime/12303",
+            "https://anisearch.com/anime/12857",
             "https://kitsu.io/anime/13212",
             "https://kitsu.io/anime/13233",
             "https://kitsu.io/anime/13618",
@@ -6757,6 +6805,7 @@
         "relations": [
             "https://anilist.co/anime/20830",
             "https://anime-planet.com/anime/hi-scool-seha-girls",
+            "https://anisearch.com/anime/9601",
             "https://kitsu.io/anime/8428",
             "https://livechart.me/anime/524",
             "https://myanimelist.net/anime/23787",
@@ -7106,6 +7155,8 @@
         "tags": [
             "action",
             "football",
+            "primarily child cast",
+            "primarily male cast",
             "short episodes",
             "soccer",
             "sports",
@@ -7588,6 +7639,7 @@
             "https://anime-planet.com/anime/kamisama-kiss-2nd-season",
             "https://anime-planet.com/anime/kamisama-kiss-kako-hen",
             "https://anime-planet.com/anime/kamisama-kiss-ova",
+            "https://anisearch.com/anime/9748",
             "https://kitsu.io/anime/10880",
             "https://livechart.me/anime/1504",
             "https://livechart.me/anime/175",
@@ -7962,6 +8014,7 @@
             "https://anime-planet.com/anime/patlabor-the-mobile-police-tv",
             "https://anime-planet.com/anime/patlabor-the-movie",
             "https://anime-planet.com/anime/patlabor-wxiii",
+            "https://anisearch.com/anime/3128",
             "https://livechart.me/anime/2730",
             "https://livechart.me/anime/4349",
             "https://livechart.me/anime/4526",
@@ -8035,6 +8088,7 @@
             "https://anime-planet.com/anime/the-heroic-legend-of-arslan-ova",
             "https://anime-planet.com/anime/the-heroic-legend-of-arslan-specials",
             "https://anime-planet.com/anime/the-heroic-legend-of-arslan-the-blade-to-retake-the-kingdom",
+            "https://anisearch.com/anime/10816",
             "https://kitsu.io/anime/9972",
             "https://myanimelist.net/anime/28249",
             "https://myanimelist.net/anime/31821",
@@ -9523,6 +9577,7 @@
         ],
         "relations": [
             "https://anime-planet.com/anime/long-riders-recap",
+            "https://anisearch.com/anime/13128",
             "https://kitsu.io/anime/12731",
             "https://myanimelist.net/anime/34367",
             "https://notify.moe/anime/WMwihFiiR"
@@ -9726,6 +9781,7 @@
             "animal transformation",
             "based on a manga",
             "beastmen",
+            "chimera",
             "contemporary fantasy",
             "drama",
             "excessive violence",
@@ -10566,7 +10622,6 @@
             "monster",
             "monster girl",
             "nudity",
-            "parental abandonment",
             "present",
             "primarily female cast",
             "romance",
@@ -11367,6 +11422,9 @@
             "https://anime-planet.com/anime/natsumes-book-of-friends-season-5-specials",
             "https://anime-planet.com/anime/natsumes-book-of-friends-season-6",
             "https://anime-planet.com/anime/zoku-natsume-yuujinchou-3d-nyanko-sensei-gekijou",
+            "https://anisearch.com/anime/12132",
+            "https://anisearch.com/anime/12619",
+            "https://anisearch.com/anime/7310",
             "https://kitsu.io/anime/13077",
             "https://kitsu.io/anime/13143",
             "https://kitsu.io/anime/6557",
@@ -11635,6 +11693,8 @@
             "https://anime-planet.com/anime/ninja-girl-samurai-master-2nd-season",
             "https://anime-planet.com/anime/ninja-girl-samurai-master-3rd-season",
             "https://anime-planet.com/anime/ninja-girl-samurai-master-episode-0",
+            "https://anisearch.com/anime/11880",
+            "https://anisearch.com/anime/12252",
             "https://kitsu.io/anime/12672",
             "https://kitsu.io/anime/13303",
             "https://livechart.me/anime/2568",
@@ -11699,6 +11759,7 @@
             "ノーマン・ザ・スノーマン〜流れ星のふる夜に〜"
         ],
         "relations": [
+            "https://anilist.co/anime/127799",
             "https://anime-planet.com/anime/norman-the-snowman-the-northern-light",
             "https://anisearch.com/anime/9175",
             "https://myanimelist.net/anime/20799"
@@ -11779,6 +11840,7 @@
             "https://anilist.co/anime/121221",
             "https://anilist.co/anime/121224",
             "https://anime-planet.com/anime/nu-sheng-su-she-ri-chang-di-2-ji",
+            "https://anisearch.com/anime/13346",
             "https://myanimelist.net/anime/40088"
         ],
         "tags": [
@@ -12794,6 +12856,7 @@
             "https://anime-planet.com/anime/pokemon-black-and-white-rival-destinies",
             "https://anime-planet.com/anime/pokemon-diamond-and-pearl",
             "https://anime-planet.com/anime/pokemon-journeys",
+            "https://anime-planet.com/anime/pokemon-no-heisei-shi-kayou-kara-mokuyou-soshite-nichiyou-e",
             "https://anime-planet.com/anime/pokemon-sun-and-moon-planetarium",
             "https://anime-planet.com/anime/pokemon-xy",
             "https://anime-planet.com/anime/pokemon-xy-and-z",
@@ -12836,6 +12899,7 @@
             "alternative world",
             "animals",
             "based on a video game",
+            "child protagonists",
             "comedy",
             "elemental powers",
             "episodic",
@@ -12855,7 +12919,8 @@
             "shounen",
             "slapstick",
             "slice of life",
-            "strategy game"
+            "strategy game",
+            "super robot"
         ],
         "date": {
             "season": "fall",
@@ -13333,7 +13398,9 @@
             "Sangatsu no Lion: Zenhan Sōshūhen",
             "Sangatsu no Lion: Zenpan Soushuuhen"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/10792"
+        ],
         "tags": [
             "brain games and gambling",
             "comedy",
@@ -14698,6 +14765,7 @@
             "Suki ni Naru Sono Shunkan wo: Kokuhaku Jikkou Iinkai",
             "The Moment You Fall in Love",
             "The Moment You Fall in Love: Confess Your Love Committee",
+            "喜歡上你的那瞬間",
             "好きになるその瞬間を. ~告白実行委員会~",
             "好きになるその瞬間を。 ～告白実行委員会～",
             "好きになるその瞬間を。～告白実行委員会～"
@@ -14710,6 +14778,7 @@
             "https://anime-planet.com/anime/honeyworks-daikirai-na-hazu-datta",
             "https://anime-planet.com/anime/honeyworks-ima-suki-ni-naru",
             "https://anime-planet.com/anime/ive-always-liked-you",
+            "https://anisearch.com/anime/10889",
             "https://kitsu.io/anime/11204",
             "https://livechart.me/anime/10128",
             "https://livechart.me/anime/10765",
@@ -14759,7 +14828,9 @@
             "Sylvanian Families: The Treasure of Sylvanian Village",
             "シルバニアファミリー シルバニア村のたからもの"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/12792"
+        ],
         "tags": [
             "cg-anime"
         ],
@@ -14850,6 +14921,7 @@
             "https://anilist.co/anime/109964",
             "https://anilist.co/anime/12589",
             "https://anilist.co/anime/129159",
+            "https://anilist.co/anime/151765",
             "https://anilist.co/anime/2467",
             "https://anime-planet.com/anime/tama-of-the-3rd-district-have-you-seen-my-tama",
             "https://anime-planet.com/anime/uchitama-have-you-seen-my-tama",
@@ -15168,6 +15240,7 @@
             "fantasy",
             "female harem",
             "harem",
+            "male protagonist",
             "new",
             "non-human protagonists",
             "original work",
@@ -15323,6 +15396,7 @@
             "https://anidb.net/anime/11180",
             "https://anime-planet.com/anime/the-snack-world",
             "https://anime-planet.com/anime/the-snack-world-2015",
+            "https://anisearch.com/anime/11941",
             "https://kitsu.io/anime/11929",
             "https://kitsu.io/anime/12426",
             "https://myanimelist.net/anime/32593",
@@ -15373,6 +15447,7 @@
             "https://anilist.co/anime/3009",
             "https://anime-planet.com/anime/tiger-mask",
             "https://anime-planet.com/anime/tiger-mask-ii",
+            "https://anisearch.com/anime/2916",
             "https://kitsu.io/anime/4294",
             "https://myanimelist.net/anime/5832",
             "https://notify.moe/anime/vzg3cKiiR"
@@ -15384,6 +15459,7 @@
             "athletics",
             "based on a manga",
             "battle royale",
+            "combat sport",
             "combat sports",
             "cultivation",
             "drama",
@@ -15685,6 +15761,7 @@
             "https://anisearch.com/anime/12844",
             "https://kitsu.io/anime/11994",
             "https://kitsu.io/anime/13478",
+            "https://kitsu.io/anime/46142",
             "https://livechart.me/anime/10416",
             "https://livechart.me/anime/10417",
             "https://livechart.me/anime/10418",
@@ -15696,6 +15773,7 @@
             "https://myanimelist.net/anime/33018",
             "https://myanimelist.net/anime/34863",
             "https://myanimelist.net/anime/36444",
+            "https://myanimelist.net/anime/51859",
             "https://notify.moe/anime/59o6pKmmg",
             "https://notify.moe/anime/yVj72Fiig"
         ],
@@ -15836,6 +15914,7 @@
             "https://anilist.co/anime/110208",
             "https://anime-planet.com/anime/gackt-kimi-dake-no-boku-de-iru-kara",
             "https://anime-planet.com/anime/trickster-ova-episode-00",
+            "https://anisearch.com/anime/12182",
             "https://kitsu.io/anime/12969",
             "https://kitsu.io/anime/13089",
             "https://myanimelist.net/anime/34197",
@@ -16015,7 +16094,7 @@
             "Pocok's Udon World",
             "Poco’s Udon World",
             "The Golden Furball of Udon Country",
-            "The Udon Country's Golden Furball",
+            "The Udon Country’s Golden Furball",
             "Udon no Kuni no Kin`iro Kemari",
             "Udon no Kuni no Kin’iro Kemari",
             "udon kuni",
@@ -16250,6 +16329,7 @@
             "original work",
             "present",
             "primarily female cast",
+            "revenge",
             "science-fiction",
             "sports",
             "tournaments",
@@ -16318,6 +16398,7 @@
             "https://anime-planet.com/anime/working-2",
             "https://anime-planet.com/anime/working-3",
             "https://anime-planet.com/anime/working-lord-of-the-takanashi",
+            "https://anisearch.com/anime/10055",
             "https://kitsu.io/anime/4805",
             "https://kitsu.io/anime/6227",
             "https://livechart.me/anime/1206",
@@ -16922,6 +17003,7 @@
         "tags": [
             "autobiographical",
             "comedy",
+            "josei",
             "otaku culture",
             "parody"
         ],

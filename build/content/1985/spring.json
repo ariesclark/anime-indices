@@ -984,6 +984,30 @@
     },
     {
         "sources": [
+            "https://myanimelist.net/anime/52508"
+        ],
+        "title": "Ofuro no Uta",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1024/125918.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1024/125918t.jpg",
+        "synonyms": [
+            "Minna no Uta",
+            "おふろのうた"
+        ],
+        "relations": [],
+        "tags": [
+            "kids",
+            "music"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 1985
+        }
+    },
+    {
+        "sources": [
             "https://anidb.net/anime/4409",
             "https://anilist.co/anime/2805",
             "https://anime-planet.com/anime/onegai-samia-don",
@@ -1251,7 +1275,7 @@
         "tags": [
             "action",
             "alien",
-            "anime influenced",
+            "humanoid alien",
             "mecha",
             "military",
             "piloted robot",
@@ -1259,9 +1283,8 @@
             "science fiction",
             "shipboard",
             "space",
-            "space battles",
-            "space opera",
-            "transforming craft"
+            "transforming craft",
+            "war"
         ],
         "date": {
             "season": "spring",
@@ -1342,6 +1365,7 @@
             "https://anidb.net/anime/1481",
             "https://anilist.co/anime/2510",
             "https://anime-planet.com/anime/goshogun",
+            "https://anisearch.com/anime/664",
             "https://kitsu.io/anime/2276",
             "https://livechart.me/anime/7873",
             "https://livechart.me/anime/9434",
@@ -1458,6 +1482,8 @@
             "テレパシスト愛Q315 (サイコ)"
         ],
         "relations": [
+            "https://anisearch.com/anime/4857",
+            "https://anisearch.com/anime/5372",
             "https://myanimelist.net/anime/12563",
             "https://myanimelist.net/anime/5544",
             "https://myanimelist.net/anime/5571"
@@ -1564,6 +1590,7 @@
             "male protagonist",
             "manga",
             "neighbors",
+            "plot continuity",
             "present",
             "romance",
             "rural",

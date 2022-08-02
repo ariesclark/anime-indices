@@ -252,6 +252,7 @@
             "https://anidb.net/anime/14655",
             "https://anilist.co/anime/107651",
             "https://anime-planet.com/anime/a3-season-spring-and-summer",
+            "https://anisearch.com/anime/14152",
             "https://kitsu.io/anime/42146",
             "https://livechart.me/anime/9212",
             "https://myanimelist.net/anime/39184",
@@ -607,7 +608,6 @@
             "Kuai Ba Wo Ge Dai Zou 4",
             "Kuai Ba Wo Ge Daizou 4",
             "Please Take My Brother Away 4",
-            "Please Take My Brother Away 4, Ani ni Tsukeru Kusuri wa Nai! 4th Season",
             "Please Take My Brother Away! 4",
             "Take My Brother Away 4",
             "Take My Brother Away! 4",
@@ -620,12 +620,14 @@
         ],
         "relations": [
             "https://anidb.net/anime/14956",
+            "https://anidb.net/anime/17503",
             "https://anilist.co/anime/110088",
             "https://anilist.co/anime/137734",
             "https://anime-planet.com/anime/ani-ni-tsukeru-kusuri-wa-nai",
             "https://anime-planet.com/anime/ani-ni-tsukeru-kusuri-wa-nai-2",
             "https://anime-planet.com/anime/ani-ni-tsukeru-kusuri-wa-nai-3",
             "https://anime-planet.com/anime/ani-ni-tsukeru-kusuri-wa-nai-5",
+            "https://anisearch.com/anime/14474",
             "https://kitsu.io/anime/42399",
             "https://kitsu.io/anime/45538",
             "https://livechart.me/anime/11306",
@@ -834,6 +836,33 @@
             "swords & co",
             "tragedy",
             "yuri"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52518"
+        ],
+        "title": "Astroman",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1532/126059.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1532/126059t.jpg",
+        "synonyms": [
+            "Astroganger Pilot",
+            "パイロット版「アストロマン」"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/5311"
+        ],
+        "tags": [
+            "action",
+            "mecha",
+            "sci-fi"
         ],
         "date": {
             "season": "fall",
@@ -1082,10 +1111,7 @@
         ],
         "relations": [],
         "tags": [
-            "achronological order",
             "action",
-            "anti-hero",
-            "band",
             "guns",
             "music",
             "super power",
@@ -1120,6 +1146,7 @@
             "https://anilist.co/anime/127863",
             "https://anime-planet.com/anime/bear-bear-bear-kumadam-hen",
             "https://anime-planet.com/anime/kuma-kuma-kuma-bear",
+            "https://anisearch.com/anime/14864",
             "https://kitsu.io/anime/43214",
             "https://livechart.me/anime/10290",
             "https://livechart.me/anime/10308",
@@ -1361,6 +1388,7 @@
         "sources": [
             "https://anilist.co/anime/145880",
             "https://anime-planet.com/anime/boku-wa-omocha",
+            "https://kitsu.io/anime/46295",
             "https://myanimelist.net/anime/51446"
         ],
         "title": "Boku wa Omocha",
@@ -1377,9 +1405,11 @@
         "relations": [],
         "tags": [
             "family friendly",
+            "kids",
             "minna no uta",
             "music",
-            "sci fi"
+            "sci fi",
+            "science fiction"
         ],
         "date": {
             "season": "fall",
@@ -1594,6 +1624,7 @@
             "https://anidb.net/anime/17232",
             "https://anilist.co/anime/145968",
             "https://anime-planet.com/anime/cap-kakumei-bottleman-dx",
+            "https://anisearch.com/anime/17183",
             "https://kitsu.io/anime/46046",
             "https://livechart.me/anime/11110",
             "https://myanimelist.net/anime/51155",
@@ -1968,7 +1999,26 @@
     },
     {
         "sources": [
-            "https://anilist.co/anime/124912",
+            "https://anisearch.com/anime/17570"
+        ],
+        "title": "Counting with Paula Season 5",
+        "type": "tv",
+        "episodes": 30,
+        "status": "ongoing",
+        "picture": "https://cdn.anisearch.com/images/anime/cover/full/0.webp",
+        "thumbnail": "https://cdn.anisearch.com/images/anime/cover/thumb/0.webp",
+        "synonyms": [],
+        "relations": [],
+        "tags": [
+            "cg-anime"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2020
+        }
+    },
+    {
+        "sources": [
             "https://anime-planet.com/anime/curry-meshi-in-miracle",
             "https://kitsu.io/anime/43761",
             "https://myanimelist.net/anime/43879"
@@ -1984,18 +2034,14 @@
             "カレーメシ・イン・ミラクル"
         ],
         "relations": [
-            "https://anilist.co/anime/118123",
             "https://kitsu.io/anime/43740",
             "https://myanimelist.net/anime/44042"
         ],
         "tags": [
-            "advertisement",
-            "food",
             "food and beverage",
             "idol",
             "music",
             "promotional",
-            "vtuber",
             "vtubers"
         ],
         "date": {
@@ -2071,6 +2117,7 @@
             "high school",
             "idol",
             "idols",
+            "idols (female)",
             "music",
             "musical",
             "performance",
@@ -2203,6 +2250,7 @@
         "relations": [
             "https://anilist.co/anime/103110",
             "https://anime-planet.com/anime/idolish7",
+            "https://anisearch.com/anime/12167",
             "https://myanimelist.net/anime/33899"
         ],
         "tags": [
@@ -2323,6 +2371,7 @@
             "https://anidb.net/anime/15241",
             "https://anilist.co/anime/112818",
             "https://anime-planet.com/anime/super-hxeros",
+            "https://anisearch.com/anime/14705",
             "https://kitsu.io/anime/42657",
             "https://livechart.me/anime/9658",
             "https://myanimelist.net/anime/40623",
@@ -2515,6 +2564,7 @@
         "relations": [
             "https://anidb.net/anime/11567",
             "https://anime-planet.com/anime/doushitemo-eto-ni-hairitai",
+            "https://anisearch.com/anime/10761",
             "https://myanimelist.net/anime/31555"
         ],
         "tags": [
@@ -2774,7 +2824,8 @@
         "relations": [
             "https://anisearch.com/anime/13352",
             "https://anisearch.com/anime/15917",
-            "https://anisearch.com/anime/15932"
+            "https://anisearch.com/anime/15932",
+            "https://anisearch.com/anime/17512"
         ],
         "tags": [
             "action",
@@ -2870,6 +2921,7 @@
             "https://myanimelist.net/anime/37347",
             "https://myanimelist.net/anime/44983",
             "https://myanimelist.net/anime/47164",
+            "https://myanimelist.net/anime/52357",
             "https://notify.moe/anime/0buWgoYGg",
             "https://notify.moe/anime/JFcD2Fmig",
             "https://notify.moe/anime/efQSnq1MR"
@@ -3188,7 +3240,8 @@
             "monster",
             "novel",
             "old asia",
-            "swords & co"
+            "swords & co",
+            "wuxia"
         ],
         "date": {
             "season": "fall",
@@ -3292,8 +3345,8 @@
             "Fate/Grand Order -Shinsei Entaku Ryouiki Camelot- Wandering; Agateram",
             "Fate/Grand Order Divine Realm of the Round Table: Camelot - Wandering; Agateram",
             "Fate/Grand Order THE MOVIE -Divine Realm of the Round Table: Camelot- Wandering; Agateram",
-            "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot Wandering; Agateram",
             "Fate/Grand Order the Movie - Divine Realm of the Round Table: Camelot - Wandering; Agateram",
+            "Fate/Grand Order: Divine Realm of the Round Table - Camelot Wandering; Agateram",
             "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot - Wandering; Agateram",
             "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- 前編 Wandering; Agateram",
             "劇場版 「Fate/Grand Order -神聖円卓領域キャメロット- 前編Wandering; Agateram」",
@@ -3489,7 +3542,7 @@
         ],
         "title": "Fushigi Dagashiya: Zenitendou",
         "type": "tv",
-        "episodes": 65,
+        "episodes": 66,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1994/108212.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1994/108212t.jpg",
@@ -3585,6 +3638,7 @@
             "https://anime-planet.com/anime/fireball-charming",
             "https://anime-planet.com/anime/fireball-humorous",
             "https://anime-planet.com/anime/fireball-special",
+            "https://anisearch.com/anime/12754",
             "https://kitsu.io/anime/13899",
             "https://myanimelist.net/anime/36166",
             "https://notify.moe/anime/0Z8S2FimR"
@@ -3647,6 +3701,7 @@
         "relations": [
             "https://anilist.co/anime/116752",
             "https://anime-planet.com/anime/the-seven-deadly-sins-dragons-judgement",
+            "https://anisearch.com/anime/15097",
             "https://livechart.me/anime/10358",
             "https://livechart.me/anime/10878",
             "https://livechart.me/anime/11213",
@@ -6378,6 +6433,8 @@
             "https://anilist.co/anime/135102",
             "https://anime-planet.com/anime/by-the-grace-of-the-gods-2",
             "https://anime-planet.com/anime/slime-tachi-no-idobata-kaigi",
+            "https://anisearch.com/anime/16350",
+            "https://anisearch.com/anime/17020",
             "https://kitsu.io/anime/44665",
             "https://livechart.me/anime/10621",
             "https://myanimelist.net/anime/44591",
@@ -6957,6 +7014,7 @@
             "https://anidb.net/anime/16828",
             "https://anilist.co/anime/139825",
             "https://anime-planet.com/anime/our-last-crusade-or-the-rise-of-a-new-world-2nd-season",
+            "https://anisearch.com/anime/16636",
             "https://kitsu.io/anime/45272",
             "https://livechart.me/anime/10824",
             "https://myanimelist.net/anime/49981",
@@ -7470,6 +7528,9 @@
             "https://anime-planet.com/anime/bear-bear-bear-kuma",
             "https://anime-planet.com/anime/bear-bear-bear-kumadam-hen",
             "https://anime-planet.com/anime/kuma-kuma-kuma-bear-2",
+            "https://anisearch.com/anime/15854",
+            "https://anisearch.com/anime/15901",
+            "https://anisearch.com/anime/16690",
             "https://kitsu.io/anime/43790",
             "https://kitsu.io/anime/43863",
             "https://livechart.me/anime/10181",
@@ -7739,6 +7800,10 @@
             "https://anime-planet.com/anime/love-live-superstar",
             "https://anime-planet.com/anime/muteki-kyuubeliever-mirai-harmony",
             "https://anime-planet.com/anime/tokimeki-runners",
+            "https://anisearch.com/anime/14951",
+            "https://anisearch.com/anime/15333",
+            "https://anisearch.com/anime/16279",
+            "https://anisearch.com/anime/7915",
             "https://kitsu.io/anime/44537",
             "https://kitsu.io/anime/7203",
             "https://livechart.me/anime/10574",
@@ -7936,10 +8001,12 @@
             "fantasy",
             "foreign",
             "fugitive",
+            "game",
             "guns",
             "magic",
             "military",
             "politics",
+            "rpg",
             "swordplay",
             "swords & co"
         ],
@@ -7998,6 +8065,7 @@
             "Mahōka Kōkō no Rettōsei: Raihōsha-hen",
             "The Irregular at Magic High School : Visitor Arc",
             "The Irregular at Magic High School Season 2",
+            "The Irregular at Magic High School: Season 2",
             "The Irregular at Magic High School: Visitor Arc",
             "mahouka2",
             "พี่น้องปริศนาโรงเรียนมหาเวท บทผู้มาเยือน",
@@ -8018,6 +8086,8 @@
             "https://anime-planet.com/anime/the-irregular-at-magic-high-school-movie-the-girl-who-summons-the-stars",
             "https://anime-planet.com/anime/the-irregular-at-magic-high-school-new",
             "https://anime-planet.com/anime/the-irregular-at-magic-high-school-reminiscence-arc",
+            "https://anisearch.com/anime/11186",
+            "https://anisearch.com/anime/9057",
             "https://kitsu.io/anime/11931",
             "https://kitsu.io/anime/8053",
             "https://livechart.me/anime/10295",
@@ -9191,6 +9261,7 @@
         ],
         "relations": [
             "https://anilist.co/anime/101633",
+            "https://anisearch.com/anime/11563",
             "https://myanimelist.net/anime/33573",
             "https://myanimelist.net/anime/36921",
             "https://myanimelist.net/anime/38392"
@@ -9741,7 +9812,6 @@
             "present",
             "romance",
             "short episodes",
-            "smut",
             "softcore"
         ],
         "date": {
@@ -9855,6 +9925,7 @@
     {
         "sources": [
             "https://anime-planet.com/anime/pokemon-sports-day",
+            "https://kitsu.io/anime/46290",
             "https://myanimelist.net/anime/51884"
         ],
         "title": "Pokemon Daiundoukai",
@@ -9870,6 +9941,7 @@
             "ポケモン大運動会"
         ],
         "relations": [
+            "https://kitsu.io/anime/486",
             "https://myanimelist.net/anime/527"
         ],
         "tags": [
@@ -10628,6 +10700,7 @@
             "https://anilist.co/anime/121567",
             "https://anime-planet.com/anime/seizei-gambare-mahou-shoujo-kurumi-3rd-season",
             "https://anisearch.com/anime/15400",
+            "https://kitsu.io/anime/46281",
             "https://livechart.me/anime/10071",
             "https://myanimelist.net/anime/42482",
             "https://notify.moe/anime/ETMeq54GR"
@@ -10655,6 +10728,7 @@
             "https://anime-planet.com/anime/seizei-gambare-mahou-shoujo-kurumi",
             "https://anime-planet.com/anime/seizei-gambare-mahou-shoujo-kurumi-2nd-season",
             "https://anisearch.com/anime/14044",
+            "https://kitsu.io/anime/46280",
             "https://livechart.me/anime/10070",
             "https://livechart.me/anime/2689",
             "https://myanimelist.net/anime/38175",
@@ -11200,10 +11274,13 @@
         ],
         "relations": [
             "https://anidb.net/anime/16752",
+            "https://anidb.net/anime/17426",
             "https://anilist.co/anime/119945",
+            "https://anilist.co/anime/149498",
             "https://anime-planet.com/anime/shu-ling-ji",
             "https://kitsu.io/anime/45307",
-            "https://myanimelist.net/anime/42784"
+            "https://myanimelist.net/anime/42784",
+            "https://myanimelist.net/anime/51821"
         ],
         "tags": [
             "based on a novel",
@@ -11463,18 +11540,19 @@
             "https://anidb.net/anime/10253",
             "https://anidb.net/anime/3314",
             "https://anidb.net/anime/4765",
+            "https://anidb.net/anime/7014",
             "https://anilist.co/anime/20515",
             "https://anilist.co/anime/8687",
             "https://anime-planet.com/anime/stand-by-me-doraemon",
             "https://anisearch.com/anime/9270",
             "https://kitsu.io/anime/8566",
+            "https://livechart.me/anime/5614",
+            "https://livechart.me/anime/6575",
             "https://livechart.me/anime/6880",
             "https://livechart.me/anime/7693",
-            "https://livechart.me/anime/7728",
             "https://livechart.me/anime/8740",
             "https://livechart.me/anime/8868",
             "https://livechart.me/anime/8871",
-            "https://livechart.me/anime/8876",
             "https://livechart.me/anime/8877",
             "https://livechart.me/anime/8878",
             "https://livechart.me/anime/8884",
@@ -12276,6 +12354,7 @@
             "fantasy",
             "fantasy world",
             "full cgi",
+            "half-length episodes",
             "magic",
             "swords & co"
         ],
@@ -12816,6 +12895,7 @@
             "Красавица: Унеси меня на Луну",
             "Унеси меня на луну",
             "تونيكاوا",
+            "لطيفة بأي حال",
             "จะยังไงภรรยาของผมก็น่ารัก",
             "จะยังไงภรรยาผมก็น่ารัก",
             "トニカクカワイイ",
@@ -12826,6 +12906,7 @@
         "relations": [
             "https://anidb.net/anime/15931",
             "https://anidb.net/anime/16961",
+            "https://anidb.net/anime/17300",
             "https://anidb.net/anime/4917",
             "https://anilist.co/anime/127371",
             "https://anilist.co/anime/141212",
@@ -14666,6 +14747,8 @@
             "https://anilist.co/anime/110788",
             "https://anime-planet.com/anime/zoids-wild",
             "https://anime-planet.com/anime/zoids-wild-zero",
+            "https://anisearch.com/anime/13497",
+            "https://anisearch.com/anime/14529",
             "https://livechart.me/anime/3120",
             "https://livechart.me/anime/4761",
             "https://livechart.me/anime/5781",

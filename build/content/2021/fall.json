@@ -129,6 +129,9 @@
             "https://anime-planet.com/anime/86-eighty-six",
             "https://anime-planet.com/anime/86-eighty-six-part-ii-recaps",
             "https://anime-planet.com/anime/amazarashi-kyoukaisen",
+            "https://anisearch.com/anime/15075",
+            "https://anisearch.com/anime/16689",
+            "https://anisearch.com/anime/16844",
             "https://kitsu.io/anime/43066",
             "https://kitsu.io/anime/45345",
             "https://kitsu.io/anime/45545",
@@ -521,8 +524,8 @@
         "type": "ona",
         "episodes": 9,
         "status": "finished",
-        "picture": "https://media.kitsu.io/anime/45469/poster_image/small-1f7abd1fff1335217cc048ba63cf8ae8.jpeg",
-        "thumbnail": "https://media.kitsu.io/anime/45469/poster_image/tiny-1b2b05a7c14e24ec65db6324a4ad60fa.jpeg",
+        "picture": "https://media.kitsu.io/anime/45469/poster_image/small-e7a73fcb7a3495369fb7925c23985933.jpeg",
+        "thumbnail": "https://media.kitsu.io/anime/45469/poster_image/tiny-c0adedb014774dcb099f4ca20de70d05.jpeg",
         "synonyms": [
             "Arcane: League of Legends"
         ],
@@ -981,7 +984,9 @@
         "synonyms": [
             "Tings - Be Your Light!!"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/16682"
+        ],
         "tags": [
             "idol",
             "present"
@@ -1018,6 +1023,7 @@
             "崩壊3rd ショートアニメ Reburn: II"
         ],
         "relations": [
+            "https://anisearch.com/anime/15537",
             "https://kitsu.io/anime/45629",
             "https://myanimelist.net/anime/37879"
         ],
@@ -1886,8 +1892,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1473/120340.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1473/120340t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1792/120890.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1792/120890t.jpg",
         "synonyms": [
             "CORUSCATE -DNA-",
             "RAISE A SUILEN: CORUSCATE -DNA-"
@@ -2196,7 +2202,7 @@
         ],
         "title": "Digimon Ghost Game",
         "type": "tv",
-        "episodes": 35,
+        "episodes": 36,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1907/118797.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1907/118797t.jpg",
@@ -2401,6 +2407,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/16548",
+            "https://anidb.net/anime/17197",
             "https://anilist.co/anime/137761",
             "https://anilist.co/anime/145210",
             "https://kitsu.io/anime/45032",
@@ -2542,7 +2549,8 @@
             "映画妖怪ウォッチ♪ ケータとオレっちの出会い編だニャン♪ワ, ワタクシも~♪♪"
         ],
         "relations": [
-            "https://anidb.net/anime/9930"
+            "https://anidb.net/anime/9930",
+            "https://anisearch.com/anime/16011"
         ],
         "tags": [
             "comedy",
@@ -2570,7 +2578,9 @@
         "synonyms": [
             "엄마 까투리 시즌4"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/17169"
+        ],
         "tags": [
             "cg-anime"
         ],
@@ -2915,6 +2925,29 @@
         "relations": [],
         "tags": [
             "independent anime"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/50852"
+        ],
+        "title": "Fukenkou Shakai",
+        "type": "special",
+        "episodes": 1,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1570/120566.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1570/120566t.jpg",
+        "synonyms": [
+            "Unhealthy Society",
+            "不健康社会"
+        ],
+        "relations": [],
+        "tags": [
+            "music"
         ],
         "date": {
             "season": "fall",
@@ -3311,6 +3344,7 @@
             "[given] Can't Say Goodbye, I'm Still Drifting With Your Echoes.",
             "given - on the other hand",
             "given: Uragawa no Sonzai",
+            "given: on the other hand",
             "ギヴン うらがわの存在"
         ],
         "relations": [
@@ -3769,6 +3803,7 @@
             "https://anime-planet.com/anime/inuyasha",
             "https://anime-planet.com/anime/inuyasha-the-final-act",
             "https://anime-planet.com/anime/yashahime-princess-half-demon",
+            "https://anisearch.com/anime/15241",
             "https://kitsu.io/anime/43180",
             "https://livechart.me/anime/3684",
             "https://livechart.me/anime/3952",
@@ -5622,6 +5657,10 @@
             "https://anime-planet.com/anime/demon-slayer-kimetsu-no-yaiba-entertainment-district-arc",
             "https://anime-planet.com/anime/demon-slayer-kimetsu-no-yaiba-movie-mugen-train",
             "https://anime-planet.com/anime/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc",
+            "https://anisearch.com/anime/13658",
+            "https://anisearch.com/anime/14653",
+            "https://anisearch.com/anime/15986",
+            "https://anisearch.com/anime/16195",
             "https://kitsu.io/anime/41370",
             "https://kitsu.io/anime/42586",
             "https://kitsu.io/anime/44081",
@@ -6081,8 +6120,8 @@
         ],
         "title": "Konbini Shoujo Z",
         "type": "ova",
-        "episodes": 3,
-        "status": "ongoing",
+        "episodes": 4,
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1381/120360.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1381/120360t.jpg",
         "synonyms": [
@@ -6685,7 +6724,6 @@
             "https://anidb.net/anime/16843",
             "https://anilist.co/anime/126368",
             "https://anime-planet.com/anime/drowning-sorrows-in-raging-fire",
-            "https://anime-planet.com/anime/lie-huo-jiao-chou",
             "https://anisearch.com/anime/16653",
             "https://kitsu.io/anime/45295",
             "https://livechart.me/anime/10812",
@@ -6868,6 +6906,7 @@
             "LUPIN THE 3rd PART 6",
             "LUPIN THE 3rd PART VI",
             "Lupin III. Part 6",
+            "Lupin III: PART 6",
             "Lupin III: Part VI",
             "Lupin III: Parte 6",
             "Lupin Sansei Part VI",
@@ -7179,6 +7218,7 @@
             "https://anime-planet.com/anime/the-irregular-at-magic-high-school-movie-the-girl-who-summons-the-stars",
             "https://anime-planet.com/anime/the-irregular-at-magic-high-school-new",
             "https://anime-planet.com/anime/the-irregular-at-magic-high-school-visitor-arc",
+            "https://anisearch.com/anime/9057",
             "https://kitsu.io/anime/8053",
             "https://livechart.me/anime/10295",
             "https://livechart.me/anime/11006",
@@ -7289,6 +7329,30 @@
             "fantasy",
             "hentai",
             "lactation"
+        ],
+        "date": {
+            "season": "fall",
+            "year": 2021
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52485"
+        ],
+        "title": "Mameshiba 2nd Season",
+        "type": "ona",
+        "episodes": 0,
+        "status": "ongoing",
+        "picture": "https://cdn.myanimelist.net/images/anime/1011/125850.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1011/125850t.jpg",
+        "synonyms": [
+            "豆しば ２ndシーズン"
+        ],
+        "relations": [
+            "https://myanimelist.net/anime/7261"
+        ],
+        "tags": [
+            "comedy"
         ],
         "date": {
             "season": "fall",
@@ -7598,6 +7662,7 @@
             "https://anilist.co/anime/142541",
             "https://anime-planet.com/anime/after-school",
             "https://anime-planet.com/anime/megaton-musashi-2nd-season",
+            "https://anime-planet.com/anime/megaton-musashi-pilot",
             "https://anisearch.com/anime/12117",
             "https://anisearch.com/anime/16905",
             "https://kitsu.io/anime/45580",
@@ -7650,8 +7715,8 @@
         "type": "ona",
         "episodes": 12,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1084/117772.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1084/117772t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1576/117778.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1576/117778t.jpg",
         "synonyms": [
             "Adorable Food Goddess",
             "Adorable Food Goddess (2021)",
@@ -7660,6 +7725,7 @@
             "Cinderella Chef",
             "Cinderella Chef 2",
             "Cinderella Chef 2nd Season",
+            "Cinderella Chef S2",
             "Cinderella Chef Season 2",
             "Meng Qi Shi Shen: Zai Jie Liang Yuan",
             "Meng Qi Shi Shen: Zai Jie Liangyuan",
@@ -7669,6 +7735,7 @@
         ],
         "relations": [
             "https://anidb.net/anime/14663",
+            "https://anidb.net/anime/17511",
             "https://anilist.co/anime/101973",
             "https://anilist.co/anime/141878",
             "https://anime-planet.com/anime/meng-qi-shi-shen",
@@ -7677,6 +7744,7 @@
             "https://anisearch.com/anime/17510",
             "https://kitsu.io/anime/41250",
             "https://kitsu.io/anime/45720",
+            "https://livechart.me/anime/11331",
             "https://livechart.me/anime/9011",
             "https://myanimelist.net/anime/37618",
             "https://myanimelist.net/anime/51203",
@@ -7730,6 +7798,7 @@
             "https://anilist.co/anime/131650",
             "https://anilist.co/anime/151063",
             "https://anime-planet.com/anime/menghuan-shuyuan-5th-season",
+            "https://anime-planet.com/anime/menghuan-shuyuan-7th-season",
             "https://myanimelist.net/anime/51759"
         ],
         "tags": [
@@ -8669,6 +8738,7 @@
             "gods",
             "gore",
             "historical",
+            "kaiju",
             "language barrier",
             "magic",
             "male protagonist",
@@ -9263,7 +9333,6 @@
             "psychological",
             "reincarnation",
             "religion",
-            "shounen",
             "skeleton",
             "supernatural drama",
             "swordplay",
@@ -10122,6 +10191,7 @@
             "heterosexual",
             "kuudere",
             "large breasts",
+            "lost civilization",
             "magic",
             "medicine",
             "novel",
@@ -11010,8 +11080,9 @@
         "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
         "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
         "synonyms": [
+            "10周年記念アニメーション ETERNITY MEMORIES",
             "CINDERELLA GIRLS 10th Anniversary Celebration Animation ETERNITY MEMORIES",
-            "THE IDOLM@STER CINDERELLA GIRLS 10th Anniversary Celebration Animation ETERNITY MEMORIES",
+            "ETERNITY MEMORIES",
             "THE IDOLM@STER CINDERELLA GIRLS: 10th Anniversary - Celebration Animation: ETERNITY MEMORIES",
             "The iDOLM@STER Cinderella Girls 10th Anniversary Celebration Animation"
         ],
@@ -11365,6 +11436,7 @@
         ],
         "relations": [
             "https://anilist.co/anime/118123",
+            "https://anisearch.com/anime/16354",
             "https://kitsu.io/anime/43740",
             "https://myanimelist.net/anime/44042"
         ],
@@ -11995,12 +12067,16 @@
             "https://notify.moe/anime/rXDB-ovmR"
         ],
         "tags": [
+            "action",
+            "alien",
             "aliens",
+            "deity",
             "happy science",
             "movie",
             "religion",
             "sci fi",
             "sci-fi",
+            "science fiction",
             "space"
         ],
         "date": {
@@ -12061,7 +12137,9 @@
             "Unmei Sensen Liddell-light",
             "運命戦線 リデルライト"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/16757"
+        ],
         "tags": [
             "action",
             "mahou shoujo"
@@ -12295,7 +12373,7 @@
         ],
         "title": "Waccha PriMagi!",
         "type": "tv",
-        "episodes": 40,
+        "episodes": 41,
         "status": "ongoing",
         "picture": "https://cdn.myanimelist.net/images/anime/1522/117595.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1522/117595t.jpg",
@@ -13141,6 +13219,7 @@
             "https://anime-planet.com/anime/yuuki-yuuna-is-a-hero",
             "https://anime-planet.com/anime/yuuki-yuuna-is-a-hero-the-hero-chapter",
             "https://anime-planet.com/anime/yuuki-yuuna-is-a-hero-the-washio-sumi-chapter",
+            "https://anisearch.com/anime/11877",
             "https://kitsu.io/anime/13160",
             "https://livechart.me/anime/2385",
             "https://livechart.me/anime/2386",

@@ -388,6 +388,7 @@
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1370/102722t.jpg",
         "synonyms": [
             "Megohime",
+            "愛姫",
             "愛姫MEGOHIME"
         ],
         "relations": [],
@@ -1172,6 +1173,7 @@
         "relations": [
             "https://anidb.net/anime/13635",
             "https://anilist.co/anime/101594",
+            "https://anisearch.com/anime/13499",
             "https://kitsu.io/anime/41145",
             "https://kitsu.io/anime/5781",
             "https://kitsu.io/anime/9781",
@@ -1361,6 +1363,7 @@
             "https://anilist.co/anime/100723",
             "https://anime-planet.com/anime/my-hero-academia-movie-two-heroes",
             "https://anime-planet.com/anime/my-hero-academia-movie-two-heroes-picture-drama",
+            "https://anisearch.com/anime/13088",
             "https://kitsu.io/anime/14084",
             "https://livechart.me/anime/10100",
             "https://livechart.me/anime/10236",
@@ -1869,7 +1872,7 @@
         "title": "Chikin Ramen x Gudetama",
         "type": "ona",
         "episodes": 3,
-        "status": "ongoing",
+        "status": "finished",
         "picture": "https://cdn.myanimelist.net/images/anime/1309/100393.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/1309/100393t.jpg",
         "synonyms": [
@@ -2326,8 +2329,8 @@
         "type": "movie",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1859/98966.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1859/98966t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1274/113436.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1274/113436t.jpg",
         "synonyms": [
             "Code Geass : Lelouch of the Resurrection",
             "Code Geass Movie: Fukkatsu no Lelouch",
@@ -3382,10 +3385,12 @@
             "drama",
             "fantasy",
             "female protagonist",
+            "future",
             "mecha",
             "military",
             "new",
             "original work",
+            "other planet",
             "politics",
             "psychological drama",
             "real robot",
@@ -3624,6 +3629,7 @@
             "https://anidb.net/anime/11981",
             "https://anilist.co/anime/21685",
             "https://anime-planet.com/anime/eromanga-sensei",
+            "https://anisearch.com/anime/11184",
             "https://kitsu.io/anime/11914",
             "https://livechart.me/anime/2069",
             "https://myanimelist.net/anime/32901",
@@ -4008,6 +4014,7 @@
             "https://anidb.net/anime/11924",
             "https://anilist.co/anime/21643",
             "https://anime-planet.com/anime/the-morose-mononokean",
+            "https://anisearch.com/anime/11161",
             "https://kitsu.io/anime/11826",
             "https://livechart.me/anime/2031",
             "https://myanimelist.net/anime/32696",
@@ -4445,6 +4452,7 @@
             "anti-hero",
             "archery",
             "based on a manga",
+            "boys' love",
             "comedy",
             "crime",
             "ensemble cast",
@@ -4702,6 +4710,7 @@
             "https://anidb.net/anime/715",
             "https://anilist.co/anime/4024",
             "https://anilist.co/anime/80",
+            "https://anisearch.com/anime/3329",
             "https://myanimelist.net/anime/3202",
             "https://myanimelist.net/anime/80"
         ],
@@ -4837,7 +4846,9 @@
         "synonyms": [
             "헬로카봇 미니"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/14858"
+        ],
         "tags": [],
         "date": {
             "season": "winter",
@@ -5906,6 +5917,7 @@
             "https://anilist.co/anime/112641",
             "https://anime-planet.com/anime/kaguya-sama-love-is-war-2",
             "https://anime-planet.com/anime/kaguya-sama-love-is-war-ova",
+            "https://anime-planet.com/anime/kaguya-sama-love-is-war-the-first-kiss-never-ends",
             "https://anime-planet.com/anime/kaguya-sama-love-is-war-ultra-romantic",
             "https://anime-planet.com/anime/kaguya-sama-love-is-war-ultra-romantic-pv-yu-ishigami-wants-to-discuss-it",
             "https://anisearch.com/anime/14692",
@@ -6225,7 +6237,9 @@
             "Karakuri Circus Recap",
             "からくりサーカス 幕間～そしてまた開幕ベル～"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/13459"
+        ],
         "tags": [],
         "date": {
             "season": "winter",
@@ -6273,8 +6287,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/anime/1541/98685.jpg",
-        "thumbnail": "https://cdn.myanimelist.net/images/anime/1541/98685t.jpg",
+        "picture": "https://cdn.myanimelist.net/images/anime/1776/121796.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1776/121796t.jpg",
         "synonyms": [
             "Crying for Rain",
             "Kawaki o Ameku",
@@ -6577,7 +6591,8 @@
             "KING OF PRISM -Shiny Seven Stars-"
         ],
         "relations": [
-            "https://anidb.net/anime/12403"
+            "https://anidb.net/anime/12403",
+            "https://anisearch.com/anime/12104"
         ],
         "tags": [
             "comedy",
@@ -6846,10 +6861,12 @@
             "bodyguards",
             "cg animation",
             "cgi",
+            "cute girls doing cute things",
             "drama",
             "episodic",
             "female protagonist",
             "full cgi",
+            "guns",
             "military",
             "new",
             "original work",
@@ -7689,6 +7706,7 @@
             "androids",
             "body horror",
             "chibi",
+            "child protagonists",
             "curse",
             "dark fantasy",
             "drama",
@@ -7870,6 +7888,7 @@
         "relations": [
             "https://anilist.co/anime/98436",
             "https://anime-planet.com/anime/the-ancient-magus-bride",
+            "https://anisearch.com/anime/12310",
             "https://kitsu.io/anime/13228",
             "https://myanimelist.net/anime/35062"
         ],
@@ -8137,6 +8156,7 @@
             "https://anilist.co/anime/20511",
             "https://anime-planet.com/anime/meiji-tokyo-renka-movie-2-hanakagami-no-fantasia",
             "https://anime-planet.com/anime/meiji-tokyo-renka-movie-yumihari-no-serenade",
+            "https://anisearch.com/anime/9268",
             "https://kitsu.io/anime/12090",
             "https://kitsu.io/anime/8156",
             "https://livechart.me/anime/2140",
@@ -8473,6 +8493,7 @@
             "Mob Psycho One Hundred",
             "Mob Psycho One Hundred 2nd Season",
             "Моб Психо 100 II",
+            "موب سايكو 100 2",
             "ม็อบไซโค 100 คนพลังจิต ภาค 2",
             "モブサイコ100 II",
             "モブサイコ１００ Ⅱ",
@@ -8490,6 +8511,9 @@
             "https://anime-planet.com/anime/mob-psycho-100",
             "https://anime-planet.com/anime/mob-psycho-100-ii-the-first-spirits-and-such-company-trip-a-journey-that-mends-the-heart-and-heals-the-soul",
             "https://anime-planet.com/anime/mob-psycho-100-iii",
+            "https://anisearch.com/anime/11092",
+            "https://anisearch.com/anime/14437",
+            "https://anisearch.com/anime/16661",
             "https://kitsu.io/anime/11578",
             "https://kitsu.io/anime/42416",
             "https://kitsu.io/anime/45338",
@@ -9028,6 +9052,8 @@
         "relations": [
             "https://anidb.net/anime/14027",
             "https://anidb.net/anime/15477",
+            "https://anisearch.com/anime/15572",
+            "https://anisearch.com/anime/15603",
             "https://livechart.me/anime/11096",
             "https://livechart.me/anime/11097",
             "https://livechart.me/anime/11098",
@@ -9455,6 +9481,7 @@
             "Mr. Osomatsu The Movie: Prologue",
             "Mr. Osomatsu the Movie: Commemorative Original Short Theater",
             "Mr. Osomatsu the Movie: Gekijou Koukai Kinen - Original Tanpen Gekijou",
+            "Mr. Osomatsu-san le Film : Prologue Theater",
             "Mr. Osomatsu-san the Movie: Prolog-Theater",
             "Mr. Osomatsu-san the Movie: Prologue Theater",
             "Osomatsu-san Movie Prologue",
@@ -9470,6 +9497,7 @@
             "https://anidb.net/anime/14293",
             "https://anilist.co/anime/104213",
             "https://anime-planet.com/anime/osomatsu-san-the-movie",
+            "https://anisearch.com/anime/13841",
             "https://kitsu.io/anime/41993",
             "https://livechart.me/anime/10058",
             "https://livechart.me/anime/1707",
@@ -9964,7 +9992,9 @@
             "The Exciting Story of Pinkfong and Hogi",
             "핑크퐁과 호기의 신나는 이야기"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/15706"
+        ],
         "tags": [
             "cg-anime"
         ],
@@ -11020,11 +11050,13 @@
             "animal protagonists",
             "animals",
             "anthropomorphic",
+            "based on a webtoon",
             "cats",
             "chinese animation",
             "comedy",
             "historical",
             "kids",
+            "non-human protagonists",
             "short episodes"
         ],
         "date": {
@@ -11067,7 +11099,9 @@
             "런닝맨 2",
             "애니메이션 런닝맨 2"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/14860"
+        ],
         "tags": [
             "adventure",
             "cg-anime"
@@ -11165,6 +11199,7 @@
         "relations": [
             "https://anime-planet.com/anime/san-zhi-songshu",
             "https://anime-planet.com/anime/san-zhi-songshu-songshu-xiao-zhen-2",
+            "https://anisearch.com/anime/14938",
             "https://myanimelist.net/anime/47646",
             "https://myanimelist.net/anime/47648"
         ],
@@ -13273,6 +13308,8 @@
             "我が家のリリアナさん THE ANIMATION"
         ],
         "relations": [
+            "https://anisearch.com/anime/14714",
+            "https://anisearch.com/anime/16252",
             "https://myanimelist.net/anime/40639",
             "https://myanimelist.net/anime/48880"
         ],
@@ -13587,6 +13624,7 @@
             "원더볼즈2"
         ],
         "relations": [
+            "https://anisearch.com/anime/14857",
             "https://myanimelist.net/anime/48303"
         ],
         "tags": [
@@ -13771,6 +13809,7 @@
         "sources": [
             "https://anidb.net/anime/14860",
             "https://anilist.co/anime/107743",
+            "https://anime-planet.com/anime/king-of-jin-in-tang-dynasty",
             "https://anime-planet.com/anime/xie-wang-zhui-qi",
             "https://anisearch.com/anime/14359",
             "https://kitsu.io/anime/42157",
@@ -13949,6 +13988,7 @@
         "relations": [
             "https://anime-planet.com/anime/xiong-chu-mo-xiong-xiong-leyuan-2",
             "https://anime-planet.com/anime/xiong-chu-mo-xiong-xiong-leyuan-3",
+            "https://anisearch.com/anime/15204",
             "https://myanimelist.net/anime/44135",
             "https://myanimelist.net/anime/44137"
         ],
@@ -13999,6 +14039,7 @@
         ],
         "tags": [
             "adventure",
+            "adventure comedy",
             "beastmen",
             "cg-anime",
             "comedy",
@@ -14309,6 +14350,10 @@
             "https://anime-planet.com/anime/saga-of-tanya-the-evil-operation-desert-pasta",
             "https://anime-planet.com/anime/saga-of-tanya-the-evil-war-report",
             "https://anime-planet.com/anime/youjo-shenki",
+            "https://anisearch.com/anime/11175",
+            "https://anisearch.com/anime/14949",
+            "https://anisearch.com/anime/16391",
+            "https://anisearch.com/anime/16392",
             "https://kitsu.io/anime/11794",
             "https://kitsu.io/anime/43374",
             "https://kitsu.io/anime/44778",

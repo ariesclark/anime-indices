@@ -193,6 +193,7 @@
             "comedy",
             "drama",
             "gore",
+            "heterosexual",
             "high school",
             "japan",
             "love triangle",
@@ -885,6 +886,7 @@
             "https://anidb.net/anime/2770",
             "https://anilist.co/anime/4054",
             "https://anime-planet.com/anime/bubu-chacha",
+            "https://anisearch.com/anime/470",
             "https://kitsu.io/anime/3434",
             "https://myanimelist.net/anime/4054",
             "https://notify.moe/anime/cjmucKiig"
@@ -893,6 +895,7 @@
             "adventure",
             "animal protagonists",
             "cars",
+            "child protagonists",
             "comedy",
             "dogs",
             "fantasy",
@@ -1067,6 +1070,7 @@
             "based on a manga",
             "comedy",
             "conspiracy",
+            "cops",
             "crime",
             "crime fiction",
             "detective",
@@ -1368,7 +1372,7 @@
             "artificial intelligence",
             "asia",
             "card battle",
-            "card games",
+            "child protagonists",
             "comedy",
             "contemporary fantasy",
             "cosmic horror",
@@ -1514,9 +1518,9 @@
             "E' L",
             "E'l",
             "El X Humanus",
-            "El: Megaro Earth Project",
             "El: Megaro Earth Project - Sniper Professionelle",
             "Elle",
+            "X Humanus",
             "[el]",
             "[él]",
             "エル"
@@ -2266,6 +2270,7 @@
             "淫獣学園 La☆Blue Girl 復活篇"
         ],
         "relations": [
+            "https://anisearch.com/anime/1886",
             "https://myanimelist.net/anime/1274"
         ],
         "tags": [
@@ -3553,6 +3558,7 @@
             "https://anidb.net/anime/2576",
             "https://anilist.co/anime/1493",
             "https://anime-planet.com/anime/project-arms-the-2nd-chapter",
+            "https://anisearch.com/anime/278",
             "https://kitsu.io/anime/1339",
             "https://kitsu.io/anime/42590",
             "https://livechart.me/anime/7602",
@@ -3563,6 +3569,7 @@
             "action",
             "age regression",
             "aliens",
+            "alternative present",
             "artificial intelligence",
             "asia",
             "based on a manga",
@@ -3639,6 +3646,7 @@
             "R.O.D",
             "R.O.D - READ OR DIE",
             "R.O.D - Read or Die",
+            "R.O.D -READ OR DIE-",
             "R.O.D OVA",
             "R.O.D READ OR DIE",
             "R.O.D リード・オア・ダイ",
@@ -3814,7 +3822,9 @@
             "World Masterpiece Theater Complete Edition: Katri, the Cow Girl",
             "世界名作劇場・完結版 牧場の少女カトリ"
         ],
-        "relations": [],
+        "relations": [
+            "https://anisearch.com/anime/913"
+        ],
         "tags": [
             "adventure",
             "drama",
@@ -3967,8 +3977,8 @@
         "picture": "https://cdn.myanimelist.net/images/anime/9/11709.jpg",
         "thumbnail": "https://cdn.myanimelist.net/images/anime/9/11709t.jpg",
         "synonyms": [
-            "New Snow White's Legend Pretear",
             "New Snow White`s Legend Pretear",
+            "New Snow White’s Legend Pretear",
             "Pretear",
             "Pretear: La leggenda della nuova Biancaneve",
             "Prétear",
@@ -3983,7 +3993,6 @@
         "tags": [
             "action",
             "adventure",
-            "asia",
             "based on a manga",
             "bionic powers",
             "bishounen",
@@ -4255,7 +4264,6 @@
             "Superklinke",
             "Superpunce",
             "gals",
-            "超 Gals！ 寿蘭",
             "超GALS! 寿蘭"
         ],
         "relations": [],
@@ -4570,6 +4578,7 @@
             "https://anime-planet.com/anime/soultaker-tamashii-gari-komugi-daisakusen",
             "https://kitsu.io/anime/3301",
             "https://kitsu.io/anime/570",
+            "https://livechart.me/anime/11279",
             "https://myanimelist.net/anime/3849",
             "https://myanimelist.net/anime/615",
             "https://notify.moe/anime/nB3T5FimR",
@@ -4649,6 +4658,29 @@
             "school girl",
             "threesome",
             "urinating"
+        ],
+        "date": {
+            "season": "spring",
+            "year": 2001
+        }
+    },
+    {
+        "sources": [
+            "https://myanimelist.net/anime/52156"
+        ],
+        "title": "Tou-san Maigo",
+        "type": "ova",
+        "episodes": 6,
+        "status": "finished",
+        "picture": "https://cdn.myanimelist.net/images/anime/1082/124632.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1082/124632t.jpg",
+        "synonyms": [
+            "I Lost My Dad!",
+            "とうさんまいご"
+        ],
+        "relations": [],
+        "tags": [
+            "kids"
         ],
         "date": {
             "season": "spring",
@@ -4901,6 +4933,7 @@
             "https://anidb.net/anime/408",
             "https://anilist.co/anime/1248",
             "https://anime-planet.com/anime/zone-of-the-enders-idolo",
+            "https://anisearch.com/anime/3433",
             "https://kitsu.io/anime/1123",
             "https://livechart.me/anime/6723",
             "https://myanimelist.net/anime/1248",

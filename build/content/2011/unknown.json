@@ -714,6 +714,7 @@
             "Eoli Iyagi",
             "Eori",
             "Eori's Story",
+            "优瑞历险记",
             "어리 이야기"
         ],
         "relations": [],
@@ -2572,8 +2573,8 @@
         "type": "tv",
         "episodes": 12,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1876/125069.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1876/125069t.jpg",
         "synonyms": [
             "闽南谚语典故"
         ],
@@ -2581,7 +2582,7 @@
         "tags": [
             "chinese animation",
             "family friendly",
-            "historical",
+            "fantasy",
             "kids",
             "short episodes"
         ],
@@ -2839,21 +2840,25 @@
     },
     {
         "sources": [
-            "https://anime-planet.com/anime/nonodo-de-shujia"
+            "https://anime-planet.com/anime/nonodo-de-shujia",
+            "https://myanimelist.net/anime/46378"
         ],
         "title": "Nonodo De Shujia",
         "type": "tv",
         "episodes": 60,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/anime/primary/nonodo-de-shujia-1.webp?t=1652831029",
-        "thumbnail": "https://cdn.anime-planet.com/anime/primary/nonodo-de-shujia-1-285x399.webp?t=1652831029",
+        "picture": "https://cdn.myanimelist.net/images/anime/1303/123813.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1303/123813t.jpg",
         "synonyms": [
-            "Nonodo's Summer Holiday"
+            "Nonodo's Summer Holiday",
+            "Nu Nu Duo De Shujia",
+            "努努多的暑假"
         ],
         "relations": [],
         "tags": [
             "chinese animation",
             "family friendly",
+            "kids",
             "short episodes"
         ],
         "date": {
@@ -3094,8 +3099,8 @@
         "type": "special",
         "episodes": 1,
         "status": "finished",
-        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
-        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-spring.png",
+        "picture": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
+        "thumbnail": "https://cdn.anime-planet.com/images/anime/default/default-anime-summer.png",
         "synonyms": [
             "Ojisan no Yasashii Eigo no Uta"
         ],
@@ -4109,16 +4114,18 @@
         "type": "tv",
         "episodes": 26,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1835/123804.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1835/123804t.jpg",
         "synonyms": [
             "小超人队"
         ],
         "relations": [],
         "tags": [
+            "anthropomorphic",
             "chinese animation",
             "family friendly",
-            "fantasy",
+            "kids",
+            "sci-fi",
             "short episodes"
         ],
         "date": {
@@ -4435,23 +4442,22 @@
             "https://anime-planet.com/anime/zhiduo-xingjimu",
             "https://myanimelist.net/anime/46387"
         ],
-        "title": "Zhiduoxing Jimu",
+        "title": "Zhiduo Xingjimu",
         "type": "tv",
         "episodes": 72,
         "status": "finished",
-        "picture": "https://cdn.myanimelist.net/images/qm_50.gif",
-        "thumbnail": "https://cdn.myanimelist.net/images/qm_50.gif",
+        "picture": "https://cdn.myanimelist.net/images/anime/1494/123805.jpg",
+        "thumbnail": "https://cdn.myanimelist.net/images/anime/1494/123805t.jpg",
         "synonyms": [
-            "Zhiduo Xingjimu",
             "智多星吉木"
         ],
         "relations": [],
         "tags": [
-            "adventure",
             "animal protagonists",
             "anthropomorphic",
             "chinese animation",
             "family friendly",
+            "kids",
             "non-human protagonists"
         ],
         "date": {
